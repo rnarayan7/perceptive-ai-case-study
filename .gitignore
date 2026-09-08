@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+
+# Eval results (generated)
+investment-memo/evals/results/
+
+# Ledger + traces (generated)
+investment-memo/data/ledger.db
+investment-memo/data/traces/
+
+.DS_Store

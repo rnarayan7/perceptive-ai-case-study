@@ -1,0 +1,42 @@
+{
+  "fig02_waterfall": {
+    "figure_type": "waterfall",
+    "panels": [
+      {
+        "name": "best_psa_reduction",
+        "bar_color": [49, 82, 126],
+        "tol": 3,
+        "min_run_px": 2,
+        "max_gap_px": 0,
+        "baseline_py": 305,
+        "x_range": [111, 572],
+        "y_range": [216, 477],
+        "y_axis": {
+          "type": "linear",
+          "px1": 179.6,
+          "val1": 75,
+          "px2": 388.5,
+          "val2": -50
+        },
+        "quantities": {
+          "psa50_proportion.ge2mg": {
+            "metric": "proportion_beyond",
+            "threshold": -50,
+            "below": true
+          },
+          "psa90_proportion.ge2mg": {
+            "metric": "proportion_beyond",
+            "threshold": -90,
+            "below": true
+          },
+          "deepest_bar_depth": {
+            "metric": "deepest"
+          },
+          "leftmost_bar_height": {
+            "metric": "leftmost"
+          }
+        }
+      }
+    ]
+  }
+}

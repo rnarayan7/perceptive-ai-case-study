@@ -1,0 +1,66 @@
+{
+  "_note": "Gold values for the six brief figures. Reconciled against recovered public sources (see recovered_values.md). 'verified':true means the value is confirmed by a public source OR read directly from a label/residual guide on the figure itself. 'verified':false means an eyeballed read with no public confirmation (figures 3 and 4 name real programs but the specific numbers appear synthetic; some waterfall bar reads are not separately published). For figure 5 (a full table shown as a raster), gold is WHAT THE TABLE SHOWS, since the task is reading the figure; where that conflicts with later disclosure it is noted. quantity_key must match evaluation/keys.py.",
+  "fig01_km": {
+    "figure_type": "kaplan_meier",
+    "image": "assets/figures/01_kaplan_meier.png",
+    "truths": {
+      "median_pfs.ozekibart":   {"value": "5.52 months", "unit": "months", "verified": true, "source": "Inhibrx topline PR 23 Oct 2025 (NCT04950075); matches residual guide line"},
+      "median_pfs.placebo":     {"value": "2.66 months", "unit": "months", "verified": true, "source": "Inhibrx topline PR 23 Oct 2025; matches residual guide line"},
+      "pfs_6mo.ozekibart":      {"value": "0.47", "unit": "probability", "verified": false, "source": "eyeball read; 6-month landmark not publicly disclosed"},
+      "pfs_6mo.placebo":        {"value": "0.19", "unit": "probability", "verified": false, "source": "eyeball read; not publicly disclosed"}
+    }
+  },
+  "fig02_waterfall": {
+    "figure_type": "waterfall",
+    "image": "assets/figures/02_waterfall.png",
+    "truths": {
+      "psa50_proportion.ge2mg":        {"value": "73% (62/85)", "verified": true, "source": "Janux PR 1 Dec 2025; numerator inferred from 73% of n=85"},
+      "psa90_proportion.ge2mg":        {"value": "26% (22/85)", "verified": true, "source": "Janux PR 1 Dec 2025; numerator inferred from 26% of n=85 (my eyeball read of 10% was well off)"},
+      "deepest_bar_depth":             {"value": "-97%", "unit": "percent", "verified": false, "source": "eyeball; individual bar depth not published"},
+      "leftmost_bar_height":           {"value": "62%", "unit": "percent", "verified": false, "source": "eyeball; individual bar not published"},
+      "recist_n_plotted":              {"value": "27", "unit": "count", "verified": true, "source": "Janux PR: RECIST-evaluable n=27 at >=2mg"},
+      "recist_beyond_30_proportion":   {"value": "30% (8/27)", "verified": true, "source": "Janux PR: ORR 30% (8/27) RECIST-evaluable"}
+    }
+  },
+  "fig03_pk": {
+    "figure_type": "pk_logscale",
+    "image": "assets/figures/03_pk_logscale.png",
+    "truths": {
+      "concentration_day14.dose_003": {"value": "0.25 nM", "unit": "nM", "verified": false, "source": "eyeball on log axis; dose-level PK not publicly recoverable (likely synthetic)"},
+      "threshold_concentration":      {"value": "0.02 nM", "unit": "nM", "verified": true, "source": "read from the figure's own label '20 pM MTD'"},
+      "fold_multiple.dose_03_peak":   {"value": "6000x", "unit": "x", "verified": false, "source": "derived from eyeball peak; not publicly recoverable (likely synthetic)"},
+      "crossing_1nM_interval.dose_003": {"value": "day4, day7", "verified": true, "source": "bracketed between sampled points on the figure"}
+    }
+  },
+  "fig04_forest": {
+    "figure_type": "forest",
+    "image": "assets/figures/04_forest_plot.png",
+    "truths": {
+      "hazard_ratio.idh_wildtype": {"value": "0.50 (95% CI 0.33-0.72)", "verified": false, "source": "eyeball; per-subgroup HRs not published (only 'consistent across subgroups') - likely synthetic"},
+      "hazard_ratio.ecog_ps_0":    {"value": "0.45 (95% CI 0.28-0.70)", "verified": false, "source": "eyeball; not published - likely synthetic"},
+      "crosses_one.set":           {"value": "Nonmetastatic unresectable, Age over 65, BMI over 30", "verified": false, "source": "eyeball read of whisker ends"}
+    }
+  },
+  "fig05_table": {
+    "figure_type": "table",
+    "image": "assets/figures/05_raster_table.png",
+    "truths": {
+      "cr_12mo.bond003_cohortC": {"value": "46.4% (51/110)", "verified": true, "source": "table transcription; confirmed by Lancet Oncology / AUA 2025"},
+      "cr_12mo.sunrise1":        {"value": "45.9% (39/83)", "verified": true, "source": "table transcription (K-M estimate shown in figure)"},
+      "dor_24mo.quilt3032":      {"value": "40%", "unit": "percent", "verified": true, "source": "table transcription. NOTE: conflicts with later published 53.2% - a conflicting-disclosure case; gold is what the figure shows"},
+      "grade3_trae.tar200":      {"value": "13%", "unit": "percent", "verified": true, "source": "table transcription; published 12.9%, rounds to figure's 13%"},
+      "nct02773849_denominator_reason": {"value": "CR at any time is over the evaluable population (98); CR at 12 months uses a larger landmark/K-M at-risk set (103). Verify against the source footnote.", "verified": false},
+      "multi_estimator.sunrise1_dor12mo": {"value": "Observed 52.9% and K-M 56.2%; the K-M estimate is comparable across columns.", "verified": true, "source": "table transcription"}
+    }
+  },
+  "fig06_spider": {
+    "figure_type": "spider",
+    "image": "assets/figures/06_spider_plot.png",
+    "truths": {
+      "implied_pfs_6mo":     {"value": "0.80", "unit": "probability", "verified": false, "source": "derived; median follow-up only 5.3mo so 6-month PFS not directly published"},
+      "implied_median_pfs":  {"value": "not reached", "verified": true, "source": "Immatics ASCO 2026: median PFS not reached, matches the implied read"},
+      "conversion_rule":     {"value": "Event = trajectory crossing the +20% PD line or a documented new-lesion/clinical progression; censor at last assessment for ongoing markers; a marginal-above-baseline-but-below-+20% trajectory is censored, not an event.", "verified": false},
+      "median_range":        {"value": "9 months to not reached", "verified": false}
+    }
+  }
+}
