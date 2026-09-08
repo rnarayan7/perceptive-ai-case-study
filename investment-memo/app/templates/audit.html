@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Audit — {{ memo.company }}{% endblock %}
+{% block crumb %}
+  <div class="crumb">
+    <a href="{{ url_for('index') }}">All memos</a> /
+    <a href="{{ url_for('memo_view', memo_id=memo.memo_id) }}">{{ memo.company }} memo</a> / Audit
+  </div>
+{% endblock %}
+{% block body %}
+  <h1>Claim audit</h1>
+  <p class="muted">Tracing one citation back to the evidence it rests on, from the ledger.</p>
+
+  <h2>The claim</h2>
+  <p><strong>{{ claim.statement }}</strong></p>
+  <div class="kv">
+    <div><span class="k">Module</span><span>{{ claim.module }}</span></div>
+    <div><span class="k">Section</span><span>{{ claim.section }}</span></div>
+    <div><span class="k">Confidence</span><span>{{ "%.2f"|format(claim.confidence) }}</span></div>
+    {% if claim.value %}<div><span class="k">Value</span><span>{{ claim.value }}</span></div>{% endif %}
+    {% if claim.rationale %}<div><span class="k">Rationale</span><span>{{ claim.rationale }}</span></div>{% endif %}
+  </div>
+
+  <h2>The evidence</h2>
+  <div class="quote">“{{ evidence.quote }}”</div>
+  <div class="kv">
+    <div><span class="k">Source</span><span>{{ evidence.source }}</span></div>
+    <div><span class="k">Doc type</span><span>{{ evidence.doc_type }}</span></div>
+    {% if evidence.doc_id %}<div><span class="k">Document</span><span>{{ evidence.doc_id }}</span></div>{% endif %}
+    {% if evidence.date %}<div><span class="k">Date</span><span>{{ evidence.date }}</span></div>{% endif %}
+    <div><span class="k">Evidence ID</span><span><code>{{ evidence.evidence_id }}</code></span></div>
+  </div>
+  {% if evidence.url %}
+    <div class="actions"><a class="btn" href="{{ evidence.url }}" target="_blank" rel="noopener">Open source ↗</a></div>
+  {% endif %}
+{% endblock %}

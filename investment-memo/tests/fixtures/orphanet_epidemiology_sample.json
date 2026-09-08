@@ -1,0 +1,193 @@
+{
+ "orphacodes_list": {
+  "data": {
+   "__count": 4,
+   "__licence": {
+    "identifier": "CC-BY-4.0",
+    "link": "https://creativecommons.org/licenses/by/4.0",
+    "name": "Creative Commons Attribution 4.0 International"
+   },
+   "results": [
+    {
+     "ORPHAcode": 589,
+     "Preferred term": "Myasthenia gravis"
+    },
+    {
+     "ORPHAcode": 2467,
+     "Preferred term": "Systemic mastocytosis"
+    },
+    {
+     "ORPHAcode": 2932,
+     "Preferred term": "Chronic inflammatory demyelinating polyneuropathy"
+    },
+    {
+     "ORPHAcode": 44890,
+     "Preferred term": "Gastrointestinal stromal tumor"
+    }
+   ]
+  },
+  "datasetCategory": {
+   "lang": "en",
+   "name": "Epidemiology of rare diseases"
+  },
+  "parameters": {
+   "path": {},
+   "query": {}
+  },
+  "uri": "https://api.orphadata.com/rd-epidemiology/orphacodes"
+ },
+ "by_orphacode": {
+  "2467": {
+   "data": {
+    "__count": 1,
+    "__licence": {
+     "identifier": "CC-BY-4.0",
+     "link": "https://creativecommons.org/licenses/by/4.0",
+     "name": "Creative Commons Attribution 4.0 International"
+    },
+    "results": {
+     "Date": "2026-06-23 07:57:58",
+     "DisorderGroup": "Group of disorders",
+     "ORPHAcode": 2467,
+     "OrphanetURL": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+     "Preferred term": "Systemic mastocytosis",
+     "Prevalence": [
+      {
+       "PrevalenceClass": "1-9 / 1 000 000",
+       "PrevalenceGeographic": "Italy",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Annual incidence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "8645532[PMID]",
+       "ValMoy": "0.3"
+      },
+      {
+       "PrevalenceClass": "1-5 / 10 000",
+       "PrevalenceGeographic": "Worldwide",
+       "PrevalenceQualification": "Class only",
+       "PrevalenceType": "Point prevalence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "[EXPERT]_ORPHANET",
+       "ValMoy": "0.0"
+      },
+      {
+       "PrevalenceClass": "1-9 / 1 000 000",
+       "PrevalenceGeographic": "Denmark",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Annual incidence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "24761987[PMID]",
+       "ValMoy": "0.9"
+      },
+      {
+       "PrevalenceClass": "1-9 / 100 000",
+       "PrevalenceGeographic": "Denmark",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Point prevalence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "24761987[PMID]",
+       "ValMoy": "9.6"
+      },
+      {
+       "PrevalenceClass": "1-9 / 1 000 000",
+       "PrevalenceGeographic": "Europe",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Annual incidence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "24761987[PMID]_8645532[PMID]",
+       "ValMoy": "0.6"
+      },
+      {
+       "PrevalenceClass": "1-5 / 10 000",
+       "PrevalenceGeographic": "Netherlands",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Point prevalence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "23219169[PMID]",
+       "ValMoy": "13.0"
+      },
+      {
+       "PrevalenceClass": "1-5 / 10 000",
+       "PrevalenceGeographic": "Europe",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Point prevalence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "23219169[PMID]_24761987[PMID]",
+       "ValMoy": "11.3"
+      }
+     ],
+     "Typology": "Clinical group"
+    }
+   },
+   "datasetCategory": {
+    "lang": "en",
+    "name": "Epidemiology of rare diseases"
+   },
+   "parameters": {
+    "path": {
+     "ORPHAcode": 2467
+    },
+    "query": {}
+   },
+   "uri": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467"
+  },
+  "589": {
+   "data": {
+    "__count": 1,
+    "__licence": {
+     "identifier": "CC-BY-4.0",
+     "link": "https://creativecommons.org/licenses/by/4.0",
+     "name": "Creative Commons Attribution 4.0 International"
+    },
+    "results": {
+     "Date": "2026-06-23 07:57:58",
+     "DisorderGroup": "Disorder",
+     "ORPHAcode": 589,
+     "OrphanetURL": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+     "Preferred term": "Myasthenia gravis",
+     "Prevalence": [
+      {
+       "PrevalenceClass": "1-9 / 1 000 000",
+       "PrevalenceGeographic": "United States",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Annual incidence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "8909435[PMID]",
+       "ValMoy": "0.9"
+      },
+      {
+       "PrevalenceClass": "1-9 / 100 000",
+       "PrevalenceGeographic": "Europe",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Annual incidence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "20130418[PMID]_[EXPERT]_ ORPHANET",
+       "ValMoy": "1.7"
+      },
+      {
+       "PrevalenceClass": "1-5 / 10 000",
+       "PrevalenceGeographic": "Europe",
+       "PrevalenceQualification": "Value and class",
+       "PrevalenceType": "Point prevalence",
+       "PrevalenceValidationStatus": "Validated",
+       "Source": "17986328[PMID]_[EXPERT]_European Medicines Agency 2018[OTHER]",
+       "ValMoy": "20.0"
+      }
+     ],
+     "Typology": "Disease"
+    }
+   },
+   "datasetCategory": {
+    "lang": "en",
+    "name": "Epidemiology of rare diseases"
+   },
+   "parameters": {
+    "path": {
+     "ORPHAcode": 589
+    },
+    "query": {}
+   },
+   "uri": "https://api.orphadata.com/rd-epidemiology/orphacodes/589"
+  }
+ }
+}

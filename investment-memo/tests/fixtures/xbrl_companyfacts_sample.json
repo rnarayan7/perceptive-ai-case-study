@@ -1,0 +1,188 @@
+{
+  "us_gaap": {
+    "cik": 111,
+    "entityName": "Testco Therapeutics, Inc.",
+    "facts": {
+      "dei": {
+        "EntityCommonStockSharesOutstanding": {
+          "units": {
+            "shares": [
+              {
+                "end": "2025-07-31",
+                "val": 50000000,
+                "accn": "0000-25-000001",
+                "form": "10-Q",
+                "filed": "2025-08-05"
+              },
+              {
+                "end": "2026-07-31",
+                "val": 60000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            ]
+          }
+        }
+      },
+      "us-gaap": {
+        "CashAndCashEquivalentsAtCarryingValue": {
+          "units": {
+            "USD": [
+              {
+                "end": "2025-12-31",
+                "val": 300000000,
+                "accn": "0000-26-000001",
+                "form": "10-K",
+                "filed": "2026-02-20",
+                "fy": 2025,
+                "fp": "FY"
+              },
+              {
+                "end": "2026-06-30",
+                "val": 412000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05",
+                "fy": 2026,
+                "fp": "Q2",
+                "frame": "CY2026Q2I"
+              }
+            ]
+          }
+        },
+        "MarketableSecuritiesCurrent": {
+          "units": {
+            "USD": [
+              {
+                "end": "2026-06-30",
+                "val": 88000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05",
+                "fy": 2026,
+                "fp": "Q2"
+              }
+            ]
+          }
+        },
+        "Liabilities": {
+          "units": {
+            "USD": [
+              {
+                "end": "2026-06-30",
+                "val": 95000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05"
+              }
+            ]
+          }
+        },
+        "ResearchAndDevelopmentExpense": {
+          "units": {
+            "USD": [
+              {
+                "start": "2026-04-01",
+                "end": "2026-06-30",
+                "val": 40000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05",
+                "fp": "Q2"
+              },
+              {
+                "start": "2026-01-01",
+                "end": "2026-06-30",
+                "val": 78000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05",
+                "fp": "Q2"
+              }
+            ]
+          }
+        },
+        "NetIncomeLoss": {
+          "units": {
+            "USD": [
+              {
+                "start": "2026-01-01",
+                "end": "2026-06-30",
+                "val": -61000000,
+                "accn": "0000-26-000002",
+                "form": "10-Q",
+                "filed": "2026-08-05",
+                "fp": "Q2"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "ifrs_eur": {
+    "cik": 222,
+    "entityName": "Abifake S.A.",
+    "facts": {
+      "dei": {
+        "EntityCommonStockSharesOutstanding": {
+          "units": {
+            "shares": [
+              {
+                "end": "2026-06-30",
+                "val": 51000000,
+                "accn": "0000-26-000009",
+                "form": "20-F",
+                "filed": "2026-07-01"
+              }
+            ]
+          }
+        }
+      },
+      "ifrs-full": {
+        "CashAndCashEquivalents": {
+          "units": {
+            "EUR": [
+              {
+                "end": "2025-12-31",
+                "val": 250000000,
+                "accn": "0000-26-000009",
+                "form": "20-F",
+                "filed": "2026-03-15"
+              }
+            ]
+          }
+        },
+        "ResearchAndDevelopmentExpense": {
+          "units": {
+            "EUR": [
+              {
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "val": 90000000,
+                "accn": "0000-26-000009",
+                "form": "20-F",
+                "filed": "2026-03-15"
+              }
+            ]
+          }
+        },
+        "ProfitLoss": {
+          "units": {
+            "EUR": [
+              {
+                "start": "2025-01-01",
+                "end": "2025-12-31",
+                "val": -85000000,
+                "accn": "0000-26-000009",
+                "form": "20-F",
+                "filed": "2026-03-15"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

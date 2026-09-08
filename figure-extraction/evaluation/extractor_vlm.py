@@ -79,7 +79,7 @@ class VlmExtractor:
         samples: List[Dict[str, dict]] = []
         for _ in range(self.samples):
             reply = self.client.complete(prompt, image=image, media_type=media_type,
-                                         max_tokens=1500)
+                                         max_tokens=8000)  # room for thinking + JSON; 1500 truncated
             samples.append(self._parse_sample(reply))
 
         return self._assemble(figure, specs, samples)

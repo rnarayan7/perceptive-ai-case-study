@@ -1,0 +1,159 @@
+{
+  "company": "PRAX",
+  "eval_type": "retrieval",
+  "note": "DRAFT retrieval gold set for PRAX, pending human verification. Cases were authored from the ingested corpus (clinicaltrials + edgar) but the query wording and relevance judgments have NOT yet been reviewed by a human. Gold references the STABLE base id and the retrieval eval matches by doc family (exact id, or a section id starting with '<base>-'), so gold survives re-ingestion. Trial base ids are NCT ids; filing base ids are the dash-stripped EDGAR accession, which matches any per-section id like '<accession>-item1a'.",
+  "cases": [
+    {
+      "id": "prax114-mdd",
+      "query": "clinical trial of PRAX-114 in major depressive disorder",
+      "relevant_doc_ids": [
+        "NCT04832425"
+      ]
+    },
+    {
+      "id": "prax114-ptsd",
+      "query": "PRAX-114 in participants with post-traumatic stress disorder",
+      "relevant_doc_ids": [
+        "NCT05260541"
+      ]
+    },
+    {
+      "id": "prax944-two-doses-et",
+      "query": "phase 2 trial of two doses of PRAX-944 in essential tremor",
+      "relevant_doc_ids": [
+        "NCT05021991"
+      ],
+      "note": "Distinguish from the earlier single-arm PRAX-944 essential tremor study (NCT05021978) and the phase 3 ulixacaltamide study (NCT06087276)."
+    },
+    {
+      "id": "ulixacaltamide-essential3-phase3",
+      "query": "Essential3 phase 3 study of ulixacaltamide in essential tremor",
+      "relevant_doc_ids": [
+        "NCT06087276"
+      ]
+    },
+    {
+      "id": "prax222-scn2a-dee",
+      "query": "PRAX-222 in pediatric participants with early-onset SCN2A developmental and epileptic encephalopathy",
+      "relevant_doc_ids": [
+        "NCT05737784"
+      ]
+    },
+    {
+      "id": "elsunersen-scn2a-phase3",
+      "query": "phase 3 trial of elsunersen in pediatric SCN2A-DEE",
+      "relevant_doc_ids": [
+        "NCT07019922"
+      ]
+    },
+    {
+      "id": "relutrigine-dee-phase3",
+      "query": "phase 3 study of relutrigine in developmental and epileptic encephalopathy",
+      "relevant_doc_ids": [
+        "NCT07010471"
+      ],
+      "note": "Relutrigine (PRAX-562) phase 3 DEE; distinguish from the earlier PRAX-562 phase 2/3 DEE study (NCT05818553)."
+    },
+    {
+      "id": "prax628-bioavailability-phase1",
+      "query": "phase 1 relative bioavailability trial of PRAX-628 in healthy adults",
+      "relevant_doc_ids": [
+        "NCT06840925"
+      ]
+    },
+    {
+      "id": "prax628-power1-focal",
+      "query": "POWER1 randomized trial of PRAX-628 in adults with focal seizures",
+      "relevant_doc_ids": [
+        "NCT06999902"
+      ]
+    },
+    {
+      "id": "vormatrigine-focal-phase3",
+      "query": "phase 3 randomized trial of vormatrigine in adults with focal seizures",
+      "relevant_doc_ids": [
+        "NCT07505004"
+      ],
+      "note": "Vormatrigine (PRAX-628) focal-seizure phase 3; distinguish from the broader vormatrigine epilepsy phase 3 study (NCT07287163)."
+    },
+    {
+      "id": "prax-cash-position-10q",
+      "query": "cash and cash equivalents reported in the Praxis quarterly report",
+      "relevant_doc_ids": [
+        "000168954826000083"
+      ],
+      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet."
+    },
+    {
+      "id": "prax-going-concern-10q",
+      "query": "going concern discussion in the Praxis quarterly report",
+      "relevant_doc_ids": [
+        "000168954826000083"
+      ],
+      "note": "Same Aug 2026 10-Q; verified 'going concern' appears in its ingested text."
+    },
+    {
+      "id": "hard-prax944-ttype-2doses-distractor",
+      "query": "T-type calcium channel blocker two-part study titrated to 120 mg in adults with essential tremor",
+      "relevant_doc_ids": [
+        "NCT05021991"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor+paraphrase: PRAX-944 described by mechanism; two PRAX-944 essential-tremor trials exist (single-arm NCT05021978 and this 2-dose study). The sibling and a pubmed doc outrank the target (observed rank ~5)."
+    },
+    {
+      "id": "hard-prax222-antisense-scn2a-distractor",
+      "query": "antisense oligonucleotide for children with early onset SCN2A epileptic encephalopathy",
+      "relevant_doc_ids": [
+        "NCT05737784"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: the PRAX-222/elsunersen antisense program has a phase 1/2 pediatric study (target) and a phase 3 (elsunersen, NCT07019922); the phase 3 tends to outrank (observed rank ~2)."
+    },
+    {
+      "id": "hard-prax114-mdd-adjunctive-distractor",
+      "query": "adjunctive and monotherapy study of PRAX-114 in adults with major depressive disorder",
+      "relevant_doc_ids": [
+        "NCT04969510"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: two PRAX-114 MDD trials; must resolve to the adjunctive/monotherapy study, not NCT04832425."
+    },
+    {
+      "id": "hard-prax628-nav16-focal-paraphrase",
+      "query": "double blind randomized study of a Nav1.6 preferring sodium channel blocker in adults with focal seizures",
+      "relevant_doc_ids": [
+        "NCT06999902"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: PRAX-628 (vormatrigine) POWER1 described by mechanism; no drug code."
+    },
+    {
+      "id": "hard-prax628-focal-both-multihop",
+      "query": "both PRAX-628 focal seizure trials the open label study and the double blind POWER1 study",
+      "relevant_doc_ids": [
+        "NCT06908356",
+        "NCT06999902"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer spans the two PRAX-628 focal-seizure trials; tests recall."
+    },
+    {
+      "id": "hard-prax114-tremor-crossover-distractor",
+      "query": "PRAX-114 crossover study in participants with essential tremor",
+      "relevant_doc_ids": [
+        "NCT05387642"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: PRAX-114 was studied in MDD, PTSD and essential tremor; must resolve to the essential-tremor crossover study."
+    },
+    {
+      "id": "neg-cart",
+      "query": "CAR-T cell therapy manufacturing for solid tumors",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    },
+    {
+      "id": "neg-glp1",
+      "query": "GLP-1 receptor agonist for type 2 diabetes",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    }
+  ]
+}
