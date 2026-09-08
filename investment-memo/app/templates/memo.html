@@ -7,7 +7,7 @@
 
   <div class="lead">
     <div class="rec">Recommendation</div>
-    <div><span class="pill">{{ memo.recommendation or "—" }}</span></div>
+    <p class="recommendation">{{ memo.recommendation or "—" }}</p>
     {% if memo.thesis %}<p class="thesis">{{ memo.thesis }}</p>{% endif %}
   </div>
 
@@ -26,10 +26,12 @@
     {% endfor %}
 
     {% for fig in sec.figures %}
+      {% if fig.image_url %}
       <figure>
-        <img src="{{ fig.image_ref }}" alt="{{ fig.caption }}">
+        <img src="{{ fig.image_url }}" alt="{{ fig.caption }}">
         <figcaption>{{ fig.caption }}</figcaption>
       </figure>
+      {% endif %}
     {% endfor %}
 
     {% if sec.citations %}

@@ -274,16 +274,25 @@ def _run_faithfulness_eval(company, module_name, judge_model, data_root):
     from memo.analysis import AnalysisContext, AnthropicModelClient
     from memo.eval import FaithfulnessEvaluator
     from memo.ingestion.base import Storage
+    from memo.trace import RunSession
 
     storage = Storage(root=data_root)
+    # One session over both the generator and the judge, so the run's tokens (and the
+    # approximate dollar figure) cover the whole eval, not just generation.
+    session = RunSession()
     generator = AnthropicModelClient()
+    generator.session = session
+    session.model = generator.model
     context = AnalysisContext.for_company(company, model=generator, storage=storage)
     analysis = ANALYSIS_REGISTRY[module_name]().analyze(context)
     click.echo(f"generated {len(analysis.claims)} {module_name} claims "
                f"(analysis tokens: {analysis.usage})")
 
     judge = AnthropicModelClient(model=judge_model) if judge_model else AnthropicModelClient()
-    return FaithfulnessEvaluator(analysis, judge).run()
+    judge.session = session
+    report = FaithfulnessEvaluator(analysis, judge).run()
+    click.echo(session.summary())
+    return report
 
 
 def _run_memo_eval(company, judge_model, data_root, save) -> None:
@@ -415,14 +424,16 @@ def compose(company, model, data_root, markdown) -> None:
     from memo.compose import compose_memo, render_markdown_for
     from memo.ledger import LedgerStore
     from memo.ingestion.base import Storage
-    from memo.trace import JsonlTracer
+    from memo.trace import JsonlTracer, RunSession
 
     storage = Storage(root=data_root)
     ledger = LedgerStore(db_path=str(Path(data_root) / "ledger.db"))
     tracer = JsonlTracer(root=str(Path(data_root) / "traces"))
     client = AnthropicModelClient(model=model) if model else AnthropicModelClient()
+    session = RunSession()
 
-    memo_id = compose_memo(company, client, storage=storage, ledger=ledger, tracer=tracer)
+    memo_id = compose_memo(company, client, storage=storage, ledger=ledger,
+                           tracer=tracer, session=session)
 
     memo = ledger.get_memo(memo_id)
     claims = ledger.get_claims(memo_id)
@@ -435,6 +446,7 @@ def compose(company, model, data_root, markdown) -> None:
     click.echo(f"artifact:       {data_root}/memos/{memo_id}.json")
     click.echo(f"ledger:         {data_root}/ledger.db")
     click.echo(f"trace:          {data_root}/traces/{memo_id}.jsonl")
+    click.echo(session.summary())
     if memo and memo.notes:
         click.echo(f"notes:          {memo.notes}")
     if markdown:

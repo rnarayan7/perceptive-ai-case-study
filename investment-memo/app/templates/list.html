@@ -12,7 +12,7 @@
       {% for m in memos %}
       <tr>
         <td><a href="{{ url_for('memo_view', memo_id=m.memo_id) }}"><strong>{{ m.company }}</strong></a></td>
-        <td>{% if m.recommendation %}<span class="pill">{{ m.recommendation }}</span>{% else %}<span class="muted">—</span>{% endif %}</td>
+        <td class="rec-cell">{% if m.recommendation %}{{ m.recommendation }}{% else %}<span class="muted">—</span>{% endif %}</td>
         <td><span class="pill status">{{ m.status }}</span></td>
         <td class="muted">{{ m.created_at[:10] }}</td>
         <td class="muted"><code>{{ m.memo_id }}</code></td>

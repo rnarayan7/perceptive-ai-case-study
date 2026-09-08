@@ -55,6 +55,56 @@ _PARAM_NAMES = [name for name, _, _ in _PARAM_SPECS]
 _DEFAULTS = {name: default for name, default, _ in _PARAM_SPECS}
 _UNITS = {name: unit for name, _, unit in _PARAM_SPECS}
 
+# Basis labeling: every parameter carries the BASIS its number rests on, so a reader sees
+# whether it is a real anchor or a guess. tier is one of:
+#   grounded  - a directly sourced figure (net price, a real prevalence series)
+#   proxy     - a related stand-in (a generic price floor as a lower bound, a proxy
+#               indication's prevalence) that is sourced but not the exact quantity
+#   assumption- no supporting evidence in the corpus
+# The label names the specific basis; the source of a parameter's cited evidence decides
+# its tier via _SOURCE_BASIS.
+_SOURCE_BASIS: Dict[str, Tuple[str, str]] = {
+    "asp": ("Medicare Part B ASP net price", "grounded"),
+    "cms": ("CMS Part D net price", "grounded"),
+    "nadac": ("NADAC generic price floor (lower bound)", "proxy"),
+    "orphanet": ("Orphanet rare-disease prevalence", "grounded"),
+    "cdc": ("CDC prevalence (proxy indication)", "proxy"),
+    "pubmed": ("published literature", "grounded"),
+    "preprints": ("preprint literature", "proxy"),
+    "clinicaltrials": ("trial disclosure", "grounded"),
+    "edgar": ("company SEC disclosure", "grounded"),
+    "xbrl": ("company XBRL financials", "grounded"),
+    "openfda": ("FDA label / approval", "grounded"),
+    "pubchem": ("PubChem chemistry", "grounded"),
+}
+_ASSUMPTION_BASIS = ("not in corpus", "assumption")
+_TIER_RANK = {"grounded": 2, "proxy": 1, "assumption": 0}
+
+# Source precedence for a comparator net-price anchor: a Part B ASP net price beats a
+# Part D near-net price, which beats a generic acquisition-cost floor.
+_PRICE_SOURCE_RANK = {"asp": 3, "cms": 2, "nadac": 1}
+
+
+def _basis_from_evidence(evidence: List[Evidence]) -> Tuple[str, str]:
+    """Label a parameter by the best-tier source among its cited evidence.
+
+    Returns ``(basis_label, tier)``. With no evidence the parameter is an assumption.
+    When evidence spans several sources the highest tier wins (a grounded figure beats a
+    proxy), and that source's basis label is used. An unrecognized source is treated as a
+    proxy so an unknown origin never reads as fully grounded.
+    """
+    best: Optional[Tuple[str, str]] = None
+    for ev in evidence:
+        basis = _SOURCE_BASIS.get(ev.source, (ev.source or "unknown source", "proxy"))
+        if best is None or _TIER_RANK[basis[1]] > _TIER_RANK[best[1]]:
+            best = basis
+    return best or _ASSUMPTION_BASIS
+
+
+def _basis_tag(basis_label: str, tier: str) -> str:
+    """Render a basis label for a claim statement, e.g. ``[basis: CDC prevalence, proxy]``."""
+    return f"[basis: {basis_label}, {tier}]"
+
 
 def estimate_peak_sales(
     params: Dict[str, float],
@@ -211,10 +261,11 @@ class PeakSalesModule(AnalysisModule):
         user = self._build_prompt(context.company, labeled)
         response = context.model.complete_json(_SYSTEM, user, _SCHEMA)
 
-        # Comparator prices arrive already structured; prefer them over the model's
-        # assumed net price. Empty today for KYMR (no comparator prices ingested yet),
-        # in which case _to_result falls back to the model-assumed parameter.
-        price_records = list(context.structured.prices())
+        # Comparator prices arrive already structured; the best-basis one anchors the
+        # net-price reference (ASP net > CMS near-net > NADAC generic floor). Any source
+        # may be empty for a given company, in which case the pool is just the others.
+        price_records = list(context.structured.asp_prices())
+        price_records.extend(context.structured.prices())
         price_records.extend(context.structured.acquisition_costs())
         return self._to_result(context.company, response, labeled, price_records)
 
@@ -248,6 +299,20 @@ class PeakSalesModule(AnalysisModule):
         # Only positive, real prices can ground the net-price input; anything else falls
         # back to the model-assumed parameter (the common case until comparators exist).
         groundable_prices = [r for r in (price_records or []) if r.price_per_unit > 0]
+
+        # Even while annualized grounding is disabled, surface the best comparator anchor
+        # and its basis so the lower-bound-vs-net distinction is visible: a NADAC generic
+        # floor is a lower bound, a CMS/ASP figure is a net-price reference. The per-unit
+        # price is not annualized into the value (that needs a dosing schedule).
+        if groundable_prices and not _GROUND_NET_PRICE_ON_PER_UNIT:
+            ref = self._best_price_record(groundable_prices)
+            ref_basis, ref_tier = _SOURCE_BASIS.get(ref.source, (ref.source, "proxy"))
+            kind = "lower-bound floor" if ref_tier == "proxy" else "net-price reference"
+            notes.append(
+                f"comparator {kind} available: {ref_basis} for {ref.drug} "
+                f"${ref.price_per_unit:,.5g} per {ref.unit} ({ref.source}); annual_net_price "
+                "left assumed pending a dosing schedule (per-unit price not annualized)"
+            )
 
         # Index the model's parameters by name (last one wins on duplicates).
         raw_by_name: Dict[str, Dict[str, Any]] = {}
@@ -288,7 +353,10 @@ class PeakSalesModule(AnalysisModule):
                 )
                 claims.append(
                     Claim(
-                        statement=f"{name} = {value} {_UNITS[name]} (ASSUMED, not in corpus)",
+                        statement=(
+                            f"{name} = {value} {_UNITS[name]} (ASSUMED, not in corpus) "
+                            f"{_basis_tag(*_ASSUMPTION_BASIS)}"
+                        ),
                         confidence=0.1,
                         rationale=(
                             "No parameter returned by the model; using a conservative "
@@ -320,10 +388,13 @@ class PeakSalesModule(AnalysisModule):
                     )
 
             all_evidence.extend(evidence)
+            # The basis reflects the source the parameter actually rests on; with no
+            # evidence it is an assumption regardless of what the model claimed.
+            basis_label, tier = _basis_from_evidence(evidence)
             flag = " (ASSUMED)" if assumed else ""
             claims.append(
                 Claim(
-                    statement=f"{name} = {value} {unit}{flag}",
+                    statement=f"{name} = {value} {unit}{flag} {_basis_tag(basis_label, tier)}",
                     confidence=float(raw.get("confidence", 0.0)),
                     rationale=raw.get("rationale", ""),
                     evidence=evidence,
@@ -422,8 +493,12 @@ class PeakSalesModule(AnalysisModule):
             "explicit assumption (no grounded dosing schedule); the per-unit price is "
             "cited, the annual conversion is not."
         )
+        net_basis, net_tier = _SOURCE_BASIS.get(record.source, (record.source, "proxy"))
         claim = Claim(
-            statement=f"annual_net_price = {value} {unit} (GROUNDED on {record.source} price)",
+            statement=(
+                f"annual_net_price = {value} {unit} (GROUNDED on {record.source} price) "
+                f"{_basis_tag(net_basis, net_tier)}"
+            ),
             confidence=0.5,
             rationale=rationale,
             evidence=evidence,
@@ -439,13 +514,14 @@ class PeakSalesModule(AnalysisModule):
 
     @staticmethod
     def _best_price_record(prices: List[PriceRecord]) -> PriceRecord:
-        """Prefer a CMS near-net price over NADAC acquisition cost, then most recent.
+        """Pick the best-basis comparator price: ASP net > CMS near-net > NADAC floor.
 
-        Period strings (``"2024"`` or ``"2026-01-01"``) sort lexicographically, so the
-        max picks the newest within the preferred source pool.
+        Within the highest-ranked source present, take the most recent record. Period
+        strings (``"2024"`` or ``"2026-01-01"``) sort lexicographically, so the max picks
+        the newest in that pool.
         """
-        cms = [r for r in prices if r.source == "cms"]
-        pool = cms or prices
+        best_rank = max(_PRICE_SOURCE_RANK.get(r.source, 0) for r in prices)
+        pool = [r for r in prices if _PRICE_SOURCE_RANK.get(r.source, 0) == best_rank]
         return max(pool, key=lambda r: r.period or "")
 
     @staticmethod

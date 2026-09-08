@@ -123,6 +123,22 @@ class StructuredStore:
                 records.append(record)
         return records
 
+    def asp_prices(self) -> List[PriceRecord]:
+        """Medicare Part B ASP docs -> per-billing-unit net PriceRecords (``asp_per_unit``).
+
+        ASP is the net-of-rebate average sales price for physician-administered drugs, the
+        best free net-price anchor for the specialty biologics that generic sources miss.
+        Rows with no parseable price are skipped so every record carries a real float.
+        """
+        records = []
+        for doc in self.storage.load_documents(self.company, source="asp"):
+            if doc.doc_type != "asp_price":
+                continue
+            record = self._to_asp_price(doc)
+            if record is not None:
+                records.append(record)
+        return records
+
     # ---------------------------------------------------------------- internals
 
     @staticmethod
@@ -177,6 +193,25 @@ class StructuredStore:
             price_per_unit=price,
             unit=m.get("pricing_unit") or "unit",
             period=m.get("effective_date") or doc.published,
+            source=doc.source,
+            doc_type=doc.doc_type,
+            doc_id=doc.doc_id,
+            url=doc.url,
+        )
+
+    @staticmethod
+    def _to_asp_price(doc: Document) -> Optional["PriceRecord"]:
+        m: Dict[str, Any] = doc.metadata or {}
+        price = _to_float(m.get("asp_per_unit"))
+        if price is None:
+            return None
+        return PriceRecord(
+            drug=m.get("drug_query") or m.get("short_description") or doc.title,
+            generic=m.get("drug_query") or None,
+            manufacturer=None,
+            price_per_unit=price,
+            unit=m.get("dosage") or "billing unit",
+            period=m.get("effective_start") or doc.published,
             source=doc.source,
             doc_type=doc.doc_type,
             doc_id=doc.doc_id,

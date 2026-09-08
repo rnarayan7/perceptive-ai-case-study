@@ -13,15 +13,18 @@ from memo.ingestion.base import (
     IngestManifest,
     Storage,
 )
+from memo.ingestion.asp import AspIngester
 from memo.ingestion.cdc import CdcIngester
 from memo.ingestion.clinicaltrials import ClinicalTrialsIngester
 from memo.ingestion.cms import CmsSpendingIngester
 from memo.ingestion.edgar import EdgarIngester
 from memo.ingestion.nadac import NadacIngester
 from memo.ingestion.openfda import OpenFdaIngester
+from memo.ingestion.orphanet import OrphanetIngester
 from memo.ingestion.preprints import PreprintsIngester
 from memo.ingestion.pubchem import PubChemIngester
 from memo.ingestion.pubmed import PubMedIngester
+from memo.ingestion.xbrl import XbrlIngester
 
 #: Maps a source key to its ingester class. The CLI and any orchestrator should
 #: discover sources through this registry rather than importing classes directly,
@@ -36,6 +39,9 @@ REGISTRY: Dict[str, Type[BaseIngester]] = {
     PreprintsIngester.source: PreprintsIngester,
     CdcIngester.source: CdcIngester,
     PubChemIngester.source: PubChemIngester,
+    XbrlIngester.source: XbrlIngester,
+    AspIngester.source: AspIngester,
+    OrphanetIngester.source: OrphanetIngester,
 }
 
 __all__ = [
@@ -53,5 +59,8 @@ __all__ = [
     "PreprintsIngester",
     "CdcIngester",
     "PubChemIngester",
+    "XbrlIngester",
+    "AspIngester",
+    "OrphanetIngester",
     "REGISTRY",
 ]

@@ -154,6 +154,27 @@ def test_to_result_builds_param_claims_and_computed_range(tmp_path):
     pop_claim = next(c for c in result.claims if c.statement.startswith("epidemiology_population"))
     assert pop_claim.is_grounded
     assert pop_claim.evidence[0].url.startswith("https://example.com/")
+    # ...and a basis tag reflecting the tier of the source it rests on (pubmed = grounded).
+    assert "[basis: published literature, grounded]" in pop_claim.statement
+
+
+def test_basis_from_evidence_tiers():
+    # The parameter's tier is the best-tier source among its cited evidence; no evidence
+    # is an assumption; an unknown source is a proxy, never fully grounded.
+    from memo.analysis.base import Evidence
+    from memo.analysis.peak_sales import _basis_from_evidence
+
+    def _ev(source):
+        return Evidence(doc_id="d", source=source, doc_type="t", url="u", quote="q", date=None)
+
+    assert _basis_from_evidence([]) == ("not in corpus", "assumption")
+    # Orphanet (grounded) beats CDC (proxy) when both are cited.
+    label, tier = _basis_from_evidence([_ev("cdc"), _ev("orphanet")])
+    assert tier == "grounded" and "Orphanet" in label
+    # A generic floor alone is a proxy (a lower bound, not the net price).
+    assert _basis_from_evidence([_ev("nadac")])[1] == "proxy"
+    # An unrecognized source is treated as a proxy.
+    assert _basis_from_evidence([_ev("mystery")])[1] == "proxy"
 
 
 def test_to_result_flags_assumed_and_unknown_evidence(tmp_path):

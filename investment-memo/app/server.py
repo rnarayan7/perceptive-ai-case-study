@@ -19,7 +19,7 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-from flask import Flask, abort, render_template, url_for
+from flask import Flask, abort, render_template, send_from_directory, url_for
 from markupsafe import Markup, escape
 
 from memo.ledger import ClaimRecord, EvidenceRecord, LedgerStore
@@ -28,13 +28,25 @@ from memo.report.structure import MEMO_SECTIONS
 
 DEFAULT_DB_PATH = "data/ledger.db"
 DEFAULT_MEMOS_DIR = "data/memos"
+DEFAULT_DATA_DIR = "data"
+
+# Image types the figure route is allowed to serve.
+_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
 
 
-def create_app(db_path: Optional[str] = None, memos_dir: Optional[str] = None) -> Flask:
-    """Build the Flask app. ``db_path``/``memos_dir`` override the defaults (tests use this)."""
+def create_app(
+    db_path: Optional[str] = None,
+    memos_dir: Optional[str] = None,
+    data_dir: Optional[str] = None,
+) -> Flask:
+    """Build the Flask app. ``db_path``/``memos_dir``/``data_dir`` override the defaults (tests use this)."""
     app = Flask(__name__)
     app.config["DB_PATH"] = db_path or DEFAULT_DB_PATH
     app.config["MEMOS_DIR"] = memos_dir or DEFAULT_MEMOS_DIR
+    # Figures live under the same data root as the ledger/memos. Resolve to an absolute
+    # path: send_from_directory joins a relative dir onto the app package root (app/),
+    # not the cwd, so a bare "data" would look under app/data and 404.
+    app.config["DATA_DIR"] = str(Path(data_dir or DEFAULT_DATA_DIR).resolve())
 
     def store() -> LedgerStore:
         # One short-lived connection per request keeps sqlite happy across threads.
@@ -74,7 +86,8 @@ def create_app(db_path: Optional[str] = None, memos_dir: Optional[str] = None) -
             s.close()
 
         view_sections = [
-            _section_for_template(memo_id, sec) for sec in sections
+            _section_for_template(memo_id, app.config["DATA_DIR"], sec)
+            for sec in sections
         ]
         return render_template(
             "memo.html",
@@ -122,6 +135,16 @@ def create_app(db_path: Optional[str] = None, memos_dir: Optional[str] = None) -
         md = render_markdown(sections, title)
         # served as text so a browser shows it / a client can save it
         return app.response_class(md, mimetype="text/markdown")
+
+    # ------------------------------------------------------------- figures
+
+    @app.route("/figures/<path:filename>")
+    def figure(filename: str):
+        # Only serve image files, and never let the path escape the data root.
+        if Path(filename).suffix.lower() not in _IMAGE_EXTENSIONS:
+            abort(404)
+        # send_from_directory rejects any path that resolves outside DATA_DIR.
+        return send_from_directory(app.config["DATA_DIR"], filename)
 
     return app
 
@@ -184,16 +207,35 @@ def _to_rendered_section(sec: dict) -> RenderedSection:
     )
 
 
-def _section_for_template(memo_id: str, sec: dict) -> dict:
+def _section_for_template(memo_id: str, data_dir: str, sec: dict) -> dict:
     """Shape one section for the memo template: linkified prose paragraphs + figures."""
     citations = sec.get("citations", [])
+    figures = []
+    for f in sec.get("figures", []):
+        fig = dict(f)
+        ref = fig.get("image_ref", "")
+        fig["image_url"] = _figure_url(data_dir, ref) if ref else ""
+        figures.append(fig)
     return {
         "section_id": sec.get("section_id", ""),
         "title": sec.get("title", ""),
         "paragraphs": _linkify_prose(memo_id, sec.get("prose", ""), citations),
         "citations": citations,
-        "figures": sec.get("figures", []),
+        "figures": figures,
     }
+
+
+def _figure_url(data_dir: str, image_ref: str) -> str:
+    """Turn a figure's on-disk ``image_ref`` into a URL the browser can fetch.
+
+    ``image_ref`` is a path to the file on disk (e.g. ``data/KYMR/figures/annotated/x.png``).
+    We make it relative to the served data root, then point it at the figure route.
+    """
+    ref = image_ref.strip().lstrip("/")
+    root = Path(data_dir).name
+    if root and (ref == root or ref.startswith(root + "/")):
+        ref = ref[len(root) + 1:]
+    return url_for("figure", filename=ref)
 
 
 _MARKER_SPLIT = re.compile(r"\n\s*\n")

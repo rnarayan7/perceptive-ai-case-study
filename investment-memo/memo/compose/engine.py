@@ -28,7 +28,7 @@ from memo.ledger import ClaimRecord, EvidenceRecord, LedgerStore, MemoRecord
 from memo.report import HOUSE_STYLE, Citation, RenderedSection, render_markdown
 from memo.report.render import Figure
 from memo.report.structure import MEMO_SECTIONS, Section
-from memo.trace import NULL_TRACER, Tracer, new_run_id
+from memo.trace import NULL_TRACER, RunSession, Tracer, new_run_id
 
 from memo.compose import values
 
@@ -67,6 +67,7 @@ def compose_memo(
     storage: Optional[Storage] = None,
     ledger: Optional[LedgerStore] = None,
     tracer: Tracer = NULL_TRACER,
+    session: Optional[RunSession] = None,
 ) -> str:
     """Compose a full memo for ``company`` and return its ``memo_id``.
 
@@ -74,13 +75,21 @@ def compose_memo(
     synthesizes every section, writes the rendered-memo JSON under
     ``<storage.root>/memos/<memo_id>.json``, and returns the ``memo_id`` (which is also
     the run id correlating the trace).
+
+    A ``session`` (optional) accumulates each model call's token usage for this run; the
+    caller passes one in to read its ``summary`` afterward.
     """
     run_id = new_run_id(company)
     memo_id = run_id
     storage = storage or Storage()
     ledger = ledger or LedgerStore()
 
+    session = session or RunSession()
+    session.run_id = run_id
+    session.model = session.model or getattr(model, "model", "")
+
     _attach_tracing(model, tracer, run_id)
+    setattr(model, "session", session)  # so each complete_json records into this run
 
     context = AnalysisContext.for_company(company, model, storage)
     _attach_tracing(context.retriever, tracer, run_id)

@@ -13,7 +13,7 @@ import json
 from dataclasses import dataclass
 from typing import Any, Dict, Optional
 
-from memo.trace import NULL_TRACER, NullTracer, Tracer
+from memo.trace import NULL_SESSION, NULL_TRACER, NullTracer, RunSession, Tracer
 
 DEFAULT_MODEL = "claude-opus-5"
 
@@ -61,12 +61,14 @@ class AnthropicModelClient(ModelClient):
         client: Optional[Any] = None,
         tracer: Tracer = NULL_TRACER,
         run_id: Optional[str] = None,
+        session: RunSession = NULL_SESSION,
     ) -> None:
         self.model = model
         self.effort = effort
         self._client = client  # injectable; lazily constructed otherwise
         self.tracer = tracer
         self.run_id = run_id or ""
+        self.session = session  # per-run token accumulator; no-op unless attached
 
     @property
     def client(self) -> Any:
@@ -120,6 +122,7 @@ class AnthropicModelClient(ModelClient):
                 raise ValueError("model returned no text block to parse")
 
             usage = response.usage
+            self.session.record(usage)  # accumulate this call's tokens into the run
             result = ModelResponse(
                 data=json.loads(text),
                 input_tokens=getattr(usage, "input_tokens", 0) or 0,

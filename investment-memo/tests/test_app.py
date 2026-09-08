@@ -107,3 +107,29 @@ def test_unknown_memo_404(client_and_memo):
     client, _ = client_and_memo
     assert client.get("/memo/nope").status_code == 404
     assert client.get("/memo/nope/export.md").status_code == 404
+
+
+def test_figure_route_serves_image_and_blocks_traversal(tmp_path):
+    # A tiny data root with one image under a company's annotated figures dir.
+    data_dir = tmp_path / "data"
+    fig_dir = data_dir / "KYMR" / "figures" / "annotated"
+    fig_dir.mkdir(parents=True)
+    img = fig_dir / "chart.png"
+    # Minimal 1x1 PNG so the file is a real image on disk.
+    img.write_bytes(
+        b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01"
+        b"\x08\x06\x00\x00\x00\x1f\x15\xc4\x89\x00\x00\x00\nIDATx\x9cc\x00"
+        b"\x01\x00\x00\x05\x00\x01\r\n-\xb4\x00\x00\x00\x00IEND\xaeB`\x82"
+    )
+    # A secret outside the data root that a traversal attempt would try to reach.
+    (tmp_path / "secret.png").write_bytes(b"nope")
+
+    app = create_app(data_dir=str(data_dir))
+    app.config["TESTING"] = True
+    client = app.test_client()
+
+    ok = client.get("/figures/KYMR/figures/annotated/chart.png")
+    assert ok.status_code == 200
+
+    escaped = client.get("/figures/..%2f..%2fsecret.png")
+    assert 400 <= escaped.status_code < 500
