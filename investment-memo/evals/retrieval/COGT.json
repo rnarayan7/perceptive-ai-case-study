@@ -1,0 +1,157 @@
+{
+  "company": "COGT",
+  "eval_type": "retrieval",
+  "note": "DRAFT retrieval gold set for COGT, pending human verification. Cases were authored from the ingested corpus (clinicaltrials + edgar) but the query wording and relevance judgments have NOT yet been reviewed by a human. Gold references the STABLE base id and the retrieval eval matches by doc family (exact id, or a section id starting with '<base>-'), so gold survives re-ingestion. Trial base ids are NCT ids; filing base ids are the dash-stripped EDGAR accession, which matches any per-section id like '<accession>-item1a'.",
+  "cases": [
+    {
+      "id": "bezuclastinib-apex-advsm",
+      "query": "Apex phase 2 study of bezuclastinib in advanced systemic mastocytosis",
+      "relevant_doc_ids": [
+        "NCT04996875"
+      ]
+    },
+    {
+      "id": "bezuclastinib-summit-ism",
+      "query": "Summit study of bezuclastinib versus placebo in indolent or smoldering systemic mastocytosis",
+      "relevant_doc_ids": [
+        "NCT05186753"
+      ]
+    },
+    {
+      "id": "bezuclastinib-peak-gist-phase3",
+      "query": "Peak phase 3 trial of bezuclastinib plus sunitinib versus sunitinib in gastrointestinal stromal tumors",
+      "relevant_doc_ids": [
+        "NCT05208047"
+      ],
+      "note": "The Peak phase 3 GIST study (CGT9486/bezuclastinib + sunitinib); distinguish from the SARC044 phase 2 GIST combination study (NCT06208748)."
+    },
+    {
+      "id": "bezuclastinib-sarc044-gist",
+      "query": "SARC044 phase 2 trial of bezuclastinib in combination with sunitinib in GIST",
+      "relevant_doc_ids": [
+        "NCT06208748"
+      ]
+    },
+    {
+      "id": "cgt4859-fgfr-cholangiocarcinoma",
+      "query": "study of the FGFR2/3 inhibitor CGT4859 in cholangiocarcinoma and advanced solid tumors",
+      "relevant_doc_ids": [
+        "NCT06777316"
+      ]
+    },
+    {
+      "id": "cgt4255-erbb2-solid-tumors",
+      "query": "phase 1 study of the selective ERBB2 inhibitor CGT4255 in advanced solid tumors",
+      "relevant_doc_ids": [
+        "NCT07361562"
+      ]
+    },
+    {
+      "id": "cgt6297-pik3ca-solid-tumors",
+      "query": "phase 1 study of the mutant-selective inhibitor CGT6297 in advanced solid tumors",
+      "relevant_doc_ids": [
+        "NCT07383506"
+      ]
+    },
+    {
+      "id": "actr087-bcell-lymphoma",
+      "query": "phase 1 study of ACTR087 in relapsed or refractory B-cell lymphoma",
+      "relevant_doc_ids": [
+        "NCT02776813"
+      ]
+    },
+    {
+      "id": "actr707-rituximab-lymphoma",
+      "query": "ACTR707 in combination with rituximab in relapsed or refractory B-cell lymphoma",
+      "relevant_doc_ids": [
+        "NCT03189836"
+      ]
+    },
+    {
+      "id": "actr087-sea-bcma-myeloma",
+      "query": "ACTR087 in combination with SEA-BCMA in relapsed or refractory multiple myeloma",
+      "relevant_doc_ids": [
+        "NCT03266692"
+      ]
+    },
+    {
+      "id": "cgt9486-gist-first-in-human",
+      "query": "first-in-human study of CGT9486 as a single agent and with pexidartinib or sunitinib in advanced solid tumors",
+      "relevant_doc_ids": [
+        "NCT02401815"
+      ]
+    },
+    {
+      "id": "cogt-cash-position-10q",
+      "query": "cash and cash equivalents reported in the Cogent quarterly report",
+      "relevant_doc_ids": [
+        "000119312526342393"
+      ],
+      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet."
+    },
+    {
+      "id": "hard-bezu-advsm-distractor",
+      "query": "bezuclastinib study in patients with systemic mastocytosis",
+      "relevant_doc_ids": [
+        "NCT04996875"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: deliberately underspecified; the nonadvanced Summit study (NCT05186753) outranks the intended Apex advanced-SM study (observed rank ~2)."
+    },
+    {
+      "id": "hard-cgt9486-gist-fih-distractor",
+      "query": "CGT9486 in combination with sunitinib in gastrointestinal stromal tumors",
+      "relevant_doc_ids": [
+        "NCT02401815"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: several CGT9486/bezuclastinib+sunitinib GIST trials exist; must resolve to the first-in-human single-agent/combination study, not the Peak phase 3 or SARC044 (observed rank ~3)."
+    },
+    {
+      "id": "hard-cgt4859-fgfr-icca-paraphrase",
+      "query": "FGFR2 and FGFR3 inhibitor in intrahepatic cholangiocarcinoma bile duct cancer with gene fusions",
+      "relevant_doc_ids": [
+        "NCT06777316"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: CGT4859 described by mechanism and indication synonym (bile duct cancer)."
+    },
+    {
+      "id": "hard-actr087-bcma-myeloma-paraphrase",
+      "query": "autologous CAR T cell product combined with an anti-BCMA antibody in relapsed refractory multiple myeloma",
+      "relevant_doc_ids": [
+        "NCT03266692"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: ACTR087 + SEA-BCMA study described by mechanism; no drug codes."
+    },
+    {
+      "id": "hard-bezu-sunitinib-gist-both-multihop",
+      "query": "both bezuclastinib plus sunitinib GIST studies the phase 3 Peak trial and the phase 2 SARC044 trial",
+      "relevant_doc_ids": [
+        "NCT05208047",
+        "NCT06208748"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer spans the two bezuclastinib+sunitinib GIST trials; tests recall."
+    },
+    {
+      "id": "hard-bezu-peak-10q-multihop",
+      "query": "Peak phase 3 GIST trial of bezuclastinib and its progress discussed in the Cogent quarterly report",
+      "relevant_doc_ids": [
+        "NCT05208047",
+        "000119312526342393"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop trial+filing: pairs the Peak phase 3 GIST trial with the Q2 2026 10-Q (verified 'bezuclastinib' and 'Peak' appear in the filing text)."
+    },
+    {
+      "id": "neg-mrna",
+      "query": "mRNA vaccine for infectious disease",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    },
+    {
+      "id": "neg-obesity",
+      "query": "GLP-1 obesity weight-loss candidate",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    }
+  ]
+}

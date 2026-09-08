@@ -1,0 +1,160 @@
+{
+  "company": "IMVT",
+  "eval_type": "retrieval",
+  "note": "DRAFT retrieval gold set for IMVT, pending human verification. Cases were authored from the ingested corpus (clinicaltrials + edgar) but the query wording and relevance judgments have NOT yet been reviewed by a human. Gold references the STABLE base id and the retrieval eval matches by doc family (exact id, or a section id starting with '<base>-'), so gold survives re-ingestion. Trial base ids are NCT ids; filing base ids are the dash-stripped EDGAR accession, which matches any per-section id like '<accession>-item1a'.",
+  "cases": [
+    {
+      "id": "rvt1401-myasthenia-gravis",
+      "query": "phase 2 study of RVT-1401 in myasthenia gravis patients",
+      "relevant_doc_ids": [
+        "NCT03863080"
+      ]
+    },
+    {
+      "id": "rvt1401-ascend-waiha",
+      "query": "ASCEND-WAIHA trial of RVT-1401 in warm autoimmune hemolytic anemia",
+      "relevant_doc_ids": [
+        "NCT04253236"
+      ]
+    },
+    {
+      "id": "batoclimab-phase3-gmg",
+      "query": "phase 3 study of batoclimab as induction and maintenance therapy in generalized myasthenia gravis",
+      "relevant_doc_ids": [
+        "NCT05403541"
+      ],
+      "note": "Batoclimab phase 3 gMG; distinguish from the IMVT-1402 phase 3 gMG study (NCT07039916)."
+    },
+    {
+      "id": "batoclimab-graves-poc",
+      "query": "proof-of-concept study of batoclimab in Graves' disease",
+      "relevant_doc_ids": [
+        "NCT05907668"
+      ]
+    },
+    {
+      "id": "batoclimab-cidp-ole",
+      "query": "open-label extension study of batoclimab in chronic inflammatory demyelinating polyneuropathy",
+      "relevant_doc_ids": [
+        "NCT07188844"
+      ],
+      "note": "The batoclimab CIDP open-label extension; distinguish from the batoclimab CIDP efficacy/safety study (NCT05581199) and the imeroprubart CIDP study (NCT07032662)."
+    },
+    {
+      "id": "imvt1402-rheumatoid-arthritis",
+      "query": "phase 2 study of IMVT-1402 in difficult-to-treat rheumatoid arthritis",
+      "relevant_doc_ids": [
+        "NCT06754462"
+      ]
+    },
+    {
+      "id": "imvt1402-sjogrens",
+      "query": "IMVT-1402 in primary Sjogren's disease with systemic activity",
+      "relevant_doc_ids": [
+        "NCT06979531"
+      ]
+    },
+    {
+      "id": "imvt1402-cutaneous-lupus",
+      "query": "IMVT-1402 in cutaneous lupus erythematosus",
+      "relevant_doc_ids": [
+        "NCT06980805"
+      ]
+    },
+    {
+      "id": "imvt1402-phase3-gmg",
+      "query": "phase 3 study of IMVT-1402 in generalized myasthenia gravis",
+      "relevant_doc_ids": [
+        "NCT07039916"
+      ]
+    },
+    {
+      "id": "imeroprubart-cidp",
+      "query": "imeroprubart in adults with chronic inflammatory demyelinating polyneuropathy",
+      "relevant_doc_ids": [
+        "NCT07032662"
+      ]
+    },
+    {
+      "id": "imvt-cash-position-10q",
+      "query": "cash and cash equivalents reported in the Immunovant quarterly report",
+      "relevant_doc_ids": [
+        "000176401326000101"
+      ],
+      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet."
+    },
+    {
+      "id": "imvt-fast-track-orphan-risk",
+      "query": "Fast Track and orphan drug designation discussion in Immunovant's annual report",
+      "relevant_doc_ids": [
+        "000176401326000064"
+      ],
+      "note": "The May 2026 10-K; verified 'Fast Track' and 'orphan drug' appear in its ingested text."
+    },
+    {
+      "id": "hard-warm-aiha-fcrn-paraphrase",
+      "query": "neonatal Fc receptor blocking antibody for warm antibody autoimmune hemolytic anemia",
+      "relevant_doc_ids": [
+        "NCT04253236"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: RVT-1401 (batoclimab) described by its FcRn mechanism, no drug code; a review/pubmed doc outranks the trial (observed rank ~2)."
+    },
+    {
+      "id": "hard-imvt1402-sjogren-paraphrase",
+      "query": "phase 2b study of an anti-FcRn antibody in primary Sjogren's disease with moderate to severe systemic activity",
+      "relevant_doc_ids": [
+        "NCT06979531"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: IMVT-1402 Sjogren study described by mechanism; no drug code."
+    },
+    {
+      "id": "hard-batoclimab-graves-both-multihop",
+      "query": "batoclimab and IMVT-1402 in Graves disease both the proof of concept study and the IMVT-1402 study",
+      "relevant_doc_ids": [
+        "NCT05907668",
+        "NCT06727604"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer spans the batoclimab Graves POC and an IMVT-1402 Graves study; tests recall amid several near-duplicate Graves trials (target trial outranked by sibling GD studies, observed first-hit rank ~3)."
+    },
+    {
+      "id": "hard-batoclimab-cidp-both-multihop",
+      "query": "both batoclimab CIDP studies the efficacy and safety study and the open label extension",
+      "relevant_doc_ids": [
+        "NCT05581199",
+        "NCT07188844"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer spans the batoclimab CIDP efficacy study and its open-label extension; tests recall."
+    },
+    {
+      "id": "hard-imvt1402-gmg-10k-multihop",
+      "query": "IMVT-1402 phase 3 generalized myasthenia gravis trial and where Immunovant discusses it in its annual report",
+      "relevant_doc_ids": [
+        "NCT07039916",
+        "000176401326000064"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop trial+filing: pairs the IMVT-1402 phase 3 gMG trial with the May 2026 10-K (verified 'IMVT-1402' appears in the filing text)."
+    },
+    {
+      "id": "hard-batoclimab-ted-extension-distractor",
+      "query": "open label extension study of batoclimab in participants with active thyroid eye disease",
+      "relevant_doc_ids": [
+        "NCT05517447"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: three batoclimab thyroid-eye-disease trials exist (two near-identical active-TED studies plus this extension); must resolve to the extension."
+    },
+    {
+      "id": "neg-mrna",
+      "query": "mRNA cancer vaccine platform",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    },
+    {
+      "id": "neg-aav",
+      "query": "AAV gene therapy for inherited retinal disease",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    }
+  ]
+}

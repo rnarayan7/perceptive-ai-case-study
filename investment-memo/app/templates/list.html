@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Investment Memos{% endblock %}
+{% block body %}
+  <h1>Investment Memos</h1>
+  <p class="muted">Every produced memo. Open one to read it and audit any claim back to its source.</p>
+  {% if memos %}
+  <table>
+    <thead>
+      <tr><th>Company</th><th>Recommendation</th><th>Status</th><th>Created</th><th>Memo ID</th></tr>
+    </thead>
+    <tbody>
+      {% for m in memos %}
+      <tr>
+        <td><a href="{{ url_for('memo_view', memo_id=m.memo_id) }}"><strong>{{ m.company }}</strong></a></td>
+        <td>{% if m.recommendation %}<span class="pill">{{ m.recommendation }}</span>{% else %}<span class="muted">—</span>{% endif %}</td>
+        <td><span class="pill status">{{ m.status }}</span></td>
+        <td class="muted">{{ m.created_at[:10] }}</td>
+        <td class="muted"><code>{{ m.memo_id }}</code></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="empty">No memos yet. Run the seed script (<code>python -m app.seed</code>) to populate a sample.</p>
+  {% endif %}
+{% endblock %}

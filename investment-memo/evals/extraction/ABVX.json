@@ -1,0 +1,1592 @@
+{
+  "company": "ABVX",
+  "eval_type": "extraction",
+  "note": "DRAFT gold, auto-derived from ingested structured fields (the authoritative source); pending human spot-check. Each case resolves a value through StructuredStore and compares it to `expected` with no model in the scorer.",
+  "cases": [
+    {
+      "id": "NCT02249988-enrollment",
+      "question": "What is the enrollment count for trial NCT02249988?",
+      "field": "trial.enrollment",
+      "expected": 261,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02249988",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02249988-phase",
+      "question": "What is the trial phase for trial NCT02249988?",
+      "field": "trial.phase",
+      "expected": "PHASE2|PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02249988",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02249988-overall_status",
+      "question": "What is the overall status for trial NCT02249988?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02249988",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02249988-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02249988?",
+      "field": "trial.primary_completion_date",
+      "expected": "2016-12",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02249988",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT02452242-enrollment",
+      "question": "What is the enrollment count for trial NCT02452242?",
+      "field": "trial.enrollment",
+      "expected": 70,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02452242",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02452242-phase",
+      "question": "What is the trial phase for trial NCT02452242?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02452242",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02452242-overall_status",
+      "question": "What is the overall status for trial NCT02452242?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02452242",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02452242-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02452242?",
+      "field": "trial.primary_completion_date",
+      "expected": "2015-12",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02452242",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT02731885-enrollment",
+      "question": "What is the enrollment count for trial NCT02731885?",
+      "field": "trial.enrollment",
+      "expected": 48,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02731885",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02731885-phase",
+      "question": "What is the trial phase for trial NCT02731885?",
+      "field": "trial.phase",
+      "expected": "PHASE1",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02731885",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02731885-overall_status",
+      "question": "What is the overall status for trial NCT02731885?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02731885",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02731885-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02731885?",
+      "field": "trial.primary_completion_date",
+      "expected": "2015-06",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02731885",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT02735863-enrollment",
+      "question": "What is the enrollment count for trial NCT02735863?",
+      "field": "trial.enrollment",
+      "expected": 30,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02735863",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02735863-phase",
+      "question": "What is the trial phase for trial NCT02735863?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02735863",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02735863-overall_status",
+      "question": "What is the overall status for trial NCT02735863?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02735863",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02735863-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02735863?",
+      "field": "trial.primary_completion_date",
+      "expected": "2017-08-30",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02735863",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT02792686-enrollment",
+      "question": "What is the enrollment count for trial NCT02792686?",
+      "field": "trial.enrollment",
+      "expected": 24,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02792686",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02792686-phase",
+      "question": "What is the trial phase for trial NCT02792686?",
+      "field": "trial.phase",
+      "expected": "PHASE1",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02792686",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02792686-overall_status",
+      "question": "What is the overall status for trial NCT02792686?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02792686",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02792686-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02792686?",
+      "field": "trial.primary_completion_date",
+      "expected": "2014-07",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02792686",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT02990325-enrollment",
+      "question": "What is the enrollment count for trial NCT02990325?",
+      "field": "trial.enrollment",
+      "expected": 36,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02990325",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT02990325-phase",
+      "question": "What is the trial phase for trial NCT02990325?",
+      "field": "trial.phase",
+      "expected": "PHASE1|PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02990325",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT02990325-overall_status",
+      "question": "What is the overall status for trial NCT02990325?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02990325",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT02990325-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT02990325?",
+      "field": "trial.primary_completion_date",
+      "expected": "2018-12-27",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT02990325",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03093259-enrollment",
+      "question": "What is the enrollment count for trial NCT03093259?",
+      "field": "trial.enrollment",
+      "expected": 32,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03093259",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03093259-phase",
+      "question": "What is the trial phase for trial NCT03093259?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03093259",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03093259-overall_status",
+      "question": "What is the overall status for trial NCT03093259?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03093259",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03093259-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03093259?",
+      "field": "trial.primary_completion_date",
+      "expected": "2018-07-25",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03093259",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03368118-enrollment",
+      "question": "What is the enrollment count for trial NCT03368118?",
+      "field": "trial.enrollment",
+      "expected": 22,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03368118",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03368118-phase",
+      "question": "What is the trial phase for trial NCT03368118?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03368118",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03368118-overall_status",
+      "question": "What is the overall status for trial NCT03368118?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03368118",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03368118-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03368118?",
+      "field": "trial.primary_completion_date",
+      "expected": "2022-07-12",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03368118",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03760003-enrollment",
+      "question": "What is the enrollment count for trial NCT03760003?",
+      "field": "trial.enrollment",
+      "expected": 355,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03760003",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03760003-phase",
+      "question": "What is the trial phase for trial NCT03760003?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03760003",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03760003-overall_status",
+      "question": "What is the overall status for trial NCT03760003?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03760003",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03760003-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03760003?",
+      "field": "trial.primary_completion_date",
+      "expected": "2021-04-01",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03760003",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03813199-enrollment",
+      "question": "What is the enrollment count for trial NCT03813199?",
+      "field": "trial.enrollment",
+      "expected": 60,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03813199",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03813199-phase",
+      "question": "What is the trial phase for trial NCT03813199?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03813199",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03813199-overall_status",
+      "question": "What is the overall status for trial NCT03813199?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03813199",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03813199-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03813199?",
+      "field": "trial.primary_completion_date",
+      "expected": "2021-04-27",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03813199",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03897543-enrollment",
+      "question": "What is the enrollment count for trial NCT03897543?",
+      "field": "trial.enrollment",
+      "expected": 48,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03897543",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03897543-phase",
+      "question": "What is the trial phase for trial NCT03897543?",
+      "field": "trial.phase",
+      "expected": "PHASE1|PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03897543",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03897543-overall_status",
+      "question": "What is the overall status for trial NCT03897543?",
+      "field": "trial.overall_status",
+      "expected": "RECRUITING",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03897543",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03897543-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03897543?",
+      "field": "trial.primary_completion_date",
+      "expected": "2021-06-30",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03897543",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT03905109-enrollment",
+      "question": "What is the enrollment count for trial NCT03905109?",
+      "field": "trial.enrollment",
+      "expected": 0,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03905109",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT03905109-phase",
+      "question": "What is the trial phase for trial NCT03905109?",
+      "field": "trial.phase",
+      "expected": "PHASE2|PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03905109",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT03905109-overall_status",
+      "question": "What is the overall status for trial NCT03905109?",
+      "field": "trial.overall_status",
+      "expected": "WITHDRAWN",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03905109",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT03905109-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT03905109?",
+      "field": "trial.primary_completion_date",
+      "expected": "2022-09-19",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT03905109",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT04023396-enrollment",
+      "question": "What is the enrollment count for trial NCT04023396?",
+      "field": "trial.enrollment",
+      "expected": 217,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04023396",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT04023396-phase",
+      "question": "What is the trial phase for trial NCT04023396?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04023396",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT04023396-overall_status",
+      "question": "What is the overall status for trial NCT04023396?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04023396",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT04023396-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT04023396?",
+      "field": "trial.primary_completion_date",
+      "expected": "2023-02-23",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04023396",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT04049448-enrollment",
+      "question": "What is the enrollment count for trial NCT04049448?",
+      "field": "trial.enrollment",
+      "expected": 40,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04049448",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT04049448-phase",
+      "question": "What is the trial phase for trial NCT04049448?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04049448",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT04049448-overall_status",
+      "question": "What is the overall status for trial NCT04049448?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04049448",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT04049448-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT04049448?",
+      "field": "trial.primary_completion_date",
+      "expected": "2023-01-23",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04049448",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT04393038-enrollment",
+      "question": "What is the enrollment count for trial NCT04393038?",
+      "field": "trial.enrollment",
+      "expected": 509,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04393038",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT04393038-phase",
+      "question": "What is the trial phase for trial NCT04393038?",
+      "field": "trial.phase",
+      "expected": "PHASE2|PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04393038",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT04393038-overall_status",
+      "question": "What is the overall status for trial NCT04393038?",
+      "field": "trial.overall_status",
+      "expected": "TERMINATED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04393038",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT04393038-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT04393038?",
+      "field": "trial.primary_completion_date",
+      "expected": "2021-03-05",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT04393038",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05032560-enrollment",
+      "question": "What is the enrollment count for trial NCT05032560?",
+      "field": "trial.enrollment",
+      "expected": 48,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05032560",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05032560-phase",
+      "question": "What is the trial phase for trial NCT05032560?",
+      "field": "trial.phase",
+      "expected": "PHASE1",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05032560",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05032560-overall_status",
+      "question": "What is the overall status for trial NCT05032560?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05032560",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05032560-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05032560?",
+      "field": "trial.primary_completion_date",
+      "expected": "2022-02-18",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05032560",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05121714-enrollment",
+      "question": "What is the enrollment count for trial NCT05121714?",
+      "field": "trial.enrollment",
+      "expected": 59,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05121714",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05121714-phase",
+      "question": "What is the trial phase for trial NCT05121714?",
+      "field": "trial.phase",
+      "expected": "PHASE1",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05121714",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05121714-overall_status",
+      "question": "What is the overall status for trial NCT05121714?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05121714",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05121714-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05121714?",
+      "field": "trial.primary_completion_date",
+      "expected": "2021-05-18",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05121714",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05177835-enrollment",
+      "question": "What is the enrollment count for trial NCT05177835?",
+      "field": "trial.enrollment",
+      "expected": 203,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05177835",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05177835-phase",
+      "question": "What is the trial phase for trial NCT05177835?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05177835",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05177835-overall_status",
+      "question": "What is the overall status for trial NCT05177835?",
+      "field": "trial.overall_status",
+      "expected": "ACTIVE_NOT_RECRUITING",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05177835",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05177835-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05177835?",
+      "field": "trial.primary_completion_date",
+      "expected": "2028-03",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05177835",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05507203-enrollment",
+      "question": "What is the enrollment count for trial NCT05507203?",
+      "field": "trial.enrollment",
+      "expected": 639,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507203",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05507203-phase",
+      "question": "What is the trial phase for trial NCT05507203?",
+      "field": "trial.phase",
+      "expected": "PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507203",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05507203-overall_status",
+      "question": "What is the overall status for trial NCT05507203?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507203",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05507203-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05507203?",
+      "field": "trial.primary_completion_date",
+      "expected": "2025-06-24",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507203",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05507216-enrollment",
+      "question": "What is the enrollment count for trial NCT05507216?",
+      "field": "trial.enrollment",
+      "expected": 636,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507216",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05507216-phase",
+      "question": "What is the trial phase for trial NCT05507216?",
+      "field": "trial.phase",
+      "expected": "PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507216",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05507216-overall_status",
+      "question": "What is the overall status for trial NCT05507216?",
+      "field": "trial.overall_status",
+      "expected": "COMPLETED",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507216",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05507216-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05507216?",
+      "field": "trial.primary_completion_date",
+      "expected": "2025-06-24",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05507216",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT05535946-enrollment",
+      "question": "What is the enrollment count for trial NCT05535946?",
+      "field": "trial.enrollment",
+      "expected": 1116,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05535946",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT05535946-phase",
+      "question": "What is the trial phase for trial NCT05535946?",
+      "field": "trial.phase",
+      "expected": "PHASE3",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05535946",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT05535946-overall_status",
+      "question": "What is the overall status for trial NCT05535946?",
+      "field": "trial.overall_status",
+      "expected": "ACTIVE_NOT_RECRUITING",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05535946",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT05535946-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT05535946?",
+      "field": "trial.primary_completion_date",
+      "expected": "2026-04-28",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT05535946",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT06456593-enrollment",
+      "question": "What is the enrollment count for trial NCT06456593?",
+      "field": "trial.enrollment",
+      "expected": 212,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT06456593",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT06456593-phase",
+      "question": "What is the trial phase for trial NCT06456593?",
+      "field": "trial.phase",
+      "expected": "PHASE2",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT06456593",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT06456593-overall_status",
+      "question": "What is the overall status for trial NCT06456593?",
+      "field": "trial.overall_status",
+      "expected": "RECRUITING",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT06456593",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT06456593-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT06456593?",
+      "field": "trial.primary_completion_date",
+      "expected": "2026-12",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT06456593",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "NCT07453784-enrollment",
+      "question": "What is the enrollment count for trial NCT07453784?",
+      "field": "trial.enrollment",
+      "expected": 44,
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT07453784",
+        "attribute": "enrollment"
+      },
+      "tolerance": 0.0
+    },
+    {
+      "id": "NCT07453784-phase",
+      "question": "What is the trial phase for trial NCT07453784?",
+      "field": "trial.phase",
+      "expected": "PHASE1",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT07453784",
+        "attribute": "phase"
+      }
+    },
+    {
+      "id": "NCT07453784-overall_status",
+      "question": "What is the overall status for trial NCT07453784?",
+      "field": "trial.overall_status",
+      "expected": "RECRUITING",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT07453784",
+        "attribute": "overall_status"
+      }
+    },
+    {
+      "id": "NCT07453784-primary_completion_date",
+      "question": "What is the primary completion date for trial NCT07453784?",
+      "field": "trial.primary_completion_date",
+      "expected": "2026-09",
+      "locator": {
+        "kind": "trial",
+        "nct_id": "NCT07453784",
+        "attribute": "primary_completion_date"
+      }
+    },
+    {
+      "id": "0001193125-25-089339-form",
+      "question": "What is the filing form type for filing 0001193125-25-089339?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-089339",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-25-089339-filing_date",
+      "question": "What is the filing date for filing 0001193125-25-089339?",
+      "field": "filing.filing_date",
+      "expected": "2025-04-22",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-089339",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-25-162671-form",
+      "question": "What is the filing form type for filing 0001193125-25-162671?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-162671",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-25-162671-filing_date",
+      "question": "What is the filing date for filing 0001193125-25-162671?",
+      "field": "filing.filing_date",
+      "expected": "2025-07-22",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-162671",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-25-163478-form",
+      "question": "What is the filing form type for filing 0001193125-25-163478?",
+      "field": "filing.form",
+      "expected": "424B5",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-163478",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-25-163478-filing_date",
+      "question": "What is the filing date for filing 0001193125-25-163478?",
+      "field": "filing.filing_date",
+      "expected": "2025-07-23",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-163478",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-25-164414-form",
+      "question": "What is the filing form type for filing 0001193125-25-164414?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-164414",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-25-164414-filing_date",
+      "question": "What is the filing date for filing 0001193125-25-164414?",
+      "field": "filing.filing_date",
+      "expected": "2025-07-24",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-164414",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-25-164456-form",
+      "question": "What is the filing form type for filing 0001193125-25-164456?",
+      "field": "filing.form",
+      "expected": "424B5",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-164456",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-25-164456-filing_date",
+      "question": "What is the filing date for filing 0001193125-25-164456?",
+      "field": "filing.filing_date",
+      "expected": "2025-07-24",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-25-164456",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-210978-form",
+      "question": "What is the filing form type for filing 0001193125-26-210978?",
+      "field": "filing.form",
+      "expected": "424B7",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-210978",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-210978-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-210978?",
+      "field": "filing.filing_date",
+      "expected": "2026-05-07",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-210978",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-211853-form",
+      "question": "What is the filing form type for filing 0001193125-26-211853?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-211853",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-211853-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-211853?",
+      "field": "filing.filing_date",
+      "expected": "2026-05-07",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-211853",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-252360-form",
+      "question": "What is the filing form type for filing 0001193125-26-252360?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-252360",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-252360-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-252360?",
+      "field": "filing.filing_date",
+      "expected": "2026-06-02",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-252360",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-288752-form",
+      "question": "What is the filing form type for filing 0001193125-26-288752?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-288752",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-288752-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-288752?",
+      "field": "filing.filing_date",
+      "expected": "2026-06-29",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-288752",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-290817-form",
+      "question": "What is the filing form type for filing 0001193125-26-290817?",
+      "field": "filing.form",
+      "expected": "424B5",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-290817",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-290817-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-290817?",
+      "field": "filing.filing_date",
+      "expected": "2026-06-30",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-290817",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-294491-form",
+      "question": "What is the filing form type for filing 0001193125-26-294491?",
+      "field": "filing.form",
+      "expected": "424B5",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-294491",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-294491-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-294491?",
+      "field": "filing.filing_date",
+      "expected": "2026-07-02",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-294491",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001193125-26-294514-form",
+      "question": "What is the filing form type for filing 0001193125-26-294514?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-294514",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001193125-26-294514-filing_date",
+      "question": "What is the filing date for filing 0001193125-26-294514?",
+      "field": "filing.filing_date",
+      "expected": "2026-07-02",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001193125-26-294514",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000004-form",
+      "question": "What is the filing form type for filing 0001956827-25-000004?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000004",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000004-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000004?",
+      "field": "filing.filing_date",
+      "expected": "2025-03-24",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000004",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000010-form",
+      "question": "What is the filing form type for filing 0001956827-25-000010?",
+      "field": "filing.form",
+      "expected": "20-F",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000010",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000010-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000010?",
+      "field": "filing.filing_date",
+      "expected": "2025-03-24",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000010",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000016-form",
+      "question": "What is the filing form type for filing 0001956827-25-000016?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000016",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000016-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000016?",
+      "field": "filing.filing_date",
+      "expected": "2025-04-29",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000016",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000021-form",
+      "question": "What is the filing form type for filing 0001956827-25-000021?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000021",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000021-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000021?",
+      "field": "filing.filing_date",
+      "expected": "2025-06-02",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000021",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000024-form",
+      "question": "What is the filing form type for filing 0001956827-25-000024?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000024",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000024-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000024?",
+      "field": "filing.filing_date",
+      "expected": "2025-06-11",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000024",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000031-form",
+      "question": "What is the filing form type for filing 0001956827-25-000031?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000031",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000031-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000031?",
+      "field": "filing.filing_date",
+      "expected": "2025-09-08",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000031",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-25-000035-form",
+      "question": "What is the filing form type for filing 0001956827-25-000035?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000035",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-25-000035-filing_date",
+      "question": "What is the filing date for filing 0001956827-25-000035?",
+      "field": "filing.filing_date",
+      "expected": "2025-12-15",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-25-000035",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000003-form",
+      "question": "What is the filing form type for filing 0001956827-26-000003?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000003",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000003-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000003?",
+      "field": "filing.filing_date",
+      "expected": "2026-02-23",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000003",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000010-form",
+      "question": "What is the filing form type for filing 0001956827-26-000010?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000010",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000010-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000010?",
+      "field": "filing.filing_date",
+      "expected": "2026-03-23",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000010",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000012-form",
+      "question": "What is the filing form type for filing 0001956827-26-000012?",
+      "field": "filing.form",
+      "expected": "20-F",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000012",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000012-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000012?",
+      "field": "filing.filing_date",
+      "expected": "2026-03-23",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000012",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000014-form",
+      "question": "What is the filing form type for filing 0001956827-26-000014?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000014",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000014-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000014?",
+      "field": "filing.filing_date",
+      "expected": "2026-04-20",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000014",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000017-form",
+      "question": "What is the filing form type for filing 0001956827-26-000017?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000017",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000017-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000017?",
+      "field": "filing.filing_date",
+      "expected": "2026-05-20",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000017",
+        "attribute": "filing_date"
+      }
+    },
+    {
+      "id": "0001956827-26-000022-form",
+      "question": "What is the filing form type for filing 0001956827-26-000022?",
+      "field": "filing.form",
+      "expected": "6-K",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000022",
+        "attribute": "form"
+      }
+    },
+    {
+      "id": "0001956827-26-000022-filing_date",
+      "question": "What is the filing date for filing 0001956827-26-000022?",
+      "field": "filing.filing_date",
+      "expected": "2026-05-22",
+      "locator": {
+        "kind": "filing",
+        "accession": "0001956827-26-000022",
+        "attribute": "filing_date"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "company": "KYMR",
+  "eval_type": "retrieval",
+  "note": "Ground truth is the document whose ingested content best answers the query. Gold references the STABLE base id and the retrieval eval matches by doc family (exact id, or a section id starting with '<base>-'), so gold survives re-ingestion. Trial base ids are NCT ids; filing base ids are the dash-stripped EDGAR accession, which matches any per-Item section id like '<accession>-pii-item1a'.",
+  "cases": [
+    {
+      "id": "kt474-sad-mad",
+      "query": "single and multiple ascending dose study of KT-474 in healthy volunteers",
+      "relevant_doc_ids": [
+        "NCT04772885"
+      ],
+      "note": "The healthy-volunteer SAD/MAD trial of KT-474."
+    },
+    {
+      "id": "kt333-lymphoma",
+      "query": "KT-333 safety and clinical activity in refractory lymphoma patients",
+      "relevant_doc_ids": [
+        "NCT05225584"
+      ]
+    },
+    {
+      "id": "kt413-relapsed",
+      "query": "KT-413 in patients with relapsed or refractory disease",
+      "relevant_doc_ids": [
+        "NCT05233033"
+      ]
+    },
+    {
+      "id": "kt253-myeloid",
+      "query": "KT-253 in patients with high grade myeloid malignancies",
+      "relevant_doc_ids": [
+        "NCT05775406"
+      ]
+    },
+    {
+      "id": "kt621-fih-healthy",
+      "query": "first-in-human study of orally administered KT-621 in healthy adults",
+      "relevant_doc_ids": [
+        "NCT06673667"
+      ],
+      "note": "Distinguish from the KT-621 patient and long-term asthma studies."
+    },
+    {
+      "id": "kt621-longterm-asthma",
+      "query": "long-term study of oral KT-621 in participants with asthma",
+      "relevant_doc_ids": [
+        "NCT07677059"
+      ]
+    },
+    {
+      "id": "kt579-fih",
+      "query": "first-in-human study of orally administered KT-579",
+      "relevant_doc_ids": [
+        "NCT07412288"
+      ]
+    },
+    {
+      "id": "sar444656-phase2-atopic",
+      "query": "phase 2 study of SAR444656 in moderate to severe atopic dermatitis",
+      "relevant_doc_ids": [
+        "NCT06058156"
+      ]
+    },
+    {
+      "id": "cash-position",
+      "query": "cash and cash equivalents reported in the quarterly report",
+      "relevant_doc_ids": [
+        "000119312526333849"
+      ],
+      "note": "The Q2 2026 10-Q, whose Financial Statements section (Part I, Item 1) carries the balance-sheet 'Cash and cash equivalents' line item. Filings are segmented per SEC Item header, but matching is by doc family, so the stable base accession is intentional and matches any section id like '000119312526333849-pi-item1'."
+    },
+    {
+      "id": "fast-track-risk",
+      "query": "risk factors around Fast Track Designation and FDA review timelines",
+      "relevant_doc_ids": [
+        "000119312526333849"
+      ],
+      "note": "The Q2 2026 10-Q, whose Risk Factors section (Part II, Item 1A) holds the Fast Track Designation risk language. Filings are segmented per SEC Item header, but matching is by doc family, so the stable base accession is intentional and matches any section id like '000119312526333849-pii-item1a'."
+    },
+    {
+      "id": "hard-kt621-ad-phase2b-distractor",
+      "query": "phase 2b placebo-controlled efficacy and safety study of KT-621 in moderate to severe atopic dermatitis over 16 weeks",
+      "relevant_doc_ids": [
+        "NCT07217015"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: KT-621 has both a phase 1 clinical-activity AD study (NCT06945458) and this phase 2b AD study; must resolve to the phase 2b via design cues (placebo-controlled, 16-week, open-label period)."
+    },
+    {
+      "id": "hard-kt621-ad-phase1-distractor",
+      "query": "phase 1 study evaluating clinical activity of oral KT-621 in patients with moderate to severe atopic dermatitis",
+      "relevant_doc_ids": [
+        "NCT06945458"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: sibling of NCT07217015; must resolve to the phase 1 patient AD study, not the phase 2b."
+    },
+    {
+      "id": "hard-irak4-degrader-hs-paraphrase",
+      "query": "oral IRAK4 degrader dosed in participants with hidradenitis suppurativa",
+      "relevant_doc_ids": [
+        "NCT06028230"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: SAR444656 (KT-474) is the IRAK4 degrader, no drug code given. The KT-474 first-in-human study (NCT04772885) also carries 'IRAK4 degrader' + 'hidradenitis suppurativa' and outranks the intended SAR444656 HS phase 2 study (observed rank ~6)."
+    },
+    {
+      "id": "hard-kt333-tcell-degrader-paraphrase",
+      "query": "targeted protein degrader in relapsed refractory large granular lymphocytic leukemia and peripheral T-cell lymphoma",
+      "relevant_doc_ids": [
+        "NCT05225584"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: KT-333 described by mechanism and populations without the drug code; competes with the other KYMR oncology degrader trials (KT-253, KT-413)."
+    },
+    {
+      "id": "hard-kt621-asthma-both-multihop",
+      "query": "both KT-621 asthma studies the eosinophilic asthma phase 2b and the long term asthma extension",
+      "relevant_doc_ids": [
+        "NCT07323654",
+        "NCT07677059"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer legitimately spans the two KT-621 asthma trials; tests recall."
+    },
+    {
+      "id": "hard-kt621-program-10q-multihop",
+      "query": "KT-621 STAT6 degrader program clinical progress reported in the Kymera quarterly report and its first-in-human healthy volunteer trial",
+      "relevant_doc_ids": [
+        "NCT06673667",
+        "000119312526333849"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop trial+filing: pairs the KT-621 first-in-human trial with the Q2 2026 10-Q that discusses the program (verified 'KT-621' appears in the filing text). Tests recall across a trial and a filing; the filing section outranks the trial."
+    },
+    {
+      "id": "hard-kt474-fih-degrader-paraphrase",
+      "query": "first-in-human single and multiple ascending dose study of an oral IRAK4 degrader in healthy volunteers and atopic dermatitis and hidradenitis patients",
+      "relevant_doc_ids": [
+        "NCT04772885"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: the KT-474 SAD/MAD study described by mechanism and populations without the KT-474 code."
+    },
+    {
+      "id": "neg-glp1",
+      "query": "GLP-1 receptor agonist for obesity and weight loss",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    },
+    {
+      "id": "neg-mrna",
+      "query": "mRNA COVID-19 vaccine efficacy and boosters",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    }
+  ]
+}

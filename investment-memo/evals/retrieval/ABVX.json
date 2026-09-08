@@ -1,0 +1,158 @@
+{
+  "company": "ABVX",
+  "eval_type": "retrieval",
+  "note": "DRAFT retrieval gold set for ABVX, pending human verification. Cases were authored from the ingested corpus (clinicaltrials + edgar) but the query wording and relevance judgments have NOT yet been reviewed by a human. Gold references the STABLE base id and the retrieval eval matches by doc family (exact id, or a section id starting with '<base>-'), so gold survives re-ingestion. Trial base ids are NCT ids; filing base ids are the dash-stripped EDGAR accession, which matches any per-section id like '<accession>-item1a'.",
+  "cases": [
+    {
+      "id": "abx464-fim-healthy",
+      "query": "first-in-man phase 1 study of ABX464 in healthy volunteers",
+      "relevant_doc_ids": [
+        "NCT02792686"
+      ],
+      "note": "The ABX464 first-in-man healthy-volunteer study; distinguish from the food-effect and CYP1A2 DDI phase 1 studies."
+    },
+    {
+      "id": "abx464-uc-phase2b-dose-ranging",
+      "query": "dose-ranging phase 2b study of ABX464 in moderate to severe ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT03760003"
+      ]
+    },
+    {
+      "id": "abx464-rheumatoid-arthritis",
+      "query": "phase 2 trial of two doses of ABX464 in moderate to severe rheumatoid arthritis",
+      "relevant_doc_ids": [
+        "NCT03813199"
+      ]
+    },
+    {
+      "id": "abx196-hcc-nivolumab",
+      "query": "ABX196 in combination with nivolumab in hepatocellular carcinoma",
+      "relevant_doc_ids": [
+        "NCT03897543"
+      ]
+    },
+    {
+      "id": "abx203-hepatitis-b-vaccine",
+      "query": "ABX203 therapeutic vaccine in HBeAg negative chronic hepatitis B patients",
+      "relevant_doc_ids": [
+        "NCT02249988"
+      ]
+    },
+    {
+      "id": "abx464-covid",
+      "query": "ABX464 for preventing acute respiratory failure in COVID-19 patients",
+      "relevant_doc_ids": [
+        "NCT04393038"
+      ]
+    },
+    {
+      "id": "abtect-1-uc-phase3",
+      "query": "ABTECT-1 phase 3 induction study of obefazimod in ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT05507203"
+      ],
+      "note": "Distinguish from ABTECT-2 (NCT05507216) and ABTECT Maintenance (NCT05535946)."
+    },
+    {
+      "id": "abtect-2-uc-phase3",
+      "query": "ABTECT-2 phase 3 induction study of obefazimod in ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT05507216"
+      ]
+    },
+    {
+      "id": "abtect-maintenance-uc",
+      "query": "ABTECT maintenance phase 3 study of obefazimod in ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT05535946"
+      ]
+    },
+    {
+      "id": "obefazimod-crohns-phase2",
+      "query": "phase 2 study of obefazimod in moderately to severely active Crohn's disease",
+      "relevant_doc_ids": [
+        "NCT06456593"
+      ]
+    },
+    {
+      "id": "obefazimod-fast-track-risk",
+      "query": "Fast Track designation risk factors for obefazimod in the ABVX offering prospectus",
+      "relevant_doc_ids": [
+        "000119312526290817"
+      ],
+      "note": "The June 2026 424B5 registration statement; verified that 'Fast Track' and 'risk factors' language appears in its ingested text. Matched by doc family so the bare accession maps to whatever section holds it."
+    },
+    {
+      "id": "abvx-net-loss-offering",
+      "query": "net loss and use of proceeds disclosed in ABVX equity offering registration statement",
+      "relevant_doc_ids": [
+        "000119312526290817"
+      ],
+      "note": "Same 424B5; verified 'net loss', 'use of proceeds', and 'dilution' appear in its ingested text."
+    },
+    {
+      "id": "hard-mir124-crohns-paraphrase",
+      "query": "miR-124 upregulating small molecule for inducing remission in Crohn's disease phase 2b/3",
+      "relevant_doc_ids": [
+        "NCT03905109"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: obefazimod (ABX464) described by its miR-124 mechanism, no drug code; pubmed/other docs outrank the target (observed rank ~4)."
+    },
+    {
+      "id": "hard-abx196-nivolumab-hcc-paraphrase",
+      "query": "immunotherapy combining an NKT cell agonist with nivolumab in hepatocellular carcinoma",
+      "relevant_doc_ids": [
+        "NCT03897543"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: ABX196 described by mechanism and partner drug; no ABX196 code (kept 'nivolumab' + 'hepatocellular carcinoma' so the target stays answerable)."
+    },
+    {
+      "id": "hard-abx464-uc-phase2a-distractor",
+      "query": "phase 2a eight week study of ABX464 50 mg once daily in ulcerative colitis after failing anti-TNF and vedolizumab",
+      "relevant_doc_ids": [
+        "NCT03093259"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: ABX464 has many UC trials; must resolve to the 8-week phase 2a proof-of-concept, not the phase 2b dose-ranging or maintenance/long-term studies."
+    },
+    {
+      "id": "hard-abx464-uc-active-distractor",
+      "query": "ABX464 study in patients with active ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT03093259"
+      ],
+      "note": "DRAFT, pending human verification. HARD/distractor: deliberately underspecified among the many ABX464 UC trials; intended target is the original phase 2a active-UC study, which is outranked by a pubmed doc and the maintenance study (observed rank ~3)."
+    },
+    {
+      "id": "hard-abx464-uc-both-multihop",
+      "query": "phase 2b dose ranging and the earlier phase 2a proof of concept study of ABX464 in ulcerative colitis",
+      "relevant_doc_ids": [
+        "NCT03760003",
+        "NCT03093259"
+      ],
+      "note": "DRAFT, pending human verification. HARD/multi-hop: answer spans the phase 2b and phase 2a UC studies; tests recall."
+    },
+    {
+      "id": "hard-abx203-vaccine-hbv-paraphrase",
+      "query": "therapeutic vaccine adjunct to nucleoside analogs in HBeAg negative chronic hepatitis B",
+      "relevant_doc_ids": [
+        "NCT02249988"
+      ],
+      "note": "DRAFT, pending human verification. HARD/paraphrase: ABX203 hepatitis B vaccine described without the drug code."
+    },
+    {
+      "id": "neg-cart",
+      "query": "CAR-T cell therapy for relapsed lymphoma",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    },
+    {
+      "id": "neg-glp1",
+      "query": "GLP-1 agonist weight-loss program",
+      "relevant_doc_ids": [],
+      "negative": true,
+      "note": "DRAFT hard negative pending human verification: out-of-scope topic with no such program at the company; the retriever should surface nothing relevant (abstain)."
+    }
+  ]
+}

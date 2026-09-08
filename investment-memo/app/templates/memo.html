@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}{{ memo.company }} — {{ title }}{% endblock %}
+{% block crumb %}<div class="crumb"><a href="{{ url_for('index') }}">← All memos</a></div>{% endblock %}
+{% block body %}
+  <h1>{{ title }}</h1>
+  <p class="muted">{{ memo.company }} · <code>{{ memo.memo_id }}</code> · {{ memo.status }}</p>
+
+  <div class="lead">
+    <div class="rec">Recommendation</div>
+    <div><span class="pill">{{ memo.recommendation or "—" }}</span></div>
+    {% if memo.thesis %}<p class="thesis">{{ memo.thesis }}</p>{% endif %}
+  </div>
+
+  <div class="actions">
+    <a class="btn" href="{{ url_for('export_markdown', memo_id=memo.memo_id) }}">Export Markdown</a>
+  </div>
+
+  {% if not has_artifact %}
+    <p class="empty">No rendered memo artifact found for this memo yet.</p>
+  {% endif %}
+
+  {% for sec in sections %}
+    <h2 id="{{ sec.section_id }}">{{ sec.title }}</h2>
+    {% for para in sec.paragraphs %}
+      <p>{{ para }}</p>
+    {% endfor %}
+
+    {% for fig in sec.figures %}
+      <figure>
+        <img src="{{ fig.image_ref }}" alt="{{ fig.caption }}">
+        <figcaption>{{ fig.caption }}</figcaption>
+      </figure>
+    {% endfor %}
+
+    {% if sec.citations %}
+      <ul class="sources">
+        {% for c in sec.citations %}
+          <li>{{ c.marker }}
+            <a href="{{ url_for('audit', memo_id=memo.memo_id, evidence_id=c.evidence_id) }}">{{ c.label or c.url }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% endblock %}
