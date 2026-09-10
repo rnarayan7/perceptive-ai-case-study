@@ -38,9 +38,10 @@ class RenderedSection:
 
     section_id: str
     title: str
-    prose: str  # may contain inline citation markers matching Citation.marker
+    prose: str  # the body; may contain inline citation markers matching Citation.marker
     citations: List[Citation] = field(default_factory=list)
     figures: List[Figure] = field(default_factory=list)
+    takeaway: str = ""  # one-line lead: the conclusion + key figure, rendered emphasized
 
 
 def render_markdown(sections: List[RenderedSection], title: str) -> str:

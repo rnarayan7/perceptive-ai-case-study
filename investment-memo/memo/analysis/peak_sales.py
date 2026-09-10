@@ -80,9 +80,117 @@ _SOURCE_BASIS: Dict[str, Tuple[str, str]] = {
 _ASSUMPTION_BASIS = ("not in corpus", "assumption")
 _TIER_RANK = {"grounded": 2, "proxy": 1, "assumption": 0}
 
+# Sources that carry disease epidemiology (prevalence / incidence / patient counts). The
+# addressable population should rest on one of these for the LEAD indication; a population
+# cited only to non-epi sources (or to nothing) is flagged so a reader knows the rNPV
+# denominator is not epidemiology-grounded.
+EPI_SOURCES = frozenset({"cdc", "pubmed", "orphanet", "preprints"})
+
+# Plausibility floor for a lead commercial indication's eligible population. A value below
+# this that is NOT grounded on a rare-disease prevalence source (Orphanet) is almost
+# certainly a niche sub-indication mistaken for the lead market. This is the PRAX bug: the
+# model returned 4,000 ("rare pediatric epilepsy") when the lead asset (vormatrigine)
+# targets focal epilepsy, a market of hundreds of thousands. We flag it, never silently
+# overwrite the number (that would be false precision); the flag lowers confidence and
+# tells a reader to re-check the indication.
+POP_PLAUSIBILITY_FLOOR = 50_000.0
+
+# Plausibility CEILING, symmetric to the floor: no single US commercial indication's
+# addressable population credibly exceeds this. A value above it is almost certainly an
+# over-aggregation -- several related indications summed into one number. This is the KYMR
+# bug: ~16.5M by lumping atopic dermatitis with asthma/COPD/EoE/CRSwNP, which inflated peak
+# sales to ~$23B on a Phase 1 asset. We flag it (never overwrite) and the flag lowers
+# confidence. 50M US is a deliberately high bound so it only trips on clear aggregation.
+POP_PLAUSIBILITY_CEILING = 50_000_000.0
+
+# Deterministic over-aggregation detector. The population must be ONE lead indication's
+# eligible patients; a rationale that names several distinct indications joined by summing
+# language is aggregating markets that should be sized separately. Synonyms collapse to a
+# single concept so "EoE" and "eosinophilic esophagitis" are not double counted.
+_INDICATION_CONCEPTS: Dict[str, str] = {
+    "atopic dermatitis": "atopic dermatitis",
+    "eczema": "atopic dermatitis",
+    "asthma": "asthma",
+    "copd": "copd",
+    "chronic obstructive": "copd",
+    "eosinophilic esophagitis": "eoe",
+    "eoe": "eoe",
+    "chronic rhinosinusitis": "crswnp",
+    "nasal polyps": "crswnp",
+    "crswnp": "crswnp",
+    "prurigo nodularis": "prurigo nodularis",
+    "ulcerative colitis": "ulcerative colitis",
+    "crohn": "crohn disease",
+    "essential tremor": "essential tremor",
+    "epilepsy": "epilepsy",
+    "seizure": "epilepsy",
+    "graves": "graves disease",
+    "thyroid eye": "thyroid eye disease",
+    "myasthenia": "myasthenia gravis",
+    "systemic mastocytosis": "mastocytosis",
+    "mastocytosis": "mastocytosis",
+    "gastrointestinal stromal": "gist",
+    "gist": "gist",
+    "hidradenitis": "hidradenitis suppurativa",
+    "psoriasis": "psoriasis",
+    "rheumatoid arthritis": "rheumatoid arthritis",
+    "lupus": "lupus",
+    "alopecia": "alopecia areata",
+}
+# Summation/umbrella cues that turn "several indications named" into "several indications
+# aggregated into one number". Two distinct indications plus one of these trips the flag.
+_AGGREGATION_CUES = (
+    " + ",
+    "+",
+    " plus ",
+    " combined",
+    "aggregate",
+    "sum of",
+    "summed",
+    "as well as",
+    "along with",
+    "together with",
+    "related indication",
+    "related immunolog",
+    "multiple indication",
+    "across indication",
+    "and related",
+    "illustrative",
+    "umbrella",
+)
+
 # Source precedence for a comparator net-price anchor: a Part B ASP net price beats a
 # Part D near-net price, which beats a generic acquisition-cost floor.
 _PRICE_SOURCE_RANK = {"asp": 3, "cms": 2, "nadac": 1}
+
+
+def _distinct_indications(text: str) -> List[str]:
+    """Distinct disease concepts named in ``text`` (synonyms collapsed)."""
+    lowered = text.lower()
+    return sorted({concept for term, concept in _INDICATION_CONCEPTS.items() if term in lowered})
+
+
+def _detect_over_aggregation(text: str) -> Tuple[bool, List[str]]:
+    """Flag a population whose text sums/aggregates several distinct indications.
+
+    Returns ``(over_aggregated, notes)``. Trips only when the text names two or more
+    distinct indications AND carries explicit aggregation language, so a single indication
+    (even one whose rationale mentions a differential diagnosis in passing) is not flagged.
+    """
+    lowered = (text or "").lower()
+    if not lowered.strip():
+        return False, []
+    distinct = _distinct_indications(lowered)
+    has_cue = any(cue in lowered for cue in _AGGREGATION_CUES)
+    if len(distinct) >= 2 and has_cue:
+        return True, [
+            "SANITY FLAG: epidemiology_population text aggregates multiple distinct "
+            "indications (" + ", ".join(distinct) + ") with summation language; a lead "
+            "commercial indication must be sized on its own -- do not sum related "
+            "indications into one population. Pick the single most material indication and "
+            "size THAT one; note the others qualitatively in prose, not in the number"
+        ]
+    return False, []
 
 
 def _basis_from_evidence(evidence: List[Evidence]) -> Tuple[str, str]:
@@ -104,6 +212,67 @@ def _basis_from_evidence(evidence: List[Evidence]) -> Tuple[str, str]:
 def _basis_tag(basis_label: str, tier: str) -> str:
     """Render a basis label for a claim statement, e.g. ``[basis: CDC prevalence, proxy]``."""
     return f"[basis: {basis_label}, {tier}]"
+
+
+def epidemiology_population_flags(
+    value: float, evidence: List[Evidence], text: str = ""
+) -> Tuple[bool, bool, List[str]]:
+    """Grounding + magnitude flags for the addressable-population parameter.
+
+    Returns ``(cited_epi_source, plausible_magnitude, notes)``:
+
+    - ``cited_epi_source`` - at least one cited evidence item is an epidemiology source
+      (:data:`EPI_SOURCES`), i.e. the population rests on prevalence/incidence evidence
+      rather than a company aside or a free guess.
+    - ``plausible_magnitude`` - the value sits in a sane band for a SINGLE lead indication:
+      at or above :data:`POP_PLAUSIBILITY_FLOOR` (or grounded on a rare-disease source,
+      where a small count is legitimate), at or below :data:`POP_PLAUSIBILITY_CEILING`, and
+      not an over-aggregation of several indications when ``text`` (the population rationale)
+      is supplied.
+
+    The check is symmetric: the floor catches UNDERSTATEMENT (the PRAX bug -- a tiny,
+    ungrounded population for a broad lead indication) and the ceiling plus the
+    over-aggregation scan catch OVERSTATEMENT (the KYMR bug -- several related indications
+    summed into one inflated number). Every flag is reported in ``notes``; the model's
+    number is never overwritten.
+    """
+    sources = {e.source for e in evidence}
+    epi_hits = sources & EPI_SOURCES
+    cited_epi = bool(epi_hits)
+    grounded_on_rare = "orphanet" in sources
+    above_floor = value >= POP_PLAUSIBILITY_FLOOR or grounded_on_rare
+    below_ceiling = value <= POP_PLAUSIBILITY_CEILING
+    over_aggregated, agg_notes = _detect_over_aggregation(text)
+    plausible = above_floor and below_ceiling and not over_aggregated
+
+    notes: List[str] = []
+    if cited_epi:
+        notes.append(
+            "epidemiology_population grounded on epidemiology source(s): "
+            + ", ".join(sorted(epi_hits))
+        )
+    else:
+        notes.append(
+            "epidemiology_population is NOT cited to an epidemiology source "
+            "(CDC/PubMed/Orphanet/preprints); the addressable population is not "
+            "epidemiology-grounded, so treat the rNPV denominator as an assumption"
+        )
+    if not above_floor:
+        notes.append(
+            f"SANITY FLAG: epidemiology_population = {value:,.0f} is implausibly small for "
+            "a lead commercial indication and is not grounded on a rare-disease prevalence "
+            "source; this is likely a niche sub-indication mistaken for the lead market -- "
+            "re-check the lead commercial indication and source its prevalence"
+        )
+    if not below_ceiling:
+        notes.append(
+            f"SANITY FLAG: epidemiology_population = {value:,.0f} is implausibly large for a "
+            f"single lead commercial indication (> {POP_PLAUSIBILITY_CEILING:,.0f}); verify it "
+            "is ONE indication's addressable patients and not several indications aggregated "
+            "into one number"
+        )
+    notes.extend(agg_notes)
+    return cited_epi, plausible, notes
 
 
 def estimate_peak_sales(
@@ -137,20 +306,23 @@ def estimate_peak_sales(
     treatable_population = pop * frac
     patients_on_drug = treatable_population * pen
     gross_revenue = patients_on_drug * price
-    risk_adjusted = gross_revenue * pos
+    risk_adjusted = gross_revenue * pos  # kept for reference; PoS is applied in valuation
 
-    def _risk_adjusted(pen_v: float, price_v: float) -> float:
-        return treatable_population * pen_v * price_v * pos
+    # range_str is GROSS peak sales (how peak sales is normally quoted). Risk adjustment
+    # (x PoS) happens exactly once, in compute_rnpv; applying it here too double-counts
+    # PoS and understates the rNPV by a factor of ~PoS.
+    def _gross(pen_v: float, price_v: float) -> float:
+        return treatable_population * pen_v * price_v
 
-    low = _risk_adjusted(pen * (1.0 - m), price * (1.0 - m))
-    high = _risk_adjusted(pen * (1.0 + m), price * (1.0 + m))
+    low = _gross(pen * (1.0 - m), price * (1.0 - m))
+    high = _gross(pen * (1.0 + m), price * (1.0 + m))
 
     return {
         "treatable_population": treatable_population,
         "patients_on_drug": patients_on_drug,
         "gross_revenue": gross_revenue,
         "risk_adjusted": risk_adjusted,
-        "sensitivity": {"low": low, "base": risk_adjusted, "high": high},
+        "sensitivity": {"low": low, "base": gross_revenue, "high": high},
         "range_str": _format_range(low, high),
         "sensitivity_margin": m,
     }
@@ -176,28 +348,63 @@ _SYSTEM = (
     "the evidence does not support it, set assumed=true, give a clearly-labelled low-"
     "confidence estimate, and leave evidence_ids empty. Never present an unsupported "
     "number as if it were sourced.\n"
+    "FIRST identify the LEAD COMMERCIAL indication: the disease the company's lead / most-"
+    "advanced asset is developed for and that defines the largest addressable market. Return "
+    "it in lead_indication. Do NOT anchor on a narrow rare or pediatric sub-indication that "
+    "merely appears in the evidence when a broader indication is the commercial driver; a "
+    "company can run several programs, but the peak-sales denominator must be the lead "
+    "indication's population, not a niche program's.\n"
     "Extract these five parameters by name when the evidence allows: "
     "epidemiology_population (patient count for the disease), addressable_fraction "
     "(0-1, the share treatable/eligible given line of therapy), peak_penetration (0-1, "
     "peak market share among addressable patients), annual_net_price (USD per patient per "
-    "year, net of discounts), probability_of_success (0-1, clinical/regulatory). Our "
-    "corpus rarely contains drug pricing and often has thin epidemiology; when a "
+    "year, net of discounts), probability_of_success (0-1, clinical/regulatory).\n"
+    "epidemiology_population MUST be the eligible patient count for the LEAD indication you "
+    "named, GROUNDED IN and CITING retrieved epidemiology evidence (CDC prevalence, "
+    "PubMed/preprint literature, or Orphanet) for that indication. If no retrieved evidence "
+    "gives a prevalence/incidence/patient count for the lead indication, set assumed=true, "
+    "leave evidence_ids empty, and give a plausible order-of-magnitude estimate for the "
+    "LEAD indication's size -- never substitute a niche sub-population to look grounded. "
+    "epidemiology_population MUST be exactly ONE lead commercial indication's addressable "
+    "patients. Do NOT sum, add, or aggregate several related indications into one number "
+    "(e.g. do not lump atopic dermatitis with asthma, COPD, EoE, or CRSwNP). If several "
+    "indications are plausible, pick the SINGLE most material one and size THAT indication "
+    "only; mention the other programs qualitatively in the summary, never inside the "
+    "population number. Sanity-check magnitude in BOTH directions: a common/broad indication "
+    "(e.g. epilepsy, asthma, atopic dermatitis) has hundreds of thousands to a few million "
+    "patients; a few thousand is only credible for a genuinely ultra-rare disease, and a "
+    "figure above ~50 million US patients is almost always several indications wrongly summed "
+    "together.\n"
+    "Our corpus rarely contains drug pricing and often has thin epidemiology; when a "
     "parameter is not in the evidence, say so via assumed=true rather than inventing a "
     "citation. Calibrate confidence to the strength of the cited evidence."
 )
 
-# Each query pulls a different slice of the parameter set.
+# Each query pulls a different slice of the parameter set. The first pins the LEAD
+# indication (so the population is sized to it, not a niche program); the next two lean
+# hard on epidemiology terms so CDC/PubMed prevalence evidence for the treated disease is
+# surfaced when it exists, rather than only trial or pipeline text.
 _QUERIES = [
-    "disease epidemiology prevalence incidence number of patients",
-    "addressable eligible patient population line of therapy treatment eligible",
+    "lead product candidate most advanced program primary target indication disease treated",
+    "disease epidemiology prevalence incidence patients diagnosed population United States",
+    "people living with the disease annual new cases eligible patient population prevalence",
+    "addressable eligible patient population line of therapy treatment eligible refractory",
     "drug pricing annual cost net price analog therapy wholesale acquisition cost",
-    "market size revenue opportunity commercial potential",
+    "market size revenue opportunity commercial potential total addressable market",
 ]
 
 _SCHEMA = {
     "type": "object",
     "properties": {
         "summary": {"type": "string"},
+        "lead_indication": {
+            "type": "string",
+            "description": (
+                "The single lead commercial indication whose addressable patients define "
+                "epidemiology_population. Name one disease, not a bundle of related "
+                "indications."
+            ),
+        },
         "overall_confidence": {"type": "number"},
         "parameters": {
             "type": "array",
@@ -205,7 +412,14 @@ _SCHEMA = {
                 "type": "object",
                 "properties": {
                     "name": {"type": "string"},
-                    "value": {"type": "number"},
+                    "value": {
+                        "type": "number",
+                        "description": (
+                            "The parameter's numeric value. For epidemiology_population this "
+                            "is exactly ONE lead indication's addressable patient count -- "
+                            "never several related indications summed together."
+                        ),
+                    },
                     "unit": {"type": "string"},
                     "evidence_ids": {"type": "array", "items": {"type": "string"}},
                     "rationale": {"type": "string"},
@@ -225,7 +439,7 @@ _SCHEMA = {
             },
         },
     },
-    "required": ["summary", "overall_confidence", "parameters"],
+    "required": ["summary", "lead_indication", "overall_confidence", "parameters"],
     "additionalProperties": False,
 }
 
@@ -277,11 +491,17 @@ class PeakSalesModule(AnalysisModule):
             "",
             grounding.format_evidence_block(labeled),
             "",
-            "Task: extract the numeric parameters for a peak-sales model. Return only the "
-            "parameters (epidemiology_population, addressable_fraction, peak_penetration, "
-            "annual_net_price, probability_of_success), each citing its evidence ids or "
-            "flagged assumed=true when the evidence does not support it. Do not compute "
-            "revenue; a deterministic calculator will multiply your parameters.",
+            "Task: first name the LEAD COMMERCIAL indication (lead_indication) from the "
+            "pipeline/company evidence -- the disease the lead asset targets and that sets "
+            "the largest addressable market, not a niche sub-program. Then extract the "
+            "numeric parameters for a peak-sales model (epidemiology_population, "
+            "addressable_fraction, peak_penetration, annual_net_price, "
+            "probability_of_success), each citing its evidence ids or flagged assumed=true "
+            "when the evidence does not support it. epidemiology_population must be the "
+            "eligible patient count for the lead indication, cited to retrieved epidemiology "
+            "evidence (CDC/PubMed/Orphanet) for that indication or flagged assumed=true with "
+            "a plausible order-of-magnitude size -- never a niche sub-population. Do not "
+            "compute revenue; a deterministic calculator will multiply your parameters.",
         ]
         return "\n".join(lines)
 
@@ -295,6 +515,17 @@ class PeakSalesModule(AnalysisModule):
         data = response.data
         notes: List[str] = []
         claims: List[Claim] = []
+
+        # The lead commercial indication the population must be sized to. Surfaced up front
+        # so a reader (and the epi-grounding eval) can see which market the denominator
+        # claims to represent.
+        lead_indication = str(data.get("lead_indication", "")).strip()
+        if lead_indication:
+            notes.append(f"lead commercial indication (model): {lead_indication}")
+
+        # Evidence actually resolved for each parameter, so the epidemiology_population
+        # grounding/magnitude sanity check below reasons over real cited sources.
+        param_evidence: Dict[str, List[Evidence]] = {}
 
         # Only positive, real prices can ground the net-price input; anything else falls
         # back to the model-assumed parameter (the common case until comparators exist).
@@ -335,6 +566,7 @@ class PeakSalesModule(AnalysisModule):
             if name == "annual_net_price" and groundable_prices and _GROUND_NET_PRICE_ON_PER_UNIT:
                 value, claim, evidence, note = self._grounded_net_price(groundable_prices)
                 values[name] = value
+                param_evidence[name] = evidence
                 all_evidence.extend(evidence)
                 notes.append(note)
                 claims.append(claim)
@@ -345,6 +577,7 @@ class PeakSalesModule(AnalysisModule):
                 # Model omitted it entirely: fall back to a flagged default assumption.
                 value = _DEFAULTS[name]
                 values[name] = value
+                param_evidence[name] = []
                 missing_names.append(name)
                 assumed_names.append(name)
                 notes.append(
@@ -388,6 +621,7 @@ class PeakSalesModule(AnalysisModule):
                     )
 
             all_evidence.extend(evidence)
+            param_evidence[name] = evidence
             # The basis reflects the source the parameter actually rests on; with no
             # evidence it is an assumption regardless of what the model claimed.
             basis_label, tier = _basis_from_evidence(evidence)
@@ -401,6 +635,28 @@ class PeakSalesModule(AnalysisModule):
                     value=f"{value} {unit}",
                 )
             )
+
+        # Deterministic epidemiology sanity check on the addressable population: is it cited
+        # to a real epidemiology source, and is its magnitude plausible for a lead commercial
+        # indication? Flags (not overwrites) a tiny/ungrounded population, which is what
+        # produced the bad PRAX rNPV. An ungrounded population also counts as assumed so the
+        # confidence penalty applies.
+        # The over-aggregation scan reads the model's own rationale for the population plus
+        # the named lead indication, so a rationale that sums several indications is caught.
+        epi_raw = raw_by_name.get("epidemiology_population", {})
+        epi_text = " ".join(
+            str(part)
+            for part in (lead_indication, epi_raw.get("rationale", ""), epi_raw.get("name", ""))
+            if part
+        )
+        cited_epi, plausible_pop, epi_notes = epidemiology_population_flags(
+            values.get("epidemiology_population", 0.0),
+            param_evidence.get("epidemiology_population", []),
+            text=epi_text,
+        )
+        notes.extend(epi_notes)
+        if (not cited_epi or not plausible_pop) and "epidemiology_population" not in assumed_names:
+            assumed_names.append("epidemiology_population")
 
         estimate = estimate_peak_sales(values, sensitivity_margin=self.sensitivity_margin)
 
@@ -422,7 +678,8 @@ class PeakSalesModule(AnalysisModule):
             )
         computed_claim = Claim(
             statement=(
-                "Risk-adjusted peak sales (sensitivity range on penetration and price)."
+                "Gross peak sales (sensitivity range on penetration and price); the "
+                "PoS risk adjustment is applied in the valuation, not here."
                 + assumption_note
             ),
             confidence=self._computed_confidence(data, assumed_names),

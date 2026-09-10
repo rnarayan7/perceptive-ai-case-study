@@ -65,9 +65,11 @@
       "id": "cash-position",
       "query": "cash and cash equivalents reported in the quarterly report",
       "relevant_doc_ids": [
-        "000119312526333849"
+        "000119312526333849",
+        "cash_and_equivalents",
+        "cash_and_short_term_investments"
       ],
-      "note": "The Q2 2026 10-Q, whose Financial Statements section (Part I, Item 1) carries the balance-sheet 'Cash and cash equivalents' line item. Filings are segmented per SEC Item header, but matching is by doc family, so the stable base accession is intentional and matches any section id like '000119312526333849-pi-item1'."
+      "note": "The Q2 2026 10-Q, whose Financial Statements section (Part I, Item 1) carries the balance-sheet 'Cash and cash equivalents' line item. Filings are segmented per SEC Item header, but matching is by doc family, so the stable base accession is intentional and matches any section id like '000119312526333849-pi-item1'. | XBRL structured cash fact is the precise answer and ranks #1; 10-Q accession also acceptable."
     },
     {
       "id": "fast-track-risk",

@@ -1,0 +1,11 @@
+{
+  "company": "ABVX",
+  "lead_asset": "obefazimod (ABX464)",
+  "lead_indication": "ulcerative colitis",
+  "indication_terms": ["ulcerative colitis", "colitis", "inflammatory bowel", "ibd", "obefazimod", "abx464"],
+  "epi_terms": ["prevalence", "incidence", "patients", "population", "per 100,000", "united states", "diagnosed"],
+  "plausible_population_min": 400000,
+  "plausible_population_max": 1500000,
+  "relevant_doc_ids": ["17904915"],
+  "note": "Abivax's lead asset obefazimod targets moderate-to-severely active ulcerative colitis. US adult UC prevalence anchor: Kappelman et al, Clin Gastroenterol Hepatol 2007 (PMID 17904915, ingested at data/ABVX/pubmed/17904915.json), a national-sample study reporting adult UC prevalence ~238/100,000, i.e. roughly 0.6-1.0M US adults. The addressable moderate-to-severe treated segment is a subset; the band brackets all-adult UC down to the treated population. Single lead commercial indication -- no aggregation with Crohn's."
+}

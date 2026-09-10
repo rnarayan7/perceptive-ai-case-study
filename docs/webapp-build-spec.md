@@ -4,9 +4,22 @@ Status: draft for handoff. This is the brief for building a fully functioning we
 
 Stack decision (locked): **Next.js frontend + FastAPI JSON API**, with the existing Python packages kept as the compute layer and **Postgres as the single system of record**.
 
-Decisions locked: Next on **Vercel**; FastAPI + worker on a separate always-on host; **Postgres** (managed) + object storage for blobs; price data from **Databento**; on-demand memo generation; auth via Vercel password protection to start, Auth.js + Google SSO later; brand "Perceptive Research OS"; the five companies' ingestion has already been run (migrate that data in).
+Decisions locked: Next on **Vercel**; FastAPI + worker on **Render**; **Postgres** (managed) + object storage for blobs; price from **Databento**; shares outstanding from **EDGAR** XBRL (already ingested), market cap = price × shares; consensus reconstructed (no feed for now); on-demand memo generation; auth via Vercel password protection to start, Auth.js + Google SSO later; brand "Perceptive Research OS"; the five companies' ingestion has already been run (migrate that data in).
 
 Figma: https://www.figma.com/design/QFeDpVxHdvP1ZzUwfCWgFx — six screens across three sections (Companies, Data, Activity), plus a Foundations page with the tokens reproduced in Appendix A.
+
+---
+
+## Lean v1 scope (supersedes the fuller architecture where noted)
+
+To ship a working v1 with minimal moving parts. The heavier options in §2–§7 remain the documented scale-up path.
+
+- **Datastore:** SQLite (reuse `ledger.db`) on Render's persistent disk, not managed Postgres. The §4.2 schema applies as SQLite DDL (INTEGER PK for `bigserial`, TEXT/JSON for `jsonb`, TEXT ISO for timestamps).
+- **Market data:** Alpha Vantage behind `MarketDataProvider` — `GLOBAL_QUOTE` for price, `OVERVIEW` for market cap + shares (§7.4). Key in `.env` as `ALPHAVANTAGE_API_KEY`. Replaces Databento + EDGAR.
+- **Figures:** curated per company, precomputed **offline**. A one-time script runs the figure-extraction engine over a handful of each company's real figures and writes figure + extraction + doc-link rows into the app DB. The backend imports only `memo`; the figure-extraction packages are **not** a request-time dependency, so the two-package import/collision problem is out of scope for v1.
+- **Object storage:** skipped. FastAPI serves images from the Render disk (as the old Flask route did).
+- **Search:** deferred. The Data library filters cover browsing; the global search bar is a later add.
+- **Still required:** the compose persistence refactor (0b) and packaging `memo` (0a).
 
 ---
 
@@ -21,6 +34,37 @@ An internal research workstation for biotech analysts and PMs. Three nav section
 The atomic unit everywhere is an auditable claim: a value with a method, a confidence, and a link back to its source. That primitive is shared between the memo (a sentence) and a figure read (a number off a chart), which is what makes Stage 1 and Stage 2 read as one product.
 
 Non-technical framing is a hard constraint: no eval scores, token counts, latency, or model names in the UI. The only machine-confidence surfaced is the high/medium/low tier and, on a figure, the interval and dual-read agreement.
+
+---
+
+## Gaps and required pre-work (read before building)
+
+The Figma is complete and the API/schema below are sound, but a review of the two packages found that several things the screens need are **not produced by the engine today**. Do the Tier 0 items before fanning out builders; they are shared foundations every screen otherwise trips on.
+
+**Root cause.** The rendered-memo JSON (`compose/engine.py:605`) is **prose-only** (per section: prose + citations + figures). Every structured value the modules compute, per-module confidence, per-section summary, module notes, and most numeric claim values, is dropped before it reaches the ledger or the artifact. So the dashboard dots, KPIs, peak-sales number, rNPV, and metric takeaways have **no structured source today**. This is the single biggest gap and it drives half the list.
+
+### Tier 0 — blockers (do first)
+- **Package both trees.** Neither `investment-memo/` nor `figure-extraction/` has `pyproject.toml`; both import by bare top-level names (`memo`/`app`, `evaluation`/`corpus`) assuming different working dirs, with a name-collision risk. A single FastAPI process **cannot import both as-is**. Add packaging + `pip install -e` (namespace to avoid the `app`/`corpus` collisions).
+- **Persist structured fields in compose.** Change `_to_claim_records` / `_render_to_dict` (`engine.py:215,605`) to persist per-module confidence, per-section summary, numeric claim values (cash/debt/runway as numbers, not prose), the peak-sales **base**, and the **rNPV** (`rnpv_claim` is currently never called). Without this the entire Companies section is parsing prose. Highest-leverage change in the project.
+
+### Tier 1 — major (scope + build)
+- **Figures are largely unbuilt in the memo package.** No figure extraction on ingest (ingestion is text-only), no figure→document link (`FigureRecord` has no `doc_id`; the manifest is hand-seeded synthetic PNGs), and the VLM+CV dual-read is hand-calibrated to **one** figure (`fig02_waterfall`) and does not generalize. Arbitrary figures get a single-read `HarvestedExtractor` with free-text labels, so "also appears in" won't join without semantic matching. **Decision required:** ship figures on precomputed/sample data, or build the real pipeline (fetch PDFs, adapt `corpus/pdf_figures.py`, add `doc_id`, generalize the CV read or accept VLM-only and soften the confidence story). Biggest scope fork.
+- **No catalyst data.** No catalyst module, no date fields; regulatory is told to say "not disclosed". Build an extractor or weaken the dashboard's "next catalyst" to a proxy (trial `primary_completion_date`), which is not a readout date.
+- **Fair-value-vs-market needs four pieces, not one:** price (Databento, new), shares (EDGAR, not currently structured), market cap (missing by design), rNPV (computed, not persisted).
+- **No global search.** No `/search` route; retrieval is per-company only; companies/trials/filings are three different accessors. Net-new unified layer for the top bar.
+- **Generation has no guards.** `compose_memo` is callable but has **no per-company lock/idempotency** and **no rate-limit/retry/cost-cap** around 10+ serial paid model calls. A "Generate" click is unbounded cost and time. Add a job runner with a lock, status polling (the mock's progress state), retries, and a budget cap.
+- **Activity run-diffs aren't computable.** Manifests are overwritten and write-vs-skip isn't recorded, so `docs_added`/`docs_updated` can't be produced. Change ingestion to emit and persist per-run diffs.
+
+### Tier 2 — contained (specify)
+- **Audit reverse-lookup:** add `LedgerStore.get_evidence_by_id` (evidence_id is the PK) + an evidence→claim→memo join, or keep `memo_id` in the audit route.
+- **Config / auth / CORS:** all absent. `server.py` never loads `.env`; no CORS (a cross-origin Next frontend is blocked); no auth. All net-new.
+- **Object storage:** annotated images write to a path that falls back to the system temp dir. Upload to object storage with stable URLs.
+
+### Correction
+`claude-opus-5` and the `output_config` / adaptive-thinking API surface are **real and current** in this environment; generation runs with real credentials. (An earlier note in this project called these placeholders. That was wrong.)
+
+### Order
+Tier 0 first (packaging, then the compose persistence-refactor), then the figure-scope decision, before the screens fan out. §9 reflects this.
 
 ---
 
@@ -92,7 +136,7 @@ Install the two existing packages editable into the backend env (`pip install -e
 
 | Component | Action |
 |---|---|
-| `memo/` package | Keep unchanged. It is the domain source of truth. |
+| `memo/` package | Mostly unchanged, BUT `compose/engine.py` + `ledger` take the pre-work persistence refactor (0b): persist per-module confidence, per-section summary, numeric claim values, rNPV, and peak base. |
 | `figure-extraction/evaluation`, `figure-extraction/corpus` | Keep. Import `VlmExtractor`, `HarvestedExtractor`, `FigureStorage`. |
 | `investment-memo/app/` (Flask) | **Retire.** Its routes and audit logic (`server.py`) are the reference for the FastAPI endpoints; templates are reference for the audit drawer markup. |
 | `data/` | One shared root for backend. Same `ledger.db`, `memos/`, `<company>/<source>/`, `corpus/`, `traces/`. |
@@ -164,7 +208,8 @@ The system of record. Column names track the dataclass fields in §4.1 so the re
 create table companies (
   ticker text primary key,
   name text not null, lead_asset text, indication text, phase text,
-  shares_outstanding bigint          -- for per-share fair value; from filings or manual
+  shares_outstanding bigint,         -- from EDGAR XBRL; market_cap = price × shares (§7.4)
+  shares_as_of date                  -- freshness of the share count (filing date)
 );
 
 create table documents (
@@ -205,7 +250,18 @@ create table claims (
   claim_id text primary key,
   memo_id text references memos(memo_id),
   section text, module text, statement text,
-  confidence double precision, rationale text, value text
+  confidence double precision, rationale text,
+  value text, value_num double precision, value_unit text   -- 0b: parsed numeric beside prose
+);
+
+-- 0b: per-section rollup the modules compute today but compose currently DROPS
+create table memo_sections (
+  memo_id text references memos(memo_id),
+  section_id text, module text,
+  confidence double precision,       -- per-module confidence → conviction dots (§7.2)
+  tier text,                         -- high|med|low
+  summary text,                      -- one-line metric-panel takeaway
+  primary key (memo_id, section_id)
 );
 
 create table evidence (
@@ -226,7 +282,7 @@ create table drug_prices ( id bigserial primary key, company text, drug text, ge
   manufacturer text, price_per_unit double precision, unit text, period text,
   source text, doc_type text, doc_id text, url text );
 
--- market data from Databento (§7.4)
+-- market data (§7.4): price from Databento; market_cap = price × EDGAR shares
 create table price_snapshots (
   ticker text references companies(ticker),
   market_price double precision, market_cap double precision, shares bigint,
@@ -241,9 +297,11 @@ create table ingestion_runs (
 );
 create table generation_runs (
   run_id text primary key,                      -- = memo_id
-  ran_at timestamptz, company text, trigger text,
-  status text, output text, refusal_reason text -- status 'completed'|'refused'
-);
+  company text, ran_at timestamptz, trigger text,
+  status text, output text, refusal_reason text, -- status 'completed'|'refused'|'running'
+  model text, input_tokens int, output_tokens int,
+  cost_usd double precision, duration_s double precision, memo_id text
+);  -- written by compose_memo itself; cost/tokens surfaced on Activity for now (§7.5, §11)
 
 create index on figures(doc_id);
 create index on extractions(figure_id);
@@ -298,7 +356,7 @@ Aggregation service required (§7.1). `conviction` maps per-section analysis con
   memo_id: string|null
 }
 ```
-`takeaway` = the section summary (`AnalysisResult.summary` / the section's lead claim). `cash`, `market_cap` from `FilingRecord` + structured extraction; `runway` derived.
+`takeaway` = the persisted per-section summary (`memo_sections.summary`, added in 0b). `cash`/`debt`/`runway` come from the `price` module's claims parsed to `value_num` in 0b — **`FilingRecord` carries no financials**, these are prose in `claim.statement` today. `market_cap` = latest `price_snapshots` (price × shares); `upside` = rNPV vs market cap.
 
 **`GET /api/memos/{memo_id}`** → the rendered memo, verbatim from `compose.engine.load_artifact(memo_id)`. Shape already defined in §4.1. This backs the memo prose, inline citations, and inline figures.
 
@@ -306,9 +364,9 @@ Aggregation service required (§7.1). `conviction` maps per-section analysis con
 
 **`GET /api/evidence/{evidence_id}`** → audit drawer target.
 ```
-{ evidence: EvidenceRecord, claim: ClaimRecord }   // reverse-lookup via get_claims walk
+{ evidence: EvidenceRecord, claim: ClaimRecord }
 ```
-Mirror of the Flask `audit` route (`app/server.py:102`): walk `store.get_claims(memo_id)` to find the evidence, return its claim + evidence.
+Needs a new `get_evidence_by_id(evidence_id)` (evidence_id is the PK) joining evidence→claim→memo. The current Flask route only resolves within a known `memo_id` (`app/server.py:102`), which this memo-less route cannot do; the reverse lookup does not exist today. O(1) once the store method + join are added.
 
 Actions (POST):
 - **`POST /api/companies/{ticker}/generate`** → enqueue a memo generation (wraps `compose_memo`), returns a `GenerationRun` id. Async job (§7.5).
@@ -376,10 +434,11 @@ Action:
    duration_s, status: "success"|"partial"|"failed", note }]
 ```
 
-**`GET /api/activity/generations?limit=`** → from `MemoRecord` + `data/traces/<memo_id>.jsonl`.
+**`GET /api/activity/generations?limit=`** → from the `generation_runs` table (§7.5).
 ```
 [{ run_id: memo_id, when, company, trigger: "scheduled"|"manual"|"data_change",
    status: "completed"|"refused", output: "N claims · M sections" | refusal_reason,
+   model, input_tokens, output_tokens, cost_usd, duration_s,   // surfaced for now (§11)
    memo_id }]
 ```
 `status`/`output` from `MemoRecord.status` and `.notes` (refusal string: `"refused: required section(s) had no grounded claims: ..."`, `engine.py:140`).
@@ -398,7 +457,7 @@ Actions:
 |---|---|---|---|---|
 | Coverage dashboard | `/` | `GET /companies` | `valuation`, `peak_sales`, analysis confidences, `structured.trials` | aggregation service (§7.1), conviction tiering (§7.2), price feed (§7.4) |
 | Company detail | `/company/[ticker]` | `GET /companies/{t}`, `GET /companies/{t}/memo` | `ledger`, `compose.load_artifact`, `report` | exists; KPIs need cash/shares extraction |
-| Audit drawer | overlay on company page | `GET /evidence/{id}` | `ledger` | exists |
+| Audit drawer | overlay on company page | `GET /evidence/{id}` | `ledger` | needs `get_evidence_by_id` (no reverse index today) |
 | Data library | `/data` | `GET /documents`, `GET /figures` | `ingestion.Storage`, figures | document index (§7.3), figure counts, cited-by counts |
 | Document view | `/data/document/[docId]` | `GET /documents/{id}` | `ingestion.Storage`, figures, `ledger` | figure↔doc link (§7.3), inline extraction affordance |
 | Figure view | `/data/figure/[figureId]` | `GET /figures/{id}` | `evaluation.VlmExtractor`, `corpus.FigureStorage` | predictions persistence (§7.6), cross-doc conflict (§7.3) |
@@ -425,19 +484,21 @@ With Postgres as the store, most of this stops being bespoke code and becomes qu
 - **cited_by / figure counts:** the index queries listed under §4.2 (counts over `figures` and `evidence`). This requires evidence that rests on a figure to set `evidence.figure_id` (extend the grounding step so a figure-backed claim records the figure id alongside the doc id).
 - **also_appears_in / conflict:** self-join `extractions` on `quantity_key` across figures; flag when `value_raw` differs beyond the quantity's tolerance. This surfaces the Stage-1 "figures disagree" case.
 
-### 7.4 Price adapter — Databento
-- A `DatabentoPriceProvider` on the worker pulls last price per ticker and writes `price_snapshots` on a schedule (e.g. every few minutes during market hours, plus on demand). Interface `PriceProvider.get(ticker) -> {market_price, market_cap, shares, as_of}`.
-- Databento supplies **price only** (it is market data, not fundamentals: no shares outstanding, no market cap). `shares_outstanding` comes from **EDGAR XBRL** (the `dei:EntityCommonStockSharesOutstanding` fact, available via SEC `companyfacts`), which is already ingested; store it on `companies`/`filings`. Then `market_cap = market_price * shares_outstanding`, and fair-value-per-share divides rNPV by the same share count.
-- Keep the interface abstract so a stub can stand in for local dev without a Databento key. The dashboard reads the latest `price_snapshots` row; it is the one number not produced by the engine, so label its provenance internally.
+### 7.4 Market data adapter — Alpha Vantage
+- A `MarketDataProvider.get(ticker) -> {market_price, market_cap, shares?, as_of}` on the worker refreshes `price_snapshots`, backed by Alpha Vantage (free key in `.env` as `ALPHAVANTAGE_API_KEY`).
+- **Endpoints:** `GLOBAL_QUOTE` → latest price; `OVERVIEW` → `MarketCapitalization` + `SharesOutstanding` (and name/description, usable to seed the registry). Market cap comes **directly**, so `upside = rnpv_total / market_cap - 1` and `fair_value_per_share = market_price * (rnpv_total / market_cap)` — no separate share count needed for the math (shares stored for display only).
+- **Rate limit:** free tier ~25 requests/day. Cache aggressively: fetch `OVERVIEW` once/day (slow-moving), `GLOBAL_QUOTE` a couple times/day. Five names × 2 endpoints = ~10/day for a daily refresh, within budget.
+- **Consensus:** no feed in this configuration; the memo reconstructs an implied expectation and states its assumptions (§11).
+- Keep the interface abstract so a stub can stand in for local dev, and so Databento/FactSet/Polygon can replace Alpha Vantage later without touching anything downstream.
 
 ### 7.5 Runs store (Activity) — `ingestion_runs` / `generation_runs`
 - **IngestionRun** row written when the worker runs `cli ingest`: aggregate that run's per-source `IngestManifest`s into scope, sources, docs added/updated (diff vs prior), duration, status (`success` if no `manifest.errors`, `partial` if some, `failed` if all), note (first error).
-- **GenerationRun** row written when the worker runs `compose_memo`: `run_id = memo_id`, status/output from `MemoRecord.status` + `.notes` (refusal string), duration from the trace JSONL. Cost stays internal (never in the API).
+- **GenerationRun** row: `compose_memo` writes it itself now (so the CLI and the worker both get it), with `run_id = memo_id`, status/output from `MemoRecord.status` + `.notes`, plus model, tokens, `cost_usd`, and duration from the `RunSession`. Cost + tokens are **surfaced on the Activity page for now** as a dev aid (§11), to become internal-only later.
 - Each triggered job inserts a row with `status = running`, then updates it on completion. Use the worker's queue, not an inline request.
 
 ### 7.6 Predictions store (Stage 1) — `extractions` table
 - Today `Prediction`s are in-memory only. Persist them to `extractions` (§4.2), one row per `(figure_id, quantity_key)`, plus computed `agreement` and `tier`.
-- Populate on the worker: `VlmExtractor.extract(GoldFigure(...))` for the closed-schema known figures, or `HarvestedExtractor` for arbitrary real figures (open-schema, `method="vlm_harvested"`); for waterfall/KM the `cv/` measurement is the independent second read. `figure_id` joins to the `figures` row. Run this as part of ingest (extract when a figure lands) and via `POST /figures/{id}/extract`.
+- Populate on the worker: `HarvestedExtractor` for arbitrary real figures (open-schema, `method="vlm_harvested"`, **single read, no CV cross-check, `reads={}`**). The `VlmExtractor` + `cv/` dual-read only covers the closed set, and CV is presently calibrated to **one** figure (`fig02_waterfall`) — a real ingested figure gets a VLM-only read unless per-figure CV calibration (or a general CV method) is built. `figure_id` joins to the `figures` row. Run as part of ingest and via `POST /figures/{id}/extract`.
 - `tier`: derived from confidence + dual-read agreement (agree + high → `unattended`; diverge or low → `review`; interpretive/unresolvable → `cannot_resolve`). Analyst-facing triage only; the eval metrics behind it stay out of the API.
 - The bespoke figure logic (router, `cv/` measurement, quantity-key contract, confidence/interval model) is unchanged; only the write to `extractions` is new.
 
@@ -484,16 +545,24 @@ Tailwind, configured from the tokens in Appendix A. Two fonts: Inter (sans) and 
 
 ## 9. Build sequence
 
-1. **Scaffold:** monorepo, FastAPI app + CORS, worker, Next app, Tailwind from tokens, the two Python roots installed as deps. Stand up Postgres (§4.2), run the migration loader to import the existing `data/`.
-2. **Design system:** tokens → tailwind config, then the shared components (chips, tables, shell) against static data.
-3. **Company detail + audit** (endpoints already backed by ledger + rendered memo). Highest-value, lowest-gap. Proves the audit primitive end to end.
-4. **Coverage dashboard:** company registry + summary aggregation (§7.1, §7.2) + price stub (§7.4).
-5. **Data library + document view:** document index + figure link (§7.3).
-6. **Figure view:** predictions store + Stage-1 wiring (§7.6).
-7. **Activity:** runs store + triggers (§7.5).
-8. **Actions:** generate/re-run as background jobs.
+**Pre-work first** (see "Gaps and required pre-work") — the screens depend on it, so do it before any parallel fan-out:
 
-Ship steps 1–3 as a working slice first; the rest layer on.
+- **0a. Package both trees** and install as deps into the backend env (resolves the import blocker).
+- **0b. Compose persistence-refactor:** persist per-module confidence, per-section summary, numeric claim values, peak base, and rNPV, so the app reads structured data, not prose. This unblocks the entire Companies section at once.
+- **0c. Decide figure scope:** precomputed/sample data vs the real extract-on-ingest pipeline (§7.3, §7.6).
+
+Then:
+
+1. **Scaffold:** monorepo, FastAPI + CORS + auth gate, worker, Next app, Tailwind from tokens. Stand up Postgres (§4.2); run the migration loader to import the existing `data/`.
+2. **Design system:** tokens → tailwind config, then the shared components (chips, tables, shell) against static data.
+3. **Company detail + audit** (add `get_evidence_by_id`; reads ledger + rendered memo). Lowest-gap, proves the audit primitive end to end.
+4. **Coverage dashboard:** company registry + summary aggregation (§7.1, §7.2, needs 0b) + price adapter (§7.4).
+5. **Data library + document view:** document index + figure link (§7.3).
+6. **Figure view:** per the scope decision in 0c (predictions store + Stage-1 wiring, §7.6).
+7. **Activity:** runs store (needs the ingestion run-diff change, §7.5) + triggers with the job guards.
+8. **Actions:** generate/re-run as **guarded** background jobs (lock, status, retries, budget cap).
+
+Ship 0a–3 as the first working slice; the rest layer on.
 
 ---
 
@@ -505,7 +574,7 @@ Resolved:
 Also resolved: **Backend host** = Render (FastAPI + worker + Postgres). **`shares_outstanding`** = EDGAR XBRL (`dei:EntityCommonStockSharesOutstanding` via SEC `companyfacts`), already ingested.
 
 Still to confirm:
-1. **Databento specifics:** which dataset/schema for these equities, and the account/API key.
+1. **Databento specifics:** which equities dataset/schema and the API key. (FactSet deferred for now; it can replace price + shares + consensus later behind the `MarketDataProvider` interface.)
 2. **When to switch auth** from the shared password to per-user SSO (before or after first internal users).
 
 ---
@@ -513,8 +582,8 @@ Still to confirm:
 ## 11. Non-goals / stubs / open questions
 
 - **No eval surfaces in the app.** The eval harness (`memo/eval/`, figure-extraction reports) stays internal. The only machine-confidence in the UI is the tier + figure interval + dual-read agreement.
-- **Cost/tokens/model stay internal.** `trace.py` records them; the Activity API does not surface them.
-- **Consensus estimates** have no clean public feed; the "market price vs thesis" market side depends on §7.4.
+- **Cost/tokens/model: surfaced on Activity for now, internal later.** Persisted per run in `generation_runs` and shown on the Activity page as a development aid; the plan is to hide them once the app is in analysts' hands, leaving only status/outcome.
+- **Consensus estimates** have no clean feed in the Databento + EDGAR configuration; the memo reconstructs an implied expectation from public data and states its assumptions. A vendor (FactSet) would replace this later behind the same interface.
 - **Multi-asset companies:** memo is per company for v1 (per the design). Revisit if a company needs per-asset memos.
 - **Editing:** read-and-audit for v1. Value cells, the peak-sales assumptions block, and a notes rail are designed to become editable later without a redesign (analyst overrides an assumption, valuation recomputes). Out of scope now.
 

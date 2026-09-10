@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "perceptive-backend"
+version = "0.1.0"
+description = "FastAPI backend for the Research Workstation. Reads the memo ledger; serves the app."
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    # The memo engine is installed editable alongside this package:
+    #   pip install -e ../investment-memo -e .
+    # (a local path dep, so it is not listed here as a PyPI requirement)
+]
+
+[tool.setuptools.packages.find]
+include = ["app*"]

@@ -179,3 +179,51 @@ so treat the decimals as directional until the calibration pass.
   (~15). A normalized/reranker/dense confidence would make abstention (and the hard-negative
   eval) sharp.
 - **Human verification of drafted gold** (retrieval incl. the new hard cases, extraction).
+
+## Web app, valuation, and figures (2026-09-10)
+
+Parked during the unified-web-app build. The app runs end to end and is demoable; these
+are conscious deferrals, not blockers.
+
+- **Implied-PoS direction signal (not built, read-side).** The dashboard's "Lead-asset
+  coverage" (rNPV / market cap) was reframed as a value *floor*, so it deliberately does
+  not justify the long/short/neutral call. The data that would justify direction is the
+  gap between our evidence-grounded PoS and the PoS the price implies. It is computable at
+  read time with no recompose: `unadjusted NPV = rNPV / our_pos`, `implied_pos =
+  enterprise_value / unadjusted NPV`; direction falls out of `our_pos` vs `implied_pos`.
+  Slots into the new top "call" block next to the variant view. Caveat: market cap prices
+  the whole company, so `implied_pos` on the lead asset alone often exceeds 100% (read it
+  as an upper bound, and where it does, the finding is that the price requires the pipeline
+  to carry real value).
+- **KYMR / COGT peak-sales outliers (deferred; the Tier-B valuation).** After all the
+  epidemiology fixes, three of five sit in a sane coverage band but two do not: KYMR ~182%
+  (peak ~$55B, single-indication AD but gross pre-rebate pricing and ~20% penetration of
+  all moderate-to-severe AD) and COGT ~1.2% (peak understated, grounded only on rare
+  advanced systemic mastocytosis, ignoring non-advanced SM + GIST). The fix is to size the
+  lead *asset* across its main indications, apply a gross-to-net haircut, and cap
+  single-drug penetration (coordinated with the rNPV margin step so margin is not
+  double-counted). We chose the honest reframe over building this. Needs a recompose. This
+  is the multi-*indication* case; a multi-*drug* sum-of-parts (e.g. PRAX's three programs)
+  is a further step that would also need a multi-drug page.
+- **Real chart-image ingestion for the five coverage companies (not built).** The figures
+  the memo inserts/annotates for ABVX/KYMR/PRAX/IMVT/COGT are labeled-synthetic stand-ins
+  built from each company's real reported numbers (source URLs are genuine, `synthetic:true`
+  in the manifest), because document ingestion pulls text only and no clean public chart
+  image was downloadable (e.g. ABTECT results are HTML tables). The brief wants real figures
+  taken from company presentations. Fix: fetch IR-deck / paper PDFs and extract the chart
+  images per claim, best-effort (some companies disclose results as tables with no chart).
+  Overlaps "IR deck scraping + figures (not built)" above. The Data > Figures tab already
+  lists the *real* ingested figure corpus we do have (6 Stage-1 slides + ~409 harvested
+  FDA/PMC figures); those are just not tied to the five tickers.
+- **Unify the KYMR figure path (small).** KYMR is not in the `memo.figures.ingest` REGISTRY;
+  its figures come from a bundled `memo/figures/samples/KYMR.json` instead of an ingested
+  `data/KYMR/figures/manifest.json`. Fold KYMR into the ingest registry so all five flow
+  through one path.
+- **Harvested-corpus figure captions (small).** FDA corpus figures usually have an empty
+  caption and a generic auto-title on disk, so the Figures tab falls back to the first line
+  of the figure's context (often a document header). Real, but weak. A caption pass over the
+  harvested corpus (or reading the nearby figure legend) would sharpen those cards.
+- **Eval-framework consolidation (deliverable #4).** Evals exist piecemeal (retrieval,
+  epi-retrieval, epi-grounding, figure extraction/scoring, the faithfulness/grading backlog
+  above). Consolidate into one coherent framework with the brief's documentation: what was
+  built, what is unreliable, what a further month would fix, and the cost of one run.

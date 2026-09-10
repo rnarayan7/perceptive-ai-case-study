@@ -7,6 +7,7 @@ calls, against the bundled sample images.
 
 from __future__ import annotations
 
+import json
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Optional
@@ -155,3 +156,70 @@ def test_figures_for_claims_unknown_company_returns_empty():
 
 def test_figures_for_claims_empty_claims_returns_empty():
     assert figures_for_claims("KYMR", []) == []
+
+
+# --- offline figure ingestion (memo.figures.ingest) --------------------------
+
+def test_normalize_box_clamps_and_orders():
+    from memo.figures.ingest import _normalize_box
+
+    # Out-of-range and reversed corners are clamped and reordered.
+    assert _normalize_box([620, 405, 583, 187], 720, 460) == [583, 187, 620, 405]
+    assert _normalize_box([-10, -10, 800, 500], 720, 460) == [0, 0, 720, 460]
+    # Degenerate / malformed boxes are rejected.
+    assert _normalize_box([100, 100, 101, 101], 720, 460) is None
+    assert _normalize_box([1, 2, 3], 720, 460) is None
+    assert _normalize_box("nope", 720, 460) is None
+
+
+def test_extract_json_tolerates_prose_and_fences():
+    from memo.figures.ingest import _extract_json
+
+    assert _extract_json('here it is: {"box": [1, 2, 3, 4]} done') == {"box": [1, 2, 3, 4]}
+    assert _extract_json("no json here") is None
+
+
+def test_ingest_company_offline_writes_manifest_and_annotated(tmp_path):
+    """The --no-vlm path produces a manifest + annotated previews with no model."""
+    from memo.figures.ingest import ingest_company
+
+    summary = ingest_company("ABVX", data_root=tmp_path, use_vlm=False)
+    assert summary["figures"] == 2
+    assert summary["vlm_reads"] == 0  # fallback regions, no model call
+
+    fig_dir = tmp_path / "ABVX" / "figures"
+    manifest = json.loads((fig_dir / "manifest.json").read_text())
+    assert manifest["company"] == "ABVX"
+    assert manifest["region_source"] == "fallback"
+    assert len(manifest["figures"]) == 2
+    for entry in manifest["figures"]:
+        # Synthetic stand-ins must be labeled as such (as KYMR does).
+        assert entry["synthetic"] is True
+        assert (fig_dir / entry["image"]).exists()
+        annotated = fig_dir / "annotated" / f"{entry['figure_id']}.png"
+        assert annotated.exists() and annotated.stat().st_size > 0
+
+
+def test_ingested_manifest_is_picked_up_by_pipeline(tmp_path):
+    """A memo compose reads the ingested manifest off disk and annotates from it."""
+    from memo.figures.ingest import ingest_company
+    from memo.ingestion.base import Storage
+
+    ingest_company("ABVX", data_root=tmp_path, use_vlm=False)
+    storage = Storage(root=tmp_path)
+
+    manifest = resolve_manifest("ABVX", storage=storage)
+    assert manifest is not None and len(manifest) == 2
+
+    claim = _claim(
+        "Obefazimod delivered a pooled +16.4% placebo-adjusted clinical remission "
+        "at Week 8 in the ABTECT induction trials.",
+        value="16.4%",
+    )
+    figures = figures_for_claims("ABVX", [claim], storage=storage)
+    # Each distinct figure is inserted at most once (no per-claim duplication).
+    assert figures
+    assert len(figures) == len({f.figure_id for f in figures})
+    assert "abvx-obefazimod-abtect-induction-remission" in {f.figure_id for f in figures}
+    for fig in figures:
+        assert Path(fig.image_ref).exists()

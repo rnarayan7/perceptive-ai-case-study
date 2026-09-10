@@ -1,0 +1,11 @@
+{
+  "company": "KYMR",
+  "lead_asset": "KT-621 (STAT6 degrader)",
+  "lead_indication": "atopic dermatitis",
+  "indication_terms": ["atopic dermatitis", "eczema", "kt-621", "stat6"],
+  "epi_terms": ["prevalence", "patients", "adults", "population", "united states", "severity", "moderate", "severe"],
+  "plausible_population_min": 1500000,
+  "plausible_population_max": 17000000,
+  "relevant_doc_ids": ["30389491"],
+  "note": "Kymera's lead asset KT-621 (oral STAT6 degrader) targets atopic dermatitis. US adult AD prevalence anchor: Chiesa Fuxench et al, Atopic Dermatitis in America Study, J Invest Dermatol 2019 (PMID 30389491, ingested at data/KYMR/pubmed/30389491.json): adult AD prevalence 7.3%, of which ~28.9% moderate and ~11% severe (~40% moderate-to-severe). That puts all-adult AD near 16-17M and the addressable moderate-to-severe treatable segment near 6-7M. The band spans the treatable segment up to all-adult AD. CRITICAL: this is atopic dermatitis ALONE. Do NOT aggregate asthma/COPD/EoE/CRSwNP into the population (the over-aggregation bug that inflated peak sales to ~$23B); size AD only and note other immunology programs qualitatively."
+}

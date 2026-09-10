@@ -114,34 +114,51 @@ def figures_for_claims(company: str, claims: List[Any], storage: Any = None) -> 
         return []
 
     figures = list(manifest.figures)
+    claim_list = list(claims or [])
     out_dir = _output_dir(company, storage)
+
+    # Clear stale per-claim annotations from an earlier run (the old "<id>_c<index>"
+    # naming) so a figure is not left duplicated on disk; this run writes one image per
+    # figure, keyed only by figure id.
+    for stale in out_dir.glob("*_c*.png"):
+        try:
+            stale.unlink()
+        except OSError:
+            pass
+
     results: List[Figure] = []
 
-    for index, claim in enumerate(claims or []):
-        match = best_figure(claim, figures)
-        if match is None:
+    # Insert each distinct figure once, at the single claim it best supports, rather than
+    # repeating the same image on every claim that mentions the asset.
+    for figure in figures:
+        best_claim = None
+        best_score = 0
+        for claim in claim_list:
+            s = score(claim, figure)
+            if s >= _MIN_SCORE and s > best_score:
+                best_claim, best_score = claim, s
+        if best_claim is None:
             continue
-        if not match.image_path or not Path(match.image_path).exists():
+        if not figure.image_path or not Path(figure.image_path).exists():
             # A manifest can reference an image we do not have on disk yet; skip it
             # rather than fail the whole run.
             continue
 
         try:
-            with Image.open(match.image_path) as img:
+            with Image.open(figure.image_path) as img:
                 size = img.size
         except Exception:  # noqa: BLE001 - unreadable image, skip this figure
             continue
 
-        annotation = match.to_annotation(image_size=size)
-        stem = f"{match.figure_id}_c{index}"
-        out_path = out_dir / f"{stem}.png"
-        image_ref = annotate_image(match.image_path, out_path, [annotation])
+        annotation = figure.to_annotation(image_size=size)
+        out_path = out_dir / f"{figure.figure_id}.png"
+        image_ref = annotate_image(figure.image_path, out_path, [annotation])
 
         results.append(Figure(
-            figure_id=match.figure_id,
-            caption=match.caption,
+            figure_id=figure.figure_id,
+            caption=figure.caption,
             image_ref=image_ref,
-            claim_id=_claim_id(claim),
+            claim_id=_claim_id(best_claim),
         ))
 
     return results

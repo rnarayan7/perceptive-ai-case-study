@@ -80,9 +80,11 @@
       "id": "prax-cash-position-10q",
       "query": "cash and cash equivalents reported in the Praxis quarterly report",
       "relevant_doc_ids": [
-        "000168954826000083"
+        "000168954826000083",
+        "cash_and_equivalents",
+        "cash_and_short_term_investments"
       ],
-      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet."
+      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet. | XBRL structured cash fact is the precise answer and ranks #1; 10-Q accession also acceptable."
     },
     {
       "id": "prax-going-concern-10q",

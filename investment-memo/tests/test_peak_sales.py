@@ -62,7 +62,8 @@ def test_estimate_peak_sales_exact_arithmetic():
     assert out["patients_on_drug"] == 15_000
     assert out["gross_revenue"] == 1_500_000_000
     assert out["risk_adjusted"] == 600_000_000
-    assert out["sensitivity"]["base"] == 600_000_000
+    # base is now GROSS peak sales (PoS is applied once, in valuation), not risk-adjusted.
+    assert out["sensitivity"]["base"] == 1_500_000_000
 
 
 def test_estimate_peak_sales_sensitivity_brackets_base():
@@ -77,10 +78,10 @@ def test_estimate_peak_sales_sensitivity_brackets_base():
     sens = out["sensitivity"]
 
     assert sens["low"] < sens["base"] < sens["high"]
-    # +/-20% on both penetration and price: 0.8^2 and 1.2^2 of base.
-    assert sens["low"] == pytest.approx(600_000_000 * 0.64)
-    assert sens["high"] == pytest.approx(600_000_000 * 1.44)
-    assert out["range_str"] == "$0.4-0.9B"
+    # Gross base $1.5B; +/-20% on both penetration and price: 0.8^2 and 1.2^2 of base.
+    assert sens["low"] == pytest.approx(1_500_000_000 * 0.64)
+    assert sens["high"] == pytest.approx(1_500_000_000 * 1.44)
+    assert out["range_str"] == "$1.0-2.2B"
 
 
 def test_estimate_peak_sales_range_string_format():

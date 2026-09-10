@@ -1,0 +1,11 @@
+{
+  "company": "PRAX",
+  "lead_asset": "ulixacaltamide (essential tremor, NDA accepted) / vormatrigine (PRAX-628, focal epilepsy)",
+  "lead_indication": "a broad CNS commercial indication (essential tremor or focal epilepsy)",
+  "indication_terms": ["essential tremor", "tremor", "focal", "epilepsy", "seizure", "fos", "focal onset", "ulixacaltamide", "vormatrigine", "prax-628", "movement disorder"],
+  "epi_terms": ["prevalence", "incidence", "patients", "population", "people with epilepsy", "million", "drug-resistant", "refractory", "diagnosed", "adults living with"],
+  "plausible_population_min": 100000,
+  "plausible_population_max": 10000000,
+  "relevant_doc_ids": ["20175185", "34277141"],
+  "note": "Praxis's lead commercial programs target broad CNS indications: ulixacaltamide for essential tremor (NDA accepted; US ET prevalence ~7M) and vormatrigine (PRAX-628) for focal onset epilepsy (US ~hundreds of thousands to a few million). Either is a defensible lead commercial denominator in the 100k-10M band. The peak-sales addressable population must be sized to one of these broad markets, NOT to a niche rare-pediatric program (elsunersen/PRAX-222 SCN2A-DEE, a few thousand patients) where the model previously anchored (4,000). Essential-tremor prevalence anchors are now ingested (data/PRAX/pubmed/): Louis & Ferreira, 'How common is the most common adult movement disorder? Update on the worldwide prevalence of essential tremor', Mov Disord 2010 (PMID 20175185), and Louis et al, 'How Common is Essential Tremor? Update on the Worldwide Prevalence of Essential Tremor', Tremor Other Hyperkinet Mov 2021 (PMID 34277141). These give the pooled ~0.9-1.3% prevalence behind the ~7M US ET estimate, so the epi-retrieval eval now surfaces essential-tremor prevalence literature for the lead indication."
+}

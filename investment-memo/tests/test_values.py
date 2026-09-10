@@ -10,7 +10,7 @@ from __future__ import annotations
 import pytest
 
 from memo.analysis.base import AnalysisResult, Claim
-from memo.compose.values import peak_sales_usd, pos_fraction
+from memo.compose.values import parse_numeric, peak_sales_usd, pos_fraction
 
 
 def _result(module, values):
@@ -50,3 +50,24 @@ def test_pos_single_and_fraction_forms():
     assert pos_fraction(_result("pos", ["40%"])) == pytest.approx(0.40)
     assert pos_fraction(_result("pos", ["0.45"])) == pytest.approx(0.45)
     assert pos_fraction(_result("pos", ["150%"])) == pytest.approx(1.0)  # clamped
+
+
+def test_parse_numeric_forms():
+    # 0b: (number, unit) for ClaimRecord.value_num / value_unit.
+    n, u = parse_numeric("$0.4-0.9B")
+    assert n == pytest.approx(0.65e9) and u == "USD"
+    n, u = parse_numeric("$500M")
+    assert n == pytest.approx(5e8) and u == "USD"
+    n, u = parse_numeric("35-50%")
+    assert n == pytest.approx(42.5) and u == "%"
+    n, u = parse_numeric("$58.00")
+    assert n == pytest.approx(58.0) and u == "USD"
+    n, u = parse_numeric("0.62")
+    assert n == pytest.approx(0.62) and u is None
+    # A "(0-1)" scale annotation must not pull the midpoint to 0.5.
+    n, u = parse_numeric("0.3 fraction (0-1)")
+    assert n == pytest.approx(0.3) and u is None
+    n, u = parse_numeric("0.12 probability (0-1)")
+    assert n == pytest.approx(0.12) and u is None
+    assert parse_numeric(None) == (None, None)
+    assert parse_numeric("not reached") == (None, None)
