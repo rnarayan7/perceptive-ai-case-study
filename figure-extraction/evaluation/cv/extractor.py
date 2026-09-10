@@ -19,7 +19,9 @@ from typing import Dict, List, Optional
 
 from evaluation.cv.calibrate import LinearAxis, LogAxis
 from evaluation.cv.image import Image
+from evaluation.cv import forest as fo
 from evaluation.cv import kaplan_meier as km
+from evaluation.cv import pk
 from evaluation.cv import waterfall as wf
 from evaluation.parse import parse_value
 from evaluation.types import Family, GoldFigure, Prediction
@@ -43,7 +45,11 @@ class CvExtractor:
             return self._waterfall(figure, image, config)
         if config.get("figure_type") == "kaplan_meier":
             return self._kaplan_meier(figure, image, config)
-        return []  # other geometric types: same shape, not yet wired
+        if config.get("figure_type") == "forest":
+            return self._forest(figure, image, config)
+        if config.get("figure_type") == "pk":
+            return self._pk(figure, image, config)
+        return []  # unknown geometric type
 
     def _waterfall(self, figure, image, config) -> List[Prediction]:
         predictions: List[Prediction] = []
@@ -120,6 +126,76 @@ class CvExtractor:
                 ))
         return predictions
 
+    def _forest(self, figure, image, config) -> List[Prediction]:
+        """Hazard ratio + CI per row, and which CIs cross 1, off a forest plot."""
+        predictions: List[Prediction] = []
+        x_axis = _build_axis(config["x_axis"])
+        x_unc = _axis_uncertainty(x_axis)
+        rows_y = [(r["label"], r["y0"], r["y1"]) for r in config["rows"]]
+        forest_rows = fo.measure_forest(
+            image,
+            marker_color=tuple(config["marker_color"]),
+            tol=config.get("tol", 40),
+            x_axis=x_axis,
+            rows_y=rows_y,
+            x_range=tuple(config["x_range"]),
+            whisker_color=tuple(config["whisker_color"]) if config.get("whisker_color") else None,
+            marker_frac=config.get("marker_frac", 0.5),
+        )
+        for r in forest_rows:
+            predictions.append(self._pred(
+                figure, f"hazard_ratio.{r.label}",
+                f"{r.point_value:.2f} ({r.ci_low:.2f}-{r.ci_high:.2f})",
+                confidence=_conf(x_unc, r.point_value),
+            ))
+        crossers = fo.crosses_one(forest_rows)
+        if forest_rows:
+            predictions.append(self._pred(
+                figure, "ci_crosses_one",
+                ", ".join(crossers) if crossers else "none",
+                confidence=0.7,
+            ))
+        return predictions
+
+    def _pk(self, figure, image, config) -> List[Prediction]:
+        """Concentration reads and fold-multiples off a log-scale PK curve."""
+        predictions: List[Prediction] = []
+        x_axis = _build_axis(config["x_axis"])
+        y_axis = _build_axis(config["y_axis"])          # a LogAxis for PK
+        y_fold = y_axis.fold_per_pixel() if isinstance(y_axis, LogAxis) else 1.0
+        threshold = config.get("threshold_conc")
+        for curve_cfg in config.get("curves", []):
+            suffix = curve_cfg["curve_key_suffix"]
+            curve = pk.trace_curve(
+                image,
+                curve_color=tuple(curve_cfg["curve_color"]),
+                tol=curve_cfg.get("tol", 40),
+                x_range=tuple(config["x_range"]),
+                y_range=tuple(config["y_range"]),
+            )
+            if not curve:
+                continue
+            for day in curve_cfg.get("concentration_days", []):
+                conc = pk.concentration_at(curve, x_axis, y_axis, day)
+                if conc is not None:
+                    predictions.append(self._pred(
+                        figure, f"conc_day{day}.{suffix}", f"{conc:.3g} nM",
+                        confidence=_fold_conf(y_fold)))
+            for pair in curve_cfg.get("fold_pairs", []):
+                fold = pk.fold_multiple(curve, x_axis, y_axis, pair[0], pair[1])
+                if fold is not None:
+                    predictions.append(self._pred(
+                        figure, f"fold_d{pair[0]}_d{pair[1]}.{suffix}", f"{fold:.1f}x",
+                        confidence=_fold_conf(y_fold)))
+            if threshold:
+                peak = pk.concentration_at(curve, x_axis, y_axis, curve_cfg.get("peak_day", 0))
+                tf = pk.threshold_fold(peak, threshold) if peak is not None else None
+                if tf is not None:
+                    predictions.append(self._pred(
+                        figure, f"threshold_fold.{suffix}", f"{tf:.1f}x",
+                        confidence=_fold_conf(y_fold)))
+        return predictions
+
     def _pred(self, figure, key, value_raw, confidence) -> Prediction:
         return Prediction(
             figure_id=figure.figure_id, figure_type=figure.figure_type,
@@ -135,6 +211,11 @@ class CombinedExtractor:
         self.vlm = vlm
         self.cv = cv
         self.prefer_cv = prefer_cv  # for geometric keys, which read is primary
+
+    @property
+    def routed(self) -> Dict[str, str]:
+        """The VLM router's figure-type calls, so the runner can score routing."""
+        return getattr(self.vlm, "routed", {})
 
     def extract(self, figure: GoldFigure) -> List[Prediction]:
         vlm_preds = {p.quantity_key: p for p in self.vlm.extract(figure)}
@@ -185,6 +266,12 @@ def _conf(unc: float, value: Optional[float]) -> float:
     if not value:
         return 0.5
     rel = 3 * unc / abs(value)
+    return max(0.3, min(0.98, 1 - rel))
+
+
+def _fold_conf(fold_per_pixel: float) -> float:
+    """Confidence from a log axis's per-pixel fold: near 1.0 fold -> high."""
+    rel = 3 * abs(fold_per_pixel - 1.0)
     return max(0.3, min(0.98, 1 - rel))
 
 

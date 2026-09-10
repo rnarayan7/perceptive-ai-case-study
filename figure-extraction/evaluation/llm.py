@@ -34,11 +34,20 @@ ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 
 # Per-role model defaults. All current Claude models are vision-capable; these
 # trade capability against cost per role. Pricing (input/output per 1M tokens):
-# opus-5 $5/$25, sonnet-5 $2/$10, haiku-4.5 $1/$5.
-DEFAULT_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5")
+# sonnet-5 $2/$10, haiku-4.5 $1/$5. Extraction defaults to sonnet-5: it is the
+# capability tier the case study standardizes on, and it reads the charts well at
+# a fraction of the top-tier cost. Override per role via the env vars below.
+DEFAULT_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5")
 EXTRACTOR_MODEL = os.environ.get("CLAUDE_EXTRACTOR_MODEL", DEFAULT_MODEL)
 ROUTER_MODEL = os.environ.get("CLAUDE_ROUTER_MODEL", "claude-haiku-4-5")
 JUDGE_MODEL = os.environ.get("CLAUDE_JUDGE_MODEL", "claude-sonnet-5")
+
+# USD per 1M tokens (input, output), for cost-of-one-run reporting.
+PRICING = {
+    "claude-opus-5": (5.0, 25.0),
+    "claude-sonnet-5": (2.0, 10.0),
+    "claude-haiku-4-5": (1.0, 5.0),
+}
 
 
 class VisionClient(Protocol):
@@ -60,6 +69,8 @@ class AnthropicClient:
         # so the read timeout is generous.
         self.timeout = timeout
         self.max_retries = max_retries
+        self.input_tokens = 0   # accumulated across calls, for cost reporting
+        self.output_tokens = 0
 
     @staticmethod
     def available() -> bool:
@@ -92,6 +103,13 @@ class AnthropicClient:
         parts = payload.get("content") or []
         return "".join(p.get("text", "") for p in parts if p.get("type") == "text")
 
+    def cost(self) -> dict:
+        """Accumulated token usage and USD cost for this client's model."""
+        cin, cout = PRICING.get(self.model, (0.0, 0.0))
+        usd = self.input_tokens / 1e6 * cin + self.output_tokens / 1e6 * cout
+        return {"model": self.model, "input_tokens": self.input_tokens,
+                "output_tokens": self.output_tokens, "usd": round(usd, 4)}
+
     def _post(self, body: bytes) -> dict:
         """POST with retries on timeouts, rate limits, and 5xx.
 
@@ -111,7 +129,11 @@ class AnthropicClient:
         for attempt in range(1, self.max_retries + 1):
             try:
                 with urllib.request.urlopen(req, timeout=self.timeout) as resp:
-                    return json.loads(resp.read())
+                    payload = json.loads(resp.read())
+                usage = payload.get("usage") or {}
+                self.input_tokens += int(usage.get("input_tokens") or 0)
+                self.output_tokens += int(usage.get("output_tokens") or 0)
+                return payload
             except urllib.error.HTTPError as exc:
                 # 4xx (except 429) will not improve on retry; surface immediately.
                 if exc.code != 429 and 400 <= exc.code < 500:
@@ -123,6 +145,17 @@ class AnthropicClient:
             if attempt < self.max_retries:
                 time.sleep(min(2.0 ** attempt, 20.0))
         raise RuntimeError(f"Anthropic API call failed after {self.max_retries} attempts: {last_error}")
+
+
+def total_cost(*clients) -> dict:
+    """Sum token cost across clients (e.g. extractor + router), for one run."""
+    by_model = [c.cost() for c in clients if hasattr(c, "cost")]
+    return {
+        "total_usd": round(sum(b["usd"] for b in by_model), 4),
+        "input_tokens": sum(b["input_tokens"] for b in by_model),
+        "output_tokens": sum(b["output_tokens"] for b in by_model),
+        "by_model": by_model,
+    }
 
 
 def extract_json(text: str) -> Optional[object]:
