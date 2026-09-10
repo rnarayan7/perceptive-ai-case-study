@@ -1,0 +1,11 @@
+{
+  "company": "COGT",
+  "lead_asset": "bezuclastinib (KIT inhibitor)",
+  "lead_indication": "systemic mastocytosis",
+  "indication_terms": ["systemic mastocytosis", "mastocytosis", "bezuclastinib"],
+  "epi_terms": ["prevalence", "incidence", "epidemiology", "per 10 000", "per 100 000", "orphanet"],
+  "plausible_population_min": 5000,
+  "plausible_population_max": 200000,
+  "relevant_doc_ids": ["orpha2467"],
+  "note": "Cogent's lead asset bezuclastinib (selective KIT D816V inhibitor) targets systemic mastocytosis (also GIST). Epidemiology anchor: Orphanet ORPHA:2467 systemic mastocytosis, point prevalence 1-5 / 10,000 worldwide (ingested under data/COGT/orphanet/, e.g. orpha2467-point-prevalence-worldwide-*.json), i.e. roughly 33k-165k US patients across the SM spectrum; advanced SM and treated non-advanced SM are the addressable subset. Orphanet-grounded, so a small rare-disease count is legitimate (below the plausibility floor is expected). relevant_doc_ids uses the stable ORPHA:2467 family id, which family-matches every ingested SM prevalence/incidence record."
+}

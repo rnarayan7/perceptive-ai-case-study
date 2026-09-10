@@ -79,9 +79,10 @@
       "id": "imvt-cash-position-10q",
       "query": "cash and cash equivalents reported in the Immunovant quarterly report",
       "relevant_doc_ids": [
-        "000176401326000101"
+        "000176401326000101",
+        "cash_and_equivalents"
       ],
-      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet."
+      "note": "The Aug 2026 10-Q; verified 'cash and cash equivalents' and 'net loss' appear in its ingested text. Matched by doc family so the bare accession maps to whatever section holds the balance sheet. | XBRL structured cash fact is the precise answer and ranks #1; 10-Q accession also acceptable."
     },
     {
       "id": "imvt-fast-track-orphan-risk",

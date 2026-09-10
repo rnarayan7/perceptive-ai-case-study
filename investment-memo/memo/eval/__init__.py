@@ -12,6 +12,12 @@ from memo.eval.extraction import (
     derive_gold,
     load_extraction_gold,
 )
+from memo.eval.epi import (
+    EpiGroundingEvaluator,
+    EpiReference,
+    EpiRetrievalEvaluator,
+    load_epi_reference,
+)
 from memo.eval.faithfulness import FaithfulnessEvaluator, verdict_metrics
 from memo.eval.goldset import GoldSet, load_goldset, load_goldset_for
 from memo.eval.judge_validation import (
@@ -33,6 +39,10 @@ __all__ = [
     "load_goldset",
     "load_goldset_for",
     "RetrievalEvaluator",
+    "EpiRetrievalEvaluator",
+    "EpiGroundingEvaluator",
+    "EpiReference",
+    "load_epi_reference",
     "FaithfulnessEvaluator",
     "verdict_metrics",
     "QualityEvaluator",

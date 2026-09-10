@@ -18,6 +18,7 @@ class Section:
     module: Optional[str]  # producing analysis module; None = synthesized/cross-module
     required: bool
     description: str
+    layout: str = "prose"  # "prose" (narrative) or "bullets" (one line per discrete item)
 
 
 MEMO_SECTIONS: List[Section] = [
@@ -31,7 +32,8 @@ MEMO_SECTIONS: List[Section] = [
     Section("pos", "Probability of Success", "pos", True,
             "Evidence-grounded PoS from the rubric, not generic phase-transition rates."),
     Section("regulatory", "Regulatory Path", "regulatory", True,
-            "Designations, endpoints, filing/PDUFA; absence reported rather than guessed."),
+            "Designations, endpoints, filing/PDUFA; absence reported rather than guessed.",
+            layout="bullets"),
     Section("peak_sales", "Commercial Opportunity", "peak_sales", True,
             "Peak sales from the deterministic model; a risk-adjusted range with sensitivities."),
     Section("valuation", "Valuation & Price vs Thesis", "price", True,

@@ -1,0 +1,11 @@
+{
+  "company": "IMVT",
+  "lead_asset": "IMVT-1402 (anti-FcRn)",
+  "lead_indication": "Graves' disease",
+  "indication_terms": ["graves", "hyperthyroid", "thyroid", "autoimmune thyroid", "thyrotropin", "tsh", "imvt-1402", "fcrn"],
+  "epi_terms": ["prevalence", "incidence", "population", "united states", "per 100", "thyroid antibodies", "autoimmune"],
+  "plausible_population_min": 1000000,
+  "plausible_population_max": 4000000,
+  "relevant_doc_ids": ["22644837", "11836274"],
+  "note": "Immunovant's lead asset IMVT-1402 (anti-FcRn) targets Graves' disease. Epidemiology anchors (both ingested under data/IMVT/pubmed/): McLeod & Cooper, 'The incidence and prevalence of thyroid autoimmunity', Endocrine 2012 (PMID 22644837), the reference review on autoimmune thyroid disease occurrence; and Hollowell et al NHANES III, 'Serum TSH, T4, and thyroid antibodies in the United States population (1988-1994)', JCEM 2002 (PMID 11836274), the US population thyroid series. US hyperthyroidism prevalence ~1.2% and Graves' ~60-80% of hyperthyroid cases puts Graves' near 0.5% of the population, ~1.3-1.6M treated, with broader prevalent estimates toward ~3M. Note: the specific Graves' figure sits in the reviews' full text, not the ingested abstracts, so retrieval surfaces autoimmune-thyroid prevalence/incidence but not the exact count; the band reflects the accepted US Graves' range."
+}

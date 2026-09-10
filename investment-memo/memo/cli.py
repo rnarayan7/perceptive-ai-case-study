@@ -212,7 +212,8 @@ def filings(company, forms, data_root) -> None:
 @cli.command("eval")
 @click.option("--type", "eval_type",
               type=click.Choice(["retrieval", "faithfulness", "full", "memo",
-                                 "judge-probe", "known-bad"]),
+                                 "judge-probe", "known-bad",
+                                 "epi-retrieval", "epi-grounding"]),
               default="retrieval", show_default=True, help="Which evaluation to run.")
 @click.option("--company", default=None, help="Company ticker (not needed for judge-probe).")
 @click.option("-k", "top_k", type=int, default=8, show_default=True, help="Retrieval depth.")
@@ -221,9 +222,14 @@ def filings(company, forms, data_root) -> None:
 @click.option("--judge-model", default=None, help="Claude model id for the faithfulness judge.")
 @click.option("--gold-root", type=click.Path(file_okay=False), default="evals", show_default=True)
 @click.option("--data-root", type=click.Path(file_okay=False), default="data", show_default=True)
+@click.option("--dense/--no-dense", default=False, show_default=True,
+              help="Fuse a local LSA dense signal with BM25 (retrieval/epi-retrieval).")
+@click.option("--rerank/--no-rerank", default=False, show_default=True,
+              help="Add the feature reranker over the candidate pool (retrieval/epi-retrieval).")
 @click.option("--save/--no-save", default=True, show_default=True,
               help="Persist a timestamped JSON report under evals/results/.")
-def eval_cmd(eval_type, company, top_k, module_name, judge_model, gold_root, data_root, save) -> None:
+def eval_cmd(eval_type, company, top_k, module_name, judge_model, gold_root, data_root,
+             dense, rerank, save) -> None:
     """Run an evaluation and report metrics.
 
     retrieval: deterministic, no model. faithfulness: grades an analysis module's claims
@@ -247,7 +253,13 @@ def eval_cmd(eval_type, company, top_k, module_name, judge_model, gold_root, dat
 
     reports = []
     if eval_type in ("retrieval", "full"):
-        reports.append(_run_retrieval_eval(company, top_k, Path(gold_root), data_root))
+        reports.append(_run_retrieval_eval(company, top_k, Path(gold_root), data_root, dense, rerank))
+    if eval_type == "epi-retrieval":
+        reports.append(_run_epi_retrieval_eval(company, top_k, Path(gold_root), data_root, dense, rerank))
+    if eval_type == "epi-grounding":
+        # judge_model doubles as the generator-model override here; defaults to sonnet-5
+        # so a grounding run is cheap (one analysis call).
+        reports.append(_run_epi_grounding_eval(company, judge_model, Path(gold_root), data_root))
     if eval_type in ("faithfulness", "full"):
         reports.append(_run_faithfulness_eval(company, module_name, judge_model, data_root))
 
@@ -259,14 +271,55 @@ def eval_cmd(eval_type, company, top_k, module_name, judge_model, gold_root, dat
             click.echo("")
 
 
-def _run_retrieval_eval(company, top_k, gold_root, data_root):
+def _run_retrieval_eval(company, top_k, gold_root, data_root, dense=False, rerank=False):
     from memo.eval import RetrievalEvaluator, load_goldset_for
     from memo.ingestion.base import Storage
     from memo.rag import build_retriever
 
     goldset = load_goldset_for("retrieval", company, root=gold_root)
-    retriever = build_retriever(company, storage=Storage(root=data_root))
+    retriever = build_retriever(
+        company, storage=Storage(root=data_root), dense=dense, rerank=rerank
+    )
     return RetrievalEvaluator(goldset, retriever, k=top_k).run()
+
+
+def _run_epi_retrieval_eval(company, top_k, gold_root, data_root, dense=False, rerank=False):
+    """Deterministic: do the peak-sales epi queries surface epidemiology for the lead indication?"""
+    from pathlib import Path
+
+    from memo.eval import EpiRetrievalEvaluator, load_epi_reference
+    from memo.ingestion.base import Storage
+    from memo.rag import build_retriever
+
+    reference = load_epi_reference(company, root=Path(gold_root) / "epi")
+    retriever = build_retriever(
+        company, storage=Storage(root=data_root), dense=dense, rerank=rerank
+    )
+    return EpiRetrievalEvaluator(reference, retriever, k=top_k).run()
+
+
+def _run_epi_grounding_eval(company, model_override, gold_root, data_root):
+    """Real-model: run peak_sales, then audit the addressable-population parameter's grounding.
+
+    Generates the peak-sales analysis with a real model (default sonnet-5), then checks the
+    epidemiology_population parameter cites an epi source and sits in the plausible range.
+    """
+    from pathlib import Path
+
+    from memo.analysis import AnalysisContext, AnthropicModelClient, PeakSalesModule
+    from memo.eval import EpiGroundingEvaluator, load_epi_reference
+    from memo.ingestion.base import Storage
+
+    reference = load_epi_reference(company, root=Path(gold_root) / "epi")
+    model = AnthropicModelClient(model=model_override) if model_override else \
+        AnthropicModelClient(model="claude-sonnet-5")
+    context = AnalysisContext.for_company(
+        company, model=model, storage=Storage(root=data_root)
+    )
+    analysis = PeakSalesModule().analyze(context)
+    click.echo(f"generated peak_sales analysis with {model.model} "
+               f"(analysis tokens: {analysis.usage})")
+    return EpiGroundingEvaluator(analysis, reference).run()
 
 
 def _run_faithfulness_eval(company, module_name, judge_model, data_root):

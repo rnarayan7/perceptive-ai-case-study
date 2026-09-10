@@ -50,8 +50,9 @@ class StubModelClient(ModelClient):
             return self._price()
         if "recommendation" in props:
             return self._thesis()
-        if "prose" in props:
-            return {"prose": "Grounded prose that leans on the cited evidence [1]."}
+        if "body" in props:
+            return {"takeaway": "Grounded takeaway with the key number [1].",
+                    "body": "Grounded prose that leans on the cited evidence [1]."}
         return self._regulatory()  # the only remaining schema: regulatory
 
     def _moa(self):
@@ -124,7 +125,11 @@ class StubModelClient(ModelClient):
         return {
             "recommendation": "Constructive; size for binary readout risk.",
             "thesis": "The degrader thesis rests on the mechanism proof [1].",
-            "where_view_departs": "The market underweights the mechanism evidence.",
+            "where_view_departs": (
+                "At the current cap the price implies a heavy failure discount; the "
+                "randomized biomarker response [1] puts PoS nearer 45% vs the ~25% implied, "
+                "resolved by the Phase 2 readout."
+            ),
         }
 
 
@@ -207,6 +212,10 @@ def test_compose_memo_end_to_end(tmp_path):
     assert memo_json["recommendation"] == memo.recommendation
     assert memo_json["thesis"] == memo.thesis
 
+    # The differentiated view is threaded onto the artifact as a distinct top-level field.
+    assert memo_json["variant_view"]
+    assert "implies" in memo_json["variant_view"]
+
     section_ids = {s["section_id"] for s in memo_json["sections"]}
     assert REQUIRED_SECTIONS.issubset(section_ids)
 
@@ -220,13 +229,29 @@ def test_compose_memo_end_to_end(tmp_path):
             cited_any = True
     assert cited_any, "expected at least one citation across the memo"
 
-    # A drafted section carries an inline citation marker from the stubbed prose.
+    # A drafted section carries a takeaway lead + inline citation marker from the stub.
     moa_section = next(s for s in memo_json["sections"] if s["section_id"] == "moa")
+    assert moa_section["takeaway"]  # 0b/scannability: the one-line lead is persisted
     assert "[1]" in moa_section["prose"]
     assert moa_section["citations"]
 
     # Figures degrade gracefully to empty (figures package not importable here).
     assert all(s["figures"] == [] for s in memo_json["sections"])
+
+    # 0b: per-section rollups (conviction/takeaway source) persisted for module sections.
+    sections = {s.section_id: s for s in ledger.get_sections(memo_id)}
+    assert {"moa", "pos", "regulatory", "peak_sales"}.issubset(sections)
+    assert sections["moa"].summary and sections["moa"].tier in {"high", "med", "low"}
+
+    # rNPV persisted as a valuation claim with a numeric value the app can read.
+    val_claims = ledger.get_claims(memo_id, "valuation")
+    assert any(c.module == "valuation" and c.value_num for c in val_claims)
+
+    # A run-level summary is persisted for the Activity feed.
+    runs = ledger.list_generation_runs()
+    assert len(runs) == 1
+    assert runs[0].status == "completed" and runs[0].memo_id == memo_id
+    assert "claims" in runs[0].output
 
 
 def test_valuation_integrates_when_inputs_present(tmp_path):
@@ -266,6 +291,8 @@ def test_refused_when_required_section_has_no_grounded_claims(tmp_path):
     moa_section = next(s for s in memo_json["sections"] if s["section_id"] == "moa")
     assert moa_section["citations"] == []
     assert "not grounded" in moa_section["prose"].lower()
+    # A refused memo carries no variant view.
+    assert memo_json["variant_view"] is None
 
 
 def test_render_markdown_for_reads_artifact(tmp_path):

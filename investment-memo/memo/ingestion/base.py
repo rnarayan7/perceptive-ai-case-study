@@ -279,7 +279,11 @@ class Storage:
         if source is not None:
             source_dirs = [company_dir / _safe_name(source)]
         else:
-            source_dirs = [p for p in company_dir.iterdir() if p.is_dir()]
+            # figures/ holds figure artifacts (manifests, annotated images), not ingested
+            # text documents; never scan it as a document source.
+            source_dirs = [
+                p for p in company_dir.iterdir() if p.is_dir() and p.name != "figures"
+            ]
 
         documents: List[Document] = []
         for directory in source_dirs:

@@ -6,7 +6,24 @@ Both the memo renderer and the web app read from here; it is the single source o
 the memo is a view of. Execution telemetry lives separately in :mod:`memo.trace`.
 """
 
-from memo.ledger.schema import ClaimRecord, EvidenceRecord, MemoRecord
+from memo.ledger.schema import (
+    ClaimRecord,
+    EvidenceRecord,
+    FeedbackMessageRecord,
+    FeedbackSessionRecord,
+    GenerationRunRecord,
+    MemoRecord,
+    SectionRecord,
+)
 from memo.ledger.store import LedgerStore
 
-__all__ = ["MemoRecord", "ClaimRecord", "EvidenceRecord", "LedgerStore"]
+__all__ = [
+    "MemoRecord",
+    "ClaimRecord",
+    "EvidenceRecord",
+    "SectionRecord",
+    "GenerationRunRecord",
+    "FeedbackSessionRecord",
+    "FeedbackMessageRecord",
+    "LedgerStore",
+]
