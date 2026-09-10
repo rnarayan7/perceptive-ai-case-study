@@ -88,9 +88,16 @@ that it is unimportant.
 - **Cost/model routing.** Measure and report cost per full memo run (the brief asks for it).
 - **Multi-company demo.** The demo must work for all five (ABVX, KYMR, PRAX, IMVT, COGT).
   Only KYMR has been exercised end to end so far.
-- **CLI does not pass per-source query terms.** `ingest` only forwards `--limit`. The
-  comparator/pricing sources (openfda, cms, nadac, pubchem) need `terms`/`drugs`/`compounds`,
-  so `--source all` returns empty for them until the CLI passes source-specific options.
+- **[FIXED] CLI does not pass per-source query terms.** `ingest` forwarded only `--limit`,
+  so the comparator/pricing sources (openfda, cms, nadac, pubchem, pubmed) — which need
+  `terms`/`drugs`/`compounds`/`term` — returned empty under `--source all`. Fixed by
+  `memo/companies.py`: a hand-seeded profile per ticker (lead asset, asset codes,
+  indications, oral comparators, literature terms) that `source_options()` maps to each
+  source's option names, merged in by the CLI with explicit options still winning.
+  `--no-profile` restores the old behaviour. Infused comparators are still owned by
+  `memo.ingestion.asp.COMPARATORS` and read through the profile, so there is one table,
+  not two. The profiles are analyst input and should be reviewed as such — the follow-up
+  now is keeping them current, not wiring them.
 
 ## RAG consumability audit (2026-09-07)
 

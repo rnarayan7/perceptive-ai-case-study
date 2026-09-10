@@ -17,6 +17,7 @@ from typing import List, Tuple
 
 import click
 
+from memo.companies import source_options
 from memo.ingestion import REGISTRY, HttpClient, IngestManifest, Storage
 
 SOURCE_CHOICES = sorted(REGISTRY) + ["all"]
@@ -86,6 +87,14 @@ def cli() -> None:
     help="Directory the fetched documents are written under.",
 )
 @click.option("--force", is_flag=True, help="Re-write documents even if unchanged.")
+@click.option(
+    "--profile/--no-profile",
+    default=True,
+    show_default=True,
+    help="Pass each source the company's query terms (comparator drugs, asset codes, "
+         "literature terms) from memo.companies. Without it, openfda/cms/nadac have "
+         "nothing to query and return empty.",
+)
 @click.option("-v", "--verbose", is_flag=True, help="Enable debug logging.")
 def ingest(
     source: str,
@@ -93,6 +102,7 @@ def ingest(
     limit: int,
     data_root: str,
     force: bool,
+    profile: bool,
     verbose: bool,
 ) -> None:
     """Fetch and store public documents for one or more companies."""
@@ -109,8 +119,12 @@ def ingest(
     manifests: List[IngestManifest] = []
     for company in companies:
         for src in sources:
+            # Profile options fill in what the source needs beyond a ticker; explicit
+            # CLI options still win.
+            src_options = dict(source_options(src, company)) if profile else {}
+            src_options.update(options)
             ingester = REGISTRY[src](http=http, storage=storage)
-            manifest = ingester.run(company, force=force, **options)
+            manifest = ingester.run(company, force=force, **src_options)
             manifests.append(manifest)
 
     _print_summary(manifests)
