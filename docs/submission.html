@@ -1,0 +1,524 @@
+<title>Memo System Dossier</title>
+<meta name="description" content="What the investment-memo system does, where it fails, and how you would prove it works. Reference run: KYMR.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --paper: #f5f6f8;
+    --surface: #ffffff;
+    --surface-2: #eef1f4;
+    --ink: #17202b;
+    --ink-soft: #3d4753;
+    --muted: #66707c;
+    --line: #dde2e8;
+    --line-strong: #c6cdd6;
+    --accent: #2b5d78;
+    --accent-soft: #e3edf2;
+    --grounded: #1f7a52;
+    --grounded-bg: #e6f2ec;
+    --proxy: #a9721a;
+    --proxy-bg: #f6eddb;
+    --assumption: #a33a3a;
+    --assumption-bg: #f5e3e2;
+    --shadow: 0 1px 2px rgba(23,32,43,.06), 0 6px 20px rgba(23,32,43,.05);
+    --measure: 68ch;
+  }
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --paper: #10151b;
+      --surface: #161d25;
+      --surface-2: #1d262f;
+      --ink: #e8ecf0;
+      --ink-soft: #b8c1cb;
+      --muted: #8a94a0;
+      --line: #283039;
+      --line-strong: #38424d;
+      --accent: #7fb4d0;
+      --accent-soft: #1a2b34;
+      --grounded: #6fce9f;
+      --grounded-bg: #16281f;
+      --proxy: #e0b56a;
+      --proxy-bg: #2b2415;
+      --assumption: #e59090;
+      --assumption-bg: #2e1c1c;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 22px rgba(0,0,0,.28);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #10151b;
+    --surface: #161d25;
+    --surface-2: #1d262f;
+    --ink: #e8ecf0;
+    --ink-soft: #b8c1cb;
+    --muted: #8a94a0;
+    --line: #283039;
+    --line-strong: #38424d;
+    --accent: #7fb4d0;
+    --accent-soft: #1a2b34;
+    --grounded: #6fce9f;
+    --grounded-bg: #16281f;
+    --proxy: #e0b56a;
+    --proxy-bg: #2b2415;
+    --assumption: #e59090;
+    --assumption-bg: #2e1c1c;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 22px rgba(0,0,0,.28);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 clamp(20px, 5vw, 56px); }
+
+  /* Masthead */
+  header.mast {
+    border-bottom: 1px solid var(--line-strong);
+    padding: clamp(40px, 7vw, 84px) 0 34px;
+  }
+  .eyebrow {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 18px;
+  }
+  h1 {
+    font-family: "Newsreader", Georgia, serif;
+    font-weight: 500;
+    font-size: clamp(2.4rem, 6vw, 4rem);
+    line-height: 1.04;
+    letter-spacing: -.01em;
+    margin: 0 0 20px;
+    text-wrap: balance;
+  }
+  .lede {
+    font-family: "Newsreader", Georgia, serif;
+    font-size: clamp(1.12rem, 2.2vw, 1.35rem);
+    color: var(--ink-soft);
+    max-width: 62ch;
+    margin: 0 0 30px;
+    line-height: 1.5;
+  }
+  .mast-meta {
+    display: flex; flex-wrap: wrap; gap: 10px 8px;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+  }
+  .mast-meta span {
+    background: var(--surface); border: 1px solid var(--line);
+    padding: 6px 11px; border-radius: 6px; color: var(--ink-soft);
+  }
+  .mast-meta b { color: var(--ink); font-weight: 500; }
+
+  /* Sticky section nav */
+  nav.toc {
+    position: sticky; top: 0; z-index: 5;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 8px;
+  }
+  nav.toc ol {
+    list-style: none; margin: 0; padding: 12px 0;
+    display: flex; flex-wrap: wrap; gap: 4px 22px;
+    font-family: "IBM Plex Mono", monospace; font-size: 12.5px;
+  }
+  nav.toc a { color: var(--muted); text-decoration: none; }
+  nav.toc a:hover { color: var(--accent); }
+  nav.toc .part { color: var(--ink); font-weight: 500; }
+
+  main { padding: 48px 0 40px; }
+  section { padding: 34px 0; border-top: 1px solid var(--line); scroll-margin-top: 60px; }
+  section:first-of-type { border-top: none; }
+
+  .part-head {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px; letter-spacing: .18em; text-transform: uppercase;
+    color: var(--accent); margin: 0 0 6px;
+  }
+  h2 {
+    font-family: "Newsreader", Georgia, serif;
+    font-weight: 500; font-size: clamp(1.7rem, 3.4vw, 2.3rem);
+    line-height: 1.1; letter-spacing: -.01em; margin: 0 0 18px;
+    text-wrap: balance;
+  }
+  h3 {
+    font-size: 1.06rem; font-weight: 600; margin: 30px 0 10px;
+    letter-spacing: -.005em;
+  }
+  p { margin: 0 0 15px; max-width: var(--measure); color: var(--ink-soft); }
+  p.tight { margin-bottom: 8px; }
+  strong { color: var(--ink); font-weight: 600; }
+  a.inline { color: var(--accent); }
+  code, .mono { font-family: "IBM Plex Mono", monospace; font-size: .88em; }
+  code {
+    background: var(--surface-2); padding: 1px 6px; border-radius: 4px;
+    color: var(--ink); border: 1px solid var(--line);
+  }
+  ul.plain { max-width: var(--measure); padding-left: 0; list-style: none; margin: 0 0 15px; }
+  ul.plain li {
+    position: relative; padding-left: 20px; margin-bottom: 9px; color: var(--ink-soft);
+  }
+  ul.plain li::before {
+    content: ""; position: absolute; left: 2px; top: 11px;
+    width: 6px; height: 6px; border-radius: 1px; background: var(--accent);
+  }
+
+  /* Grounding chips */
+  .chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-family: "IBM Plex Mono", monospace; font-size: 11.5px;
+    padding: 2px 9px; border-radius: 999px; white-space: nowrap;
+    border: 1px solid transparent; font-weight: 500;
+  }
+  .chip.g { color: var(--grounded); background: var(--grounded-bg); border-color: color-mix(in srgb, var(--grounded) 30%, transparent); }
+  .chip.p { color: var(--proxy); background: var(--proxy-bg); border-color: color-mix(in srgb, var(--proxy) 30%, transparent); }
+  .chip.a { color: var(--assumption); background: var(--assumption-bg); border-color: color-mix(in srgb, var(--assumption) 30%, transparent); }
+  .chip .dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+
+  /* Stat tiles */
+  .tiles {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 14px; margin: 6px 0 22px;
+  }
+  .tile {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 10px; padding: 18px; box-shadow: var(--shadow);
+  }
+  .tile .n {
+    font-family: "Newsreader", serif; font-size: 2.1rem; font-weight: 500;
+    line-height: 1; letter-spacing: -.02em; font-variant-numeric: tabular-nums;
+  }
+  .tile .k { font-size: 12.5px; color: var(--muted); margin-top: 8px; }
+  .tile.accent .n { color: var(--accent); }
+
+  /* The reliability centerpiece */
+  .decomp {
+    background: var(--surface); border: 1px solid var(--line-strong);
+    border-radius: 12px; padding: 24px; margin: 8px 0 20px; box-shadow: var(--shadow);
+  }
+  .decomp .formula {
+    font-family: "IBM Plex Mono", monospace; font-size: 13px;
+    color: var(--ink-soft); margin-bottom: 20px; line-height: 2.1;
+  }
+  .decomp .term { display: inline-block; padding: 3px 8px; border-radius: 6px; margin: 2px 0; }
+  .term.g { background: var(--grounded-bg); color: var(--grounded); }
+  .term.a { background: var(--assumption-bg); color: var(--assumption); }
+  .op { color: var(--muted); padding: 0 4px; }
+  .inputs { display: grid; gap: 10px; }
+  .inrow {
+    display: grid; grid-template-columns: 1fr auto; align-items: baseline;
+    gap: 12px; padding: 11px 0; border-top: 1px dashed var(--line);
+  }
+  .inrow:first-child { border-top: none; }
+  .inrow .label { font-weight: 500; color: var(--ink); }
+  .inrow .src { font-size: 12.5px; color: var(--muted); display: block; margin-top: 2px; }
+  .inrow .val { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; color: var(--ink); white-space: nowrap; }
+
+  /* Tables */
+  .twrap { overflow-x: auto; margin: 6px 0 20px; border: 1px solid var(--line); border-radius: 10px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 560px; }
+  th, td { text-align: left; padding: 11px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  thead th {
+    font-family: "IBM Plex Mono", monospace; font-size: 11.5px; letter-spacing: .06em;
+    text-transform: uppercase; color: var(--muted); background: var(--surface-2); font-weight: 500;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td .mono { color: var(--ink-soft); }
+  td.k { white-space: nowrap; font-weight: 500; color: var(--ink); }
+
+  /* Callout */
+  .note {
+    border-left: 3px solid var(--accent); background: var(--accent-soft);
+    padding: 16px 18px; border-radius: 0 8px 8px 0; margin: 6px 0 20px;
+    max-width: var(--measure);
+  }
+  .note p { margin: 0; color: var(--ink-soft); }
+  .note .tag {
+    font-family: "IBM Plex Mono", monospace; font-size: 11px; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 6px;
+  }
+  .note.warn { border-left-color: var(--assumption); background: var(--assumption-bg); }
+  .note.warn .tag { color: var(--assumption); }
+
+  /* Two-col cards for omitted / month */
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin: 6px 0 12px; }
+  .card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 18px; box-shadow: var(--shadow);
+  }
+  .card h4 { margin: 0 0 6px; font-size: 15px; font-weight: 600; }
+  .card p { font-size: 13.5px; margin: 0; color: var(--ink-soft); }
+  .card .why { display: block; margin-top: 8px; font-size: 12.5px; color: var(--muted); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 14px 0 4px; font-size: 12.5px; color: var(--muted); }
+
+  footer { border-top: 1px solid var(--line-strong); padding: 30px 0 60px; color: var(--muted); font-size: 13px; }
+  footer .mono { font-size: 12px; }
+
+  @media (max-width: 560px) {
+    .inrow { grid-template-columns: 1fr; }
+    .inrow .val { justify-self: start; }
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+  }
+  a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <p class="eyebrow">Documentation &amp; Evaluation · Stage 2</p>
+    <h1>What the memo system does, where it fails, and how you'd prove it works</h1>
+    <p class="lede">An autonomous system that writes an institutional investment memorandum on a drug developer from public sources. This is the account of what was built and what was left out, plus the reference run it produced for KYMR.</p>
+    <div class="mast-meta">
+      <span>Reference run: <b>KYMR</b></span>
+      <span>Model: <b>claude-sonnet-5</b></span>
+      <span>Cost / run: <b>~$0.40</b></span>
+      <span>Run date: <b>2026-09-11</b></span>
+      <span>Public sources only</span>
+    </div>
+  </header>
+</div>
+
+<nav class="toc">
+  <div class="wrap">
+    <ol>
+      <li class="part">Part I · Documentation</li>
+      <li><a href="#built">Built</a></li>
+      <li><a href="#reference">Reference run</a></li>
+      <li><a href="#unreliable">Where it fails</a></li>
+      <li><a href="#omitted">Omitted</a></li>
+      <li><a href="#refusal">Refusal</a></li>
+      <li><a href="#services">Services &amp; cost</a></li>
+      <li><a href="#month">A further month</a></li>
+      <li class="part">Part II · Evaluation</li>
+      <li><a href="#eval">Framework</a></li>
+      <li><a href="#verify">Verification</a></li>
+    </ol>
+  </div>
+</nav>
+
+<div class="wrap">
+  <main>
+
+    <!-- ================= PART I ================= -->
+    <section id="built">
+      <p class="part-head">Part I — Documentation</p>
+      <h2>What was built</h2>
+      <p>Two stages. <strong>Stage 1</strong> reads numeric values off chart and table images and reports each with a method and a confidence. <strong>Stage 2</strong> is the memo engine: it ingests public filings and literature, retrieves evidence, answers the four questions an investment in a drug developer resolves to, values the lead asset, and composes the memo. A FastAPI read layer and a Next.js app serve the result.</p>
+
+      <p>The memo answers each of the brief's four questions as an <em>estimate, its evidence, and a confidence</em>, then states where the view departs from the market:</p>
+      <ul class="plain">
+        <li><strong>Does the asset work (MoA)</strong> — mechanism synthesized from retrieved biology, every claim cited to a source chunk.</li>
+        <li><strong>Will it be approved (PoS)</strong> — built from the scientific evidence the system retrieves for that asset, not a generic phase-transition rate.</li>
+        <li><strong>How will it get approved (regulatory)</strong> — designations, pathway, and the next catalyst, from filings and FDA disclosure.</li>
+        <li><strong>Commercial opportunity (peak sales)</strong> — five parameters, each labeled grounded or assumed, fed to a deterministic arithmetic step.</li>
+      </ul>
+
+      <p>Work is split so the model never does what code can do reliably. The model retrieves, reads, and reasons. <strong>All arithmetic is in Python</strong>: the peak-sales estimate (<code>estimate_peak_sales</code>) and the rNPV revenue curve (<code>valuation.py</code>) are deterministic functions, because models drift over long arithmetic chains and the system does a lot of it.</p>
+
+      <h3>In-house vs. off the shelf</h3>
+      <p class="tight">Built here: a BM25 lexical retriever (stdlib, custom tokenizer that keeps drug codes intact), the deterministic peak-sales and rNPV math, the CV figure readers (pixel measurement of waterfall bars and Kaplan-Meier curves), the SQLite ledger that records every memo, claim, and run, the evidence-grounding harness, and the evaluation scorers.</p>
+      <p>Off the shelf: the Anthropic SDK for the reasoning model, <code>click</code> for the CLI, and <code>urllib</code> for ingestion. No vector database, no orchestration framework.</p>
+    </section>
+
+    <section id="reference">
+      <h2>The reference run: KYMR</h2>
+      <p>Kymera Therapeutics. Lead asset <strong>KT-621</strong>, an oral STAT6 degrader in atopic dermatitis. The recommendation the system produced:</p>
+      <div class="note">
+        <span class="tag">Verbatim thesis</span>
+        <p>Neutral-to-constructive; the price screens cheap against lead-asset rNPV ahead of a binary readout. Deterministic rNPV for KT-621 in AD alone is $13.2B (PoS 0.28), above the $9.66B market cap. No efficacy data exists yet; Phase 2b (BROADEN2) topline is due year-end 2026. Fast Track in both AD and asthma lowers regulatory risk. The rest of the pipeline carries little embedded value at the current price. Risk is binary and front-loaded to the 2026 readout.</p>
+      </div>
+
+      <div class="tiles">
+        <div class="tile accent"><div class="n">$13.2B</div><div class="k">Lead-asset rNPV (KT-621, AD)</div></div>
+        <div class="tile"><div class="n">$9.66B</div><div class="k">Market cap, Jun 30 2026</div></div>
+        <div class="tile"><div class="n">137%</div><div class="k">rNPV as share of market cap</div></div>
+        <div class="tile"><div class="n">0.28</div><div class="k">Probability of success applied</div></div>
+      </div>
+
+      <p>This is the departure from consensus the brief asks for, and it is a real one: the model's risk-adjusted value of a single asset sits above the whole company's market value. That is only a buy signal if you believe the peak-sales inputs. Two of the five do not survive scrutiny, and the memo says so. That is the subject of the next section.</p>
+    </section>
+
+    <section id="unreliable">
+      <h2>Where it is unreliable</h2>
+      <p>The rNPV rests on a peak-sales estimate, and the estimate rests on five inputs. The system labels each one by how it was obtained. For KYMR, three are grounded in a source and <strong>two of the swing factors are assumptions</strong>:</p>
+
+      <div class="decomp">
+        <div class="formula">
+          gross peak <span class="op">=</span>
+          <span class="term g">treatable population</span><span class="op">×</span><span class="term a">peak penetration</span><span class="op">×</span><span class="term a">annual net price</span>
+        </div>
+        <div class="inputs">
+          <div class="inrow">
+            <div><span class="label">Epidemiology population</span><span class="src">16.5M — published literature (AD prevalence)</span></div>
+            <div class="val">16,500,000 &nbsp;<span class="chip g"><span class="dot"></span>grounded</span></div>
+          </div>
+          <div class="inrow">
+            <div><span class="label">Addressable population</span><span class="src">6.6M eligible — company-disclosed moderate-to-severe count, used as the treatable base</span></div>
+            <div class="val">6,600,000 &nbsp;<span class="chip g"><span class="dot"></span>grounded</span></div>
+          </div>
+          <div class="inrow">
+            <div><span class="label">Peak penetration</span><span class="src">Not in the corpus. A standing 15% share assumption.</span></div>
+            <div class="val">0.15 &nbsp;<span class="chip a"><span class="dot"></span>assumed</span></div>
+          </div>
+          <div class="inrow">
+            <div><span class="label">Annual net price</span><span class="src">Not grounded. $40k placeholder, though ASP/NADAC pricing is already ingested (see below).</span></div>
+            <div class="val">$40,000 &nbsp;<span class="chip a"><span class="dot"></span>assumed</span></div>
+          </div>
+          <div class="inrow">
+            <div><span class="label">Probability of success</span><span class="src">From the asset's own evidence and designations, applied once in valuation.</span></div>
+            <div class="val">0.28 &nbsp;<span class="chip g"><span class="dot"></span>grounded</span></div>
+          </div>
+        </div>
+      </div>
+
+      <p>Gross peak comes out near <strong>$41B</strong>. The population is real and the PoS is built from the asset's evidence, but <strong>penetration and net price are the two largest multipliers and both are assumptions</strong>. Flex either by a third and the rNPV moves by billions. So the honest reading of KYMR is not "the market is wrong by $3.5B"; it is "if a 15% share at $40k net holds, the asset screens cheap into the readout." The memo presents it that way rather than as a settled number.</p>
+
+      <h3>The other soft spots</h3>
+      <ul class="plain">
+        <li><strong>Single-asset valuation understates the pipeline.</strong> rNPV covers the lead asset only. A company with several shots on goal is worth more than its best one; the memo notes the rest carries little modeled value, which is a floor, not a fair value.</li>
+        <li><strong>Figure reads carry method risk.</strong> On four hand-labeled real figures, CV pixel-measurement beat the vision model on waterfalls (it nails the extremes and the deep-response counts); the vision model was weaker there. Read-agreement between the two catches random error but not shared systematic bias.</li>
+        <li><strong>The judge can flatter the generator.</strong> Faithfulness scoring uses a model to grade a model. It is meta-validated (below), but a judge sharing the generator's blind spots is a known limit, not a solved one.</li>
+      </ul>
+    </section>
+
+    <section id="omitted">
+      <h2>What was omitted, and why</h2>
+      <div class="cards">
+        <div class="card">
+          <h4>Gross-to-net pricing</h4>
+          <p>Peak sales use a net price directly, with no rebate/discount bridge from list price.</p>
+          <span class="why">Why: it is the single biggest structural lever and deserves grounded inputs, not a guessed haircut. The pricing data to do it (CMS ASP, Medicaid NADAC) is already ingested but not yet wired into the net-price parameter.</span>
+        </div>
+        <div class="card">
+          <h4>Per-claim figure annotation for all five</h4>
+          <p>The figure corpus is ingested and shown; annotated insertion at each claim is not yet run across every company.</p>
+          <span class="why">Why: synthetic stand-in figures were explicitly removed. Only real ingested images qualify, and wiring annotation to every claim is unfinished work, not a shortcut taken.</span>
+        </div>
+        <div class="card">
+          <h4>Sum-of-parts valuation</h4>
+          <p>No multi-asset rollup; the memo values the lead program and flags the rest qualitatively.</p>
+          <span class="why">Why: each additional asset needs its own grounded epi and PoS. Done badly it adds false precision; better to state the floor.</span>
+        </div>
+        <div class="card">
+          <h4>Consensus / analyst estimates</h4>
+          <p>No programmatic pull of sell-side peak-sales or price targets.</p>
+          <span class="why">Why: no free public source exists. The brief warns against reporting absence-of-enquiry as absence-of-data, so the memo derives its own number rather than implying a consensus it cannot see.</span>
+        </div>
+        <div class="card">
+          <h4>Dense retrieval</h4>
+          <p>Retrieval is BM25 lexical only; the embedding reranker and RRF fusion exist but are off in v1.</p>
+          <span class="why">Why: lexical retrieval already surfaces the right filings for these queries; the failures were selection inside a document, not recall. Dense was not the bottleneck.</span>
+        </div>
+        <div class="card">
+          <h4>Real-time price in the memo</h4>
+          <p>Market cap and shares come from filings; live price is a cached daily snapshot, not fetched at compose time.</p>
+          <span class="why">Why: the price module refuses to invent a number it cannot verify, and records it as a missing input instead.</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="refusal">
+      <h2>When the system refuses</h2>
+      <p>The system can decline to produce a memo. It refuses on structure, not on taste.</p>
+      <ul class="plain">
+        <li><strong>Ungrounded required section.</strong> Eight sections are required: thesis, overview, MoA, PoS, regulatory, peak sales, valuation, sources. If any of them ends with <em>no evidence-backed claim</em>, the memo is marked <code>refused</code> and names the failed section rather than fabricating one.</li>
+        <li><strong>The one carve-out: peak sales may run on assumptions.</strong> It is forward-looking and has no programmatic commercial data source, so an all-assumption peak-sales section does not sink the memo — but every assumed input is labeled as such (as KYMR shows).</li>
+        <li><strong>Model safety refusal.</strong> If the model returns a refusal stop-reason inside a module, that module degrades to empty rather than crashing the run, which can in turn cascade into a required-section refusal.</li>
+        <li><strong>Data honesty, short of refusal.</strong> A failing source or a bad document is skipped, not fatal; unverifiable live figures (price, market cap, consensus) are recorded as missing inputs rather than invented.</li>
+      </ul>
+    </section>
+
+    <section id="services">
+      <h2>External services and cost</h2>
+      <p>One full memo run costs <strong>~$0.40</strong> on <code>claude-sonnet-5</code> (the five-company batch ran $0.37 to $0.45, ~85k input / ~22k output tokens, roughly four minutes each). Cost is recorded per run in the ledger's <code>generation_runs</code> table, not estimated.</p>
+
+      <p>Two services need a key. Everything the analysis is grounded in is a keyless public API.</p>
+      <div class="twrap">
+        <table>
+          <thead><tr><th>Service</th><th>Used for</th><th>Key</th></tr></thead>
+          <tbody>
+            <tr><td class="k">Anthropic (Claude)</td><td>All reasoning: retrieval reads, synthesis, eval judges</td><td><span class="chip a"><span class="dot"></span>required</span></td></tr>
+            <tr><td class="k">Alpha Vantage</td><td>Live price / market cap for the web app (cached daily)</td><td><span class="chip p"><span class="dot"></span>optional</span></td></tr>
+            <tr><td class="k">SEC EDGAR + XBRL</td><td>Filings, submissions, balance-sheet facts</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">ClinicalTrials.gov</td><td>Trials by sponsor</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">PubMed + Europe PMC</td><td>Literature and preprints</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">openFDA</td><td>Labels, adverse events, Drugs@FDA</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">Orphanet + CDC</td><td>Epidemiology / prevalence</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">CMS ASP + Medicaid NADAC</td><td>Drug pricing (ingested; not yet wired to net price)</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+            <tr><td class="k">PubChem</td><td>Compound chemistry / SMILES</td><td><span class="chip g"><span class="dot"></span>keyless</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>The system runs from a fresh clone with no account to create. The committed data snapshot means the read API and web app serve a full run <em>with no key at all</em>; a key is needed only to generate a new memo or refresh prices.</p>
+    </section>
+
+    <section id="month">
+      <h2>What a further month would fix</h2>
+      <p>In priority order, by leverage on the numbers:</p>
+      <ul class="plain">
+        <li><strong>Wire net price to ingested pricing.</strong> CMS ASP and NADAC are already in the corpus. Grounding annual net price to them, with a real gross-to-net bridge, removes the single largest assumption and would most change KYMR's rNPV.</li>
+        <li><strong>Ground peak penetration to analogs.</strong> Derive a share range from comparable launches in the same indication rather than a flat 15%.</li>
+        <li><strong>Per-claim figure annotation across all five.</strong> Insert and mark the real ingested figures at the claim each supports, which is the part of the figures brief still outstanding.</li>
+        <li><strong>Sum-of-parts.</strong> Extend rNPV to the next one or two assets so the valuation is a range, not a lead-asset floor.</li>
+        <li><strong>Turn on dense retrieval fusion</strong> for the cases where the right value sits in prose the lexical index ranks low.</li>
+      </ul>
+    </section>
+
+    <!-- ================= PART II ================= -->
+    <section id="eval">
+      <p class="part-head">Part II — Evaluation framework</p>
+      <h2>How you would demonstrate it works</h2>
+      <p>The point of this section is not to assert the system works. It is to describe the measurements that would show it, and which of them run today. The design principle throughout: <strong>numeric scoring is deterministic; a model is used only where the judgment is genuinely linguistic, and never on the numeric path.</strong></p>
+
+      <div class="legend">
+        <span><span class="chip g"><span class="dot"></span>deterministic</span> no model, reproducible</span>
+        <span><span class="chip a"><span class="dot"></span>model</span> needs a key, judge-based</span>
+      </div>
+      <div class="twrap">
+        <table>
+          <thead><tr><th>Evaluation</th><th>What it measures</th><th>Type</th></tr></thead>
+          <tbody>
+            <tr><td class="k">retrieval</td><td>hit@k, recall@k, precision@k, MRR against gold queries</td><td><span class="chip g"><span class="dot"></span>det.</span></td></tr>
+            <tr><td class="k">epi-retrieval</td><td>do the peak-sales queries surface prevalence for the lead indication</td><td><span class="chip g"><span class="dot"></span>det.</span></td></tr>
+            <tr><td class="k">epi-grounding</td><td>is the epidemiology population cited to an epi source and in a plausible range</td><td><span class="chip p"><span class="dot"></span>gen. model, det. score</span></td></tr>
+            <tr><td class="k">faithfulness</td><td>each claim scored supported / partial / unsupported / contradicted vs. its cited evidence</td><td><span class="chip a"><span class="dot"></span>judge</span></td></tr>
+            <tr><td class="k">memo</td><td>grades the latest ledger memo: faithfulness plus a 1-5 quality rubric per module</td><td><span class="chip a"><span class="dot"></span>judge</span></td></tr>
+            <tr><td class="k">figure eval</td><td>within-tolerance / MAE, calibration (ECE), read-agreement vs. error, error categories</td><td><span class="chip g"><span class="dot"></span>det. score</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>The figure harness reports more than accuracy. <strong>Calibration (ECE)</strong> asks whether stated confidence is honest. The <strong>keystone</strong> metric asks whether read-disagreement between two independent methods predicts error, since that is the signal you would triage on in production. It only catches random error by design; the report says so.</p>
+    </section>
+
+    <section id="verify">
+      <h2>Verification that is genuine</h2>
+      <p>Models affirm what they are shown, so "one component checks another" is only meaningful if the check is substantive. Four places where it is:</p>
+      <ul class="plain">
+        <li><strong>Two independent methods, not two samples.</strong> On figures, the CV reader measures pixels and the vision model reads the image. When they agree it is a real cross-check between different methods; when they disagree it flags a figure to triage. Sampling one model twice cannot do this.</li>
+        <li><strong>The judge is validated before its scores are trusted.</strong> Known-answer probes check the judge's exact-verdict accuracy. A known-bad baseline feeds it an evidence-shuffled memo and requires the faithfulness score to collapse by a margin; if a corrupted memo scores as well as a real one, the judge is measuring nothing.</li>
+        <li><strong>Judge against human.</strong> A calibration set scores judge-vs-human agreement with Cohen's kappa, so the judge's reliability is a measured number, not an assumption.</li>
+        <li><strong>Citations cannot be fabricated.</strong> The grounding harness lets the model cite only labeled evidence IDs, which are resolved back to real source chunks. A claim either resolves to a real chunk or it does not exist.</li>
+      </ul>
+      <div class="note">
+        <span class="tag">The honest limit</span>
+        <p>Faithfulness still uses a model to grade a model, and a judge can share the generator's blind spots. The meta-validation above bounds that risk; it does not erase it. The strongest signal in the system is where two <em>different</em> methods must agree, which is why the figure cross-check matters more than any single judge score.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p class="mono">Perceptive AI case study · Stage 2 · reference company KYMR · generated 2026-09-11 on claude-sonnet-5.</p>
+    <p>Deliverables 3 (documentation) and 4 (evaluation framework). The system, the reference memorandum, and its reasoning trace ship in the repository.</p>
+  </footer>
+</div>
