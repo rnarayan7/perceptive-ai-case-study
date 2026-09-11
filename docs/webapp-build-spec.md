@@ -4,7 +4,7 @@ Status: draft for handoff. This is the brief for building a fully functioning we
 
 Stack decision (locked): **Next.js frontend + FastAPI JSON API**, with the existing Python packages kept as the compute layer and **Postgres as the single system of record**.
 
-Decisions locked: Next on **Vercel**; FastAPI + worker on **Render**; **Postgres** (managed) + object storage for blobs; price from **Databento**; shares outstanding from **EDGAR** XBRL (already ingested), market cap = price × shares; consensus reconstructed (no feed for now); on-demand memo generation; auth via Vercel password protection to start, Auth.js + Google SSO later; brand "Perceptive Research OS"; the five companies' ingestion has already been run (migrate that data in).
+Decisions locked: Next on **Vercel**; FastAPI + worker on **Render**; **Postgres** (managed) + object storage for blobs; price from **Alpha Vantage**; shares outstanding from **EDGAR** XBRL (already ingested), market cap = price × shares; consensus reconstructed (no feed for now); on-demand memo generation; auth via Vercel password protection to start, Auth.js + Google SSO later; brand "Perceptive Research OS"; the five companies' ingestion has already been run (migrate that data in).
 
 Figma: https://www.figma.com/design/QFeDpVxHdvP1ZzUwfCWgFx — six screens across three sections (Companies, Data, Activity), plus a Foundations page with the tokens reproduced in Appendix A.
 
@@ -15,7 +15,7 @@ Figma: https://www.figma.com/design/QFeDpVxHdvP1ZzUwfCWgFx — six screens acros
 To ship a working v1 with minimal moving parts. The heavier options in §2–§7 remain the documented scale-up path.
 
 - **Datastore:** SQLite (reuse `ledger.db`) on Render's persistent disk, not managed Postgres. The §4.2 schema applies as SQLite DDL (INTEGER PK for `bigserial`, TEXT/JSON for `jsonb`, TEXT ISO for timestamps).
-- **Market data:** Alpha Vantage behind `MarketDataProvider` — `GLOBAL_QUOTE` for price, `OVERVIEW` for market cap + shares (§7.4). Key in `.env` as `ALPHAVANTAGE_API_KEY`. Replaces Databento + EDGAR.
+- **Market data:** Alpha Vantage behind `MarketDataProvider` — `GLOBAL_QUOTE` for price, `OVERVIEW` for market cap + shares (§7.4). Key in `.env` as `ALPHAVANTAGE_API_KEY`.
 - **Figures:** curated per company, precomputed **offline**. A one-time script runs the figure-extraction engine over a handful of each company's real figures and writes figure + extraction + doc-link rows into the app DB. The backend imports only `memo`; the figure-extraction packages are **not** a request-time dependency, so the two-package import/collision problem is out of scope for v1.
 - **Object storage:** skipped. FastAPI serves images from the Render disk (as the old Flask route did).
 - **Search:** deferred. The Data library filters cover browsing; the global search bar is a later add.
@@ -50,7 +50,7 @@ The Figma is complete and the API/schema below are sound, but a review of the tw
 ### Tier 1 — major (scope + build)
 - **Figures are largely unbuilt in the memo package.** No figure extraction on ingest (ingestion is text-only), no figure→document link (`FigureRecord` has no `doc_id`; the manifest is hand-seeded synthetic PNGs), and the VLM+CV dual-read is hand-calibrated to **one** figure (`fig02_waterfall`) and does not generalize. Arbitrary figures get a single-read `HarvestedExtractor` with free-text labels, so "also appears in" won't join without semantic matching. **Decision required:** ship figures on precomputed/sample data, or build the real pipeline (fetch PDFs, adapt `corpus/pdf_figures.py`, add `doc_id`, generalize the CV read or accept VLM-only and soften the confidence story). Biggest scope fork.
 - **No catalyst data.** No catalyst module, no date fields; regulatory is told to say "not disclosed". Build an extractor or weaken the dashboard's "next catalyst" to a proxy (trial `primary_completion_date`), which is not a readout date.
-- **Fair-value-vs-market needs four pieces, not one:** price (Databento, new), shares (EDGAR, not currently structured), market cap (missing by design), rNPV (computed, not persisted).
+- **Fair-value-vs-market needs four pieces, not one:** price (Alpha Vantage), shares (EDGAR, not currently structured), market cap (missing by design), rNPV (computed, not persisted).
 - **No global search.** No `/search` route; retrieval is per-company only; companies/trials/filings are three different accessors. Net-new unified layer for the top bar.
 - **Generation has no guards.** `compose_memo` is callable but has **no per-company lock/idempotency** and **no rate-limit/retry/cost-cap** around 10+ serial paid model calls. A "Generate" click is unbounded cost and time. Add a job runner with a lock, status polling (the mock's progress state), retries, and a budget cap.
 - **Activity run-diffs aren't computable.** Manifests are overwritten and write-vs-skip isn't recorded, so `docs_added`/`docs_updated` can't be produced. Change ingestion to emit and persist per-run diffs.
@@ -160,7 +160,7 @@ Approach: introduce thin **repository** interfaces the packages write through, b
 - **Frontend:** Vercel (Next App Router). Server components fetch the FastAPI over HTTPS. Next does **not** query Postgres directly; all data access goes through FastAPI, so there is one Python boundary over the data model.
 - **Backend + worker (chosen shape):** one small always-on host (**Render**) running **both** the FastAPI (serves reads) and the worker (runs the long Python jobs) over the same Postgres. This was chosen over (a) Next-reads-Postgres + a jobs-only worker and (b) all-Vercel with a durable workflow engine, to keep a single language and one clean API over the data. A separate host is required because the engine jobs (ingest, compose, figure extraction) call Claude for minutes and cannot run in Vercel's time-limited, stateless functions. The worker consumes a job queue (`BackgroundTasks` for a single instance, or Redis/RQ for retries and concurrency).
 - **Postgres:** managed (Neon, Supabase, or Vercel Postgres). **Object storage:** Vercel Blob or S3.
-- **Price feed:** a Databento client on the worker refreshes `price_snapshots` on a schedule (§7.4).
+- **Price feed:** an Alpha Vantage client on the worker refreshes `price_snapshots` on a schedule (§7.4).
 - **Auth:** start with Vercel password protection (one shared gate, minutes to set up). Move to Auth.js (NextAuth) with Google Workspace SSO for named analysts; Next middleware guards routes and forwards a signed session token that FastAPI verifies. Avoid raw HTTP basic auth; Auth.js is the same effort and gives real users.
 
 ---
@@ -282,7 +282,7 @@ create table drug_prices ( id bigserial primary key, company text, drug text, ge
   manufacturer text, price_per_unit double precision, unit text, period text,
   source text, doc_type text, doc_id text, url text );
 
--- market data (§7.4): price from Databento; market_cap = price × EDGAR shares
+-- market data (§7.4): price from Alpha Vantage; market_cap = price × EDGAR shares
 create table price_snapshots (
   ticker text references companies(ticker),
   market_price double precision, market_cap double precision, shares bigint,
@@ -489,7 +489,7 @@ With Postgres as the store, most of this stops being bespoke code and becomes qu
 - **Endpoints:** `GLOBAL_QUOTE` → latest price; `OVERVIEW` → `MarketCapitalization` + `SharesOutstanding` (and name/description, usable to seed the registry). Market cap comes **directly**, so `upside = rnpv_total / market_cap - 1` and `fair_value_per_share = market_price * (rnpv_total / market_cap)` — no separate share count needed for the math (shares stored for display only).
 - **Rate limit:** free tier ~25 requests/day. Cache aggressively: fetch `OVERVIEW` once/day (slow-moving), `GLOBAL_QUOTE` a couple times/day. Five names × 2 endpoints = ~10/day for a daily refresh, within budget.
 - **Consensus:** no feed in this configuration; the memo reconstructs an implied expectation and states its assumptions (§11).
-- Keep the interface abstract so a stub can stand in for local dev, and so Databento/FactSet/Polygon can replace Alpha Vantage later without touching anything downstream.
+- Keep the interface abstract so a stub can stand in for local dev, and so another vendor (FactSet/Polygon) can replace Alpha Vantage later without touching anything downstream.
 
 ### 7.5 Runs store (Activity) — `ingestion_runs` / `generation_runs`
 - **IngestionRun** row written when the worker runs `cli ingest`: aggregate that run's per-source `IngestManifest`s into scope, sources, docs added/updated (diff vs prior), duration, status (`success` if no `manifest.errors`, `partial` if some, `failed` if all), note (first error).
@@ -569,12 +569,12 @@ Ship 0a–3 as the first working slice; the rest layer on.
 ## 10. Decisions and remaining inputs
 
 Resolved:
-- **Price:** Databento (§7.4). **Deploy:** Next on Vercel, FastAPI + worker on a separate host, managed Postgres + object storage (§3.4). **Auth:** Vercel password protection now, Auth.js + Google SSO later. **Data:** ingestion already run for the five companies, migrate it in (§3.3). **Generation:** on-demand from the app (§5.1). **Stage 1:** wire the live extractor, extract-on-ingest, persist to `extractions` (§7.6). **Brand:** Perceptive Research OS.
+- **Price:** Alpha Vantage (§7.4). **Deploy:** Next on Vercel, FastAPI + worker on a separate host, managed Postgres + object storage (§3.4). **Auth:** Vercel password protection now, Auth.js + Google SSO later. **Data:** ingestion already run for the five companies, migrate it in (§3.3). **Generation:** on-demand from the app (§5.1). **Stage 1:** wire the live extractor, extract-on-ingest, persist to `extractions` (§7.6). **Brand:** Perceptive Research OS.
 
 Also resolved: **Backend host** = Render (FastAPI + worker + Postgres). **`shares_outstanding`** = EDGAR XBRL (`dei:EntityCommonStockSharesOutstanding` via SEC `companyfacts`), already ingested.
 
 Still to confirm:
-1. **Databento specifics:** which equities dataset/schema and the API key. (FactSet deferred for now; it can replace price + shares + consensus later behind the `MarketDataProvider` interface.)
+1. **Alpha Vantage:** free tier (25 calls/day), so prices are cached daily to `price_snapshots.json`. (FactSet deferred; it can replace price + shares + consensus later behind the same `MarketDataProvider` interface.)
 2. **When to switch auth** from the shared password to per-user SSO (before or after first internal users).
 
 ---
@@ -583,7 +583,7 @@ Still to confirm:
 
 - **No eval surfaces in the app.** The eval harness (`memo/eval/`, figure-extraction reports) stays internal. The only machine-confidence in the UI is the tier + figure interval + dual-read agreement.
 - **Cost/tokens/model: surfaced on Activity for now, internal later.** Persisted per run in `generation_runs` and shown on the Activity page as a development aid; the plan is to hide them once the app is in analysts' hands, leaving only status/outcome.
-- **Consensus estimates** have no clean feed in the Databento + EDGAR configuration; the memo reconstructs an implied expectation from public data and states its assumptions. A vendor (FactSet) would replace this later behind the same interface.
+- **Consensus estimates** have no clean feed in the Alpha Vantage + EDGAR configuration; the memo reconstructs an implied expectation from public data and states its assumptions. A vendor (FactSet) would replace this later behind the same interface.
 - **Multi-asset companies:** memo is per company for v1 (per the design). Revisit if a company needs per-asset memos.
 - **Editing:** read-and-audit for v1. Value cells, the peak-sales assumptions block, and a notes rail are designed to become editable later without a redesign (analyst overrides an assumption, valuation recomputes). Out of scope now.
 
