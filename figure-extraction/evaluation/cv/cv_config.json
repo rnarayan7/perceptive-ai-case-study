@@ -36,6 +36,23 @@
             "metric": "leftmost"
           }
         }
+      },
+      {
+        "name": "recist_response",
+        "bar_color": [49, 82, 126],
+        "tol": 20,
+        "min_run_px": 2,
+        "max_gap_px": 1,
+        "baseline_band": 8,
+        "baseline_tol": 50,
+        "baseline_py": 305,
+        "x_range": [725, 1188],
+        "y_range": [165, 490],
+        "y_axis": {"type": "linear", "px1": 179.6, "val1": 75, "px2": 388.5, "val2": -50},
+        "quantities": {
+          "recist_n_plotted": {"metric": "count"},
+          "recist_beyond_30_proportion": {"metric": "proportion_beyond", "threshold": -30, "below": true}
+        }
       }
     ]
   }
