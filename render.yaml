@@ -1,0 +1,34 @@
+# Render Blueprint: spins up the read API + web app from a fresh clone.
+# The backend serves the committed data snapshot, so it runs read-only with no key.
+# Set ANTHROPIC_API_KEY on the backend only if you want to generate memos on the box.
+#
+# One-time setup: Dashboard -> New -> Blueprint (pick this repo), or `render blueprint launch`.
+# After the first deploy, copy the backend's public URL into the frontend's
+# NEXT_PUBLIC_API_BASE var and redeploy the frontend (Next inlines it at build time).
+services:
+  - type: web
+    name: perceptive-backend
+    runtime: python
+    plan: free
+    rootDir: .
+    buildCommand: pip install -r investment-memo/requirements.txt fastapi "uvicorn[standard]"
+    startCommand: PYTHONPATH="backend:investment-memo" python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHONPATH
+        value: backend:investment-memo
+      # Optional: only needed to generate new memos, not to serve the committed data.
+      - key: ANTHROPIC_API_KEY
+        sync: false
+
+  - type: web
+    name: perceptive-frontend
+    runtime: node
+    plan: free
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      # Paste the backend service's public URL here (e.g. https://perceptive-backend.onrender.com),
+      # then redeploy: NEXT_PUBLIC_* is baked in at build time, not read at runtime.
+      - key: NEXT_PUBLIC_API_BASE
+        sync: false
