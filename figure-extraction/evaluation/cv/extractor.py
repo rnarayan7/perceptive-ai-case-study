@@ -68,6 +68,9 @@ class CvExtractor:
                 # collapse. Configurable, with the same defaults as the function.
                 min_run_px=panel.get("min_run_px", 3),
                 max_gap_px=panel.get("max_gap_px", 2),
+                # Recover near-zero bars (short, anti-aliased, against the axis).
+                baseline_band=panel.get("baseline_band", 0),
+                baseline_tol=panel.get("baseline_tol"),
             )
             unc = _axis_uncertainty(y_axis)
             for key, q in panel.get("quantities", {}).items():

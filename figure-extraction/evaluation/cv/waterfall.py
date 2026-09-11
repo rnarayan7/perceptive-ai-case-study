@@ -42,6 +42,8 @@ def measure_waterfall(
     tol: int = 40,
     min_run_px: int = 3,
     max_gap_px: int = 2,
+    baseline_band: int = 0,
+    baseline_tol: Optional[int] = None,
 ) -> List[Bar]:
     """Segment bars of ``bar_color`` and measure each one's extreme value.
 
@@ -49,13 +51,24 @@ def measure_waterfall(
     (<= ``max_gap_px``) are bridged so a bar split by an anti-aliased edge stays
     one bar. Each bar's value is the data value at its row furthest from the
     baseline (the tip of the bar).
+
+    Near-zero bars are only a pixel or two tall, sit against the axis line, and
+    are heavily anti-aliased, so the main ``tol`` misses them. Set
+    ``baseline_band`` (rows either side of the baseline) with a relaxed
+    ``baseline_tol`` to recover them: a column with no full-height match is
+    rescanned in that thin band with the looser tolerance. Left off (0) by
+    default so panels that do not need it are unchanged.
     """
     x0, x1 = x_range
     y0, y1 = y_range
+    b_tol = tol if baseline_tol is None else baseline_tol
     # Per-column: does this column contain the bar color, and its extreme row.
     col_extreme: List[Optional[int]] = []
     for x in range(x0, x1):
         rows = image.column_matches(x, bar_color, tol, y0, y1)
+        if not rows and baseline_band:
+            rows = [y for y in range(baseline_py - baseline_band, baseline_py + baseline_band + 1)
+                    if y != baseline_py and image.matches(image.pixel(x, y), bar_color, b_tol)]
         if not rows:
             col_extreme.append(None)
             continue
