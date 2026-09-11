@@ -205,20 +205,23 @@ are conscious deferrals, not blockers.
   double-counted). We chose the honest reframe over building this. Needs a recompose. This
   is the multi-*indication* case; a multi-*drug* sum-of-parts (e.g. PRAX's three programs)
   is a further step that would also need a multi-drug page.
-- **Real chart-image ingestion for the five coverage companies (not built).** The figures
-  the memo inserts/annotates for ABVX/KYMR/PRAX/IMVT/COGT are labeled-synthetic stand-ins
-  built from each company's real reported numbers (source URLs are genuine, `synthetic:true`
-  in the manifest), because document ingestion pulls text only and no clean public chart
-  image was downloadable (e.g. ABTECT results are HTML tables). The brief wants real figures
-  taken from company presentations. Fix: fetch IR-deck / paper PDFs and extract the chart
-  images per claim, best-effort (some companies disclose results as tables with no chart).
-  Overlaps "IR deck scraping + figures (not built)" above. The Data > Figures tab already
-  lists the *real* ingested figure corpus we do have (6 Stage-1 slides + ~409 harvested
-  FDA/PMC figures); those are just not tied to the five tickers.
-- **Unify the KYMR figure path (small).** KYMR is not in the `memo.figures.ingest` REGISTRY;
-  its figures come from a bundled `memo/figures/samples/KYMR.json` instead of an ingested
-  `data/KYMR/figures/manifest.json`. Fold KYMR into the ingest registry so all five flow
-  through one path.
+- **Standing rule: no synthetic figure images.** The memo may only insert a *real* figure
+  actually ingested from a source. Do not generate or synthesize chart images to fill the
+  gap, even when the numbers on them are real and even when labeled `synthetic:true`. On
+  2026-09-11 the synthetic stand-ins that had been generated for ABVX/KYMR/PRAX/IMVT/COGT
+  were removed: the generator (`memo/figures/ingest.py`), the bundled samples
+  (`memo/figures/samples/`), the on-disk `data/<CO>/figures/`, and the figure refs in the
+  memo artifacts. The generic insert/annotate pipeline (`annotate.py`, `pipeline.py`,
+  `manifest.py`) was kept, dormant, so it can serve real figures once they exist.
+- **Real chart-image ingestion for the five coverage companies (not built) — the honest way
+  to get company figures back.** Document ingestion pulls text only, and no clean public
+  chart image was downloadable for these names (e.g. ABTECT results are HTML tables), so the
+  memos currently insert no figures. The brief wants real figures taken from company
+  presentations. Fix: fetch IR-deck / paper PDFs and extract the chart images per claim,
+  best-effort (some companies disclose results as tables with no chart). Overlaps "IR deck
+  scraping + figures (not built)" above. The Data > Figures tab already lists the *real*
+  ingested figure corpus we do have (6 Stage-1 slides + ~409 harvested FDA/PMC figures);
+  those are just not tied to the five tickers.
 - **Harvested-corpus figure captions (small).** FDA corpus figures usually have an empty
   caption and a generic auto-title on disk, so the Figures tab falls back to the first line
   of the figure's context (often a document header). Real, but weak. A caption pass over the

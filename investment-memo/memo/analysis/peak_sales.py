@@ -55,6 +55,12 @@ _PARAM_NAMES = [name for name, _, _ in _PARAM_SPECS]
 _DEFAULTS = {name: default for name, default, _ in _PARAM_SPECS}
 _UNITS = {name: unit for name, _, unit in _PARAM_SPECS}
 
+# Optional grounded input, not one of the required five: an absolute company-disclosed
+# eligible/addressable patient count. When the model returns it CITED, estimate_peak_sales
+# uses it as the treatable pool directly, replacing epidemiology_population x
+# addressable_fraction (two assumed/estimated inputs) with one sourced number.
+_ADDRESSABLE_POP = "addressable_population"
+
 # Basis labeling: every parameter carries the BASIS its number rests on, so a reader sees
 # whether it is a real anchor or a guess. tier is one of:
 #   grounded  - a directly sourced figure (net price, a real prevalence series)
@@ -303,7 +309,13 @@ def estimate_peak_sales(
     pos = float(params["probability_of_success"])
     m = float(sensitivity_margin)
 
-    treatable_population = pop * frac
+    # A company-disclosed absolute eligible/addressable count, when present, is the treatable
+    # pool directly: one sourced number in place of prevalence x an assumed eligibility share.
+    addressable_population = params.get("addressable_population")
+    if addressable_population and float(addressable_population) > 0:
+        treatable_population = float(addressable_population)
+    else:
+        treatable_population = pop * frac
     patients_on_drug = treatable_population * pen
     gross_revenue = patients_on_drug * price
     risk_adjusted = gross_revenue * pos  # kept for reference; PoS is applied in valuation
@@ -362,9 +374,32 @@ _SYSTEM = (
     "epidemiology_population MUST be the eligible patient count for the LEAD indication you "
     "named, GROUNDED IN and CITING retrieved epidemiology evidence (CDC prevalence, "
     "PubMed/preprint literature, or Orphanet) for that indication. If no retrieved evidence "
-    "gives a prevalence/incidence/patient count for the lead indication, set assumed=true, "
+    "gives a prevalence or patient count for the lead indication, set assumed=true, "
     "leave evidence_ids empty, and give a plausible order-of-magnitude estimate for the "
     "LEAD indication's size -- never substitute a niche sub-population to look grounded. "
+    "MATCH THE NUMBER TO THE NAMED INDICATION, AND USE PREVALENCE. The population MUST be for "
+    "the exact disease you put in lead_indication. Do NOT ground it on a DIFFERENT disease's "
+    "figure just because that disease has a cleaner or single number in the evidence: e.g. do "
+    "NOT use a myasthenia gravis count for a Graves' disease lead, or a gastrointestinal "
+    "stromal tumor count for a systemic mastocytosis lead. Prefer POINT PREVALENCE (the number "
+    "of living patients) over ANNUAL INCIDENCE (new cases per year); annual incidence badly "
+    "undercounts the treatable pool, so never pass an incidence figure through as the "
+    "addressable population. If the only figure retrieved for your NAMED lead indication is an "
+    "incidence, or the only clean prevalence in the evidence belongs to a DIFFERENT disease, "
+    "set assumed=true with a plausible prevalence estimate for the lead indication rather than "
+    "citing the wrong-indication or wrong-measure number -- a clean number for the wrong "
+    "disease is NOT grounding. "
+    "PREFER A COMPANY-DISCLOSED ELIGIBLE COUNT. If the company's own filings or the retrieved "
+    "evidence state an ABSOLUTE number of eligible / addressable / target patients for the "
+    "lead indication (for example 'approximately 20,000 to 35,000 US patients with "
+    "moderate-to-severe X not adequately controlled'), return it as an EXTRA parameter named "
+    "addressable_population (an absolute patient count, unit patients) CITED to that evidence. "
+    "When you provide a grounded addressable_population the calculator uses it directly as the "
+    "treatable pool and skips epidemiology_population x addressable_fraction, so a disclosed "
+    "eligible count is strongly preferred over multiplying a prevalence by an assumed "
+    "eligibility share. Still return epidemiology_population and addressable_fraction as the "
+    "fallback; if you have no CITED eligible count, omit addressable_population entirely "
+    "rather than guessing one. "
     "epidemiology_population MUST be exactly ONE lead commercial indication's addressable "
     "patients. Do NOT sum, add, or aggregate several related indications into one number "
     "(e.g. do not lump atopic dermatitis with asthma, COPD, EoE, or CRSwNP). If several "
@@ -388,7 +423,8 @@ _QUERIES = [
     "lead product candidate most advanced program primary target indication disease treated",
     "disease epidemiology prevalence incidence patients diagnosed population United States",
     "people living with the disease annual new cases eligible patient population prevalence",
-    "addressable eligible patient population line of therapy treatment eligible refractory",
+    "eligible addressable target patient population moderate to severe not adequately "
+    "controlled inadequate response refractory number of US patients we estimate",
     "drug pricing annual cost net price analog therapy wholesale acquisition cost",
     "market size revenue opportunity commercial potential total addressable market",
 ]
@@ -549,7 +585,7 @@ class PeakSalesModule(AnalysisModule):
         raw_by_name: Dict[str, Dict[str, Any]] = {}
         for raw in data.get("parameters", []):
             name = raw.get("name", "")
-            if name in _DEFAULTS:
+            if name in _DEFAULTS or name == _ADDRESSABLE_POP:
                 raw_by_name[name] = raw
             else:
                 notes.append(f"model returned unrecognized parameter '{name}'; ignored")
@@ -657,6 +693,41 @@ class PeakSalesModule(AnalysisModule):
         notes.extend(epi_notes)
         if (not cited_epi or not plausible_pop) and "epidemiology_population" not in assumed_names:
             assumed_names.append("epidemiology_population")
+
+        # Optional: a company-disclosed absolute eligible/addressable count. When grounded it
+        # replaces epidemiology_population x addressable_fraction as the treatable pool (one
+        # sourced number in place of two assumed inputs). Ignored unless it carries evidence.
+        addr_raw = raw_by_name.get(_ADDRESSABLE_POP)
+        if addr_raw is not None:
+            addr_val = float(addr_raw.get("value", 0.0) or 0.0)
+            addr_ev, _unknown = grounding.resolve_evidence(addr_raw.get("evidence_ids", []), labeled)
+            grounded = addr_val > 0 and bool(addr_ev) and not bool(addr_raw.get("assumed", False))
+            if grounded:
+                values[_ADDRESSABLE_POP] = addr_val
+                all_evidence.extend(addr_ev)
+                param_evidence[_ADDRESSABLE_POP] = addr_ev
+                basis_label, tier = _basis_from_evidence(addr_ev)
+                claims.append(
+                    Claim(
+                        statement=(
+                            f"addressable_population = {addr_val:.0f} patients "
+                            f"(company-disclosed eligible count) {_basis_tag(basis_label, tier)}"
+                        ),
+                        confidence=float(addr_raw.get("confidence", 0.0)),
+                        rationale=addr_raw.get("rationale", ""),
+                        evidence=addr_ev,
+                        value=f"{addr_val:.0f} patients",
+                    )
+                )
+                notes.append(
+                    "treatable pool grounded to a company-disclosed addressable/eligible "
+                    "patient count; epidemiology_population x addressable_fraction bypassed"
+                )
+            else:
+                notes.append(
+                    "addressable_population returned but not grounded; ignored, using "
+                    "epidemiology_population x addressable_fraction"
+                )
 
         estimate = estimate_peak_sales(values, sensitivity_margin=self.sensitivity_margin)
 

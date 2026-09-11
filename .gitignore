@@ -216,13 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-data/
+# Data is committed as a snapshot so the system runs from a fresh clone (see README).
+# Only the bulky raw payloads (redundant with the normalized .json the system reads) and
+# SQLite temp files are excluded; the corpus, ledger, traces, memos, and price cache track.
+*.raw
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Local debug screenshots, not part of the deliverable.
+images/
 
 # Eval results (generated)
 investment-memo/evals/results/
-
-# Ledger + traces (generated)
-investment-memo/data/ledger.db
-investment-memo/data/traces/
 
 .DS_Store

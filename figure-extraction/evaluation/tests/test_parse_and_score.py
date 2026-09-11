@@ -128,6 +128,22 @@ def test_interpretive_is_not_scored():
     assert r.error is None and r.error_category == "interpretive"
 
 
+def test_proportion_slop_tolerance():
+    spec = QuantitySpec("psa", Family.PROPORTION, None, 2)  # measured off a chart
+    # off by one bar/patient on the numerator -> within slop, passes
+    r = score(_pred("72% (61/85)"), parse_value("72% (61/85)", None, Family.PROPORTION),
+              parse_value("73% (62/85)", None, Family.PROPORTION), spec)
+    assert r.within_tolerance is True
+    # off by one on the denominator -> within slop, passes
+    r2 = score(_pred("31% (8/26)"), parse_value("31% (8/26)", None, Family.PROPORTION),
+               parse_value("30% (8/27)", None, Family.PROPORTION), spec)
+    assert r2.within_tolerance is True
+    # a genuinely wrong denominator (the fig2 trap) is still a denominator_error
+    r3 = score(_pred("9% (8/85)"), parse_value("9% (8/85)", None, Family.PROPORTION),
+               parse_value("30% (8/27)", None, Family.PROPORTION), spec)
+    assert r3.within_tolerance is False and r3.error_category == "denominator_error"
+
+
 def _run_all() -> int:
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(v)]
     failures = 0

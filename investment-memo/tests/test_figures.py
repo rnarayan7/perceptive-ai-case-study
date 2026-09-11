@@ -1,18 +1,18 @@
 """Tests for the figure insertion + annotation pipeline.
 
-Deterministic and offline: no network, no model. They exercise the annotation engine,
-the keyword matcher, and the ``figures_for_claims`` interface the composition engine
-calls, against the bundled sample images.
+Deterministic and offline: no network, no model, no bundled sample images. Fixtures
+(a plain PNG and a small in-test manifest) are generated per test, so the suite exercises
+the annotation engine, the keyword matcher, and the ``figures_for_claims`` interface the
+composition engine calls, without shipping any figure data in the repo.
 """
 
 from __future__ import annotations
 
 import json
-from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Optional
+from typing import Any, Dict, List, Optional
 
-from PIL import Image
+from PIL import Image, ImageDraw
 
 from memo.analysis.base import Claim, Evidence
 from memo.figures import (
@@ -22,14 +22,42 @@ from memo.figures import (
     figures_for_claims,
     resolve_manifest,
 )
-from memo.figures.manifest import SAMPLES_DIR
+from memo.figures.manifest import FigureRecord
+from memo.ingestion.base import Storage
 from memo.report.render import Figure
 
 
-def _sample_image() -> Path:
-    path = SAMPLES_DIR / "kymr_kt621_pd.png"
-    assert path.exists(), "bundled sample image is missing"
+def _make_png(path: Path, size: tuple = (240, 140)) -> Path:
+    """A small PNG with some content, so an annotation visibly changes its pixels."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    img = Image.new("RGB", size, (245, 245, 245))
+    draw = ImageDraw.Draw(img)
+    draw.rectangle([20, 20, size[0] - 20, size[1] - 20], fill=(200, 210, 230))
+    img.save(path)
     return path
+
+
+def _seed_manifest(root: Path, company: str, figures: List[Dict[str, Any]]) -> None:
+    """Write ``<root>/<company>/figures/manifest.json`` + a source PNG per figure."""
+    fig_dir = root / company / "figures"
+    entries = []
+    for fig in figures:
+        image = f"{fig['figure_id']}_src.png"
+        _make_png(fig_dir / image)
+        entries.append({
+            "figure_id": fig["figure_id"],
+            "image": image,
+            "caption": fig["caption"],
+            "keywords": fig["keywords"],
+            "region": fig.get("region"),
+        })
+    fig_dir.mkdir(parents=True, exist_ok=True)
+    (fig_dir / "manifest.json").write_text(json.dumps({"company": company, "figures": entries}))
+
+
+def _record(figure_id: str, caption: str, keywords: List[str]) -> FigureRecord:
+    return FigureRecord(figure_id=figure_id, image_path=Path("x.png"),
+                        caption=caption, keywords=keywords)
 
 
 def _claim(statement: str, value: Optional[str] = None) -> Claim:
@@ -49,14 +77,14 @@ def _claim(statement: str, value: Optional[str] = None) -> Claim:
 # --- annotation engine -------------------------------------------------------
 
 def test_annotate_image_produces_a_different_file(tmp_path):
-    src = _sample_image()
+    src = _make_png(tmp_path / "src.png")
     out = tmp_path / "annotated.png"
     result = annotate_image(
         src, out,
         [
-            Annotation(kind="box", coords=[500, 105, 588, 360]),
-            Annotation(kind="arrow", coords=[300, 60, 540, 95]),
-            Annotation(kind="callout", coords=[40, 40], text="94% knockdown"),
+            Annotation(kind="box", coords=[40, 30, 200, 110]),
+            Annotation(kind="arrow", coords=[30, 20, 150, 60]),
+            Annotation(kind="callout", coords=[10, 10], text="94% knockdown"),
         ],
     )
 
@@ -72,7 +100,7 @@ def test_annotate_image_produces_a_different_file(tmp_path):
 
 
 def test_annotate_leaves_input_untouched(tmp_path):
-    src = _sample_image()
+    src = _make_png(tmp_path / "src.png")
     before = src.read_bytes()
     annotate_image(src, tmp_path / "out.png", [Annotation(kind="box", coords=[10, 10, 50, 50])])
     assert src.read_bytes() == before
@@ -88,36 +116,46 @@ def test_annotate_missing_input_raises(tmp_path):
 
 # --- keyword matcher ---------------------------------------------------------
 
-def test_matcher_picks_the_asset_specific_figure():
-    manifest = resolve_manifest("KYMR")
-    assert manifest is not None and len(manifest) >= 2
+def _two_figures() -> List[FigureRecord]:
+    return [
+        _record("kt621-stat6-pd", "KT-621 drives dose-dependent STAT6 degradation.",
+                ["KT-621", "STAT6", "degradation", "biomarker"]),
+        _record("kt474-irak4-pd", "KT-474 produces deep IRAK4 knockdown in HS lesions.",
+                ["KT-474", "IRAK4", "knockdown"]),
+    ]
 
-    # A claim mentioning KT-621/STAT6 should match the KT-621 figure, not the KT-474 one.
+
+def test_matcher_picks_the_asset_specific_figure():
+    figures = _two_figures()
     claim = _claim("KT-621 achieves 94% STAT6 degradation at the high dose.")
-    match = best_figure(claim, list(manifest.figures))
-    assert match is not None
-    assert match.figure_id == "kymr-kt621-stat6-pd"
+    match = best_figure(claim, figures)
+    assert match is not None and match.figure_id == "kt621-stat6-pd"
 
 
 def test_matcher_handles_dehyphenated_asset_code():
-    manifest = resolve_manifest("KYMR")
+    figures = _two_figures()
     claim = _claim("KT474 drove deep IRAK4 knockdown in HS lesions.")
-    match = best_figure(claim, list(manifest.figures))
-    assert match is not None
-    assert match.figure_id == "kymr-kt474-irak4-pd"
+    match = best_figure(claim, figures)
+    assert match is not None and match.figure_id == "kt474-irak4-pd"
 
 
 def test_matcher_returns_none_when_nothing_matches():
-    manifest = resolve_manifest("KYMR")
     claim = _claim("The company reported cash runway into 2027.")
-    assert best_figure(claim, list(manifest.figures)) is None
+    assert best_figure(claim, _two_figures()) is None
 
 
 # --- figures_for_claims interface -------------------------------------------
 
-def test_figures_for_claims_returns_annotated_report_figure(tmp_path):
-    from memo.ingestion.base import Storage
+_KYMR_FIGS = [
+    {"figure_id": "kt621-stat6-pd", "caption": "KT-621 drives STAT6 degradation.",
+     "keywords": ["KT-621", "STAT6", "degradation"]},
+    {"figure_id": "kt474-irak4-pd", "caption": "KT-474 IRAK4 knockdown in HS.",
+     "keywords": ["KT-474", "IRAK4", "knockdown"]},
+]
 
+
+def test_figures_for_claims_returns_annotated_report_figure(tmp_path):
+    _seed_manifest(tmp_path, "KYMR", _KYMR_FIGS)
     storage = Storage(root=tmp_path)
     claims = [
         _claim("KT-621 achieves 94% STAT6 degradation at the high dose.", value="94%"),
@@ -125,101 +163,42 @@ def test_figures_for_claims_returns_annotated_report_figure(tmp_path):
     ]
     figures = figures_for_claims("KYMR", claims, storage=storage)
 
-    assert len(figures) == 2
+    # Each distinct figure is inserted at most once, at the claim it best supports.
+    assert figures
+    assert len(figures) == len({f.figure_id for f in figures})
+    ids = {f.figure_id for f in figures}
+    assert "kt621-stat6-pd" in ids and "kt474-irak4-pd" in ids
     for fig in figures:
         assert isinstance(fig, Figure)
-        assert fig.figure_id
         assert fig.caption
         assert fig.image_ref and Path(fig.image_ref).exists()
         assert Path(fig.image_ref).stat().st_size > 0
 
-    # Right figure went to the right claim.
-    assert figures[0].figure_id == "kymr-kt621-stat6-pd"
-    assert figures[1].figure_id == "kymr-kt474-irak4-pd"
-
-    # The rendered image is annotated (differs from the source it came from).
-    src = SAMPLES_DIR / "kymr_kt621_pd.png"
-    assert src.read_bytes() != Path(figures[0].image_ref).read_bytes()
+    # The rendered image is annotated (differs from its source).
+    src = tmp_path / "KYMR" / "figures" / "kt621-stat6-pd_src.png"
+    annotated = next(f for f in figures if f.figure_id == "kt621-stat6-pd")
+    assert src.read_bytes() != Path(annotated.image_ref).read_bytes()
 
 
 def test_figures_for_claims_no_match_returns_empty(tmp_path):
-    from memo.ingestion.base import Storage
-
+    _seed_manifest(tmp_path, "KYMR", _KYMR_FIGS)
     storage = Storage(root=tmp_path)
     claims = [_claim("Cash runway extends into 2027 with no financing needed.")]
     assert figures_for_claims("KYMR", claims, storage=storage) == []
 
 
-def test_figures_for_claims_unknown_company_returns_empty():
-    assert figures_for_claims("NOPE", [_claim("KT-621 STAT6 degrader")]) == []
-
-
-def test_figures_for_claims_empty_claims_returns_empty():
-    assert figures_for_claims("KYMR", []) == []
-
-
-# --- offline figure ingestion (memo.figures.ingest) --------------------------
-
-def test_normalize_box_clamps_and_orders():
-    from memo.figures.ingest import _normalize_box
-
-    # Out-of-range and reversed corners are clamped and reordered.
-    assert _normalize_box([620, 405, 583, 187], 720, 460) == [583, 187, 620, 405]
-    assert _normalize_box([-10, -10, 800, 500], 720, 460) == [0, 0, 720, 460]
-    # Degenerate / malformed boxes are rejected.
-    assert _normalize_box([100, 100, 101, 101], 720, 460) is None
-    assert _normalize_box([1, 2, 3], 720, 460) is None
-    assert _normalize_box("nope", 720, 460) is None
-
-
-def test_extract_json_tolerates_prose_and_fences():
-    from memo.figures.ingest import _extract_json
-
-    assert _extract_json('here it is: {"box": [1, 2, 3, 4]} done') == {"box": [1, 2, 3, 4]}
-    assert _extract_json("no json here") is None
-
-
-def test_ingest_company_offline_writes_manifest_and_annotated(tmp_path):
-    """The --no-vlm path produces a manifest + annotated previews with no model."""
-    from memo.figures.ingest import ingest_company
-
-    summary = ingest_company("ABVX", data_root=tmp_path, use_vlm=False)
-    assert summary["figures"] == 2
-    assert summary["vlm_reads"] == 0  # fallback regions, no model call
-
-    fig_dir = tmp_path / "ABVX" / "figures"
-    manifest = json.loads((fig_dir / "manifest.json").read_text())
-    assert manifest["company"] == "ABVX"
-    assert manifest["region_source"] == "fallback"
-    assert len(manifest["figures"]) == 2
-    for entry in manifest["figures"]:
-        # Synthetic stand-ins must be labeled as such (as KYMR does).
-        assert entry["synthetic"] is True
-        assert (fig_dir / entry["image"]).exists()
-        annotated = fig_dir / "annotated" / f"{entry['figure_id']}.png"
-        assert annotated.exists() and annotated.stat().st_size > 0
-
-
-def test_ingested_manifest_is_picked_up_by_pipeline(tmp_path):
-    """A memo compose reads the ingested manifest off disk and annotates from it."""
-    from memo.figures.ingest import ingest_company
-    from memo.ingestion.base import Storage
-
-    ingest_company("ABVX", data_root=tmp_path, use_vlm=False)
+def test_figures_for_claims_unknown_company_returns_empty(tmp_path):
     storage = Storage(root=tmp_path)
+    assert figures_for_claims("NOPE", [_claim("KT-621 STAT6 degrader")], storage=storage) == []
 
-    manifest = resolve_manifest("ABVX", storage=storage)
-    assert manifest is not None and len(manifest) == 2
 
-    claim = _claim(
-        "Obefazimod delivered a pooled +16.4% placebo-adjusted clinical remission "
-        "at Week 8 in the ABTECT induction trials.",
-        value="16.4%",
-    )
-    figures = figures_for_claims("ABVX", [claim], storage=storage)
-    # Each distinct figure is inserted at most once (no per-claim duplication).
-    assert figures
-    assert len(figures) == len({f.figure_id for f in figures})
-    assert "abvx-obefazimod-abtect-induction-remission" in {f.figure_id for f in figures}
-    for fig in figures:
-        assert Path(fig.image_ref).exists()
+def test_figures_for_claims_empty_claims_returns_empty(tmp_path):
+    _seed_manifest(tmp_path, "KYMR", _KYMR_FIGS)
+    storage = Storage(root=tmp_path)
+    assert figures_for_claims("KYMR", [], storage=storage) == []
+
+
+def test_resolve_manifest_none_without_a_seeded_manifest(tmp_path):
+    """No bundled fallback: an unseeded company resolves to None."""
+    assert resolve_manifest("KYMR", storage=Storage(root=tmp_path)) is None
+    assert resolve_manifest("KYMR") is None
