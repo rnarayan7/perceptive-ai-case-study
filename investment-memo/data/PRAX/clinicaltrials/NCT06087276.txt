@@ -1,0 +1,19 @@
+Title: Essential 3 - Decentralized, Phase 3 Study Evaluating the Safety and Efficacy of Ulixacaltamide in Essential Tremor (ET)
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Essential Tremor
+Interventions: 60 mg ulixacaltamide (DRUG), Placebo (DRUG)
+Enrollment: 1000
+
+Summary: The goal of this clinical study is to compare ulixacaltamide and placebo treatment in essential tremor. The main question it aims to answer is:
+
+• Is ulixacaltamide a safe and efficacious treatment for patients with essential tremor?
+
+Participants will be asked to participate in one of two clinical studies where they will be treated with either ulixacaltamide or placebo for a period of up to 12 weeks. After the controlled study completion, they will be eligible to participate in a long-term, open-label safety study (LTSS) and be treated with ulixacaltamide. Participants are eligible to enroll directly into the LTSS if they previously participated in an essential tremor trial, received sponsor invitation after being deemed ineligible for the controlled study, or following enrollment closure of the controlled study.
+
+Primary outcomes:
+- Parallel Design: Change from Baseline (CFB) to Week 8 (Day 56) on mADL11 score (time frame: 8 weeks (56 days))
+- Randomized Withdrawal: The proportion of participants that maintain response, as defined by change in mADL11 score, following randomized withdrawal (time frame: 12 weeks (84 days))
+- Long-term Safety Study: Number of participants with Adverse Events (AE) and their severity. (time frame: Up to 3 years)

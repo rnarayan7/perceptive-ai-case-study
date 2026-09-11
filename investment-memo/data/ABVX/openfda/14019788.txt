@@ -1,0 +1,4 @@
+FAERS adverse-event report 14019788 (comparator: upadacitinib)
+Serious: yes
+Reactions: Basal cell carcinoma, Fibrocystic breast disease
+Reported drugs: SIMPONI, ENBREL, ORENCIA, CIMZIA, XELJANZ, HYRIMOZ, RINVOQ

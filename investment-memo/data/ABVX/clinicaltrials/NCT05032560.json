@@ -1,0 +1,55 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05032560",
+  "title": "Safety and Pharmacokinetics Study in Healthy Japanese Volunteers",
+  "url": "https://clinicaltrials.gov/study/NCT05032560",
+  "published": "2021-09-02",
+  "retrieved_at": "2026-09-07T12:53:29.797554+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Volunteers"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 48,
+    "start_date": "2021-09-27",
+    "primary_completion_date": "2022-02-18",
+    "completion_date": "2022-02-18",
+    "first_posted_date": "2021-09-02",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of adverse events (AEs) and SAEs",
+        "timeFrame": "6 weeks"
+      },
+      {
+        "measure": "incidence of treatment-emergent serious adverse events",
+        "timeFrame": "6 weeks"
+      },
+      {
+        "measure": "incidence of treatment-emergent adverse events of special interest (AESIs).",
+        "timeFrame": "6 weeks"
+      },
+      {
+        "measure": "incidence of clinically significant laboratory abnormalities",
+        "timeFrame": "6 weeks"
+      }
+    ]
+  },
+  "hash": "11402070cb269509c0f1ea760c34f523c3ddef62e8ecbdf5b9f23b73ed6c961a"
+}

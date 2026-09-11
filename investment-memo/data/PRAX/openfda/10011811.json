@@ -1,0 +1,43 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10011811",
+  "title": "FAERS report 10011811: Sudden death",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10011811",
+  "published": "2015-06-26",
+  "retrieved_at": "2026-09-08T08:40:36.205734+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Sudden death"
+    ],
+    "drugs": [
+      "PANTOLOC",
+      "PINEX",
+      "PHENYTOIN.",
+      "VIMPAT",
+      "ORFIRIL",
+      "VIMPAT",
+      "DEPAKINE",
+      "PENICILLIN",
+      "KEPPRA",
+      "DEPAKINE",
+      "CALCIUM CHLORIDE.",
+      "STESOLID MR",
+      "IKTORIVIL",
+      "FOSPHENYTOIN",
+      "FOSPHENYTOIN",
+      "PERFALGAN",
+      "KEPPRA",
+      "FOSPHENYTOIN",
+      "POTASSIUM CHLORIDE W/SODIUM CHLORIDE",
+      "DEPAKINE",
+      "METRONIDAZOLE.",
+      "TAZOCIN"
+    ],
+    "occurcountry": "DK"
+  },
+  "hash": "f537888bc3cbb9b721b7cc05cc6867888e3a06732bd9230e65f88b243b0e14a5"
+}

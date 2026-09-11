@@ -1,0 +1,32 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17859148",
+  "title": "FAERS report 17859148: Large intestine perforation, General physical health deterioration",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17859148",
+  "published": "2020-06-04",
+  "retrieved_at": "2026-09-08T08:41:06.398747+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Large intestine perforation",
+      "General physical health deterioration"
+    ],
+    "drugs": [
+      "QINLOCK",
+      "METOCLOPRAMIDE.",
+      "LEVAXIN (LEVOTHYROXINE SODIUM)",
+      "MAGNESIUM SULFATE.",
+      "VITAMIN B12",
+      "ONDANSETRON HYDROCHLORIDE.",
+      "MORPHINE (MORPHINE HYDROCHLORIDE)",
+      "DUPHALAC",
+      "QINLOCK",
+      "LAXOBERAL (SODIUM PICOSULFATE)"
+    ],
+    "occurcountry": "NO"
+  },
+  "hash": "c7eec9244583db3fdebca96737bccc77d14defd488359d5fee93774bb77b3ad9"
+}

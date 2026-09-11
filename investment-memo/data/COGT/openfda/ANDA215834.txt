@@ -1,0 +1,8 @@
+Drugs@FDA application ANDA215834: MIDOSTAURIN
+Sponsor: LOTUS PHARM CO LTD
+Active ingredient(s): MIDOSTAURIN
+Brand name(s): MIDOSTAURIN
+Application type: ANDA (generic)
+Review priority: STANDARD
+Marketing status: None (Tentative Approval)
+Submissions on record: 1

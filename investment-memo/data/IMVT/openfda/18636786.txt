@@ -1,0 +1,4 @@
+FAERS adverse-event report 18636786 (comparator: efgartigimod)
+Serious: yes
+Reactions: B-cell lymphoma, Myasthenia gravis, Cerebrovascular accident, Inability to afford medication, Inappropriate schedule of product administration, Pulmonary mass, COVID-19, Insurance issue, Catheter site pruritus, Gastrointestinal disorder, Sinusitis, Nasopharyngitis, Blood immunoglobulin G decreased, Blood test abnormal, Rash erythematous, Diarrhoea, Rash, Malaise, Abdominal pain, Pruritus, Headache, Asthenia, Fatigue
+Reported drugs: HUMAN IMMUNOGLOBULIN G\HYALURONIDASE RECOMBINANT HUMAN, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, GAMMAGARD LIQUID, VYVGART, EPINEPHRINE, SODIUM CHLORIDE, ACETAMINOPHEN, PYRIDOSTIGMINE BROMIDE, MYCOPHENOLATE MOFETIL, RUXIENCE, SODIUM CHLORIDE, GLYCOPYRROLATE, ELIQUIS, B active, DIPHENHYDRAMINE HYDROCHLORIDE

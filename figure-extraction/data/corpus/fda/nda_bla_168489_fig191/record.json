@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig191",
+  "figure_type": "unknown",
+  "title": "nda_bla_168489 figure 191",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377\n               OPDIVO (nivolumab) and Yervoy (ipilimumab)\n               Request and determined that the Applicant had met the terms of the Written Request.\n               Pediatric Exclusivity was granted to nivolumab (Refer to the Pediatric Determination Checklist)\n               granted on February 2, 2023.\n\n\n               Refer to Section 6, Section 8 and Section 19.4 for a summary of the clinical data submitted to\n               support the use of nivolumab as a single agent and in combination with ipilimumab, and\n               ipilimumab in combination with nivolumab in pediatric patients 12 years and older with\n               melanoma.\n\n\n\n\n                                                                 137\n                                           Version date: June 2022 (ALL NDA/ BLA reviews)\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5127294\n\f\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.079617+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "ae8d2b0f12ae59b12b962b9fffa77c800c9d30316d073f415d4c7993153a6b45",
+  "image_file": "image.png"
+}

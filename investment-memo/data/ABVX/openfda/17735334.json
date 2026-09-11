@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17735334",
+  "title": "FAERS report 17735334: Endometrial adenocarcinoma",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17735334",
+  "published": "2021-08-24",
+  "retrieved_at": "2026-09-08T08:39:59.982065+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Endometrial adenocarcinoma"
+    ],
+    "drugs": [
+      "OZANIMOD.",
+      "DIANE (CYPROTERONE ACETATE\\ETHINYL ESTRADIOL)",
+      "PAROXINI",
+      "OTIPAX",
+      "PROPOFOL.",
+      "PROPOFOL.",
+      "METHYLPREDNISOLONE."
+    ],
+    "occurcountry": "UA"
+  },
+  "hash": "c3e646501555cfd19a1cd3b90e8fd48c0e17f3d01f999aa57b66a3cd944ae925"
+}

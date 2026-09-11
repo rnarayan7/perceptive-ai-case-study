@@ -1,0 +1,13 @@
+Title: Imeroprubart in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Chronic Inflammatory Demyelinating Polyneuropathy
+Interventions: Imeroprubart (DRUG), Placebo (DRUG)
+Enrollment: 162
+
+Summary: This is a Phase 2b study to evaluate the efficacy and safety of Imeroprubart in adults with CIDP.
+
+Primary outcomes:
+- Proportion of participants remaining Relapse-free by Week 24 (time frame: Baseline, Week 24)

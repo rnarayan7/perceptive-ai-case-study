@@ -1,0 +1,1 @@
+Kaplan-Meier survival curves among patients with different lymphoma subtypes. ( A ) The progression-free survival curve among 234 patients with cHL, sALCL and other types of lymphoma. ( B ) The overall survival curve among 234 patients with cHL, sALCL and other types of lymphoma. The median OS and median PFS were not reached ( Figure 2 ).

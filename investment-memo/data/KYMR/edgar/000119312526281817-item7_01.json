@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526281817-item7_01",
+  "title": "Kymera Therapeutics, Inc. 8-K (2026-06-25) - Regulation FD Disclosure",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526281817/0001193125-26-281817-index.htm",
+  "published": "2026-06-25",
+  "retrieved_at": "2026-09-07T12:31:03.056141+00:00",
+  "metadata": {
+    "accession": "0001193125-26-281817",
+    "cik": 1815442,
+    "form": "8-K",
+    "primary_document": "d62555d8k.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-06-25",
+    "filing_date": "2026-06-25",
+    "items": "7.01,8.01,9.01",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526281817/d62555d8k.htm",
+    "section": "Regulation FD Disclosure",
+    "section_key": "item7_01"
+  },
+  "hash": "70ef1b0ebc0910dd235a9b77bccfebc3b7cbe9b78c5a43e25f4256e2a5d8891e"
+}

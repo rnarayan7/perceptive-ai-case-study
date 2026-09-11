@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IL_AST02_AGEADJPREV_2021_2021_SEXM",
+  "title": "Asthma - Illinois - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.853072+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Illinois",
+    "location_abbr": "IL",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "7.3",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "710585333ed1e79f77b51753070bd901f9777e35f392947568abe845bbd52675"
+}

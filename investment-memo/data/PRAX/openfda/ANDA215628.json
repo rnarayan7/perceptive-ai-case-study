@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA215628",
+  "title": "Drugs@FDA ANDA215628: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A215628",
+  "published": "2022-09-19",
+  "retrieved_at": "2026-09-08T08:40:37.245911+00:00",
+  "metadata": {
+    "manufacturer": "GLAND",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "GLAND",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2022-09-19",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 2
+  },
+  "hash": "163c291f94565d442287c5fa6ee9ec89c46a0473b9d2b9667d01caeae8230c96"
+}

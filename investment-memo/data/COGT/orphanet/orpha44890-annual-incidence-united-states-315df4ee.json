@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha44890-annual-incidence-united-states-315df4ee",
+  "title": "Gastrointestinal stromal tumor - Annual incidence (United States) [ORPHA:44890]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:10.055762+00:00",
+  "metadata": {
+    "orphacode": 44890,
+    "preferred_term": "Gastrointestinal stromal tumor",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "1.5",
+    "geographic_area": "United States",
+    "validation_status": "Not yet validated",
+    "source": "11213830[PMID]_23079473[PMID]",
+    "source_pmids": [
+      "11213830",
+      "23079473"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "315df4ee64c3f56a8d52dc755b2bc5ff6ecedc858612d793c6d7482d22f72e2c"
+}

@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-SD_ART01_CRDPREV_2020_2020_AGE1844",
+  "title": "Arthritis - South Dakota - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203441+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "South Dakota",
+    "location_abbr": "SD",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.0",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "3203f9a2e78c06caa095c31e269132a6d763467ba67b033bb35b4e9f291c66dd"
+}

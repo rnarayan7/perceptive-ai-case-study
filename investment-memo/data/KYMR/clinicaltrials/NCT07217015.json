@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07217015",
+  "title": "A Study of KT-621 Administered Orally to Participants With Moderate to Severe Atopic Dermatitis",
+  "url": "https://clinicaltrials.gov/study/NCT07217015",
+  "published": "2025-10-15",
+  "retrieved_at": "2026-09-07T06:57:16.412892+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Atopic Dermatitis"
+    ],
+    "interventions": [
+      {
+        "name": "KT-621",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 200,
+    "start_date": "2025-11-24",
+    "primary_completion_date": "2027-06",
+    "completion_date": "2028-06",
+    "first_posted_date": "2025-10-15",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline in Eczema Area and Severity Index (EASI) score",
+        "timeFrame": "From baseline through Week 16"
+      }
+    ]
+  },
+  "hash": "36881ae846e42f7889459401920355f55445b217ddfe1b7e2fd17267500e4f58"
+}

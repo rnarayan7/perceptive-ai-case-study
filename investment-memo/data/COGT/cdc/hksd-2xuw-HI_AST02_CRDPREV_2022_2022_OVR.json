@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-HI_AST02_CRDPREV_2022_2022_OVR",
+  "title": "Asthma - Hawaii - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.854058+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Hawaii",
+    "location_abbr": "HI",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.1",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "f792da41fcc6e55942802416b4f992e55c1dab23f1ef227ed53ec075fde846a9"
+}

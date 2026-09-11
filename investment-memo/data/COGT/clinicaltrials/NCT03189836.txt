@@ -1,0 +1,14 @@
+Title: Study of ACTR707 in Combination With Rituximab in Subjects With Relapsed or Refractory B Cell Lymphoma
+Status: TERMINATED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Lymphoma
+Interventions: ACTR707 (BIOLOGICAL), rituximab (BIOLOGICAL)
+Enrollment: 26
+
+Summary: This is a phase 1, multi-center, single-arm, open-label study evaluating the safety and anti-lymphoma activity of an autologous T cell product (ACTR707) in combination with rituximab in subjects with refractory or relapsed CD20+ B cell lymphoma.
+
+Primary outcomes:
+- Safety as assessed by dose limiting toxicities (DLTs) (time frame: 28 days)
+- Determination of maximum tolerated dose and proposed recommended Phase 2 dose (time frame: 24 weeks)

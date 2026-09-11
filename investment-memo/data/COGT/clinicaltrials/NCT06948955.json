@@ -1,0 +1,36 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06948955",
+  "title": "Expanded Access to Bezuclastinib to be Coadministered With Sunitinib for Patients With Gastrointestinal Stromal Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT06948955",
+  "published": "2025-04-29",
+  "retrieved_at": "2026-09-07T12:53:51.523454+00:00",
+  "metadata": {
+    "phases": [],
+    "overall_status": "AVAILABLE",
+    "study_type": "EXPANDED_ACCESS",
+    "conditions": [
+      "Gastrointestinal Neoplasms, Gastrointestinal Stromal Tumors"
+    ],
+    "interventions": [
+      {
+        "name": "Bezuclastinib",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": null,
+    "start_date": null,
+    "primary_completion_date": null,
+    "completion_date": null,
+    "first_posted_date": "2025-04-29",
+    "primary_outcomes": []
+  },
+  "hash": "fa68c30438ca99fc3f3ca56b867f7a82e1f0f8691988a986a20ae7cfbb978e80"
+}

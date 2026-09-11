@@ -1,0 +1,13 @@
+Title: Study to Assess Batoclimab in Participants With Active Thyroid Eye Disease
+Status: COMPLETED
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Thyroid Eye Disease
+Interventions: Batoclimab (DRUG), Placebo (DRUG)
+Enrollment: 86
+
+Summary: To evaluate the efficacy of batoclimab 680 milligrams (mg) subcutaneous (SC) once a week (QW) for 12 weeks followed by 340 mg SC QW for 12 weeks versus placebo on proptosis responder rate at Week 24.
+
+Primary outcomes:
+- Percentage of proptosis responders (time frame: At Week 24)

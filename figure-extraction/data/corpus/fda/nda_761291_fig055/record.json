@@ -1,0 +1,78 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig055",
+  "figure_type": "unknown",
+  "title": "nda_761291 figure 55",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n               2-4 days between each dose with longer duration allowed if needed for resolution of toxicities).\n               FDA evaluated observed dosing intervals and time to onset of CRS for patients treated with the\n               recommended SC step-up dosing schedule to support labeling of the recommended schedule of\n               administration. Four patients scheduled to receive the recommended SC step-up dosing regimen\n               had repeat step-up doses before the first treatment dose and were excluded from this analysis.\n               Among the 161 patients treated with the recommended SC step-up dosing regimen as planned,\n               the median time between step-up dose 1 and step-up dose 2 was 2.9 days and the median time\n               between step-up dose 2 and the first treatment dose was 3.1 days. FDA Figure 3 shows the\n               distribution of dosing intervals (days to next dose) after step-up dose 1 and step-up dose 2 split\n               by whether the patient had CRS after the given dose. In general, patients who had CRS after a\n               dose tended to have a longer duration to the next dose compared with patients who did not\n               have CRS. Among patients with CRS after step-up dose 1, 82% received step-up dose 2 within\n               4 days and 100% received step-up dose 2 within 7 days. Among patients with CRS after step-up\n               dose 2, 82% received the first treatment dose within 4 days and 98% received the first treatment\n               dose within 7 days.\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              63\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n               will also include recommendations for restarting therapy if dose delays of 8 days or longer occur.\n\n               Overall, the proposed SC step-up dosing schedule with adequate CRS prevention and monitoring\n               strategies (see Section 8.1.2 – Study Results) results in an acceptable safety profile with regards\n               to CRS incidence and severity.\n\n               Continued Treatment Dose: After completion of the step-up dosing schedule, treatment with\n               teclistamab continues indefinitely based on patient response. During this continued treatment\n               period, concerns include attainment and maintenance of response and chronic safety and\n               tolerability.\n\n               As described above, a positive relationship between teclistamab exposure and ORR was observed\n               in patients treated with various SC dosage regimens in Phase 1 of MajesTEC-1. This E-R analysis\n               supported selection of 1.5 mg/kg QW as the recommended SC treatment dosage for further\n               evaluation in Phase 2.\n\n               Small numbers of patients (5 to 12 per cohort) were treated at weekly SC treatment dose levels\n               other than the recommended SC treatment dose (1.5 mg/kg). During Phase 1, weekly SC\n               treatment dose levels ranged from 0.08 mg/kg to 6 mg/kg. The ORR and time to first response\n               are summarized in FDA Table 5 (per Investigator assessment). Responses were observed at all\n               weekly SC treatment dose levels and the median time to first response was similar regardless of\n               weekly SC treatment dose level.\n\n               FDA Table 5: Summary of ORR and Time to First Response by SC Treatment Dose Level\n\n                 Weekly SC Treatment Dose                       ORR; % (n/N)                   Time to First Response,\n                                                                                              months; median (min, max)\n                 0.08 mg/kg                                       50% (3/6)                         1.6 (1.0, 1.7)\n                 0.24 mg/kg                                       43% (3/7)                         1.9 (1.2, 5.1)\n                 0.72 mg/kg                                      60% (9/15)                         1.5 (0.9, 6.0)\n                 1.5 mg/kg                                     62% (102/165)                        1.2 (0.1, 5.4)\n                 3 mg/kg                                         100% (5/5)                         1.1 (1.0, 1.6)\n                 6 mg/kg                                         67% (8/12)                         1.1 (0.3, 1.6)\n               Source: Reviewer’s analysis\n\n               Due to the dose escalation design of MajesTEC-1, patients treated at lower dose levels had\n               longer potential duration of follow-up. In addition, intra-patient dose modifications, including\n               increasing the weekly SC treatment dose and reducing the frequency of treatment dose\n               administration (i.e., to every other week [Q2W] or every 4 weeks [Q4W]) was allowed. Both\n               issues confound assessment of DOR by weekly SC treatment dose level. However, multiple\n               patients treated with SC treatment dosages substantially below the recommended SC treatment\n               dosage (1.5 mg/kg QW) maintained responses for long durations. For example, 3 patients treated\n               initially in the two lowest treatment dose cohorts (0.08 mg/kg and 0.24 mg/kg) each remained in\n               CR for more than a year while receiving teclistamab 0.24 mg/kg SC Q2W (8% of the\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              65\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.847853+00:00",
+  "ground_truth": [
+    {
+      "quantity": "proportion (candidate)",
+      "value": "50% (3/6)",
+      "unit": null,
+      "population_n": 6,
+      "method": "regex_candidate",
+      "source_text": "g 50% (3/6) 1.6 (1.0, 1.7)",
+      "verified": false
+    },
+    {
+      "quantity": "proportion (candidate)",
+      "value": "43% (3/7)",
+      "unit": null,
+      "population_n": 7,
+      "method": "regex_candidate",
+      "source_text": "g 43% (3/7) 1.9 (1.2, 5.1)",
+      "verified": false
+    },
+    {
+      "quantity": "proportion (candidate)",
+      "value": "60% (9/15)",
+      "unit": null,
+      "population_n": 15,
+      "method": "regex_candidate",
+      "source_text": "kg 60% (9/15) 1.5 (0.9, 6.0)",
+      "verified": false
+    },
+    {
+      "quantity": "proportion (candidate)",
+      "value": "62% (102/165)",
+      "unit": null,
+      "population_n": 165,
+      "method": "regex_candidate",
+      "source_text": "/kg 62% (102/165) 1.2 (0.1, 5.4)",
+      "verified": false
+    },
+    {
+      "quantity": "proportion (candidate)",
+      "value": "100% (5/5)",
+      "unit": null,
+      "population_n": 5,
+      "method": "regex_candidate",
+      "source_text": "100% (5/5) 1.1 (1.0, 1.6)",
+      "verified": false
+    },
+    {
+      "quantity": "proportion (candidate)",
+      "value": "67% (8/12)",
+      "unit": null,
+      "population_n": 12,
+      "method": "regex_candidate",
+      "source_text": "67% (8/12) 1.1 (0.3, 1.6)",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "38c2bedb52ddd75e95adc3ec00422a1e19a70f33b133449ac2c154a17729d404",
+  "image_file": "image.png"
+}

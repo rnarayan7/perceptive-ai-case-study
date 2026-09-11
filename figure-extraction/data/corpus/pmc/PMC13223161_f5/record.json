@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13223161_f5",
+  "figure_type": "forest",
+  "title": "Circulating tumor DNA and prognosis in gastric cancer patients undergoing surgery: meta-analysis and trial sequential analysis.",
+  "caption": "Subgroup forest plot of the pooled HR for OS according to pathological stage.",
+  "context": "Subgroup forest plot of the pooled HR for OS according to pathological stage. In addition, for OS the pooled effect was stronger in studies including all stages (I–IV; HR = 3.29, 95% CI 2.14–5.04; I² = 64.7%) than in early-stage (I–III) cohorts (HR = 1.80, 95% CI 1.32–2.46; I² = 48.2%), with a significant interaction by stage ( p = 0.015; Figure 5 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223161/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T13:05:29.545047+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "3.29 (95% CI 2.14-5.04)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "in studies including all stages (I–IV; HR = 3.29, 95% CI 2.14–5.04; I² = 64.7%) than in early-stage (I–III",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "1.80 (95% CI 1.32-2.46)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "%) than in early-stage (I–III) cohorts (HR = 1.80, 95% CI 1.32–2.46; I² = 48.2%), with a significant intera",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13223161",
+    "pmid": "42232546",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "13f4d2790dba76f7f2591924b960e98205a10eee07a5e1b1960aaccc7b64e233",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04253236",
+  "title": "To Assess the Efficacy and Safety of RVT-1401 in the Treatment of Warm Autoimmune Hemolytic Anemia (ASCEND-WAIHA).",
+  "url": "https://clinicaltrials.gov/study/NCT04253236",
+  "published": "2020-02-05",
+  "retrieved_at": "2026-09-07T12:53:37.941055+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Warm Autoimmune Hemolytic Anemia"
+    ],
+    "interventions": [
+      {
+        "name": "RVT-1401 680 mg/weekly",
+        "type": "DRUG"
+      },
+      {
+        "name": "RVT-1401 340 mg/weekly",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 5,
+    "start_date": "2020-08-11",
+    "primary_completion_date": "2021-04-01",
+    "completion_date": "2021-04-01",
+    "first_posted_date": "2020-02-05",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Responders at Week 13",
+        "timeFrame": "Week 13"
+      },
+      {
+        "measure": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death",
+        "timeFrame": "Up to Week 20"
+      }
+    ]
+  },
+  "hash": "292e36de7339269ae482ed8f47864bdef98b7dcec6477d28e0772b34db58eeee"
+}

@@ -1,0 +1,84 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02401815",
+  "title": "CGT9486 (Formerly Known as PLX9486) as a Single Agent and in Combination With PLX3397 (Pexidartinib) or Sunitinib in Participants With Advanced Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT02401815",
+  "published": "2015-03-30",
+  "retrieved_at": "2026-09-07T12:53:51.528728+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Gastrointestinal Stromal Tumors"
+    ],
+    "interventions": [
+      {
+        "name": "CGT9486",
+        "type": "DRUG"
+      },
+      {
+        "name": "Pexidartinib",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 51,
+    "start_date": "2015-03-06",
+    "primary_completion_date": "2020-05-11",
+    "completion_date": "2020-05-11",
+    "first_posted_date": "2015-03-30",
+    "primary_outcomes": [
+      {
+        "measure": "Part 1: Recommended Phase 2 Dose (RP2D) of CGT9486",
+        "timeFrame": "Cycle 1 of Part 1 (Cycle length = 28 days)"
+      },
+      {
+        "measure": "Part 1: Number of Participants With Treatment Emergent Adverse Events (TEAEs)",
+        "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 670 days)"
+      },
+      {
+        "measure": "Part 1: Area Under The Concentration Time Curve From Time Zero to 24 Hours After Dosing (AUC0-24) of CGT9486",
+        "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15"
+      },
+      {
+        "measure": "Part 1: Maximum Observed Plasma Concentration (Cmax) of CGT9486",
+        "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15"
+      },
+      {
+        "measure": "Part 1: Time to Reach Cmax (Tmax) of CGT9486",
+        "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 (Day -10 for 350 mg QD cohort) and Cycle 1 Day 15"
+      },
+      {
+        "measure": "Part 1: Half Life (T1/2) of PLX9486",
+        "timeFrame": "Predose, 0.5, 1, 2, 4, 9, 24, 49, 72, 96, 120, 144, 168, 192, 216 hours postdose on Day -10"
+      },
+      {
+        "measure": "Part 2e: RP2D of CGT9486 in Combination With Sunitinib",
+        "timeFrame": "Cycle 1 of Part 2e (Cycle length = 28 days)"
+      },
+      {
+        "measure": "Part 2b: RP2D of PLX9486 in Combination With Pexidartinib",
+        "timeFrame": "Cycle 1 of Part 2 b (Cycle length = 28 days)"
+      },
+      {
+        "measure": "Part 2b: Number of Participants With Any TEAEs and Treatment-Related TEAEs",
+        "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 868 days)"
+      },
+      {
+        "measure": "Part 2e: Number of Participants With Any TEAEs and Treatment-Related TEAEs",
+        "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 825 days)"
+      }
+    ]
+  },
+  "hash": "55e626d10b856828c39710ace5844b677356d47c275c024b581fdebc2ad643e2"
+}

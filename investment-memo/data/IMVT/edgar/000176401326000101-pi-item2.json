@@ -1,0 +1,25 @@
+{
+  "company": "IMVT",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000176401326000101-pi-item2",
+  "title": "Immunovant, Inc. 10-Q (2026-08-06) - Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000101/0001764013-26-000101-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-07T12:53:42.165961+00:00",
+  "metadata": {
+    "accession": "0001764013-26-000101",
+    "cik": 1764013,
+    "form": "10-Q",
+    "primary_document": "imvt-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-06",
+    "items": "",
+    "company_title": "Immunovant, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000101/imvt-20260630.htm",
+    "section": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+    "section_key": "pi-item2"
+  },
+  "hash": "871d550b47c230dc87397d4b7cfc9715b35afd8cd02fe94595db859e982014e2"
+}

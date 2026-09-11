@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13349752_F2",
+  "figure_type": "forest",
+  "title": "Troponin for surveillance of immune checkpoint inhibitor-associated myocarditis and post-therapy cardiovascular risk stratification: a systematic review and meta-analysis.",
+  "caption": "diagnostic meta-analysis forest plot. Forest plot showing study-level and pooled associations between troponin elevation and confirmed immune checkpoint inhibitor (ICI)-associated myocarditis. Effect estimates are presented as odds ratios with 95% confidence intervals, and the pooled estimate was calculated using a random-effects model. Between-study heterogeneity is reported using  I 2 . ICI, immune checkpoint inhibitor; OR, odds ratio; CI, confidence interval.",
+  "context": "diagnostic meta-analysis forest plot. Forest plot showing study-level and pooled associations between troponin elevation and confirmed immune checkpoint inhibitor (ICI)-associated myocarditis. Effect estimates are presented as odds ratios with 95% confidence intervals, and the pooled estimate was calculated using a random-effects model. Between-study heterogeneity is reported using  I 2 . ICI, immune checkpoint inhibitor; OR, odds ratio; CI, confidence interval. Restriction of the analysis to the three cTnI studies still yielded a strong and consistent association between troponin elevation and confirmed ICI-associated myocarditis, with a log odds ratio of 4.17 (95% CI 2.65–5.69) and no evidence of between-study heterogeneity ( I 2 = 0%) ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13349752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-26",
+  "retrieved_at": "2026-09-07T13:07:54.816809+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13349752",
+    "pmid": "42434148",
+    "journal": "Frontiers in cardiovascular medicine",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "8e38be2174b837613909e57907d39970c307442e87ab59edacfd2f406ccfdbb9",
+  "image_file": "image.jpg"
+}

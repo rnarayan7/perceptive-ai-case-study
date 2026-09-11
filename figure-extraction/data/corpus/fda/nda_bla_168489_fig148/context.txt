@@ -1,0 +1,57 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+                    pediatric patients weighing < 40 kg.
+               •    Approved flat adult dosages for pediatric patients with body weight ≥ 40 kg.
+
+               Refer to Section 6.1.1. for more details.
+
+                           6.3.2.3. Is an alternative dosing regimen or management strategy
+                                 required for subpopulations based on intrinsic patient factors (e.g.
+                                 race, ethnicity, age, performance status, genetic subpopulations,
+                                 etc.)?
+
+               The Applicant’s Position:
+               Yes. For adolescents ≥ 12 years old and weighing < 40 kg, body weight based dosing (3 mg/kg
+               Q2W or 6 mg/kg Q4W) is recommended for nivo mono and for nivolumab maintenance dosing
+               after the combination as described in Section 6.2.2.2.
+               Age and race were evaluated as covariates in both PPK and exposure-response safety analyses.
+               (See Section 6.3.1 for interpretation of covariate effects, and Sections 19.4.1 and 19.4.2 for
+               detailed distributions in the analysis datasets).
+
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s position.
+
+               The Applicant’s PPK analyses were conducted in patients with age range 1 to <12 years, 12 to
+               <18 years and 18 to ≤30 years. Pediatric patients (12 years and older) with advanced solid
+               tumors have lower CL and VC for both nivolumab and ipilimumab than adults with melanoma
+               after accounting for the effect of body weight. This higher nivolumab exposure in pediatric
+               patients (12 years and older) is expected only in the lowest body weight band (40-60 kg) and
+               supports a body weight-based dosing regimens for pediatric patients weighing < 40 kg. The
+               higher nivolumab or ipilimumab exposures at higher body weight band (weighing >80 kg) for
+               pediatric patients (12 years and older) treated with nivolumab + ipilimumab combination
+               therapy could be due to the drug-drug interactions between nivolumab and ipilimumab. Refer
+               to Section 6.1.1. for more details.
+
+
+                           6.3.2.4. Are there clinically relevant food-drug or drug-drug interactions,
+                                 and what is the appropriate management strategy?
+
+               The Applicant’s Position:
+               No. There are no clinical studies evaluating food-drug interactions, as nivolumab is an IgG4
+               kappa immunoglobin. There are no drug-drug interactions with nivo mono and nivo + ipi, via
+               PPK evaluation.
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s position.
+
+                                                                 74
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+7. Sources of Clinical Data
+

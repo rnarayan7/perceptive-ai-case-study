@@ -1,0 +1,16 @@
+Title: Long-Term Follow-Up Study of Subjects Treated With ACTR T Cell Product
+Status: TERMINATED
+Study type: OBSERVATIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: B Cell Lymphomas, Multiple Myeloma, Solid Tumor, HER-2 Protein Overexpression
+Interventions: ACTR T Cell Product (OTHER)
+Enrollment: 22
+
+Summary: Subjects treated with an ACTR product may participate in this long-term follow-up study after the completion of the final scheduled visit in the parent clinical study or other investigational setting, such as compassionate use, named patient Investigational New Drug application, expanded access program, or equivalent setting. No investigational product or treatment will be administered in this study. These subjects will be followed for safety monitoring on a schedule of decreasing frequency through 15 years post-ACTR treatment, in accordance with US FDA Regulatory guidance pertaining to long-term safety follow-up for study subjects receiving recombinant DNA-containing investigational products.
+
+Primary outcomes:
+- Long-term safety of ACTR T cell product as assessed by overall survival (time frame: Total of 15 years after first receiving an ACTR T cell product)
+- Long-term safety of ACTR T cell product as assessed by serious adverse events related to ACTR T cell product (time frame: Total of 15 years after first receiving an ACTR T cell product)
+- Long-term safety of ACTR T cell product as assessed by Grade 3 or 4 adverse events related to ACTR T cell product (time frame: Total of 15 years after first receiving an ACTR T cell product)
+- Long-term safety of ACTR T cell product as assessed by adverse events of special interest, regardless of grade or relatedness to the ACTR T cell product (time frame: Total of 15 years after first receiving an ACTR T cell product)
+- ACTR T cell persistence in subjects previously treated with an ACTR T cell product (time frame: Total of 15 years after first receiving an ACTR T cell product)

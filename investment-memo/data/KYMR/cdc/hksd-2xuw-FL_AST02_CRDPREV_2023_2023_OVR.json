@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-FL_AST02_CRDPREV_2023_2023_OVR",
+  "title": "Asthma - Florida - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573441+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Florida",
+    "location_abbr": "FL",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "8.5",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "8e4789dccab2bfdf844af4477ce99baee947fb4cec36b37a7c5f6a5173ba23e3"
+}

@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003968",
+  "title": "FAERS report 10003968: Feeling abnormal",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003968",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:36.205046+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": false,
+    "reactions": [
+      "Feeling abnormal"
+    ],
+    "drugs": [
+      "EPIVAL",
+      "TOPIMAX",
+      "KEPPRA",
+      "VIMPAT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "165302c611b5385300021aa4d8e0f8448003fb7afbeebd441c1992ea2f08e24b"
+}

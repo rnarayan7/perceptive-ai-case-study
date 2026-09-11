@@ -1,0 +1,410 @@
+6-K
+1
+d98688d6k.htm
+6-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 6-K
+
+REPORT OF FOREIGN PRIVATE ISSUER
+
+PURSUANT TO RULE 13a-16 OR 15d-16
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+For the month of June 2026
+
+Commission File Number: 001-41842
+
+Abivax SA
+
+(Translation
+of registrant’s name into English)
+
+7-11 boulevard Haussmann
+
+75009 Paris, France
+
++33
+(0) 1 53 83 08 41
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive
+offices)
+
+Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+
+Form 20-F ☒   Form40-F ☐
+
+Positive Results from Phase 3 ABTECT 44-Week Maintenance Trial
+
+On June 1, 2026, Abivax SA (the “Registrant” or the “Company”) announced positive results from its Phase 3 ABTECT 44-week maintenance trial evaluating obefazimod, the Registrant’s potential first-in-class oral
+miR-124 enhancer, in moderate to severely active ulcerative colitis (“UC”).
+
+The Phase 3 ABTECT
+maintenance trial is a global 44-week multicenter, randomized, double-blind, placebo-controlled trial that evaluated the long-term efficacy and safety of obefazimod at 25 mg and 50 mg administered orally
+once-daily in adults with moderately to severely active UC. Participants who were clinical responders after the 8-weekABTECT-1 and
+ABTECT-2 induction trials (N=580) were re-randomized to receive 25 mg obefazimod, 50 mg obefazimod, or placebo.
+
+Results from the trial demonstrated that obefazimod met the FDA primary endpoint of placebo-adjusted clinical remission at Week 44 in the 25 mg (∆39.3%,
+p<0.0001) and 50 mg (∆40.3%, p<0.0001) once-daily dose regimens in the Phase 3 maintenance trial. The trial also recorded a 10.4% placebo clinical remission rate, the lowest reported to date in a Phase 3 UC maintenance responder re-randomization trial.
+
+Both doses of obefazimod met all key secondary endpoints (endoscopic improvement, endoscopic
+remission, Histologic-Endoscopic Mucosal Improvement (“HEMI”), corticosteroid-free clinical remission, and sustained clinical remission), demonstrating robust and clinically meaningful efficacy results across multiple measures of disease
+control.
+
+Obefazimod demonstrated an overall favorable safety profile in the Phase 3 ABTECT maintenance trial with no new safety signals observed, and the
+treatment was generally well tolerated.
+
+FDA Primary Endpoint and Key Secondary Endpoints
+
+ABTECT-Maintenance (Study 107)
+
+Placebo (N=192)
+
+25 mg (N=193)
+
+50 mg (N=195)
+
+Clinical Remission
+
+Week 44 - n (%)
+
+20 (10.4%)
+
+98 (50.8%)
+
+100 (51.3%)
+
+Placebo-Adjusted ∆
+
+∆39.3%
+
+∆40.3%
+
+P value
+
+<0.0001
+
+<0.0001
+
+Endoscopic Improvement
+
+Week 44 - n (%)
+
+24 (12.5%)
+
+106 (54.9%)
+
+125 (64.1%)
+
+Placebo-Adjusted ∆
+
+∆42.5%
+
+∆51.0%
+
+P value
+
+<0.0001
+
+<0.0001
+
+Endoscopic Remission
+
+Week 44 - n (%)
+
+19 (9.9%)
+
+80 (41.5%)
+
+93 (47.7%)
+
+Placebo-Adjusted ∆
+
+∆31.4%
+
+∆37.8%
+
+P value
+
+<0.0001
+
+<0.0001
+
+HEMI
+
+Week 44 - n (%)
+
+20 (10.4%)
+
+97 (50.3%)
+
+112 (57.4%)
+
+Placebo-Adjusted ∆
+
+∆39.4%
+
+∆46.5%
+
+P value
+
+<0.0001
+
+<0.0001
+
+Corticosteroid-Free Clinical Remission
+
+Week 44 - n (%)
+
+19 (9.9%)
+
+87 (45.1%)
+
+93 (47.7%)
+
+Placebo-Adjusted ∆
+
+∆35.1%
+
+∆38.0%
+
+P value
+
+<0.0001
+
+<0.0001
+
+Sustained Clinical Remission
+
+Week 44 – n/N (%)
+
+8/51 (15.7%)
+
+49/73 (67.1%)
+
+40/61 (65.6%)
+
+Placebo-Adjusted ∆
+
+∆52.8%
+
+∆49.1%
+
+P value
+
+<0.0001
+
+<0.0001
+
+% Difference is for obefazimod minus placebo and is based on estimated common risk difference using the Mantel-Haenszel
+weights adjusting for the randomization stratification factors: clinical remission at maintenance baseline (yes/no), induction treatment (25 mg/50 mg), and maintenance baseline oral corticosteroids usage (yes/no); Clinical remission is defined as
+SFS = 0 or 1, and RBS = 0 and MES = 0 or 1; Endoscopic improvement is defined as MES = 0 or 1; Endoscopic remission is defined as MES = 0; HEMI is defined as MES = 0 or 1 and Geboes Index score <3.1; Corticosteroid-free clinical remission is
+defined as clinical remission (SFS = 0 or 1 and RBS = 0 and MES = 0 or 1) at Week 44 and corticosteroid-free for at least 12 weeks immediately prior to Week 44; Sustained clinical remission is defined as clinical remission at Week 44 in the sub-population of subjects in clinical remission at Week 8 of the induction trial
+
+Safety Results Summary
+
+ABTECT-Maintenance (Study 107)
+
+TEAEs1, n
+(%)
+
+Placebo (N=192)
+
+25 mg (N=193)
+
+50 mg (N=195)
+
+Any TEAE
+
+96 (50.0%)
+
+112 (58.0%)
+
+140 (71.8%)
+
+TEAE leading to study drug discontinuation
+
+13 (6.8%)
+
+5 (2.6%)
+
+9 (4.6%)
+
+Serious TEAE
+
+8 (4.2%)
+
+5 (2.6%)
+
+11 (5.6%)
+
+Death
+
+0
+
+0
+
+0
+
+Serious/severe (grade≥3) infections and opportunistic infections2
+
+2 (1.0%)
+
+2 (1.0%)
+
+1 (0.5%)
+
+Acute Pancreatitis
+
+0
+
+0
+
+0
+
+Cardiac abnormalities suggestive of cardiac fibrosis
+
+0
+
+0
+
+0
+
+Malignancies other than Non-Melanoma Skin
+Cancers (Non-NMSC)
+
+Prostate Cancer
+
+0
+
+0
+
+1 (0.5%)
+
+Breast Cancer
+
+0
+
+0
+
+1 (0.5%)
+
+Colonic Dysplasia
+
+0
+
+0
+
+1 (0.5%)
+
+Non-Melanoma Skin Cancers
+(NMSC)
+
+Basal Cell Carcinoma
+
+1 (0.5%)
+
+0
+
+2 (1.1%)
+
+Squamous Cell Carcinoma
+
+0
+
+1 (0.5%)
+
+2 (1.1%)
+
+•
+
+Non-NMSC: The prostate, breast, and colon cancer cases were considered unrelated to treatment by
+investigators, and no organ-specific clustering was observed
+
+•
+
+NMSC:
+
+•
+
+Two of the four 50 mg patients were deemed not/unlikely related to drug by investigators; of the remaining two cases, one had a medical history of
+skin cancer
+
+•
+
+The mean age of observed NMSC cases was 62 years, compared with 42 years in the overall trial population, consistent with age-related NMSC risk
+
+Based on current operating assumptions, the Registrant intends to submit a New Drug Application to the U.S. Food and Drug
+Administration in late fourth quarter of 2026.
+
+Ongoing ENHANCE-CD Phase 2b Induction Trial
+
+The ENHANCE-CD Phase 2b induction trial is ongoing with top-line results
+currently expected to be reported in mid-year 2027.
+
+1
+
+Treatment-Emergent Adverse Events
+
+2
+
+Serious/Severe Infections and Opportunistic Infections: Placebo = Anal abscess, bronchitis &
+gastroenteritis, 25 mg = 1 Lymph node tuberculosis, 1 tonsillitis, 50 mg = 1 Appendicitis, focal peritonitis
+
+Press Release
+
+A copy of the press release announcing the positive results from the Phase 3 ABTECT 44-week maintenance trial and the
+update on the ongoing ENHANCE-CD Phase 2b induction trial is furnished as Exhibit 99.1 to this Report on Form 6-K.
+
+Incorporation by Reference
+
+This Report on Form 6-K, excluding Exhibit 99.1, shall be deemed to be incorporated by reference into the Registrant’s registration statements on Form F-3 (File Nos. 333-283336 and 333-288884) and Form S-8 (File Nos. 333-286069 and 333-294544) and to be part thereof from the date on which this Report is filed, to the extent not superseded by documents or reports subsequently filed.
+
+Exhibit Index
+
+Exhibit 99.1 Press
+Release, dated June 1, 2026
+
+Forward-Looking Statements
+
+This Report on Form 6-K contains forward-looking statements, forecasts and estimates, including those relating to the
+Company’s business and financial objectives. Words such as “expect,” “intend,” “potential” and variations of such words and similar expressions are intended to identify forward-looking statements. These
+forward-looking statements include statements concerning the potential therapeutic benefit of obefazimod, the expected timing for completion of the Phase 2b ENHANCE-CD induction trial of obefazimod and the
+availability and timing of results therefrom, the timing of regulatory filings including an NDA submission for obefazimod in UC, and other statements that are not historical fact. Although the Registrant’s management believes that the
+expectations reflected in such forward-looking statements are reasonable, investors are cautioned that forward-looking information and statements are subject to various risks, contingencies and uncertainties, many of which are difficult to predict
+and generally beyond the control of the Registrant, that could cause actual results and developments to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. A description of these
+risks, contingencies and uncertainties can be found in the documents filed by the Company with the French Autorité des Marchés Financiers pursuant to its legal obligations including its universal registration document (Document
+d’Enregistrement Universel) and in its Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission on March 23, 2026 under the caption “Risk Factors.” These
+risks, contingencies and uncertainties include, among other things, the uncertainties inherent in research and development, future clinical data and analysis, decisions by regulatory authorities, such as the FDA or the EMA, regarding whether and
+when to approve any drug candidate, as well as their decisions regarding labelling and other matters that could affect the availability or commercial potential of such product candidates, and the availability of funding sufficient for the
+Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements. Special consideration should be given to the potential hurdles of clinical and pharmaceutical development, including further assessment by the
+Company and regulatory agencies and IRBs/ethics committees following the assessment of preclinical, pharmacokinetic, carcinogenicity, toxicity, CMC and clinical data. Furthermore, these forward-looking statements, forecasts and estimates are made
+only as of the date of this Report. Readers are cautioned not to place undue reliance on these forward-looking statements. The Registrant disclaims any obligation to update these forward-looking statements, forecasts or estimates to reflect any
+subsequent changes that the Company becomes aware of, except as required by law. Information about pharmaceutical products (including products currently in development) that is included in this Report is not intended to constitute an advertisement.
+This Report is for information purposes only, and the information contained herein does not constitute either an offer to sell or the solicitation of an offer to purchase or subscribe for securities of the Company in any jurisdiction. Similarly, it
+does not give and should not be treated as giving investment advice. It has no connection with the investment objectives, financial situation or specific needs of any recipient. It should not be regarded by recipients as a substitute for exercise of
+their own judgment. All opinions expressed herein are subject to change without notice. The distribution of this document may be restricted by law in certain jurisdictions. Persons into whose possession this document comes are required to inform
+themselves about and to observe any such restrictions.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+Abivax SA
+
+(Registrant)
+
+Date: June 1, 2026
+
+/s/ Marc de Garidel
+
+Marc de Garidel
+
+Chief Executive Officer

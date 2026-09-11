@@ -1,0 +1,27 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13593782",
+  "title": "FAERS report 13593782: Malignant melanoma in situ",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13593782",
+  "published": "2017-05-30",
+  "retrieved_at": "2026-09-08T08:39:59.980218+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Malignant melanoma in situ"
+    ],
+    "drugs": [
+      "AVONEX",
+      "BI-ARYL OXADIAZOLE OZANIMOD",
+      "BI-ARYL OXADIAZOLE OZANIMOD",
+      "BI-ARYL OXADIAZOLE OZANIMOD",
+      "BI-ARYL OXADIAZOLE OZANIMOD",
+      "IBUPROFEN."
+    ],
+    "occurcountry": "PL"
+  },
+  "hash": "2aaa6c5f04db07ba76acdf5ddb8d2bab024f746ebd3fab9db429619c834d92b4"
+}

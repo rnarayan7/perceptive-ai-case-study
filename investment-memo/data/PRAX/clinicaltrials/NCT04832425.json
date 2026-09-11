@@ -1,0 +1,44 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04832425",
+  "title": "A Clinical Trial of PRAX-114 in Participants With Major Depressive Disorder",
+  "url": "https://clinicaltrials.gov/study/NCT04832425",
+  "published": "2021-04-05",
+  "retrieved_at": "2026-09-07T12:53:43.592962+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Major Depressive Disorder"
+    ],
+    "interventions": [
+      {
+        "name": "PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 216,
+    "start_date": "2021-03-30",
+    "primary_completion_date": "2022-05-05",
+    "completion_date": "2022-05-05",
+    "first_posted_date": "2021-04-05",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline in 17-Item Hamilton Depression Rating Scale (HAM-D17) total score at Day 15",
+        "timeFrame": "15 days"
+      }
+    ]
+  },
+  "hash": "5030cd0f39bfea6ced38976cf7e915a84f09d41ce0d39e1548e06b864be413b0"
+}

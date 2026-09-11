@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240926_184929_fig000",
+  "figure_type": "unknown",
+  "title": "odac_20240926_184929 figure 0",
+  "caption": "",
+  "context": "                                Food and Drug Administration\n                           Center for Drug Evaluation and Research\n\n     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting\n                                  September 26, 2024\n\n\nLocation: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.\n1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. The public also had the option\nto participate via an online teleconferencing and/or video conferencing platform, and the meeting\npresentations were heard, viewed, captioned, and recorded through an online video conferencing\nplatform.\n\nTopic: During the morning session, the Committee discussed the use of immune checkpoint\ninhibitors in patients with unresectable or metastatic gastric and gastroesophageal junction\nadenocarcinoma. The current labeling for approved checkpoint inhibitors in this indication\nreflect broad approvals in the intent to treat patient populations agnostic of programmed death\ncell ligand-1 (PD-L1) expression. Cumulative data has shown that PD-L1 expression appears to\nbe a predictive biomarker of treatment efficacy in this patient population; however, clinical trials\nhave used different approaches to assess PD-L1 expression and different thresholds to define\nPD-L1 positivity. FDA wanted the Committee’s opinion on the:\n    • adequacy of PD-L1 expression as a predictive biomarker for patient selection in this\n         patient population,\n    • differing risk-benefit assessments in different subpopulations defined by PD-L1\n         expression, and\n    • adequacy of the cumulative data to restrict the approvals of immune checkpoint inhibitors\n         based on PD-L1 expression.\nThe Committee discussed the existing supplemental biologics license applications (sBLA) which\nwere approved for patients with previously untreated HER2-negative unresectable or metastatic\ngastric or gastroesophageal adenocarcinoma:\n    • sBLA 125554/S-091 for OPDIVO (nivolumab) injection, submitted by Bristol Myers-\n         Squibb Co. and\n    • sBLA 125514/S-143 for KEYTRUDA (pembrolizumab) injection, submitted by Merck\n         Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc.\nThe Committee also discussed BLA 761417 for tislelizumab injection, submitted by BeiGene\nUSA, Inc., for the same proposed indication.\n\nDuring the afternoon session, the Committee discussed the use of immune checkpoint inhibitors\nin patients with metastatic or unresectable esophageal squamous cell carcinoma. The current\nlabeling for approved checkpoint inhibitors in this indication reflect broad approvals in the intent\nto treat patient populations agnostic of programmed death cell ligand-1 (PD-L1) expression.\nCumulative data has shown that PD-L1 expression appears to be a predictive biomarker of\ntreatment efficacy in this patient population; however, clinical trials have used different\napproaches to assess PD-L1 expression and different thresholds to define PD-L1 positivity. FDA\nwould like the Committee’s opinion on the:\n\n\n\n                                             Page 1 of 2\n\f",
+  "url": "https://www.fda.gov/media/184929/download",
+  "image_url": "https://www.fda.gov/media/184929/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:58.770916+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240926_184929",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "fde4aa37040872a61ac6d83f98b581de7611e7f42b712917cbb70ca46454a941",
+  "image_file": "image.png"
+}

@@ -1,0 +1,81 @@
+{
+  "company": "PRAX",
+  "source": "pubchem",
+  "started_at": "2026-09-08T10:06:52.696042+00:00",
+  "finished_at": "2026-09-08T10:07:00.822433+00:00",
+  "documents": [
+    {
+      "company": "PRAX",
+      "source": "pubchem",
+      "doc_type": "compound",
+      "doc_id": "44540045",
+      "title": "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/44540045",
+      "published": null,
+      "retrieved_at": "2026-09-08T10:06:56.531227+00:00",
+      "metadata": {
+        "cid": 44540045,
+        "query_name": "PRAX-944",
+        "molecular_formula": "C19H27ClFN3O2",
+        "molecular_weight": "383.9",
+        "smiles": "CC(C)(C)NC(=O)CN1CCC(CC1)CNC(=O)C2=CC(=CC(=C2)Cl)F",
+        "iupac_name": "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+        "synonyms": [
+          "Z944",
+          "Z944 compound",
+          "RefChem:934477",
+          "1199236-64-0",
+          "Ulixacaltamide",
+          "N-((1-(2-(tert-Butylamino)-2-oxoethyl)piperidin-4-yl)methyl)-3-chloro-5-fluorobenzamide",
+          "PRAX944",
+          "PRAX-944",
+          "Z 944",
+          "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+          "Ulixacaltamide [INN]",
+          "Z-944",
+          "QT2PJH89C3",
+          "CHEMBL3934636",
+          "BDBM50192689"
+        ]
+      },
+      "hash": "e6fbe0dbfe64299dda76dfec04eb4f7341804f6c1510dcaad90e356420a60fd9"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubchem",
+      "doc_type": "compound",
+      "doc_id": "147075611",
+      "title": "3-[ethoxy(difluoro)methyl]-6-[5-fluoro-6-(2,2,2-trifluoroethoxy)-3-pyridinyl]-[1,2,4]triazolo[4,3-a]pyrazine",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/147075611",
+      "published": null,
+      "retrieved_at": "2026-09-08T10:06:59.777813+00:00",
+      "metadata": {
+        "cid": 147075611,
+        "query_name": "PRAX-562",
+        "molecular_formula": "C15H11F6N5O2",
+        "molecular_weight": "407.27",
+        "smiles": "CCOC(C1=NN=C2N1C=C(N=C2)C3=CC(=C(N=C3)OCC(F)(F)F)F)(F)F",
+        "iupac_name": "3-[ethoxy(difluoro)methyl]-6-[5-fluoro-6-(2,2,2-trifluoroethoxy)-3-pyridinyl]-[1,2,4]triazolo[4,3-a]pyrazine",
+        "synonyms": [
+          "PRAX-562",
+          "RefChem:1096584",
+          "Relutrigine",
+          "2392951-29-8",
+          "3-(Ethoxydifluoromethyl)-6-(5-fluoro-6-(2,2,2-trifluoroethoxy)pyridin-3-yl)-[1,2,4]triazolo[4,3-a]pyrazine",
+          "3-[Ethoxy(difluoro)methyl]-6-[5-fluoro-6-(2,2,2-trifluoroethoxy)pyridin-3-yl]-[1,2,4]triazolo[4,3-a]pyrazine",
+          "Relutrigina",
+          "relutrigine [INN]",
+          "AW5C5XHM4W",
+          "PRAX562",
+          "orb1739828",
+          "CHEMBL5314479",
+          "SCHEMBL23132181",
+          "GTPL12643",
+          "BFXBSYMVTNEFRF-UHFFFAOYSA-N"
+        ]
+      },
+      "hash": "b704d522a9127dd07af0091585935845db17e81e70dcf199f4406b4b0798fed8"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1 @@
+Forest plot for DMFS in radiotherapy-treated patients. CI = confidence interval, DMFS = distant metastasis-free survival, HR = hazard ratio.

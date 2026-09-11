@@ -1,0 +1,19 @@
+Title: Phase 2 Study of SAR444656 in Adult Participants With Moderate to Severe Atopic Dermatitis
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Sanofi
+Conditions: Atopic Dermatitis
+Interventions: SAR444656 (KT-474) (DRUG), Placebo (DRUG)
+Enrollment: 70
+
+Summary: This is a multinational, multicenter, double-blind, placebo-controlled, parallel-group Phase 2, 4-arm study in adult participants with moderate to severe AD who are inadequately controlled with topical therapies or for whom such topical therapies are inadvisable and who are candidates for systemic therapy.
+
+Participants will be randomized to receive SAR444656 dose 1, dose 2, dose 3 or matching placebo.
+
+Participants who meet inclusion/exclusion criteria will be stratified for randomization by severity of AD (moderate \[baseline EASI score \<22\] versus severe \[baseline EASI score ≥22\]).
+
+The total duration of study is approximately 24 weeks, including 1 to 4 weeks for screening, 16 weeks for double-blind study treatment and 4 weeks for follow-up.
+
+Primary outcomes:
+- Percent change from baseline in EASI (time frame: Week 16)

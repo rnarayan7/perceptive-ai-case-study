@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "common_shares_outstanding",
+  "title": "Abivax S.A. - Common shares outstanding (2025-12-31)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1956827/000195682726000012/0001956827-26-000012-index.htm",
+  "published": "2025-12-31",
+  "retrieved_at": "2026-09-08T08:46:33.901857+00:00",
+  "metadata": {
+    "cik": 1956827,
+    "entity_name": "Abivax S.A.",
+    "concept": "common_shares_outstanding",
+    "label": "Common shares outstanding",
+    "taxonomy": "dei",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "value": 78536412.0,
+    "unit": "shares",
+    "reporting_currency": "",
+    "period_end": "2025-12-31",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001956827-26-000012",
+    "form": "20-F",
+    "fiscal_year": 2025,
+    "fiscal_period": "FY",
+    "filed": "2026-03-23",
+    "frame": "CY2025Q4I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001956827.json",
+    "derived": false
+  },
+  "hash": "5b48383642845eb560f5d888107d69fa1b9995db691151ce82544a2f214adad7"
+}

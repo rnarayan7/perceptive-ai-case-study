@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13357194_f5",
+  "figure_type": "kaplan_meier",
+  "title": "Survival outcomes and prognostic factors in &lt;i&gt;de novo&lt;/i&gt; advanced biliary tract cancer: insights from a Saudi multicenter cohort.",
+  "caption": "Kaplan–Meier curves of OS by number of therapy lines.",
+  "context": "Kaplan–Meier curves of OS by number of therapy lines. In exploratory descriptive analyses, OS increased stepwise according to the number of therapy lines (P < 0.001; Figure 5 ): best supportive care (5.9 months), one line (7.3 months), two lines (13.5 months), three lines (17.1 months), and four lines (22.3 months).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13357194/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-29",
+  "retrieved_at": "2026-09-07T12:55:05.517807+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13357194",
+    "pmid": "42444838",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "ea71ee487a348251c3599e1b3f7bc12fab33ac667374952b6885a2b25437645f",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10329750",
+  "title": "FAERS report 10329750: Abdominal pain, Septic shock, Large intestine perforation",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10329750",
+  "published": "2014-08-20",
+  "retrieved_at": "2026-09-08T08:40:13.660444+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Abdominal pain",
+      "Septic shock",
+      "Large intestine perforation",
+      "General physical health deterioration"
+    ],
+    "drugs": [
+      "LANTUS",
+      "CORTANCYL",
+      "VEDOLIZUMAB",
+      "NOVORAPID"
+    ],
+    "occurcountry": "FR"
+  },
+  "hash": "5d70bdbae4326fb68a9501f479592c80c557d6906b7c55064aca3f9210781aa1"
+}

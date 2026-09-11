@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13433752_f3",
+  "figure_type": "forest",
+  "title": "Prognostic significance of tumoral Siglec-15 expression in solid tumors: a systematic review and meta-analysis.",
+  "caption": "Forest plot of the association between tumoral Siglec-15 expression and PFS in solid tumors. HR, hazard ratio; PFS, progression-free survival.",
+  "context": "Forest plot of the association between tumoral Siglec-15 expression and PFS in solid tumors. HR, hazard ratio; PFS, progression-free survival. Subgroup analyses confirmed the robustness of this association across multiple stratifications, including country, sample size, HR type, data source, scoring method, cutoff definition, and study quality ( Table 2 ; Supplementary Figures 1 – 7 ). No significant association was observed between Siglec-15 expression and PFS (HR = 1.03, 95% CI: 0.67-1.56, P = 0.903, Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13433752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-21",
+  "retrieved_at": "2026-09-07T13:07:17.359454+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "1.03 (95% CI 0.67-1.56)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "d between Siglec-15 expression and PFS (HR = 1.03, 95% CI: 0.67-1.56, P = 0.903, Figure 3 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13433752",
+    "pmid": "42553325",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "7160f54da6cde64f20879fea3f34755fd956f59f0910dca25020cc5dea60f59f",
+  "image_file": "image.jpg"
+}

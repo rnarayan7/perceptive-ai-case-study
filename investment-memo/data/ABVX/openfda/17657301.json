@@ -1,0 +1,25 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17657301",
+  "title": "FAERS report 17657301: Gastrointestinal stromal tumour",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17657301",
+  "published": "2021-02-10",
+  "retrieved_at": "2026-09-08T08:39:59.981734+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Gastrointestinal stromal tumour"
+    ],
+    "drugs": [
+      "FLUTICASONE FUROATE",
+      "OZANIMOD.",
+      "RUPATADINE",
+      "OLOPATADINE."
+    ],
+    "occurcountry": "PL"
+  },
+  "hash": "a92002db0370baca74071409d2450d5eef51c3448697de21be479cfe7e6d20e2"
+}

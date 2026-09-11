@@ -1,0 +1,841 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "started_at": "2026-09-08T10:06:46.611374+00:00",
+  "finished_at": "2026-09-08T10:06:47.424002+00:00",
+  "documents": [
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05021978",
+      "title": "A Clinical Trial of PRAX-944 in Participants With Essential Tremor",
+      "url": "https://clinicaltrials.gov/study/NCT05021978",
+      "published": "2021-08-26",
+      "retrieved_at": "2026-09-08T10:06:47.410337+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Essential Tremor"
+        ],
+        "interventions": [
+          {
+            "name": "Part A: 20 and 40 mg PRAX-944",
+            "type": "DRUG"
+          },
+          {
+            "name": "Part B: 120 mg PRAX-944",
+            "type": "DRUG"
+          },
+          {
+            "name": "Part B: 120 mg PRAX-944 and Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 24,
+        "start_date": "2020-03-03",
+        "primary_completion_date": "2022-03-24",
+        "completion_date": "2022-03-24",
+        "first_posted_date": "2021-08-26",
+        "primary_outcomes": [
+          {
+            "measure": "Part A: Change From Baseline in Essential Tremor Rating Assessment Scale (TETRAS) Upper Limb Score",
+            "timeFrame": "Baseline (Day 0), Days 7 and 14"
+          },
+          {
+            "measure": "Part B: Number of Participants With Adverse Events (AE), Related AE, and AE Leading to Treatment Discontinuation",
+            "timeFrame": "Up to Day 70"
+          },
+          {
+            "measure": "Part B: Number of Participants With Clinically Significant Abnormalities in Vital Signs, Laboratory Values and Electrocardiogram Parameters",
+            "timeFrame": "Up to Day 70"
+          },
+          {
+            "measure": "Part B: Number of Participants With Suicidal Ideation or Behavior Assessed Using Columbia Suicide Severity Rating Scale (C-SSRS)",
+            "timeFrame": "Up to Day 70"
+          }
+        ]
+      },
+      "hash": "c31062b015aae9a545b677ef73c69659fb56567734feccd353850b2fb6e0490e"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06908356",
+      "title": "An Open Label Trial to Evaluate the Efficacy and Safety of PRAX-628 in Adults With Focal Onset or Tonic-Clonic Seizures",
+      "url": "https://clinicaltrials.gov/study/NCT06908356",
+      "published": "2025-04-03",
+      "retrieved_at": "2026-09-08T10:06:47.410594+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Focal Onset Seizure",
+          "Primary Generalized Epilepsy"
+        ],
+        "interventions": [
+          {
+            "name": "30mg PRAX-628",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 50,
+        "start_date": "2025-01-10",
+        "primary_completion_date": "2025-07",
+        "completion_date": "2025-07",
+        "first_posted_date": "2025-04-03",
+        "primary_outcomes": [
+          {
+            "measure": "To evaluate the efficacy of PRAX-628 on seizure frequency in adults with FOS or PGTCS currently taking ASMs",
+            "timeFrame": "8 weeks"
+          }
+        ]
+      },
+      "hash": "39d4e0d1ada2870df7818b2e463f5cfb340a920ae2638363f9acaf604862e7c3"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05407727",
+      "title": "A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy",
+      "url": "https://clinicaltrials.gov/study/NCT05407727",
+      "published": "2022-06-07",
+      "retrieved_at": "2026-09-08T10:06:47.410725+00:00",
+      "metadata": {
+        "phases": [],
+        "overall_status": "COMPLETED",
+        "study_type": "OBSERVATIONAL",
+        "conditions": [
+          "SCN2A-DEE",
+          "Epilepsy"
+        ],
+        "interventions": [],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 5,
+        "start_date": "2022-04-15",
+        "primary_completion_date": "2023-03-31",
+        "completion_date": "2023-03-31",
+        "first_posted_date": "2022-06-07",
+        "primary_outcomes": [
+          {
+            "measure": "Assess disease burden and any variation in disease progression over time, as reflected by electrographic seizures, interictal epileptiform discharges (IEDs), and spectral features, as measured on at-home video electroencephalograms (vEEGs)",
+            "timeFrame": "Up to 12 months"
+          }
+        ]
+      },
+      "hash": "f5a37017eb7926b95de2f7bd67502b55c0b96bfbe60e39220a018618ef49c6e6"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07287163",
+      "title": "Clinical Trial of Vormatrigine in Adult Patients With Epilepsy",
+      "url": "https://clinicaltrials.gov/study/NCT07287163",
+      "published": "2025-12-17",
+      "retrieved_at": "2026-09-08T10:06:47.410982+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ENROLLING_BY_INVITATION",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Epilepsy, Tonic-Clonic",
+          "Focal Seizure",
+          "Primary Generalized Seizure"
+        ],
+        "interventions": [
+          {
+            "name": "vormatrogine",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 700,
+        "start_date": "2025-10-27",
+        "primary_completion_date": "2028-05-31",
+        "completion_date": "2028-12-31",
+        "first_posted_date": "2025-12-17",
+        "primary_outcomes": [
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+            "timeFrame": "Up to 2 years"
+          }
+        ]
+      },
+      "hash": "1109f3cfd3f58d54c74afec0cca3ebbaf14b6abd62de5acb9045453a8b816fef"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07010471",
+      "title": "A Clinical Trial for Participants With DEE to Assess Efficacy, Safety, Tolerability, and PK of Relutrigine",
+      "url": "https://clinicaltrials.gov/study/NCT07010471",
+      "published": "2025-06-08",
+      "retrieved_at": "2026-09-08T10:06:47.411167+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Developmental and Epileptic Encephalopathy 1"
+        ],
+        "interventions": [
+          {
+            "name": "1.0mg/kg/day PRAX-562",
+            "type": "DRUG"
+          },
+          {
+            "name": "1.5mg/kg/day PRAX-562",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 160,
+        "start_date": "2025-07-09",
+        "primary_completion_date": "2026-12",
+        "completion_date": "2027-11",
+        "first_posted_date": "2025-06-08",
+        "primary_outcomes": [
+          {
+            "measure": "To assess the effect of relutrigine on seizure frequency in participants with DEEs compared to placebo",
+            "timeFrame": "16 weeks"
+          }
+        ]
+      },
+      "hash": "748f322f65c5717b7d7c6a006ff5ccdbe469b2f624dc20f1708b4e35c446a6b0"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04969510",
+      "title": "A Clinical Trial of Adjunctive and Monotherapy PRAX-114 in Participants With Major Depressive Disorder",
+      "url": "https://clinicaltrials.gov/study/NCT04969510",
+      "published": "2021-07-20",
+      "retrieved_at": "2026-09-08T10:06:47.411402+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Major Depressive Disorder"
+        ],
+        "interventions": [
+          {
+            "name": "10 mg PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "20 mg PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "40 mg PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "60 mg PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 110,
+        "start_date": "2021-06-24",
+        "primary_completion_date": "2022-07-15",
+        "completion_date": "2022-08-02",
+        "first_posted_date": "2021-07-20",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline in HAM-D17 total score at Day 15",
+            "timeFrame": "15 days"
+          }
+        ]
+      },
+      "hash": "e69d26dac3d58ea559ec6d0aff5f95974389efaf33a6663a4d75d4f4e65d89b7"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05737784",
+      "title": "A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy",
+      "url": "https://clinicaltrials.gov/study/NCT05737784",
+      "published": "2023-02-21",
+      "retrieved_at": "2026-09-08T10:06:47.411591+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "SCN2A-DEE",
+          "Epilepsy"
+        ],
+        "interventions": [
+          {
+            "name": "PRAX-222 - Initial Dose",
+            "type": "DRUG"
+          },
+          {
+            "name": "PRAX-222 - Initial Ascending Doses",
+            "type": "DRUG"
+          },
+          {
+            "name": "PRAX-222 - Optional Ascending Doses",
+            "type": "DRUG"
+          },
+          {
+            "name": "PRAX-222 - Fixed Doses",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "PROCEDURE"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 60,
+        "start_date": "2023-04-13",
+        "primary_completion_date": "2026-04-01",
+        "completion_date": "2028-02",
+        "first_posted_date": "2023-02-21",
+        "primary_outcomes": [
+          {
+            "measure": "Number of participants with treatment-emergent adverse events (Preliminary Safety, Dose Escalation)",
+            "timeFrame": "Screening (-8 weeks) through up to 92 weeks"
+          },
+          {
+            "measure": "Seizure frequency (Confirmatory Phase)",
+            "timeFrame": "36 to 40 weeks"
+          }
+        ]
+      },
+      "hash": "6e71d94578663ba37ffebaeefe119fde6101b3172920aaba8c0feb79448d84bd"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06999902",
+      "title": "Double-blind, Randomized Trial of PRAX-628 in Adults With Focal Seizures to Evaluate Efficacy and Safety (POWER1)",
+      "url": "https://clinicaltrials.gov/study/NCT06999902",
+      "published": "2025-05-31",
+      "retrieved_at": "2026-09-08T10:06:47.411898+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Focal Seizure"
+        ],
+        "interventions": [
+          {
+            "name": "20mg/day PRAX-628 for 6 weeks then 30mg/day PRAX-628 for remaining 6 weeks",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 255,
+        "start_date": "2024-12-11",
+        "primary_completion_date": "2026-05-14",
+        "completion_date": "2026-05-14",
+        "first_posted_date": "2025-05-31",
+        "primary_outcomes": [
+          {
+            "measure": "To evaluate the efficacy of PRAX-628 compared to placebo on focal seizure frequency in adults currently taking 1 to 3 ASMs",
+            "timeFrame": "12 weeks"
+          }
+        ]
+      },
+      "hash": "ab6f1573b9c98da05ac2555679d711c359a63bf269f5807873aa6499449dfe18"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05387642",
+      "title": "A Clinical Trial of PRAX-114 in Participants With Essential Tremor",
+      "url": "https://clinicaltrials.gov/study/NCT05387642",
+      "published": "2022-05-24",
+      "retrieved_at": "2026-09-08T10:06:47.412197+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "WITHDRAWN",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Essential Tremor"
+        ],
+        "interventions": [
+          {
+            "name": "10 mg PRAX-114, 20 mg PRAX-114, and Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "10 mg PRAX-114 or 20 mg PRAX-114",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 0,
+        "start_date": "2022-04-05",
+        "primary_completion_date": "2022-06-30",
+        "completion_date": "2022-06-30",
+        "first_posted_date": "2022-05-24",
+        "primary_outcomes": [
+          {
+            "measure": "Part A: Incidence and severity of Adverse Events (AE)",
+            "timeFrame": "12 days"
+          },
+          {
+            "measure": "Part B: Incidence and severity of AEs",
+            "timeFrame": "35 days"
+          }
+        ]
+      },
+      "hash": "53a22b2dfcba5e0a83db3d7bb2ba5a27c88a8c32c3571e61c5cca586ff28efdc"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05021991",
+      "title": "A Clinical Trial of 2 Doses of PRAX-944 in Participants With Essential Tremor",
+      "url": "https://clinicaltrials.gov/study/NCT05021991",
+      "published": "2021-08-26",
+      "retrieved_at": "2026-09-08T10:06:47.412543+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Essential Tremor"
+        ],
+        "interventions": [
+          {
+            "name": "100 mg PRAX-944",
+            "type": "DRUG"
+          },
+          {
+            "name": "60 mg PRAX-944",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "Flexibly dosed 20 mg to 100 mg PRAX-944",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 133,
+        "start_date": "2021-10-14",
+        "primary_completion_date": "2023-02-09",
+        "completion_date": "2024-02-29",
+        "first_posted_date": "2021-08-26",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline to Day 56 on the modified ADL",
+            "timeFrame": "56 days"
+          }
+        ]
+      },
+      "hash": "b3d894c7f0fc416fec0886e5738114602d982f9f37651c8e6c2972aa9304b881"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04832425",
+      "title": "A Clinical Trial of PRAX-114 in Participants With Major Depressive Disorder",
+      "url": "https://clinicaltrials.gov/study/NCT04832425",
+      "published": "2021-04-05",
+      "retrieved_at": "2026-09-08T10:06:47.412792+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Major Depressive Disorder"
+        ],
+        "interventions": [
+          {
+            "name": "PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 216,
+        "start_date": "2021-03-30",
+        "primary_completion_date": "2022-05-05",
+        "completion_date": "2022-05-05",
+        "first_posted_date": "2021-04-05",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline in 17-Item Hamilton Depression Rating Scale (HAM-D17) total score at Day 15",
+            "timeFrame": "15 days"
+          }
+        ]
+      },
+      "hash": "5030cd0f39bfea6ced38976cf7e915a84f09d41ce0d39e1548e06b864be413b0"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06840925",
+      "title": "A Clinical Trial to Evaluate the Relative Bioavailability of PRAX-628",
+      "url": "https://clinicaltrials.gov/study/NCT06840925",
+      "published": "2025-02-21",
+      "retrieved_at": "2026-09-08T10:06:47.412912+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy"
+        ],
+        "interventions": [
+          {
+            "name": "PRAX-628",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 16,
+        "start_date": "2025-04-28",
+        "primary_completion_date": "2025-06-05",
+        "completion_date": "2025-06-05",
+        "first_posted_date": "2025-02-21",
+        "primary_outcomes": [
+          {
+            "measure": "To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules",
+            "timeFrame": "28 days"
+          },
+          {
+            "measure": "To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules",
+            "timeFrame": "28 days"
+          }
+        ]
+      },
+      "hash": "501f2b87d398146e6f3fb6d24e075a15ca48147d0df4e67aa8d90f5877ceb0d6"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07505004",
+      "title": "Randomized Clinical Trial Evaluating the Efficacy and Safety of Vormatrigine in Adults With Focal Seizures",
+      "url": "https://clinicaltrials.gov/study/NCT07505004",
+      "published": "2026-04-01",
+      "retrieved_at": "2026-09-08T10:06:47.413084+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Focal Epilepsy"
+        ],
+        "interventions": [
+          {
+            "name": "40 mg/day vormatrogine for 12 weeks",
+            "type": "DRUG"
+          },
+          {
+            "name": "30 mg/day vormatrogine for 12 weeks",
+            "type": "DRUG"
+          },
+          {
+            "name": "20 mg/day vormatrogine for 12 weeks",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 300,
+        "start_date": "2026-01-29",
+        "primary_completion_date": "2027-01",
+        "completion_date": "2027-05",
+        "first_posted_date": "2026-04-01",
+        "primary_outcomes": [
+          {
+            "measure": "To evaluate the efficacy of vormatrigine compared to placebo on focal seizure frequency in adults currently taking 1 to 3 ASMs",
+            "timeFrame": "12 weeks"
+          }
+        ]
+      },
+      "hash": "94ea36ba9d22f168b81c1647dcabe23d7e7b3b110742b0ab90127aa282b0554d"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05260541",
+      "title": "A Clinical Trial of PRAX-114 in Participants With Post-Traumatic Stress Disorder",
+      "url": "https://clinicaltrials.gov/study/NCT05260541",
+      "published": "2022-03-02",
+      "retrieved_at": "2026-09-08T10:06:47.413268+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Post-traumatic Stress Disorder",
+          "Post Traumatic Stress Disorder",
+          "Stress Disorder",
+          "Stress Disorders, Post-Traumatic",
+          "Trauma and Stressor Related Disorders",
+          "Mental Disorder"
+        ],
+        "interventions": [
+          {
+            "name": "60 mg PRAX-114 or 40 mg PRAX-114",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "40 mg PRAX-114",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 11,
+        "start_date": "2022-01-25",
+        "primary_completion_date": "2022-08-01",
+        "completion_date": "2022-09-23",
+        "first_posted_date": "2022-03-02",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline in the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total score at Day 29",
+            "timeFrame": "29 days"
+          }
+        ]
+      },
+      "hash": "681a8981090c1205b6d8dae3a693aff2b6287b870beda80c2db05ba7700d6517"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06087276",
+      "title": "Essential 3 - Decentralized, Phase 3 Study Evaluating the Safety and Efficacy of Ulixacaltamide in Essential Tremor (ET)",
+      "url": "https://clinicaltrials.gov/study/NCT06087276",
+      "published": "2023-10-17",
+      "retrieved_at": "2026-09-08T10:06:47.413544+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Essential Tremor"
+        ],
+        "interventions": [
+          {
+            "name": "60 mg ulixacaltamide",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 1000,
+        "start_date": "2023-11-02",
+        "primary_completion_date": "2025-10-10",
+        "completion_date": "2028-07",
+        "first_posted_date": "2023-10-17",
+        "primary_outcomes": [
+          {
+            "measure": "Parallel Design: Change from Baseline (CFB) to Week 8 (Day 56) on mADL11 score",
+            "timeFrame": "8 weeks (56 days)"
+          },
+          {
+            "measure": "Randomized Withdrawal: The proportion of participants that maintain response, as defined by change in mADL11 score, following randomized withdrawal",
+            "timeFrame": "12 weeks (84 days)"
+          },
+          {
+            "measure": "Long-term Safety Study: Number of participants with Adverse Events (AE) and their severity.",
+            "timeFrame": "Up to 3 years"
+          }
+        ]
+      },
+      "hash": "81826b4f9eb9e3657160ad1c223f655151c71be8b09a84f3f88c5eb1601e4d49"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07019922",
+      "title": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+      "url": "https://clinicaltrials.gov/study/NCT07019922",
+      "published": "2025-06-13",
+      "retrieved_at": "2026-09-08T10:06:47.413747+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Epileptic Encephalopathy",
+          "SCN2A Encephalopathy"
+        ],
+        "interventions": [
+          {
+            "name": "1mg elsunersen",
+            "type": "DRUG"
+          },
+          {
+            "name": "0.5mg elsunersen",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 40,
+        "start_date": "2025-08-13",
+        "primary_completion_date": "2026-12",
+        "completion_date": "2028-12",
+        "first_posted_date": "2025-06-13",
+        "primary_outcomes": [
+          {
+            "measure": "To assess the efficacy of elsunersen on seizure frequency in participants with early-onset SCN2A DEE",
+            "timeFrame": "24 weeks"
+          }
+        ]
+      },
+      "hash": "ec65a2a1d7803511d95139795b46b8d1eefdbd367fcb1b4c6e462b2625b19c06"
+    },
+    {
+      "company": "PRAX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05818553",
+      "title": "A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)",
+      "url": "https://clinicaltrials.gov/study/NCT05818553",
+      "published": "2023-04-19",
+      "retrieved_at": "2026-09-08T10:06:47.413897+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "SCN2A Encephalopathy",
+          "SCN8A Encephalopathy"
+        ],
+        "interventions": [
+          {
+            "name": "PRAX-562",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Praxis Precision Medicines",
+        "enrollment": 77,
+        "start_date": "2023-08-02",
+        "primary_completion_date": "2025-11-12",
+        "completion_date": "2027-03-01",
+        "first_posted_date": "2023-04-19",
+        "primary_outcomes": [
+          {
+            "measure": "PART A (Cohorts 1 and 2) RDB: To evaluate the safety and tolerability of PRAX 562 in pediatric participants with SCN2A- and SCN8A- DEEs",
+            "timeFrame": "16 weeks"
+          },
+          {
+            "measure": "PART B (Cohorts 1 and 2) OLE: To evaluate the long-term safety and tolerability of PRAX-562 in pediatric participants with DEEs",
+            "timeFrame": "48 weeks"
+          }
+        ]
+      },
+      "hash": "3083dc22f3478a504235b7a7213957519d8742366b79c8dd4b396b10bf3e4007"
+    }
+  ],
+  "errors": []
+}

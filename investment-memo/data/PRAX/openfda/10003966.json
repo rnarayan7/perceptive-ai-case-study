@@ -1,0 +1,46 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003966",
+  "title": "FAERS report 10003966: Abnormal behaviour, Drug level increased, Lethargy",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003966",
+  "published": "2014-03-19",
+  "retrieved_at": "2026-09-08T08:40:41.207834+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Abnormal behaviour",
+      "Drug level increased",
+      "Lethargy",
+      "Irritability",
+      "Obsessive-compulsive disorder",
+      "Dermatillomania",
+      "Activities of daily living impaired",
+      "Memory impairment",
+      "Bradykinesia",
+      "Muscular weakness",
+      "Insomnia",
+      "Drug interaction"
+    ],
+    "drugs": [
+      "ONFI",
+      "ONFI",
+      "PROZAC",
+      "PROZAC",
+      "PROZAC",
+      "CARBAMAZEPINE",
+      "CARBAMAZEPINE",
+      "LEVETIRACETAM",
+      "TOPIRAMATE",
+      "LAMOTRIGINE",
+      "LAMOTRIGINE",
+      "LORAZEPAM",
+      "MULTIPLE VITAMIN WITH MINERALS",
+      "CALCIUM CARBONATE- VITAMIN D"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "909c502548ab385a4194b895e27764dd39374a234974a9f33e003fd5d014e7d2"
+}

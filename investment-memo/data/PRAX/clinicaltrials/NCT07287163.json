@@ -1,0 +1,65 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07287163",
+  "title": "Clinical Trial of Vormatrigine in Adult Patients With Epilepsy",
+  "url": "https://clinicaltrials.gov/study/NCT07287163",
+  "published": "2025-12-17",
+  "retrieved_at": "2026-09-07T12:53:43.591338+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ENROLLING_BY_INVITATION",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Epilepsy, Tonic-Clonic",
+      "Focal Seizure",
+      "Primary Generalized Seizure"
+    ],
+    "interventions": [
+      {
+        "name": "vormatrogine",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 700,
+    "start_date": "2025-10-27",
+    "primary_completion_date": "2028-05-31",
+    "completion_date": "2028-12-31",
+    "first_posted_date": "2025-12-17",
+    "primary_outcomes": [
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      },
+      {
+        "measure": "To assess the safety and tolerability of vormatrigine in adults with focal or primary generalized tonic-clonic seizures",
+        "timeFrame": "Up to 2 years"
+      }
+    ]
+  },
+  "hash": "1109f3cfd3f58d54c74afec0cca3ebbaf14b6abd62de5acb9045453a8b816fef"
+}

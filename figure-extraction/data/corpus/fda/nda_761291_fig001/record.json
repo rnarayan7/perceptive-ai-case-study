@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig001",
+  "figure_type": "pk_logscale",
+  "title": "nda_761291 figure 1",
+  "caption": "",
+  "context": "\f\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n\n               Glossary\n               ADA                       antidrug antibody\n               ADC                       antibody drug conjugate\n               ADME                      absorption, distribution, metabolism, excretion\n               ADR                       adverse drug reaction\n               AE                        adverse event\n               AOM                       application orientation meeting\n               ASTCT                     American Society for Transplantation and Cellular Therapy\n               AUC                       area under the concentration-time curve\n               AUCtau                    area under the concentration-time curve during a dosing interval\n               BCMA                      B cell maturation antigen\n               BLA                       Biologics License Application\n               BMPC                      bone marrow plasma cells\n               bsAb                      bispecific antibody\n               CAR                       chimeric antigen receptor\n               Cave                      average plasma concentration\n               CD3                       cluster of differentiation 3\n               CD38                      cluster of differentiation 38\n               CFR                       Code of Federal Regulations\n               CI                        confidence interval\n               Cmax                      maximum plasma concentration\n               CNS                       central nervous system\n               COVID-19                  coronavirus disease 2019\n               CR                        complete response\n               CRS                       cytokine release syndrome\n               CSR                       clinical study report\n               Ctrough                   trough serum concentration\n               CV                        coefficient of variation\n               CYP                       cytochrome P450\n               DOR                       duration of response\n               EC90                      90% maximal effective concentration\n               EC50                      50% maximal effective concentration\n               ECG                       electrocardiogram\n               E-R                       exposure-response\n               EORTC QLQ-C30             European Organization for Research and Treatment of Cancer Quality of\n                                         Life Questionnaire Core 30 item\n               EQ-5D-5L                  EuroQol Five Dimension Five Level Questionnaire\n               ETASU                     Elements to Assure Safe Use\n               FDA                       Food and Drug Administration\n               GCP                       Good Clinical Practice\n               GLP                       Good Laboratory Practice\n               ICANS                     Immune effector cell-associated neurotoxicity syndrome\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              16\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.842347+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "4ee1db53b1bcc65adfc0f2d6d2301bbeba50c45c17ef25d1baae7781eb4fda65",
+  "image_file": "image.png"
+}

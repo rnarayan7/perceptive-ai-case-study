@@ -1,0 +1,1 @@
+Time-dependent ROC curves of the FLIPI-SII model for 1-8-year survival prediction.  (A)  ROC curves comparing prediction performance for OS.  (B)  ROC curves comparing prediction performance for PFS. Comparison of prognostic model performance Time-dependent ROC analysis demonstrated that the FLIPI-SII model achieved favorable predictive accuracy for PFS and OS ( Figure 7 ).

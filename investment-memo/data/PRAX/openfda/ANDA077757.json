@@ -1,0 +1,29 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA077757",
+  "title": "Drugs@FDA ANDA077757: LAMOTRIGINE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A077757",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:42.259001+00:00",
+  "metadata": {
+    "manufacturer": "CARACO",
+    "brand_name": "LAMOTRIGINE",
+    "sponsor_name": "CARACO",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LAMOTRIGINE"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [],
+    "submission_count": 1
+  },
+  "hash": "dc1010c2dce8cfb21dcf720813099c5e59bc6b80e86844ba7b231cfe49553a2a"
+}

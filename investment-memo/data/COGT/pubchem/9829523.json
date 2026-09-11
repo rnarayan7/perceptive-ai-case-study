@@ -1,0 +1,36 @@
+{
+  "company": "COGT",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "9829523",
+  "title": "N-[(2S,3R,4R,6R)-3-methoxy-2-methyl-16-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.12,6.07,28.08,13.015,19.020,27.021,26]nonacosa-8,10,12,14,19,21,23,25,27-nonaen-4-yl]-N-methylbenzamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/9829523",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:41:07.983395+00:00",
+  "metadata": {
+    "cid": 9829523,
+    "query_name": "midostaurin",
+    "molecular_formula": "C35H30N4O4",
+    "molecular_weight": "570.6",
+    "smiles": "C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC",
+    "iupac_name": "N-[(2S,3R,4R,6R)-3-methoxy-2-methyl-16-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.12,6.07,28.08,13.015,19.020,27.021,26]nonacosa-8,10,12,14,19,21,23,25,27-nonaen-4-yl]-N-methylbenzamide",
+    "synonyms": [
+      "Midostaurin",
+      "120685-11-2",
+      "PKC412",
+      "Cgp 41251",
+      "PKC 412",
+      "PKC-412",
+      "N-Benzoylstaurosporine",
+      "RYDAPT",
+      "CGP-41251",
+      "Benzoylstaurosporine",
+      "midostaurina",
+      "midostaurine",
+      "Cgp 41 251",
+      "ID912S5VON",
+      "NVP-PKC412"
+    ]
+  },
+  "hash": "ffbe2db1031f760ec0b3864c47c0a65b82b144e29d8fc2de6741afaab600353b"
+}

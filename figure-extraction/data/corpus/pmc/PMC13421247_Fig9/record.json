@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig9",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Human mRNA PK projection. Scaled model was used to recreate the virtual clinical trial with ( A ) 0.1 mg/kg, ( B ) 0.3 mg/kg, ( C ) 0.6 mg/kg, and ( D ) 0.3 mg/kg with two doses. The predicted 5–95 percentile plasma mRNA PK was shown by the light blue shaded region and predicted central tendency was shown by the solid blue line. The simulation results were compared against the published clinical trial data illustrated by the red asterisk",
+  "context": "Human mRNA PK projection. Scaled model was used to recreate the virtual clinical trial with ( A ) 0.1 mg/kg, ( B ) 0.3 mg/kg, ( C ) 0.6 mg/kg, and ( D ) 0.3 mg/kg with two doses. The predicted 5–95 percentile plasma mRNA PK was shown by the light blue shaded region and predicted central tendency was shown by the solid blue line. The simulation results were compared against the published clinical trial data illustrated by the red asterisk",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.782439+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 9"
+  },
+  "image_hash": "d9dc9d435a519a009833a48cc3a09933b87fdd04368d5de62bdb1dab5d1396b0",
+  "image_file": "image.jpg"
+}

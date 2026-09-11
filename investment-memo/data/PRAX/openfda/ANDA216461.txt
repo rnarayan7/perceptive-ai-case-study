@@ -1,0 +1,9 @@
+Drugs@FDA application ANDA216461: LACOSAMIDE
+Sponsor: KANCHAN HLTHCARE
+Active ingredient(s): LACOSAMIDE
+Brand name(s): LACOSAMIDE
+Application type: ANDA (generic)
+Original approval date: 2023-02-06
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 1

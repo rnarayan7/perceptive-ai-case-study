@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13357174_f3",
+  "figure_type": "forest",
+  "title": "Impact of metastatic pattern and histologic subtype on PD-(L)1 inhibitor efficacy in HER2-negative advanced gastric and gastroesophageal cancer: a meta-analysis.",
+  "caption": "Forest plot analysis of overall survival in GC/GEJ patients without peritoneal metastasis and with peritoneal metastasis. Pooled hazard ratios for overall survival stratified by the  (A)  presence or  (B)  absence of peritoneal metastases.",
+  "context": "Forest plot analysis of overall survival in GC/GEJ patients without peritoneal metastasis and with peritoneal metastasis. Pooled hazard ratios for overall survival stratified by the  (A)  presence or  (B)  absence of peritoneal metastases. In contrast, among patients with PM, no statistically significant OS benefit was observed with immune checkpoint inhibitor and chemotherapy (pooled HR 0.93, 95% CI 0.79–1.10; p = 0.40), and moderate heterogeneity was present ( I² = 46.6%) ( Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13357174/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-29",
+  "retrieved_at": "2026-09-07T13:04:59.423287+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.93 (95% CI 0.79-1.10)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "oint inhibitor and chemotherapy (pooled HR 0.93, 95% CI 0.79–1.10; p = 0.40), and moderate heterogeneity",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13357174",
+    "pmid": "42444824",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "eca5308082c25b10907b51ed11020f734c3809bae966c303b96dd32e2bed74b7",
+  "image_file": "image.jpg"
+}

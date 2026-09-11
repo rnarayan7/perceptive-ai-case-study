@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12824526_cts70482-fig-0004",
+  "figure_type": "pk_logscale",
+  "title": "Quantitative Prediction of Human Pharmacokinetics for Fc-Engineered Therapeutic Monoclonal Antibodies With Increased FcRn Binding Mutations After Subcutaneous Injection.",
+  "caption": "Predicted and observed plasma concentration‐time profiles after SC injection in humans. Closed squares indicate observed plasma concentration. Dotted lines indicate predicted plasma concentration‐time profiles. (A) Ziltivekimab, 5 mg. (B) Ziltivekimab, 15 mg. (C) Ziltivekimab, 50 mg. (D) Depemokimab, 2 mg. (E) Depemokimab, 10 mg. (F) Depemokimab, 30 mg. (G) Depemokimab, 100 mg. (H) Depemokimab, 300 mg. (I) VRDN‐003, 600 mg. (J) VRC01LS, 5 mg/kg. (K) VRC07‐523LS, 5 mg/kg. (L) VRC07‐523LS, 10 mg/kg. (M) Riliprubart, 300 mg. (N) Riliprubart, 600 mg. (O) Riliprubart, 1200 mg. (P) Riliprubart, 600 mg, Korean. (Q) Riliprubart, 600 mg, Japanese. (R) Riliprubart, 600 mg, Chinese.",
+  "context": "Predicted and observed plasma concentration‐time profiles after SC injection in humans. Closed squares indicate observed plasma concentration. Dotted lines indicate predicted plasma concentration‐time profiles. (A) Ziltivekimab, 5 mg. (B) Ziltivekimab, 15 mg. (C) Ziltivekimab, 50 mg. (D) Depemokimab, 2 mg. (E) Depemokimab, 10 mg. (F) Depemokimab, 30 mg. (G) Depemokimab, 100 mg. (H) Depemokimab, 300 mg. (I) VRDN‐003, 600 mg. (J) VRC01LS, 5 mg/kg. (K) VRC07‐523LS, 5 mg/kg. (L) VRC07‐523LS, 10 mg/kg. (M) Riliprubart, 300 mg. (N) Riliprubart, 600 mg. (O) Riliprubart, 1200 mg. (P) Riliprubart, 600 mg, Korean. (Q) Riliprubart, 600 mg, Japanese. (R) Riliprubart, 600 mg, Chinese. Predicted and observed plasma concentration‐time profiles after SC injections are shown in Figures 4 and 5 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12824526/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:32.822151+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12824526",
+    "pmid": "41567011",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 4"
+  },
+  "image_hash": "60ca1b048e5ce91d1c66a9eebbf924b5ab0af07e1df063630efbe3a2db17281b",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,9 @@
+Drugs@FDA application NDA022251: LAMICTAL ODT
+Sponsor: GLAXOSMITHKLINE LLC
+Active ingredient(s): LAMOTRIGINE
+Brand name(s): LAMICTAL ODT
+Application type: NDA
+Original approval date: 2009-05-08
+Review priority: N/A, STANDARD, UNKNOWN
+Marketing status: Prescription
+Submissions on record: 26

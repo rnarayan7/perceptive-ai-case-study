@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-GA_MEN02_AGEADJPREV_2020_2020_AIAN",
+  "title": "Mental Health - Georgia - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785559+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Georgia",
+    "location_abbr": "GA",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "25.2",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "American Indian or Alaska Native, non-Hispanic"
+  },
+  "hash": "9d7f1e8bf1363034f26b1a69a4ff2d3dae18a8364f5ecf6b477c88b640480abf"
+}

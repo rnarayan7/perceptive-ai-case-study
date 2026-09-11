@@ -1,0 +1,14 @@
+Title: A Clinical Trial to Evaluate the Relative Bioavailability of PRAX-628
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Healthy
+Interventions: PRAX-628 (DRUG)
+Enrollment: 16
+
+Summary: A phase I clinical trial to evaluate the relative bioavailability of PRAX-628 tablet formulation compared to capsule formulation
+
+Primary outcomes:
+- To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules (time frame: 28 days)
+- To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules (time frame: 28 days)

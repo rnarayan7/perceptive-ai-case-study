@@ -1,0 +1,87 @@
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               Efficacy Results – Secondary and Other Relevant Endpoints
+
+               Data:
+               DOR at pivotal RP2D: Median duration of follow-up for responders was 9.9 months. All
+               94 responders by IRC assessment had at least 6 months of follow-up from initial treatment and
+               all but 5 responders (95% of the responders) had at least 6 months of follow-up from initial
+               response or had progressed or died. Median DOR (time from initial response to disease
+               progression or death due to any cause) was not reached (Figure 4). The probability of responders
+               remaining in response at 6 and 9 months was 91.0% (95% CI: 82.9% to 95.4%) and 78.5% (95%
+               CI: 65.7% to 87.0%), respectively. At 12 months, 67.2% (95% CI: 49.4% to 79.9%) of responders
+               were still in response.
+
+             Figure 4: Kaplan-Meier Plot for Duration of Response Based on IRC Assessment (Events Defined as Disease
+             Progression or Death due to Any Cause); Responders in the Efficacy Analysis Set (Study 64007957MMY1001; Pivotal
+             RP2D)
+
+
+
+
+                Key: RP2D = recommended Phase 2 dose; IRC = independent review committee; IMWG = international myeloma working
+                group
+                Note: Response and progression were assessed by IRC, based on IMWG consensus criteria (2016).
+                                                                                                              [GEFDOR01CRP2D.RTF] [JNJ-
+                 64007957\MMY1001_P3\DBR_EFFICACY_ADDENDUM\RE_EFFICACY_ADDENDUM\PROD\GEFDOR01CRP2D SAS] 13DEC2021
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                     101
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               data to further clarify how the final response was determined and the reasons for the discrepant
+               response assessments. The Applicant confirmed that the final IRC response was based on the
+               assessment agreed upon by at least 2 of the 3 IRC members and no other factors were used to
+               select the final IRC response. However, the reasons for discrepancy were not collected. FDA
+               review of the response assessments did not find any major disagreements that would affect the
+               ORR results.
+               Data Quality and Integrity
+
+               Data:
+               Not applicable.
+
+               The Applicant’s Position:
+               No data integrity concerns were reported following completion of study center/site monitoring
+               and/or audits.
+
+               The FDA’s Assessment:
+               No issues were identified with the data quality or integrity from the study which could
+               affect the efficacy results. The submitted datasets are generally consistent, and variables are
+               clearly labeled and/or explained.
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              100
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                                                                                                                          23:04
+
+
+
+
+                                              APPEARS THIS WAY ON ORIGINAL
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              102
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

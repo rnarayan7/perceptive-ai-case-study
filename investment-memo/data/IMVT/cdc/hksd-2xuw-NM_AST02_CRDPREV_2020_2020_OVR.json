@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NM_AST02_CRDPREV_2020_2020_OVR",
+  "title": "Asthma - New Mexico - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.000344+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "New Mexico",
+    "location_abbr": "NM",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "10.5",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "5cdd465adad58e0ada2979925eadd746364f8e76d9e935005a4c6d7516d7c6b9"
+}

@@ -1,0 +1,13 @@
+Title: An Open-Label Extension Study of Batoclimab in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Chronic Inflammatory Demyelinating Polyneuropathy
+Interventions: Batoclimab (DRUG)
+Enrollment: 26
+
+Summary: This is an open-label extension (OLE) study designed to evaluate the long-term safety and tolerability of batoclimab in participants with CIDP who have completed Study IMVT-1401-2401 (NCT05581199). In this study, participants will receive 340 mg of batoclimab subcutaneously (SC) once weekly (QW) for up to 52 weeks. Upon completion of the Week 52 or early termination (ET) Visit, participants will transition into the 4-week Follow-up Period, which concludes with a Follow-up Visit approximately 28 (± 7) days after the Week 52 or ET Visit.
+
+Primary outcomes:
+- Proportion of Participants with Treatment-Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and TEAEs Leading to Treatment Discontinuation (time frame: Up to 52 weeks)

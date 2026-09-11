@@ -1,0 +1,102 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 10: Kaplan-Meier Plots By Css Quartile for PK Available Subjects of Arm B of
+               Study 1331
+
+
+
+
+                 Source: Figures 13-5 of Applicant’s ER Analysis Report for S26
+
+
+
+
+                                                                        209
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Table 57: Results of Time to Event Analyses of OS (Univariate) of Study 1331
+                 Univariate Cox Proportional Hazard Results                                 Hazard Ratio (95%             p-value
+                                                                                            CI)
+                        Arm B
+                 Effect of exposure1 (N=92)                          Css (per log [ng/L])   0.575 (0.344-0.961)           0.035*
+                 Effect of baseline bone marrow blast (N=104)       Continuous (per %)       1.01 (0.997-1.03)            0.105
+                        Arm D
+                 Effect of exposure1 (N=107)                         Css (per log [ng/L])      1.47 (0.58-3.72)           0.417
+                 Effect of baseline bone marrow blast (N=123)        Continuous (per %)      0.969 (0.944-0.995)          0.021*
+                 Effect of baseline platelets (N=126)               Continuous (per unit)     0.994 (0.988-1.00)          0.035*
+                  Source: Table 12-8 of applicant’s ER Report for S26.
+
+               FDA Table 58: Summary of Multivariate Analysis by Exposure for DFS and OS in Subjects of
+               Arm B of Study 1331
+                 Multivariate Analysis: Effect                  Hazard Ratio (95% CI) per log (ng/L)        p-value
+                                                                          DFS
+                 Css (per log [ng/L])                           0.347 (0.201-0.599)                          0.0001
+                 BSA (m2)                                       0.018 (0.000836-0.368)                        0.009
+                 Sex                                            1.78 (0.868-3.67)                             0.115
+                 BSA:Bone Marrow Blast                          1.04 (1.00-1.08)                              0.046
+                                                                     OS
+                   Css (per log [ng/L])                   0.475 (0.263-0.857)                                     0.013
+                   BSA (m2)                               0.358 (0.145-0.881)                                     0.025
+                   Bone Marrow Blast (%)                  1.02 (0.999-1.03)                                       0.060
+                  Source: Table 12-14 of applicant’s ER Report for S26.
+
+
+
+
+                                                                         208
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 11: Kaplan-Meier Plots By Css Quartile for PK Available Subjects of Arm D of
+               Study 1331
+
+
+
+
+                 Source: Figures 13-6 of Applicant’s ER Analysis Report for S26
+
+
+
+
+               ER (efficacy) Assessment Summary
+               The Applicant’s Position:
+
+                 General Information
+                  Goal of ER analysis                         To investigate the relationship between
+                                                              blinatumomab exposure and efficacy endpoints
+                                                              (duration of EFS and OS) in pediatric subjects with
+                                                              high-risk first relapsed B-precursor ALL receiving
+                                                              blinatumomab or SOC chemotherapy as consolidation
+                                                              therapy after induction therapy
+                   Study Included                             20120215
+                   Endpoint                                   EFS (primary endpoint), OS (key secondary endpoint)
+                   No. of Patients (total, and with           111 (total) [54 (blinatumomab arm),
+                   individual PK)                             57 (SOC chemotherapy arm)] and 45 (with individual
+                                                              PK in blinatumomab arm)
+                                                                        210
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

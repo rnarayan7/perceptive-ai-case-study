@@ -1,0 +1,1 @@
+Forest plot for subgroup analysis of 2-year overall survival by cancer type (OPSCC vs NSCLC). CI = confidence interval, NSCLC = non-small cell lung cancer, OR = odds ratio, OPSCC = oropharyngeal squamous cell carcinoma.

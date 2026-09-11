@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17657415",
+  "title": "FAERS report 17657415: Neuralgia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17657415",
+  "published": "2020-04-27",
+  "retrieved_at": "2026-09-08T08:39:59.981819+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Neuralgia"
+    ],
+    "drugs": [
+      "PANTOPRAZOL",
+      "LEVODOPA",
+      "L?THYROXIN",
+      "PANTOPRAZOL",
+      "OZANIMOD.",
+      "AZITHROMYCIN ANHYDROUS.",
+      "SOLEDUM"
+    ],
+    "occurcountry": "DE"
+  },
+  "hash": "dd6d722c00578cace0e4913adbef4bc2cd8207c51ed16eb1b7dbc02b1ab1324a"
+}

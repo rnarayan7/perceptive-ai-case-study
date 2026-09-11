@@ -1,0 +1,69 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13271844_cnr270600-fig-0007",
+  "figure_type": "waterfall",
+  "title": "Ultrasound and Clinicopathological Features-Based Machine Learning Model for Predicting Neoadjuvant Therapy Efficacy in Breast Cancer.",
+  "caption": "SHAP waterfall plot. Red blocks represent positive impacts of features on the prediction outcome, while blue blocks represent negative impacts. In the waterfall plot, the cumulative contributions of each feature based on the average predicted value  Ef ( x ) are summed to obtain the predicted value for the sample ( f ( x ) value displayed on the right). For instance, in Case 1, the model predicts an 85.7% probability of pCR for the patient, consistent with the pathological results. ✱The formula for calculating the prediction probability is:  Probability = 1 1 + e − f x .",
+  "context": "SHAP waterfall plot. Red blocks represent positive impacts of features on the prediction outcome, while blue blocks represent negative impacts. In the waterfall plot, the cumulative contributions of each feature based on the average predicted value  Ef ( x ) are summed to obtain the predicted value for the sample ( f ( x ) value displayed on the right). For instance, in Case 1, the model predicts an 85.7% probability of pCR for the patient, consistent with the pathological results. ✱The formula for calculating the prediction probability is:  Probability = 1 1 + e − f x . For a single patient, these results illustrate the impact of different features on the model's prediction of clinical outcomes (Figures 7 and 8 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271844/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T13:01:05.846201+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Number of bars",
+      "value": "7",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Most negative bar",
+      "value": "False=Early_Vol_cat_Above 80%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Final prediction f(x)",
+      "value": "1.844",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "E[f(X)]",
+      "value": "1.526",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Most positive bar",
+      "value": "subtype_Triple_negative",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13271844",
+    "pmid": "42303564",
+    "journal": "Cancer reports (Hoboken, N.J.)",
+    "fig_label": "FIGURE 7"
+  },
+  "image_hash": "e90e2248b27584803748c8269cc798db924cd05da3fade02953e639e0831194b",
+  "image_file": "image.jpg"
+}

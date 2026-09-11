@@ -1,0 +1,13 @@
+Title: A Clinical Trial of PRAX-114 in Participants With Major Depressive Disorder
+Status: COMPLETED
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Major Depressive Disorder
+Interventions: PRAX-114 (DRUG), Placebo (DRUG)
+Enrollment: 216
+
+Summary: This is a randomized, double-blind, placebo-controlled clinical trial to assess the efficacy and safety of PRAX-114 in participants with moderate to severe major depressive disorder (MDD). Participants will be randomized to receive 28 days of either 40 mg PRAX-114 or placebo in a 1:1 ratio.
+
+Primary outcomes:
+- Change from baseline in 17-Item Hamilton Depression Rating Scale (HAM-D17) total score at Day 15 (time frame: 15 days)

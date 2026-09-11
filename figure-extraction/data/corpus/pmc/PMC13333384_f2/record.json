@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13333384_f2",
+  "figure_type": "kaplan_meier",
+  "title": "Association between radiotherapy timing and intracranial outcomes in EGFR-mutant NSCLC with brain metastases treated with EGFR-TKIs.",
+  "caption": "Kaplan–Meier survival curves for the entire cohort.  (A)  Overall survival (OS).  (B)  Intracranial progression-free survival (iPFS).",
+  "context": "Kaplan–Meier survival curves for the entire cohort.  (A)  Overall survival (OS).  (B)  Intracranial progression-free survival (iPFS). Overall survival and intracranial progression-free survival For the entire cohort, the 1-, 3-, and 5-year OS rates were 83.7%, 34.8%, and 14.1%, respectively, with a median OS of 28.0 months ( Figure 2 ). The 1-, 3-, and 5-year iPFS rates were 54.8%, 10.4%, and 0.7%, respectively, with a median iPFS of 12.4 months ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13333384/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-22",
+  "retrieved_at": "2026-09-07T12:55:53.085148+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "28.0",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "34.8%, and 14.1%, respectively, with a median OS of 28.0 months ( Figure 2 ). The 1-, 3-, and 5-year iP",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "12.4",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": ", 10.4%, and 0.7%, respectively, with a median iPFS of 12.4 months ( Figure 2 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13333384",
+    "pmid": "42440437",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "b58f7323d1beb1ccd87414658da164830ebd0cf36c849c6c88a2c3efb4c37f75",
+  "image_file": "image.jpg"
+}

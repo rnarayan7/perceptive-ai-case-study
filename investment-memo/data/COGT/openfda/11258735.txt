@@ -1,0 +1,4 @@
+FAERS adverse-event report 11258735 (comparator: midostaurin)
+Serious: yes
+Reactions: Abdominal discomfort, Blood albumin decreased, Hyperlipasaemia, Amylase increased, Blood sodium decreased, Bilirubin conjugated increased, Blood bilirubin increased
+Reported drugs: MIDOSTAURIN

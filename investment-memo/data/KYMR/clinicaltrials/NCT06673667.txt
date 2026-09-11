@@ -1,0 +1,21 @@
+Title: First-in-human Study of Orally Administered KT-621 in Healthy Adult Participants
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Healthy Participants Study
+Interventions: KT-621 (DRUG), Placebo (DRUG)
+Enrollment: 118
+
+Summary: This is a first-in-human study to evaluate safety, pharmacokinetics, and pharmacodynamics of single and multiple dose levels of KT-621 in healthy male and female adult participants.
+
+Primary outcomes:
+- Incidence of adverse events (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically-significant abnormalities in safety laboratory parameters: hematology (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: serum chemistry (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: coagulation (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in electrocardiogram values: QTcF (milliseconds) (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in vital signs: heart rate (beats per minute) (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in vital signs: blood pressure (mmHg) (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in vital signs: respiratory rate (breaths per minute) (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Treatment-emergent potentially clinically significant abnormalities in vital signs: temperature (degrees Celsius) (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))

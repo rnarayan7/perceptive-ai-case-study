@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240412_180108_fig004",
+  "figure_type": "kaplan_meier",
+  "title": "odac_20240412_180108 figure 4",
+  "caption": "",
+  "context": "April 12, 2024\nOncologic Drugs Advisory Committee Meeting\n\nQuestions to the Committee:\n\n1. DISCUSSION: Discuss the adequacy of the available data to support the use of minimal\n   residual disease (MRD) as an accelerated approval endpoint in multiple myeloma (MM).\n\n    Committee Discussion: Overall, the Committee agreed that the available patient level data\n    and the biologic plausibility supported the use of MRD as an intermediate endpoint for\n    accelerated approval in MM. Committee members acknowledged that MRD as an endpoint\n    represents a major opportunity for acceleration of drug development in MM, particularly in\n    the front-line setting. Several Committee members acknowledged that the studies and\n    analyses conducted were well done and they had confidence in the data presented. Some\n    Committee members expressed concern that clinical trials utilizing MRD may not capture the\n    full toxicity profile of drugs being studied, and follow-up for long term outcomes like\n    progression free survival (PFS) and overall survival (OS) and dose optimization will remain\n    important. One member mentioned that more data may be needed to analyze MRD as an\n    endpoint for later lines of therapy for relapsed/refractory MM. Please see the transcript for\n    details of the Committee’s discussion.\n\n2. DISCUSSION: Discuss whether the available data supports the use of MRD as an endpoint\n   in the different MM disease settings.\n       • Newly diagnosed MM\n       • Relapsed/Refractory MM\n\n    Committee Discussion: The majority of the Committee members concurred that the available\n    data supports the use of MRD as an endpoint in both the newly diagnosed and\n    relapsed/refractory MM disease settings. A few Committee members stated that the available\n    data in the relapsed/refractory MM setting is weaker compared to the data in the newly\n    diagnosed MM setting. Most members assessed that the data in both disease settings were\n    adequate and pointed out that some of the analyses showing less association in\n    relapsed/refractory MM were likely confounded by the smaller number of patients in those\n    clinical trials. One Committee member noted that since the duration of remission gets shorter\n    with each relapse more than four studies may be needed to demonstrate a difference in MRD\n    negativity in this setting. Please see the transcript for details of the Committee’s discussion.\n\n3. DISCUSSION: Discuss the acceptability of the timepoints for MRD assessment:\n      • 9-months, 12-months, MRD negative complete response at any time\n      • Requirement for assessment of durability\n\n    Committee Discussion: The Committee generally agreed that the 9-month and 12-month\n    timepoints were acceptable for MRD assessment. A couple of Committee members\n    recommended that sustained MRD negativity may be helpful to assess durability. Several\n    members commented that, while the proposed time points have been well studied, it is the\n    responsibility of the clinician or researcher to decide whether to conduct additional MRD\n    testing for additional timepoints or durability and correlation with long term outcomes. One\n\n\n                                            Page 5 of 6\n\f",
+  "url": "https://www.fda.gov/media/180108/download",
+  "image_url": "https://www.fda.gov/media/180108/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:01.286769+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240412_180108",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "34a6f701dd815f65c2ade7bdff8cd938fa0393befecc18cfb8b3057be0b4072f",
+  "image_file": "image.png"
+}

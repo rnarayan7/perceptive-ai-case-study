@@ -1,0 +1,37 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10006266",
+  "title": "FAERS report 10006266: Ataxia, Gait disturbance, Balance disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10006266",
+  "published": "2014-03-28",
+  "retrieved_at": "2026-09-08T08:40:36.205304+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Ataxia",
+      "Gait disturbance",
+      "Balance disorder",
+      "Status epilepticus"
+    ],
+    "drugs": [
+      "VIMPAT",
+      "VIMPAT",
+      "KEPPRA",
+      "AMLOR",
+      "ATACAND",
+      "IPERTEN",
+      "PLAVIX",
+      "NOVONORM",
+      "LYRICA",
+      "URBANYL",
+      "ZEBINIX",
+      "ZEBINIX",
+      "ZEBINIX"
+    ],
+    "occurcountry": "FR"
+  },
+  "hash": "bd00792e839cfdc234e07bc77b5122e92c9199152e4794ce2d2b5fe8d38986f9"
+}

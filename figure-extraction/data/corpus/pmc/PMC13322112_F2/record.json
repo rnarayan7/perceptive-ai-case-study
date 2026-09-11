@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13322112_F2",
+  "figure_type": "forest",
+  "title": "Impact of Local Treatment of the Primary Tumor on Overall Survival in &lt;i&gt;De Novo&lt;/i&gt; Metastatic Breast Cancer: A Systematic Review and Meta-analysis.",
+  "caption": "Forest plot showing the pooled hazard ratio for overall survival comparing local treatment of the primary tumor versus systemic therapy alone in patients with de novo metastatic breast cancer.",
+  "context": "Forest plot showing the pooled hazard ratio for overall survival comparing local treatment of the primary tumor versus systemic therapy alone in patients with de novo metastatic breast cancer. Overall, local treatment was associated with a 38% reduction in the risk of death compared with systemic therapy alone (pooled HR=0.62, 95% CI=0.52–0.75, p <0.0001; Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322112/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:03.333193+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.62 (95% CI 0.52-0.75)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "red with systemic therapy alone (pooled HR=0.62, 95% CI=0.52–0.75, p <0.0001; Figure 2 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13322112",
+    "pmid": "42388582",
+    "journal": "Cancer diagnosis & prognosis",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "5be1d23dcf61ee9b16b994eb1c70c68db8caf2348c50e0cd66c7eb255e7a63cd",
+  "image_file": "image.jpg"
+}

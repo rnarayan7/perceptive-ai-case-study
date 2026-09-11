@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13223161_f6",
+  "figure_type": "forest",
+  "title": "Circulating tumor DNA and prognosis in gastric cancer patients undergoing surgery: meta-analysis and trial sequential analysis.",
+  "caption": "Subgroup forest plot of the pooled HR for DFS based on ctDNA measured pre-operatively and post-operatively.",
+  "context": "Subgroup forest plot of the pooled HR for DFS based on ctDNA measured pre-operatively and post-operatively. The interaction between pre-operative and post-operative subgroups was significant ( p = 0.011; Figure 6 ), supporting a stronger prognostic value of post-operative ctDNA, consistent with its role as a marker of minimal residual disease.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223161/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T13:05:29.546537+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13223161",
+    "pmid": "42232546",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "0f7f9cf453aa43bb45788c6190dec3a5d890a9cac2c9b7c4141ff75c1c7abe99",
+  "image_file": "image.jpg"
+}

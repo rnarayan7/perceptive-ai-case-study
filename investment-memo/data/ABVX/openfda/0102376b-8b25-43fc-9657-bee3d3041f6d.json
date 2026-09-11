@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0102376b-8b25-43fc-9657-bee3d3041f6d",
+  "title": "Label: Drug label",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0102376b-8b25-43fc-9657-bee3d3041f6d",
+  "published": "2021-03-15",
+  "retrieved_at": "2026-09-08T08:40:16.632041+00:00",
+  "metadata": {
+    "brand_name": null,
+    "generic_name": null,
+    "manufacturer": null,
+    "manufacturer_name": null,
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": null
+  },
+  "hash": "2159579654f70e490ab9125694d63982026c1d72cefb10fd6da5cf520379ed12"
+}

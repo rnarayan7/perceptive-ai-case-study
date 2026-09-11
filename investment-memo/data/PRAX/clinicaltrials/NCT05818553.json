@@ -1,0 +1,45 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05818553",
+  "title": "A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)",
+  "url": "https://clinicaltrials.gov/study/NCT05818553",
+  "published": "2023-04-19",
+  "retrieved_at": "2026-09-07T12:53:43.594083+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "SCN2A Encephalopathy",
+      "SCN8A Encephalopathy"
+    ],
+    "interventions": [
+      {
+        "name": "PRAX-562",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 77,
+    "start_date": "2023-08-02",
+    "primary_completion_date": "2025-11-12",
+    "completion_date": "2027-03-01",
+    "first_posted_date": "2023-04-19",
+    "primary_outcomes": [
+      {
+        "measure": "PART A (Cohorts 1 and 2) RDB: To evaluate the safety and tolerability of PRAX 562 in pediatric participants with SCN2A- and SCN8A- DEEs",
+        "timeFrame": "16 weeks"
+      },
+      {
+        "measure": "PART B (Cohorts 1 and 2) OLE: To evaluate the long-term safety and tolerability of PRAX-562 in pediatric participants with DEEs",
+        "timeFrame": "48 weeks"
+      }
+    ]
+  },
+  "hash": "3083dc22f3478a504235b7a7213957519d8742366b79c8dd4b396b10bf3e4007"
+}

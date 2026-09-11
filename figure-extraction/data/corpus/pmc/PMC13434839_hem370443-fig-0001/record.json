@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13434839_hem370443-fig-0001",
+  "figure_type": "table",
+  "title": "First-line treatment with epcoritamab in combination with bendamustine plus rituximab induces sustained remissions beyond 3 years in patients with follicular lymphoma.",
+  "caption": "EPCORE NHL‐2 arm 3 patient disposition . Flowchart illustrating patient screening, enrollment, and disposition as of the data cutoff on April 9, 2025.  a “Other” reasons for treatment discontinuation were patient decision, and medical decision in a patient with long‐term COVID‐19 and persistent CR. AE, adverse event; CR, complete response; PD, progressive disease.",
+  "context": "EPCORE NHL‐2 arm 3 patient disposition . Flowchart illustrating patient screening, enrollment, and disposition as of the data cutoff on April 9, 2025.  a “Other” reasons for treatment discontinuation were patient decision, and medical decision in a patient with long‐term COVID‐19 and persistent CR. AE, adverse event; CR, complete response; PD, progressive disease. Patient disposition is shown in Figure 1 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13434839/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-08-04",
+  "retrieved_at": "2026-09-07T13:24:17.454380+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13434839",
+    "pmid": "42553584",
+    "journal": "HemaSphere",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "b98099b69a6ff273815088c06e8f42df552facaf8b00342da3f3ae501d51121a",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10011366",
+  "title": "FAERS report 10011366: Brain neoplasm, Convulsion",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10011366",
+  "published": "2014-03-14",
+  "retrieved_at": "2026-09-08T08:40:36.205474+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Brain neoplasm",
+      "Convulsion"
+    ],
+    "drugs": [
+      "VIMPAT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "887da24587601ac9d00cf168ecaade1b9b3f417c9c9e365a3088c69ffc367ce4"
+}

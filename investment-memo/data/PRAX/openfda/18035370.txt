@@ -1,0 +1,4 @@
+FAERS adverse-event report 18035370 (comparator: cenobamate)
+Serious: no
+Reactions: Fatigue
+Reported drugs: LEVETIRACETAM., CENOBAMATE., EPIDIOLEX, VIMPAT

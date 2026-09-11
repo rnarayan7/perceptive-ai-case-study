@@ -1,0 +1,43 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05517421",
+  "title": "Study to Assess Batoclimab in Participants With Active Thyroid Eye Disease",
+  "url": "https://clinicaltrials.gov/study/NCT05517421",
+  "published": "2022-08-26",
+  "retrieved_at": "2026-09-07T12:53:37.940249+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Thyroid Eye Disease"
+    ],
+    "interventions": [
+      {
+        "name": "Batoclimab",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 114,
+    "start_date": "2022-11-23",
+    "primary_completion_date": "2025-11-02",
+    "completion_date": "2025-11-18",
+    "first_posted_date": "2022-08-26",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of proptosis responders",
+        "timeFrame": "At Week 24"
+      }
+    ]
+  },
+  "hash": "005ec52eb5c53183954ac904869cb394fe855d92b1de5a7894936a131ae2d481"
+}

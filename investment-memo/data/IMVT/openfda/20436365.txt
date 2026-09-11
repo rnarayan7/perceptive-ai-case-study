@@ -1,0 +1,4 @@
+FAERS adverse-event report 20436365 (comparator: efgartigimod)
+Serious: yes
+Reactions: Death
+Reported drugs: VYVGART

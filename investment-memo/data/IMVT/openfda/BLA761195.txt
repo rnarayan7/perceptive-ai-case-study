@@ -1,0 +1,9 @@
+Drugs@FDA application BLA761195: VYVGART
+Sponsor: ARGENX BV
+Active ingredient(s): EFGARTIGIMOD ALFA
+Brand name(s): VYVGART
+Application type: BLA (biologic)
+Original approval date: 2021-12-17
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 6

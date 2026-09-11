@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "3c0eb8c2-c042-4954-b451-3baa77f5e6d1",
+  "title": "Label: RYSTIGGO (ROZANOLIXIZUMAB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=3c0eb8c2-c042-4954-b451-3baa77f5e6d1",
+  "published": "2026-01-20",
+  "retrieved_at": "2026-09-08T08:40:50.249712+00:00",
+  "metadata": {
+    "brand_name": "RYSTIGGO",
+    "generic_name": "ROZANOLIXIZUMAB",
+    "manufacturer": "UCB, Inc.",
+    "manufacturer_name": "UCB, Inc.",
+    "pharm_class_epc": "Neonatal Fc Receptor Blocker [EPC]",
+    "pharm_class_moa": "Neonatal Fc Receptor Blockers [MoA]",
+    "application_number": "BLA761286",
+    "route": "SUBCUTANEOUS"
+  },
+  "hash": "773a14ddce687b10cd7b385e4b65fdc64df99d6773933f880a8bf9e117d71f00"
+}

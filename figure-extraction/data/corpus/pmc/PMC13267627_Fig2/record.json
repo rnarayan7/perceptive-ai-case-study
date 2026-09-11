@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13267627_Fig2",
+  "figure_type": "spider",
+  "title": "Mitoxantrone hydrochloride liposome (Lipo-MIT) combined with capecitabine in HER2-negative advanced breast cancer: a dose-escalation, phase I study.",
+  "caption": "Dose escalation, tolerability, and treatment duration. A swimmer plot illustrating the treatment duration and best overall response for all enrolled patients (n = 26) across the two dosing cohorts. Patients are explicitly stratified on the left y-axis by cohort assignment (Q4W: top panel; Q3W: bottom panel) and grouped by specific dose levels. The dose level is also indicated by the color of the horizontal bars. Each horizontal bar represents an individual patient, ordered by treatment duration within each dose group. The length of the bar corresponds to the duration of treatment in months. Symbols along the bars: Black-outlined white asterisks (*) indicate the time of first confirmed partial response (PR); black-outlined white circles (●) indicate the time of first confirmed stable disease (SD). The vertical double-lines (||) indicate the occurrence of a dose interruption or delay, and the downward black triangles (▼) indicate a dose reduction. The shape at the end of each bar denotes the reason for treatment discontinuation or current status: open arrowhead (>), ongoing treatment; cross (✖), disease progression; diamond (♦), switch to maintenance therapy; square (■) or vertical line (|), discontinuation due to adverse events or other reasons. Abbreviations: Q3W, every 3 weeks; Q4W, every 4 weeks; Lipo-MIT, mitoxantrone hydrochloride liposome.",
+  "context": "Dose escalation, tolerability, and treatment duration. A swimmer plot illustrating the treatment duration and best overall response for all enrolled patients (n = 26) across the two dosing cohorts. Patients are explicitly stratified on the left y-axis by cohort assignment (Q4W: top panel; Q3W: bottom panel) and grouped by specific dose levels. The dose level is also indicated by the color of the horizontal bars. Each horizontal bar represents an individual patient, ordered by treatment duration within each dose group. The length of the bar corresponds to the duration of treatment in months. Symbols along the bars: Black-outlined white asterisks (*) indicate the time of first confirmed partial response (PR); black-outlined white circles (●) indicate the time of first confirmed stable disease (SD). The vertical double-lines (||) indicate the occurrence of a dose interruption or delay, and the downward black triangles (▼) indicate a dose reduction. The shape at the end of each bar denotes the reason for treatment discontinuation or current status: open arrowhead (>), ongoing treatment; cross (✖), disease progression; diamond (♦), switch to maintenance therapy; square (■) or vertical line (|), discontinuation due to adverse events or other reasons. Abbreviations: Q3W, every 3 weeks; Q4W, every 4 weeks; Lipo-MIT, mitoxantrone hydrochloride liposome.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13267627/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-04-28",
+  "retrieved_at": "2026-09-07T13:15:02.030943+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13267627",
+    "pmid": "42050512",
+    "journal": "BMC medicine",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "b25e3e1a9c69e3c3b6a8f9d678b901ee57f039d4eeadda8f1cf319877449f9cf",
+  "image_file": "image.jpg"
+}

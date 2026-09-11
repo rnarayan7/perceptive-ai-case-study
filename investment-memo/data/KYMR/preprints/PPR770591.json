@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR770591",
+  "title": "An epigenome-wide analysis of DNA methylation, racialized and economic inequities, and air pollution",
+  "url": "https://europepmc.org/article/PPR/PPR770591",
+  "published": "2023-12-08",
+  "retrieved_at": "2026-09-08T10:06:22.343463+00:00",
+  "metadata": {
+    "doi": "10.1101/2023.12.07.570610",
+    "epmc_id": "PPR770591",
+    "epmc_source": "PPR",
+    "authors": "Watkins SH, Testa C, Simpkin AJ, Smith GD, Coull B, De Vivo I, Tilling K, Waterman PD, Chen JT, Diez-Roux AV, Krieger N, Suderman M, Relton C.",
+    "cited_by": 0
+  },
+  "hash": "7530a6c85a8f8f61105f60d00cc4c1d4c31f69402b40803ca23d8d844d836c32"
+}

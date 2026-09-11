@@ -1,0 +1,13 @@
+Title: Dose-Ranging Phase 2b Study of ABX464 in Moderate to Severe Ulcerative Colitis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 100 mg (DRUG), ABX464 50 mg (DRUG), ABX464 25 mg (DRUG), Placebo (DRUG)
+Enrollment: 355
+
+Summary: Phase 2b study to evaluate the efficacy and the safety of 3 dose-levels of ABX464, administered daily in patients with moderate to severe Ulcerative Colitis.
+
+Primary outcomes:
+- Reduction From Baseline in Modified Mayo Score (MMS) at Week 8 (time frame: Week 8)

@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-point-prevalence-australia-93b2167c",
+  "title": "Myasthenia gravis - Point prevalence (Australia) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576657+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-5 / 10 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "11.7",
+    "geographic_area": "Australia",
+    "validation_status": "Validated",
+    "source": "22469211[PMID]",
+    "source_pmids": [
+      "22469211"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "93b2167c0219f00bf5f91b6921dbe7df584079a9ad58e274743dc79fc489f7b6"
+}

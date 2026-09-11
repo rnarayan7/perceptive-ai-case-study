@@ -1,0 +1,86 @@
+{
+  "source": "pmc",
+  "started_at": "2026-09-07T13:26:27.716737+00:00",
+  "query": "baseline characteristics table response rate cancer trial figure",
+  "finished_at": "2026-09-07T13:32:03.059543+00:00",
+  "figures": [
+    {
+      "figure_id": "PMC13293460_FIG1",
+      "figure_type": "table",
+      "title": "Efficacy of Bispecific Antibodies in Relapsed or Refractory Multiple Myeloma With Extramedullary Disease: A Systematic Review and Meta-Analysis.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13404637_F1",
+      "figure_type": "table",
+      "title": "Randomized phase II trial of nivolumab and ipilimumab with or without stereotactic body radiation therapy in patients with metastatic castration-resistant prostate cancer: the CheckPRO, CA209-8TY trial.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13404637_F2",
+      "figure_type": "table",
+      "title": "Randomized phase II trial of nivolumab and ipilimumab with or without stereotactic body radiation therapy in patients with metastatic castration-resistant prostate cancer: the CheckPRO, CA209-8TY trial.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13386059_F4",
+      "figure_type": "table",
+      "title": "Safety and efficacy of fecal microbiota transplantation in solid cancers resistant to immune checkpoint inhibitors: results of the MITRIC trial.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13360173_cancers-18-02131-f001",
+      "figure_type": "table",
+      "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13360173_cancers-18-02131-f002",
+      "figure_type": "table",
+      "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13360173_cancers-18-02131-f003",
+      "figure_type": "table",
+      "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13360173_cancers-18-02131-f004",
+      "figure_type": "table",
+      "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13360173_cancers-18-02131-f007",
+      "figure_type": "table",
+      "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13434839_hem370443-fig-0001",
+      "figure_type": "table",
+      "title": "First-line treatment with epcoritamab in combination with bendamustine plus rituximab induces sustained remissions beyond 3 years in patients with follicular lymphoma.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "PMC13247334_djag064-F1",
+      "figure_type": "table",
+      "title": "Belzutifan efficacy in von Hippel-Lindau disease-associated renal cell carcinoma versus natural history control arm.",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    }
+  ],
+  "errors": []
+}

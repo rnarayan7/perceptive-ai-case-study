@@ -1,0 +1,4 @@
+FAERS adverse-event report 12181947 (comparator: upadacitinib)
+Serious: yes
+Reactions: Colitis ulcerative, Attention deficit hyperactivity disorder, Gastrooesophageal reflux disease
+Reported drugs: XYREM, XYREM, XYREM, NORCO, VALIUM, VYVANSE, ZOLPIDEM TARTRATE, ADDERALL, ADDERALL, ASACOL, AZULFIDINE, LIALDA, MESALAMINE, METHYLPHENIDATE, PREDNISONE ACETATE, REMICADE, ENTYVIO, RINVOQ

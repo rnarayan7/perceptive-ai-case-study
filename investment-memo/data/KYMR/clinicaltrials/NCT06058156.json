@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06058156",
+  "title": "Phase 2 Study of SAR444656 in Adult Participants With Moderate to Severe Atopic Dermatitis",
+  "url": "https://clinicaltrials.gov/study/NCT06058156",
+  "published": "2023-09-28",
+  "retrieved_at": "2026-09-07T06:57:16.411279+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Atopic Dermatitis"
+    ],
+    "interventions": [
+      {
+        "name": "SAR444656 (KT-474)",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Sanofi",
+    "enrollment": 70,
+    "start_date": "2023-11-09",
+    "primary_completion_date": "2025-10-23",
+    "completion_date": "2025-11-20",
+    "first_posted_date": "2023-09-28",
+    "primary_outcomes": [
+      {
+        "measure": "Percent change from baseline in EASI",
+        "timeFrame": "Week 16"
+      }
+    ]
+  },
+  "hash": "56376091394b1fc578960344c3edf72caa223194908ff9cbf8d995a944f2d39e"
+}

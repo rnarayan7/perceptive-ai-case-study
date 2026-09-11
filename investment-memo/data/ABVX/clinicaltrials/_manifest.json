@@ -1,0 +1,1136 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "started_at": "2026-09-08T10:05:54.212930+00:00",
+  "finished_at": "2026-09-08T10:05:55.183179+00:00",
+  "documents": [
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04393038",
+      "title": "ABX464 in Treating Inflammation and Preventing Acute Respiratory Failure in Patients With COVID-19",
+      "url": "https://clinicaltrials.gov/study/NCT04393038",
+      "published": "2020-05-19",
+      "retrieved_at": "2026-09-08T10:05:55.160749+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "COVID-19"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 509,
+        "start_date": "2020-07-01",
+        "primary_completion_date": "2021-03-05",
+        "completion_date": "2021-04-16",
+        "first_posted_date": "2020-05-19",
+        "primary_outcomes": [
+          {
+            "measure": "Rate of Responders: i.e. Rate of Patients Who do Not Require Use of High-flow Oxygen Invasive or Non-invasive Mechanical Ventilation (IMV and NIV, Respectively) Within 28 Days and Who Are Alive at the End of the 28 Days Period.",
+            "timeFrame": "28 days"
+          }
+        ]
+      },
+      "hash": "b6c1e492a6d72497c1686791ac05c45c0db7a6d740d70bc5d23779ceed3ae989"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03760003",
+      "title": "Dose-Ranging Phase 2b Study of ABX464 in Moderate to Severe Ulcerative Colitis",
+      "url": "https://clinicaltrials.gov/study/NCT03760003",
+      "published": "2018-11-30",
+      "retrieved_at": "2026-09-08T10:05:55.163697+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464 100 mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 50 mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 25 mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 355,
+        "start_date": "2019-08-13",
+        "primary_completion_date": "2021-04-01",
+        "completion_date": "2021-04-16",
+        "first_posted_date": "2018-11-30",
+        "primary_outcomes": [
+          {
+            "measure": "Reduction From Baseline in Modified Mayo Score (MMS) at Week 8",
+            "timeFrame": "Week 8"
+          }
+        ]
+      },
+      "hash": "2b5c7dc1adc712e6cca7ad94b5f024f04ca25bef90c4e6357fa73e74948cff3c"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02990325",
+      "title": "A Safety, Pharmacokinetics, and Pharmacodynamics Study of ABX464 in HIV-1 Seronegative and Seropositive Adults",
+      "url": "https://clinicaltrials.gov/study/NCT02990325",
+      "published": "2016-12-13",
+      "retrieved_at": "2026-09-08T10:05:55.164679+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "HIV Infections",
+          "Health Volunteers"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464 150mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 50mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 50mg",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 36,
+        "start_date": "2017-03-27",
+        "primary_completion_date": "2018-12-27",
+        "completion_date": "2019-10-21",
+        "first_posted_date": "2016-12-13",
+        "primary_outcomes": [
+          {
+            "measure": "Area Under the Curve (AUC) of ABX464 in Sera",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Maximum Observed Concentration (Cmax) of ABX464 in Sera",
+            "timeFrame": "Day 1, Day 28 and day 84"
+          },
+          {
+            "measure": "Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Maximum Observed Concentration (Cmax) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC)",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Area Under the Curve (AUC) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC)",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC)",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC)",
+            "timeFrame": "Day 1, Day 28 and Day 84"
+          },
+          {
+            "measure": "Concentration of ABX464 in Rectal Tissue (Measured Only at Pre-infusion Timepoint)",
+            "timeFrame": "Day 1, Day 28, Day 56, Day 84 and Day 112"
+          },
+          {
+            "measure": "Concentration of ABX464 Metabolite (ABX464-N-Glucuronide) in Rectal Tissue (Measured Only at Pre-infusion Timepoint)",
+            "timeFrame": "Day 1, Day 28, Day 56, Day 84 and Day 112"
+          }
+        ]
+      },
+      "hash": "a13d01206fd3026e2ec015daf2294fd5548be247dce174c44e5f0eaab1e4ad33"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02735863",
+      "title": "ABX464 in Fully Controlled HIV Infected Patients Treated With Boosted Protease Inhibitor Treatment",
+      "url": "https://clinicaltrials.gov/study/NCT02735863",
+      "published": "2016-04-13",
+      "retrieved_at": "2026-09-08T10:05:55.165296+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "HIV Infection"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 30,
+        "start_date": "2016-05",
+        "primary_completion_date": "2017-08-30",
+        "completion_date": "2018-01-11",
+        "first_posted_date": "2016-04-13",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Participants With Adverse Events",
+            "timeFrame": "Up to 4 months"
+          }
+        ]
+      },
+      "hash": "2ffb62b6c8cc6ba7f6a08efba597d943d12a5472cb10a74f99596c3e0f55a132"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05507203",
+      "title": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
+      "url": "https://clinicaltrials.gov/study/NCT05507203",
+      "published": "2022-08-18",
+      "retrieved_at": "2026-09-08T10:05:55.166456+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 639,
+        "start_date": "2022-10-10",
+        "primary_completion_date": "2025-06-24",
+        "completion_date": "2025-06-25",
+        "first_posted_date": "2022-08-18",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of subjects who achieve clinical remission per Modified Mayo Score at week 8",
+            "timeFrame": "8 weeks"
+          }
+        ]
+      },
+      "hash": "a71d6c3e3f1e38b50516f8ef1232372b430be6568e6354175c6194dbf9458416"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05507216",
+      "title": "ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2",
+      "url": "https://clinicaltrials.gov/study/NCT05507216",
+      "published": "2022-08-18",
+      "retrieved_at": "2026-09-08T10:05:55.167370+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 636,
+        "start_date": "2022-12-21",
+        "primary_completion_date": "2025-06-24",
+        "completion_date": "2025-07-15",
+        "first_posted_date": "2022-08-18",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of subjects who achieve clinical remission per Modified Mayo Score at week 8",
+            "timeFrame": "8 weeks"
+          }
+        ]
+      },
+      "hash": "6262d36ba96ce86aa9b4497011c17a0e9113368ae57eb0801e6f7044157f0778"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03368118",
+      "title": "Study Evaluating the Long-term Safety and Efficacy of ABX464 in Active Ulcerative Colitis",
+      "url": "https://clinicaltrials.gov/study/NCT03368118",
+      "published": "2017-12-11",
+      "retrieved_at": "2026-09-08T10:05:55.167937+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 22,
+        "start_date": "2018-01-20",
+        "primary_completion_date": "2022-07-12",
+        "completion_date": "2022-08-15",
+        "first_posted_date": "2017-12-11",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Treatment-emergent Adverse Events",
+            "timeFrame": "Through subject study treatment, up to 48 months"
+          }
+        ]
+      },
+      "hash": "8130b7be255c346dcba2d4480e32b7883a1f749d278ae4b12cd512ca6815e10e"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06456593",
+      "title": "Efficacy and Safety of Obefazimod in Subjects With Moderately to Severely Active Crohn's Disease",
+      "url": "https://clinicaltrials.gov/study/NCT06456593",
+      "published": "2024-06-13",
+      "retrieved_at": "2026-09-08T10:05:55.168793+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Moderately to Severely Active Crohn Disease"
+        ],
+        "interventions": [
+          {
+            "name": "Obefazimod",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 212,
+        "start_date": "2024-10-30",
+        "primary_completion_date": "2026-12",
+        "completion_date": "2028-04",
+        "first_posted_date": "2024-06-13",
+        "primary_outcomes": [
+          {
+            "measure": "Induction and maintenance Phase Efficacy- Crohn's Disease Activity Index (CDAI)",
+            "timeFrame": "Week 12 and week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - Simple Endoscopic Score for Crohn's disease (SES-CD)",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - Endoscopic response",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - SES-CD ulcer subscore > 1",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - CDAI clinical remission",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - PRO-2 clinical remission",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - CDAI clinical response",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - PRO-2 clinical response",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - CDAI clinical response and endoscopic response",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Maintenance Phase Efficacy - endoscopic remission",
+            "timeFrame": "Week 52"
+          },
+          {
+            "measure": "Extension Phase Safety- Adverse events",
+            "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+          },
+          {
+            "measure": "Extension Phase Safety - Hematology and coagulation",
+            "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+          },
+          {
+            "measure": "Extension Phase Safety - Biochemistry",
+            "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+          }
+        ]
+      },
+      "hash": "95b0f91136b324943a59f09c862e795a9eebd4945850d488337a706dfe6d221f"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02792686",
+      "title": "ABX464 First in Man Study",
+      "url": "https://clinicaltrials.gov/study/NCT02792686",
+      "published": "2016-06-07",
+      "retrieved_at": "2026-09-08T10:05:55.168923+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Volunteers"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 24,
+        "start_date": "2014-03",
+        "primary_completion_date": "2014-07",
+        "completion_date": "2014-07",
+        "first_posted_date": "2016-06-07",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of patients experiencing at least one Adverse Event",
+            "timeFrame": "Up to 45 days post dosing"
+          }
+        ]
+      },
+      "hash": "928b357fd43ce0b01a6a815bae07f509482897ee28155d9aa8bf3ab84147135c"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02249988",
+      "title": "Clinical Efficacy of ABX203 Therapeutic Vaccine in HBeAg Negative Patients With Chronic Hepatitis B",
+      "url": "https://clinicaltrials.gov/study/NCT02249988",
+      "published": "2014-09-26",
+      "retrieved_at": "2026-09-08T10:05:55.169117+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Chronic Hepatitis B"
+        ],
+        "interventions": [
+          {
+            "name": "ABX203 therapeutic Hepatitis B vaccine treatment arm",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 261,
+        "start_date": "2014-12",
+        "primary_completion_date": "2016-12",
+        "completion_date": "2016-12",
+        "first_posted_date": "2014-09-26",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of subjects with viral load < 40 IU/mL at Week 48.",
+            "timeFrame": "Week 48"
+          }
+        ]
+      },
+      "hash": "7386f6db44543e8bd7ef9eb71df77b2b3167478111dc7458571ef107525b2c4c"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02731885",
+      "title": "Food Effect on Pharmacokinetic Parameters of ABX464",
+      "url": "https://clinicaltrials.gov/study/NCT02731885",
+      "published": "2016-04-08",
+      "retrieved_at": "2026-09-08T10:05:55.169221+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Volunteers"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464 Single dose",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 Repeated dose",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 48,
+        "start_date": "2014-09",
+        "primary_completion_date": "2015-06",
+        "completion_date": "2015-06",
+        "first_posted_date": "2016-04-08",
+        "primary_outcomes": [
+          {
+            "measure": "Area under the plasma concentration versus time curve (AUC) of single oral dose of 50mg of ABX464 in fed or fasted condition.",
+            "timeFrame": "45 days"
+          },
+          {
+            "measure": "Peak Plasma Concentration (Cmax) of single oral dose of 50mg of ABX464 in fed or fasted condition.",
+            "timeFrame": "45 days"
+          }
+        ]
+      },
+      "hash": "73ffa0848592c17a09cc097ce1b50abf047a8dfae5250cc43b6fff12c2f126da"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03897543",
+      "title": "ABX196 in Combination With Nivolumab in Patients With Hepatocellular Carcinoma",
+      "url": "https://clinicaltrials.gov/study/NCT03897543",
+      "published": "2019-04-01",
+      "retrieved_at": "2026-09-08T10:05:55.169367+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Carcinoma, Hepatocellular"
+        ],
+        "interventions": [
+          {
+            "name": "ABX196",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 48,
+        "start_date": "2019-08-30",
+        "primary_completion_date": "2021-06-30",
+        "completion_date": "2023-06-30",
+        "first_posted_date": "2019-04-01",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of adverse events (AEs)",
+            "timeFrame": "Through study completion, an average of 1 year"
+          }
+        ]
+      },
+      "hash": "f68b4ccb18fbb7a141c3891490f32307b2fd1d713bb12fa39a0a853ef5fd5c2c"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05177835",
+      "title": "Long-term Safety and Efficacy Profile of ABX464 in Subjects With Moderate to Severe Active Ulcerative Colitis",
+      "url": "https://clinicaltrials.gov/study/NCT05177835",
+      "published": "2022-01-05",
+      "retrieved_at": "2026-09-08T10:05:55.169595+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 203,
+        "start_date": "2021-12-03",
+        "primary_completion_date": "2028-03",
+        "completion_date": "2028-04",
+        "first_posted_date": "2022-01-05",
+        "primary_outcomes": [
+          {
+            "measure": "Number of adverse events in ABX464 treated subjects",
+            "timeFrame": "From Baseline to a maximum period of 78 months"
+          }
+        ]
+      },
+      "hash": "d55f0db38fef282297a6b94652f4e15ad5f01949ebbb744b2b5666eea60e2a08"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05032560",
+      "title": "Safety and Pharmacokinetics Study in Healthy Japanese Volunteers",
+      "url": "https://clinicaltrials.gov/study/NCT05032560",
+      "published": "2021-09-02",
+      "retrieved_at": "2026-09-08T10:05:55.169716+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Volunteers"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 48,
+        "start_date": "2021-09-27",
+        "primary_completion_date": "2022-02-18",
+        "completion_date": "2022-02-18",
+        "first_posted_date": "2021-09-02",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of adverse events (AEs) and SAEs",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "incidence of treatment-emergent serious adverse events",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "incidence of treatment-emergent adverse events of special interest (AESIs).",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "incidence of clinically significant laboratory abnormalities",
+            "timeFrame": "6 weeks"
+          }
+        ]
+      },
+      "hash": "11402070cb269509c0f1ea760c34f523c3ddef62e8ecbdf5b9f23b73ed6c961a"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04023396",
+      "title": "Efficacy and Safety Study of ABX464 as Maintenance Therapy in Patients With Moderate to Severe Ulcerative Colitis",
+      "url": "https://clinicaltrials.gov/study/NCT04023396",
+      "published": "2019-07-17",
+      "retrieved_at": "2026-09-08T10:05:55.170958+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 217,
+        "start_date": "2020-01-13",
+        "primary_completion_date": "2023-02-23",
+        "completion_date": "2023-02-23",
+        "first_posted_date": "2019-07-17",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of Patients With Clinical Remission at Week 48 Compared to Baseline of Induction Study (ABX464-103)",
+            "timeFrame": "week 48"
+          }
+        ]
+      },
+      "hash": "8c070c573b829e24a72d8f7390d8739db86f1545b9f5b74fdffbe05af7ba314a"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05121714",
+      "title": "Evaluation of the Potential CYP1A2-mediated Drug Drug Interaction Safety, and Tolerability of ABX464",
+      "url": "https://clinicaltrials.gov/study/NCT05121714",
+      "published": "2021-11-16",
+      "retrieved_at": "2026-09-08T10:05:55.171160+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy"
+        ],
+        "interventions": [
+          {
+            "name": "Caffeine",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Fluvoxamine",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 59,
+        "start_date": "2020-12-17",
+        "primary_completion_date": "2021-05-18",
+        "completion_date": "2021-05-18",
+        "first_posted_date": "2021-11-16",
+        "primary_outcomes": [
+          {
+            "measure": "Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Peak Plasma Concentration (Cmax) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464.",
+            "timeFrame": "Day 1, Day 4 and Day 17"
+          },
+          {
+            "measure": "Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Area under the plasma concentration versus time curve (AUC) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464.",
+            "timeFrame": "Day 1, Day 4 and Day 17"
+          },
+          {
+            "measure": "Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Peak Plasma Concentration (Cmax) in the presence and absence of fluvoxamine.",
+            "timeFrame": "Day 1 and Day11"
+          },
+          {
+            "measure": "Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Area under the plasma concentration versus time curve (AUC) in the presence and absence of fluvoxamine.",
+            "timeFrame": "Day 1 and Day 11"
+          }
+        ]
+      },
+      "hash": "cd637f00ba21bf4fabdf8a750a359a8c69c0866d634b78fbec921db69b4bc71f"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02452242",
+      "title": "Safety, PK and PD Study of ABX464 in Untreated HIV Patients",
+      "url": "https://clinicaltrials.gov/study/NCT02452242",
+      "published": "2015-05-22",
+      "retrieved_at": "2026-09-08T10:05:55.171293+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Human Immunodeficiency Virus Infections"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 70,
+        "start_date": "2015-01",
+        "primary_completion_date": "2015-12",
+        "completion_date": "2016-05",
+        "first_posted_date": "2015-05-22",
+        "primary_outcomes": [
+          {
+            "measure": "Safety and tolerability profile of ABX464 as assessed by the change from baseline in laboratory values, in vital signs and ECG parameters at week 3 and by the number of patients with adverse events.",
+            "timeFrame": "Week 3"
+          }
+        ]
+      },
+      "hash": "1b3904085b7b5ee19ccfc212698e9d1db4a56806241e327d142bdbccef0c6164"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04049448",
+      "title": "Study Evaluating the Long-Term Safety and Efficacy of ABX464 in Patients With Moderate to Severe Rheumatoid Arthritis",
+      "url": "https://clinicaltrials.gov/study/NCT04049448",
+      "published": "2019-08-08",
+      "retrieved_at": "2026-09-08T10:05:55.171420+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Rheumatoid Arthritis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 40,
+        "start_date": "2019-10-25",
+        "primary_completion_date": "2023-01-23",
+        "completion_date": "2023-01-23",
+        "first_posted_date": "2019-08-08",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of treatment-emergent adverse events in the ABX464 treated Patients, categorized by severity",
+            "timeFrame": "through study completion (average of 104 weeks)"
+          }
+        ]
+      },
+      "hash": "6a7fd84e307fbc5310e0f5a2e18eef785b4704cc4f8a7cabb472e788806cacf4"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05535946",
+      "title": "ABTECT - Maintenance",
+      "url": "https://clinicaltrials.gov/study/NCT05535946",
+      "published": "2022-09-10",
+      "retrieved_at": "2026-09-08T10:05:55.172426+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 1116,
+        "start_date": "2023-01-16",
+        "primary_completion_date": "2026-04-28",
+        "completion_date": "2030-05",
+        "first_posted_date": "2022-09-10",
+        "primary_outcomes": [
+          {
+            "measure": "Rate of subjects in clinical remission at Week 44",
+            "timeFrame": "Week 44"
+          },
+          {
+            "measure": "Number and percentage of all treatment-emergent adverse events (TEAEs)",
+            "timeFrame": "Week 44"
+          },
+          {
+            "measure": "Number and percentage of all serious adverse events (SAEs)",
+            "timeFrame": "Week 44"
+          },
+          {
+            "measure": "Number and percentage of all causally related TEAEs/SAEs",
+            "timeFrame": "Week 44"
+          }
+        ]
+      },
+      "hash": "0b376a0025cf64476ba87f51c8eecd1cbf2b2d81f0535170fd1bc4770cabace1"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07453784",
+      "title": "Study to Evaluate Pharmacokinetics, Relative Bioavailability, Palatability of Obefazimod Minitablet Formulation",
+      "url": "https://clinicaltrials.gov/study/NCT07453784",
+      "published": "2026-03-06",
+      "retrieved_at": "2026-09-08T10:05:55.172548+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy"
+        ],
+        "interventions": [
+          {
+            "name": "Obefazimod 50 mg Capsule",
+            "type": "DRUG"
+          },
+          {
+            "name": "Obefazimod Minitablet 50 mg",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 44,
+        "start_date": "2026-03-03",
+        "primary_completion_date": "2026-09",
+        "completion_date": "2026-10",
+        "first_posted_date": "2026-03-06",
+        "primary_outcomes": [
+          {
+            "measure": "Maximum Plasma Concentration (Cmax)",
+            "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+          },
+          {
+            "measure": "Area under the plasma concentration versus time curve from time zero up to the last measurable concentration (AUC (0-last)",
+            "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+          },
+          {
+            "measure": "Area under the plasma concentration versus time curve up from time zero to infinity [AUC(0-inf)]",
+            "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+          }
+        ]
+      },
+      "hash": "1a91060d8acf74cbca0ea3b72e2e16a428223843e808b8d836797aadcdd94689"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03813199",
+      "title": "Study of Two Doses of ABX464 in Participants With Moderate to Severe Rheumatoid Arthritis",
+      "url": "https://clinicaltrials.gov/study/NCT03813199",
+      "published": "2019-01-23",
+      "retrieved_at": "2026-09-08T10:05:55.173226+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Rheumatoid Arthritis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464 50mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "Matching Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABX464 100mg",
+            "type": "DRUG"
+          },
+          {
+            "name": "Methotrexate",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 60,
+        "start_date": "2019-07-04",
+        "primary_completion_date": "2021-04-27",
+        "completion_date": "2021-04-27",
+        "first_posted_date": "2019-01-23",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Treatment-emergent Adverse Events in the ABX464 Treated Patients Versus Placebo",
+            "timeFrame": "through study completion, an average of 15 weeks"
+          }
+        ]
+      },
+      "hash": "5d8a69a86e1222c76ac2f4a5a7969a7b8df7c1eb9a8ecd6e4def0fd7b7b5c9b9"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03093259",
+      "title": "ABX464 in Subjects With Moderate to Severe Active Ulcerative Colitis",
+      "url": "https://clinicaltrials.gov/study/NCT03093259",
+      "published": "2017-03-28",
+      "retrieved_at": "2026-09-08T10:05:55.173500+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo oral capsule",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 32,
+        "start_date": "2017-11-16",
+        "primary_completion_date": "2018-07-25",
+        "completion_date": "2019-02-04",
+        "first_posted_date": "2017-03-28",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Subjects With Treatment-emergent Adverse Events",
+            "timeFrame": "Week 8"
+          }
+        ]
+      },
+      "hash": "ade112a61e121638153ff5671d64f4ccd33b4960f7892d80be80bb4bdee1e7a1"
+    },
+    {
+      "company": "ABVX",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03905109",
+      "title": "Phase 2b/3 Study of ABX464 in Moderate to Severe Active Crohn's Disease Patients",
+      "url": "https://clinicaltrials.gov/study/NCT03905109",
+      "published": "2019-04-05",
+      "retrieved_at": "2026-09-08T10:05:55.173593+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "overall_status": "WITHDRAWN",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Crohn Disease"
+        ],
+        "interventions": [
+          {
+            "name": "ABX464",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Abivax S.A.",
+        "enrollment": 0,
+        "start_date": "2022-09-19",
+        "primary_completion_date": "2022-09-19",
+        "completion_date": "2022-09-19",
+        "first_posted_date": "2019-04-05",
+        "primary_outcomes": [
+          {
+            "measure": "The co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of",
+            "timeFrame": "from baseline, at Week 12"
+          },
+          {
+            "measure": "Co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of",
+            "timeFrame": "from baseline, at Week 12"
+          }
+        ]
+      },
+      "hash": "b7202125863f59ff7d077c91c0abcaabf4bec13f0667409cc1ecc91db477379a"
+    }
+  ],
+  "errors": []
+}

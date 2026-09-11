@@ -1,0 +1,52 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05260541",
+  "title": "A Clinical Trial of PRAX-114 in Participants With Post-Traumatic Stress Disorder",
+  "url": "https://clinicaltrials.gov/study/NCT05260541",
+  "published": "2022-03-02",
+  "retrieved_at": "2026-09-07T12:53:43.593448+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Post-traumatic Stress Disorder",
+      "Post Traumatic Stress Disorder",
+      "Stress Disorder",
+      "Stress Disorders, Post-Traumatic",
+      "Trauma and Stressor Related Disorders",
+      "Mental Disorder"
+    ],
+    "interventions": [
+      {
+        "name": "60 mg PRAX-114 or 40 mg PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      },
+      {
+        "name": "40 mg PRAX-114",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 11,
+    "start_date": "2022-01-25",
+    "primary_completion_date": "2022-08-01",
+    "completion_date": "2022-09-23",
+    "first_posted_date": "2022-03-02",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline in the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total score at Day 29",
+        "timeFrame": "29 days"
+      }
+    ]
+  },
+  "hash": "681a8981090c1205b6d8dae3a693aff2b6287b870beda80c2db05ba7700d6517"
+}

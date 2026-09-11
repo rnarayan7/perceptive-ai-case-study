@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA216461",
+  "title": "Drugs@FDA ANDA216461: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A216461",
+  "published": "2023-02-06",
+  "retrieved_at": "2026-09-08T08:40:37.245739+00:00",
+  "metadata": {
+    "manufacturer": "KANCHAN HLTHCARE",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "KANCHAN HLTHCARE",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2023-02-06",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "6221bbb1314945bd0cfcb838ea4cb070dbfbc2b10cf017684bd993af81b4c71d"
+}

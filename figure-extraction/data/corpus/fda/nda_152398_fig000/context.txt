@@ -1,0 +1,112 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               All nonclinical primary pharmacology studies were non-Good Laboratory Practice (GLP)
+               consistant with regulatory expectations.
+               The FDA’s Assessment:
+
+               FDA Please note different nomenclature used in the review: belumosudil (KD025, SLx-2119),
+               metabolite KD025 m1 (SLx-3047), and second metabolite KD025 m2 (SLx-2131).
+
+               In Vitro Activity
+
+               The effects of belumosudil on the activity of ROCK1 and ROCK2 were evaluated in enzymes
+               purified from cell supernatants or tissue homogenates (Study KD025-NCP-2). Full length rat
+               ROCK1 and ROCK2 proteins were isolated from various tumor cell lines or tissues by
+               immunoabsorption to 24-well microtiter plates pre-coated with antibodies specific for each
+               isozyme. Reactions were initiated by the addition of S6 kinase substrate peptide, [γ33P]ATP,
+               and belumusodil and incubated at 37°C for 20 minutes. Reactions were terminated by addition
+               of phosphoric acid and the radioactivity was quantified using standard methods. The results
+               show that belumosudil inhibited ROCK2 enzymatic activity with approximately 30-fold greater
+               inhibition compared to ROCK1; i.e. an IC50 more than 30-fold lower than its inhibitory effect on
+               ROCK1 (Figure 1). Table 5 shows the order of the inhibitory effect of belumosudil, its active
+               metabolite KD025m1, and its second metabolite KD025m2 on ROCK enzymes. Fasudil and Y-
+               27362 are included as reference ROCK inhibitors. The active metabolite KD025m1 inhibited
+               ROCK2 with a comparable Ki value to belumosudil, while inhibition of ROCK2 by the second
+               metabolite KD025m2 was approximately 6-fold lower.
+
+               Figure 1. Inhibition of ROCK 1 and ROCK 2 Enzymatic Activity by Belumosudil
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+
+                                                                     37
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               The Applicant’s Position:
+
+               Belumosudil is a selective Rho-associated, coiled-coil containing protein kinase-2 (ROCK2)
+               inhibitor that is being evaluated for its potential as a therapy for patients with autoimmune and
+               fibrotic disorders.
+
+               In vitro effects of belumosudil on the activity of ROCK1 and ROCK2 were evaluated in enzymes
+               purified from cell supernatants or tissue homogenates and demonstrated selective inhibitory
+               activity for ROCK2 ( [IC50]< 100 nM) compared to ROCK1 (IC50> 3 µM). Further characterization
+               of belumosudil inhibition of ROCK2 activity revealed it to be an adenosine triphosphate (ATP)-
+               competitive interaction. Overall, the in vitro studies demonstrated that belumosudil is a potent,
+               competitive, and selective inhibitor of ROCK2 (Study KD025-NCP-2).
+               Belumosudil has demonstrated an impact on the T-helper 17 (Th17) and Treg- immune
+               responses as well as on the actin/myosin cytoskeletal network and collagen formation. In vitro
+               immune cell activity data specifically demonstrate the role of belumosudil in controlling IL-21
+               and IL-17 secretion in human T cells via regulation that involves signal transducer and activator
+               of transcription (STAT) 3, IRF4 and retinoid-related orphan receptor gamma t (RORγt)( Zanin-
+               Zhorov et al 2014). Moreover, belumosudil leads to increased percentage of Forkhead box P3
+               (Foxp3)+ T cells via a STAT5-dependent mechanism and positively regulates the suppressive
+               function of human regulatory T cells (Zanin-Zhorov et al 2014). This indicates that belumosudil
+               plays an important role in modulating immune homeostasis and shifting the Th17/Treg balance
+               towards the regulatory T cells phenotype. In addition, belumosudil exhibited therapeutically
+               relevant activities in a wide range of cell types and showed pleiotropic anti-fibrotic potential by
+               inhibiting aberrant extracellular matrix production and pro-fibrotic signaling
+               (Study KD025 NCP-3).
+               In vivo, belumosudil has demonstrated efficacy in a variety of clinically relevant animal models
+               of disease including chronic graft versus host disease, scleroderma , idiopathic pulmonary
+               fibrosis (IPF), and other autoimmune diseases. Specifically belumosudil shows efficacy in the
+               following studies that are relevant to cGVHD pathogenesis. Belumosudil significantly improved
+               pulmonary function tests in cGVHD mice with bronchiolitis obliterans syndrome (BOS)
+               (Study KD025-NCP-cGVHD-1). In line with the improvement in respiratory function, belumosudil
+               reduced collagen and antibody deposition in the lung of treated mice. Belumosudil treatment
+               significantly reduced the percentage of Tfh cells and plasma B cells while the percentage of
+               Tregs was increased in the spleen (Flynn et al 2016). Compared to vehicle-treated mice,
+               belumosudil treatment blocked the development of chronic sclerodermatous cGVHD and
+               significantly decreases the GVHD score in mice (Study KD025-NCP-cGVHD-2, Flynn et al 2016).
+               Thus, belumosudil affects both the immunological disbalance as well as significant tissue fibrosis
+               in affected organs in models of cGVHD. The anti-fibrotic therapeutic benefits of belumosudil
+               were also examined in a therapeutic model of pulmonary fibrosis induced with bleomycin in
+               mice (Study KDM/01). Belumosudil has also demonstrated efficacy in a systemic lupus (SLE)
+               model (Study 20131203-1, Weiss et al 2016) and a rheumatoid arthritis model (CIA)
+               (Study KD025-NCP-CIA-1, Zanin-Zhorov et al 2014).
+                                                                     36
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 5. Inhibition ROCK 2 by Belumosudil and the Metabolites KD025m1 and KD025m2
+                Enzyme                              Ki (nM)
+                           KD025      KD025m1 KD025m2          Y-27632    Fasudil
+                ROCK2      40±5       55±2        338±55       45±5       55±5
+               Inhibition of pro-inflammatory cytokines (Zanin-Zhorov 2014)
+               PBMCs were isolated from healthy subjects from a Phase 1 study after once daily oral
+               administration with belumosudil at 120 mg, 240 mg, and 320 mg. PBMCs were activated ex vivo
+               with anti-CD3/CD28 stimulation. The supernatants were analyzed for the secretion of IL-21, IL-
+               17, and IFN-γ after 48 hours by enzyme-linked immunosorbent assay (ELISA). Both IL-21 and IL-
+               17 production were reduced by 90 and 60%, respectively, in cells from belu

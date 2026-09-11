@@ -1,0 +1,1 @@
+Model predicted change in degradation rate constant of free proteins in the endosome fitted to longitudinal albumin data from durvalumab. The profile over time of k deg ( t ) that results from the fitted parameters is shown in Figure 3 .

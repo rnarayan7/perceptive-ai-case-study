@@ -1,0 +1,1 @@
+Kaplan–Meier curve for overall survival (OS) in patients with advanced melanoma treated with lenvatinib plus pembrolizumab (n=9). The number at risk is shown below the x-axis at 0, 3, 6, 9, and 12 months. Median OS was 9.6 months (95% CI, 0.7–10.6) Median PFS was 4.0 months (95% CI, 1.6–4.5), and median OS was 9.6 months (95% CI, 0.7–10.6) ( Figures 2 and 3 ).

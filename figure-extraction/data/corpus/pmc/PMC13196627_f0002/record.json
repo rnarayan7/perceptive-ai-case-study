@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13196627_f0002",
+  "figure_type": "pk_logscale",
+  "title": "Development and non-clinical characterization of Procizumab (invobenitug): a humanized antibody neutralizing circulating DPP3.",
+  "caption": "Results of the a) ADCC, B) ADCP FcyRI, C) ADCP FcyRIIa and D) CDC cell-based reporter assays. Mean luminescence signals from three donors are presented with Procizumab (PCZ) tested either alone (green; 0.001–1 mg/mL) or with DPP3 (turquoise and orange; 10 and 100 ng/mL); results from the isotype control are shown in dark blue negative control (w/o analyte; NC) and positive control (anti-CD20 IgG1 antibody; PC) are displayed in a separate graph. ADCC – antibody-dependent cell mediated cytotoxicity; ADCP – antibody-dependent cellular phagocytosis; CDC – complement-dependent cytotoxicity; FcR – Fc receptor.",
+  "context": "Results of the a) ADCC, B) ADCP FcyRI, C) ADCP FcyRIIa and D) CDC cell-based reporter assays. Mean luminescence signals from three donors are presented with Procizumab (PCZ) tested either alone (green; 0.001–1 mg/mL) or with DPP3 (turquoise and orange; 10 and 100 ng/mL); results from the isotype control are shown in dark blue negative control (w/o analyte; NC) and positive control (anti-CD20 IgG1 antibody; PC) are displayed in a separate graph. ADCC – antibody-dependent cell mediated cytotoxicity; ADCP – antibody-dependent cellular phagocytosis; CDC – complement-dependent cytotoxicity; FcR – Fc receptor. PCZ was not found to have effects related to ADCC, ADCP or CDC in human peripheral blood mononuclear cells (PBMCs) ( Figure 2 ) confirming the absence of unwanted activation of the immune system via these pathways.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196627/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-21",
+  "retrieved_at": "2026-09-07T13:11:19.378152+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13196627",
+    "pmid": "42165222",
+    "journal": "mAbs",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "14d8d30025c1de0b09ecd1a42de64860e02e784617289df6656034885fcad2dc",
+  "image_file": "image.jpg"
+}

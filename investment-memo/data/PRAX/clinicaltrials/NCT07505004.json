@@ -1,0 +1,51 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07505004",
+  "title": "Randomized Clinical Trial Evaluating the Efficacy and Safety of Vormatrigine in Adults With Focal Seizures",
+  "url": "https://clinicaltrials.gov/study/NCT07505004",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T12:53:43.593246+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Focal Epilepsy"
+    ],
+    "interventions": [
+      {
+        "name": "40 mg/day vormatrogine for 12 weeks",
+        "type": "DRUG"
+      },
+      {
+        "name": "30 mg/day vormatrogine for 12 weeks",
+        "type": "DRUG"
+      },
+      {
+        "name": "20 mg/day vormatrogine for 12 weeks",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 300,
+    "start_date": "2026-01-29",
+    "primary_completion_date": "2027-01",
+    "completion_date": "2027-05",
+    "first_posted_date": "2026-04-01",
+    "primary_outcomes": [
+      {
+        "measure": "To evaluate the efficacy of vormatrigine compared to placebo on focal seizure frequency in adults currently taking 1 to 3 ASMs",
+        "timeFrame": "12 weeks"
+      }
+    ]
+  },
+  "hash": "94ea36ba9d22f168b81c1647dcabe23d7e7b3b110742b0ab90127aa282b0554d"
+}

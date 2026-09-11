@@ -1,0 +1,1 @@
+Schematic of the whole-body PBPK model ( A ) and sub-compartments in liver tissue ( B ). Blood flows are indicated by black solid arrows, lymphatic flows are depicted by dashed black arrows, and other cellular processes were presented by green solid arrows. SI: small intestine. LI: large intestine

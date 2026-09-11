@@ -1,0 +1,1 @@
+Kaplan–Meier curves for progression-free survival (PFS) stratified by the prognostic index (PI). Patients with a PI of zero demonstrated significantly longer PFS compared with those in the PI one and two groups. Detailed survival data are provided in  Table 3 . Kaplan–Meier curves for mGPS, PI, PNI, and ALBI grade are shown in Figures 1–4 .

@@ -1,0 +1,13 @@
+Title: Efficacy and Safety of IMVT-1402 in Adult Participants With Primary Sjogren's Disease With Moderate to Severe Systemic Disease Activity
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Primary Sjögren's Syndrome
+Interventions: IMVT-1402 (DRUG), Placebo (DRUG)
+Enrollment: 180
+
+Summary: This is a Phase 2b, multicenter, randomized, double-blinded, placebo-controlled study to assess the efficacy and safety of IMVT-1402 in adult participants with moderate to severe systemic primary Sjogren's disease (SjD).
+
+Primary outcomes:
+- Change from Baseline in clinESSDAI Score at Week 24 for IMVT-1402 Dose 1 compared to Placebo (time frame: Baseline and at Week 24)

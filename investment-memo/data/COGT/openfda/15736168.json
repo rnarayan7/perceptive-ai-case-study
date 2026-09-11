@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "15736168",
+  "title": "FAERS report 15736168: Hepatotoxicity, Wound dehiscence, Dyspnoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:15736168",
+  "published": "2019-01-18",
+  "retrieved_at": "2026-09-08T08:40:57.628094+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Hepatotoxicity",
+      "Wound dehiscence",
+      "Dyspnoea"
+    ],
+    "drugs": [
+      "AVAPRITINIB",
+      "REGORAFENIB."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "98367e45751967214d29804af99a193d06b19b3de746d324db8fea5378a90dc3"
+}

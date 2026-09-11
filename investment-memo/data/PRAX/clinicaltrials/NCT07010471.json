@@ -1,0 +1,47 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07010471",
+  "title": "A Clinical Trial for Participants With DEE to Assess Efficacy, Safety, Tolerability, and PK of Relutrigine",
+  "url": "https://clinicaltrials.gov/study/NCT07010471",
+  "published": "2025-06-08",
+  "retrieved_at": "2026-09-07T12:53:43.591512+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Developmental and Epileptic Encephalopathy 1"
+    ],
+    "interventions": [
+      {
+        "name": "1.0mg/kg/day PRAX-562",
+        "type": "DRUG"
+      },
+      {
+        "name": "1.5mg/kg/day PRAX-562",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 160,
+    "start_date": "2025-07-09",
+    "primary_completion_date": "2026-12",
+    "completion_date": "2027-11",
+    "first_posted_date": "2025-06-08",
+    "primary_outcomes": [
+      {
+        "measure": "To assess the effect of relutrigine on seizure frequency in participants with DEEs compared to placebo",
+        "timeFrame": "16 weeks"
+      }
+    ]
+  },
+  "hash": "748f322f65c5717b7d7c6a006ff5ccdbe469b2f624dc20f1708b4e35c446a6b0"
+}

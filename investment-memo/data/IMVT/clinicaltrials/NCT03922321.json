@@ -1,0 +1,59 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03922321",
+  "title": "Study of RVT-1401 for the Treatment of Patients With Moderate to Severe Active Graves' Ophthalmopathy (GO)",
+  "url": "https://clinicaltrials.gov/study/NCT03922321",
+  "published": "2019-04-19",
+  "retrieved_at": "2026-09-07T12:53:37.947982+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Graves' Ophthalmopathy"
+    ],
+    "interventions": [
+      {
+        "name": "RVT-1401",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 7,
+    "start_date": "2019-04-22",
+    "primary_completion_date": "2020-02-29",
+    "completion_date": "2020-05-21",
+    "first_posted_date": "2019-04-19",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death During the 6-week Treatment Period",
+        "timeFrame": "from Baseline up to Week 6"
+      },
+      {
+        "measure": "Number of Participants With Clinically Significant Findings Related to Vital Signs",
+        "timeFrame": "up to Week 18"
+      },
+      {
+        "measure": "Number of Participants With a Change From Normal Physical Examination Findings at Baseline to Abnormal Physical Examination Findings at the End of the Study",
+        "timeFrame": "up to Week 18"
+      },
+      {
+        "measure": "Number of Participants With Clinically Significant Findings Related to Electrocardiograms (ECGs)",
+        "timeFrame": "up to Week 18"
+      },
+      {
+        "measure": "Percent Change From Baseline in Total Immunoglobulin G (IgG), IgG1, IgG2, IgG3, and IgG4 Levels",
+        "timeFrame": "Baseline; Week 7; Week 6 and 7 combined"
+      },
+      {
+        "measure": "Mean Change From Baseline in Levels of Anti-thyroid-stimulating Hormone Receptor (Anti-TSHR) Antibodies at Week 7",
+        "timeFrame": "Baseline; Week 7"
+      }
+    ]
+  },
+  "hash": "fae39baf5f84a50c2fef38ccbdec90b70f1321e0c467c917cde53d584d99107c"
+}

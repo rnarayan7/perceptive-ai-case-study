@@ -1,0 +1,7 @@
+Drug: MESALAMINE 1,000 MG SUPP
+NDC: 16714024501
+NADAC per unit: $1.28670
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

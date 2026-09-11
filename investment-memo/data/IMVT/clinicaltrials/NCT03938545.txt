@@ -1,0 +1,14 @@
+Title: ASCEND GO-2: Study of RVT-1401 for the Treatment of Participants With Active, Moderate to Severe Graves' Ophthalmopathy ( GO )
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Graves' Ophthalmopathy (GO)
+Interventions: RVT-1401 (Administered via subcutaneous injection) (DRUG), Placebo (Administered via subcutaneous injection) (OTHER)
+Enrollment: 65
+
+Summary: The purpose of the current study is to assess the efficacy and safety/tolerability of three dose regimens of RVT-1401 in the treatment of active, moderate to severe GO participants. In addition, the study is designed to characterize the effect of RVT-1401 exposure on reduction in anti-TSHR IgG
+
+Primary outcomes:
+- Percentage of Participants With Proptosis Response at Week 13 (time frame: Baseline; Week 13)
+- Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (SAEs) (time frame: From Baseline up to Week 20)

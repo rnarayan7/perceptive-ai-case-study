@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CT_MEN02_CRDPREV_2019_2019_AGE1844",
+  "title": "Mental Health - Connecticut - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784258+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Connecticut",
+    "location_abbr": "CT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "15.5",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "673f41675b8af89ece950e0a68f57bf48d73ce61b9b7e40e60741c136cf7c7fe"
+}

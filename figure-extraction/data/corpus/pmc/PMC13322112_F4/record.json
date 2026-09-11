@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13322112_F4",
+  "figure_type": "forest",
+  "title": "Impact of Local Treatment of the Primary Tumor on Overall Survival in &lt;i&gt;De Novo&lt;/i&gt; Metastatic Breast Cancer: A Systematic Review and Meta-analysis.",
+  "caption": "Forest plot of overall survival in patients with hormone receptor–positive de novo metastatic breast cancer receiving local treatment of the primary tumor versus systemic therapy alone. Although a trend toward improved survival was observed, the effect did not reach statistical significance (HR=0.78, 95% CI=0.58–1.04).",
+  "context": "Forest plot of overall survival in patients with hormone receptor–positive de novo metastatic breast cancer receiving local treatment of the primary tumor versus systemic therapy alone. Although a trend toward improved survival was observed, the effect did not reach statistical significance (HR=0.78, 95% CI=0.58–1.04). In hormone receptor–positive disease, local treatment showed a favorable – but non-significant – trend toward improved OS (HR=0.78, 95% CI=0.58–1.04, p =0.0885; Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322112/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:03.337447+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.78 (95% CI 0.58-1.04)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "did not reach statistical significance (HR=0.78, 95% CI=0.58–1.04). In hormone receptor–positive disease,",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.78 (95% CI 0.58-1.04)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "significant – trend toward improved OS (HR=0.78, 95% CI=0.58–1.04, p =0.0885; Figure 4 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13322112",
+    "pmid": "42388582",
+    "journal": "Cancer diagnosis & prognosis",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "3b5e8acba19ee4a5e31a61589458aa9b0e67a73273a7c454c671d86e40e035e9",
+  "image_file": "image.jpg"
+}

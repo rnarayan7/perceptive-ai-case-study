@@ -1,0 +1,41 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10239764",
+  "title": "FAERS report 10239764: Transitional cell carcinoma",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10239764",
+  "published": "2014-08-22",
+  "retrieved_at": "2026-09-08T08:40:13.659313+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Transitional cell carcinoma"
+    ],
+    "drugs": [
+      "SPIRIVA",
+      "BUDESONIDE.",
+      "FOLIC ACID.",
+      "GRAVOL",
+      "CALCIUM",
+      "GLUCOSAMINE",
+      "PULMICORT TURBUHALER",
+      "IMODIUM",
+      "VITAMIN B12",
+      "METHOTREXATE",
+      "ATENOLOL.",
+      "OMEGA 3                            /01334101/",
+      "BRICANYL",
+      "VEDOLIZUMAB",
+      "OMEGA 3                            /01334101/",
+      "INDAPAMIDE.",
+      "AMLODIPINE",
+      "ASA",
+      "GLUCOSAMINE",
+      "VITAMIN C"
+    ],
+    "occurcountry": "CA"
+  },
+  "hash": "b771d7d18b9351a63555553928dac58c80b6c84ded93befb34495f3b9e3b34ae"
+}

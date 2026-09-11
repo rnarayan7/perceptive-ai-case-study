@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13430218_fig2",
+  "figure_type": "spider",
+  "title": "Phase I Study of Rogocekib in Patients with Advanced, Relapsed, or Refractory Malignant Solid Tumors.",
+  "caption": "Efficacy of rogocekib in patients with solid tumors. Patients with measurable target tumor lesions were analyzed for maximum tumor shrinkage. The maximum percentages of tumor shrinkage are plotted in a waterfall plot ( A ). The dashed lines indicate RECIST thresholds for tumor reduction or growth. Spider plots of change in tumor size (%) over time were plotted for each dose level ( B ). Only tumors with target lesions were graphed on this spider plot. Dashed lines indicate RECIST thresholds for tumor growth or reduction.",
+  "context": "Efficacy of rogocekib in patients with solid tumors. Patients with measurable target tumor lesions were analyzed for maximum tumor shrinkage. The maximum percentages of tumor shrinkage are plotted in a waterfall plot ( A ). The dashed lines indicate RECIST thresholds for tumor reduction or growth. Spider plots of change in tumor size (%) over time were plotted for each dose level ( B ). Only tumors with target lesions were graphed on this spider plot. Dashed lines indicate RECIST thresholds for tumor growth or reduction.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430218/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T13:14:11.972480+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13430218",
+    "pmid": "42148878",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "e92ad0fa24cd748e8e455bcf1e2c7671350e9840e26f1d1f75bbfb6dd69bc7e5",
+  "image_file": "image.jpg"
+}

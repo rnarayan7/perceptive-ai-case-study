@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig5",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Local sensitivity study of liver protein AUC (area under the curve) ( A ) and liver mRNA AUC ( B ). Each of the parameters was varied by 50% (decreased or increased), and corresponding fold changes in mRNA/protein AUC from the baseline were plotted. Red bars indicate the fold change due to the increase in the parameter by 50%, and the blue bars indicate the fold change as a result of the parameter reduction by 50%. mRNA dose is fixed to 2 mg/kg and the infusion time is 10 min",
+  "context": "Local sensitivity study of liver protein AUC (area under the curve) ( A ) and liver mRNA AUC ( B ). Each of the parameters was varied by 50% (decreased or increased), and corresponding fold changes in mRNA/protein AUC from the baseline were plotted. Red bars indicate the fold change due to the increase in the parameter by 50%, and the blue bars indicate the fold change as a result of the parameter reduction by 50%. mRNA dose is fixed to 2 mg/kg and the infusion time is 10 min",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.772825+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 5"
+  },
+  "image_hash": "e59fa91a623020d517207ae004d67fe0e14fe750dfaa9d1322c79b5f496c0640",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NJ_MEN02_CRDPREV_2023_2023_AGE4564",
+  "title": "Mental Health - New Jersey - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784598+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "New Jersey",
+    "location_abbr": "NJ",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "13.1",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "b9f80d4f6f255cb30799563bd0ab2c1802f225abde63937757f7094eeb9a5a15"
+}

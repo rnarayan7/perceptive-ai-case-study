@@ -1,0 +1,37 @@
+{
+  "counts": {
+    "total": 2,
+    "scored": 2,
+    "interpretive": 0,
+    "missed": 2
+  },
+  "by_figure_type": {
+    "spider": {
+      "n": 2,
+      "mae": null,
+      "median_error": null,
+      "within_tolerance_rate": 0.0
+    }
+  },
+  "by_family": {
+    "continuous": {
+      "n": 2,
+      "mae": null,
+      "median_error": null,
+      "within_tolerance_rate": 0.0
+    }
+  },
+  "coverage": null,
+  "calibration": {
+    "bins": [],
+    "ece": null,
+    "n": 0
+  },
+  "agreement_vs_error": {
+    "pearson_r": null,
+    "n": 0
+  },
+  "error_categories": {
+    "missed": 2
+  }
+}

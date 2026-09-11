@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13396465_Fig1",
+  "figure_type": "spider",
+  "title": "Methylation-based ctDNA monitoring in metastatic breast cancer during CDK4/6 inhibitor therapy.",
+  "caption": "Baseline ctDNA assessment. A  Baseline genomic alterations in genes of interest. Each column in the oncoplot represents an individual patient; one patient is not shown due to NGS panel sequencing failure in the baseline sample. All somatic variants detected at baseline are included in Supplementary Data  1 . The total number of somatic alterations (detected by the NGS panel) per patient are illustrated at the top of the figure. Each column represents one patient in the cohort. The association between baseline mTF and ( B ) time to CDK4/6i discontinuation and ( C ) overall survival. Participants with detectable ctDNA were separated into groups according to the cohort median baseline mTF (1.23%) with those having undetectable ctDNA at baseline represented separately.  n  = 3 (zero mTF),  n  = 27 (low mTF),  n  = 27 (high mTF). Survival curves were estimated using the Kaplan–Meier method; shaded bands represent 95% confidence intervals.  P -values were derived from two-sided log-rank tests; no adjustments were made for multiple comparisons. Indel insertion/deletion, LGR large genomic rearrangement, LOH loss of heterozygosity.",
+  "context": "Baseline ctDNA assessment. A  Baseline genomic alterations in genes of interest. Each column in the oncoplot represents an individual patient; one patient is not shown due to NGS panel sequencing failure in the baseline sample. All somatic variants detected at baseline are included in Supplementary Data  1 . The total number of somatic alterations (detected by the NGS panel) per patient are illustrated at the top of the figure. Each column represents one patient in the cohort. The association between baseline mTF and ( B ) time to CDK4/6i discontinuation and ( C ) overall survival. Participants with detectable ctDNA were separated into groups according to the cohort median baseline mTF (1.23%) with those having undetectable ctDNA at baseline represented separately.  n  = 3 (zero mTF),  n  = 27 (low mTF),  n  = 27 (high mTF). Survival curves were estimated using the Kaplan–Meier method; shaded bands represent 95% confidence intervals.  P -values were derived from two-sided log-rank tests; no adjustments were made for multiple comparisons. Indel insertion/deletion, LGR large genomic rearrangement, LOH loss of heterozygosity.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396465/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-04",
+  "retrieved_at": "2026-09-07T13:15:29.848798+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13396465",
+    "pmid": "42243127",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 1"
+  },
+  "image_hash": "344275071457622096fa8c6bf4eb9f97ce3aee6f3ffcb46320bfa526e051e04d",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "edgar",
+  "doc_type": "424B5",
+  "doc_id": "000119312526294491",
+  "title": "Abivax S.A. 424B5 (2026-07-02)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526294491/0001193125-26-294491-index.htm",
+  "published": "2026-07-02",
+  "retrieved_at": "2026-09-07T12:53:35.332368+00:00",
+  "metadata": {
+    "accession": "0001193125-26-294491",
+    "cik": 1956827,
+    "form": "424B5",
+    "primary_document": "d111359d424b5.htm",
+    "primary_doc_description": "424B5",
+    "report_date": "",
+    "filing_date": "2026-07-02",
+    "items": "",
+    "company_title": "Abivax S.A.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526294491/d111359d424b5.htm"
+  },
+  "hash": "f5c14f372f3c78bfd069cadd75a099b537f66a3edf719cdb3014945c90730704"
+}

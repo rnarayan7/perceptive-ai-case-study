@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MN_MEN02_CRDPREV_2020_2020_OVR",
+  "title": "Mental Health - Minnesota - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785039+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Minnesota",
+    "location_abbr": "MN",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "19.8",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "a97e8697960b3e1da92001411782100e72225c2546630426a660186e95af222d"
+}

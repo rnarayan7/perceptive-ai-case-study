@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13369242_f4",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of first-line chemoimmunotherapy versus chemotherapy alone for advanced pulmonary lymphoepithelioma-like carcinoma: a systematic review and real-world cohort study.",
+  "caption": "Forest plot of relative risk for grade 3/4 TRAE in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC pulmonary lymphoepithelioma-like carcinoma; TRAE, Treatment-Related Adverse Event.",
+  "context": "Forest plot of relative risk for grade 3/4 TRAE in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC pulmonary lymphoepithelioma-like carcinoma; TRAE, Treatment-Related Adverse Event. Visual inspections using L’Abbé and radial plots, coupled with a leave-one-out sensitivity analysis ( 31 ), identified one small-sample study as the primary source of this heterogeneity ( Supplementary Figure 2 - 4 ). Regarding tolerability, the risk of grade ≥ 3 adverse events (AEs) did not differ significantly between the two arms (pooled RR = 0.94, 95% CI: 0.74–1.19, P = 0.599; I² = 0%), indicating that the addition of first-line immunotherapy did not significantly increase the severe toxicity burden ( Figures 3 , 4 , Table 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13369242/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:27.085433+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13369242",
+    "pmid": "42459654",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "0f0056020dda4ab7632dbe9819f633ef7076681a5fa442bcc64894537a93b091",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0ae4e2d1-305d-4045-95da-cfe7c2d8b435",
+  "title": "Label: lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0ae4e2d1-305d-4045-95da-cfe7c2d8b435",
+  "published": "2022-04-21",
+  "retrieved_at": "2026-09-08T08:40:34.885679+00:00",
+  "metadata": {
+    "brand_name": "lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "MSN LABORATORIES PRIVATE LIMITED",
+    "manufacturer_name": "MSN LABORATORIES PRIVATE LIMITED",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA204921",
+    "route": "ORAL"
+  },
+  "hash": "a94f1a3b7eab8163e11ee606bfe1c1f610737dd077ef96c41ee73389d2e14356"
+}

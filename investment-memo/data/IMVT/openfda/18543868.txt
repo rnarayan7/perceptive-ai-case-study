@@ -1,0 +1,4 @@
+FAERS adverse-event report 18543868 (comparator: efgartigimod)
+Serious: yes
+Reactions: Pneumonia, Dysstasia, Limb discomfort, Gait disturbance, Mobility decreased, Fall, Skin abrasion, Insurance issue, Joint injury, Hypoaesthesia, Infusion site extravasation, Asthenia, Infusion site pruritus, Muscle spasms, Back pain
+Reported drugs: HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, VYVGART, DIPHENHYDRAMINE, COMBIGAN, RITUXAN, EPINEPHRINE, SODIUM CHLORIDE, ACETAMINOPHEN, TRAVOPROST, HEPARIN, DEXTROSE, VITAMIN D, PRIVIGEN, DIPHENHYDRAMINE HYDROCHLORIDE, ADVIL, VYVGART HYTRULO

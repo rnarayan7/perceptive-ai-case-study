@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-PR_MEN02_CRDPREV_2023_2023_AGE65P",
+  "title": "Mental Health - Puerto Rico - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785472+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Puerto Rico",
+    "location_abbr": "PR",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "14.9",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "812e2c8cbc003b68c6981e0fb9d088652fec94c69faf12c4f64564d652f8657f"
+}

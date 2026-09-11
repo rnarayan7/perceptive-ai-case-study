@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IA_MEN02_CRDPREV_2021_2021_AGE65P",
+  "title": "Mental Health - Iowa - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784979+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Iowa",
+    "location_abbr": "IA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "12.5",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "6bcba9e928087dba0d352e9683a7f5fbd9a6a32e672fe7411b1ce1722957743d"
+}

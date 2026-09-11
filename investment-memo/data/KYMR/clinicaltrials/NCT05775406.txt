@@ -1,0 +1,14 @@
+Title: Safety and Clinical Activity of KT-253 in Adult Patients with High Grade Myeloid Malignancies, Acute Lymphocytic Leukemia, Lymphoma, Solid Tumors
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Myeloid Malignancies, Acute Lymphocytic Leukemia, Lymphomas, Advanced Solid Tumors
+Interventions: KT-253 (DRUG)
+Enrollment: 52
+
+Summary: This Phase 1 study will evaluate the safety, tolerability, pharmacokinetics/pharmacodynamics (PK/PD), and clinical activity of KT-253 in adult patients with relapsed or refractory (R/R) high grade myeloid malignancies, acute lymphocytic leukemia (ALL), R/R lymphoma, myelofibrosis, and R/R solid tumors. The study will identify the pharmacologically optimal dose(s) (MTD) of KT-253 as the recommended Phase 2 dose (RP2D), based on all safety, PK, PD, and efficacy data.
+
+Primary outcomes:
+- Incidence and severity of adverse events (time frame: From the time of signing ICF through 30 days after last dose of study drug or prior to start of a new anticancer therapy)
+- Maximum Tolerated Dose (MTD) and recommended Phase 2 dose (RP2D) in Patients (time frame: From the time of the first dose of study drug through 30 days after the last dose of study drug or prior to start of a new anticancer therapy)

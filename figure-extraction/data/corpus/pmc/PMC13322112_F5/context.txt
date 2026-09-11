@@ -1,0 +1,1 @@
+Forest plot of overall survival in HER2-positive patients. A random-effects model was used. No statistically significant difference in overall survival was observed between locoregional treatment and systemic therapy alone (HR=0.90, 95% CI=0.61–1.33). No survival advantage was observed in HER2-positive tumors (HR=0.90, 95% CI=0.61–1.33) ( Figure 5 ).

@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "1aa7a886-c726-cc91-e063-6294a90a1af1",
+  "title": "Label: Pyridostigmine Bromide (PYRIDOSTIGMINE BROMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=1aa7a886-c726-cc91-e063-6294a90a1af1",
+  "published": "2026-02-12",
+  "retrieved_at": "2026-09-08T08:40:55.168094+00:00",
+  "metadata": {
+    "brand_name": "Pyridostigmine Bromide",
+    "generic_name": "PYRIDOSTIGMINE BROMIDE",
+    "manufacturer": "Method Pharmaceuticals, LLC",
+    "manufacturer_name": "Method Pharmaceuticals, LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA211181",
+    "route": "ORAL"
+  },
+  "hash": "11517d1b96144ea1afbe1f6a9091684e10f28f094bc84ef60421684bc9e602d9"
+}

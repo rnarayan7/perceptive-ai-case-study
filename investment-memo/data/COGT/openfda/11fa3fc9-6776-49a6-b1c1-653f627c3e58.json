@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "11fa3fc9-6776-49a6-b1c1-653f627c3e58",
+  "title": "Label: RYDAPT",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=11fa3fc9-6776-49a6-b1c1-653f627c3e58",
+  "published": "2026-06-08",
+  "retrieved_at": "2026-09-08T08:40:59.949115+00:00",
+  "metadata": {
+    "brand_name": "RYDAPT",
+    "generic_name": "RYDAPT",
+    "manufacturer": "Novartis Pharmaceuticals Corporation",
+    "manufacturer_name": "Novartis Pharmaceuticals Corporation",
+    "pharm_class_epc": "Kinase Inhibitor [EPC]",
+    "pharm_class_moa": "Receptor Tyrosine Kinase Inhibitors [MoA]",
+    "application_number": "NDA207997",
+    "route": "ORAL"
+  },
+  "hash": "93fce71ab0f8a000df812b91bef30ee91573513bab8c416b6bca5d71fe5647b8"
+}

@@ -1,0 +1,85 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02990325",
+  "title": "A Safety, Pharmacokinetics, and Pharmacodynamics Study of ABX464 in HIV-1 Seronegative and Seropositive Adults",
+  "url": "https://clinicaltrials.gov/study/NCT02990325",
+  "published": "2016-12-13",
+  "retrieved_at": "2026-09-07T12:53:29.793032+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "HIV Infections",
+      "Health Volunteers"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464 150mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 50mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 50mg",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 36,
+    "start_date": "2017-03-27",
+    "primary_completion_date": "2018-12-27",
+    "completion_date": "2019-10-21",
+    "first_posted_date": "2016-12-13",
+    "primary_outcomes": [
+      {
+        "measure": "Area Under the Curve (AUC) of ABX464 in Sera",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Maximum Observed Concentration (Cmax) of ABX464 in Sera",
+        "timeFrame": "Day 1, Day 28 and day 84"
+      },
+      {
+        "measure": "Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Maximum Observed Concentration (Cmax) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC)",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Area Under the Curve (AUC) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC)",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC)",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC)",
+        "timeFrame": "Day 1, Day 28 and Day 84"
+      },
+      {
+        "measure": "Concentration of ABX464 in Rectal Tissue (Measured Only at Pre-infusion Timepoint)",
+        "timeFrame": "Day 1, Day 28, Day 56, Day 84 and Day 112"
+      },
+      {
+        "measure": "Concentration of ABX464 Metabolite (ABX464-N-Glucuronide) in Rectal Tissue (Measured Only at Pre-infusion Timepoint)",
+        "timeFrame": "Day 1, Day 28, Day 56, Day 84 and Day 112"
+      }
+    ]
+  },
+  "hash": "a13d01206fd3026e2ec015daf2294fd5548be247dce174c44e5f0eaab1e4ad33"
+}

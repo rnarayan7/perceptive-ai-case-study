@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13220056_f5",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of immune checkpoint inhibitors combined with tyrosine kinase inhibitors in patients with metastatic renal cell carcinoma: a risk-stratified systematic review and meta-analysis.",
+  "caption": "Forest plots of treatment-related adverse events.  (A)  Random-effects model forest plot of any-grade TRAEs.  (B)  Random-effects model forest plot of grade ≥3 TRAEs.",
+  "context": "Forest plots of treatment-related adverse events.  (A)  Random-effects model forest plot of any-grade TRAEs.  (B)  Random-effects model forest plot of grade ≥3 TRAEs. The combined RR was 1.02 (95% CI 1.00–1.04, P = 0.08, random-effects model), indicating no significant difference ( Figure 5A ). Moderate between-study inconsistency was observed (I² = 60%, P = 0.04) ( Figure 5B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13220056/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-15",
+  "retrieved_at": "2026-09-07T13:06:55.292728+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13220056",
+    "pmid": "42220544",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "e0bd08bde428d1df91c6121a42733d442246d7a31f9d82ac1bac2c923b453325",
+  "image_file": "image.jpg"
+}

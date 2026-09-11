@@ -1,0 +1,118 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 9: Study AALL1331 LR OS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 31 December 2020
+               Source: FDA Analysis
+
+
+               FDA Table 19: Study AALL1331 LR OS Summary
+
+
+
+
+               Data cutoff date: 31 December 2020
+               Source: FDA Analysis
+               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model
+               (unstratified).
+
+
+               Subpopulations
+
+               Data:
+
+               N/A
+
+                                                                         113
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+               FDA Figure 8: Study AALL1331 HR/IR OS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 30 September 2020
+               Source: FDA Analysis
+
+
+
+               FDA Table 18: Study AALL1331 HR/IR OS Summary
+
+
+
+
+               Data cutoff date: 30 September 2020
+               Source: FDA Analysis
+               Abbreviations: CI = Confidence Interval, MRD = minimal residual disease, HR = hazard ratio calculated based on Cox
+               Proportional Hazard model (unstratified).
+
+
+
+
+                                                                         112
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The FDA’s Assessment:
+
+               No definitive conclusions can be drawn based on MRD positive and negative subgroups due
+               to limited number of observed events.
+
+               FDA Table 20 and FDA Table 21 summarize OS results by subgroups. FDA Table 21 shows
+               results for HR/IR population only because few events were observed in the LR population.
+
+               FDA Table 20: Study AALL1331 OS by Age Subgroups
+
+
+
+
+               Data cutoff date: 31 December 2020 (LR), 30 September 2020 (HR/IR)
+               Source: FDA Analysis
+               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model
+               (unstratified).
+
+
+               FDA Table 21: Study AALL1331 OS by Subgroups
+
+
+
+
+               Data cutoff date: 30 September 2020 (HR/IR)
+               Source: FDA Analysis
+               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model
+               (unstratified).
+
+
+               In general, the subgroup analyses support the efficacy of blinatumomab.
+
+                                                                         114
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

@@ -1,0 +1,263 @@
+false2026Q20001689548December 31P2YP5YP2YP5Yxbrli:sharesiso4217:USDiso4217:USDxbrli:sharesprax:platformprax:candidateprax:securityxbrli:pureprax:obligationprax:segment00016895482026-01-012026-06-3000016895482026-07-3100016895482026-06-3000016895482025-12-3100016895482026-04-012026-06-3000016895482025-04-012025-06-3000016895482025-01-012025-06-300001689548us-gaap:CommonStockMember2025-12-310001689548us-gaap:AdditionalPaidInCapitalMember2025-12-310001689548us-gaap:RetainedEarningsMember2025-12-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-12-310001689548us-gaap:AdditionalPaidInCapitalMember2026-01-012026-03-3100016895482026-01-012026-03-310001689548prax:FollowOnOfferingMember2026-01-012026-03-310001689548us-gaap:CommonStockMemberprax:FollowOnOfferingMember2026-01-012026-03-310001689548us-gaap:AdditionalPaidInCapitalMemberprax:FollowOnOfferingMember2026-01-012026-03-310001689548us-gaap:CommonStockMember2026-01-012026-03-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-01-012026-03-310001689548us-gaap:RetainedEarningsMember2026-01-012026-03-310001689548us-gaap:CommonStockMember2026-03-310001689548us-gaap:AdditionalPaidInCapitalMember2026-03-310001689548us-gaap:RetainedEarningsMember2026-03-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-3100016895482026-03-310001689548us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001689548us-gaap:CommonStockMember2026-04-012026-06-300001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001689548us-gaap:RetainedEarningsMember2026-04-012026-06-300001689548us-gaap:CommonStockMember2026-06-300001689548us-gaap:AdditionalPaidInCapitalMember2026-06-300001689548us-gaap:RetainedEarningsMember2026-06-300001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001689548us-gaap:CommonStockMember2024-12-310001689548us-gaap:AdditionalPaidInCapitalMember2024-12-310001689548us-gaap:RetainedEarningsMember2024-12-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-12-3100016895482024-12-310001689548us-gaap:AdditionalPaidInCapitalMember2025-01-012025-03-3100016895482025-01-012025-03-310001689548prax:AtTheMarketOfferingMember2025-01-012025-03-310001689548us-gaap:CommonStockMemberprax:AtTheMarketOfferingMember2025-01-012025-03-310001689548us-gaap:AdditionalPaidInCapitalMemberprax:AtTheMarketOfferingMember2025-01-012025-03-310001689548us-gaap:CommonStockMember2025-01-012025-03-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-01-012025-03-310001689548us-gaap:RetainedEarningsMember2025-01-012025-03-310001689548us-gaap:CommonStockMember2025-03-310001689548us-gaap:AdditionalPaidInCapitalMember2025-03-310001689548us-gaap:RetainedEarningsMember2025-03-310001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-3100016895482025-03-310001689548us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001689548prax:AtTheMarketOfferingMember2025-04-012025-06-300001689548us-gaap:CommonStockMemberprax:AtTheMarketOfferingMember2025-04-012025-06-300001689548us-gaap:AdditionalPaidInCapitalMemberprax:AtTheMarketOfferingMember2025-04-012025-06-300001689548us-gaap:CommonStockMember2025-04-012025-06-300001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001689548us-gaap:RetainedEarningsMember2025-04-012025-06-300001689548us-gaap:CommonStockMember2025-06-300001689548us-gaap:AdditionalPaidInCapitalMember2025-06-300001689548us-gaap:RetainedEarningsMember2025-06-300001689548us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-3000016895482025-06-300001689548prax:FollowOnOfferingMember2026-01-012026-06-300001689548prax:FollowOnOfferingMember2025-01-012025-06-300001689548prax:AtTheMarketOfferingMember2026-01-012026-06-300001689548prax:AtTheMarketOfferingMember2025-01-012025-06-300001689548us-gaap:SoftwareAndSoftwareDevelopmentCostsMember2026-06-300001689548srt:MinimumMemberus-gaap:SoftwareAndSoftwareDevelopmentCostsMember2026-06-300001689548srt:MaximumMemberus-gaap:SoftwareAndSoftwareDevelopmentCostsMember2026-06-300001689548us-gaap:SoftwareAndSoftwareDevelopmentCostsMember2026-01-012026-06-300001689548us-gaap:PrepaidExpenseAndOtherAssetsCurrent2026-06-300001689548us-gaap:OtherAssetsNoncurrent2026-06-300001689548srt:MinimumMember2026-06-300001689548srt:MaximumMember2025-12-310001689548us-gaap:MoneyMarketFundsMember2026-06-300001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMember2026-06-300001689548us-gaap:CorporateDebtSecuritiesMember2026-06-300001689548us-gaap:AssetBackedSecuritiesMember2026-06-300001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember2026-06-300001689548us-gaap:OtherDebtSecuritiesMember2026-06-300001689548us-gaap:MoneyMarketFundsMember2025-12-310001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMember2025-12-310001689548us-gaap:CorporateDebtSecuritiesMember2025-12-310001689548us-gaap:AssetBackedSecuritiesMember2025-12-310001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember2025-12-310001689548us-gaap:OtherDebtSecuritiesMember2025-12-310001689548us-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2026-06-300001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2026-06-300001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2026-06-300001689548us-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:FairValueInputsLevel3Member2025-12-310001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:USGovernmentAgenciesDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2025-12-310001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:CorporateDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2025-12-310001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:AssetBackedSecuritiesMemberus-gaap:FairValueInputsLevel3Member2025-12-310001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMemberus-gaap:FairValueInputsLevel3Member2025-12-310001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel1Member2025-12-310001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel2Member2025-12-310001689548us-gaap:OtherDebtSecuritiesMemberus-gaap:FairValueInputsLevel3Member2025-12-3100016895482026-03-010001689548prax:TenaciaMemberus-gaap:LicenseMember2024-01-040001689548prax:TenaciaMember2024-01-042024-01-040001689548prax:TenaciaMember2024-01-0400016895482024-01-040001689548prax:TenaciaMember2024-01-012024-01-310001689548prax:TenaciaMemberus-gaap:LicenseMember2024-01-310001689548prax:TenaciaMember2026-06-300001689548prax:TenaciaMember2026-01-012026-06-300001689548prax:January2024FollowOnOfferingMember2024-01-162024-01-160001689548prax:January2024FollowOnOfferingMember2024-01-160001689548us-gaap:OverAllotmentOptionMember2024-01-162024-01-160001689548prax:PreFundedWarrantMemberprax:January2024FollowOnOfferingMember2024-01-160001689548prax:PreFundedWarrantMembersrt:MaximumMember2026-01-012026-06-300001689548prax:PreFundedWarrantMember2026-01-012026-06-300001689548prax:PreFundedWarrantMemberprax:January2024PublicOfferingMember2025-01-012025-12-310001689548prax:PreFundedWarrantMemberprax:January2024FollowOnOfferingMember2025-12-310001689548prax:PreFundedWarrantMemberprax:January2024PublicOfferingMember2026-01-012026-06-300001689548prax:PreFundedWarrantMemberprax:January2024FollowOnOfferingMember2026-06-300001689548prax:April2024PublicOfferingMember2024-04-022024-04-020001689548prax:April2024PublicOfferingMember2024-04-020001689548us-gaap:OverAllotmentOptionMember2024-04-022024-04-020001689548prax:PreFundedWarrantMemberprax:April2024PublicOfferingMember2024-04-020001689548prax:PreFundedWarrantMembersrt:MaximumMemberprax:April2024PublicOfferingMember2026-01-012026-06-300001689548prax:PreFundedWarrantMemberprax:April2024PublicOfferingMember2026-01-012026-06-300001689548prax:October2025PublicOfferingMember2025-10-202025-10-200001689548prax:October2025PublicOfferingMember2025-10-200001689548us-gaap:OverAllotmentOptionMember2025-10-202025-10-200001689548prax:PreFundedWarrantMemberprax:October2025PublicOfferingMember2025-10-200001689548prax:PreFundedWarrantMembersrt:MaximumMemberprax:October2025PublicOfferingMember2026-01-012026-06-300001689548prax:PreFundedWarrantMemberprax:October2025PublicOfferingMember2026-01-012026-06-300001689548prax:January2026PublicOfferingMember2026-01-072026-01-070001689548prax:January2026PublicOfferingMember2026-01-070001689548us-gaap:OverAllotmentOptionMember2026-01-072026-01-070001689548us-gaap:EmployeeStockOptionMember2026-06-300001689548us-gaap:EmployeeStockOptionMember2025-12-310001689548prax:PreFundedWarrantMemberprax:January2024FollowOnOfferingMember2026-06-300001689548prax:PreFundedWarrantMemberprax:January2024FollowOnOfferingMember2025-12-310001689548prax:PreFundedWarrantMemberprax:April2024FollowOnOfferingMember2026-06-300001689548prax:PreFundedWarrantMemberprax:April2024FollowOnOfferingMember2025-12-310001689548prax:PreFundedWarrantMemberprax:October2025FollowOnOfferingMember2026-06-300001689548prax:PreFundedWarrantMemberprax:October2025FollowOnOfferingMember2025-12-310001689548prax:TwentyTwentyEmployeeStockIncentivePlanMemberus-gaap:StockCompensationPlanMember2026-06-300001689548prax:TwentyTwentyEmployeeStockIncentivePlanMemberus-gaap:StockCompensationPlanMember2025-12-310001689548prax:TwentyTwentyEmployeeStockPurchasePlanMemberus-gaap:StockCompensationPlanMember2026-06-300001689548prax:TwentyTwentyEmployeeStockPurchasePlanMemberus-gaap:StockCompensationPlanMember2025-12-310001689548prax:InducementPlanMemberus-gaap:StockCompensationPlanMember2026-06-300001689548prax:InducementPlanMemberus-gaap:StockCompensationPlanMember2025-12-310001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2026-06-300001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2025-12-310001689548prax:InducementPlanMember2025-01-012025-01-310001689548prax:InducementPlanMember2026-06-300001689548prax:InducementPlanMember2025-12-310001689548prax:A2020EmployeeStockIncentivePlanMember2026-06-300001689548prax:A2020EmployeeStockIncentivePlanMember2025-12-310001689548prax:A2017EmployeeStockIncentivePlanMember2026-06-300001689548prax:A2017EmployeeStockIncentivePlanMember2025-12-310001689548prax:TwentyTwentyEmployeeStockPurchasePlanMember2026-06-300001689548prax:TwentyTwentyEmployeeStockPurchasePlanMember2025-12-310001689548us-gaap:RestrictedStockMember2025-12-310001689548us-gaap:RestrictedStockMember2026-01-012026-06-300001689548us-gaap:RestrictedStockMember2026-06-300001689548prax:UnvestedRestrictedStockUnitsMember2026-06-300001689548prax:UnvestedRestrictedStockUnitsMember2026-01-012026-06-300001689548us-gaap:PerformanceSharesMembersrt:MinimumMember2026-01-310001689548us-gaap:PerformanceSharesMembersrt:MaximumMember2026-01-310001689548us-gaap:PerformanceSharesMember2025-12-310001689548us-gaap:PerformanceSharesMember2026-01-012026-06-300001689548us-gaap:PerformanceSharesMember2026-06-300001689548us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001689548us-gaap:ResearchAndDevelopmentExpense2026-04-012026-06-300001689548us-gaap:ResearchAndDevelopmentExpense2025-04-012025-06-300001689548us-gaap:ResearchAndDevelopmentExpense2026-01-012026-06-300001689548us-gaap:ResearchAndDevelopmentExpense2025-01-012025-06-300001689548us-gaap:GeneralAndAdministrativeExpense2026-04-012026-06-300001689548us-gaap:GeneralAndAdministrativeExpense2025-04-012025-06-300001689548us-gaap:GeneralAndAdministrativeExpense2026-01-012026-06-300001689548us-gaap:GeneralAndAdministrativeExpense2025-01-012025-06-300001689548us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001689548us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001689548us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001689548us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2026-04-012026-06-300001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2025-04-012025-06-300001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2026-01-012026-06-300001689548prax:RestrictedStockUnitsAndPerformanceStockUnitsMember2025-01-012025-06-300001689548us-gaap:EmployeeStockMember2026-04-012026-06-300001689548us-gaap:EmployeeStockMember2025-04-012025-06-300001689548us-gaap:EmployeeStockMember2026-01-012026-06-300001689548us-gaap:EmployeeStockMember2025-01-012025-06-300001689548prax:UlixacaltamideMemberprax:ReportableSegmentMember2026-04-012026-06-300001689548prax:UlixacaltamideMemberprax:ReportableSegmentMember2025-04-012025-06-300001689548prax:UlixacaltamideMemberprax:ReportableSegmentMember2026-01-012026-06-300001689548prax:UlixacaltamideMemberprax:ReportableSegmentMember2025-01-012025-06-300001689548prax:VormatrigineMemberprax:ReportableSegmentMember2026-04-012026-06-300001689548prax:VormatrigineMemberprax:ReportableSegmentMember2025-04-012025-06-300001689548prax:VormatrigineMemberprax:ReportableSegmentMember2026-01-012026-06-300001689548prax:VormatrigineMemberprax:ReportableSegmentMember2025-01-012025-06-300001689548prax:RelutrigineMemberprax:ReportableSegmentMember2026-04-012026-06-300001689548prax:RelutrigineMemberprax:ReportableSegmentMember2025-04-012025-06-300001689548prax:RelutrigineMemberprax:ReportableSegmentMember2026-01-012026-06-300001689548prax:RelutrigineMemberprax:ReportableSegmentMember2025-01-012025-06-300001689548prax:ElsunersenMemberprax:ReportableSegmentMember2026-04-012026-06-300001689548prax:ElsunersenMemberprax:ReportableSegmentMember2025-04-012025-06-300001689548prax:ElsunersenMemberprax:ReportableSegmentMember2026-01-012026-06-300001689548prax:ElsunersenMemberprax:ReportableSegmentMember2025-01-012025-06-300001689548prax:OtherEarlyStateAssetsMemberprax:ReportableSegmentMember2026-04-012026-06-300001689548prax:OtherEarlyStateAssetsMemberprax:ReportableSegmentMember2025-04-012025-06-300001689548prax:OtherEarlyStateAssetsMemberprax:ReportableSegmentMember2026-01-012026-06-300001689548prax:OtherEarlyStateAssetsMemberprax:ReportableSegmentMember2025-01-012025-06-300001689548prax:ReportableSegmentMember2026-04-012026-06-300001689548prax:ReportableSegmentMember2025-04-012025-06-300001689548prax:ReportableSegmentMember2026-01-012026-06-300001689548prax:ReportableSegmentMember2025-01-012025-06-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 10-Q
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2026
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from  to
+
+Commission File Number: 001-39620
+
+PRAXIS PRECISION MEDICINES, INC.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+Delaware
+
+47-5195942
+
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+99 High Street, 30th Floor
+
+Boston, MA
+
+02110
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+617-300-8460
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+PRAX
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes ☒   No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes ☒   No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   Yes  ☐   No  ☒
+
+As of July 31, 2026, the registrant had 27,919,988 shares of common stock, $0.0001 par value per share, outstanding.
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q contains express or implied forward-looking statements that are based on our management’s belief and assumptions and on information currently available to our management. Although we believe that the expectations reflected in these forward-looking statements are reasonable, these statements relate to future events or our future operational or financial performance, and involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+
+•our expectations surrounding potential regulatory submissions, progress or approvals and timing thereof for any of our product candidates;
+
+•the success, cost and timing of our product candidate development activities and clinical trials;
+
+•our expectations regarding our ability to obtain and maintain intellectual property protection for our product candidates;
+
+•the ability to license additional intellectual property relating to our product candidates from third parties and to comply with our existing license agreements and collaboration agreements;
+
+•the ability and willingness of our third-party research institution collaborators to continue research and development activities relating to our product candidates;
+
+•our ability to commercialize our product candidates, if approved, in light of the intellectual property rights of others;
+
+•our ability to fund our operations and obtain additional funding, if necessary, to complete further development and, if approved, commercialization of our product candidates;
+
+•the commercialization of our product candidates, if approved;
+
+•our plans to research, develop and, if approved, commercialize our product candidates;
+
+•future agreements with third parties in connection with the commercialization of our product candidates, if approved, and any other approved product;
+
+•the size and growth potential of the markets for our product candidates, and our ability to serve those markets;
+
+•the rate and degree of market acceptance of our product candidates, if approved;
+
+•the pricing and reimbursement of our product candidates, if approved;
+
+•regulatory developments in the United States and foreign countries;
+
+•our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately;
+
+•the success of competing therapies that are or may become available;
+
+•our ability to attract and retain key scientific or management personnel; and
+
+•the accuracy of our estimates regarding expenses, future revenue, capital requirements and needs for additional financing.
+
+In some cases, you can identify forward-looking statements by terminology such as “may,” “should,” “expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “continue” or the negative of these terms or other comparable terminology. These statements are only predictions. You should not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties, and other factors, which are, in some cases, beyond our control and which could materially affect results. Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under the
+
+sections titled "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2025. If one or more of these risks or uncertainties occur, or if our underlying assumptions prove to be incorrect, actual events or results may vary significantly from those implied or projected by the forward-looking statements. No forward-looking statement is a guarantee of future performance. You should read this Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed with the Securities and Exchange Commission as exhibits hereto completely and with the understanding that our actual future results may be materially different from any future results expressed or implied by these forward-looking statements.
+
+The forward-looking statements in this Quarterly Report on Form 10-Q represent our views as of the date of this Quarterly Report on Form 10-Q. We anticipate that subsequent events and developments will cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so except to the extent required by applicable law. You should therefore not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Quarterly Report on Form 10-Q.
+
+This Quarterly Report on Form 10-Q also contains estimates, projections and other information concerning our industry, our business and the markets for our product candidates. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances that are assumed in this information. Unless otherwise expressly stated, we obtained this industry, business, market, and other data from our own internal estimates and research as well as from reports, research surveys, studies, and similar data prepared by market research firms and other third parties, industry, medical and general publications, government data and similar sources. While we are not aware of any misstatements regarding any third-party information presented in this Quarterly Report on Form 10-Q, their estimates, in particular, as they relate to projections, involve numerous assumptions, are subject to risks and uncertainties and are subject to change based on various factors, including those discussed under the section titled “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025.
+
+Table of Contents
+
+Page
+
+PART I.
+
+FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements (Unaudited)
+
+Condensed Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025
+
+1
+
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended June 30, 2026 and 2025
+
+2
+
+Condensed Consolidated Statements of Comprehensive Loss for the Three and Six Months Ended June 30, 2026 and 2025
+
+3
+
+Condensed Consolidated Statements of Stockholders’ Equity for the Three and Six Months Ended June 30, 2026 and 2025
+
+4
+
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2026 and 2025
+
+6
+
+Notes to Condensed Consolidated Financial Statements
+
+7
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+19
+
+Item 3.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+29
+
+Item 4.
+
+Controls and Procedures
+
+30
+
+PART II.
+
+OTHER INFORMATION
+
+31
+
+Item 1.
+
+Legal Proceedings
+
+31
+
+Item 1A.
+
+Risk Factors
+
+31
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+31
+
+Item 3.
+
+Defaults Upon Senior Securities
+
+31
+
+Item 4.
+
+Mine Safety Disclosures
+
+31
+
+Item 5.
+
+Other Information
+
+31
+
+Item 6.
+
+Exhibits
+
+32
+
+Signatures
+
+33
+
+PART I—FINANCIAL INFORMATION

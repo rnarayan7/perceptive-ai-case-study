@@ -1,0 +1,36 @@
+{
+  "company": "COGT",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "5329102",
+  "title": "N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5329102",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:41:05.228497+00:00",
+  "metadata": {
+    "cid": 5329102,
+    "query_name": "sunitinib",
+    "molecular_formula": "C22H27FN4O2",
+    "molecular_weight": "398.5",
+    "smiles": "CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\\2/C3=C(C=CC(=C3)F)NC2=O)C",
+    "iupac_name": "N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+    "synonyms": [
+      "Sunitinib",
+      "557795-19-4",
+      "SU11248",
+      "sunitinibum",
+      "SU-11248",
+      "Su-011248",
+      "NSC-750690",
+      "N-[2-(diethylamino)ethyl]-5-{[(3Z)-5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-ylidene]methyl}-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+      "SU011248",
+      "N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+      "NSC-736511",
+      "V99T50803M",
+      "n-(2-(diethylamino)ethyl)-5-((z)-(5-fluoro-1,2-dihydro-2-oxo-3h-indol-3-ylidene)methyl)-2,4-dimethyl-1h-pyrrole-3-carboxamide",
+      "DTXSID1041134",
+      "CHEBI:38940"
+    ]
+  },
+  "hash": "538365343fa7646746af44c77ad56126d37dd2104e91b7caa91aec9cc629e569"
+}

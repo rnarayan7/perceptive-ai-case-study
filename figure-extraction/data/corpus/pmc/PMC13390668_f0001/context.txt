@@ -1,0 +1,1 @@
+Kaplan–Meier curves for survival outcomes in the study population. ( A ) Progression-free survival. ( B ) Overall survival. Tick marks indicate censored observations. Numbers at risk are presented below the x-axis. Estimated PFS and OS are shown in Figure 1A and B , respectively.

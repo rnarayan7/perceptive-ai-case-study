@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13381212_f3",
+  "figure_type": "kaplan_meier",
+  "title": "The effects of brain radiotherapy combined with immunotherapy and chemotherapy for driver gene-negative non-small-cell lung cancer with brain metastases.",
+  "caption": "Kaplan–Meier curves of radiotherapy modalities before and after IPTW.  (A)  OS of patients with different radiotherapy modalities before IPTW;  (B)  IPFS of patients with different radiotherapy modalities before IPTW;  (C)  PFS of patients with different radiotherapy modalities before IPTW;  (D)  OS of patients with different radiotherapy modalities after IPTW;  (E)  IPFS of patients with different radiotherapy modalities after IPTW;  (F)  PFS of patients with different radiotherapy modalities after IPTW. SRS, stereotactic radiosurgery; WBRT, whole-brain radiotherapy; IPFS, Intracranial progression-free survival; OS, Overall survival; PFS, Progression-free survival.",
+  "context": "Kaplan–Meier curves of radiotherapy modalities before and after IPTW.  (A)  OS of patients with different radiotherapy modalities before IPTW;  (B)  IPFS of patients with different radiotherapy modalities before IPTW;  (C)  PFS of patients with different radiotherapy modalities before IPTW;  (D)  OS of patients with different radiotherapy modalities after IPTW;  (E)  IPFS of patients with different radiotherapy modalities after IPTW;  (F)  PFS of patients with different radiotherapy modalities after IPTW. SRS, stereotactic radiosurgery; WBRT, whole-brain radiotherapy; IPFS, Intracranial progression-free survival; OS, Overall survival; PFS, Progression-free survival. Before IPTW, the OS of WBRT group was shorter than SRS group, and this difference was statistically significant (HR1.84, 95% CI 1.25–2.72, P = 0.002) ( Figure 3A ). However, this difference disappeared after IPTW ( Figure 3D ) and there was no difference in IPFS ( Figures 3B, E ) or IPFS ( Figures 3C, F ) between the two groups.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13381212/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-06",
+  "retrieved_at": "2026-09-07T12:54:23.909415+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13381212",
+    "pmid": "42518814",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "14ac092f174095771756ac64e508b8bf2dfd0208184a2233c269841ae8ef9613",
+  "image_file": "image.jpg"
+}

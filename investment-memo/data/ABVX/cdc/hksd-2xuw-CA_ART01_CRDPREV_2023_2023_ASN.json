@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CA_ART01_CRDPREV_2023_2023_ASN",
+  "title": "Arthritis - California - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003716+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "California",
+    "location_abbr": "CA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "16.1",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Asian, non-Hispanic"
+  },
+  "hash": "baad74b08ad0cb669c8f4dbfb10b868058c63f30269178ce84a4791f4f08d5c5"
+}

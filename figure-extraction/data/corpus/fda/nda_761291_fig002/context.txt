@@ -1,0 +1,76 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+               SET                       Safety Evaluation Team
+               SOC                       system organ class
+               SPR                       surface plasmon resonance
+               TEAE                      treatment-emergent adverse event
+               TGI                       tumor growth inhibition
+               TK                        toxicokinetic
+               Tmax                      maximum plasma concentration
+               TTR                       time to response
+               US                        United States
+               VGPR                      very good partial response
+               WOE                       weight of evidence
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              18
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+               subcutaneously (SC) followed by teclistamab 1.5 mg/kg SC once weekly thereafter, until disease
+               progression or unacceptable toxicity. The primary efficacy endpoint was overall response rate
+               (ORR) assessed by an Independent Review Committee (IRC).
+
+               Patients in the efficacy population (N=110) had a median age of 66 years (range 33 to 82) and
+               received a median of 5 prior lines of therapy (range 2 to 14); 78% of patients had at least 4 prior
+               lines of therapy, 20% had only 3 prior lines, and 1.8% had only 2 prior lines. All patients were
+               triple-class exposed (i.e., received a prior PI, IMiD, and anti-CD38 mAb) and 76% were triple-class
+               refractory. The ORR in the efficacy population was 61.8% (95% CI: 52.1, 70.9). At the time of the
+               09 Nov 2021 efficacy data cut-off, with a median follow-up of 7.4 months among responders, the
+               median duration of response (DOR) was not reached (95% CI: 9.0, not estimable), and the
+               estimated DOR rate was 90.6% (95% CI: 80.3, 95.7) at 6 months and 66.5% (95% CI: 38.8, 83.9) at
+               9 months.
+
+               The primary safety population (N=165) included all patients treated at the RP2D in phase 1
+               (N=40) and phase 2 Cohort A (N=125). The key safety concerns for teclistamab are cytokine
+               release syndrome (CRS) and neurologic toxicity, including immune effector cell-associated
+               neurotoxicity syndrome (ICANS). Other safety concerns include hepatotoxicity, infections,
+               neutropenia, and hypersensitivity and other administration-related reactions. Recommendations
+               are included in the Warnings and Precautions section of the teclistamab U.S. Prescribing
+               Information (USPI) to mitigate these risks, and further mitigation strategies for CRS and
+               neurologic toxicity, including ICANS, are discussed below.
+
+               CRS and neurologic toxicity were common, occurring in 72% and 57% of patients, respectively,
+               treated with teclistamab at the recommended dose. CRS was Grade 1 (50%) or Grade 2 (21%) in
+               most patients, and primarily occurred during the initial step-up dosing schedule; however, CRS
+               was common despite consistent use of pre-medications, one patient (0.6%) had Grade 3 CRS,
+               2.4% of patients developed the first occurrence of CRS after completion of step-up dosing, and
+               33% of patients had recurrent CRS. Neurologic toxicity included headache in 25% of patients,
+               motor dysfunction in 16%, sensory neuropathy in 15%, and encephalopathy in 13%. Grade 3 or 4
+               neurologic adverse events (AEs) occurred in 2.4% of patients; with longer follow-up (based on
+               the 120-day Safety Update) there were two additional patients with serious neurologic AEs of
+               Grade 4 seizure and fatal (Grade 5) Guillain Barré syndrome. ICANS occurred in 6% of patients. All
+               ICANS events were Grade 1 or 2 and most occurred during the initial step-up dosing schedule;
+               however, 2.4% of patients developed the first occurrence of ICANS after completion of step-up
+               dosing and 1.8% of patients had recurrent ICANS. Patients in the trial were monitored closely,
+               with hospitalization required for at least 48 hours following each dose in the initial step-up
+               dosing schedule, and for the next dose of teclistamab following events of CRS and neurologic
+               toxicity that met specified criteria based on severity.
+
+               The USPI will include Boxed Warnings to communicate the risks of CRS and neurologic toxicity,
+               including ICANS, and will state that patients should be hospitalized for 48 hours after each dose
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              20
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

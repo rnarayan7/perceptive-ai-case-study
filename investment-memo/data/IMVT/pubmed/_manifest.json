@@ -1,0 +1,121 @@
+{
+  "company": "IMVT",
+  "source": "pubmed",
+  "started_at": "2026-09-08T10:07:17.919406+00:00",
+  "finished_at": "2026-09-08T13:31:31.125935+00:00",
+  "documents": [
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "36182620",
+      "title": "New Therapies for the Treatment of Warm Autoimmune Hemolytic Anemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36182620/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:07:20.755952+00:00",
+      "metadata": {
+        "journal": "Transfusion medicine reviews",
+        "year": "2022",
+        "pmid": "36182620"
+      },
+      "hash": "db14a48868319151a3ce05f1a594d0eec0072113cbff934e520ab1cccf4dd0de"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "36346684",
+      "title": "Future Projections in Thyroid Eye Disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36346684/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:07:20.757343+00:00",
+      "metadata": {
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2022",
+        "pmid": "36346684"
+      },
+      "hash": "1581c493c497dd3adce445ee80cc4cc2e5f55a48c5975ce7f451aa4291074814"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42559692",
+      "title": "New horizons for autoimmune hyperthyroidism with FcRn blockers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559692/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:07:20.757896+00:00",
+      "metadata": {
+        "journal": "Current opinion in endocrinology, diabetes, and obesity",
+        "year": "2026",
+        "pmid": "42559692"
+      },
+      "hash": "bcacbc85cb4471591d5d2a8735e25b69d614b06a482268b843e9cfda23fd92e1"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42257855",
+      "title": "Targeting FcRn for immunomodulation: a promising therapy in autoimmune inflammatory rheumatic diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42257855/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:07:20.761532+00:00",
+      "metadata": {
+        "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "year": "2026",
+        "pmid": "42257855"
+      },
+      "hash": "66fb7e94aa23d09d10bc21adcf07b1a0a477aeef65a654006372a9ce6b88a2f7"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42093402",
+      "title": "Unveiling the geographical signature of black tea through UHPLC-quadrupole-Orbitrap Exploris HRMS analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42093402/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:07:20.762075+00:00",
+      "metadata": {
+        "journal": "Analytical methods : advancing methods and applications",
+        "year": "2026",
+        "pmid": "42093402"
+      },
+      "hash": "d553b03ec8bc88a366dcfe526815d772480034dcf182876144a5bcb60a05e997"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "22644837",
+      "title": "The incidence and prevalence of thyroid autoimmunity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22644837/",
+      "published": "2012-01-01",
+      "retrieved_at": "2026-09-08T13:31:31.122432+00:00",
+      "metadata": {
+        "journal": "Endocrine",
+        "year": "2012",
+        "pmid": "22644837"
+      },
+      "hash": "d5e7d197d28458c1e36607415070d4f5f75e436392b2bfae09affe46331508c3"
+    },
+    {
+      "company": "IMVT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "11836274",
+      "title": "Serum TSH, T(4), and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11836274/",
+      "published": "2002-01-01",
+      "retrieved_at": "2026-09-08T13:31:31.122977+00:00",
+      "metadata": {
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2002",
+        "pmid": "11836274"
+      },
+      "hash": "80337d91b51b1b2831c03590dee55842aeae6e34f287aa3d663da9e13d560408"
+    }
+  ],
+  "errors": []
+}

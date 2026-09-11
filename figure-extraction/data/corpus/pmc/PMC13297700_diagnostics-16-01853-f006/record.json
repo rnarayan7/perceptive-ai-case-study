@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13297700_diagnostics-16-01853-f006",
+  "figure_type": "waterfall",
+  "title": "Bridging Machine Learning and Clinical Endpoints: A METABRIC-Informed Simulation Study of Missing Data Imputation for RECIST-Based Best Overall Response",
+  "caption": "Waterfall plot of best percent change from baseline in tumor size for individual patients from the Stein–Fojo simulated dataset, stratified by HER2 status. Each bar represents the maximum tumor reduction (or minimum percent change) observed for a patient across all follow-up visits up to 48 months, ordered from greatest reduction to greatest increase. Horizontal dashed lines indicate RECIST thresholds for partial response (−30%) and progressive disease (+20%).",
+  "context": "Waterfall plot of best percent change from baseline in tumor size for individual patients from the Stein–Fojo simulated dataset, stratified by HER2 status. Each bar represents the maximum tumor reduction (or minimum percent change) observed for a patient across all follow-up visits up to 48 months, ordered from greatest reduction to greatest increase. Horizontal dashed lines indicate RECIST thresholds for partial response (−30%) and progressive disease (+20%). Compared to the Gompertz model, the Stein–Fojo simulation exhibits more aggressive tumor growth, with maximum percent change exceeding 100%, and a smoother transition around the stable disease region near 0% change ( Figure 6 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297700/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T12:56:30.514886+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13297700",
+    "pmid": null,
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "14a4ed839e25d2d66897cad846284029782df2d439180766b6f0b613f5e0222e",
+  "image_file": "image.jpg"
+}

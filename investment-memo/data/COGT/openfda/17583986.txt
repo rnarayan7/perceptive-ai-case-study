@@ -1,0 +1,4 @@
+FAERS adverse-event report 17583986 (comparator: avapritinib)
+Serious: yes
+Reactions: Dialysis
+Reported drugs: AYVAKIT

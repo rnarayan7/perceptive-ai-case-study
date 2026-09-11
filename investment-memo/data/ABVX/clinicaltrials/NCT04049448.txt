@@ -1,0 +1,13 @@
+Title: Study Evaluating the Long-Term Safety and Efficacy of ABX464 in Patients With Moderate to Severe Rheumatoid Arthritis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Rheumatoid Arthritis
+Interventions: ABX464 (DRUG)
+Enrollment: 40
+
+Summary: A phase 2a open-label study to evaluate the long-term safety and efficacy of ABX464 50mg as maintenance therapy in patients with moderate to severe rheumatoid arthritis.
+
+Primary outcomes:
+- Incidence of treatment-emergent adverse events in the ABX464 treated Patients, categorized by severity (time frame: through study completion (average of 104 weeks))

@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13367496_f0003",
+  "figure_type": "kaplan_meier",
+  "title": "A Novel Prognostic Model Based on Prognostic Nutritional Index and Systemic Immune-Inflammation Index for Cancer Patients Treated with Immune Checkpoint Inhibitors.",
+  "caption": "Prognostic significance of PNI-SII score in cancer patients receiving immune checkpoint inhibitors (ICIs). Kaplan–Meier curves for the association of PNI-SII score with overall survival ( A ) and progression-free survival ( B ) in cancer patients receiving ICIs. Number-at-risk tables are shown below each Kaplan–Meier curve. Median survival times with corresponding 95% confidence intervals were reported for each PNI-SII score group. For OS, the median survival times were 20.0 months (95% CI: 16.50–23.49) for score 0, 11.0 months (95% CI: 9.21–12.79) for score 1, and 8.0 months (95% CI: 6.14–9.86) for score 2. For PFS, the median survival times were 12.0 months (95% CI: 9.65–14.36) for score 0, 7.0 months (95% CI: 6.31-7.69) for score 1, and 5.0 months (95% CI: 4.00–6.00) for score 2.",
+  "context": "Prognostic significance of PNI-SII score in cancer patients receiving immune checkpoint inhibitors (ICIs). Kaplan–Meier curves for the association of PNI-SII score with overall survival ( A ) and progression-free survival ( B ) in cancer patients receiving ICIs. Number-at-risk tables are shown below each Kaplan–Meier curve. Median survival times with corresponding 95% confidence intervals were reported for each PNI-SII score group. For OS, the median survival times were 20.0 months (95% CI: 16.50–23.49) for score 0, 11.0 months (95% CI: 9.21–12.79) for score 1, and 8.0 months (95% CI: 6.14–9.86) for score 2. For PFS, the median survival times were 12.0 months (95% CI: 9.65–14.36) for score 0, 7.0 months (95% CI: 6.31-7.69) for score 1, and 5.0 months (95% CI: 4.00–6.00) for score 2. The survival analysis demonstrated that the PNI-SII score effectively stratified the OS ( Figure 3A ) and PFS ( Figure 3B ), where patients with score 0 had the best prognosis and the opposite was for those with score 2.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13367496/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:52:04.125675+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "20.0",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "r each PNI-SII score group. For OS, the median survival times were 20.0 months (95% CI: 16.50–23.49) for score 0, 11.0",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "12.0",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "I: 6.14–9.86) for score 2. For PFS, the median survival times were 12.0 months (95% CI: 9.65–14.36) for score 0, 7.0 m",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13367496",
+    "pmid": "42453699",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "8c64b905159ab09e21102051993f13ff1282bfb19ba61c9722e49d4754197f37",
+  "image_file": "image.jpg"
+}

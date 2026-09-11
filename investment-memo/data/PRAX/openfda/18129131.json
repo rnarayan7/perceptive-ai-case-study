@@ -1,0 +1,30 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "18129131",
+  "title": "FAERS report 18129131: Diarrhoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:18129131",
+  "published": "2020-08-10",
+  "retrieved_at": "2026-09-08T08:40:31.673523+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Diarrhoea"
+    ],
+    "drugs": [
+      "DIAZEPAM.",
+      "DIVALPROEX",
+      "EPIDIOLEX",
+      "CENOBAMATE.",
+      "ZONISAMIDE.",
+      "EPIDIOLEX",
+      "AMITRIPTYLINE",
+      "SIMVASTATIN.",
+      "LEVOTHYROXINE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "53cb7072fc192306dd6c1ec177cd429ba48b119d3ee0c7687b10ee11f2c6a3f5"
+}

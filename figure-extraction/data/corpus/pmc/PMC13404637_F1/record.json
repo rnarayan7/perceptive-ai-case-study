@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13404637_F1",
+  "figure_type": "table",
+  "title": "Randomized phase II trial of nivolumab and ipilimumab with or without stereotactic body radiation therapy in patients with metastatic castration-resistant prostate cancer: the CheckPRO, CA209-8TY trial.",
+  "caption": "Consort flow diagram of patients enrolled in the CA209-8TY, CheckPRO trial. TRAE, treatment-related adverse event.",
+  "context": "Consort flow diagram of patients enrolled in the CA209-8TY, CheckPRO trial. TRAE, treatment-related adverse event. Patients and methods Trial design and patients The CheckPRO trial (CA209-8TY) was a single-center, investigator-initiated, randomized trial conducted at Herlev and Gentofte Hospital, Copenhagen, Denmark ( online supplemental figure 1 ). Three of these received ICIs reinduction within the 52-week follow-up period ( figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13404637/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T13:27:09.462929+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13404637",
+    "pmid": "42493213",
+    "journal": "Journal for immunotherapy of cancer",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "c9a19753d166b63c9633c0c2296d730d21640253167172adca1f2716765b7eb1",
+  "image_file": "image.jpg"
+}

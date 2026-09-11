@@ -1,0 +1,13 @@
+Title: ABX464 in Subjects With Moderate to Severe Active Ulcerative Colitis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 (DRUG), Placebo oral capsule (DRUG)
+Enrollment: 32
+
+Summary: This Phase IIa study is an 8-week, double-blind, placebo-controlled, randomized study aiming at evaluating the safety and the efficacy of ABX464 given once a day (o.d) at 50 mg in subjects with moderate to severe Active Ulcerative Colitis who have failed or are intolerant to immunomodulators, Anti-TNFα, vedolizumab and/or corticosteroids followed by a one-month follow-up period.
+
+Primary outcomes:
+- Number of Subjects With Treatment-emergent Adverse Events (time frame: Week 8)

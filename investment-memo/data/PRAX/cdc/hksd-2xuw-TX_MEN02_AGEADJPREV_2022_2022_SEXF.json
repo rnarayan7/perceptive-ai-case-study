@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-TX_MEN02_AGEADJPREV_2022_2022_SEXF",
+  "title": "Mental Health - Texas - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785530+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Texas",
+    "location_abbr": "TX",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "24.9",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "b948faf22cf4c46bff9682fff8634d7f8aef7ac3c12ca9591c697422e73fa927"
+}

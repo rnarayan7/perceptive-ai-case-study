@@ -1,0 +1,130 @@
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+
+
+
+             FDA Figure 1: Antitumor activity observed in prophylactic and established MM tumor models
+                                      (Figure excerpted from Applicant's submission)
+
+
+
+
+               Left: Prevention of tumorigenesis in H929 prophylactic model; right: TGI activity in RPMI-8226 established model
+
+               Secondary Pharmacology
+
+               The Applicant’s Position:
+               No secondary pharmacology studies have been conducted.
+
+               The FDA’s Assessment:
+               We agree that no secondary pharmacology studies were conducted or are needed to support the
+               approval of BLA 761291.
+
+               Safety Pharmacology
+
+               The Applicant’s Position:
+               The cynomolgus monkey was selected as the only pharmacologically relevant species for the
+               nonclinical PK and toxicology assessments of teclistamab based on cross-species comparisons of
+               sequence homology, relative target-binding affinities, and functional activity in cell-based assays.
+
+               Separate safety pharmacology studies were not conducted with teclistamab; however, the
+               5-week GLP study in cynomolgus monkey incorporated cardiovascular, respiratory as well as
+               observational CNS assessments (body temperature and clinical signs).
+
+               There were no teclistamab-related effects on examined cardiovascular, respiratory, or CNS
+               parameters associated with IV administration up to 30 mg/kg/week in cynomolgus monkey.
+
+               The FDA’s Assessment:
+               We agree the cynomolgus monkey is a pharmacologically-relevant nonclinical species to assess
+               the safety pharmacology of teclistamab, and we agree there were no teclistamab-related effects
+               on safety pharmacology parameters in the 5-week repeat-dose toxicity study. We note that CNS
+               endpoints in the 5-week study were evaluated by clinical observations only.
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                  40
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               are known to express BCMA. Peak binding for the H929, MM.1R, and RPMI 8226 cell lines was
+               observed at ~60 nM, and the binding intensity correlated with the cell surface BCMA expression
+               level. A similar binding pattern was observed for a control bsAb that binds BCMA but not CD3
+               (BCMAxnull); however, a control bsAb that binds CD3 but not BCMA (nullxCD3) did not
+               specifically bind any of the cell lines under the conditions tested. Teclistamab did not bind the
+               AML cell line MV4-11 that does not express BCMA. Teclistamab was not an agonist of BCMA
+               receptor signaling in a BCMA signaling assay that measured p38 phosphorylation.
+
+               The pharmacologic activity of teclistamab was evaluated in a T-cell redirected lysis assay with the
+               aforementioned cell lines as target cells and human T-cells as effector cells; this assay measured
+               target cell lysis, T-cell activation, and cytokine release. Lysis of the BCMA-expressing target cell
+               lines (EC50=0.07-0.70 nM; maximum lysis=81-92%) was observed, but there was no lysis of the
+               negative control target cell line MV4-11. Target cell lysis correlated with the induction of the T-
+               cell activation marker CD25 (EC50=0.15-0.50 nM; maximum activation=67-82%). The presence of
+               cytokines was assessed in the assays with the H929 and RPMI8226 target cells only; IFNγ, TNFα,
+               IL-2, IL-6, IL-8, and IL-10 were detected in these assay supernatants. Teclistamab did not activate
+               T-cells in the absence of target cells. The BCMAxnull and nullxCD3 control bsAbs did not
+               demonstrate any lytic activity, the potential to activate T-cells, or induce cytokine release under
+               the conditions tested.
+
+               The in vivo antitumor activity of teclistamab was evaluated in human MM xenograft mouse
+               studies. Both prophylactic and established tumor models were evaluated. In the prophylactic
+               model, NSG mice were first intravenously implanted with human PBMCs, and 7 days later the
+               mice were subcutaneously implanted with H929 human MM cells (study day 1); mice were then
+               intravenously administered teclistamab (0.1, 0.5, or 1 μg) or control bsAbs on study days 1, 4, 6,
+               8, and 11. In the established tumor model, NSG mice were first subcutaneously implanted with
+               RPMI-8226 human MM cells, and 18 days later the mice were intravenously implanted with
+               human PBMCs (study day 1); mice were then intravenously administered teclistamab (0.1 or 1
+               μg) or control bsAbs on study Days 8, 11, 13, 15, 18, and 25. In the prophylactic model,
+               teclistamab prevented tumorigenesis at doses ≥0.5 µg (see FDA Figure 1, left). In the established
+               tumor model, modest antitumor activity was observed at 0.1 µg, but no antitumor activity was
+               observed at 1 µg (data not shown). The established tumor model study was repeated under
+               similar overall conditions, but with human pan T-cells intraperitoneally implanted in place of
+               human PBMCs, and higher doses of teclistamab (1, 10, or 50 µg, IP) or nullxCD3 control bsAb
+               administered on study Days 26, 29, 33, 36, 40, 43, 47, and 50. In the repeated established tumor
+               model study, teclistamab demonstrated significant antitumor activity at doses ≥10 µg (see FDA
+               Figure 1, right).
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              39
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                         5.3 Referenced NDAs, BLAs, DMFs
+
+               The Applicant’s Position:
+               There are no referenced NDAs, BLA, or Drug Master Files related to nonclinical pharmacology or
+               toxicology for teclistamab.
+
+               The FDA’s Assessment:
+               We agree that no other applications are being referenced to support the approval of BLA
+               761291.
+
+                         5.4 ADME/PK
+
+               The Applicant’s Position:
+               The nonclinical PK program characterized the linearity, dose proportionality, and immunogenicity
+               of teclistamab in cynomolgus monkeys, the pharmacologically relevant species (see Section 5.3).
+
+               •        In repeat-dose IV toxicity studies dosed for up to 5 weeks, most cynomolgus monkeys
+                        administered teclistamab weekly demonstrated continuous exposure at concentrations
+                        expected to be pharmacologic based on in vitro assays.
+
+               •        At doses >0.1 mg/kg/week, systemic exposure increased in a dose-proportional manner,
+                        with no apparent sex-related differences and minimal accumulation (approximately 2-fold)
+                        in the study.
+
+       

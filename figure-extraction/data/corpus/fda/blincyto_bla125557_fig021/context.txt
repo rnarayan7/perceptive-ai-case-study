@@ -1,0 +1,127 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Table 9: Study 20120215 OS by Subgroups
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+               Abbreviations: HC3 = High-Risk Consolidation 3, CI = Confidence Interval, NA = not applicable, HR = hazard ratio calculated
+               based on Cox Proportional Hazard model (unstratified).
+
+
+               In general, the subgroup analyses support the efficacy of blinatumomab.
+
+
+               Efficacy Results – Exploratory and COA (PRO) Endpoints
+               The Applicant’s Position:
+
+               N/A
+
+               The FDA’s Assessment:
+               No exploratory or PRO endpoints were evaluated.
+
+               Additional Analyses Conducted on the Individual Trial
+
+               As presented in the previous sections, ad hoc analyses for this study were performed to
+               provide longer follow-up time and to assess efficacy baseline MRD status.
+
+
+                                                                           88
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               Subpopulations
+
+               Data:
+
+               To evaluate the consistency of EFS in subgroups, subgroup analyses were performed to
+               estimate the treatment effect in subpopulations using a Cox regression analysis. Subgroup
+               analyses for EFS included the following subgroups: age based on stratification; bone
+               marrow/MRD status based on stratification; 6 strata formed by the combination of the
+               stratification factors; age for disclosure; sex; time from first diagnosis to relapse (Table 7-10
+               of Study 20120215 Supplemental Analysis CSR).
+               The blinatumomab treatment effect was relatively consistent across bone marrow/MRD
+               status based on stratification, age based on stratification, 6 strata formed by the
+               combination of the stratification factors, age for disclosure, and time from first diagnosis to
+               relapse. The estimated hazard ratios within the treatment groups were all < 1 and
+               directionally favored blinatumomab treatment. The results from this analysis were
+               consistent with the results from the primary analysis (Section 10.1 of the 20120215 Primary
+               Analysis CSR). Similar results were observed in subgroup analyses for OS.
+
+               The Applicant’s Position:
+
+               The estimated hazard ratios within the treatment groups were all < 1 and directionally
+               favored blinatumomab treatment, showing that the blinatumomab treatment effect was
+               consistent across the various subgroups.
+
+               The FDA’s Assessment:
+
+               No definitive conclusions can be drawn based on MRD positive and negative subgroups due
+               to limited number of observed events.
+
+               FDA Table 9 summarizes OS results by subgroups.
+
+
+
+
+                                                                   87
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The Applicant’s Position:
+
+               N/A
+
+               The FDA’s Assessment:
+
+               Relapse-Free Survival
+
+               Relapse-free survival (RFS) is defined as the time from randomization until the date of
+               relapse or death due to any cause, whichever occurs first. FDA's analysis of RFS was
+               assessed based on FDA’s re-adjudication of bone marrow and MRD data.
+
+               FDA Figure 6 and FDA Table 10 summarize RFS results. Hazard ratio is 0.38 (95% CI: 0.22,
+               0.66), demonstrating RFS advantage of the blinatumomab group. Median RFS in the HC3
+               group is 7.8 (95% CI: 5.8, 13.4) months. Median RFS in the blinatumomab group is non-
+               estimable due to few events.
+
+
+               FDA Figure 6: Study 20120215 RFS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+
+
+
+
+                                                                   89
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

@@ -1,0 +1,115 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               Applicant Figure 1. Study Design and Treatment Schema for Study 20120215
+
+
+
+
+               The FDA’s Assessment:
+               FDA agrees with the trial design overview, description of randomization, and identification
+               of endpoints. Specifically, the primary endpoint, EFS, was defined as the time from
+               randomization to relapse or M2 marrow after having achieved a CR, failure to achieve a CR
+               at the end of treatment, second malignancy, or death due to any cause, whichever occurs
+               first.
+
+               Key Eligibility Criteria
+               The Applicant’s Description:
+               Pediatric subjects between > 28 days and < 18 years of age with high-risk first relapse
+               Philadelphia chromosome-negative B cell ALL (as defined by I-BFM-SG/IntReALL criteria)
+               were eligible for this study. Enrollment was restricted to subjects with M1 or M2 marrow at
+               the time of randomization. M1 bone marrow was defined as representative bone marrow
+               aspirate or biopsy with < 5% blasts, satisfactory cellularity, regenerating hematopoiesis,
+               peripheral blood without blasts, and absence of extramedullary leukemic involvement. M2
+               was defined as representative bone marrow aspirate or biopsy with ≥ 5% and < 25% blasts.
+               M3 bone marrow was defined as representative bone marrow aspirate or biopsy with
+               ≥ 25% blasts. Subjects with clinically relevant central nervous system (CNS) pathology
+               requiring treatment, such as unstable epilepsy, and evidence of current CNS (CNS2, CNS3)
+               involvement were excluded. Subjects with CNS relapse at the time of relapse were eligible if
+               CNS pathology was successfully treated prior to enrollment.
+
+                                                                   45
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               investigating the efficacy and safety of blinatumomab as consolidation therapy versus
+               intensive standard late consolidation chemotherapy in pediatric subjects (> 28 days and <
+               18 years of age) with high-risk first relapsed B-cell precursor ALL (as defined by International
+               Berlin-Frankfurt-Munster [I-BFM] Study Group/International Study for Children and
+               Adolescents with Relapsed ALL [IntReALL] criteria). Study 20120215 was developed in
+               consultation with IntReALL Consortium, which formed the worldwide largest international
+               study for children and adolescents with relapsed ALL, lntReALL 2010 (Section 4.1.1.1 of
+               Module 2.5). Patients in the IntReALL 2010 study were stratified into standard-risk and
+               high-risk studies according to established prognostic factors (see Table 2 of Module 2.5)
+               (IntReALL 2017; Locatelli et al, 2012). The high-risk first relapsed ALL patient population was
+               defined as patients with very early relapse (< 18 months from initial diagnosis) at any
+               anatomical site or early isolated bone marrow relapse (≥ 18 months after primary diagnosis
+               and < 6 months from completion of front-line therapy). In the IntReALL high-risk (HR) 2010
+               protocol, eligible high-risk first relapsed subjects received induction therapy and 2 blocks of
+               high-risk consolidation therapy (HC1 and HC2) (summarized in Appendix 2 of Module 2.7.3
+               [Summary of Clinical Efficacy]).
+               Following induction and 2 blocks of high-risk consolidation therapy, eligible high-risk
+               subjects could enter Study 20120215 as a third consolidation therapy. Because the IntReALL
+               HR 2010 protocol was not completed when the blinatumomab protocol 20120215 was
+               completed, subjects treated with ALL REZ BFM 2002, ALLR3, COOPRALL, and AIEOP ALL REC
+               2003 protocols were also permitted to enroll into Study 20120215 as alternatives to the
+               IntReALL protocol.
+               Applicant Figure 1 presents the study design and treatment schema for Study 20120215.
+               Randomization was stratified by age, bone marrow status determined at the end of HC2,
+               and MRD status determined at the end of induction. Six strata were formed from 2 age
+               categories (1 to 9 years and other [< 1 year and > 9 years]) and 3 bone marrow/MRD
+               categories (M1 marrow with MRD level ≥ 1 x 10-3, M1 marrow with MRD level < 1 x 10-3, and
+               M2 marrow).
+               The study consisted of a 3-week screening period, a 4-week treatment period followed by a
+               1-week safety follow-up period, a 12-month short-term efficacy follow-up, and a long-term
+               follow-up that continued until the last subject on study was either followed for 36 months
+               after receiving allogeneic HSCT or until death, whichever occurred first. After reaching the
+               primary endpoint, subjects were to be followed in the long-term follow-up period.
+               The primary efficacy endpoint of the study is EFS. Overall survival is a key secondary
+               endpoint. Other secondary endpoints include MRD response, cumulative incidence of
+               relapse, survival status at 100 days after allogeneic HSCT, incidence of treatment-emergent
+               adverse events, incidence of anti-blinatumomab antibody formation, and PK.
+
+
+
+
+                                                                   44
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The FDA’s Assessment:
+               FDA agrees with the description of the Key Eligibility Criteria for Study 20120215.
+
+               Treatment Plan
+               The Applicant’s Description:
+               Study Treatment
+               After a screening period of up to 3 weeks, eligible subjects were enrolled and randomized
+               into 1 of the following 2 treatment groups:
+                    •   Blinatumomab arm: 1 consolidation cycle of blinatumomab (15 µg/m2/day
+                        [maximum daily dose was not to exceed 28 µg/day]), defined as a 4-week cIV
+                        infusion of blinatumomab
+                    •   High-risk consolidation 3 chemotherapy (HC3) arm: 1 consolidation cycle of HC3,
+                        defined as 1 week of treatment with HC3 and 3 weeks of no treatment. High-risk
+                        consolidation 3 chemotherapy was administered per the IntReALL protocol and is
+                        described in detail in Table 2-5 of the Study 20120215 Protocol.
+               A diagnostic lumbar puncture was conducted before randomization to exclude evidence of
+               CNS involvement. Subjects in HC3 arm received intrathecal chemotherapy either within 7
+               days prior to starting treatment or on day 2. Subjects in the blinatumomab arm received
+               intratheca

@@ -1,0 +1,4 @@
+FAERS adverse-event report 14850930 (comparator: upadacitinib)
+Serious: yes
+Reactions: Colitis ulcerative, Clostridium difficile infection, Lung disorder, Therapy non-responder
+Reported drugs: VEDOLIZUMAB, VEDOLIZUMAB, VEDOLIZUMAB, VEDOLIZUMAB, VEDOLIZUMAB, VITAMIN D, IRON, Nux vomica 6CH, PHOSPHORUS, RINVOQ

@@ -1,0 +1,32 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA213973",
+  "title": "Drugs@FDA NDA213973: QINLOCK",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=213973",
+  "published": "2020-05-15",
+  "retrieved_at": "2026-09-08T08:41:07.452983+00:00",
+  "metadata": {
+    "manufacturer": "DECIPHERA PHARMS",
+    "brand_name": "QINLOCK",
+    "sponsor_name": "DECIPHERA PHARMS",
+    "application_type": "NDA",
+    "brand_names": [
+      "QINLOCK"
+    ],
+    "active_ingredients": [
+      "RIPRETINIB"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2020-05-15",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 6
+  },
+  "hash": "7c7b9fbc89fde8a9a02605c31302d82c205ecfa96317e35f2b73faee12d74d88"
+}

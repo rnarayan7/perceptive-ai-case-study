@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "08ac486a-4f61-4e9e-9683-d1a66a6c2a4d",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=08ac486a-4f61-4e9e-9683-d1a66a6c2a4d",
+  "published": "2026-01-04",
+  "retrieved_at": "2026-09-08T08:40:34.885309+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Sintetica US LLC",
+    "manufacturer_name": "Sintetica US LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA217311",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "4563de4bcfa8c65885ef749933a73ed160bfdbb98125a0afda43048b413e4192"
+}

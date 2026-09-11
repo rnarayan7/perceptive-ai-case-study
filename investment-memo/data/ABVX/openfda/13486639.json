@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13486639",
+  "title": "FAERS report 13486639: Nausea, Diarrhoea, Abdominal pain upper",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13486639",
+  "published": "2022-10-28",
+  "retrieved_at": "2026-09-08T08:40:09.309302+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": false,
+    "reactions": [
+      "Nausea",
+      "Diarrhoea",
+      "Abdominal pain upper",
+      "Insulin-like growth factor abnormal",
+      "Fatigue",
+      "Nasopharyngitis",
+      "Infection"
+    ],
+    "drugs": [
+      "SOMAVERT",
+      "SOMAVERT",
+      "SOMAVERT",
+      "SOMAVERT",
+      "RINVOQ",
+      "LANREOTIDE"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "3237ad77986992ea9b2601ebe38e372963744afb3c945068ca967223b5716c9b"
+}

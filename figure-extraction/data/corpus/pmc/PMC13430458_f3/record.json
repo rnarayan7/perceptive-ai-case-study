@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13430458_f3",
+  "figure_type": "kaplan_meier",
+  "title": "Correction: First-line serplulimab plus chemotherapy versus chemotherapy alone in small-cell lung cancer patients with brain metastases: a multicenter, prospective cohort study.",
+  "caption": "Comparison of first-line cranial radiotherapy status within the serplulimab cohort. Survival curves of  (A)  intracranial progression-free survival (iPFS);  (B)  extracranial PFS;  (C)  systemic PFS; and  (D)  overall survival (OS). This analysis compares patients who received first-line cranial radiotherapy versus those who did not, specifically within the cohort of patients treated with serplulimab and chemotherapy.",
+  "context": "Comparison of first-line cranial radiotherapy status within the serplulimab cohort. Survival curves of  (A)  intracranial progression-free survival (iPFS);  (B)  extracranial PFS;  (C)  systemic PFS; and  (D)  overall survival (OS). This analysis compares patients who received first-line cranial radiotherapy versus those who did not, specifically within the cohort of patients treated with serplulimab and chemotherapy. There was a mistake in Figure 2 and Figure 3 as published. The images for Figure 2 and Figure 3 were accidentally swapped during the production stage. While the figure titles and captions remain entirely correct and in their proper places, the original image file displayed under Figure 2 belongs to Figure 3 , and vice versa. The corrected Figure 2 and Figure 3 appear below: The original version of this article has been updated.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430458/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-20",
+  "retrieved_at": "2026-09-07T12:50:10.069460+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13430458",
+    "pmid": "42549123",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "1f4f945a05bb7f5d36a9f50ee40c9074f69684978c80889b23b32c5d4a5a68e6",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13271947_f6",
+  "figure_type": "forest",
+  "title": "The impact of statin therapy on the prognosis of hormone receptor-positive breast cancer: a systematic review and meta-analysis.",
+  "caption": "Forest plot of statin use versus no statin use on breast cancer–specific survival using a random-effects model.",
+  "context": "Forest plot of statin use versus no statin use on breast cancer–specific survival using a random-effects model. Heterogeneity among the included studies was minimal (Tau² = 0.00; Chi² = 3.06; df = 3; P = 0.38; I² = 2%), suggesting high consistency of results across studies ( Figure 6 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271947/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-03",
+  "retrieved_at": "2026-09-07T13:08:32.113791+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13271947",
+    "pmid": "42318468",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "864504030f7cbfb07580bdfcfd3d8d7740715f926f383c545d070ba92952ff5d",
+  "image_file": "image.jpg"
+}

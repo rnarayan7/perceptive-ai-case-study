@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA211675",
+  "title": "Drugs@FDA NDA211675: RINVOQ",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=211675",
+  "published": "2019-08-16",
+  "retrieved_at": "2026-09-08T08:40:10.367008+00:00",
+  "metadata": {
+    "manufacturer": "ABBVIE",
+    "brand_name": "RINVOQ",
+    "sponsor_name": "ABBVIE",
+    "application_type": "NDA",
+    "brand_names": [
+      "RINVOQ"
+    ],
+    "active_ingredients": [
+      "UPADACITINIB"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2019-08-16",
+    "review_priority": [
+      "N/A",
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 20
+  },
+  "hash": "2036b63147457226ecce48bbd6e1fe72250bcaf6774665d2eeb5b9303b232bc1"
+}

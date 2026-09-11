@@ -1,0 +1,51 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13408048_fig3-11795549261472694",
+  "figure_type": "kaplan_meier",
+  "title": "Clinical Outcomes of Lenvatinib-Pembrolizumab in a High-Risk, Dual ICI-Refractory Melanoma Cohort.",
+  "caption": "Kaplan–Meier curve for overall survival (OS) in patients with advanced melanoma treated with lenvatinib plus pembrolizumab (n=9). The number at risk is shown below the x-axis at 0, 3, 6, 9, and 12 months. Median OS was 9.6 months (95% CI, 0.7–10.6)",
+  "context": "Kaplan–Meier curve for overall survival (OS) in patients with advanced melanoma treated with lenvatinib plus pembrolizumab (n=9). The number at risk is shown below the x-axis at 0, 3, 6, 9, and 12 months. Median OS was 9.6 months (95% CI, 0.7–10.6) Median PFS was 4.0 months (95% CI, 1.6–4.5), and median OS was 9.6 months (95% CI, 0.7–10.6) ( Figures 2 and 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13408048/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-27",
+  "retrieved_at": "2026-09-07T12:53:15.960709+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "9.6",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "he x-axis at 0, 3, 6, 9, and 12 months. Median OS was 9.6 months (95% CI, 0.7–10.6) Median PFS was 4.0 m",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "4.0",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "an OS was 9.6 months (95% CI, 0.7–10.6) Median PFS was 4.0 months (95% CI, 1.6–4.5), and median OS was 9.",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "9.6",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "S was 4.0 months (95% CI, 1.6–4.5), and median OS was 9.6 months (95% CI, 0.7–10.6) ( Figures 2 and 3 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13408048",
+    "pmid": "42523965",
+    "journal": "Clinical Medicine Insights. Oncology",
+    "fig_label": "Figure 3."
+  },
+  "image_hash": "941be899d487785c499534d7532f5c899ad00062ea6e5aaccc3c80965c2ff0bc",
+  "image_file": "image.jpg"
+}

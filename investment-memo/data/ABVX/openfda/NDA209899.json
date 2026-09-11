@@ -1,0 +1,32 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA209899",
+  "title": "Drugs@FDA NDA209899: ZEPOSIA",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209899",
+  "published": "2020-03-25",
+  "retrieved_at": "2026-09-08T08:40:01.078799+00:00",
+  "metadata": {
+    "manufacturer": "BRISTOL",
+    "brand_name": "ZEPOSIA",
+    "sponsor_name": "BRISTOL",
+    "application_type": "NDA",
+    "brand_names": [
+      "ZEPOSIA"
+    ],
+    "active_ingredients": [
+      "OZANIMOD HYDROCHLORIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2020-03-25",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 10
+  },
+  "hash": "70b31d70e8d0f262e706d54afe975d7ca47b55f5715d5d2958ebdaf9e3acb1fc"
+}

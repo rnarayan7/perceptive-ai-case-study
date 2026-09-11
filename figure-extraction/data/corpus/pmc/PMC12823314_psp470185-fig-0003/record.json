@@ -1,0 +1,78 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12823314_psp470185-fig-0003",
+  "figure_type": "pk_logscale",
+  "title": "Albumin Levels Are Predictive of Cachexia-Induced Time-Dependent Clearance of Therapeutic Antibodies: A Physiologically Based Pharmacokinetic Model of Durvalumab.",
+  "caption": "Model predicted change in degradation rate constant of free proteins in the endosome fitted to longitudinal albumin data from durvalumab.",
+  "context": "Model predicted change in degradation rate constant of free proteins in the endosome fitted to longitudinal albumin data from durvalumab. The profile over time of k deg ( t ) that results from the fitted parameters is shown in Figure 3 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823314/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:04.420417+00:00",
+  "ground_truth": [
+    {
+      "quantity": "k_deg at week 0",
+      "value": "28 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "k_deg at week 12",
+      "value": "22.5 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "k_deg at week 24",
+      "value": "20 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "k_deg at week 36",
+      "value": "19 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "k_deg at week 48",
+      "value": "18.7 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "k_deg at week 72 (plateau)",
+      "value": "18.5 1/day",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC12823314",
+    "pmid": "41543435",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "421a1e8808fbdda98f913813da2999981929c0c9eb5942c2d61a59ab53f7ab96",
+  "image_file": "image.jpg"
+}

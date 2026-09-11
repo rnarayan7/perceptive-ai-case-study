@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13422214_f6",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of antibody-drug conjugates in EGFR-mutant non-small cell lung cancer after tyrosine kinase inhibitor resistance: a systematic review and meta-analysis.",
+  "caption": "Sensitivity analysis forest plot after exclusion of KL264-01. The pooled ORR of the remaining eight studies was 44.0% (95% CI 35.6%–52.5%).",
+  "context": "Sensitivity analysis forest plot after exclusion of KL264-01. The pooled ORR of the remaining eight studies was 44.0% (95% CI 35.6%–52.5%). A sensitivity forest plot excluding KL264–01 is shown in Figure 6 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13422214/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-16",
+  "retrieved_at": "2026-09-07T13:03:03.634434+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13422214",
+    "pmid": "42534809",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "b32b923d522e2c54bf4f3f4d7c69792f50d88504b9dc35ba94ca164ad30249bb",
+  "image_file": "image.jpg"
+}

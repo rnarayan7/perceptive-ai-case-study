@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13290997_f9",
+  "figure_type": "forest",
+  "title": "Survival benefit of extended lymphadenectomy in endometrial cancer: a meta-analysis with risk-stratified subgroup analysis.",
+  "caption": "Sensitivity analysis forest plot for OS benefit of PPaLND versus pelvic (Adjusted;  A  Intermediate-to-high-risk subgroup;  B  Overall population subgroup.).",
+  "context": "Sensitivity analysis forest plot for OS benefit of PPaLND versus pelvic (Adjusted;  A  Intermediate-to-high-risk subgroup;  B  Overall population subgroup.). (2020) ( 23 ) resulted in a statistically significant OS benefit for PPaLND (HR = 0.50, 95% CI: 0.25, 0.99), as shown in Figure 9A . Sensitivity analysis for the overall population subgroup continued to support the initial non-significant finding, as shown in Figure 9B .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290997/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-10",
+  "retrieved_at": "2026-09-07T13:03:41.013901+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.50 (95% CI 0.25-0.99)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "ally significant OS benefit for PPaLND (HR = 0.50, 95% CI: 0.25, 0.99), as shown in Figure 9A . Sensitivity a",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13290997",
+    "pmid": "42358536",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 9"
+  },
+  "image_hash": "627306e779381b35abfd76ff315b0665698ae059f7c7f9f9504cfef6bef97803",
+  "image_file": "image.jpg"
+}

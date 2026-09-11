@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13409485_curroncol-33-00407-f001",
+  "figure_type": "kaplan_meier",
+  "title": "Prognostic Impact of the Systemic Immune-Inflammation Index According to Concurrent Chemotherapy Backbone in Stage III Non-Small Cell Lung Cancer.",
+  "caption": "Kaplan–Meier overall survival curves according to systemic immune-inflammation index groups. Patients with high SII demonstrated significantly inferior overall survival compared with patients with low SII (median overall survival: 10.9 vs. 26.1 months; log-rank  p  = 0.004).",
+  "context": "Kaplan–Meier overall survival curves according to systemic immune-inflammation index groups. Patients with high SII demonstrated significantly inferior overall survival compared with patients with low SII (median overall survival: 10.9 vs. 26.1 months; log-rank  p  = 0.004). Median overall survival was 26.1 months (95% CI, 17.2–34.9) in the low-SII group and 10.9 months (95% CI, 5.8–16.0) in the high-SII group (log-rank p = 0.004; Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13409485/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:50:36.783751+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "26.1",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "vs. 26.1 months; log-rank p = 0.004). Median overall survival was 26.1 months (95% CI, 17.2–34.9) in the low-SII grou",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13409485",
+    "pmid": "42505209",
+    "journal": "Current oncology (Toronto, Ont.)",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "7f4adcbbb76615e7153a62dbd3b87fa20bcbc7c559e242c49a904567e8d52cca",
+  "image_file": "image.jpg"
+}

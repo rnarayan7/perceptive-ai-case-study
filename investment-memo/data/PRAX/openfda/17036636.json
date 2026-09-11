@@ -1,0 +1,37 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17036636",
+  "title": "FAERS report 17036636: Myoclonic epilepsy, Seizure, Petit mal epilepsy",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17036636",
+  "published": "2024-04-25",
+  "retrieved_at": "2026-09-08T08:40:31.668237+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Myoclonic epilepsy",
+      "Seizure",
+      "Petit mal epilepsy",
+      "Generalised tonic-clonic seizure",
+      "Seizure",
+      "Product dose omission issue"
+    ],
+    "drugs": [
+      "EPIDIOLEX",
+      "EPIDIOLEX",
+      "EPIDIOLEX",
+      "BRIVIACT",
+      "MELATONIN",
+      "BANZEL",
+      "LORATADINE",
+      "TRAZODONE HCL",
+      "TOPAMAX",
+      "CLOBAZAM",
+      "XCOPRI"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "957dde95b67b8439b45da43e6b0529a8e65159cb06c0937b753d04b1f8f5a7f7"
+}

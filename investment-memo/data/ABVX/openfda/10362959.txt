@@ -1,0 +1,4 @@
+FAERS adverse-event report 10362959 (comparator: vedolizumab)
+Serious: yes
+Reactions: Palpitations, Lymphadenopathy
+Reported drugs: ENTYVIO

@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-ME_AST02_AGEADJPREV_2022_2022_SEXM",
+  "title": "Asthma - Maine - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.001305+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Maine",
+    "location_abbr": "ME",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "9.3",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "e1e1bb841382f88f8668972abb5d0dbba7a29138dd89aba2d13201cfadb78627"
+}

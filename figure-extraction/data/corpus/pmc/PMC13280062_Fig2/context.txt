@@ -1,0 +1,1 @@
+Waterfall plot depicting best PSA response in percentage for each patient: In the subgroups V + /B + , V + /B-, and V-/B-, a > 50% PSA response was present in 62 of 157 (39.5%, 95% CI 31.8–47.6%), 2 of 17 (11.8%, 95% CI 1.5–36.4), and 0 of 13 (0%, 95% CI 0–26.5%) patients, respectively

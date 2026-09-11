@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13385651_Fig2",
+  "figure_type": "spider",
+  "title": "Pembrolizumab plus high-dose IL-2 in advanced clear cell renal cell carcinoma: six-year survival outcomes and molecular signatures from a phase 2 trial.",
+  "caption": "Clinical outcomes and treatment responses. Kaplan–Meier survival curves showing overall survival ( a ), progression-free survival ( b ), and probability of being treatment-free ( c ), determined from the treatment-free interval for all patients ( N  = 26). Median survival times with 95% confidence intervals are indicated. Numbers at risk are shown below each plot.  d  Waterfall plot showing maximum percent change in target lesion measurements from baseline for each patient, colored by best overall response ( N  = 26).  e  Representative computed tomography images from a selected patient demonstrating durable complete response, with baseline scan (top) and follow-up imaging after >6 years post-treatment discontinuation (bottom).  f  Swimmer plot depicting individual patient treatment duration and best overall response. Each bar represents one patient, with colors indicating response category: red (progressive disease, PD), blue (stable disease, SD), green (partial response, PR), and purple (complete response, CR) ( N  = 26).  g  Spider plot demonstrating percent change in tumor size over time for each patient as determined by RECIST 1.1 assessment. Vertical line indicates end of treatment on trial. Horizontal dotted red line represents progression of disease, while the dotted blue line represents partial response ( N  = 26).",
+  "context": "Clinical outcomes and treatment responses. Kaplan–Meier survival curves showing overall survival ( a ), progression-free survival ( b ), and probability of being treatment-free ( c ), determined from the treatment-free interval for all patients ( N  = 26). Median survival times with 95% confidence intervals are indicated. Numbers at risk are shown below each plot.  d  Waterfall plot showing maximum percent change in target lesion measurements from baseline for each patient, colored by best overall response ( N  = 26).  e  Representative computed tomography images from a selected patient demonstrating durable complete response, with baseline scan (top) and follow-up imaging after >6 years post-treatment discontinuation (bottom).  f  Swimmer plot depicting individual patient treatment duration and best overall response. Each bar represents one patient, with colors indicating response category: red (progressive disease, PD), blue (stable disease, SD), green (partial response, PR), and purple (complete response, CR) ( N  = 26).  g  Spider plot demonstrating percent change in tumor size over time for each patient as determined by RECIST 1.1 assessment. Vertical line indicates end of treatment on trial. Horizontal dotted red line represents progression of disease, while the dotted blue line represents partial response ( N  = 26).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13385651/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-25",
+  "retrieved_at": "2026-09-07T13:16:49.754943+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13385651",
+    "pmid": "42185255",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "e4da0050982a9ec7e1404c3164296d2d463f4a691bc4c5be814e9f46145a49d1",
+  "image_file": "image.jpg"
+}

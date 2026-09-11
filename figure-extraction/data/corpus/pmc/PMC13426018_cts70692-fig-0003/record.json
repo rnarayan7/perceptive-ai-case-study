@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13426018_cts70692-fig-0003",
+  "figure_type": "pk_logscale",
+  "title": "Human Pharmacokinetic Prediction of Antibody-Drug Conjugates Using Human FcRn Transgenic Mice.",
+  "caption": "Correlation analysis for CL between human and Tg32 mice or WT mice, based on reported parameters in clinical trials.",
+  "context": "Correlation analysis for CL between human and Tg32 mice or WT mice, based on reported parameters in clinical trials. To compare mice and human, the correlation of total ADC CL was evaluated (Figure 3 ). Analysis of FDA‐approved ADCs revealed that total ADC CL in Tg32 mice correlated strongly with human CL, and that the prediction accuracy within twofold of CL was 87.5% when the exponent was set as 1.0 (Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13426018/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T13:08:39.567001+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13426018",
+    "pmid": "42535721",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "244313b9f8dbb75166edcfdc71ec6e2db06380ca5ee4e97faf405952eda50cbe",
+  "image_file": "image.jpg"
+}

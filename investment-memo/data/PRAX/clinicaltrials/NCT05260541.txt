@@ -1,0 +1,15 @@
+Title: A Clinical Trial of PRAX-114 in Participants With Post-Traumatic Stress Disorder
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Post-traumatic Stress Disorder, Post Traumatic Stress Disorder, Stress Disorder, Stress Disorders, Post-Traumatic, Trauma and Stressor Related Disorders, Mental Disorder
+Interventions: 60 mg PRAX-114 or 40 mg PRAX-114 (DRUG), Placebo (DRUG), 40 mg PRAX-114 (DRUG)
+Enrollment: 11
+
+Summary: This trial is comprised of a 4-week randomized, double-blind, placebo-controlled treatment period followed by an optional 8-week open-label extension (OLE) period.
+
+This trial will evaluate the efficacy and safety of oral PRAX-114 flexibly dosed at 40 to 60 mg for 4 weeks compared to placebo in adults with PTSD. The OLE period consisting of treatment with 40 mg PRAX-114 for 8 weeks will provide additional efficacy and safety data.
+
+Primary outcomes:
+- Change from baseline in the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total score at Day 29 (time frame: 29 days)

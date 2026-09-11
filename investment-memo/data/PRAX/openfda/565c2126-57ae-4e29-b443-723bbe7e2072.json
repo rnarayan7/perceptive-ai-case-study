@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "565c2126-57ae-4e29-b443-723bbe7e2072",
+  "title": "Label: Xcopri (CENOBAMATE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=565c2126-57ae-4e29-b443-723bbe7e2072",
+  "published": "2025-08-25",
+  "retrieved_at": "2026-09-08T08:40:29.598860+00:00",
+  "metadata": {
+    "brand_name": "Xcopri",
+    "generic_name": "CENOBAMATE",
+    "manufacturer": "SK Life Science, Inc.",
+    "manufacturer_name": "SK Life Science, Inc.",
+    "pharm_class_epc": null,
+    "pharm_class_moa": "Sodium Channel Antagonists [MoA]",
+    "application_number": "NDA212839",
+    "route": "ORAL"
+  },
+  "hash": "7563b82f29a6fc6297b8d1a08d79f8aac3e0977eb56e431bc31b544c12459a1f"
+}

@@ -1,0 +1,43 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10358410",
+  "title": "FAERS report 10358410: Transient ischaemic attack",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10358410",
+  "published": "2014-08-08",
+  "retrieved_at": "2026-09-08T08:40:13.661824+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Transient ischaemic attack"
+    ],
+    "drugs": [
+      "LOSARTAN",
+      "PHENERGAN",
+      "GLUCOSE",
+      "VEDOLIZUMAB",
+      "HUMALOG",
+      "LANTUS",
+      "SOTALOL.",
+      "PHENERGAN",
+      "ASPIRIN.",
+      "ZOCOR",
+      "APIXABAN",
+      "VEDOLIZUMAB",
+      "VALIUM",
+      "VICTOZA",
+      "FUROSEMIDE.",
+      "METFORMIN",
+      "TYLENOL",
+      "ZOFRAN                             /00955301/",
+      "BALSALAZIDE",
+      "NORCO",
+      "GLIMEPIRIDE.",
+      "ZOFRAN                             /00955301/"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "b6c84ccdf0a18e8ec76cf11a26a7b2946111f6ea2a11da2f80da53e923f9f144"
+}

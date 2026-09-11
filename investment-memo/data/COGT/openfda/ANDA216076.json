@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA216076",
+  "title": "Drugs@FDA ANDA216076: MIDOSTAURIN",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A216076",
+  "published": "2024-04-29",
+  "retrieved_at": "2026-09-08T08:41:03.274393+00:00",
+  "metadata": {
+    "manufacturer": "TEVA PHARMS",
+    "brand_name": "MIDOSTAURIN",
+    "sponsor_name": "TEVA PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "MIDOSTAURIN"
+    ],
+    "active_ingredients": [
+      "MIDOSTAURIN"
+    ],
+    "marketing_status": [
+      "Discontinued"
+    ],
+    "approval_date": "2024-04-29",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "f00033ae993ee9df773846dcbbcc94150467e0b16f22f4477287cf34b6a8e863"
+}

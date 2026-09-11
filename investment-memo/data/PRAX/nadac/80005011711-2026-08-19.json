@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "80005011711-2026-08-19",
+  "title": "NADAC price: PRIMIDONE 50 MG TABLET",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:37.182103+00:00",
+  "metadata": {
+    "ndc": "80005011711",
+    "ndc_description": "PRIMIDONE 50 MG TABLET",
+    "nadac_per_unit": 0.09156,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "primidone"
+  },
+  "hash": "f3c7666aead84a4475dfbe2f715dbb3140ae7c26cb15cc8973f5d93af95c63d1"
+}

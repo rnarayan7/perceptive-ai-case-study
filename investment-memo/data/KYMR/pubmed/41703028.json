@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "41703028",
+  "title": "A STAT3 degrader demonstrates efficacy in venetoclax resistant acute myeloid leukemia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41703028/",
+  "published": "2026",
+  "retrieved_at": "2026-09-07T08:26:55.624449+00:00",
+  "metadata": {
+    "journal": "Leukemia",
+    "year": "2026",
+    "pmid": "41703028"
+  },
+  "hash": "07e9c06513996c8013a5882488706fd83b39bf0842b93d90cd22f7a84a02434a"
+}

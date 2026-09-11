@@ -1,0 +1,4 @@
+FAERS adverse-event report 17657093 (comparator: ozanimod)
+Serious: yes
+Reactions: Diarrhoea
+Reported drugs: MESALAMINE., OZANIMOD.

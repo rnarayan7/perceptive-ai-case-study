@@ -1,0 +1,667 @@
+6-K
+1
+d110874d6k.htm
+6-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 6-K
+
+REPORT OF FOREIGN PRIVATE ISSUER
+
+PURSUANT TO RULE 13a-16 OR 15d-16
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+For the month of June 2026
+
+Commission File Number: 001-41842
+
+Abivax SA
+
+(Translation
+of registrant’s name into English)
+
+7-11 boulevard Haussmann
+
+75009 Paris, France
+
++33
+(0) 1 53 83 08 41
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive
+offices)
+
+Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+
+Form 20-F ☒    Form40-F ☐
+
+Positive Topline Results from Part 2 of Phase 3 ABTECT 44-Week
+Maintenance Trial
+
+On June 29, 2026, Abivax SA (the “Registrant” or the “Company”) announced positive topline results from
+Part 2 of its Phase 3 ABTECT 44-week maintenance trial evaluating obefazimod, the Company’s potential first-in-class oral miR-124 enhancer, in moderate to severely active ulcerative colitis (“UC”). Part 2 of the Phase 3 maintenance trial enrolled patients who either did not achieve clinical response following induction
+treatment or who experienced disease relapse during the re-randomized maintenance trial (Part 1), expanding both the efficacy and safety results in a more refractory patient population than the registrational
+maintenance cohort. The additional safety results generated through Part 2 expand the Phase 3 maintenance database and provide important context for interpreting the safety findings reported following the Maintenance Part 1 readout.
+
+Among patients who failed to achieve clinical response after 8 weeks of induction, continued treatment with obefazimod resulted in clinically meaningful rates
+of clinical, endoscopic, and combined histologic-endoscopic endpoints at Week 44. Patients treated continuously with 50 mg obefazimod demonstrated the strongest outcomes across all endpoints, including clinical remission (37.2%), clinical response
+(61.5%), endoscopic improvement (48.0%), Histologic-Endoscopic Mucosal Improvement (“HEMI”) (44.6%), and endoscopic remission (34.5%). These findings suggest that a clinically meaningful proportion of patients who do not initially
+respond may still derive substantial benefit from longer treatment exposure.
+
+Part 2 Induction Non-Responders – Exploratory Endpoints
+
+25 mg
+(N=81)
+
+50 mg
+(N=148)
+
+Clinical Remission
+
+23.5%
+
+37.2%
+
+Clinical Response
+
+50.6%
+
+61.5%
+
+Endoscopic Improvement
+
+28.4%
+
+48.0%
+
+HEMI
+
+23.5%
+
+44.6%
+
+Endoscopic Remission
+
+22.2%
+
+34.5%
+
+Among patients who relapsed during Part 1 of the maintenance trial, re-treatment with
+50 mg obefazimod resulted in meaningful rates of clinical remission, clinical response, endoscopic improvement, HEMI and endoscopic remission by Week 44. Patients who achieved clinical response with obefazimod during induction and relapsed after
+being re-randomized to placebo in Part 1 of the maintenance trial were treated with open-label 50 mg obefazimod and achieved clinical response and remission rates of 69.7% and 45.0%, respectively, while
+patients who relapsed on 25 mg and escalated to 50 mg achieved clinical response and clinical remission rates of 66.7% and 45.5%, respectively. These findings demonstrate the potential for obefazimod to
+re-establish disease control following relapse and support a flexible maintenance treatment strategy.
+
+Part 1 Relapsers – Exploratory Endpoints
+
+Placebo g 50 mg
+(N=109)
+
+25 mg g 50 mg
+(N=33)
+
+50 mg
+
+50 mg
+
+Clinical Remission
+
+45.0%
+
+45.5%
+
+Clinical Response
+
+69.7%
+
+66.7%
+
+Endoscopic Improvement
+
+54.1%
+
+45.5%
+
+HEMI
+
+47.7%
+
+39.4%
+
+Endoscopic Remission
+
+32.1%
+
+24.2%
+
+In Part 2, four total non-melanoma skin cancers (“NMSC”) events were
+reported, two in the 25 mg arm and two in the 50 mg arm which all occurred in patients with established NMSC risk factors including advanced age, thiopurine use, prior skin cancer history and failure of multiple prior advanced therapies. There were
+also two non-NMSC malignancies reported in the 50 mg arm, both deemed unrelated to obefazimod by the study investigators. The results are summarized below.
+
+Summary Safety Events, n (%)
+
+Obefazimod 25 mg
+N=186
+
+Obefazimod 50 mg
+N=447*
+
+Any treatment-emergent adverse event (“TEAE”)
+
+132 (71.0%)
+
+307 (68.7%)
+
+TEAE leading to study drug discontinuation
+
+21 (11.3%)
+
+27 (6.0%)
+
+Serious TEAE
+
+16 (8.6%)
+
+23 (5.1%)
+
+Death (Non-Treatment Related)(1)
+
+1 (0.5%)
+
+0
+
+Pregnancy(2)
+
+1 (0.5%)
+
+1 (0.2%)
+
+Serious/severe (Grade ≥3) infections and opportunistic infections(3)
+
+5 (2.7%)
+
+5 (1.1%)
+
+Malignancies (excluding NMSC)(4)
+
+0
+
+2 (0.4%)
+
+NMSC(5)
+
+2 (1.1%)
+
+2 (0.4%)
+
+Acute pancreatitis
+
+1 (0.5%)
+
+1 (0.2%)
+
+Cardiac abnormalities suggestive of cardiac fibrosis
+
+0
+
+0
+
+(1)
+
+One death occurred in the 25 mg arm and was assessed by the investigator as unrelated to obefazimod. The
+suspected cause was pulmonary embolism in a 65+ patient with multiple pre-existing thromboembolic risk factors, including prior pulmonary embolism, and recent prolonged immobility.
+
+(2)
+
+Both pregnancies are currently ongoing.
+
+(3)
+
+Serious/severe (grade ≥3) infections and opportunistic infections: 25 mg = Appendicitis, Bartonellosis,
+Cytomegalovirus gastrointestinal infection, Peritonsillar abscess, Sepsis; 50 mg (induction non-responder) = Clostridium difficile infection, pilonidal disease, Urethritis gonococcal; 50 mg Open Label (Part 1
+relapsers = Appendicitis (Part 1 50 mg), Septic arthritis staphylococcal (Part 1 placebo).
+
+(4)
+
+Part 1 relapsers previous on placebo: One case of Myoproliferative Neoplasm and one Prostate Cancer.
+
+(5)
+
+Two cases of Basal Cell Carcinoma (25 mg | 50 mg) and two cases of Squamous Cell Carcinoma (25 mg | 50 mg).
+
+*
+
+Includes combined induction non-responders on 50 mg in Part 2 (N=251)
+and Part 1 relapsers (N=196) who entered Part 2.
+
+Malignancy
+
+(Excluding
+
+NMSC)
+
+Exposure to
+Obefazimod
+
+Age
+
+Thiopurine
+History
+
+Prior Advanced
+Therapies
+
+Other Prior UC
+Treatment
+
+Medical History
+of Cancer
+
+Summary
+
+50
+
+mg
+
+Myeloproliferative Neoplasm (MPN)
+
+7.4 months
+
+40+
+
+No
+
+2
+
+(adalimumab, infliximab)
+
+mesalazine
+
+No
+
+Thrombocythemia since 2023. Had elevated platelets at baseline (909,000 per microliter)
+
+Determined not related to study drug by
+investigator
+
+Prostate Cancer
+
+3.4 months
+
+55+
+
+Yes
+
+azathioprine
+
+2
+
+(infliximab, vedolizumab)
+
+prednisolone, mesalazine, budesonide
+
+No
+
+Limited adenocarcinoma of the prostate CT2 CN0 M0; Gleason score 7B
+
+Determined not related to study drug by
+investigator
+
+NMSC
+
+Exposure to
+Obefazimod
+
+Age
+
+Thiopurine
+History
+
+Prior Advanced
+Therapies
+
+Other Prior UC
+Treatment
+
+Medical History
+of Skin Cancer
+
+Summary
+
+50  mg
+
+Basal Cell Carcinoma
+
+10.4 months
+
+40+
+
+Yes
+
+azathioprine
+
+3
+
+vedolizumab, infliximab, ustekinumab
+
+mesalazine, prednisone
+
+No
+
+Thiopurine use and failure of 3 prior advanced therapies
+
+Determined probably related to study drug by investigator
+
+Squamous Cell Carcinoma
+
+4.6 months
+
+55+
+
+Yes
+
+azathioprine
+
+2
+
+adalimumab, vedolizumab
+
+budesonide
+
+Yes
+
+Prior history of squamous cell carcinoma and history of multiple skin lesions
+
+Determined not related to study drug by
+investigator
+
+25  mg
+
+Basal Cell Carcinoma
+
+8.1 months
+
+50+
+
+Yes
+
+azathioprine
+
+None
+
+budesonide, sulfasalazine, mesalazine, prednisone, metranidazole, sodium butyrate
+
+No
+
+Age 50+, prior thiopurine
+history
+
+Determined unlikely related to study drug by
+investigator
+
+Squamous Cell Carcinoma
+
+8.3 months
+
+75+
+
+No
+
+2
+
+adalimumab, vedolizumab
+
+prednisone, mesalamine
+
+Yes
+
+Age 75+ and prior history of 2x Basal
+
+cell carcinoma
+
+Determined probably related to study drug by investigator
+
+The post-hoc analyses below are presented progressively, from the combined Phase 2 and Phase 3 UC programs to the Phase 3
+maintenance dataset (Part 1 and Part 2), and then to the Part 2 maintenance dataset, to illustrate how increasing cumulative patient-years (“PYs”) strengthens the overall safety assessment. Because NMSCs and malignancies excluding NMSCs
+are uncommon events, incidence-rate estimates become more precise as cumulative exposure increases. The Company believes the Phase 3 maintenance data should be interpreted using the totality of the exposure-adjusted evidence, together with patient
+characteristics and representative published UC epidemiologic reference
+
+ranges. The results in the tables below demonstrate that the exposure-adjusted incidence rate (“EAIR”) in the combined all active (25 mg and 50 mg) treatment arms for both NMSCs and
+malignancies excluding NMSCs are within the UC background reference range based on published UC studies.
+
+Malignancies (Excluding NMSC) – EAIR Analysis
+
+Analysis Set
+
+Placebo
+
+IR/100
+PY
+
+25
+mg
+
+IR/100 PY
+
+50
+mg
+
+IR/100 PY
+
+All
+Active
+
+IR/100 PY
+
+Reference Range
+
+Based
+on
+
+Published UC
+
+Studies
+
+Integrated
+UC Program
+
+(Phase 2 + Phase 3)
+
+0.00
+
+0.00
+
+0.64
+
+0.35
+
+0.30 – 0.70
+
+Phase 3
+Maintenance
+
+(Part 1 + Part 2)
+
+0.00
+
+0.00
+
+0.91
+
+0.56
+
+0.30 – 0.70
+
+Part 2
+Only
+
+—
+
+0.00
+
+0.69
+
+0.48
+
+0.30 – 0.70
+
+Note: IR = incidence rate
+
+NMSC – EAIR Analysis
+
+Analysis Set
+
+Placebo
+
+IR/100
+PY
+
+25
+mg
+
+IR/100 PY
+
+50
+mg
+
+IR/100 PY
+
+All
+Active
+
+IR/100 PY
+
+Reference Range
+
+Based
+on
+
+Published UC
+
+Studies
+
+Integrated
+UC Program
+
+(Phase 2 + Phase 3)
+
+0.46
+
+0.53
+
+0.64
+
+0.59
+
+0.70 – 1.40
+
+Phase 3
+Maintenance
+
+(Part 1 + Part 2)
+
+0.68
+
+1.09
+
+1.37
+
+1.26
+
+0.70 – 1.40
+
+Part 2
+Only
+
+—
+
+1.52
+
+0.69
+
+0.95
+
+0.70 – 1.40
+
+Note: IR = incidence rate
+
+The
+overall safety results observed in Part 2 were consistent with those previously observed in the broader obefazimod clinical development program. No new safety pattern emerged with the additional cumulative exposure provided by Part 2.
+
+Regulatory Path Forward
+
+The Company believes the
+foregoing Part 2 results expand the integrated clinical dataset supporting the planned New Drug Application (“NDA”) for obefazimod in UC. The Company believes it remains on track to submit its NDA to the U.S. Food and Drug Administration
+in the fourth quarter of 2026.
+
+Next Anticipated Key Milestones
+
+•
+
+September 21, 2026 – Half-year 2026 financial results
+
+•
+
+Fourth Quarter 2026 – Planned NDA submission for obefazimod in UC
+
+•
+
+Mid-2027 – Topline results from the Phase 2b ENHANCE-CD induction trial evaluating obefazimod in Crohn’s disease
+
+Press Release
+
+A copy of the press release announcing the foregoing results is furnished as Exhibit 99.1 to this Report on
+Form 6-K.
+
+Incorporation by Reference
+
+This Report on Form 6-K, excluding Exhibit 99.1, shall be deemed to be incorporated by reference into the
+Registrant’s registration statements on Form F-3 (File Nos. 333-283336 and 333-288884) and Form S-8 (File Nos. 333-286069 and 333-294544) and to be part thereof from the date on which this Report is filed, to the extent not
+superseded by documents or reports subsequently filed.
+
+Exhibit Index
+
+Exhibit 99.1
+
+Press Release, dated June 29, 2026
+
+Forward-Looking Statements
+
+This Report on Form 6-K contains forward-looking statements, forecasts and estimates, including those relating to the
+Company’s business and financial objectives. Words such as “expect,” “intend,” “potential” and variations of such words and similar expressions are intended to identify forward-looking statements. These
+forward-looking statements include statements concerning the potential therapeutic benefit of obefazimod and obefazimod’s potential to redefine treatment expectations, the expected timing for completion of the Phase 2b ENHANCE-CD induction trial of obefazimod and the availability and timing of results therefrom, the timing of regulatory filings including an NDA submission for obefazimod in UC, the timing for reporting
+Abivax’s half year 2026 financial results, and other statements that are not historical fact. Although the Registrant’s management believes that the expectations reflected in such forward-looking statements are reasonable, investors are
+cautioned that forward-looking information and statements are subject to various risks, contingencies and uncertainties, many of which are difficult to predict and generally beyond the control of the Registrant, that could cause actual results and
+developments to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. A description of these risks, contingencies and uncertainties can be found in the documents filed by the Company
+with the French Autorité des Marchés Financiers pursuant to its legal obligations including its universal registration document (Document d’Enregistrement Universel) and in its Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission on March 23, 2026 under the caption “Risk Factors.” These risks, contingencies and uncertainties include, among other things, the
+uncertainties inherent in research and development, future clinical data and analysis, decisions by regulatory authorities, such as the FDA or the EMA, regarding whether and when to approve any drug candidate, as well as their decisions regarding
+labelling and other matters that could affect the availability or commercial potential of such product candidates, and the availability of funding sufficient for the Company’s foreseeable and unforeseeable operating expenses and capital
+expenditure requirements. Special consideration should be given to the potential hurdles of clinical and pharmaceutical development, including further assessment by the Company and regulatory agencies and IRBs/ethics committees following the
+assessment of preclinical, pharmacokinetic, carcinogenicity, toxicity, CMC and clinical data. Furthermore, these forward-looking statements, forecasts and estimates are made only as of the date of this Report. Readers are cautioned not to place
+undue reliance on these forward-looking statements. The Registrant disclaims any obligation to update these forward-looking statements, forecasts or estimates to reflect any subsequent changes that the Company becomes aware of, except as required by
+law. Information about pharmaceutical products (including products currently in development) that is included in this Report is not intended to constitute an advertisement. This Report is for information purposes only, and the information contained
+herein does not constitute either an offer to sell or the solicitation of an offer to purchase or subscribe for securities of the Company in any jurisdiction. Similarly, it does not give and should not be treated as giving investment advice. It has
+no connection with the investment objectives, financial situation or specific needs of any recipient. It should not be regarded by recipients as a substitute for exercise of their own judgment. All opinions expressed herein are subject to change
+without notice. The distribution of this document may be restricted by law in certain jurisdictions. Persons into whose possession this document comes are required to inform themselves about and to observe any such restrictions.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+Abivax SA
+
+(Registrant)
+
+Date: June 29, 2026
+
+/s/ Marc de Garidel
+
+Marc de Garidel
+
+Chief Executive Officer

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13286119_F4",
+  "figure_type": "pk_logscale",
+  "title": "Laroprovstat, the First Oral Small-Molecule PCSK9 Inhibitor for the Treatment of Hypercholesterolemia: Results From a Randomized, Single-Blind, Placebo-Controlled Phase 1 Trial in Treatment-Naïve Patients.",
+  "caption": "Single-dose pharmacokinetics of laroprovstat. A , Geometric mean±SD plasma concentration after a single oral dose in the fasted state of laroprovstat 30 mg (n=6), 60 mg (n=6), 120 mg (n=6), 200 mg (n=5), and 400 mg (n=6).  B , Geometric mean±SD plasma concentration of laroprovstat 120 mg after a single oral dose in fasted state or 30 minutes after a meal (fed). gSD indicates geometric SD.",
+  "context": "Single-dose pharmacokinetics of laroprovstat. A , Geometric mean±SD plasma concentration after a single oral dose in the fasted state of laroprovstat 30 mg (n=6), 60 mg (n=6), 120 mg (n=6), 200 mg (n=5), and 400 mg (n=6).  B , Geometric mean±SD plasma concentration of laroprovstat 120 mg after a single oral dose in fasted state or 30 minutes after a meal (fed). gSD indicates geometric SD. Pharmacokinetics Participants were dosed orally in the fasted state with 30, 60, 120, 200, and 400 mg laroprovstat, with the concentration-time profiles presented in Figure 4 A. The geometric mean ratio for AUC inf and C max in the fed versus fasted stated were 1.15 (90% CI, 1.11–1.19) and 1.06 (90% CI, 1.00–1.13), respectively (Figure 4 B).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13286119/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-15",
+  "retrieved_at": "2026-09-07T13:12:57.840430+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13286119",
+    "pmid": "42137960",
+    "journal": "Circulation",
+    "fig_label": "Figure 4."
+  },
+  "image_hash": "76c22c104207f35317e06b423175d9552d31dfa6424460337c230db611d8be01",
+  "image_file": "image.jpg"
+}

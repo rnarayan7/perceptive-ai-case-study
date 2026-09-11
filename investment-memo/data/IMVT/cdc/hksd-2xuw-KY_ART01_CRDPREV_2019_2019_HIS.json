@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-KY_ART01_CRDPREV_2019_2019_HIS",
+  "title": "Arthritis - Kentucky - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203547+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Kentucky",
+    "location_abbr": "KY",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "13.4",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "8994c4774712ec74a9bf1577f875a7afddc86135ce1195f39b61cbd9aeba1ab3"
+}

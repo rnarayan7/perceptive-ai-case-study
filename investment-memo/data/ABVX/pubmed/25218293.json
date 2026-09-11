@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "25218293",
+  "title": "Efficacy of ABX196, a new NKT agonist, in prophylactic human vaccination.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25218293/",
+  "published": "2014-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.567343+00:00",
+  "metadata": {
+    "journal": "Vaccine",
+    "year": "2014",
+    "pmid": "25218293"
+  },
+  "hash": "1e9af435694f5575db4f6208842280c2251d76bb1bd77619a9a7accd0eda72e5"
+}

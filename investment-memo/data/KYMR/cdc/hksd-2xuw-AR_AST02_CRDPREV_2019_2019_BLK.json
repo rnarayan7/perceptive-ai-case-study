@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AR_AST02_CRDPREV_2019_2019_BLK",
+  "title": "Asthma - Arkansas - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573658+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Arkansas",
+    "location_abbr": "AR",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "11.0",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Black, non-Hispanic"
+  },
+  "hash": "0da973a7bd4806090698928351d2a674b95a0455d5965113fdc74194f002871b"
+}

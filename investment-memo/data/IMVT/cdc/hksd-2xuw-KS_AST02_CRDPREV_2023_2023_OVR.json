@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-KS_AST02_CRDPREV_2023_2023_OVR",
+  "title": "Asthma - Kansas - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.001867+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Kansas",
+    "location_abbr": "KS",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.9",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "2fb672a38326ec87aa6bab3fa8d869156b3f480d3e5bf78df6d3a16c2e73e0a7"
+}

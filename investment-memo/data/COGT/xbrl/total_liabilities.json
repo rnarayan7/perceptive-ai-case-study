@@ -1,0 +1,33 @@
+{
+  "company": "COGT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "total_liabilities",
+  "title": "Cogent Biosciences, Inc. - Total liabilities (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/0001193125-26-342393-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:37.316245+00:00",
+  "metadata": {
+    "cik": 1622229,
+    "entity_name": "Cogent Biosciences, Inc.",
+    "concept": "total_liabilities",
+    "label": "Total liabilities",
+    "taxonomy": "us-gaap",
+    "tag": "Liabilities",
+    "value": 302158000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001193125-26-342393",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-10",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622229.json",
+    "derived": false
+  },
+  "hash": "ca4aaa1ba9d72b1d4228b87a71b5895d1cf1ced785d17002b895be006b5d27a4"
+}

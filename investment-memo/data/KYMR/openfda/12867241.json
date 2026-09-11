@@ -1,0 +1,45 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12867241",
+  "title": "FAERS report 12867241: Hypertension, Hepatic enzyme increased, Gastrointestinal disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12867241",
+  "published": "2021-11-02",
+  "retrieved_at": "2026-09-08T08:40:20.466247+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Hypertension",
+      "Hepatic enzyme increased",
+      "Gastrointestinal disorder",
+      "Condition aggravated",
+      "Migraine",
+      "Constipation",
+      "Weight decreased",
+      "Depressed mood",
+      "Hyperhidrosis",
+      "Headache"
+    ],
+    "drugs": [
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "DILAUDID",
+      "PROVIGIL",
+      "VITAMIN D3",
+      "PERPHENAZINE",
+      "PRIALT",
+      "ATIVAN",
+      "BENAZEPRIL HYDROCHLORIDE",
+      "DILANTIN",
+      "LORATADINE",
+      "VENLAFAXINE HCL",
+      "COLACE",
+      "DUPIXENT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "919d2c92d60bf9e73ee02dcb285139b1b2d091bf5f2c45c1c763838bddc3b01e"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 17499413 (comparator: avapritinib)
+Serious: yes
+Reactions: Nephrolithiasis, Dehydration, Asthenia, Nausea
+Reported drugs: AYVAKIT

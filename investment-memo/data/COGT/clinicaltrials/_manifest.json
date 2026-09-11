@@ -1,0 +1,827 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "started_at": "2026-09-08T10:07:22.897993+00:00",
+  "finished_at": "2026-09-08T10:07:23.519063+00:00",
+  "documents": [
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06948955",
+      "title": "Expanded Access to Bezuclastinib to be Coadministered With Sunitinib for Patients With Gastrointestinal Stromal Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT06948955",
+      "published": "2025-04-29",
+      "retrieved_at": "2026-09-08T10:07:23.497069+00:00",
+      "metadata": {
+        "phases": [],
+        "overall_status": "AVAILABLE",
+        "study_type": "EXPANDED_ACCESS",
+        "conditions": [
+          "Gastrointestinal Neoplasms, Gastrointestinal Stromal Tumors"
+        ],
+        "interventions": [
+          {
+            "name": "Bezuclastinib",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": null,
+        "start_date": null,
+        "primary_completion_date": null,
+        "completion_date": null,
+        "first_posted_date": "2025-04-29",
+        "primary_outcomes": []
+      },
+      "hash": "fa68c30438ca99fc3f3ca56b867f7a82e1f0f8691988a986a20ae7cfbb978e80"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07361562",
+      "title": "A Study of a Selective ERBB2 Inhibitor (CGT4255), in Patients With Advanced Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT07361562",
+      "published": "2026-01-23",
+      "retrieved_at": "2026-09-08T10:07:23.497542+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Advanced Solid Tumor, Adult",
+          "ERBB2 Altered Breast Cancer",
+          "ERBB2 Gene Amplification",
+          "HER2 Overexpression",
+          "Non-Small Cell Lung Cancer",
+          "HER2"
+        ],
+        "interventions": [
+          {
+            "name": "CGT4255",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 100,
+        "start_date": "2025-12-30",
+        "primary_completion_date": "2028-05",
+        "completion_date": "2028-11",
+        "first_posted_date": "2026-01-23",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Part A]",
+            "timeFrame": "Approximately 12 months"
+          },
+          {
+            "measure": "Overall Response Rate [Part B and Part C]",
+            "timeFrame": "Approximately 6 months"
+          }
+        ]
+      },
+      "hash": "524e9a09d6d07ddd414946eb54a99527b78c761faa2dc2aa829df92049056c89"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06915766",
+      "title": "Expanded Access to Bezuclastinib for Patients With NonAdvanced Systemic Mastocytosis or Advanced Systemic Mastocytosis",
+      "url": "https://clinicaltrials.gov/study/NCT06915766",
+      "published": "2025-04-08",
+      "retrieved_at": "2026-09-08T10:07:23.497949+00:00",
+      "metadata": {
+        "phases": [],
+        "overall_status": "AVAILABLE",
+        "study_type": "EXPANDED_ACCESS",
+        "conditions": [
+          "Systemic Mastocytoses, Indolent",
+          "Systemic Mastocytoses, Aggressive"
+        ],
+        "interventions": [
+          {
+            "name": "Bezuclastinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": null,
+        "start_date": null,
+        "primary_completion_date": null,
+        "completion_date": null,
+        "first_posted_date": "2025-04-08",
+        "primary_outcomes": []
+      },
+      "hash": "ac617125ffaf4a92b5df88e4424cd49cb2e1b572909a28937f60e4f6a4783b7f"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05186753",
+      "title": "(Summit) A Study to Evaluate the Efficacy and Safety of CGT9486 Versus Placebo in Patients With Indolent or Smoldering Systemic Mastocytosis",
+      "url": "https://clinicaltrials.gov/study/NCT05186753",
+      "published": "2022-01-11",
+      "retrieved_at": "2026-09-08T10:07:23.498670+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "SSM",
+          "Mastocytosis, Indolent",
+          "Mastocytosis, Systemic",
+          "Mastocytosis",
+          "ISM",
+          "BMM",
+          "Smoldering Systemic Mastocytosis",
+          "Bone Marrow Mastocytosis"
+        ],
+        "interventions": [
+          {
+            "name": "Bezuclastinib Tablets (Formulation A)",
+            "type": "DRUG"
+          },
+          {
+            "name": "Bezuclastinib Tablets (Formulation B)",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo Tablets",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 237,
+        "start_date": "2022-06-27",
+        "primary_completion_date": "2025-05-22",
+        "completion_date": "2030-04",
+        "first_posted_date": "2022-01-11",
+        "primary_outcomes": [
+          {
+            "measure": "Part 1: Determine recommended dose of bezuclastinib (CGT9486) in subjects with NonAdvSM",
+            "timeFrame": "3 months"
+          },
+          {
+            "measure": "Part 2: Efficacy of bezuclastinib at the selected dose versus placebo",
+            "timeFrame": "24 Weeks"
+          },
+          {
+            "measure": "Part 3: Safety and tolerability of bezuclastinib as assessed by number of adverse events",
+            "timeFrame": "Up to 5 years"
+          }
+        ]
+      },
+      "hash": "a937ad8c31f5596779a181d706ef1ae8a91fae2d7be1fb1bdc000c09d6e0d7b2"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03266692",
+      "title": "Study of ACTR087 in Combination With SEA-BCMA in Subjects With Relapsed or Refractory Multiple Myeloma",
+      "url": "https://clinicaltrials.gov/study/NCT03266692",
+      "published": "2017-08-30",
+      "retrieved_at": "2026-09-08T10:07:23.499028+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Multiple Myeloma",
+          "Multiple Myeloma in Relapse",
+          "Refractory Multiple Myeloma"
+        ],
+        "interventions": [
+          {
+            "name": "ACTR087",
+            "type": "BIOLOGICAL"
+          },
+          {
+            "name": "SEA-BCMA",
+            "type": "BIOLOGICAL"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 15,
+        "start_date": "2018-02-22",
+        "primary_completion_date": "2019-10-01",
+        "completion_date": "2019-10-01",
+        "first_posted_date": "2017-08-30",
+        "primary_outcomes": [
+          {
+            "measure": "Safety and tolerability of ACTR087 in combination with SEA-BCMA",
+            "timeFrame": "28 days"
+          },
+          {
+            "measure": "Determination of recommended Phase 2 dosing regimen",
+            "timeFrame": "52 weeks"
+          }
+        ]
+      },
+      "hash": "c3f9ceb138f6b08f2430db52e172dcab8699cb0263748ff8fea5fd21a44acd14"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02401815",
+      "title": "CGT9486 (Formerly Known as PLX9486) as a Single Agent and in Combination With PLX3397 (Pexidartinib) or Sunitinib in Participants With Advanced Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT02401815",
+      "published": "2015-03-30",
+      "retrieved_at": "2026-09-08T10:07:23.507052+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Gastrointestinal Stromal Tumors"
+        ],
+        "interventions": [
+          {
+            "name": "CGT9486",
+            "type": "DRUG"
+          },
+          {
+            "name": "Pexidartinib",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 51,
+        "start_date": "2015-03-06",
+        "primary_completion_date": "2020-05-11",
+        "completion_date": "2020-05-11",
+        "first_posted_date": "2015-03-30",
+        "primary_outcomes": [
+          {
+            "measure": "Part 1: Recommended Phase 2 Dose (RP2D) of CGT9486",
+            "timeFrame": "Cycle 1 of Part 1 (Cycle length = 28 days)"
+          },
+          {
+            "measure": "Part 1: Number of Participants With Treatment Emergent Adverse Events (TEAEs)",
+            "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 670 days)"
+          },
+          {
+            "measure": "Part 1: Area Under The Concentration Time Curve From Time Zero to 24 Hours After Dosing (AUC0-24) of CGT9486",
+            "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15"
+          },
+          {
+            "measure": "Part 1: Maximum Observed Plasma Concentration (Cmax) of CGT9486",
+            "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15"
+          },
+          {
+            "measure": "Part 1: Time to Reach Cmax (Tmax) of CGT9486",
+            "timeFrame": "Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 (Day -10 for 350 mg QD cohort) and Cycle 1 Day 15"
+          },
+          {
+            "measure": "Part 1: Half Life (T1/2) of PLX9486",
+            "timeFrame": "Predose, 0.5, 1, 2, 4, 9, 24, 49, 72, 96, 120, 144, 168, 192, 216 hours postdose on Day -10"
+          },
+          {
+            "measure": "Part 2e: RP2D of CGT9486 in Combination With Sunitinib",
+            "timeFrame": "Cycle 1 of Part 2e (Cycle length = 28 days)"
+          },
+          {
+            "measure": "Part 2b: RP2D of PLX9486 in Combination With Pexidartinib",
+            "timeFrame": "Cycle 1 of Part 2 b (Cycle length = 28 days)"
+          },
+          {
+            "measure": "Part 2b: Number of Participants With Any TEAEs and Treatment-Related TEAEs",
+            "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 868 days)"
+          },
+          {
+            "measure": "Part 2e: Number of Participants With Any TEAEs and Treatment-Related TEAEs",
+            "timeFrame": "From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 825 days)"
+          }
+        ]
+      },
+      "hash": "55e626d10b856828c39710ace5844b677356d47c275c024b581fdebc2ad643e2"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06777316",
+      "title": "A Study of an FGFR2/3 Inhibitor (CGT4859) in Patients With Cholangiocarcinoma and Other Advanced Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT06777316",
+      "published": "2025-01-15",
+      "retrieved_at": "2026-09-08T10:07:23.507399+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Intrahepatic Cholangiocarcinoma (Icc)",
+          "Cholangiocarcinoma",
+          "Other Solid Tumors, Adult",
+          "FGFR2 Gene Fusion/Rearrangement",
+          "FGFR2 Gene Amplification",
+          "FGFR2 Gene Short Variants",
+          "FGFR3 Gene Fusion/Rearrangement",
+          "FGFR3 Gene Amplification",
+          "FGFR3 Gene Short Variants",
+          "FGFR2 Genetic Alterations",
+          "FGFR3 Genetic Alterations",
+          "Advanced Solid Tumors"
+        ],
+        "interventions": [
+          {
+            "name": "CGT4859",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 110,
+        "start_date": "2025-01-22",
+        "primary_completion_date": "2027-03",
+        "completion_date": "2027-06",
+        "first_posted_date": "2025-01-15",
+        "primary_outcomes": [
+          {
+            "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - AEs",
+            "timeFrame": "Approximately 12 months"
+          },
+          {
+            "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - Laboratory results",
+            "timeFrame": "Approximately 12 months"
+          },
+          {
+            "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - ECG results",
+            "timeFrame": "Approximately 12 months"
+          },
+          {
+            "measure": "Phase 2: Evaluate antitumor activity of CGT4859 - Objective Response Rate (ORR)",
+            "timeFrame": "Approximately 8 months"
+          }
+        ]
+      },
+      "hash": "64e4144d47a74c3c669bcd2be8315bf360156934b152cc11e1ee3157b53dcc29"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02840110",
+      "title": "Long-Term Follow-Up Study of Subjects Treated With ACTR T Cell Product",
+      "url": "https://clinicaltrials.gov/study/NCT02840110",
+      "published": "2016-07-21",
+      "retrieved_at": "2026-09-08T10:07:23.507600+00:00",
+      "metadata": {
+        "phases": [],
+        "overall_status": "TERMINATED",
+        "study_type": "OBSERVATIONAL",
+        "conditions": [
+          "B Cell Lymphomas",
+          "Multiple Myeloma",
+          "Solid Tumor",
+          "HER-2 Protein Overexpression"
+        ],
+        "interventions": [
+          {
+            "name": "ACTR T Cell Product",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 22,
+        "start_date": "2016-10",
+        "primary_completion_date": "2020-10-23",
+        "completion_date": "2021-02-23",
+        "first_posted_date": "2016-07-21",
+        "primary_outcomes": [
+          {
+            "measure": "Long-term safety of ACTR T cell product as assessed by overall survival",
+            "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+          },
+          {
+            "measure": "Long-term safety of ACTR T cell product as assessed by serious adverse events related to ACTR T cell product",
+            "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+          },
+          {
+            "measure": "Long-term safety of ACTR T cell product as assessed by Grade 3 or 4 adverse events related to ACTR T cell product",
+            "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+          },
+          {
+            "measure": "Long-term safety of ACTR T cell product as assessed by adverse events of special interest, regardless of grade or relatedness to the ACTR T cell product",
+            "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+          },
+          {
+            "measure": "ACTR T cell persistence in subjects previously treated with an ACTR T cell product",
+            "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+          }
+        ]
+      },
+      "hash": "d35f9d8ab8f8e1499790b59517b94e211bb3e07a57c9102fd4f914823fe5460c"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06208748",
+      "title": "SARC044: A Phase II Trial of Bezuclastinib in Combination With Sunitinib in Patients With GIST",
+      "url": "https://clinicaltrials.gov/study/NCT06208748",
+      "published": "2024-01-17",
+      "retrieved_at": "2026-09-08T10:07:23.507809+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Gastrointestinal Stromal Tumors",
+          "GIST"
+        ],
+        "interventions": [
+          {
+            "name": "Bezuclastinib in combination with sunitinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Sarcoma Alliance for Research through Collaboration",
+        "enrollment": 40,
+        "start_date": "2024-08-01",
+        "primary_completion_date": "2026-06",
+        "completion_date": "2027-06",
+        "first_posted_date": "2024-01-17",
+        "primary_outcomes": [
+          {
+            "measure": "To estimate the median progression free survival (mPFS)",
+            "timeFrame": "From the time of first dose to the occurrence of disease progression (as accessed by mRECIST v1.1) or death due to any cause prior to documented disease progression, up to 2 years.."
+          }
+        ]
+      },
+      "hash": "9ac7dc822a463b48d9c204bc9859020cf97787f7993c6a33cbc402eb4a4c13e3"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03189836",
+      "title": "Study of ACTR707 in Combination With Rituximab in Subjects With Relapsed or Refractory B Cell Lymphoma",
+      "url": "https://clinicaltrials.gov/study/NCT03189836",
+      "published": "2017-06-16",
+      "retrieved_at": "2026-09-08T10:07:23.508003+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Lymphoma"
+        ],
+        "interventions": [
+          {
+            "name": "ACTR707",
+            "type": "BIOLOGICAL"
+          },
+          {
+            "name": "rituximab",
+            "type": "BIOLOGICAL"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 26,
+        "start_date": "2017-10-04",
+        "primary_completion_date": "2020-09-21",
+        "completion_date": "2020-09-21",
+        "first_posted_date": "2017-06-16",
+        "primary_outcomes": [
+          {
+            "measure": "Safety as assessed by dose limiting toxicities (DLTs)",
+            "timeFrame": "28 days"
+          },
+          {
+            "measure": "Determination of maximum tolerated dose and proposed recommended Phase 2 dose",
+            "timeFrame": "24 weeks"
+          }
+        ]
+      },
+      "hash": "97aceb63176e9ae87ded730684559ae670357ae621a550d5ecf05550a763c4db"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07383506",
+      "title": "A Study of Mutant Selective-Inhibitor (CGT6297), in Patients With Advanced Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT07383506",
+      "published": "2026-02-03",
+      "retrieved_at": "2026-09-08T10:07:23.508200+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "PIK3CA Mutations",
+          "Advanced Solid Tumors, Adult",
+          "Endometrial Cancer",
+          "HR Positive/HER-2 Negative Breast Cancer",
+          "HER2-low Breast Cancer"
+        ],
+        "interventions": [
+          {
+            "name": "CGT6297",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 90,
+        "start_date": "2026-07-23",
+        "primary_completion_date": "2029-07",
+        "completion_date": "2029-08",
+        "first_posted_date": "2026-02-03",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Phase 1a]",
+            "timeFrame": "Approximately 12 months"
+          },
+          {
+            "measure": "Overall Response Rate [Phase 1b]",
+            "timeFrame": "Approximately 8 months"
+          }
+        ]
+      },
+      "hash": "4bf9529b4f86c601c3945102af74b8e59a01569e20ea1703f8ee940035db0acf"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04996875",
+      "title": "(Apex) Bezuclastinib in Patients With Advanced Systemic Mastocytosis",
+      "url": "https://clinicaltrials.gov/study/NCT04996875",
+      "published": "2021-08-09",
+      "retrieved_at": "2026-09-08T10:07:23.508550+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Advanced Systemic Mastocytosis (AdvSM)",
+          "SM With an Associated Hematologic Neoplasm (SM-AHN)",
+          "Mast Cell Leukemia (MCL)",
+          "Aggressive Systemic Mastocytosis (ASM)"
+        ],
+        "interventions": [
+          {
+            "name": "bezuclastinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 140,
+        "start_date": "2021-11-09",
+        "primary_completion_date": "2025-09-19",
+        "completion_date": "2027-07",
+        "first_posted_date": "2021-08-09",
+        "primary_outcomes": [
+          {
+            "measure": "Part I: Identify clinically active and tolerable exposures of bezuclastinib in patients with AdvSM",
+            "timeFrame": "18 months"
+          },
+          {
+            "measure": "Part II: - Determine efficacy of bezuclastinib as measured by mIWG Objective Response Rate (ORR) - Confirm the exposure-response relationship of bezuclastinib",
+            "timeFrame": "18 months"
+          }
+        ]
+      },
+      "hash": "16beb0ef2daba0b1fa7c4c8d0a15938b97b35da74bd639dbe024d068478f919e"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT02776813",
+      "title": "Study of ACTR087 in Subjects With Relapsed or Refractory B-cell Lymphoma",
+      "url": "https://clinicaltrials.gov/study/NCT02776813",
+      "published": "2016-05-18",
+      "retrieved_at": "2026-09-08T10:07:23.508745+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Lymphoma"
+        ],
+        "interventions": [
+          {
+            "name": "ACTR087",
+            "type": "BIOLOGICAL"
+          },
+          {
+            "name": "rituximab",
+            "type": "BIOLOGICAL"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 34,
+        "start_date": "2016-08",
+        "primary_completion_date": "2020-02-12",
+        "completion_date": "2020-02-12",
+        "first_posted_date": "2016-05-18",
+        "primary_outcomes": [
+          {
+            "measure": "Safety as assessed by dose limiting toxicities (DLTs)",
+            "timeFrame": "28 days"
+          },
+          {
+            "measure": "Safety as assessed by determination of the maximum tolerated dose (MTD)",
+            "timeFrame": "24 months"
+          },
+          {
+            "measure": "Safety as assessed by determination of the recommended phase 2 dose (RP2D)",
+            "timeFrame": "24 months"
+          },
+          {
+            "measure": "Safety as assessed by and adverse events, laboratory assessments and physical examinations",
+            "timeFrame": "24 months"
+          },
+          {
+            "measure": "Safety as assessed by mini-mental state examination (MMSE)",
+            "timeFrame": "24 months"
+          }
+        ]
+      },
+      "hash": "b42cdd3c659b1fab692c5df5761fafc4cde728b81eef9176f398c827b0514dbe"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05208047",
+      "title": "(Peak) A Phase 3 Randomized Trial of CGT9486+Sunitinib vs. Sunitinib in Subjects With Gastrointestinal Stromal Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT05208047",
+      "published": "2022-01-26",
+      "retrieved_at": "2026-09-08T10:07:23.509460+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Advanced Gastrointestinal Stromal Tumors",
+          "Metastatic Cancer"
+        ],
+        "interventions": [
+          {
+            "name": "CGT9486",
+            "type": "DRUG"
+          },
+          {
+            "name": "CGT9486",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          },
+          {
+            "name": "Midazolam",
+            "type": "DRUG"
+          },
+          {
+            "name": "CGT9486",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          },
+          {
+            "name": "CGT9486",
+            "type": "DRUG"
+          },
+          {
+            "name": "Sunitinib",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 482,
+        "start_date": "2022-04-14",
+        "primary_completion_date": "2025-09-30",
+        "completion_date": "2030-01",
+        "first_posted_date": "2022-01-26",
+        "primary_outcomes": [
+          {
+            "measure": "Part 1a - pharmacokinetics - Cmax",
+            "timeFrame": "16 days"
+          },
+          {
+            "measure": "Part 1a - pharmacokinetics - AUC",
+            "timeFrame": "16 days"
+          },
+          {
+            "measure": "Part 1b - pharmacokinetics - Cmax",
+            "timeFrame": "14 days"
+          },
+          {
+            "measure": "Part 1b - pharmacokinetics - AUC",
+            "timeFrame": "14 days"
+          },
+          {
+            "measure": "Part 1b - pharmacokinetics - Tmax",
+            "timeFrame": "14 days"
+          },
+          {
+            "measure": "Part 2 - Progression Free Survival (PFS)",
+            "timeFrame": "Approximately 48 months"
+          },
+          {
+            "measure": "DDI Substudy - pharmacokinetics - AUC",
+            "timeFrame": "16 days"
+          },
+          {
+            "measure": "DDI Substudy - pharmacokinetics - Cmax",
+            "timeFrame": "14 days"
+          }
+        ]
+      },
+      "hash": "befbbe6fbb89aa3f549c6dd83f4a8c47a864d62b59c3e02d903758d723123934"
+    },
+    {
+      "company": "COGT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03680560",
+      "title": "Study of ACTR T Cell Product in Combination With Trastuzumab in Subjects With HER2-Positive Advanced Solid Tumor Cancers",
+      "url": "https://clinicaltrials.gov/study/NCT03680560",
+      "published": "2018-09-21",
+      "retrieved_at": "2026-09-08T10:07:23.509636+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Solid Tumor",
+          "HER-2 Protein Overexpression"
+        ],
+        "interventions": [
+          {
+            "name": "ACTR T Cell Product",
+            "type": "BIOLOGICAL"
+          },
+          {
+            "name": "Trastuzumab",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Cogent Biosciences, Inc.",
+        "enrollment": 6,
+        "start_date": "2019-03-13",
+        "primary_completion_date": "2020-03-12",
+        "completion_date": "2020-03-12",
+        "first_posted_date": "2018-09-21",
+        "primary_outcomes": [
+          {
+            "measure": "Safety and tolerability of ACTR T cell product with trastuzumab as assessed by committee review of dose limiting toxicities (DLTs), incidence and severity of adverse events (AEs) and clinically significant abnormalities of laboratory values",
+            "timeFrame": "42 days"
+          },
+          {
+            "measure": "Determination of recommended phase 2 dose (RP2D) regimen",
+            "timeFrame": "42 days"
+          }
+        ]
+      },
+      "hash": "185f980938de7dafd6b5042611f7a78da76b3e1e393ad677e05d699334e22b52"
+    }
+  ],
+  "errors": []
+}

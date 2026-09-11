@@ -1,0 +1,98 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 17. VPCs by time after dose and GVHD status for the final PPK model for belumosudil
+
+
+
+
+               0=Healthy-subjects; 1=cGVHD subjects
+               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,
+               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model
+               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed
+               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model
+               simulated data. The lower and upper blue areas represent the 95% CI of the 2.5th percentile and 97.5th percentile
+               of the model simulated data, respectively.
+               Source: Applicant’s population PK/PD report
+
+               Figure 18. VPC by time after dose (hours) for Studies KD025-208 and KD025-213 for the final
+               PPK model for belumosudil
+
+
+
+
+               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,
+               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model
+               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed
+               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model
+                                                                     300
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 16. Goodness of fit plots for the final PPK model for belumosudil
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+
+
+
+                                                                     299
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               simulated data. The lower and upper blue areas represent the 95% CI of the 2.5th percentile and 97.5th percentile
+               of the model simulated data, respectively.
+               Source: Adapted from the Applicant’s population PK/PD report
+
+               Figure 19. VPC by time since first dose for combined Studies KD025-208 and KD025-213 for
+               the final PPK model for belumosudil
+
+
+
+
+               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,
+               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model
+               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed
+               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model
+               simulated data. The lower and upper blue areas represent the 95% CI of the 2.5th percentile and 97.5th percentile
+               of the model simulated data, respectively.
+               Source: Adapted from the Applicant’s population PK/PD report
+
+               The PPK model estimated that the relative bioavailability was approximately 48% lower in
+               concomitant PPI administration compared to no PPI administration. Concomitant
+               administration of CYP3A4 inhibitors reduced belumosudil CL/F by approximately 23% in healthy
+               subjects. The belumosudil CL/F with concomitant CYP3A4 inducers was 2.88 times of that
+               without concomitant CYP3A4 inducers. In addition, an approximately 52% lower CL/F was
+               estimated in cGVHD subjects compared to healthy subjects. No significant effects of hepatic
+               and renal function were observed on the CL/F of belumosudil. The Applicant also predicted the
+               exposure under 200 mg QD and 200 mg BID dosing regimens administered in healthy subjects
+               and cGVHD patients as shown in Table 108.
+
+
+
+
+                                                                      301
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+

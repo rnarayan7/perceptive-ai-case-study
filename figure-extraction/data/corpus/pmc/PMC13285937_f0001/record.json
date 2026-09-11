@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13285937_f0001",
+  "figure_type": "waterfall",
+  "title": "TACE Combined with Ralox-HAIC (Oxaliplatin Puls Raltitrexed) and System Therapy in Patients with Unresectable Hepatocellular Carcinoma.",
+  "caption": "Waterfall plot for the best percentage change in target lesions size after treatment in 36 patients who underwent TACE+Ralox-HAIC plus system therapy.",
+  "context": "Waterfall plot for the best percentage change in target lesions size after treatment in 36 patients who underwent TACE+Ralox-HAIC plus system therapy. The overall response rate (ORR) was 77.78% (95% confidence interval [CI]: 50.0–80.0%), while the disease control rate (DCR) was 91.67% (95% CI: 65.0–90.0%) (refer to Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285937/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-06-18",
+  "retrieved_at": "2026-09-07T13:01:51.677804+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13285937",
+    "pmid": "42339020",
+    "journal": "Journal of hepatocellular carcinoma",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "9616663ab099c4f352bdc2d20e9ffba88de202c72b115ac7a6c3a51831c40b21",
+  "image_file": "image.jpg"
+}

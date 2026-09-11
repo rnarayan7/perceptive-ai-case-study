@@ -1,0 +1,43 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07032662",
+  "title": "Imeroprubart in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+  "url": "https://clinicaltrials.gov/study/NCT07032662",
+  "published": "2025-06-24",
+  "retrieved_at": "2026-09-07T12:53:37.946555+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Chronic Inflammatory Demyelinating Polyneuropathy"
+    ],
+    "interventions": [
+      {
+        "name": "Imeroprubart",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 162,
+    "start_date": "2025-03-18",
+    "primary_completion_date": "2028-08",
+    "completion_date": "2030-05",
+    "first_posted_date": "2025-06-24",
+    "primary_outcomes": [
+      {
+        "measure": "Proportion of participants remaining Relapse-free by Week 24",
+        "timeFrame": "Baseline, Week 24"
+      }
+    ]
+  },
+  "hash": "7f69ca911ecb1b9b82b638fed3c5765d6a9efdaed9bb4878da12b020d898d5e4"
+}

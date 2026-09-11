@@ -1,0 +1,24 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17890512",
+  "title": "FAERS report 17890512: Inappropriate schedule of product administration, Malaise, Death",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17890512",
+  "published": "2020-06-12",
+  "retrieved_at": "2026-09-08T08:41:06.398801+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Inappropriate schedule of product administration",
+      "Malaise",
+      "Death"
+    ],
+    "drugs": [
+      "QINLOCK"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "548472c5749c2362f351fb9c6a2d6026dbc51cb42af322d8f34d404ad2927fe9"
+}

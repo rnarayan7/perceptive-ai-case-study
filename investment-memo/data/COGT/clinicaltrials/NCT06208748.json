@@ -1,0 +1,40 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06208748",
+  "title": "SARC044: A Phase II Trial of Bezuclastinib in Combination With Sunitinib in Patients With GIST",
+  "url": "https://clinicaltrials.gov/study/NCT06208748",
+  "published": "2024-01-17",
+  "retrieved_at": "2026-09-07T12:53:51.529319+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Gastrointestinal Stromal Tumors",
+      "GIST"
+    ],
+    "interventions": [
+      {
+        "name": "Bezuclastinib in combination with sunitinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Sarcoma Alliance for Research through Collaboration",
+    "enrollment": 40,
+    "start_date": "2024-08-01",
+    "primary_completion_date": "2026-06",
+    "completion_date": "2027-06",
+    "first_posted_date": "2024-01-17",
+    "primary_outcomes": [
+      {
+        "measure": "To estimate the median progression free survival (mPFS)",
+        "timeFrame": "From the time of first dose to the occurrence of disease progression (as accessed by mRECIST v1.1) or death due to any cause prior to documented disease progression, up to 2 years.."
+      }
+    ]
+  },
+  "hash": "9ac7dc822a463b48d9c204bc9859020cf97787f7993c6a33cbc402eb4a4c13e3"
+}

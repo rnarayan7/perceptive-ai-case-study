@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526341315-cover",
+  "title": "Cogent Biosciences, Inc. 8-K (2026-08-10) - Cover & Table of Contents",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526341315/0001193125-26-341315-index.htm",
+  "published": "2026-08-10",
+  "retrieved_at": "2026-09-07T12:53:57.775649+00:00",
+  "metadata": {
+    "accession": "0001193125-26-341315",
+    "cik": 1622229,
+    "form": "8-K",
+    "primary_document": "cogt-20260810.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-08-10",
+    "filing_date": "2026-08-10",
+    "items": "2.02,9.01",
+    "company_title": "Cogent Biosciences, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526341315/cogt-20260810.htm",
+    "section": "Cover & Table of Contents",
+    "section_key": "cover"
+  },
+  "hash": "c401b794a7828667352367a95846ac7c626a8cb474bebee5e857e88ea0eb06b9"
+}

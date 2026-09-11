@@ -1,0 +1,13 @@
+Title: Clinical Efficacy of ABX203 Therapeutic Vaccine in HBeAg Negative Patients With Chronic Hepatitis B
+Status: COMPLETED
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Chronic Hepatitis B
+Interventions: ABX203 therapeutic Hepatitis B vaccine treatment arm (DRUG)
+Enrollment: 261
+
+Summary: The study is an open-label, randomized, comparative, multicenter clinical trial. The purpose of this study is to assess the efficacy of ABX203, a new chronic hepatitis B therapeutic vaccine administered as an adjunct therapy to nucleos(t)ide analogs (NUCs), in maintaining control of Hepatitis B disease after cessation of treatment with NUCs in subjects with HBeAg negative chronic Hepatitis B.
+
+Primary outcomes:
+- Percentage of subjects with viral load < 40 IU/mL at Week 48. (time frame: Week 48)

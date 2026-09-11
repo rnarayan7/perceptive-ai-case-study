@@ -1,0 +1,82 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 16. Goodness of fit plots for the final PPK model for belumosudil
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+
+
+
+                                                                     299
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 107. Parameter estimates for the final PPK model of belumosudil
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+               The goodness-of-fit (GOF) plots are shown in Figure 16. The time-after-dose Visual Predictive
+               Check (VPC) plots stratified by disease status are shown in Figure 17.The time-after-dose VPC
+               plots are also stratified by study shown in Figure 18. The time-after-first dose VPCs are shown
+               in Figure 19.
+
+
+
+
+                                                                     298
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 17. VPCs by time after dose and GVHD status for the final PPK model for belumosudil
+
+
+
+
+               0=Healthy-subjects; 1=cGVHD subjects
+               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,
+               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model
+               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed
+               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model
+               simulated data. The lower and upper blue areas represent the 95% CI of the 2.5th percentile and 97.5th percentile
+               of the model simulated data, respectively.
+               Source: Applicant’s population PK/PD report
+
+               Figure 18. VPC by time after dose (hours) for Studies KD025-208 and KD025-213 for the final
+               PPK model for belumosudil
+
+
+
+
+               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,
+               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model
+               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed
+               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model
+                                                                     300
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+

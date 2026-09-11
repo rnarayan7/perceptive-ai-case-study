@@ -1,0 +1,13 @@
+Title: ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2
+Status: COMPLETED
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 (DRUG), Placebo (DRUG)
+Enrollment: 636
+
+Summary: This is a multicenter, randomized, placebo controlled study to evaluate the efficacy and safety of ABX464 given at 25 or 50 mg QD in inducing clinical remission in subjects with moderately to severely active ulcerative colitis who have inadequate response, no response, a loss of response, or an intolerance to either conventional therapies \[corticosteroids, immunosuppressant (i.e. azathioprine, 6-mercaptopurine, methotrexate)\] and/or advanced therapies \[biologics (TNF inhibitors, anti-integrins, anti-IL-23), and/or S1P receptor modulators, and/or JAK inhibitors\].
+
+Primary outcomes:
+- Proportion of subjects who achieve clinical remission per Modified Mayo Score at week 8 (time frame: 8 weeks)

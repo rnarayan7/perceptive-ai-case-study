@@ -1,0 +1,115 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+                              Table 44. Study KD025-213: Durability of Response per FDA Adjudication
+                                                                                Belumosudil
+                                                                      200 mg QD            200 mg BID
+                                                                         N=49                 N=46
+                        Events, n (%)                                  19 (39%)             17 (37%)
+                        Median, months (95% CI) 1
+                                                                     NE (10.5, NE)        NE (12.0, NE)
+               1
+                Median as estimated per Kaplan-Meier methodology, confidence interval estimated using the
+               Brookmeyer and Crowley method.
+               Source: Reviewer’s analysis.
+                          Figure 11. Study KD025-213: Kaplan Meier Plot of Durability of Response per FDA
+                                                           Adjudication
+
+
+
+
+                                                      Source: Reviewer’s analysis.
+               Subpopulations
+
+               Table 45 shows ORR by subgroup. Study KD025-213 was not designed to compare subgroups
+               and does not contain sufficient information on patients in each treatment group to determine if
+               subgroup outcomes differ.
+                                                             176
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+                Figure 10. Study KD025-213: Kaplan Meier Plot of Duration of Response per FDA Adjudication
+
+
+
+
+                                                      Source: Reviewer’s analysis.
+
+               Alternative Measure of Durability
+
+               For responses that began through Cycle 7 Day 1, Table 44 shows durability of response by dose
+               group: time from response to new systemic therapy or death, whichever occurs first. Median
+               durability of response is non-estimable in the 200 mg QD group. Durability of response was
+               longer than six months in 79% (95% CI: 64%, 88%) and longer than 12 months in 62% (95% CI:
+               46%, 74%) of patients in the 200 mg QD group. Figure 11 shows the Kaplan-Meier plot for the
+               durability of response Kaplan-Meier plot.
+
+               Reviewer’s Comment: Since median durability of response was not reached, percentage of patients
+               without an event is reported for 6- and 12-month timepoints, as these milestones provide context
+               when the median has not been reached. The description should not be misinterpreted as a measure of
+               clinical benefit.
+
+
+
+
+                                                                     175
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 45. Study KD025-213: ORR per FDA Adjudication by Subgroup
+                                                                                                                      Belumosudil
+                 Variable                                           Group
+                                                                                                         200 mg BID             200 mg QD
+
+                 Age                                                < 65 years                         32/46, 70% (54,82)     40/48, 83% (70,93)
+                                                                    >= 65 years                        14/20, 70% (46,88)      9/17, 53% (28,77)
+
+                 Sex                                                Female                             23/33, 70% (51,84)     17/23, 74% (52,90)
+                                                                    Male                               23/33, 70% (51,84)     32/42, 76% (61,88)
+
+                 Race                                               American Indian or Alaska Native   2/2, 100% (16,100)                      NA
+                                                                    Black or African-American              0/1, 0% (0,98)     6/6, 100% (54,100)
+                                                                    Chinese                             1/1, 100% (3,100)                      NA
+                                                                    Other Asian                         1/1, 100% (3,100)                      NA
+                                                                    Unknown                            4/4, 100% (40,100)       3/4, 75% (19,99)
+                                                                    White                              38/57, 67% (53,79)     40/54, 74% (60,85)
+                                                                    Asian Indian                                      NA            0/1, 0% (0,98)
+
+                 Number of Lines of prior therapy                   2                                   9/14, 64% (35,87)     16/23, 70% (47,87)
+                                                                    3                                  13/17, 76% (50,93)    11/12, 92(% 62,100)
+                                                                    4                                   9/14, 64% (35,87)     12/15, 80% (52,96)
+                                                                    5                                  13/19, 68% (43,87)      9/14, 64% (35,87)
+                                                                    6                                  2/2, 100% (16,100)      1/1, 100% (3,100)
+
+                 Prior ibrutinib                                    No                                 30/42, 71% (55,84)     32/44, 73% (57,85)
+                                                                    Yes                                16/24, 67% (45,84)     17/21, 81% (58,95)
+
+                 Prior ruxolitinib                                  No                                 32/48, 67% (52,80)     36/45, 80% (65,90)
+                                                                    Yes                                14/18, 78% (52,94)     13/20, 65% (41,85)
+
+                 Best response to the last prior cGVHD treatment    Complete Response                      0/1, 0% (0,98)                      NA
+                                                                    Partial Response                   11/18, 61% (36,83)      9/12, 75% (43,95)
+                                                                    Progressive Disease                15/17, 88% (64,99)    16/17, 94% (71,100)
+                                                                    Stable Disease                     11/18, 61% (36,83)     16/26, 62% (41,80)
+                                                                    Unknown                             9/12, 75% (43,95)      8/10, 80% (44,97)
+
+                 Time from cGVHD diagnosis to enrollment (months)   <= 28                              21/29, 72% (53,87)     31/35, 89% (73,97)
+                                                                    > 28                              

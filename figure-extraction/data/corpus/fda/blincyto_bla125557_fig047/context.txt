@@ -1,0 +1,116 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 11: Kaplan-Meier Plots By Css Quartile for PK Available Subjects of Arm D of
+               Study 1331
+
+
+
+
+                 Source: Figures 13-6 of Applicant’s ER Analysis Report for S26
+
+
+
+
+               ER (efficacy) Assessment Summary
+               The Applicant’s Position:
+
+                 General Information
+                  Goal of ER analysis                         To investigate the relationship between
+                                                              blinatumomab exposure and efficacy endpoints
+                                                              (duration of EFS and OS) in pediatric subjects with
+                                                              high-risk first relapsed B-precursor ALL receiving
+                                                              blinatumomab or SOC chemotherapy as consolidation
+                                                              therapy after induction therapy
+                   Study Included                             20120215
+                   Endpoint                                   EFS (primary endpoint), OS (key secondary endpoint)
+                   No. of Patients (total, and with           111 (total) [54 (blinatumomab arm),
+                   individual PK)                             57 (SOC chemotherapy arm)] and 45 (with individual
+                                                              PK in blinatumomab arm)
+                                                                        210
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 10: Kaplan-Meier Plots By Css Quartile for PK Available Subjects of Arm B of
+               Study 1331
+
+
+
+
+                 Source: Figures 13-5 of Applicant’s ER Analysis Report for S26
+
+
+
+
+                                                                        209
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                   Population      General               Age: median (range) of 5 (1-17) yrs
+                   Characteristics                       Weight: median (range) of 27.5 (6.9-76.6) kg
+                                                         53 (47.7%) males
+                                                         96 (86.5%) White; 4 (3.6%) Asian; 3 (2.7%) Black or
+                                                         African American; 8 (7.2%) identified as Other
+                                      Pediatrics (if     Age: median (range) of 5 (1-17) yrs; 11.7% subj ≤ 2
+                                      any)               yrs; 58.6% subj ≤ 6 yrs; 87.4% subj ≤ 12 yrs
+                                                         Weight: median (range) of 27.5 (6.9-76.6) kg
+                   Dose(s) Included                      Blinatumomab cIV infusion at 15 µg/m2/day
+                                                         (maximum dose not to exceed 28 µg/day) over
+                                                         4 weeks for 1 cycle
+                   Exposure Metrics Explored             Steady-state concentration (125-5551 pg/mL)
+                   (range)
+                   Covariates Evaluated                  Age, weight, BSA, sex, blood counts (eg, hemoglobin,
+                                                         platelets, peripheral blasts in blood), genetic
+                                                         abnormality, MRD status at baseline and
+                                                         extramedullary disease at relapse
+                 Final Model Parameters                  Summary                               Acceptability
+                                                                                               [FDA’s
+                                                                                               comments]
+                   Model Structure                       Univariate Cox proportional           Acceptable
+                                                         hazard
+
+                   Model Parameter Estimates             Table 12-7 (for primary endpoint Acceptable
+                                                         of EFS) and Table 12-8 (for key
+                                                         secondary endpoint of OS)
+                   Model Evaluation                      Confidence intervals and p-values Acceptable
+                                                         reported in Table 12-7 and Table
+                                                         12-8
+                   Covariates and Clinical               No clinically relevant covariates Acceptable
+                   Relevance                             impacting ER relationship
+                   Simulation for Specific               N/A
+                   Population
+                   Visualization of E-R                  Figure 13-5 (Quartile analyses             Acceptable
+                   relationships                         presented in Table 12-4
+                                                         and Table 12-5 for baseline
+                                                         demographics and Table 12-6 for
+                                                         EFS and OS)
+                   Overall Clinical Relevance for        A relatively flat relationship             Acceptable
+                   ER                                    between exposure and response
+                                                         (duration of EFS and OS) was
+                                                         observed. No significant
+                                                         associations between exposure
+                                                                  211
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13442641_f4",
+  "figure_type": "kaplan_meier",
+  "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+  "caption": "Forest plots of multivariate Cox regression analysis for independent prognostic factors of OS and PFS.  (A)  Multivariate Cox analysis of overall survival (OS).  (B)  Multivariate Cox analysis of progression-free survival (PFS).",
+  "context": "Forest plots of multivariate Cox regression analysis for independent prognostic factors of OS and PFS.  (A)  Multivariate Cox analysis of overall survival (OS).  (B)  Multivariate Cox analysis of progression-free survival (PFS). In the multivariate model, high SII remained an independent adverse prognostic factor for OS (HR = 2.79, 95%CI: 1.55–5.02, P <0.001) and PFS (HR = 1.61, 95%CI: 1.17–2.21, P = 0.004) ( Figures 4A, B ). FLIPI-SII retained prognostic discrimination for OS and PFS in both periods, supporting the robustness of the model across evolving treatment paradigms ( Supplementary Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13442641/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:53:32.896356+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "2.79 (95% CI 1.55-5.02)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "ndent adverse prognostic factor for OS (HR = 2.79, 95%CI: 1.55–5.02, P <0.001) and PFS (HR = 1.61, 95%CI: 1",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "1.61 (95% CI 1.17-2.21)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "9, 95%CI: 1.55–5.02, P <0.001) and PFS (HR = 1.61, 95%CI: 1.17–2.21, P = 0.004) ( Figures 4A, B ). FLIPI-SI",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13442641",
+    "pmid": "42564252",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "b3af8c84057b2ee0d5bc5ea7bcc93f965ea0a184711f83799a5bb4a7038e8cbc",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22744248",
+  "title": "FAERS report 22744248: Pneumonia, Acute respiratory distress syndrome, Cardiac failure",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22744248",
+  "published": "2023-07-24",
+  "retrieved_at": "2026-09-08T08:40:52.400551+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Pneumonia",
+      "Acute respiratory distress syndrome",
+      "Cardiac failure",
+      "Acute respiratory failure",
+      "Acute kidney injury"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "AMIODARONE",
+      "AMIODARONE",
+      "AMIODARONE",
+      "CELLCEPT",
+      "CELLCEPT",
+      "CELLCEPT",
+      "DELTASONE",
+      "DELTASONE",
+      "DELTASONE",
+      "DELTASONE",
+      "ASPIRIN",
+      "MELATONIN",
+      "MELOXICAM",
+      "VITAMIN D3",
+      "GLUCOPHAGE XR",
+      "LISINOPRIL",
+      "XARELTO",
+      "PROTONIX",
+      "TYLENOL"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "5d16b28f525f3260345bf11ea6e42582b4c0ab6fa3e77832b51c1e4552dbd7b0"
+}

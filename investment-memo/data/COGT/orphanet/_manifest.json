@@ -1,0 +1,461 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "started_at": "2026-09-08T10:07:25.351370+00:00",
+  "finished_at": "2026-09-08T13:31:34.391467+00:00",
+  "documents": [
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-annual-incidence-italy-f8c9cf99",
+      "title": "Systemic mastocytosis - Annual incidence (Italy) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382509+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.3",
+        "geographic_area": "Italy",
+        "validation_status": "Validated",
+        "source": "8645532[PMID]",
+        "source_pmids": [
+          "8645532"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "f8c9cf9905db53452594703f7869c443b072f44e712f0989f9e94be84aafb7f6"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-point-prevalence-worldwide-3c317fdd",
+      "title": "Systemic mastocytosis - Point prevalence (Worldwide) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382593+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Class only",
+        "value_average": "0.0",
+        "geographic_area": "Worldwide",
+        "validation_status": "Validated",
+        "source": "[EXPERT]_ORPHANET",
+        "source_pmids": [],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "3c317fdd84b63a2a6ee091feb0ab2a848672a2da75dc1a6e79173512d1f76517"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-annual-incidence-denmark-5de05b9d",
+      "title": "Systemic mastocytosis - Annual incidence (Denmark) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382636+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.9",
+        "geographic_area": "Denmark",
+        "validation_status": "Validated",
+        "source": "24761987[PMID]",
+        "source_pmids": [
+          "24761987"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "5de05b9d90ca32a751822b5c7b5c5a52d346c675f072e4584c2b0af01f8bd63c"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-point-prevalence-denmark-f57ecec9",
+      "title": "Systemic mastocytosis - Point prevalence (Denmark) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382675+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "9.6",
+        "geographic_area": "Denmark",
+        "validation_status": "Validated",
+        "source": "24761987[PMID]",
+        "source_pmids": [
+          "24761987"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "f57ecec90b707139448046ba7126d743c718740d6e75d4f13df0c1516614b2bd"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-annual-incidence-europe-da50c60a",
+      "title": "Systemic mastocytosis - Annual incidence (Europe) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382713+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.6",
+        "geographic_area": "Europe",
+        "validation_status": "Validated",
+        "source": "24761987[PMID]_8645532[PMID]",
+        "source_pmids": [
+          "24761987",
+          "8645532"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "da50c60a777d707ed120fd9189989b7f8134e4041266eb2ea6665d43e9f97fd8"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-point-prevalence-netherlands-a35128b3",
+      "title": "Systemic mastocytosis - Point prevalence (Netherlands) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382751+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "13.0",
+        "geographic_area": "Netherlands",
+        "validation_status": "Validated",
+        "source": "23219169[PMID]",
+        "source_pmids": [
+          "23219169"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "a35128b3d4f5de9d34a3e6116f38d604956effc0dd21c7ed3b3633ec5cdc0b49"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2467-point-prevalence-europe-f9d5c47f",
+      "title": "Systemic mastocytosis - Point prevalence (Europe) [ORPHA:2467]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T13:31:34.382787+00:00",
+      "metadata": {
+        "orphacode": 2467,
+        "preferred_term": "Systemic mastocytosis",
+        "disorder_group": "Group of disorders",
+        "typology": "Clinical group",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "11.3",
+        "geographic_area": "Europe",
+        "validation_status": "Validated",
+        "source": "23219169[PMID]_24761987[PMID]",
+        "source_pmids": [
+          "23219169",
+          "24761987"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "f9d5c47f052117cd6a3459533e05bdf184c20d751111ca73e837f5561cc9576f"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-point-prevalence-europe-16f2bb12",
+      "title": "Gastrointestinal stromal tumor - Point prevalence (Europe) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600168+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "13.0",
+        "geographic_area": "Europe",
+        "validation_status": "Validated",
+        "source": "European Medicines Agency[OTHER]_23623056[PMID]",
+        "source_pmids": [
+          "23623056"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "16f2bb12cadd159b8ab786ac73a6dbbc6882c0a98fddc81172120b9c7e865949"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-annual-incidence-europe-fd84bbbf",
+      "title": "Gastrointestinal stromal tumor - Annual incidence (Europe) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600235+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.0",
+        "geographic_area": "Europe",
+        "validation_status": "Not yet validated",
+        "source": "21420965[PMID]_23623056[PMID]",
+        "source_pmids": [
+          "21420965",
+          "23623056"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "fd84bbbfd5938a92357edc50d7eceab0de3d4ca1aa3cf41dd92ee3ae903ceeab"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-annual-incidence-worldwide-ca3e1148",
+      "title": "Gastrointestinal stromal tumor - Annual incidence (Worldwide) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600272+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.0",
+        "geographic_area": "Worldwide",
+        "validation_status": "Not yet validated",
+        "source": "23177515[PMID]",
+        "source_pmids": [
+          "23177515"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "ca3e11485585bc5967e9e50ab0a9e960fd4ce37be552a0929b80875224b98acc"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-annual-incidence-korea-republic-of-fe35b319",
+      "title": "Gastrointestinal stromal tumor - Annual incidence (Korea, Republic of) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600306+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.9",
+        "geographic_area": "Korea, Republic of",
+        "validation_status": "Not yet validated",
+        "source": "20514305[PMID]",
+        "source_pmids": [
+          "20514305"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "fe35b319470d803777809f37fffe07f80c9792942c6b3a0386c7407a34ad20fc"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-point-prevalence-hong-kong-b0b5dc02",
+      "title": "Gastrointestinal stromal tumor - Point prevalence (Hong Kong) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600336+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "14.5",
+        "geographic_area": "Hong Kong",
+        "validation_status": "Not yet validated",
+        "source": "16610025[PMID]",
+        "source_pmids": [
+          "16610025"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "b0b5dc02a4d1e9457bd0acce773e667242336e778785d01da6c18c23aa7a9709"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-annual-incidence-hong-kong-79caa90f",
+      "title": "Gastrointestinal stromal tumor - Annual incidence (Hong Kong) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600364+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.82",
+        "geographic_area": "Hong Kong",
+        "validation_status": "Not yet validated",
+        "source": "16610025[PMID]",
+        "source_pmids": [
+          "16610025"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "79caa90f9ba70d3982cf0bdb2a0993fe328072bb5f1f721fbbaa7d2c4eb0e6da"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-annual-incidence-united-states-315df4ee",
+      "title": "Gastrointestinal stromal tumor - Annual incidence (United States) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600395+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.5",
+        "geographic_area": "United States",
+        "validation_status": "Not yet validated",
+        "source": "11213830[PMID]_23079473[PMID]",
+        "source_pmids": [
+          "11213830",
+          "23079473"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "315df4ee64c3f56a8d52dc755b2bc5ff6ecedc858612d793c6d7482d22f72e2c"
+    },
+    {
+      "company": "COGT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha44890-point-prevalence-sweden-55c3b573",
+      "title": "Gastrointestinal stromal tumor - Point prevalence (Sweden) [ORPHA:44890]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:28.600426+00:00",
+      "metadata": {
+        "orphacode": 44890,
+        "preferred_term": "Gastrointestinal stromal tumor",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "12.9",
+        "geographic_area": "Sweden",
+        "validation_status": "Validated",
+        "source": "15648083[PMID]",
+        "source_pmids": [
+          "15648083"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "55c3b57387ffd5d20cd6644f1ce186ab5548a44a16e1954e75cf47d9a85ac128"
+    }
+  ],
+  "errors": []
+}

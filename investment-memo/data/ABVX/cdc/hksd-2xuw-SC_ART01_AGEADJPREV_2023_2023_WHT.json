@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-SC_ART01_AGEADJPREV_2023_2023_WHT",
+  "title": "Arthritis - South Carolina - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003753+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "South Carolina",
+    "location_abbr": "SC",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "24.6",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "White, non-Hispanic"
+  },
+  "hash": "fb4ed26edc260c9e5fc700baaefc0c2155e25d559bf137d38d8232336d7d81dd"
+}

@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13396465_Fig2",
+  "figure_type": "spider",
+  "title": "Methylation-based ctDNA monitoring in metastatic breast cancer during CDK4/6 inhibitor therapy.",
+  "caption": "Methylation tumor fraction clearance and association with outcome. A  Spider plot outlining time to mTF clearance over time ( n  = 18 patients with clearance). Median 7.3 months (range: 0.7–30.6 months) indicated with vertical dotted line.  B  Forest plot highlighting baseline clinical features and association with mTF clearance ( n  = 57). Point estimates represent odds ratios from univariable logistic regression models (generalized linear model with binomial family and logit link); horizontal lines represent 95% confidence intervals derived from Wald-type standard errors.  P -values are two-sided and derived from Wald tests. No adjustments were made for multiple comparisons. Association between mTF clearance and ( C ) time to CDK4/6i discontinuation or ( D ) overall survival ( n  = 54; three patients with undetectable mTF at baseline were excluded from the clearance analysis). Survival curves were estimated using the Kaplan–Meier method; shaded bands represent 95% confidence intervals. Median survival is indicated where crossed.  P -values and hazard ratios with 95% confidence intervals were derived from two-sided Cox proportional hazards models.  n  = 36 (no clearance),  n  = 18 (clearance).",
+  "context": "Methylation tumor fraction clearance and association with outcome. A  Spider plot outlining time to mTF clearance over time ( n  = 18 patients with clearance). Median 7.3 months (range: 0.7–30.6 months) indicated with vertical dotted line.  B  Forest plot highlighting baseline clinical features and association with mTF clearance ( n  = 57). Point estimates represent odds ratios from univariable logistic regression models (generalized linear model with binomial family and logit link); horizontal lines represent 95% confidence intervals derived from Wald-type standard errors.  P -values are two-sided and derived from Wald tests. No adjustments were made for multiple comparisons. Association between mTF clearance and ( C ) time to CDK4/6i discontinuation or ( D ) overall survival ( n  = 54; three patients with undetectable mTF at baseline were excluded from the clearance analysis). Survival curves were estimated using the Kaplan–Meier method; shaded bands represent 95% confidence intervals. Median survival is indicated where crossed.  P -values and hazard ratios with 95% confidence intervals were derived from two-sided Cox proportional hazards models.  n  = 36 (no clearance),  n  = 18 (clearance).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396465/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-04",
+  "retrieved_at": "2026-09-07T13:15:29.850979+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "7.3",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "ime ( n = 18 patients with clearance). Median 7.3 months (range: 0.7–30.6 months) indicated with",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13396465",
+    "pmid": "42243127",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "1982878750039866da8d6596dcaf08185b2af2eb4573b68afdbcc329a06c53d9",
+  "image_file": "image.jpg"
+}

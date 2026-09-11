@@ -1,0 +1,4 @@
+FAERS adverse-event report 17993198 (comparator: cenobamate)
+Serious: yes
+Reactions: Dizziness, Drug dose titration not performed, Mental impairment, Fatigue, Panic attack, Drug interaction, Slow speech, Fall, Memory impairment
+Reported drugs: SABRIL, LEVETIRACETAM., XCOPRI, LAMOTRIGINE., ONFI, SABRIL

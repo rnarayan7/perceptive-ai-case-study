@@ -1,0 +1,1 @@
+PBPK model‐simulated serum albumin level over time (black line) fitted to albumin in patients with advanced cancer treated with durvalumab (black circles). The model fit of albumin concentration in the plasma matches well to the mean albumin level observed in patients who received durvalumab up to 450 days after the first dose (Figure 2 ).

@@ -1,0 +1,1 @@
+Forest plot of PFS with antibody-based regimens targeting PD-1/PD-L1 and VEGF/VEGFR in advanced or metastatic NSCLC (p<0.001). The results of quality assessment are presented in Supplementary Figures 1 , 2 . Results indicated that compared with the control group, patients in the intervention group had better PFS (HR = 0.65, 95%CI: 0.57-0.75, p<0.001), as detailed in Figure 2 .

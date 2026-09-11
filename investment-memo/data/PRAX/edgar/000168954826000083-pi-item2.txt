@@ -1,0 +1,753 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and the audited financial information and the notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2025, which was filed with the Securities and Exchange Commission, or the SEC, on February 19, 2026. Some of the information contained in this discussion and analysis or set forth elsewhere in this Quarterly Report on Form 10-Q, including information with respect to our plans and strategy for our business and related financing, includes forward-looking statements that involve risks and uncertainties. As a result of many factors, including those factors set forth in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended December 31, 2025, our actual results could differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis.
+
+Overview
+
+We are a fully integrated, leading central nervous system, or CNS, precision neuroscience biopharmaceutical company translating insights from genetic epilepsies into the development of therapies for CNS disorders characterized by neuronal excitation-inhibition imbalance. Normal brain function requires a delicate balance of excitation and inhibition in neuronal circuits, which, when dysregulated, can lead to abnormal function and both rare and more prevalent neurological disorders. We are applying genetic insights to the discovery and development of therapies for neurological disorders through two proprietary platforms, using our understanding of shared biological targets and circuits in the brain. Each platform currently has multiple programs, with significant potential for additional program and indication expansion:
+
+•Cerebrum™, our small molecule platform, utilizes deep understanding of neuronal excitability and neuronal networks and applies a series of computational and experimental tools to develop orally available precision therapies
+
+•Solidus™, our antisense oligonucleotide, or ASO, platform, is an efficient, targeted precision medicine discovery and development engine anchored on a proprietary, computational methodology
+
+Our platforms utilize a deliberate, pragmatic and patient-guided approach, leveraging a suite of translational tools, including novel transgenic and predictive translational animal models and electrophysiology markers, to enable an efficient path to proof-of-concept in patients. Through this approach, we have established a diversified, multimodal CNS portfolio with four late-stage product candidates across movement disorders and epilepsy.
+
+For our ulixacaltamide program within the Cerebrum™ platform, we submitted a New Drug Application, or NDA, for ulixacaltamide HCl for the treatment of essential tremor, or ET, to the FDA based on the positive results of our two studies in the Phase 3 Essential3 program in ET, and it was accepted for review with a target action date under the Prescription Drug User Fee Act, or PDUFA, of January 29, 2027. The mid-cycle meeting was successfully completed and the FDA has identified no major safety or efficacy concerns to date. The agency confirmed that no advisory committee meeting is planned. In anticipation of potential approval, commercial preparations and pre-launch activities are ongoing. In July 2026, we entered into a research collaboration and license agreement with Remagine Labs, Inc., a developer of electronically controlled transdermal drug delivery systems, to develop an iontophoretic transdermal patch for the delivery of ulixacaltamide.
+
+For our relutrigine program within the Cerebrum™ platform, we submitted an NDA for relutrigine for the treatment of SCN2A and SCN8A developmental and epileptic encephalopathies, or DEEs, to the FDA based on the positive results from the registrational cohort of the EMBOLD study in SCN2A-DEE and SCN8A-DEE, and it was accepted for priority review with a target PDUFA action date of September 27, 2026. In June 2026, the FDA notified us that it had extended by three months the review period for our NDA for relutrigine, setting an updated PDUFA action date of December 27, 2026. The mid-cycle meeting was successfully completed and the FDA has identified no major safety or efficacy concerns to date. The agency confirmed that no advisory committee meeting is planned. In anticipation of potential approval, commercial preparations and pre-launch activities are ongoing. The EMERALD study, which is evaluating relutrigine in patients with broad DEEs, has completed recruitment, with topline results anticipated in the fourth quarter of 2026. Assuming approval of the NDA for relutrigine, we believe the EMERALD study, if positive, could serve as the basis for a supplemental NDA, or sNDA, submission in 2027.
+
+The FDA has completed its Bioresearch Monitoring, or BIMO, inspection as part of its ongoing review of the ulixacaltamide and relutrigine NDAs. The BIMO inspection was conducted jointly for both applications, and the
+
+19
+
+scope of the inspection was comprehensive, spanning overall quality and clinical operations, data integrity, including statistical and interim analyses, and safety, amongst other standard areas in the BIMO program. The inspection was completed successfully, and no form 483 was issued.
+
+For our vormatrigine program within the Cerebrum™ platform, our ENERGY program is ongoing, which consists of five studies to generate patient eligibility, efficacy, safety and pharmacokinetics, or PK, data in patients with focal onset seizures, or FOS, or generalized epilepsy. Studies under the ENERGY program include EMPOWER, RADIANT, POWER1, POWER2 and POWER3. In the second half of 2025, we announced positive results from our RADIANT Phase 2 open-label study evaluating the PK, safety and efficacy of vormatrigine in patients with FOS or generalized epilepsy. We initiated the EMPOWER study, an observational study of vormatrigine in patients with epilepsy, in the third quarter of 2024. In June 2026, we announced that the primary endpoint was not met in our POWER1 study, a double-blind, placebo-controlled, 12-week study in FOS. We paused enrollment in POWER2, our third efficacy study, to reassess the vormatrigine program and determine potential modifications. We intend to restart enrollment of the POWER2 study and initiate the POWER3 study, a clinical trial evaluating vormatrigine as a single-agent treatment for FOS, in the fourth quarter of 2026.
+
+For our most advanced product candidate under the Solidus™ platform, elsunersen, we announced positive topline results in April 2026 from the EMBRAVE Part A study evaluating the safety and efficacy of elsunersen versus sham procedure for treating SCN2A gain-of-function DEE. In June 2026, we received FDA breakthrough therapy designation for elsunersen for the treatment of seizures associated with SCN2A DEEs caused by gain-of-function variants. We are currently enrolling EMBRAVE3, a Phase 3 registrational study for early-seizure-onset SCN2A  DEE, and expect to announce topline results in 2027.
+
+We also have three earlier stage novel ASOs with preclinical proof of mechanism. PRAX-080 is focused on PCDH19 mosaic expression, PRAX-090 is targeting SYNGAP1 loss-of-function, or LoF, mutations which is a leading cause of severe intellectual disability and epilepsy in DEEs, and PRAX-100 is targeting SCN2A LoF mutations, the predominant genetic link to de novo autism spectrum disorders, or ASD. We anticipate nominating several development candidates in 2026.
+
+We were incorporated in 2015 and commenced operations in 2016. Since inception, we have devoted substantially all of our resources to developing our preclinical and clinical product candidates, building our intellectual property, or IP, portfolio, business planning, raising capital and providing general and administrative support for these operations. We employ a “virtual” research and development model, relying heavily upon external consultants, collaborators, contract development and manufacturing organizations and contract research organizations, or CROs, to conduct our preclinical and clinical activities. Since inception, we have financed our operations primarily with proceeds from the sale and issuance of equity securities.
+
+We are a development stage company and we have not generated any revenue from product sales. All of our product candidates are in preclinical and clinical development or awaiting regulatory approval. Our ability to generate product revenue sufficient to achieve profitability will depend heavily on the successful development and eventual commercialization of one or more of our product candidates, if approved. We have incurred recurring operating losses since inception, including a net loss of $176.3 million for the six months ended June 30, 2026. As of June 30, 2026, we had an accumulated deficit of $1.3 billion. We expect to incur significant expenses for the foreseeable future as we expand our research and development activities and prepare for commercialization of our product candidates. In addition, our losses from operations may fluctuate significantly from quarter-to-quarter and year-to-year, depending on the timing of our clinical trials and our expenditures on other research and development activities. We anticipate that our expenses will be maintained or increased in connection with our ongoing activities, as we:
+
+•prepare for the potential commercialization of ulixacaltamide, for which we have submitted an NDA to the FDA that has been accepted for review, after successful completion of our Phase 3 Essential3 program for ET;
+
+•prepare for the potential commercialization of relutrigine, for which we have submitted an NDA to the FDA which has been accepted for review after a successful interim analysis in the EMBOLD clinical trial, and advance relutrigine in the EMERALD clinical trial;
+
+•advance vormatrigine in the ENERGY clinical trials for FOS or generalized epilepsy;
+
+•advance elsunersen in the EMBRAVE3 pivotal clinical trial;
+
+20
+
+•advance our preclinical candidates to clinical trials;
+
+•further invest in our pipeline;
+
+•further invest in our manufacturing capabilities;
+
+•continue to seek regulatory approval for our product candidates;
+
+•maintain, expand, protect and defend our IP portfolio;
+
+•acquire or in-license technology;
+
+•continue building our sales, marketing and distribution infrastructure to commercialize any products for which we may obtain marketing approval; and
+
+•increase our headcount to support our development and commercialization efforts.
+
+As a result, we will need substantial capital to support our continuing operations and pursue our growth strategy. Until such time as we can generate significant revenue from product sales, if ever, we expect to finance our operations through the sale of equity, debt financings or other capital sources, including potential collaborations with other companies or other strategic transactions. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on favorable terms, or at all. If we fail to raise capital or enter into such agreements as and when needed, we may have to significantly delay, scale back or discontinue the development and commercialization of one or more of our product candidates or delay our pursuit of potential in-licenses or acquisitions.
+
+Because of the numerous risks and uncertainties associated with product development, we are unable to predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+
+As of June 30, 2026, we had cash, cash equivalents and marketable securities of $1.4 billion. We expect that our cash, cash equivalents, and marketable securities as of June 30, 2026 will be sufficient to fund our operating expenditures and capital expenditure requirements necessary to advance our operating activities into 2028. The analysis included consideration of our current financial needs and ongoing research and development and commercialization plans. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect. See “—Liquidity and Capital Resources.”
+
+Financial Operations Overview
+
+Revenue
+
+We have not generated any revenue from the sale of products since inception and our ability to generate revenue from the sale of products in the future will be dependent on regulatory approval of our product candidates. If our development efforts for our current or future product candidates are successful and result in marketing approval or collaboration or license agreements with third parties, we may generate revenue in the future from a combination of product sales or payments from such collaboration or license agreements.
+
+Operating Expenses
+
+Research and Development Expenses
+
+The nature of our business and primary focus of our activities generate a significant amount of research and development costs. Research and development expenses represent costs incurred by us for the following:
+
+•costs to develop our portfolio;
+
+•discovery efforts leading to development candidates;
+
+•clinical development costs for our product candidates; and
+
+•costs to develop our manufacturing technology and infrastructure.
+
+21
+
+The costs above comprise the following categories:
+
+•personnel-related expenses, including salaries, benefits and stock-based compensation expense;
+
+•expenses incurred under agreements with third parties, such as consultants, investigative sites and CROs, that conduct our preclinical and clinical studies and in-licensing arrangements;
+
+•costs incurred to maintain compliance with regulatory requirements;
+
+•costs incurred with third-party contract development and manufacturing organizations to acquire, develop and manufacture materials for preclinical and clinical studies; and
+
+•depreciation, amortization and other direct and allocated expenses, including rent and other operating costs, such as information technology, incurred as a result of our research and development activities.
+
+We expense research and development costs as incurred. We recognize external development costs based on an evaluation of the progress to completion of specific tasks using information provided to us by our vendors and our clinical investigative sites. Payments for these activities are based on the terms of the individual agreements, which may differ from the pattern of costs incurred, and are reflected in our condensed consolidated balance sheets as prepaid expenses or accrued expenses. Non-refundable advance payments for goods or services to be received in the future for use in research and development activities are deferred and capitalized, even when there is no alternative future use for the research and development. The capitalized amounts are expensed as the related goods are delivered or the services are performed.
+
+As a company operating in a virtual environment, a significant portion of our research and development costs have been external costs incurred by third-parties. We track direct external research and development expenses to specific platforms and product candidates upon commencement. Due to the number of ongoing studies and our ability to use resources across platforms, indirect or shared operating costs incurred for our research and development platforms, such as personnel, facility costs and certain consulting costs, are not recorded or maintained on a platform-specific basis.
+
+The following table reflects our research and development expenses, including direct expenses summarized by platform and indirect or shared operating costs recognized as research and development expenses during the periods presented below (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Cerebrum™
+
+$
+
+40,444
+
+$
+
+46,977
+
+$
+
+92,433
+
+$
+
+89,809
+
+Solidus™
+
+8,655
+
+1,979
+
+12,989
+
+3,327
+
+Personnel-related (including stock-based compensation)
+
+15,877
+
+11,459
+
+32,528
+
+24,310
+
+Other indirect research and development expenses
+
+4,440
+
+2,591
+
+9,453
+
+6,366
+
+Total research and development expenses
+
+$
+
+69,416
+
+$
+
+63,006
+
+$
+
+147,403
+
+$
+
+123,812
+
+Research and development activities are central to our business model. Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect that our research and development expenses will be maintained or increase in the foreseeable future as we advance our product candidates through the development phase, and as we continue to discover and develop additional product candidates, build manufacturing capabilities and expand into additional therapeutic areas.
+
+At this time, we cannot reasonably estimate or know the nature, timing and estimated costs of the efforts that will be necessary to complete the development of, and obtain regulatory approval for, any of our product candidates. We are also unable to predict when, if ever, material net cash inflows will commence from sales, if approved, or licensing of our product candidates. This is due to the numerous risks and uncertainties associated with drug development, including the uncertainty of:
+
+•our ability to successfully develop, obtain regulatory approval for, and then successfully commercialize, our product candidates;
+
+22
+
+•our receipt of marketing approvals from applicable regulatory authorities;
+
+•our ability to commercialize products, if approved, whether alone or in collaboration with others;
+
+•our ability to add and retain key research and development personnel;
+
+•the timing and progress of preclinical and clinical development activities;
+
+•the number and scope of preclinical and clinical programs we decide to pursue;
+
+•our ability to successfully complete clinical trials with safety, tolerability and efficacy profiles that are satisfactory to the FDA or any comparable foreign regulatory authority;
+
+•our successful enrollment in and completion of clinical trials;
+
+•the costs associated with the development of any additional product candidates we identify in-house or acquire through collaborations;
+
+•our ability to discover, develop and utilize biomarkers to demonstrate target engagement, pathway engagement and the impact on disease progression of our product candidates;
+
+•our ability to establish and maintain agreements with third-party manufacturers for clinical supply for our clinical trials and commercial manufacturing, if our product candidates are approved;
+
+•the terms and timing of any collaboration, license or other arrangement, including the terms and timing of any milestone payments thereunder;
+
+•our ability to obtain and maintain patent, trade secret and other IP protection and regulatory exclusivity for our product candidates, if approved; and
+
+•the continued acceptable safety profiles of our product candidates.
+
+A change in any of these variables with respect to the development of any of our product candidates would significantly change the costs, timing and viability associated with the development of that product candidate. For example, if the FDA or another regulatory authority were to delay our planned start of clinical trials or require us to conduct clinical trials or other testing beyond those that we currently expect, or if we experience significant delays in enrollment in any of our planned clinical trials, we could be required to expend significant additional financial resources and time to complete our clinical development activities. We may never obtain regulatory approval for any of our product candidates. Drug commercialization will take several years and require significant development costs.
+
+General and Administrative Expense
+
+General and administrative expenses consist primarily of personnel-related costs, including salaries, benefits and stock-based compensation, for personnel in our executive, finance, legal, commercial and administrative functions. General and administrative expenses also include legal fees relating to corporate matters; professional fees for accounting, auditing, tax and administrative consulting services; commercial-related costs as we prepare for the potential launch of our product candidates; insurance costs; administrative travel expenses; and facility-related expenses, which include direct depreciation costs and allocated expenses for office rent and other operating costs, such as information technology. Costs to secure and defend our IP are expensed as incurred and are classified as general and administrative expenses. These costs relate to the operation of the business and are unrelated to the research and development function or any individual platform or product candidate.
+
+We anticipate that our general and administrative expenses may increase in the future as we increase our headcount, when needed, to support the expected growth in our research and development activities and the potential commercialization of our product candidates. We also expect to incur additional IP-related expenses as we file patent applications to protect innovations arising from our research and development activities.
+
+Other Income
+
+Other Income, Net
+
+Other income, net consists of interest income from our cash, cash equivalents and marketable securities and amortization of investment premiums and discounts.
+
+23
+
+Income Taxes
+
+Since our inception, we have not recorded any U.S. federal or state income tax benefits for the net losses we have incurred in each year or for our earned research and development tax credits due to our uncertainty of realizing a benefit from those items. Income taxes are determined at the applicable tax rates adjusted for non-deductible expenses, research and development tax credits and other permanent differences. Our income tax provision may be significantly affected by changes to our estimates. There was no income tax provision recognized for the three and six months ended June 30, 2026 and 2025.
+
+Results of Operations
+
+Comparison of the Three Months Ended June 30, 2026 and 2025
+
+The following table summarizes our condensed consolidated statements of operations for each period presented (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+Operating expenses:
+
+Research and development
+
+$
+
+69,416
+
+$
+
+63,006
+
+$
+
+6,410
+
+General and administrative
+
+27,488
+
+13,061
+
+14,427
+
+Total operating expenses
+
+96,904
+
+76,067
+
+20,837
+
+Loss from operations
+
+(96,904)
+
+(76,067)
+
+(20,837)
+
+Other income:
+
+Other income, net
+
+13,184
+
+4,940
+
+8,244
+
+Total other income
+
+13,184
+
+4,940
+
+8,244
+
+Net loss
+
+$
+
+(83,720)
+
+$
+
+(71,127)
+
+$
+
+(12,593)
+
+Research and Development Expense
+
+The following table summarizes our research and development expenses for each period presented, along with the changes in those items (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+Cerebrum™
+
+$
+
+40,444
+
+$
+
+46,977
+
+$
+
+(6,533)
+
+Solidus™
+
+8,655
+
+1,979
+
+6,676
+
+Personnel-related (including stock-based compensation)
+
+15,877
+
+11,459
+
+4,418
+
+Other indirect research and development expenses
+
+4,440
+
+2,591
+
+1,849
+
+Total research and development expenses
+
+$
+
+69,416
+
+$
+
+63,006
+
+$
+
+6,410
+
+The $6.4 million increase in research and development expenses was primarily attributable to the following:
+
+•$6.7 million increase in expense related to our Solidus™ platform, driven primarily by a $5.0 million milestone payment due to Ionis Pharmaceuticals Inc., or Ionis, upon completion of our EMBRAVE Part A study, as well as spend for our EMBRAVE3 pivotal clinical trial;
+
+•$6.5 million decrease in expense related to our Cerebrum™ platform, driven primarily by:
+
+◦a $6.6 million decrease in spend for our ulixacaltamide program, driven primarily by decreased activity in the Essential3 study, partially offset by increased manufacturing costs to support commercialization;
+
+◦a $4.8 million decrease in spend for our vormatrigine program, primarily driven by lower spend for our ENERGY program, partially offset by,
+
+◦a $4.2 million increase in activities for our earlier stage assets as we advance our portfolio.
+
+•$4.4 million increase in personnel-related costs mainly due to increased headcount; and
+
+24
+
+•$1.8 million increase in indirect expenses driven primarily by consulting spend to support operations.
+
+General and Administrative Expense
+
+The $14.4 million increase in general and administrative expenses was primarily attributable to the following:
+
+•$7.2 million increase in professional expenses, primarily attributable to increased commercial spend as we prepare for the potential launches of ulixacaltamide and relutrigine; and
+
+•$6.3 million increase in personnel-related costs mainly due to increased headcount.
+
+Results of Operations
+
+Comparison of the Six Months Ended June 30, 2026 and 2025
+
+The following table summarizes our condensed consolidated statements of operations for each period presented (in thousands):
+
+Six Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+Operating expenses:
+
+Research and development
+
+$
+
+147,403
+
+$
+
+123,812
+
+$
+
+23,591
+
+General and administrative
+
+55,361
+
+26,983
+
+28,378
+
+Total operating expenses
+
+202,764
+
+150,795
+
+51,969
+
+Loss from operations
+
+(202,764)
+
+(150,795)
+
+(51,969)
+
+Other income:
+
+Other income, net
+
+26,483
+
+10,372
+
+16,111
+
+Total other income
+
+26,483
+
+10,372
+
+16,111
+
+Net loss
+
+$
+
+(176,281)
+
+$
+
+(140,423)
+
+$
+
+(35,858)
+
+Research and Development Expense
+
+The following table summarizes our research and development expenses for each period presented, along with the changes in those items (in thousands):
+
+Six Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+Cerebrum™
+
+$
+
+92,433
+
+$
+
+89,809
+
+$
+
+2,624
+
+Solidus™
+
+12,989
+
+3,327
+
+9,662
+
+Personnel-related (including stock-based compensation)
+
+32,528
+
+24,310
+
+8,218
+
+Other indirect research and development expenses
+
+9,453
+
+6,366
+
+3,087
+
+Total research and development expenses
+
+$
+
+147,403
+
+$
+
+123,812
+
+$
+
+23,591
+
+The $23.6 million increase in research and development expenses was primarily attributable to the following:
+
+•$2.6 million increase in expense related to our Cerebrum™ platform, driven primarily by:
+
+◦a $7.6 million increase in spend for our relutrigine program, primarily related to our EMERALD trial activities and manufacturing spend to support commercialization;
+
+◦a $5.9 millionincrease in activities for our earlier stage assets as we advance our portfolio;
+
+◦a $2.1 million increase in spend for our vormatrigine program, primarily driven by spend for our ENERGY program, partially offset by,
+
+25
+
+◦a $13.0 million decrease in spend for our ulixacaltamide program, driven primarily by decreased activity in the Essential3 study, partially offset by increased manufacturing costs to support commercialization and the PDUFA fee paid in the first quarter of 2026.
+
+•$9.7 millionincrease in expense related to our Solidus™ platform, driven primarily by a $5.0 million milestone payment due to Ionis Pharmaceuticals Inc., or Ionis, upon completion of our EMBRAVE Part A study, as well as spend for our EMBRAVE3 pivotal clinical trial;
+
+•$8.2 million increase in personnel-related costs due to increased headcount; and
+
+•$3.1 million increase in indirect expenses driven primarily by consulting spend to support operations.
+
+General and Administrative Expense
+
+The $28.4 million increase in general and administrative expenses was primarily attributable to the following:
+
+•$15.5 million increase in personnel-related costs mainly due to increased stock-based compensation expense and increased headcount; and
+
+•$11.3 million increase in professional expenses, primarily attributable to increased commercial spend as we prepare for the potential launches of ulixacaltamide and relutrigine.
+
+Liquidity and Capital Resources
+
+Sources of Liquidity
+
+Since our inception, we have incurred significant losses in each period. We have not yet commercialized any of our product candidates, which are in various phases of preclinical and clinical development or awaiting regulatory review, and we may not generate meaningful revenue from product sales in the near term, if at all.
+
+To date, we have financed our operations primarily with proceeds from the issuance of redeemable convertible preferred stock and from the sale of common stock through an initial public offering, common stock and pre-funded warrants through follow-on public offerings and common stock from at-the-market offerings under our shelf registration statement. From inception through June 30, 2026, we have raised $2.4 billion in aggregate cash proceeds from such transactions, net of issuance costs. As of June 30, 2026, we had cash, cash equivalents, and marketable securities of $1.4 billion.
+
+In March 2024, we entered into an Open Market Sale Agreement, or the 2024 Sales Agreement, with Jefferies LLC, or Jefferies, to provide for the offering, issuance, and sale of up to an aggregate amount of $150.0 million of common stock in at-the-market offerings. In December 2024, we entered into an amendment to the 2024 Sales Agreement with Jefferies to provide for the offering, issuance and sale of up to an aggregate amount of $250.0 million of common stock from time to time in at-the-market offerings. During the six months ended June 30, 2025, we issued and sold an aggregate of 1,351,689 shares under the amended 2024 Sales Agreement for aggregate net proceeds of $83.3 million, after deducting commissions and offering expenses payable by us. The amended 2024 Sales Agreement was terminated in September 2025.
+
+In September 2025, we entered into a Sales Agreement, or the 2025 Sales Agreement, with TD Securities (USA) LLC, or TD Cowen, to provide for the offering, issuance and sale of up to an aggregate of $250.0 million of common stock from time to time in at-the-market offerings. During the six months ended June 30, 2026, we did not issue or sell any shares of common stock under the 2025 Sales Agreement.
+
+In October 2025, we completed a public offering of: (i) an aggregate of 3,527,072 shares of our common stock at a public offering price of $157.00 per share, including the underwriters' full exercise of their option to purchase 501,592 additional shares of common stock, and (ii) pre-funded warrants to purchase 318,470 shares of common stock at a public offering price of $156.9999 per share of common stock underlying the warrants. The purchase price per share of each pre-funded warrant represents the per share offering price for the common stock, less the $0.0001 per share exercise price of each underlying share. Total net proceeds generated from the offering were $567.1 million, after deducting underwriting discounts, commissions, and other offering expenses payable by us. As of June 30, 2026, none of the pre-funded warrants had been exercised and all remained outstanding.
+
+26
+
+In January 2026, we completed a public offering of 2,543,800 shares of our common stock at a public offering price of $260.00 per share, including the underwriters' full exercise of their option to purchase 331,800 additional shares of common stock. Total net proceeds generated from the offering were approximately $621.2 million, after deducting underwriting discounts, commissions and other offering expenses payable by us.
+
+Cash Flows
+
+The following table provides information regarding our cash flows for each period presented (in thousands):
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Net cash (used in) provided by:
+
+Operating activities
+
+$
+
+(163,694)
+
+$
+
+(107,686)
+
+Investing activities
+
+(333,293)
+
+(33,170)
+
+Financing activities
+
+614,003
+
+82,899
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+
+$
+
+117,016
+
+$
+
+(57,957)
+
+Operating Activities
+
+Our cash flows from operating activities are greatly influenced by our use of cash for operating expenses and working capital requirements to support the business. We have historically experienced negative cash flows from operating activities as we have invested in developing our portfolio, drug discovery efforts and related infrastructure. The cash used in operating activities resulted primarily from our net losses adjusted for non-cash charges and changes in operating assets and liabilities.
+
+During the six months ended June 30, 2026, net cash used in operating activities of $163.7 million was primarily due to our $176.3 million net loss and $15.1 million in changes in operating assets and liabilities primarily related to a decrease in accrued expenses, partially offset by $27.7 million of non-cash charges primarily related to stock-based compensation.
+
+During the six months ended June 30, 2025, net cash used in operating activities of $107.7 million was primarily due to our $140.4 million net loss, partially offset by $17.8 million in changes in operating assets and liabilities primarily related to an increase in accounts payable and $14.9 million of non-cash charges primarily related to stock-based compensation.
+
+Investing Activities
+
+During the six months ended June 30, 2026, net cash used in investing activities of $333.3 million was primarily related to purchases of marketable securities offset by maturities of marketable securities.
+
+During the six months ended June 30, 2025, net cash used in investing activities of $33.2 million was primarily related to purchases of marketable securities offset by maturities of marketable securities.
+
+Financing Activities
+
+During the six months ended June 30, 2026, net cash provided by financing activities of $614.0 million consisted primarily of net proceeds from our January 2026 follow-on offering.
+
+During the six months ended June 30, 2025, net cash provided by financing activities of $82.9 million consisted primarily of net proceeds from our at-the-market offerings.
+
+Plan of Operation and Future Funding Requirements
+
+We expect our expenses to increase substantially in connection with our ongoing research and development activities, particularly as we advance the preclinical activities and clinical trials of our product candidates, and our commercialization activities as we prepare for the potential approval of our product candidates. As a result, we expect to incur substantial operating expenses for the foreseeable future. We anticipate that our expenses will increase substantially if and as we:
+
+27
+
+•continue to build a sales, marketing, technology and distribution infrastructure and scale-up manufacturing capabilities to commercialize any products for which we may obtain regulatory approval;
+
+•advance the clinical development of our clinical-stage product candidates within our Cerebrum™ and Solidus™ platforms;
+
+•advance the development of any additional product candidates;
+
+•conduct research and continue preclinical development of potential product candidates;
+
+•make strategic investments in manufacturing capabilities;
+
+•maintain our IP portfolio and opportunistically acquire complementary IP;
+
+•seek to obtain regulatory approvals for our product candidates;
+
+•when needed, add clinical, scientific, operational, financial and management information systems and personnel, including personnel to support our product development and commercialization efforts and to support our operations as a public company; and
+
+•experience any delays or encounter any issues with any of the above, including but not limited to failed studies, complex results, safety issues or other regulatory challenges.
+
+We are unable to estimate the exact amount of our working capital requirements, but based on our current operating plan, we believe that our cash, cash equivalents, and marketable securities as of June 30, 2026 will be sufficient to fund our operating expenditures and capital expenditure requirements into 2028. However, we have based this estimate on assumptions that may prove to be wrong and we could exhaust our capital resources sooner than we expect.
+
+Because of the numerous risks and uncertainties associated with product development and potential collaborations with third parties for the development of our product candidates, we may incorrectly estimate the timing and amounts of increased capital outlays and operating expenses associated with completing the research and development of our product candidates. Our funding requirements and timing and amount of our operating expenditures will depend on many factors, including, but not limited to:
+
+•the scope, progress, results and costs of preclinical studies and clinical trials for our platforms and product candidates;
+
+•the number and characteristics of product candidates and technologies that we develop or may in-license;
+
+•the costs and timing of future commercialization activities, including manufacturing, marketing, sales and distribution, for any of our product candidates for which we receive marketing approval;
+
+•the costs necessary to obtain regulatory approvals, if any, for products in the United States and other jurisdictions, and the costs of post-marketing studies that could be required by regulatory authorities in jurisdictions where approval is obtained;
+
+•the costs and timing of preparing, filing and prosecuting patent applications, maintaining and enforcing our IP rights and defending any IP-related claims;
+
+•the continuation of our existing licensing arrangements and entry into new collaborations and licensing arrangements;
+
+•the costs we incur in maintaining business operations;
+
+•the costs associated with being a public company;
+
+•the revenue, if any, received from commercial sales of any product candidates for which we receive marketing approval;
+
+•the effect of competing technological and market developments; and
+
+28
+
+•the extent to which we acquire or invest in businesses, products and technologies, including entering into licensing or collaboration arrangements for product candidates, although we currently have no commitments or agreements to complete any such acquisitions or investments in businesses.
+
+Identifying potential product candidates and conducting preclinical testing and clinical trials is a time consuming, expensive and uncertain process that takes years to complete, and we may never generate the necessary data or results required to obtain marketing approval and achieve product sales. In addition, our product candidates, if approved, may not achieve commercial success. Accordingly, we may need to obtain substantial additional funds to achieve our business objectives.
+
+Adequate additional funds may not be available to us on acceptable terms, or at all. We do not currently have any committed external source of funds. Market volatility could also adversely impact our ability to access capital as and when needed. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interest of our existing stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of holders of our common stock. Additional debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends and may require the issuance of warrants, which could potentially result in dilution to the holders of our common stock.
+
+If we raise additional funds through collaborations, strategic alliances or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when needed, we may be required to delay, limit or terminate our product development programs or any future commercialization efforts or grant rights to develop and market product candidates to third parties that we would otherwise prefer to develop and market ourselves.
+
+Critical Accounting Policies and Significant Judgments and Estimates
+
+Our management’s discussion and analysis of our financial condition and results of operations is based on our condensed consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements, as well as the reported expenses incurred during the reporting periods. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+There have been no changes to our critical accounting policies from those described under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies and Significant Judgments and Estimates” included in our Annual Report on Form 10-K filed with the SEC on February 19, 2026, other than as disclosed in Note 2 to our condensed consolidated financial statements appearing elsewhere in this Quarterly Report on Form 10-Q.
+
+Recently Issued Accounting Pronouncements
+
+We have reviewed all recently issued standards and have determined that, other than as disclosed in Note 2 to our condensed consolidated financial statements appearing elsewhere in this Quarterly Report on Form 10-Q, such standards will not have a material impact on our condensed consolidated financial statements or do not otherwise apply to our current operations.

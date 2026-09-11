@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17611975",
+  "title": "FAERS report 17611975: Breast cancer",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17611975",
+  "published": "2020-10-07",
+  "retrieved_at": "2026-09-08T08:39:59.980524+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Breast cancer"
+    ],
+    "drugs": [
+      "YARINA",
+      "OZANIMOD."
+    ],
+    "occurcountry": "UA"
+  },
+  "hash": "c991dc6a53e75015e896ae591d6865600acd797d57c72c4a2483a05ffa5dea0a"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003927 (comparator: lamotrigine)
+Serious: yes
+Reactions: Headache, Nausea, Pyrexia, Rash, Myalgia, Muscular weakness, Gait disturbance, Tremor
+Reported drugs: DEPAKOTE, LAMOTRIGINE, LITHIUM

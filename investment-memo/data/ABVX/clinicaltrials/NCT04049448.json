@@ -1,0 +1,39 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04049448",
+  "title": "Study Evaluating the Long-Term Safety and Efficacy of ABX464 in Patients With Moderate to Severe Rheumatoid Arthritis",
+  "url": "https://clinicaltrials.gov/study/NCT04049448",
+  "published": "2019-08-08",
+  "retrieved_at": "2026-09-07T12:53:29.799323+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Rheumatoid Arthritis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 40,
+    "start_date": "2019-10-25",
+    "primary_completion_date": "2023-01-23",
+    "completion_date": "2023-01-23",
+    "first_posted_date": "2019-08-08",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of treatment-emergent adverse events in the ABX464 treated Patients, categorized by severity",
+        "timeFrame": "through study completion (average of 104 weeks)"
+      }
+    ]
+  },
+  "hash": "6a7fd84e307fbc5310e0f5a2e18eef785b4704cc4f8a7cabb472e788806cacf4"
+}

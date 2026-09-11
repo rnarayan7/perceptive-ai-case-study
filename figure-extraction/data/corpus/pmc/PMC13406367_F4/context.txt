@@ -1,0 +1,1 @@
+Forest plot for β-Blockers and 1-year OS in radiotherapy-treated patients. CI = confidence interval. The pooled results from the random‑effects model showed a statistically significant improvement in 1-year OS in the beta-blocker group (adjusted OR = 2.39, 95% CI: 1.00–5.696, P < .0001), as shown in Figure 4 .

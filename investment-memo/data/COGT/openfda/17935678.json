@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17935678",
+  "title": "FAERS report 17935678: Ascites, Hospice care, Decreased appetite",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17935678",
+  "published": "2026-03-10",
+  "retrieved_at": "2026-09-08T08:41:06.398959+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Ascites",
+      "Hospice care",
+      "Decreased appetite",
+      "Wrong dosage formulation"
+    ],
+    "drugs": [
+      "QINLOCK"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "ef19bb8418780eb35bb7dcc966b4bf2251e4d9db16972ddc8cca664c2934eb8b"
+}

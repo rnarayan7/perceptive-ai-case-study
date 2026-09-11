@@ -1,0 +1,2565 @@
+Item 8. Financial Statements and Supplementary Data
+
+Immunovant, Inc.
+
+Index to Consolidated Financial Statements
+
+Page
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 42)
+
+118
+
+Consolidated Financial Statements:
+
+Consolidated Balance Sheets as of March 31, 2026 and 2025
+
+120
+
+Consolidated Statements of Operations for the Years Ended March 31, 2026, 2025 and 2024
+
+121
+
+Consolidated Statements of Comprehensive Loss for the Years Ended March 31, 2026, 2025 and 2024
+
+122
+
+Consolidated Statements of Stockholders’ Equity for the Years Ended March 31, 2026, 2025 and 2024
+
+123
+
+Consolidated Statements of Cash Flows for the Years Ended March 31, 2026, 2025 and 2024
+
+124
+
+Notes to Consolidated Financial Statements
+
+125
+
+117
+
+Table of Contents
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Immunovant, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Immunovant, Inc. (the Company) as of March 31, 2026 and 2025, the related consolidated statements of operations, comprehensive loss, stockholders' equity and cash flows for each of the three years in the period ended March 31, 2026, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at March 31, 2026 and 2025, and the results of its operations and its cash flows for each of the three years in the period ended March 31, 2026, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of March 31, 2026, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated May 20, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+
+118
+
+Table of Contents
+
+Clinical Trial Accrual
+
+Description of the Matter
+
+As discussed in Note 2 to the consolidated financial statements, the Company accrues costs for clinical trial activities based upon estimates of the services received and related expenses incurred that have yet to be invoiced by contract research organizations. In making these estimates, the Company considers various factors, including status and timing of services performed, the number of patients enrolled and the rate of patient enrollment.
+
+Auditing the Company’s accrual for clinical trial costs requires a greater extent of audit effort due to the fact that information necessary to estimate the accruals is accumulated from clinical research organizations and the Company's assessment of that information is subject to variability and uncertainty. In addition, in certain circumstances, the determination of the nature and amount of services that have been received during the reporting period requires judgment because the timing and pattern of vendor invoicing does not correspond to the level of services provided and there may be delays in invoicing from clinical study sites and other vendors.
+
+How We Addressed the Matter in Our Audit
+
+We obtained an understanding, evaluated the design, and tested the operating effectiveness of internal controls that addressed the identified risks related to the information used in the Company’s process for recording clinical trial accruals. For example, we tested controls over management’s review of clinical trial progress in comparison to information and invoices received from third parties, and over the completeness and accuracy of data used to calculate the accrual.
+
+To test the clinical trial accrual, our audit procedures included, among others, reading a sample of the Company’s agreements with the service providers to understand key financial and contractual terms and testing the accuracy and completeness of the underlying data used in the accrual computations. We also evaluated management’s estimates of the vendor’s progress for a sample of clinical trials by making direct inquiries of the Company’s operations personnel overseeing the clinical trials and obtaining information directly from certain service providers about the service providers’ estimate of costs that had been incurred through March 31, 2026. To evaluate the completeness of the accruals, we also examined subsequent invoices from the service providers and cash disbursements to the service providers, to the extent such invoices were received, or payments were made prior to the date that the consolidated financial statements were issued.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2018.
+
+Iselin, New Jersey
+
+May 20, 2026
+
+119
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Consolidated Balance Sheets
+
+(In thousands, except share and per share data)
+
+March 31,
+
+2026
+
+2025
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+902,110
+
+$
+
+713,971
+
+Accounts receivable
+
+1,133
+
+2,084
+
+Prepaid expenses and other current assets
+
+42,763
+
+51,180
+
+Income tax receivable
+
+2,813
+
+427
+
+Total current assets
+
+948,819
+
+767,662
+
+Operating lease right-of-use assets
+
+72
+
+98
+
+Property and equipment, net
+
+443
+
+844
+
+Other assets
+
+7,680
+
+7,618
+
+Total assets
+
+$
+
+957,014
+
+$
+
+776,222
+
+Liabilities and Stockholders’ Equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+
+7,541
+
+$
+
+17,656
+
+Accrued expenses
+
+96,634
+
+50,748
+
+Current portion of operating lease liabilities
+
+72
+
+98
+
+Due to Roivant Sciences Ltd.
+
+175
+
+273
+
+Total current liabilities
+
+104,422
+
+68,775
+
+Total liabilities
+
+104,422
+
+68,775
+
+Commitments and contingencies (Note 10)
+
+Stockholders’ equity:
+
+Series A preferred stock, par value $0.0001 per share, 10,000 shares authorized, issued and outstanding at March 31, 2026 and March 31, 2025
+
+—
+
+—
+
+Preferred stock, par value $0.0001 per share, 10,000,000 shares authorized, no shares issued and outstanding at March 31, 2026 and March 31, 2025
+
+—
+
+—
+
+Common stock, par value $0.0001 per share, 500,000,000 shares authorized, 203,940,353 shares issued and outstanding at March 31, 2026 and 500,000,000 shares authorized, 170,111,593 shares issued and outstanding at March 31, 2025
+
+20
+
+16
+
+Additional paid-in capital
+
+2,596,971
+
+1,945,495
+
+Accumulated other comprehensive income
+
+730
+
+1,459
+
+Accumulated deficit
+
+(1,745,129)
+
+(1,239,523)
+
+Total stockholders’ equity
+
+852,592
+
+707,447
+
+Total liabilities and stockholders’ equity
+
+$
+
+957,014
+
+$
+
+776,222
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+120
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Consolidated Statements of Operations
+
+(In thousands, except share and per share data)
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Operating expenses:
+
+Research and development
+
+$
+
+456,660
+
+$
+
+360,917
+
+$
+
+212,928
+
+Acquired in-process research and development
+
+—
+
+—
+
+12,500
+
+General and administrative
+
+76,242
+
+77,235
+
+57,281
+
+Total operating expenses
+
+532,902
+
+438,152
+
+282,709
+
+Interest income, net
+
+(25,330)
+
+(24,732)
+
+(24,948)
+
+Other (income) expense, net
+
+(2,181)
+
+(471)
+
+1,008
+
+Loss before provision for income taxes
+
+(505,391)
+
+(412,949)
+
+(258,769)
+
+Provision for income taxes
+
+215
+
+891
+
+567
+
+Net loss
+
+$
+
+(505,606)
+
+$
+
+(413,840)
+
+$
+
+(259,336)
+
+Net loss per common share — basic and diluted
+
+$
+
+(2.77)
+
+$
+
+(2.73)
+
+$
+
+(1.88)
+
+Weighted average common shares outstanding — basic and diluted
+
+182,421,233
+
+151,573,553
+
+138,100,577
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+121
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Consolidated Statements of Comprehensive Loss
+
+(In thousands)
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Net loss
+
+$
+
+(505,606)
+
+$
+
+(413,840)
+
+$
+
+(259,336)
+
+Other comprehensive (loss) income:
+
+Foreign currency translation adjustments
+
+(729)
+
+(449)
+
+1,056
+
+Total other comprehensive (loss) income
+
+(729)
+
+(449)
+
+1,056
+
+Comprehensive loss
+
+$
+
+(506,335)
+
+$
+
+(414,289)
+
+$
+
+(258,280)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+122
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Consolidated Statements of Stockholders’ Equity
+
+(In thousands, except share data)
+
+Series A
+
+preferred stock
+
+Common stock
+
+Additional
+
+paid-in
+
+capital
+
+Accumulated
+
+other
+
+comprehensive
+
+income (loss)
+
+Accumulated
+
+deficit
+
+Total
+
+stockholders’
+
+equity
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Balance at March 31, 2023
+
+10,000
+
+$
+
+—
+
+130,329,863
+
+$
+
+13
+
+$
+
+927,976
+
+$
+
+852
+
+$
+
+(566,347)
+
+$
+
+362,494
+
+Issuance of common stock upon underwritten offering and private placement
+
+—
+
+—
+
+12,949,184
+
+1
+
+466,732
+
+—
+
+—
+
+466,733
+
+Stock options exercised and restricted stock units vested and settled
+
+—
+
+—
+
+2,303,952
+
+—
+
+5,694
+
+—
+
+—
+
+5,694
+
+Capital contribution – stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+103
+
+—
+
+—
+
+103
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+41,013
+
+—
+
+—
+
+41,013
+
+Foreign currency translation adjustments
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,056
+
+—
+
+1,056
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(259,336)
+
+(259,336)
+
+Balance at March 31, 2024
+
+10,000
+
+$
+
+—
+
+145,582,999
+
+$
+
+14
+
+$
+
+1,441,518
+
+$
+
+1,908
+
+$
+
+(825,683)
+
+$
+
+617,757
+
+Issuance of common stock upon private placement
+
+—
+
+—
+
+22,500,000
+
+2
+
+449,679
+
+—
+
+—
+
+449,681
+
+Stock options exercised and restricted stock units vested and settled
+
+—
+
+—
+
+2,028,594
+
+—
+
+4,811
+
+—
+
+—
+
+4,811
+
+Capital contribution – stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+24
+
+—
+
+—
+
+24
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+49,463
+
+—
+
+—
+
+49,463
+
+Foreign currency translation adjustments
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(449)
+
+—
+
+(449)
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(413,840)
+
+(413,840)
+
+Balance at March 31, 2025
+
+10,000
+
+$
+
+—
+
+170,111,593
+
+$
+
+16
+
+$
+
+1,945,495
+
+$
+
+1,459
+
+$
+
+(1,239,523)
+
+$
+
+707,447
+
+Issuance of common stock upon underwritten offering
+
+—
+
+—
+
+26,200,000
+
+3
+
+543,687
+
+—
+
+—
+
+543,690
+
+Stock options exercised and restricted stock units vested and settled
+
+—
+
+—
+
+7,628,760
+
+1
+
+52,065
+
+—
+
+—
+
+52,066
+
+Capital contribution – stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+832
+
+—
+
+—
+
+832
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+54,892
+
+—
+
+—
+
+54,892
+
+Foreign currency translation adjustments
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(729)
+
+—
+
+(729)
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(505,606)
+
+(505,606)
+
+Balance at March 31, 2026
+
+10,000
+
+$
+
+—
+
+203,940,353
+
+$
+
+20
+
+$
+
+2,596,971
+
+$
+
+730
+
+$
+
+(1,745,129)
+
+$
+
+852,592
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+123
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Consolidated Statements of Cash Flows
+
+(In thousands)
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Cash flows from operating activities
+
+Net loss
+
+$
+
+(505,606)
+
+$
+
+(413,840)
+
+$
+
+(259,336)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Stock-based compensation
+
+55,724
+
+49,487
+
+41,116
+
+Depreciation on property and equipment
+
+409
+
+377
+
+231
+
+Non-cash lease expense
+
+99
+
+133
+
+1,130
+
+Changes in operating assets and liabilities:
+
+Accounts receivable
+
+986
+
+3,232
+
+(4,577)
+
+Prepaid expenses and other current assets
+
+8,844
+
+(26,990)
+
+1,558
+
+Income tax receivable
+
+(2,386)
+
+(261)
+
+19
+
+Other assets
+
+69
+
+(7,736)
+
+—
+
+Accounts payable
+
+(10,252)
+
+10,684
+
+5,784
+
+Accrued expenses
+
+45,000
+
+8,923
+
+1,349
+
+Operating lease liabilities
+
+(99)
+
+(138)
+
+(1,172)
+
+Due to Roivant Sciences Ltd.
+
+(98)
+
+255
+
+(329)
+
+Net cash used in operating activities
+
+(407,310)
+
+(375,874)
+
+(214,227)
+
+Cash flows from investing activities
+
+Purchases of property and equipment
+
+(8)
+
+(759)
+
+(360)
+
+Net cash used in investing activities
+
+(8)
+
+(759)
+
+(360)
+
+Cash flows from financing activities
+
+Proceeds from issuance of common stock upon underwritten offering, net of underwriter discounts and commissions, and private placement
+
+544,194
+
+450,000
+
+472,745
+
+Payment of offering and private placement costs
+
+(504)
+
+(319)
+
+(6,012)
+
+Proceeds from stock options exercised
+
+52,066
+
+4,811
+
+5,694
+
+Net cash provided by financing activities
+
+595,756
+
+454,492
+
+472,427
+
+Effect of exchange rate changes on cash and cash equivalents
+
+(299)
+
+747
+
+993
+
+Net change in cash and cash equivalents
+
+188,139
+
+78,606
+
+258,833
+
+Cash and cash equivalents – beginning of period
+
+713,971
+
+635,365
+
+376,532
+
+Cash and cash equivalents – end of period
+
+$
+
+902,110
+
+$
+
+713,971
+
+$
+
+635,365
+
+Non-cash operating activity
+
+Operating lease right-of-use assets obtained in exchange for operating lease liabilities
+
+$
+
+73
+
+$
+
+98
+
+$
+
+91
+
+Supplemental disclosure of cash paid:
+
+Income taxes
+
+$
+
+2,386
+
+$
+
+1,202
+
+$
+
+509
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+124
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+Notes to Consolidated Financial Statements
+
+Note 1 — Organization and Nature of Business
+
+[A] Description of Business
+
+Immunovant, Inc. (together with its wholly-owned subsidiaries, the “Company” or “Immunovant”) is a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases. The Company is pursuing a broad anti-FcRN strategy based on its lead asset, IMVT-1402, a novel, fully human, monoclonal antibody that targets the neonatal fragment crystallizable receptor (“FcRn”). Designed to be optimized as a simple, subcutaneous injection, IMVT-1402 has been observed to reduce immunoglobulin G (“IgG”) antibody levels, which has provided evidence supporting the use of an anti-FcRn antibody in disease areas associated with high levels of pathogenic IgG antibodies. The Company discontinued further development of batoclimab (formerly referred to as IMVT-1401) across all indications to focus fully on the development of IMVT-1402.
+
+Immunovant, Inc.’s wholly owned subsidiaries include Immunovant Treasury Inc., a Delaware corporation based in the United States (“U.S.”), and Immunovant Sciences Ltd. (“ISL”), a Bermuda exempted limited company. Incorporated by ISL are its wholly owned subsidiaries, Immunovant Sciences Holdings Ltd. (“ISHL”), a private limited company incorporated in the United Kingdom under the laws of England and Wales, IMVT Corporation, a Delaware corporation based in the U.S., and Immunovant Sciences GmbH (“ISG”), a limited liability company formed under the laws of Switzerland.
+
+In January 2026, the Company completed an internal reorganization and transfer of intellectual property rights related to the Company’s product candidates between two wholly-owned subsidiaries of the Company. Ownership and rights to such intellectual property remain with the Company and its subsidiaries. See Note 6 - Income Taxes for additional details.
+
+[B] Liquidity
+
+The Company has incurred significant losses and negative cash flows from operations since its inception. As of March 31, 2026, the Company’s cash and cash equivalents totaled$902.1 million and its accumulated deficit was $1,745.1 million.
+
+The Company has not generated any revenues to date and does not anticipate generating any revenues unless and until it successfully completes development and obtains regulatory approval for IMVT-1402 or any future product candidate. Management expects to incur additional losses in the future to fund its operations and conduct product research and development and recognizes the need to raise additional capital to fully implement its business plan.
+
+The Company intends to raise such additional capital through the issuance of equity securities, debt financings, potential collaboration, license or development agreements or other sources in order to further implement its business plan. However, if such financing is not available at adequate levels, the Company will need to reevaluate its operating plan and may be required to delay the development of its product candidates.
+
+Note 2 — Summary of Significant Accounting Policies
+
+[A] Basis of Presentation
+
+The Company’s fiscal year ends on March 31, and its first three fiscal quarters end on June 30, September 30, and December 31. The accompanying consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”). Any reference in these notes to applicable guidance is meant to refer to the authoritative U.S. GAAP as found in the Accounting Standards Codification (“ASC”) and Accounting Standards Updates (“ASU”) of the Financial Accounting Standards Board (“FASB”).
+
+The accompanying consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. The Company has no unconsolidated subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+
+125
+
+Table of Contents
+
+[B] Use of Estimates
+
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. The Company regularly evaluates estimates and assumptions related to stock-based compensation, litigation accruals, clinical trial accruals, prepaid expenses, research and development costs and income taxes. The Company bases its estimates and assumptions on historical experience and on various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results could differ from those estimates.
+
+Additionally, the Company assessed the impact of macroeconomic and geopolitical factors on its operations and financial results as of March 31, 2026 and through the issuance of this report. The Company’s analysis was informed by the facts and circumstances as they were known to the Company. This assessment considered the impact that these uncertainties may have on financial estimates and assumptions that affect the reported amounts of assets and liabilities and expenses.
+
+[C] Risks and Uncertainties
+
+The Company is subject to risks common to early-stage companies in the biopharmaceutical industry including, but not limited to, uncertainties related to clinical effectiveness of products, commercialization of products, regulatory approvals, dependence on key products, key personnel and third-party service providers such as contract research organizations (“CROs”), protection of intellectual property rights, the need and ability to obtain additional financing and the ability to make milestone, royalty or other payments due under any license, collaboration or supply agreements.
+
+[D] Concentration of Credit Risk
+
+Financial instruments that potentially subject the Company to concentration of credit risk include cash and cash equivalents. As of March 31, 2026, the cash and cash equivalents balance is kept in banking institutions that the Company believes are of high credit quality and are in excess of federally insured levels. The Company maintains its cash and cash equivalents with accredited financial institutions and accordingly, such funds are subject to minimal credit risk. The Company has not experienced any losses on its cash and cash equivalents.
+
+[E] Cash and Cash Equivalents
+
+The Company considers all highly liquid investments with original maturities of three months or less from the date of purchase to be cash equivalents. At March 31, 2026 and 2025, cash and cash equivalents included $877.8 million and $687.6million, respectively, of money market funds invested in high-quality, short-term securities that are issued and guaranteed by the U.S. government and its agencies that are classified within Level 1 of the fair value hierarchy because they are valued using quoted market prices.
+
+[F] Property and Equipment
+
+Property and equipment, consisting of computers, is recorded at cost. Maintenance and repairs that do not improve or extend the lives of the respective assets are expensed to operations as incurred. Depreciation is recorded using the straight-line method over the estimated useful life of three years. Upon disposal, retirement or sale, the related cost and accumulated depreciation is removed from the accounts and any resulting gain or loss is included in the consolidated statements of operations.
+
+[G] Impairment of Long-lived Assets
+
+Long-lived assets, such as right-of-use assets due to operating leases, property and equipment, are evaluated for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. If circumstances require a long-lived asset to be tested for possible impairment, the Company first compares undiscounted cash flows expected to be generated by an asset to the carrying value of the asset. If the carrying value of the long-lived asset is not recoverable on an undiscounted cash flow basis, impairment is recognized to the extent that the carrying value exceeds its fair value. Fair value is determined through various valuation techniques including discounted cash flow models, quoted market values and third-party independent appraisals, as considered necessary.
+
+126
+
+Table of Contents
+
+[H] Contingencies
+
+The Company, from time to time, has been and may be a party to various disputes and claims arising from normal business activities. The Company continually assesses litigation to determine if an unfavorable outcome would lead to a probable loss or reasonably possible loss which could be estimated. The Company accrues for all contingencies at the earliest date at which the Company deems it probable that a liability has been incurred and the amount of such liability can be reasonably estimated. If the estimate of a probable loss is a range and no amount within the range is more likely than another, the Company accrues the minimum of the range. In the cases where the Company believes that a reasonably possible loss exists, the Company discloses the facts and circumstances of the litigation, including an estimable range, if possible. Legal defense costs associated with loss contingencies are expensed in the period incurred. Additionally, the Company records a receivable for rights to insurance recoveries, limited to the extent of incurred or probable losses, when such recoveries have been agreed to with third-party insurers and when receipt is deemed probable. This includes instances when the third-party insurers have agreed to pay, on the Company’s behalf, certain legal defense costs and settlement amounts directly to applicable law firms and settlement funds.
+
+[I] Research and Development Expenses
+
+Research and development costs with no alternative future use are expensed as incurred. Research and development expenses primarily consist of employee-related costs and expenses from third parties who conduct research and development activities (including manufacturing) on behalf of the Company. The Company accrues costs for clinical trial activities based upon estimates of the services received and related expenses incurred that have yet to be invoiced by CROs. In making these estimates, the Company considers various factors, including status and timing of services performed, the number of patients enrolled and the rate of patient enrollment. The Company accrues costs for non-clinical studies and contract manufacturing activities over the service periods specified in the contracts and adjusts these accruals as necessary based upon an ongoing review of the level of effort and costs actually incurred. The estimate of the work completed is developed through discussions with internal personnel and external services providers as to the progress toward completion of the services and the agreed-upon fee to be paid for such services. As actual costs become known, the accrued estimates are adjusted. Such estimates are not expected to be materially different from amounts actually incurred.
+
+The Company participates in cost-sharing arrangements with third parties whereby the third parties have agreed to share a portion of the costs incurred by the Company, related to batoclimab drug manufacturing and clinical trials. The Company records the third parties’ share of the costs as a reduction of research and development expenses and an increase to accounts receivable in the accompanying consolidated financial statements based on actual amounts incurred by the Company and billable to the third parties. These cost-sharing arrangements do not contemplate any future revenue-generating activity or global commercialization efforts of batoclimab benefiting any of the parties.
+
+[J] Acquired In-Process Research and Development Expenses
+
+Acquired in-process research and development (“IPR&D”) expenses include payments made or due in connection with license agreements upon the achievement of development and regulatory milestones.
+
+The Company evaluates in-licensed agreements for IPR&D projects to determine if any such in-licensed agreement meets the definition of a business and thus should be accounted for as a business combination. If the in-licensed agreement for IPR&D does not meet the definition of a business and the assets have not reached technological feasibility and have no alternative future use, the Company expenses payments made under such license agreements as acquired in-process research and development expenses in its consolidated statements of operations. Payments for milestones achieved and payments for a product license prior to regulatory approval of the product are expensed in the period incurred. Payments made in connection with regulatory and sales-based milestones will be capitalized and amortized to cost of product sales over the remaining useful life of the asset.
+
+127
+
+Table of Contents
+
+[K] Leases
+
+Operating lease right-of-use (“ROU”) assets represent the Company’s right to use an underlying asset during the lease term, and operating lease liabilities represent the Company’s obligation to make lease payments arising from the lease. Operating lease ROU assets and lease liabilities are initially recognized based on the present value of the future fixed lease payments over the expected lease term at commencement date calculated using the Company’s incremental borrowing rate applicable to the lease asset, unless the implicit rate is readily determinable. Operating lease ROU assets also include any lease payments made at or before lease commencement, adjusted by any initial direct costs and exclude any lease incentives received. The Company determines the lease term as the non-cancelable period of the lease and may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Leases with a term of 12 months or less are not recognized on the consolidated balance sheets. Lease expense for minimum lease payments is recognized on a straight-line basis over the lease term. Variable lease costs such as common area costs and other operating costs are expensed as incurred.
+
+The Company accounts for lease and non-lease components as a single lease component for its leases.
+
+[L] Income Taxes
+
+The Company accounts for income taxes under the asset and liability method. Under this method, deferred tax assets and liabilities are determined on the basis of the differences between amounts in the consolidated financial statements and the tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income tax (benefit) expense in the accompanying consolidated statements of operations in the period that includes the enactment date.
+
+The Company recognizes deferred tax assets to the extent that it believes these assets are more likely than not to be realized. In making such a determination, the Company considers all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies and results of recent operations. If the Company determines that it would be able to realize its deferred tax assets in the future in excess of its net recorded amount, the Company would make an adjustment to the deferred tax asset valuation allowance, which would reduce the provision for income taxes.
+
+When uncertain tax positions exist, the Company recognizes the tax benefit of tax positions to the extent that the benefit will more likely than not be realized. The determination as to whether the tax benefit will more likely than not be realized is based upon the technical merits of the tax position as well as consideration of the available facts and circumstances. The Company’s policy is to recognize interest and/or penalties related to income tax matters in provision for income taxes.
+
+[M] Stock-based Compensation
+
+Stock-based awards to employees and directors, including stock options, restricted stock units (“RSUs”), performance restricted stock units (“PSUs”) and capped value appreciation rights (“CVARs”), are valued at fair value on the date of grant and that fair value is recognized as stock-based compensation expense over the requisite service period. For awards with only service conditions, the grant-date fair value of the stock-based awards with graded vesting is recognized on a straight-line basis over the requisite service period, which is generally the vesting period of the respective awards. If awards with graded vesting contain performance or market conditions, then the Company records share-based compensation expense using the accelerated attribution method. The estimated fair value of awards that contain performance conditions is expensed when the Company concludes that it is probable that the performance conditions will be achieved.
+
+The Company values its stock options that only have service vesting requirements using the Black-Scholes option pricing model. Stock-based compensation related to RSUs and PSUs without market conditions is based on the fair value of the Company’s common stock on the date of grant. For CVARs with market conditions, the Company determines the fair value of the awards on the date of grant using a Monte Carlo simulation model. When determining the grant-date fair value of stock-based awards, management further considers whether an adjustment is required to the observable market price or volatility of the Company’s common stock that is used in the valuation as a result of material non-public information, if that information is expected to result in a material increase in share price.
+
+128
+
+Table of Contents
+
+Certain assumptions need to be made with respect to utilizing the Black-Scholes option pricing model and the Monte Carlo simulation model, including the expected life of the award, volatility of the underlying shares, the risk-free interest rate, expected dividend yield and the fair value of the Company’s common stock. Since the Company has limited option exercise history, it has generally elected to estimate the expected life of an award based upon the “simplified method” with the continued use of this method extended until such time as the Company has sufficient exercise history. The expected share price volatility for the Company’s common stock was estimated using the average historical price volatility for comparable publicly traded peer companies in fiscal year 2024 and a weighted blend of the Company’s historical price volatility and the average historical price volatility for comparable publicly traded peer companies in fiscal year 2025. Beginning on April 1, 2025, the Company determined that its common stock had sufficient trading activity to solely utilize the Company’s historical price volatility. The risk-free interest rate is based on the rates paid on securities issued by the U.S. Treasury with a term approximating the expected life of the equity award. As the Company has never paid and does not anticipate paying cash dividends on its common stock, the expected dividend yield is assumed to bezero. The Company accounts for pre-vesting award forfeitures when they occur.
+
+[N] Fair Value of Financial Instruments
+
+The Company applies a fair value framework in order to measure and disclose its financial assets and liabilities. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. The fair value hierarchy requires an entity to maximize the use of observable inputs, where available, and minimize the use of unobservable inputs when measuring fair value. There are three levels of inputs that may be used to measure fair value:
+
+•Level 1 — Quoted prices in active markets for identical assets or liabilities.
+
+•Level 2 — Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Fair values are determined by utilizing quoted prices for similar assets and liabilities in active markets or other market observable inputs such as interest rates and yield curves.
+
+•Level 3 — Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+
+To the extent the valuation is based on models or inputs that are less observable or unobservable in the market, the determination of fair value requires more judgment. Accordingly, the degree of judgment exercised by the Company in determining fair value is greatest for instruments categorized in Level 3. A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement.
+
+The Company’s financial instruments consist of cash and cash equivalents, accounts receivable, accounts payable, accrued expenses and amounts due to Roivant Sciences Ltd. (“RSL”). These financial instruments are stated at their respective historical carrying amounts, which approximate fair value due to their short-term nature. There were no Level 2 or Level 3 financial instruments as of March 31, 2026 or 2025.
+
+[O] Foreign Currency
+
+The Company has operations in the U.S., the United Kingdom, Bermuda, and Switzerland. The results of its non-U.S. dollar based functional currency operations are translated to U.S. dollars at the average exchange rates during the period. The Company’s assets and liabilities are translated using the current exchange rate as of the consolidated balance sheet date and equity is translated using historical rates. Adjustments resulting from the translation of the consolidated financial statements of the Company’s foreign functional currency subsidiaries into U.S. dollars are excluded from the determination of net loss and are recognized in accumulated other comprehensive (loss) income. Foreign exchange transaction gains and losses are included in other (income) expense, net in the consolidated statements of operations.
+
+129
+
+Table of Contents
+
+[P] Net Loss per Common Share
+
+Basic net loss per common share is computed by dividing net loss applicable to common stockholders by the weighted-average number of common stock outstanding during the period. Diluted net loss per common share is computed by dividing the net loss applicable to common stockholders by the diluted weighted-average number of common stock outstanding during the period. In periods in which the Company reports a net loss, all common stock equivalents are deemed anti-dilutive such that basic net loss per common share and diluted net loss per common share are equivalent. Potentially dilutive common stock has been excluded from the diluted net loss per common share computations in all periods presented because such securities have an anti-dilutive effect on net loss per common share due to the Company’s net loss. There are no reconciling items used to calculate the weighted-average number of total common stock outstanding for basic and diluted net loss per common share data.
+
+The following potentially dilutive securities, presented based on amounts outstanding at period end, have been excluded from the calculation of diluted net loss per share due to their anti-dilutive effect:
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Preferred stock as converted
+
+10,000
+
+10,000
+
+10,000
+
+Stock options
+
+9,993,443
+
+12,963,834
+
+13,026,329
+
+Restricted stock units
+
+3,485,074
+
+3,239,901
+
+3,466,057
+
+Capped value appreciation rights
+
+136,574
+
+—
+
+—
+
+Total
+
+13,625,091
+
+16,213,735
+
+16,502,386
+
+[Q] Segment Information
+
+Operating segments are defined as components of an enterprise about which separate discrete financial information is available for evaluation by the chief operating decision maker in deciding how to allocate resources and in assessing performance. The Company operates in a single operating segment and has onereportable segment, which includes all activities related to the research, development and manufacturing of its product candidates. The accounting policies of the segment are the same as those described in the summary of significant accounting policies. See Note 9 – Segment Information for additional details.
+
+[R] Recently Adopted Accounting Pronouncements
+
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” ( “ASU 2023-09”), which requires disaggregated information on the effective rate reconciliation as well as information on income taxes paid by jurisdiction. The amendments are effective for fiscal years beginning after December 15, 2024 for public entities, with early adoption permitted, and may be applied prospectively, with the option to apply them retrospectively. The Company adopted this ASU for the fiscal year ended March 31, 2026 and applied the new disclosure requirements on a prospective basis. See Note 6 - Income Taxes for the additional disclosures required by ASU 2023-09.
+
+[S] Recent Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03, “Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” which requires disclosures about specific types of expenses included in the expense captions presented on the face of the income statement as well as disclosures about selling expenses. The amendments are effective for public entities for fiscal years beginning after December 15, 2026, and will be applicable for the Company’s Annual Report on Form 10-K for the fiscal year ending March 31, 2028 and subsequent interim periods. Early adoption is permitted. The guidance is to be applied prospectively, with the option for retrospective application. The Company expects adoption of this ASU will result in additional disclosures in line with the requirements of ASU 2024-03.
+
+Other recent authoritative guidance issued by the FASB (including technical corrections to the ASC), the American Institute of Certified Public Accountants, and the Securities and Exchange Commission (“SEC”) did not, or are not expected to, have a material impact on the Company’s consolidated financial statements and related disclosures.
+
+130
+
+Table of Contents
+
+Note 3 — License Agreement
+
+On December 19, 2017, Roivant Sciences GmbH (“RSG”), a wholly-owned subsidiary of RSL, entered into a license agreement (the “HanAll Agreement”) with HanAll Biopharma Co., Ltd. (“HanAll”). Under the HanAll Agreement, RSG received (1) the non-exclusive right to manufacture and (2) the exclusive, royalty-bearing right to develop, import, use and commercialize the antibody referred to as batoclimab and certain back-up and next-generation antibodies (including IMVT-1402), and products containing such antibodies, in the U.S., Canada, Mexico, the European Union, the United Kingdom, Switzerland, the Middle East, North Africa and Latin America (the “Licensed Territory”).
+
+In exchange for this license, RSG provided or agreed to provide the following consideration:
+
+•Upfront, non-refundable payment of $30.0 million;
+
+•Up to $20.0 million in shared (50%) research, development, and out-of-pocket costs incurred by HanAll, which obligation has since expired;
+
+•Up to an aggregate of $420.0 million (after an aggregate amount of $32.5 million paid for milestone events achieved as of March 31, 2026) upon the achievement of certain regulatory and sales milestones; and
+
+•Tiered royalties ranging from the mid-single digits to mid-teens percentage of net sales of licensed products subject to standard offsets and reductions on a product-by-product and country-by-country basis, until the later of (1) expiration of patent and regulatory exclusivity or (2) the 11th anniversary of the first commercial sale of such product in such country.
+
+On August 18, 2018, RSG entered into a sublicense agreement (the “Sublicense Agreement”) with ISG to sublicense this technology, as well as RSG’s know how and patents necessary for the development, manufacture or commercialization of any compound or product that pertains to immunology. On December 7, 2018, RSG issued a notice to terminate the Sublicense Agreement with ISG and entered into an assignment and assumption agreement to assign to ISG all of the rights, title, interest, and future obligations under the HanAll Agreement from RSG, including all rights to IMVT-1402 and batoclimab in the Licensed Territory, for an aggregate purchase price of $37.8 million. Each party to the HanAll Agreement has agreed that neither it nor certain of its affiliates will clinically develop or commercialize certain competitive products in the Licensed Territory.
+
+During the quarter ended June 30, 2023, the Company achieved its third and fourth development and regulatory milestone events under the HanAll Agreement of $12.5 million, combined, which was paid in the quarter ended September 30, 2023 and recorded as acquired in-process research and development expenses in the accompanying consolidated statement of operations for the year ended March 31, 2024.
+
+In January 2026, the Company completed an internal reorganization and transfer of intellectual property rights related to the Company’s product candidates between two wholly-owned subsidiaries of the Company. See Note 6 - Income Taxes for additional details.
+
+Note 4 — Accrued Expenses
+
+Accrued expenses consist of the following (in thousands):
+
+March 31,
+
+2026
+
+2025
+
+Research and development expenses
+
+$
+
+33,860
+
+$
+
+32,622
+
+Contractual costs related to batoclimab program discontinuation
+
+42,482
+
+—
+
+Accrued bonuses
+
+16,767
+
+15,618
+
+Legal and other professional fees
+
+1,342
+
+789
+
+Other expenses
+
+2,183
+
+1,719
+
+Total accrued expenses
+
+$
+
+96,634
+
+$
+
+50,748
+
+131
+
+Table of Contents
+
+Note 5 — Related Party Transactions
+
+Roivant Sciences Inc. (“RSI”) and RSG Services Agreements
+
+In August 2018, the Company entered into amended and restated services agreements (each a “Services Agreement” and together the “Services Agreements”) with Roivant Sciences, Inc. (“RSI”) and RSG, under which RSI and RSG agreed to provide services related to development, administrative and financial activities to the Company. RSI assigned its Services Agreement to RSL effective April 1, 2025. Under each Services Agreement, the Company will pay or reimburse RSL or RSG, as applicable, for any expenses it, or third parties acting on its behalf, incurs for the Company. For any general and administrative and research and development activities performed under the Services Agreements, the service provider will charge the service recipient a fully loaded cost based upon employee costs plus a pre-determined mark-up, except where otherwise negotiated. Any external services cross charged through the Services Agreements will be invoiced at cost. The term of the Services Agreements will continue until terminated by the Company, RSI or RSG, as applicable, upon 90 days’ written notice.
+
+For the years ended March 31, 2026, 2025 and 2024, expenses recorded by the Company were $1.5 million, $0.8 million and $0.6 million, respectively, under the Services Agreements, which are included in the accompanying consolidated statements of operations.
+
+RSL Information Sharing and Cooperation Agreement
+
+In December 2018, the Company entered into an amended and restated information sharing and cooperation agreement (the “Cooperation Agreement”) with RSL. The Cooperation Agreement, among other things: (1) obligates the Company to deliver to RSL periodic financial statements and other information upon reasonable request and to comply with other specified financial reporting requirements; (2) requires the Company to supply certain material information to RSL to assist it in preparing any future SEC filings; and (3) requires the Company to implement and observe certain policies and procedures related to applicable laws and regulations. The Company has agreed to indemnify RSL and its affiliates and their respective officers, employees and directors against all losses arising out of, due to or in connection with RSL’s status as a stockholder under the Cooperation Agreement and the operations of or services provided by RSL or its affiliates or their respective officers, employees or directors to the Company or any of its subsidiaries, subject to certain limitations set forth in the Cooperation Agreement. No amounts have been paid or received under this agreement.
+
+Subject to specified exceptions, the Cooperation Agreement will terminate upon the earlier of (1) the mutual written consent of the parties or (2) the later of when RSL no longer (a) is required by U.S. GAAP to consolidate the Company’s results of operations and financial position, account for its investment in the Company under the equity method of accounting or, by any rule of the SEC, include the Company’s separate financial statements in any filings it may make with the SEC and (b) has the right to elect directors constituting a majority of the Company’s board of directors.
+
+RSI Subleases
+
+In June 2020, the Company entered into two sublease agreements with RSI for two floors of office space in New York, which expired on February 27, 2024 and April 29, 2024, respectively. Rent expense under these operating leases was de minimis and$1.1million for the years ended March 31, 2025 and 2024, respectively.
+
+RSL Share Purchases
+
+See Note 7 – Stockholders’ Equity for a discussion of the RSL share purchases as part of the Company’s underwritten offering in December 2025, private placement in January 2025 and underwritten offering and private placement in October 2023.
+
+132
+
+Table of Contents
+
+Note 6 — Income Taxes
+
+The loss before income taxes and the related tax provision are as follows (in thousands):
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+(Loss) income before income taxes
+
+United States
+
+$
+
+100,991
+
+$
+
+(17,730)
+
+$
+
+(16,180)
+
+Switzerland
+
+(606,288)
+
+(395,119)
+
+(242,518)
+
+Bermuda
+
+(39)
+
+(100)
+
+(71)
+
+United Kingdom
+
+(55)
+
+—
+
+—
+
+Total loss before income taxes
+
+$
+
+(505,391)
+
+$
+
+(412,949)
+
+$
+
+(258,769)
+
+Current taxes
+
+United States – Federal
+
+$
+
+—
+
+$
+
+880
+
+$
+
+562
+
+United States – State
+
+215
+
+11
+
+5
+
+Total current tax expense
+
+215
+
+891
+
+567
+
+Deferred tax expense
+
+—
+
+—
+
+—
+
+Total provision for income taxes
+
+$
+
+215
+
+$
+
+891
+
+$
+
+567
+
+For the year ended March 31, 2026, the Company adopted ASU 2023-09 on a prospective basis. Accordingly, the following table is a reconciliation of the U.S. federal statutory rate to the Company’s effective tax rate for the year ended March 31, 2026 in accordance with the guidance in ASU 2023-09 (amounts in thousands):
+
+Year ended March 31, 2026
+
+Amount
+
+Percent
+
+U.S. federal statutory tax rate
+
+$
+
+(106,132)
+
+21.00
+
+%
+
+State and local income taxes, net of federal income tax effect (1)
+
+170
+
+(0.03)
+
+Foreign tax effects
+
+Switzerland
+
+Statutory tax rate difference
+
+75,786
+
+(15.00)
+
+Intercompany reorganization
+
+138,465
+
+(27.40)
+
+Deductible federal taxes
+
+(6,852)
+
+1.35
+
+Change in valuation allowances
+
+(80,199)
+
+15.87
+
+Other (2)
+
+(58)
+
+0.01
+
+Effects of cross-border tax laws
+
+Foreign loss
+
+(64,511)
+
+12.76
+
+Tax credits
+
+Research and development tax credit
+
+(10,748)
+
+2.13
+
+Orphan drug credit
+
+(3,948)
+
+0.78
+
+Change in valuation allowances
+
+50,376
+
+(9.97)
+
+Nontaxable or nondeductible items
+
+Section 162(m)
+
+8,768
+
+(1.73)
+
+Other adjustments
+
+(902)
+
+0.19
+
+Effective tax rate
+
+$
+
+215
+
+(0.04)
+
+%
+
+___________
+
+(1) The state taxes in Florida and South Carolina make up the majority of the state tax effect in this category (greater than 50%).
+
+(2) The cantonal taxes in Swiss canton of Basel-Stadt make up the majority of the state tax effect in this category (greater than 50%).
+
+133
+
+Table of Contents
+
+A reconciliation of the provision for income taxes computed at the U.S. federal statutory rate of 21% for the years ended March 31, 2025 and 2024 to the provision for income taxes reflected in the consolidated statements of operations is presented below (in thousands) in accordance with the guidance prior to the prospective adoption of ASU 2023-09. As such, certain items in the effective tax rate reconciliation above may have been reclassified between categories compared to prior periods; however, such reclassifications did not have a material impact on any individual line items or the overall effective tax rate.
+
+Years Ended March 31,
+
+2025
+
+2024
+
+Income tax benefit at statutory rate
+
+$
+
+(86,719)
+
+$
+
+(54,341)
+
+Foreign rate differential
+
+31,499
+
+19,321
+
+Research and development credits
+
+(17,972)
+
+(8,096)
+
+Valuation allowance
+
+74,541
+
+46,389
+
+Non-deductible expense
+
+5,826
+
+7,518
+
+Excess tax benefits from stock-based compensation
+
+(6,282)
+
+(9,204)
+
+Other
+
+(2)
+
+(1,020)
+
+Total provision for income taxes
+
+$
+
+891
+
+$
+
+567
+
+The Company’s effective tax rate was (0.04)%, (0.22)% and (0.22)% for the years ended March 31, 2026, 2025 and 2024 respectively, primarily driven by the Company’s jurisdictional earnings by location, certain non-deductible expenditures, research and development credits, and a valuation allowance that eliminates the Company’s global net deferred tax assets.
+
+A summary of income taxes paid by jurisdiction, net of refunds, after the adoption of ASU 2023-09 for the year ended March 31, 2026 is as follows (in thousands):
+
+Year ended March 31, 2026
+
+U.S. federal
+
+$
+
+2,438
+
+Other
+
+(52)
+
+Total
+
+$
+
+2,386
+
+Deferred taxes reflect the tax effects of the differences between the amounts recorded as assets and liabilities for financial reporting purposes and the comparable amounts recorded for income tax purposes. Significant components of the deferred tax assets (liabilities) at March 31, 2026 and 2025 are as follows (in thousands):
+
+March 31,
+
+2026
+
+2025
+
+Deferred tax assets
+
+Intangible assets
+
+$
+
+3,457
+
+$
+
+10,099
+
+Net operating losses
+
+77,731
+
+153,370
+
+Stock-based compensation
+
+12,065
+
+13,643
+
+Capitalized research and development costs
+
+153,532
+
+—
+
+Research and development credits
+
+53,734
+
+39,217
+
+Accruals and reserves
+
+11,743
+
+3,298
+
+Others
+
+252
+
+224
+
+Total deferred tax assets
+
+312,514
+
+219,851
+
+Valuation allowance
+
+(311,961)
+
+(218,753)
+
+Deferred tax assets, net of valuation allowance
+
+$
+
+553
+
+$
+
+1,098
+
+Deferred tax liabilities
+
+Others
+
+$
+
+(487)
+
+$
+
+(948)
+
+Right-of-use assets
+
+(15)
+
+(41)
+
+Depreciation
+
+(51)
+
+(109)
+
+Total deferred tax liabilities
+
+(553)
+
+(1,098)
+
+Total net deferred taxes
+
+$
+
+—
+
+$
+
+—
+
+134
+
+Table of Contents
+
+In January 2026, the Company completed an internal reorganization and transfer of intellectual property rights related to the Company’s product candidates between two wholly-owned subsidiaries of the Company to align with the business operations of the Company. Ownership and rights to such intellectual property remain with the Company and its subsidiaries.
+
+The Company recorded an income tax benefit predominantly related to the internal reorganization, reducing the provision for income taxes to $0.2 million for the year ended March 31, 2026. Further, a new deferred tax asset was created as reflected above related to capitalized research and development expenses that will be deductible in the U.S. in future periods. As of March 31, 2026, the Company has gross net operating loss carryforwards in Switzerland of $279.0 million, which decreased from $1,094.6 million as of March 31, 2025 primarily due to utilization caused by the transfer of intellectual property, and will begin to expire as of March 31, 2032. Additionally, as of March 31, 2026, the Company has gross net operating loss carryforwards in the U.S. of $195.2 million, which increased from $48.7 million as of March 31, 2025, driven by the internal reorganization and can be carried forward indefinitely with utilization limited to 80% of future taxable income. The Company has research and development and orphan drug credit carryforwards in the U.S. of $53.7 million as of March 31, 2026, which begin to expire as of March 31, 2039.
+
+The Company assesses the realizability of its net deferred tax assets at each balance sheet date based on available positive and negative evidence in order to determine the amount which is more likely than not to be realized and records a valuation allowance as necessary. Despite the one-time partial utilization of the net operating losses within Switzerland as part of the transfer of the intellectual property, the Company remains in a cumulative loss position, which provides significant negative evidence difficult to overcome. Accordingly, the Company has recorded a valuation allowance of $312.0 million and $218.8 million for the years ended March 31, 2026 and 2025, respectively, representing the portion of the net deferred tax assets that is not expected to be realized. The amount of the net deferred tax assets considered realizable could be adjusted for future factors that would impact the assessment of the objective and subjective evidence of the Company. The Company will continue to assess the realizability of net deferred tax assets at each balance sheet date in order to determine the proper amount, if any, required for a valuation allowance.
+
+As of March 31, 2026, the Company does not have undistributed earnings from foreign subsidiaries. The Company regularly evaluates whether foreign earnings are expected to be indefinitely reinvested. This evaluation requires judgment about the future operating and liquidity needs of the Company. Changes in economic and business conditions, foreign or U.S. tax laws or the Company’s financial situation could result in a change to the Company’s position.
+
+The Company is subject to tax and files income tax returns in the U.S. federal, state and local jurisdictions, the United Kingdom and Switzerland. The Company’s tax periods for the fiscal years ended March 31, 2019 through March 31, 2026 remain open for tax examinations in most applicable income tax jurisdictions. Tax audits and examinations can involve complex issues, interpretations and judgments. The resolution of matters may span multiple years particularly if subject to litigation or negotiation. The Company believes it has appropriately recorded its tax position using reasonable estimates and assumptions, however the potential tax benefits may impact the consolidated results of operations or cash flows in the period of resolution, settlement or when the statutes of limitations expire. The Company’s unrecognized tax benefit activity during the years ended March 31, 2026 and 2025 and related liabilities were not material to the Company’s consolidated financial statements as of March 31, 2026 and 2025.
+
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was signed into law in the U.S., which includes a broad range of tax reform provisions. ASC 740, “Income Taxes”, requires the effects of changes in tax rates and laws on deferred tax balances to be recognized in the period in which the legislation is enacted. The impact of the OBBBA on the Company’s accompanying consolidated financial statements is not material to the Company’s effective tax rate.
+
+Note 7 — Stockholders’ Equity
+
+Series A Preferred Stock
+
+As of March 31, 2026, 10,000 shares of Series A preferred stock, par value $0.0001 per share, were outstanding and held by RSL.
+
+135
+
+Table of Contents
+
+The holder(s) of the Series A preferred stock are entitled to cast the number of votes equal to the number of whole shares of common stock into which the shares of Series A preferred stock held by such holder are convertible as of the record date for determining stockholders entitled to vote on such matter, and do not have cumulative voting rights.
+
+The holder(s) of a majority of outstanding shares of Series A preferred stock, exclusively and as a separate class, are entitled to elect: (i) four Series A preferred directors, as long as the holder(s) of Series A preferred stock hold 50% or more of the voting power of all then-outstanding shares of capital stock entitled to vote generally at an election of directors, (ii) three Series A preferred directors, as long as the holder(s) of Series A preferred stock hold 40% or more but less than 50% of the voting power of all then-outstanding shares of capital stock entitled to vote generally at an election of directors, and (iii) two Series A preferred directors, as long as the holder(s) of Series A preferred stock hold 25% or more but less than 40% of the voting power of all then-outstanding shares of capital stock entitled to vote generally at an election of directors. Any Series A preferred director so elected may be removed without cause by, and only by, the affirmative vote of the holder(s) of Series A preferred stock given either at a special meeting of the holder(s) of Series A preferred stock duly called for that purpose or pursuant to a written consent of the holder(s) of Series A preferred stock.
+
+Each share of Series A preferred stock is convertible at any time at the option of the holder into one share of common stock. On any transfer of shares of Series A preferred stock, whether or not for value, each such transferred share will automatically convert into one share of common stock, except for certain transfers described in the amended and restated certificate of incorporation.
+
+Each share of Series A preferred stock will automatically convert into one share of common stock at such time as the holder(s) of Series A preferred stock hold less than 25% of the total voting power of the Company’s outstanding shares.
+
+The Company shall not, without the consent of the holder(s) of at least a majority of Series A preferred stock, alter or repeal any provisions of the Company’s amended and restated certificate of incorporation or bylaws that adversely affect the powers, preferences or rights of the Series A preferred stock.
+
+In the event of the Company’s liquidation, dissolution or winding up, the holder(s) of the Series A preferred stock will receive first an amount per share equal to $0.01 and then will be entitled to share ratably in the assets legally available for distribution to all stockholders.
+
+Preferred Stock
+
+As of March 31, 2026, the Company has authorized 10,010,000 shares of preferred stock, par value $0.0001 per share. The board of directors has the authority, without further action by the stockholders to issue such shares of preferred stock in one or more series, to establish from time to time the number of shares to be included in each such series, and to fix the dividend, voting, and other rights, preferences and privileges of the shares. Other than the 10,000 shares of preferred stock designated as Series A preferred stock, which are issued and outstanding, there were no issued and outstanding shares of preferred stock as of March 31, 2026.
+
+Common Stock
+
+As of March 31, 2026, the Company has authorized 500,000,000 shares of common stock, par value $0.0001 per share.
+
+Each share of common stock has the right to one vote. The holders of common stock are also entitled to receive dividends whenever funds are legally available and when declared by the board of directors, subject to the prior rights of holders of all classes of stock outstanding having priority rights as to dividends. No dividends have been declared by the board of directors since the Company’s inception.
+
+In December 2025, the Company completed an underwritten offering of 26,200,000 shares of its common stock (including 16,666,666 shares of common stock purchased by RSL on the same terms as other investors in the offering) at an offering price of $21.00 per share. The underwriter did not receive any underwriting discounts or commissions with respect to shares sold to RSL in the offering. The net proceeds to the Company were $543.7 million after deducting underwriting discounts and commissions and other offering expenses.
+
+136
+
+Table of Contents
+
+In January 2025, the Company entered into a share purchase agreement pursuant to which the Company issued 22,500,000 shares of the Company’s common stock, par value $0.0001 per share, to certain institutional accredited investors (including 16,845,010 shares of common stock to RSL), at a price of $20.00 per share in a private placement exempt from the registration requirements of the Securities Act of 1933, as amended (the “Securities Act”). The gross proceeds to the Company were approximately $450.0 million. Pursuant to a registration rights agreement with certain of the investors, the Company subsequently filed with the SEC a prospectus supplement to its registration statement on Form S-3 (File No. 333-275419), which automatically became effective upon its filing on November 9, 2023, covering the resale of 5,654,990 shares of common stock issued in the private placement. The Company has agreed to use reasonable best efforts to keep such registration statement effective until the date the shares described above have been sold or may be resold pursuant to Rule 144 under the Securities Act without restriction.
+
+In November 2023, the Company entered into a sales agreement with Leerink Partners LLC (“Leerink Partners”), as sales agent, pursuant to which the Company may offer and sell, from time to time, shares of its common stock (the “ATM Shares”), subject to certain conditions as specified in the sales agreement. The Company agreed to pay Leerink Partners up to 3% of the gross proceeds from each sale of ATM Shares sold through the sale agreement. The ATM Shares would be sold at prevailing market prices at the time of the sale and, as a result, prices may vary. The ATM Shares to be sold under the sales agreement, if any, would be issued and sold pursuant to an automatic shelf registration statement on Form S-3, which the Company filed with the SEC in November 2023, along with a prospectus supplement relating to the offer and sale of up to $150.0 million of ATM Shares pursuant to the sales agreement. The Company has not issued or sold any ATM Shares pursuant to the ATM offering program.
+
+In October 2023, the Company completed an underwritten public offering of 8,475,500 shares of its common stock (including 1,526,316 shares of common stock purchased by RSL on the same terms as other investors in the offering and the full exercise of the underwriters’ option to purchase 1,105,500 additional shares of common stock) at a price to the public of $38.00 per share. Concurrent with the public offering, RSL purchased 4,473,684 shares of the Company’s common stock in a private placement exempt from the registration requirements of the Securities Act at the same price per share as investors in the public offering. The net proceeds to the Company were $466.7 million after deducting underwriting discounts and commissions, placement agent fees and offering expenses.
+
+As of March 31, 2026, the Company had 203,940,353shares of common stock outstanding, which include the above share issuances during the year and the issuance of shares of common stock from the exercise of stock options and vesting of restricted stock units. See Note 8 – Stock-Based Compensation for additional details about stock options and restricted stock units.
+
+The Company has reserved the following shares of common stock for issuance:
+
+March 31,
+
+2026
+
+2025
+
+Conversion of Series A preferred stock
+
+10,000
+
+10,000
+
+Stock options outstanding
+
+9,996,503
+
+12,963,834
+
+Restricted stock units outstanding
+
+4,254,184
+
+4,043,674
+
+Capped value appreciation rights outstanding
+
+136,574
+
+—
+
+Equity awards available for future grants
+
+7,822,985
+
+6,027,035
+
+Total
+
+22,220,246
+
+23,044,543
+
+The reserved shares underlying stock options above include 3,060 stock options that were exercised but were not settled as of March 31, 2026. The reserved shares underlying restricted stock units above include 769,110 restricted stock units that vested but were not settled as of March 31, 2026. In addition, the Company has reserved 5,000,000 shares of its common stock that may be issued under its 2023 Inducement Plan as of March 31, 2026. See Note 8 – Stock-Based Compensation for further details.
+
+137
+
+Table of Contents
+
+Note 8 — Stock-Based Compensation
+
+2019 Equity Incentive Plan
+
+In December 2019, the Company’s stockholders approved the 2019 Equity Incentive Plan (the “2019 Plan”) and reserved 5,500,000 shares of common stock for issuance thereunder. The number of shares of common stock reserved for issuance under the 2019 Plan will automatically increase on April 1 of each year, continuing through April 1, 2029, by 4.0% of the total number of shares of common stock outstanding on the last day of the preceding month, or a lesser number of shares as may be determined by the board of directors on or prior to March 31 of such year. The maximum number of shares of common stock that may be issued pursuant to the exercise of incentive stock options under the 2019 Plan is 16,500,000. The Company’s employees, directors and consultants are eligible to receive non-qualified and incentive stock options, stock appreciation rights, restricted stock awards, restricted stock unit awards, other stock awards and performance awards under the plan. Generally, each option will have an exercise price equal to the fair market value of the Company’s common stock on the date of grant and a ten-year contractual term. For grants of incentive stock options, if the grantee owns, or is deemed to own, 10% or more of the total voting power of the Company, then the exercise price shall be 110% of the fair market value of the Company’s common stock on the date of grant and the option will have a five-year contractual term. Stock options that are forfeited, cancelled or have expired are available for future grants.
+
+On April 1, 2025, 6,804,463 shares of common stock were added to the 2019 Plan pool in accordance with the 4.0% evergreen provision of the 2019 Plan. As of March 31, 2026, options to purchase 8,925,717 shares of common stock and 3,485,074 RSUs were outstanding under the 2019 Plan and 7,822,985 shares of common stock remained available for future grant under the 2019 Plan.
+
+2018 Equity Incentive Plan
+
+As of the effective date of the 2019 Plan, no further stock awards have been or will be made under the 2018 Equity Incentive Plan (the “2018 Plan”). As of March 31, 2026, options to purchase 1,067,726 shares of common stock were outstanding under the 2018 Plan.
+
+2023 Inducement Plan
+
+On February 1, 2023, the Company’s board of directors approved the adoption of the 2023 Inducement Plan (the “Inducement Plan”), which is to be used exclusively for grants of awards to individuals who were not previously employees or directors of the Company (or following a bona fide period of non-employment) as a material inducement to such individuals’ entry into employment with the Company, pursuant to Nasdaq Listing Rule 5635(c)(4). The Company has reserved 5,000,000 shares of its common stock that may be issued under the Inducement Plan. The terms and conditions of the Inducement Plan are substantially similar to those of the 2019 Plan. As of March 31, 2026, no awards were granted or outstanding under the Inducement Plan.
+
+Stock Option Activity
+
+A summary of the stock option activity under the Company’s equity incentive plans is as follows:
+
+Number of
+
+Stock Options
+
+Weighted-
+
+Average
+
+Exercise
+
+Price
+
+Remaining
+
+Contractual
+
+Term (Years)
+
+Aggregate
+
+Intrinsic Value
+
+(in thousands)
+
+Balance – March 31, 2025
+
+12,963,834
+
+$
+
+12.00
+
+6.25
+
+$
+
+88,960
+
+Granted
+
+4,473,253
+
+15.92
+
+Exercised
+
+(6,138,562)
+
+8.48
+
+Forfeited
+
+(1,206,473)
+
+16.68
+
+Expired
+
+(98,609)
+
+25.57
+
+Balance – March 31, 2026
+
+9,993,443
+
+$
+
+15.22
+
+6.10
+
+$
+
+104,098
+
+Exercisable – March 31, 2026
+
+4,876,213
+
+$
+
+12.68
+
+4.79
+
+$
+
+63,386
+
+138
+
+Table of Contents
+
+The aggregate intrinsic value is calculated as the difference between the exercise price of all outstanding and exercisable stock options and the fair value of the Company’s common stock at March 31, 2026. The intrinsic value of stock options exercised during the years ended March 31, 2026, 2025 and 2024 was $69.9 million, $12.2 million and $22.1 million, respectively. The stock options granted during the years ended March 31, 2026, 2025 and 2024 had a weighted-average fair value of $11.19 per share, $21.51 per share and $14.10 per share, respectively, at the grant date. The total grant-date fair value of stock options vested during the years ended March 31, 2026, 2025 and 2024 was $20.7 million, $24.9 million and $21.6 million, respectively. The Company estimated the fair value of each option on the date of grant using the Black-Scholes option pricing model applying the weighted-average assumptions in the following table:
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Risk-free interest rate
+
+4.00%
+
+4.33%
+
+3.60%
+
+Expected term, in years
+
+6.08
+
+6.11
+
+6.11
+
+Expected volatility
+
+78.10%
+
+82.08%
+
+94.26%
+
+Expected dividend yield
+
+—%
+
+—%
+
+—%
+
+Restricted Stock Unit Awards
+
+A summary of the RSU activity under the Company’s equity incentive plans is as follows:
+
+Number of RSUs
+
+Weighted- Average Grant Date Fair Value
+
+Nonvested as of March 31, 2025
+
+3,239,901
+
+$
+
+21.70
+
+Issued
+
+2,821,133
+
+15.81
+
+Vested
+
+(1,458,595)
+
+19.99
+
+Forfeited
+
+(1,117,365)
+
+18.48
+
+Nonvested as of March 31, 2026
+
+3,485,074
+
+$
+
+18.67
+
+The RSUs granted during the years ended March 31, 2026, 2025 and 2024 had a weighted-average fair value of $15.81 per share, $28.97 per share and $17.15 per share, respectively, at the grant date. The total grant-date fair value of RSUs vested during the years ended March 31, 2026, 2025 and 2024 was $29.2 million, $19.5 million and $13.5 million, respectively.
+
+Performance Restricted Stock Units
+
+A summary of the PSU activity under the Company’s equity incentive plans is as follows:
+
+Number of PSUs
+
+Weighted- Average Grant Date Fair Value
+
+Nonvested as of March 31, 2025
+
+—
+
+$
+
+—
+
+Issued
+
+820,000
+
+15.23
+
+Forfeited
+
+(430,000)
+
+15.23
+
+Nonvested as of March 31, 2026
+
+390,000
+
+$
+
+15.23
+
+During the year ended March 31, 2026, the Company granted 820,000 PSUs, which were valued at $12.5 million on the date of grant. The vesting of these PSUs requires that certain performance conditions be achieved during the performance period. A performance condition required as of March 31, 2026 was not met, resulting in the forfeiture of 430,000 PSUs. The remaining PSUs were determined to be improbable of vesting and therefore no expense was recorded for the year ended March 31, 2026.
+
+Stock-based Compensation Expense
+
+For the years ended March 31, 2026, 2025 and 2024, stock-based compensation expense under the Company’s equity incentive plans was as follows (in thousands):
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Research and development expenses
+
+$
+
+29,527
+
+$
+
+27,014
+
+$
+
+20,409
+
+General and administrative expenses
+
+25,365
+
+22,449
+
+20,604
+
+Total stock-based compensation
+
+$
+
+54,892
+
+$
+
+49,463
+
+$
+
+41,013
+
+139
+
+Table of Contents
+
+As of March 31, 2026, total unrecognized compensation expense related to nonvested stock options and RSUs was $43.8 million and $44.6 million, respectively, which is expected to be recognized over the remaining weighted-average service period of 2.60 years and 2.54 years, respectively.
+
+Stock-based Compensation Allocated to the Company by RSL
+
+In relation to RSL RSUs issued by RSL to employees of the Company, stock-based compensation expense was $0.8 million for the year ended March 31, 2026. These RSUs are vesting over a period of four years. For the years ended March 31, 2025 and 2024, stock-based compensation expense recorded by the Company related to RSL RSUs was de minimis and $0.1 million, respectively. As of March 31, 2026, the amount of unrecognized compensation expense related to unvested RSL RSUs was $1.6 million.
+
+The RSL common share awards are valued at fair value on the date of grant and stock-based compensation expense is recognized and allocated to the Company over the required service period.
+
+Note 9 — Segment Information
+
+The Company operates in a single operating segment and has one reportable segment, which includes all activities related to the discovery, development and manufacturing of its product candidates. The determination of a single segment is consistent with the consolidated financial information regularly provided to the Company’s chief operating decision maker (“CODM”). The Company’s CODM is its chief executive officer. The CODM, in alignment with the Company’s strategic goals, uses consolidated net loss to monitor budget to actual results and cash forecast models for assessing performance and making operating decisions. The measurement of segment assets is reported on the consolidated balance sheet as total assets.
+
+The Company’s significant segment expenses are as follows (in thousands):
+
+Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+Therapeutic area-specific research and development:
+
+Endocrine diseases
+
+$
+
+90,359
+
+$
+
+63,073
+
+$
+
+33,205
+
+Neurological diseases
+
+82,515
+
+93,224
+
+41,060
+
+Rheumatology diseases
+
+48,813
+
+23,897
+
+—
+
+Dermatology diseases
+
+20,264
+
+15,633
+
+—
+
+Other clinical and nonclinical
+
+3,367
+
+9,327
+
+39,811
+
+Other unallocated research and development
+
+43,856
+
+44,264
+
+24,562
+
+Contractual costs related to batoclimab program discontinuation
+
+38,952
+
+—
+
+—
+
+Personnel-related research and development (1)
+
+128,534
+
+111,499
+
+74,290
+
+Acquired in-process research and development
+
+—
+
+—
+
+12,500
+
+Personnel-related general and administrative (2)
+
+48,730
+
+41,095
+
+34,684
+
+Other general and administrative (3)
+
+27,512
+
+36,140
+
+22,597
+
+Interest income, net
+
+(25,330)
+
+(24,732)
+
+(24,948)
+
+Other segment items (4)
+
+(1,966)
+
+420
+
+1,575
+
+Net loss
+
+$
+
+505,606
+
+$
+
+413,840
+
+$
+
+259,336
+
+___________
+
+(1)Includes stock-based compensation expense of $29,712, $27,014 and $20,409 for the years ended March 31, 2026, 2025 and 2024, respectively
+
+(2)Includes stock-based compensation expense of $26,012, $22,473 and $20,707 for the years ended March 31, 2026, 2025 and 2024, respectively
+
+(3)Other general and administrative expenses primarily include legal and other professional fees, information technology costs and market research costs
+
+(4)Other segment items include other (income) expense, net and provision for income taxes
+
+140
+
+Table of Contents
+
+Note 10 — Commitments and Contingencies
+
+Indemnification Agreements
+
+The Company is a party to a number of agreements entered into in the ordinary course of business that contain typical provisions that obligate the Company to indemnify the other parties to such agreements upon the occurrence of certain events. The aggregate maximum potential future liability of the Company under such indemnification provisions is uncertain. The Company also indemnifies each of its directors and officers for certain events or occurrences, subject to certain limits. The maximum amount of potential future indemnification is unlimited; however, the Company currently holds director and officer liability insurance.
+
+Litigation
+
+The Company may be subject to various lawsuits, claims and other legal matters from time to time that arise in the ordinary course of conducting business. The Company records a liability when a particular contingency is probable and estimable. As of March 31, 2026, the Company was not party to any material legal proceedings and thus no contingent liabilities were recorded.
+
+Commitments
+
+See Note 4 - Accrued Expenses for accumulated non-cancelable contractual costs accrued as a result of the discontinuation of batoclimab, of which $39.0 million was recognized as research and development expenses during the year ended March 31, 2026.
+
+As of March 31, 2026, the Company did not have any other ongoing material contractual obligations for which cash flows were fixed and determinable. In the normal course of business, the Company enters into agreements with CROs for clinical trials and with vendors for nonclinical studies, manufacturing and other services and products for operating purposes, which agreements are generally cancellable by the Company at any time, subject to payment of remaining obligations under binding purchase orders and, in certain cases, nominal early-termination fees. These commitments are not deemed significant. There are certain contracts wherein the Company has a minimum purchase commitment, however, most of it is due and payable within one year.
+
+Contingencies
+
+The extent of the impact of geopolitical tensions, changes in inflation and interest rates, changes in international trade policies and tariffs and any resulting economic slowdown or recession on the Company’s future operational and financial performance will depend on certain developments, including the potential impact on the Company’s clinical trial plans and timelines, such as the enrollment and activation of additional clinical trial sites, and the results of the Company’s clinical trials, all of which are uncertain and cannot be predicted. At this point, the extent to which these events may impact the Company’s future financial condition or results of operations is uncertain.
+
+Note 11 — Subsequent Event
+
+The Company enters into agreements with vendors in the ordinary course of business that include unconditional purchase obligations for manufacturing and other services. In April 2026, the Company entered into an agreement that includes provisions for minimum obligations for the contract manufacturing of IMVT-1402 drug substance. As of May 20, 2026, the minimum commitment was approximately $22.8 million, of which $4.2 million and $18.6 million is expected to be paid during the fiscal years ending March 31, 2027 and 2028, respectively. The agreement includes a variable component whereby service prices may be adjusted based on related commitments for raw materials and other costs, and annual inflationary changes in an applicable price index.
+
+141
+
+Table of Contents

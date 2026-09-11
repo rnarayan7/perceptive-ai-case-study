@@ -1,0 +1,17 @@
+Title: Study of ACTR087 in Subjects With Relapsed or Refractory B-cell Lymphoma
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Lymphoma
+Interventions: ACTR087 (BIOLOGICAL), rituximab (BIOLOGICAL)
+Enrollment: 34
+
+Summary: This is a phase 1, multi-center, single-arm, open-label study evaluating the safety and efficacy of an autologous T-cell product expressing ACTR in combination with rituximab in subjects with refractory or relapsed CD20+ B-cell lymphoma.
+
+Primary outcomes:
+- Safety as assessed by dose limiting toxicities (DLTs) (time frame: 28 days)
+- Safety as assessed by determination of the maximum tolerated dose (MTD) (time frame: 24 months)
+- Safety as assessed by determination of the recommended phase 2 dose (RP2D) (time frame: 24 months)
+- Safety as assessed by and adverse events, laboratory assessments and physical examinations (time frame: 24 months)
+- Safety as assessed by mini-mental state examination (MMSE) (time frame: 24 months)

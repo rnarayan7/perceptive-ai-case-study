@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526318078-item5_02",
+  "title": "Kymera Therapeutics, Inc. 8-K (2026-07-27) - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526318078/0001193125-26-318078-index.htm",
+  "published": "2026-07-27",
+  "retrieved_at": "2026-09-07T12:31:02.983289+00:00",
+  "metadata": {
+    "accession": "0001193125-26-318078",
+    "cik": 1815442,
+    "form": "8-K",
+    "primary_document": "d167778d8k.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-07-27",
+    "filing_date": "2026-07-27",
+    "items": "5.02,7.01,9.01",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526318078/d167778d8k.htm",
+    "section": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
+    "section_key": "item5_02"
+  },
+  "hash": "15c86147efae3fb3238feca9ed6131ad020e8d1d7db149f168d66fb5e7f17bf4"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig4",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Bar plot of mRNA and protein biodistribution Following IV Administration of 2 mg/kg mRNA-LNP in Rats. ( A ) Biodistribution of mRNA at t = 10 min at different tissue locations computed as percent injected dose. ( B ) Biodistribution of mRNA at 1 h time point at different tissues given as the percent of injected dose. ( C ) Biodistribution of protein, expressed as tissue-specific protein Cmax relative to liver protein Cmax",
+  "context": "Bar plot of mRNA and protein biodistribution Following IV Administration of 2 mg/kg mRNA-LNP in Rats. ( A ) Biodistribution of mRNA at t = 10 min at different tissue locations computed as percent injected dose. ( B ) Biodistribution of mRNA at 1 h time point at different tissues given as the percent of injected dose. ( C ) Biodistribution of protein, expressed as tissue-specific protein Cmax relative to liver protein Cmax",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.770593+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 4"
+  },
+  "image_hash": "7febf39f26d014260de6fa869cecf8ca38fc81e41ceab6be943c8eef647bf0b6",
+  "image_file": "image.jpg"
+}

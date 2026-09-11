@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000119312526333849-pii-item1a",
+  "title": "Kymera Therapeutics, Inc. 10-Q (2026-08-05) - Risk Factors",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/0001193125-26-333849-index.htm",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-07T12:31:02.394960+00:00",
+  "metadata": {
+    "accession": "0001193125-26-333849",
+    "cik": 1815442,
+    "form": "10-Q",
+    "primary_document": "kymr-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-05",
+    "items": "",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/kymr-20260630.htm",
+    "section": "Risk Factors",
+    "section_key": "pii-item1a",
+    "boilerplate": true
+  },
+  "hash": "13941ebe37d26e9c5c149e02c4afc4bc6ee017233f0678d83387fa9e5d322f9f"
+}

@@ -1,0 +1,36 @@
+{
+  "company": "ABVX",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "9926791",
+  "title": "3-[(3R,4R)-4-methyl-3-[methyl(7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]piperidin-1-yl]-3-oxopropanenitrile",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/9926791",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:24.124046+00:00",
+  "metadata": {
+    "cid": 9926791,
+    "query_name": "tofacitinib",
+    "molecular_formula": "C16H20N6O",
+    "molecular_weight": "312.37",
+    "smiles": "C[C@@H]1CCN(C[C@@H]1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N",
+    "iupac_name": "3-[(3R,4R)-4-methyl-3-[methyl(7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]piperidin-1-yl]-3-oxopropanenitrile",
+    "synonyms": [
+      "Tofacitinib",
+      "477600-75-2",
+      "Tasocitinib",
+      "3-((3R,4R)-4-methyl-3-(methyl(7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino)piperidin-1-yl)-3-oxopropanenitrile",
+      "CP-690550",
+      "CP 690550",
+      "Cp-690 free base",
+      "tofacitinibum",
+      "3-{(3R,4R)-4-methyl-3-[methyl(7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]piperidin-1-yl}-3-oxopropanenitrile",
+      "CP690550",
+      "87LA6FU830",
+      "CP-690550 FREE BASE",
+      "CP-690,550 FREE BASE",
+      "CP690,550",
+      "CP-690-550"
+    ]
+  },
+  "hash": "05fc1d9d347780e3317d8be49a2da9bcc080ecaaa011830cb51907553d440c2a"
+}

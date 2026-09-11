@@ -1,0 +1,185 @@
+{
+  "company": "PRAX",
+  "source": "pubmed",
+  "started_at": "2026-09-08T10:07:00.823429+00:00",
+  "finished_at": "2026-09-08T13:31:30.336044+00:00",
+  "documents": [
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39008349",
+      "title": "Progress report on new medications for seizures and epilepsy: A summary of the 17th Eilat Conference on New Antiepileptic Drugs and Devices (EILAT XVII). I. Drugs in preclinical and early clinical development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39008349/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.439225+00:00",
+      "metadata": {
+        "journal": "Epilepsia",
+        "year": "2024",
+        "pmid": "39008349"
+      },
+      "hash": "d324bdd0f5b1a0d58d82064b34acd99baad5e7440fa3379ed81e58d645fc28df"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "38967655",
+      "title": "Persistent sodium currents in neurons: potential mechanisms and pharmacological blockers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38967655/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.443733+00:00",
+      "metadata": {
+        "journal": "Pflugers Archiv : European journal of physiology",
+        "year": "2024",
+        "pmid": "38967655"
+      },
+      "hash": "013e48e433ae3b8f26bc3803bcc86dd009ea37ba0d0d57c7f539b143040a9f04"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40808385",
+      "title": "Voltage-gated sodium channels in the nervous system: Molecular physiology to therapeutic interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.447789+00:00",
+      "metadata": {
+        "journal": "Neural regeneration research",
+        "year": "2026",
+        "pmid": "40808385"
+      },
+      "hash": "446686fd06a8159b4dd7ee5b73770ef0683a75ba14f4dd243542abea62f010b1"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "35037706",
+      "title": "The novel persistent sodium current inhibitor PRAX-562 has potent anticonvulsant activity with improved protective index relative to standard of care sodium channel blockers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.448825+00:00",
+      "metadata": {
+        "journal": "Epilepsia",
+        "year": "2022",
+        "pmid": "35037706"
+      },
+      "hash": "2960e0e6b9043f065ca1081f7b9f32a4098b7a64a3eba53252dd45c19a515d22"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "35257414",
+      "title": "Translational Pharmacology of PRAX-944, a Novel T-Type Calcium Channel Blocker in Development for the Treatment of Essential Tremor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.449901+00:00",
+      "metadata": {
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2022",
+        "pmid": "35257414"
+      },
+      "hash": "10223f864f788173c1985a12662398b7eb91f8f61578d48d2121c027f973e435"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "37381161",
+      "title": "Clinical specificity profile for novel rapid acting antidepressant drugs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37381161/",
+      "published": "2023-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.451552+00:00",
+      "metadata": {
+        "journal": "International clinical psychopharmacology",
+        "year": "2023",
+        "pmid": "37381161"
+      },
+      "hash": "c51276fcf5da96aab983988b14ec1d33350c19d13200ce3274593aac143b756a"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "34124495",
+      "title": "Emerging Therapeutics Based on the Amino Acid Neurotransmitter System: An Update on the Pharmaceutical Pipeline for Mood Disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34124495/",
+      "published": "2021-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.452273+00:00",
+      "metadata": {
+        "journal": "Chronic stress (Thousand Oaks, Calif.)",
+        "year": "2021",
+        "pmid": "34124495"
+      },
+      "hash": "2a73700c50e5c35329f7d48deb4908ec4642f21795dea5f6b159613c4b038c23"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "38413493",
+      "title": "A Neuroanatomic and Pathophysiologic Framework for Novel Pharmacological Approaches to the Treatment of Post-traumatic Stress Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38413493/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.453979+00:00",
+      "metadata": {
+        "journal": "Drugs",
+        "year": "2024",
+        "pmid": "38413493"
+      },
+      "hash": "23d6e673110f2d0e8a34956176c8d2a0dc1f588534440489f8553cf082207307"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42651828",
+      "title": "Antiseizure Medications in Development: Novel Mechanisms, Precision Therapy, and the Move Towards Disease Modification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42651828/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:07:05.454933+00:00",
+      "metadata": {
+        "journal": "Current issues in molecular biology",
+        "year": "2026",
+        "pmid": "42651828"
+      },
+      "hash": "9e168ec6f3ba43466ee77a7202a3fb2047cd45304ef494d4a216b34814d91aa3"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "20175185",
+      "title": "How common is the most common adult movement disorder? Update on the worldwide prevalence of essential tremor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+      "published": "2010-01-01",
+      "retrieved_at": "2026-09-08T13:31:30.332825+00:00",
+      "metadata": {
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2010",
+        "pmid": "20175185"
+      },
+      "hash": "874a8ebaa8d6068eabd21e982801281011a32547264b02fff346da46d63d1d0a"
+    },
+    {
+      "company": "PRAX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "34277141",
+      "title": "How Common is Essential Tremor? Update on the Worldwide Prevalence of Essential Tremor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+      "published": "2021-01-01",
+      "retrieved_at": "2026-09-08T13:31:30.334026+00:00",
+      "metadata": {
+        "journal": "Tremor and other hyperkinetic movements (New York, N.Y.)",
+        "year": "2021",
+        "pmid": "34277141"
+      },
+      "hash": "d78d6842d0f046f3aef4bd6bc9c5e0e38013280ee022576f119a029935c66e1a"
+    }
+  ],
+  "errors": []
+}

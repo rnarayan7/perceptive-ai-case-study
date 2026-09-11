@@ -1,0 +1,1 @@
+Forest plot for DFS in radiotherapy-treated patients. CI = confidence interval, DFS= disease-free survival, HR = hazard ratio.

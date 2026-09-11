@@ -1,0 +1,33 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "18936430",
+  "title": "FAERS report 18936430: Myasthenia gravis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:18936430",
+  "published": "2023-12-04",
+  "retrieved_at": "2026-09-08T08:40:48.088475+00:00",
+  "metadata": {
+    "term": "efgartigimod",
+    "serious": true,
+    "reactions": [
+      "Myasthenia gravis"
+    ],
+    "drugs": [
+      "SOLIRIS",
+      "SOLIRIS",
+      "RINDERON VG",
+      "MIRABEGRON",
+      "METHYLCOBALAMIN",
+      "AMOXICILLIN\\CLARITHROMYCIN\\VONOPRAZAN FUMURATE",
+      "MESTINON",
+      "TACROLIMUS",
+      "EFGARTIGIMOD ALFA",
+      "PROGRAF",
+      "PREDONINE",
+      "PREDONINE"
+    ],
+    "occurcountry": "JP"
+  },
+  "hash": "bb8f3ba1bcadc7b4e617865d154d565a4f73cc1c68103f3607361aab97d0e196"
+}

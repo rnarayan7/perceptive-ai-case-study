@@ -1,0 +1,27 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "20547798",
+  "title": "FAERS report 20547798: Muscular weakness, Muscle twitching, Diplopia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:20547798",
+  "published": "2022-03-03",
+  "retrieved_at": "2026-09-08T08:40:48.091986+00:00",
+  "metadata": {
+    "term": "efgartigimod",
+    "serious": true,
+    "reactions": [
+      "Muscular weakness",
+      "Muscle twitching",
+      "Diplopia",
+      "Throat irritation",
+      "Flushing",
+      "Infusion related reaction"
+    ],
+    "drugs": [
+      "VYVGART"
+    ],
+    "occurcountry": null
+  },
+  "hash": "7cf5a17ad5084fd00bf65308eb6cd22a34326c99a3ca54374bec16ffabbd8ee8"
+}

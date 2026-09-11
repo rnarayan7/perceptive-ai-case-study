@@ -1,0 +1,44 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06980805",
+  "title": "A Study to Assess the Safety, Tolerability, and Efficacy of IMVT-1402 in Participants With Cutaneous Lupus Erythematosus (CLE)",
+  "url": "https://clinicaltrials.gov/study/NCT06980805",
+  "published": "2025-05-20",
+  "retrieved_at": "2026-09-07T12:53:37.942473+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Subacute Cutaneous Lupus Erythematosus",
+      "Chronic Cutaneous Lupus Erythematosus"
+    ],
+    "interventions": [
+      {
+        "name": "IMVT-1402",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 56,
+    "start_date": "2025-02-19",
+    "primary_completion_date": "2026-10",
+    "completion_date": "2027-04",
+    "first_posted_date": "2025-05-20",
+    "primary_outcomes": [
+      {
+        "measure": "Percent change from Period 1 Baseline in Cutaneous Lupus Erythematosus Disease area and Severity Index activity (CLASI-A) score at Week 12",
+        "timeFrame": "Baseline (Day 1) and Week 12"
+      }
+    ]
+  },
+  "hash": "5e0410e69994ba2be1cebd5a5e67d2f9942639d7d025c259761df3b95c772bb5"
+}

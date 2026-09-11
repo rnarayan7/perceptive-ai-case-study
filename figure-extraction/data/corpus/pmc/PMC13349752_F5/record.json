@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13349752_F5",
+  "figure_type": "forest",
+  "title": "Troponin for surveillance of immune checkpoint inhibitor-associated myocarditis and post-therapy cardiovascular risk stratification: a systematic review and meta-analysis.",
+  "caption": "Troponin and mortality forest plot. Forest plot of the prognostic meta-analysis evaluating the association between troponin elevation and mortality in immune checkpoint inhibitor–treated patients. Studylevel hazard ratios with 95% confidence intervals are displayed, and the pooled estimate was generated using a random-effects model. Between-study heterogeneity is reported using  I 2 . ICI, immune checkpoint inhibitor; HR, hazard ratio; CI, confidence interval.",
+  "context": "Troponin and mortality forest plot. Forest plot of the prognostic meta-analysis evaluating the association between troponin elevation and mortality in immune checkpoint inhibitor–treated patients. Studylevel hazard ratios with 95% confidence intervals are displayed, and the pooled estimate was generated using a random-effects model. Between-study heterogeneity is reported using  I 2 . ICI, immune checkpoint inhibitor; HR, hazard ratio; CI, confidence interval. Subgroup analyses by troponin assay type did demonstrate statistically significant differences ( χ 2 = 8.36, df = 3, p = 0.0392) ( Figure 5 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13349752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-26",
+  "retrieved_at": "2026-09-07T13:07:54.819413+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13349752",
+    "pmid": "42434148",
+    "journal": "Frontiers in cardiovascular medicine",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "e581d9e31f5dd304b623539f61d91ac4ef948204c60c5ac58c35cebf7b8d9b15",
+  "image_file": "image.jpg"
+}

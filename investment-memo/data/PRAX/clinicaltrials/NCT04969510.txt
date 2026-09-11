@@ -1,0 +1,13 @@
+Title: A Clinical Trial of Adjunctive and Monotherapy PRAX-114 in Participants With Major Depressive Disorder
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Major Depressive Disorder
+Interventions: 10 mg PRAX-114 (DRUG), 20 mg PRAX-114 (DRUG), 40 mg PRAX-114 (DRUG), 60 mg PRAX-114 (DRUG), Placebo (DRUG)
+Enrollment: 110
+
+Summary: This is a randomized, double-blind, placebo-controlled clinical trial to evaluate the efficacy and safety of 10, 20, 40 and 60 mg oral PRAX-114 compared to placebo in the treatment of adults with MDD. The study will enroll participants on adjunctive treatment who had an inadequate response to their current antidepressant treatment and participants not currently being treated with pharmacotherapy for MDD. A sub-study to investigate the pharmacokinetics (PK) of PRAX-114 and metabolites when dosed in the evening in participants with MDD will be conducted in a subset of participants at selected research sites with serial PK sampling capabilities.
+
+Primary outcomes:
+- Change from baseline in HAM-D17 total score at Day 15 (time frame: 15 days)

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13360173_cancers-18-02131-f001",
+  "figure_type": "table",
+  "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+  "caption": "Patient disposition. Abbreviations: MDS, Myelodysplastic Syndromes; AZA, Azacitidine; Allo-SCT, Allogeneic stem cell transplantation.",
+  "context": "Patient disposition. Abbreviations: MDS, Myelodysplastic Syndromes; AZA, Azacitidine; Allo-SCT, Allogeneic stem cell transplantation. In total, 96 patients fulfilled the inclusion criteria, consisting of 41 younger patients (<75 years) and 55 elderly patients (≥75 years) ( Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13360173/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-07T13:29:40.117313+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13360173",
+    "pmid": "42449673",
+    "journal": "Cancers",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "53caf8591826b9f4778534fe395bc6abd00430f71e72a545fbe5db1fa646427b",
+  "image_file": "image.jpg"
+}

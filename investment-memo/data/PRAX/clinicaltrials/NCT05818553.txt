@@ -1,0 +1,14 @@
+Title: A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: SCN2A Encephalopathy, SCN8A Encephalopathy
+Interventions: PRAX-562 (DRUG)
+Enrollment: 77
+
+Summary: A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)
+
+Primary outcomes:
+- PART A (Cohorts 1 and 2) RDB: To evaluate the safety and tolerability of PRAX 562 in pediatric participants with SCN2A- and SCN8A- DEEs (time frame: 16 weeks)
+- PART B (Cohorts 1 and 2) OLE: To evaluate the long-term safety and tolerability of PRAX-562 in pediatric participants with DEEs (time frame: 48 weeks)

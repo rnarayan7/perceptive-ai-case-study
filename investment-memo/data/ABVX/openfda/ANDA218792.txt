@@ -1,0 +1,8 @@
+Drugs@FDA application ANDA218792: UPADACITINIB
+Sponsor: SANDOZ INC
+Active ingredient(s): UPADACITINIB
+Brand name(s): UPADACITINIB
+Application type: ANDA (generic)
+Review priority: STANDARD
+Marketing status: None (Tentative Approval)
+Submissions on record: 1

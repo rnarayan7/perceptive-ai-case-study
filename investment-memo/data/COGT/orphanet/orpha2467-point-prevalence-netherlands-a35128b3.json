@@ -1,0 +1,30 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2467-point-prevalence-netherlands-a35128b3",
+  "title": "Systemic mastocytosis - Point prevalence (Netherlands) [ORPHA:2467]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T13:31:34.382751+00:00",
+  "metadata": {
+    "orphacode": 2467,
+    "preferred_term": "Systemic mastocytosis",
+    "disorder_group": "Group of disorders",
+    "typology": "Clinical group",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-5 / 10 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "13.0",
+    "geographic_area": "Netherlands",
+    "validation_status": "Validated",
+    "source": "23219169[PMID]",
+    "source_pmids": [
+      "23219169"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "a35128b3d4f5de9d34a3e6116f38d604956effc0dd21c7ed3b3633ec5cdc0b49"
+}

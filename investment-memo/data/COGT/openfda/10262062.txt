@@ -1,0 +1,4 @@
+FAERS adverse-event report 10262062 (comparator: midostaurin)
+Serious: yes
+Reactions: Diarrhoea haemorrhagic
+Reported drugs: MIDOSTAURIN

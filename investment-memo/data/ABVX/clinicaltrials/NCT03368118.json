@@ -1,0 +1,39 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03368118",
+  "title": "Study Evaluating the Long-term Safety and Efficacy of ABX464 in Active Ulcerative Colitis",
+  "url": "https://clinicaltrials.gov/study/NCT03368118",
+  "published": "2017-12-11",
+  "retrieved_at": "2026-09-07T12:53:29.795882+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 22,
+    "start_date": "2018-01-20",
+    "primary_completion_date": "2022-07-12",
+    "completion_date": "2022-08-15",
+    "first_posted_date": "2017-12-11",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Treatment-emergent Adverse Events",
+        "timeFrame": "Through subject study treatment, up to 48 months"
+      }
+    ]
+  },
+  "hash": "8130b7be255c346dcba2d4480e32b7883a1f749d278ae4b12cd512ca6815e10e"
+}

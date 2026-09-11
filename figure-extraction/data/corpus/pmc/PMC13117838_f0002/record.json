@@ -1,0 +1,78 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13117838_f0002",
+  "figure_type": "waterfall",
+  "title": "Camrelizumab Plus Apatinib in Advanced Unresectable Alveolar Soft Part Sarcoma and Undifferentiated Pleomorphic Sarcoma Patients: A Single-Center, Exploratory Case Series.",
+  "caption": "Waterfall plot of maximum tumor reduction outcomes in individual patients with ASPS or UPS. The waterfall plot was constructed, displaying the percentage change from the baseline tumor size, with the ASPS patients represented by blue bars and the UPS patients by red bars. Cases are arranged from left to right by a decreasing magnitude of tumor shrinkage. The upper black dotted horizontal line is set at +20%, indicating that tumor growth exceeding 20% corresponds to a PD assessment. The lower black dotted horizontal line is set at −30%, indicating that tumor shrinkage greater than 30% corresponds to an assessment of a PR or even a CR.",
+  "context": "Waterfall plot of maximum tumor reduction outcomes in individual patients with ASPS or UPS. The waterfall plot was constructed, displaying the percentage change from the baseline tumor size, with the ASPS patients represented by blue bars and the UPS patients by red bars. Cases are arranged from left to right by a decreasing magnitude of tumor shrinkage. The upper black dotted horizontal line is set at +20%, indicating that tumor growth exceeding 20% corresponds to a PD assessment. The lower black dotted horizontal line is set at −30%, indicating that tumor shrinkage greater than 30% corresponds to an assessment of a PR or even a CR. Further short-term efficacy and long-term outcome data of individual patients are presented in Table 2 and Figures 2–4 . In our study, camrelizumab combined with apatinib suggested relatively better efficacy in patients with advanced unresectable ASPS, as indicated by the response data ( Table 2 and Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13117838/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-04-23",
+  "retrieved_at": "2026-09-07T13:00:39.971626+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Total number of bars",
+      "value": "9",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Leftmost bar value (UPS)",
+      "value": "+30%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Deepest bar value (ASPS)",
+      "value": "-98%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars exceeding -30% threshold",
+      "value": "8 of 9 (~89%)",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars exceeding -50% threshold",
+      "value": "8 of 9 (~89%)",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars exceeding +20% threshold",
+      "value": "1 of 9 (~11%)",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13117838",
+    "pmid": "42051923",
+    "journal": "Therapeutics and clinical risk management",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "b9c507396084e64bfc4361cdfee5a9216f8c930b7d3f37caf36cbe3284993066",
+  "image_file": "image.jpg"
+}

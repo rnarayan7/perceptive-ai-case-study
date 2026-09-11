@@ -1,0 +1,35 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10050469",
+  "title": "FAERS report 10050469: Disease progression, Haematotoxicity, Hyperglycaemia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10050469",
+  "published": "2014-04-01",
+  "retrieved_at": "2026-09-08T08:41:01.863025+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Disease progression",
+      "Haematotoxicity",
+      "Hyperglycaemia",
+      "Pneumonia",
+      "Sepsis",
+      "Sinusitis",
+      "Hypokalaemia",
+      "Hyperkalaemia",
+      "Hyponatraemia",
+      "Hypertriglyceridaemia"
+    ],
+    "drugs": [
+      "CLADRIBINE",
+      "ARA-C",
+      "GRANULOCYTE COLONY-STIMULATING FACTOR NOS",
+      "ATRA (ALL TRANS RETINOIC ACID)",
+      "MIDOSTAURIN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "7fff4e411ff0d322fe713bf7b90b829f61a0871e83c98e036cb4075366734369"
+}

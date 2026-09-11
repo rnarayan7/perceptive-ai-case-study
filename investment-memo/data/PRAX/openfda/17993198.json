@@ -1,0 +1,35 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17993198",
+  "title": "FAERS report 17993198: Dizziness, Drug dose titration not performed, Mental impairment",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17993198",
+  "published": "2020-10-12",
+  "retrieved_at": "2026-09-08T08:40:31.672715+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Dizziness",
+      "Drug dose titration not performed",
+      "Mental impairment",
+      "Fatigue",
+      "Panic attack",
+      "Drug interaction",
+      "Slow speech",
+      "Fall",
+      "Memory impairment"
+    ],
+    "drugs": [
+      "SABRIL",
+      "LEVETIRACETAM.",
+      "XCOPRI",
+      "LAMOTRIGINE.",
+      "ONFI",
+      "SABRIL"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "765dd36eabaa306403c3104ab4d2dc57c8b8e2bba7bbfae918fd049f8153256f"
+}

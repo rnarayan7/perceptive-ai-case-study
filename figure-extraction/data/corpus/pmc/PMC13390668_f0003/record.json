@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13390668_f0003",
+  "figure_type": "kaplan_meier",
+  "title": "Survival Outcomes and Prognostic Factors in Patients with Metastatic Colorectal Cancer Treated First-Line mFOLFOXIRI Plus Bevacizumab: A Real-World Study in Vietnam.",
+  "caption": "Multivariable Cox regression analyses for survival outcomes. ( A ) Progression-free survival. ( B ) Overall survival. Forest plots show hazard ratios (HRs) and 95% confidence intervals (CIs) for factors included in the multivariable models. Bold p-values indicate statistical significance (p < 0.05).",
+  "context": "Multivariable Cox regression analyses for survival outcomes. ( A ) Progression-free survival. ( B ) Overall survival. Forest plots show hazard ratios (HRs) and 95% confidence intervals (CIs) for factors included in the multivariable models. Bold p-values indicate statistical significance (p < 0.05). In multivariable Cox regression analysis ( Figure 3A and B ), ETS was independently associated with improved outcomes.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13390668/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-18",
+  "retrieved_at": "2026-09-07T12:50:27.061070+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13390668",
+    "pmid": "42487982",
+    "journal": "OncoTargets and therapy",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "0778e56e7da20acd348b12ed2b50e9b25b1541278fbdbe2ebcfe77d477bed4ef",
+  "image_file": "image.jpg"
+}

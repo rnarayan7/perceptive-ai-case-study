@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003748",
+  "title": "FAERS report 10003748: Bone marrow failure, Bone marrow failure, Neutrophil count decreased",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003748",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:41.205062+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Bone marrow failure",
+      "Bone marrow failure",
+      "Neutrophil count decreased"
+    ],
+    "drugs": [
+      "DEPAKOTE",
+      "LAMICTAL",
+      "QUETIAPINE",
+      "CLONAZEPAM",
+      "ALPRAZOLAM"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "4cf388430485c213b2dd58d0aa42241b3b8f70beaa99748379c186d355619922"
+}

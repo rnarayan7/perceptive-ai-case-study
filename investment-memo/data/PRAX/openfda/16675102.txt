@@ -1,0 +1,4 @@
+FAERS adverse-event report 16675102 (comparator: cenobamate)
+Serious: yes
+Reactions: Dehydration, Seizure, Abdominal pain upper, Ear infection, Product use in unapproved indication, Drug ineffective
+Reported drugs: DIACOMIT, DIACOMIT, DIACOMIT, DIACOMIT, DIACOMIT, ONFI, EPIDIOLEX, FELBATOL, CLORAZEPATE DIPOTASSIUM, XCOPRI, MIDAZOLAM

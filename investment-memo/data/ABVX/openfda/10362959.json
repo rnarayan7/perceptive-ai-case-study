@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10362959",
+  "title": "FAERS report 10362959: Palpitations, Lymphadenopathy",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10362959",
+  "published": "2014-08-13",
+  "retrieved_at": "2026-09-08T08:40:13.661887+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Palpitations",
+      "Lymphadenopathy"
+    ],
+    "drugs": [
+      "ENTYVIO"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "04c4496beb1751bb714f7b6e6142d16b209672e30ca9f00542c1ab6b3f4466a9"
+}

@@ -1,0 +1,36 @@
+{
+  "company": "KYMR",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "146599824",
+  "title": "N-[3-(difluoromethyl)-1-[4-[[4-[3-[1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxobenzimidazol-4-yl]prop-2-ynoxy]piperidin-1-yl]methyl]cyclohexyl]pyrazol-4-yl]-5-[(1R,4R)-2-oxa-5-azabicyclo[2.2.1]heptan-5-yl]pyrazolo[1,5-a]pyrimidine-3-carboxamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/146599824",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:30.555565+00:00",
+  "metadata": {
+    "cid": 146599824,
+    "query_name": "KT-474",
+    "molecular_formula": "C44H49F2N11O6",
+    "molecular_weight": "865.9",
+    "smiles": "CN1C2=C(C=CC=C2N(C1=O)C3CCC(=O)NC3=O)C#CCOC4CCN(CC4)CC5CCC(CC5)N6C=C(C(=N6)C(F)F)NC(=O)C7=C8N=C(C=CN8N=C7)N9C[C@H]1C[C@@H]9CO1",
+    "iupac_name": "N-[3-(difluoromethyl)-1-[4-[[4-[3-[1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxobenzimidazol-4-yl]prop-2-ynoxy]piperidin-1-yl]methyl]cyclohexyl]pyrazol-4-yl]-5-[(1R,4R)-2-oxa-5-azabicyclo[2.2.1]heptan-5-yl]pyrazolo[1,5-a]pyrimidine-3-carboxamide",
+    "synonyms": [
+      "2432994-31-3",
+      "PROTAC IRAK4 degrader-7",
+      "KT-474",
+      "Tipasertideg",
+      "KT474",
+      "SAR444656",
+      "SAR-444656",
+      "5-((1R,4R)-2-Oxa-5-azabicyclo[2.2.1]heptan-5-yl)-N-(3-(difluoromethyl)-1-((1r,4R)-4-((4-((3-(1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-4-yl)prop-2-yn-1-yl)oxy)piperidin-1-yl)methyl)cyclohexyl)-1H-pyrazol-4-yl)pyrazolo[1,5-a]pyrimidine-3-carboxamide",
+      "N-[3-(Difluoromethyl)-1-[4-[[4-[3-[1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxobenzimidazol-4-yl]prop-2-ynoxy]piperidin-1-yl]methyl]cyclohexyl]pyrazol-4-yl]-5-[(1R,4R)-2-oxa-5-azabicyclo[2.2.1]heptan-5-yl]pyrazolo[1,5-a]pyrimidine-3-carboxamide",
+      "tipasertideg [INN]",
+      "2SXR65P7E3",
+      "orb1982967",
+      "CHEMBL5569030",
+      "SCHEMBL21998241",
+      "SCHEMBL23807243"
+    ]
+  },
+  "hash": "9e6a39aa177530cbbb1b23ef2b49aa0340169881204324e9e0d68e29687372f5"
+}

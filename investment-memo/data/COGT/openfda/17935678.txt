@@ -1,0 +1,4 @@
+FAERS adverse-event report 17935678 (comparator: ripretinib)
+Serious: yes
+Reactions: Ascites, Hospice care, Decreased appetite, Wrong dosage formulation
+Reported drugs: QINLOCK

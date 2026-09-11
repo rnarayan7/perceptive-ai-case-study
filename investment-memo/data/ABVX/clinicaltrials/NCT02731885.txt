@@ -1,0 +1,14 @@
+Title: Food Effect on Pharmacokinetic Parameters of ABX464
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Healthy Volunteers
+Interventions: ABX464 Single dose (DRUG), ABX464 Repeated dose (DRUG)
+Enrollment: 48
+
+Summary: The goal of this study is to determine the impact of the food on the absorption of the ABX464.
+
+Primary outcomes:
+- Area under the plasma concentration versus time curve (AUC) of single oral dose of 50mg of ABX464 in fed or fasted condition. (time frame: 45 days)
+- Peak Plasma Concentration (Cmax) of single oral dose of 50mg of ABX464 in fed or fasted condition. (time frame: 45 days)

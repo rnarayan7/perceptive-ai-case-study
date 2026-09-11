@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13396465_Fig3",
+  "figure_type": "spider",
+  "title": "Methylation-based ctDNA monitoring in metastatic breast cancer during CDK4/6 inhibitor therapy.",
+  "caption": "Longitudinal methylation tumor fraction monitoring. A  Swimmer plot with associated individual participant clinical features highlighted. Radiographic outcomes are highlighted in association with the detection of ctDNA, reported as mTF.  B  Representative kinetic plots highlighting changes in mTF over time with respect to radiologist-adjudicated imaging assessment.  C  Serial images on restaging CT scans highlighting changes in mTF over time with respect to changes in measurable liver metastases. Emergence of a new non-target lesion corresponded with a concordant rise in mTF. Palbociclib/Abemaciclib: CDK4/6i therapy rotated due to toxicity. SERD selective estrogen receptor degrader, AI aromatase inhibitor, SERM selective estrogen receptor modulator, NA not available.",
+  "context": "Longitudinal methylation tumor fraction monitoring. A  Swimmer plot with associated individual participant clinical features highlighted. Radiographic outcomes are highlighted in association with the detection of ctDNA, reported as mTF.  B  Representative kinetic plots highlighting changes in mTF over time with respect to radiologist-adjudicated imaging assessment.  C  Serial images on restaging CT scans highlighting changes in mTF over time with respect to changes in measurable liver metastases. Emergence of a new non-target lesion corresponded with a concordant rise in mTF. Palbociclib/Abemaciclib: CDK4/6i therapy rotated due to toxicity. SERD selective estrogen receptor degrader, AI aromatase inhibitor, SERM selective estrogen receptor modulator, NA not available.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396465/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-04",
+  "retrieved_at": "2026-09-07T13:15:29.852754+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13396465",
+    "pmid": "42243127",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 3"
+  },
+  "image_hash": "547f1996bc84a8bfbda378e7437ca7951510de6df60dac9fd3fb02b9cdd906e1",
+  "image_file": "image.jpg"
+}

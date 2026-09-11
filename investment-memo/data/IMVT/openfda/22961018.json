@@ -1,0 +1,48 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22961018",
+  "title": "FAERS report 22961018: Dyspnoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22961018",
+  "published": "2023-09-20",
+  "retrieved_at": "2026-09-08T08:40:52.403983+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Dyspnoea"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "FLONASE",
+      "PYRIDOSTIGMINE",
+      "PREDNISONE",
+      "DULOXETINE",
+      "OMEPRAZOLE",
+      "SUCRALFATE",
+      "TRAMADOL",
+      "TRAZODONE",
+      "ACETAMINOPHEN",
+      "CALCIUM\\CHOLECALCIFEROL",
+      "CANNABIDIOL\\HERBALS",
+      "CETIRIZINE HCL",
+      "FAMOTIDINE",
+      "FOLIC ACID",
+      "GINKGO",
+      "GLUTAMINE",
+      "HERBALS",
+      "L LYSINE [LYSINE]",
+      "L THEANINE [THEANINE]",
+      "LEVOMEFOLIC ACID",
+      "ACETYLCYSTEINE",
+      "PROBIOTICS [BIFIDOBACTERIUM LONGUM;LACTOBACILLUS ACIDOPHILUS;LACTOBACI",
+      "VITAMIN C",
+      "VITAMIN D3",
+      "MENADIONE",
+      "HEMP"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "1736065b723b2a198f6c7cf7e37ac95622bd325dd29ca2a8a83046cd33f3dda1"
+}

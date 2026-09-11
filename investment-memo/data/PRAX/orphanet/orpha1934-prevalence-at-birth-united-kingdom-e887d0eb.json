@@ -1,0 +1,30 @@
+{
+  "company": "PRAX",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha1934-prevalence-at-birth-united-kingdom-e887d0eb",
+  "title": "Early infantile developmental and epileptic encephalopathy - Prevalence at birth (United Kingdom) [ORPHA:1934]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:06.783167+00:00",
+  "metadata": {
+    "orphacode": 1934,
+    "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+    "disorder_group": "Disorder",
+    "typology": "Clinical syndrome",
+    "prevalence_type": "Prevalence at birth",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "2.0",
+    "geographic_area": "United Kingdom",
+    "validation_status": "Validated",
+    "source": "23252366[PMID]_[EXPERT]",
+    "source_pmids": [
+      "23252366"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "e887d0ebbca6ad588c0aa7b89773d58725c3733c6ba329faee57ee029917896a"
+}

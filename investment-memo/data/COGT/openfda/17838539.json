@@ -1,0 +1,34 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17838539",
+  "title": "FAERS report 17838539: Confusional state",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17838539",
+  "published": "2020-05-29",
+  "retrieved_at": "2026-09-08T08:41:06.397300+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Confusional state"
+    ],
+    "drugs": [
+      "SIMETHICONE (SIMETICONE)",
+      "BENTYL",
+      "OXYCODONE.",
+      "EFFEXOR",
+      "LORATADINE.",
+      "MULTI VITAMIN (ASCORBIC ACID, COLECALCIFEROL, NICOTINAMIDE, PANTHENOL,",
+      "PHENERGAN",
+      "ZOFRAN",
+      "IMODIUM A-D",
+      "QINLOCK",
+      "SIMVASTATIN.",
+      "ALBUTEROL.",
+      "FAMOTIDINE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "6507b8240b17c477875d7de570558d748b2f3b1c57581ad6f92ec32b6e2f2aaa"
+}

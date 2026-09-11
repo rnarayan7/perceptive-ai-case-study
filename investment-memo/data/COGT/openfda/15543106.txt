@@ -1,0 +1,4 @@
+FAERS adverse-event report 15543106 (comparator: avapritinib)
+Serious: yes
+Reactions: Anaphylactic reaction, Pulmonary congestion, Chest discomfort, Dyspnoea, Flushing, Dizziness, Nausea, Syncope, Vomiting, Diarrhoea, Hypotension
+Reported drugs: OSIMERTINIB, OSIMERTINIB, OSIMERTINIB, OSIMERTINIB, PREDNISONE, OMALIZUMAB, MIDOSTAURIN, AVAPRITINIB, AVAPRITINIB, AVAPRITINIB

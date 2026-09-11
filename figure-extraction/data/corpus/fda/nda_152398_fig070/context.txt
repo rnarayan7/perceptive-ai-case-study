@@ -1,0 +1,111 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Hepatic events (hepatobiliary investigations - Liver function analyses):
+
+               Table 72 shows details of AESI by Preferred Terms for hepatic events (hepatobiliary
+               investigations and Liver function analyses).
+
+               Table 72. cGVHD Safety Population: Preferred Terms for Hepatic Events
+                Preferred Terms                200 mg QD (N=83)     200 mg BID (N=82)                     400 mg QD (N=21)
+
+                                                          n           (%)          n          (%)          n           (%)
+
+                 With at least one TEAE of Hepatic       20          24.1         22          26.8         4          19.0
+                 events HLGT
+                 ALT increased                           10          12.1         10          12.2         2           9.5
+                 AST increased                           10          12.1         10          12.2         1           4.8
+                 GGT increased                           10          12.1         14          17.1         0            0
+                 Transaminases increased                  1           1.2          1          1.2          1           4.8
+                 Liver function test increased            1           1.2          0           0           0            0
+                 Bilirubin conjugated increased           1           1.2          0           0           0            0
+                 Blood bilirubin increased                0            0           0           0           1           4.8
+                 Cholangitis                              0            0           1          1.2          0            0
+                 Cholelithiasis                           0            0           1          1.2          0            0
+                 Ascites                                  0             0            0           0           1         4.8
+               Source: FDA Analysis.
+               Abbreviations: QD = once daily; BID=twice daily; HLGT = high level group term; TEAE = treatment-emergent
+               adverse events; ALT = alanine aminotransferase; AST = aspartate aminotransferase; GGT=gamma-glutamyl
+               transferase.
+
+               The Applicant recommends monitoring liver tests monthly for                      treatment
+                                                                                                           (b) (4)
+
+
+               with KD-025. To support this recommendation, they provided an analysis of time to first
+               abnormal liver test (Response to Labeling Comments received 6/14/2021) (Table 73).
+
+               Table 73. cGVHD Safety Population: Time to First Event for Each Hepatic Adverse Events
+
+
+
+
+                 Source: Response to Labeling Comments received 6/14/2021
+
+               Review Comment: Elevated liver tests is a substantial risk that would warrant monitoring.
+
+                                                                     240
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 71. cGVHD Safety Population: Adverse Events of Special Interest
+                                                               200 mg QD                       200 mg BID                      400 mg QD
+                                                                 (N=83)                          (N=82)                          (N=21)
+
+                                                        n     %     Time to             n      %    Time to             n      %    Time to
+                                                                    onset                           onset                           onset
+             AESI
+                                                                    Median Days                     Median Days                     Median Days
+                                                                    (Range)                         (Range)                         (Range)
+             QT Prolongation                            2     2     36 (1-71)           1      1    51 (51-51)          0      0
+
+             Hypotension                                4     5     40 (1-149)          4      5    99 (40-210)         1      5    208 (208-208)
+
+             Thrombocytopenia                           4     5     40 (1-267)          7      9    30 (13-294)         1      5    198 (198-198)
+
+             Drug Related Hepatic Disorders            22     27    57 (1-391)         20     24    20 (1-309)          4     19 341 (1-757)
+
+             Cardiac Arrhythmias                        5     6     66 (1-279)          4      5    57 (3-386)          1      5    430 (430-430)
+
+             Infective Pneumonia                       10     12    68 (15-279)        14     17    99 (3-363)          4     19 235 (55-878)
+
+             Infections - Pathogen Unspecified         44     53    70 (1-299)         44     53    59 (2-427)         13     62 99 (34-323)
+
+             Viral Infectious Disorders                17     20    86 (5-327)         18     22    237 (3-478)         7     33 279 (36-969)
+
+             Neoplasms                                  9     11    93 (39-327)         7      9    174 (29-346)        5     24 471 (8-813)
+
+             Erythropenia                              10     12    101 (12-266)       12     15    81 (1-278)          1      5    8 (8-8)
+
+             Leukopenia                                 6     7     102 (1-267)         6      7    30 (28-57)          1      5    404 (404-404)
+
+             Neoplasms Malignant                        8     10    103 (39-631)        2      2    241 (174-307)       4     19 337 (8-813)
+
+             Fungal Infectious Disorders                8     10    105 (29-282)        5      6    22 (15-141)         1      5    281 (281-281)
+
+             Bacterial Infectious Disorders            13     16    111 (1-360)         8     10    96 (18-332)         2     10 178 (161-194)
+
+             General Hypersensitivity                  18     22    158 (15-614)       14     17    134 (1-309)         1      5    40 (40-40)
+
+             Anaphylactic Reaction                      1     1     187 (187-187)       0      0                        0      0
+
+             Neutropenia                                1     1     253 (253-253)       1      1    28 (28-28)          1      5    502 (502-502)
+             Source: FDA Analysis. Abbreviations: QD = once daily; BID=twice daily; AESI = adverse events of special interest; CAR_ARR =
+             Cardiac arrhythmias; CAR QT = Cardiac Torsade de pointes/QT prolongation; G ANAPH = General Anaphylactic reaction; G_HYPER =
+             General Hypersensitivity; G_HYPOT = General Hypotension; HEM_CYT = Hematopoietic cytopenias affecting more than one type of
+             blood cell; HEM_ERY = Hematopoietic erythropenia; HEM LEU = Hematological leukopenia; HEM_NEU = Hematological
+             Neutropenia;HEM THR = Hematological thrombocytopenia; HEP HEP = Hepatic Drug related hepatic disorders; INF_BAC = Infection
+             Bacterial infectious disorders; INF_FUN = Infection Fungal infectious disorders; INF_PAT = Infection Infections - pathogen unspecified;
+             INF_PNE = Infection Infective pneumonia; INF_VIR = Infection Viral infectious disorders; NEO_MAL = Neoplasms Malignant or
+             unspecified tumors; NEO NEO = Neoplasms benign, malignant and unspecified.
+
+
+               The

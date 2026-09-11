@@ -1,0 +1,459 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "started_at": "2026-09-08T10:06:19.586091+00:00",
+  "finished_at": "2026-09-08T10:06:22.365832+00:00",
+  "documents": [
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1281490",
+      "title": "Latent profiles of eating disorder symptoms among transgender, gender diverse, and cisgender people with lived experience of eating disorders: associations with neurodivergent traits and gender dysphoria",
+      "url": "https://europepmc.org/article/PPR/PPR1281490",
+      "published": "2026-07-20",
+      "retrieved_at": "2026-09-08T10:06:22.337776+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-10116769/v1",
+        "epmc_id": "PPR1281490",
+        "epmc_source": "PPR",
+        "authors": "Thomas KS, Williams GH, Keith M, Blackbrook H, Bainbridge R, Merry J, Group LLEA, Williams MO, Chawner SJRA, Henley J, Cooper K, Jones CRG.",
+        "cited_by": 0
+      },
+      "hash": "bd0ec8af6c391afd683b72143d742a5bc9bdcb9d96bf1e783421d982b87f33e3"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1278643",
+      "title": "What makes a banana false? How the genome of Ethiopian orphan staple Ensete ventricosum differs from the banana A and B sub-genomes",
+      "url": "https://europepmc.org/article/PPR/PPR1278643",
+      "published": "2026-07-14",
+      "retrieved_at": "2026-09-08T10:06:22.338145+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-10247519/v1",
+        "epmc_id": "PPR1278643",
+        "epmc_source": "PPR",
+        "authors": "Muzemil S, Paul P, Baxter L, Dominguez\u2010Ferreras A, Sahu SK, Deynze AV, Mai G, Yemataw Z, Tesfaye K, Ntoukakis V, Studholme DJ, Grant M.",
+        "cited_by": 0
+      },
+      "hash": "8e4a041065ce3136e40af9e56f6d57a571f3179c0b9aa2f2dddc3809bf9d3656"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1260364",
+      "title": "COVID-19 Vaccine Reactogenicity Marks an Innate Inflammatory Response Associated With HLA Variation and Enhanced Protection",
+      "url": "https://europepmc.org/article/PPR/PPR1260364",
+      "published": "2026-06-26",
+      "retrieved_at": "2026-09-08T10:06:22.338503+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-10085252/v1",
+        "epmc_id": "PPR1260364",
+        "epmc_source": "PPR",
+        "authors": "Hollenbach J, Srivastava A, Chatzileontiadou D, Adhikari A, Suseno R, Lin S, Boquett J, Tuibeo J, Yusufali T, Peyser N, Farias T, Kichula K, Nguyen A, Jose I, Jayasinghe D, Leong S, Beatty A, Tarassi K, Kontou E, Maddumage J, Ampelakiotou K, Tsirogianni A, Dewar-Oldis M, Tu TM, Phan T, Barnard P, Sabatino J, Zoulas D, Ariens E, Mercer T, Grant E, D\u2019Orsogna L, Smith C, Norman P, Marcus G, Olgin J, Pletcher MJ, Maiers M, Gras S.",
+        "cited_by": 0
+      },
+      "hash": "fa0c51fce41ff435d1c33a44fa2c94c0852febe9f0585ea39df191d97f91841e"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1221599",
+      "title": "STRESS HISTORY ESTABLISHES A TRANSIENT TOLERANT STATE THAT SHAPES ANTIBIOTIC SURVIVAL UPON RESUSCITATION",
+      "url": "https://europepmc.org/article/PPR/PPR1221599",
+      "published": "2026-03-03",
+      "retrieved_at": "2026-09-08T10:06:22.338652+00:00",
+      "metadata": {
+        "doi": "10.64898/2026.03.01.708845",
+        "epmc_id": "PPR1221599",
+        "epmc_source": "PPR",
+        "authors": "Abbott K, Hardo G, Li R, Bradley J, Zarkan A, Bakshi S.",
+        "cited_by": 0
+      },
+      "hash": "1521d7ac380b7f383047a204c43b854f20c5a4e5eee3d612fcd33527474b1aeb"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1211933",
+      "title": "Disrupting linearity of PROTAC scaffolds prevents off-target complex I inhibition",
+      "url": "https://europepmc.org/article/PPR/PPR1211933",
+      "published": "2026-02-14",
+      "retrieved_at": "2026-09-08T10:06:22.338813+00:00",
+      "metadata": {
+        "doi": "10.64898/2026.02.13.702718",
+        "epmc_id": "PPR1211933",
+        "epmc_source": "PPR",
+        "authors": "Richert N, N\u016fskov\u00e1 H, Samarin J, Ivanov BS, Saoud M, Deis F, de Vries N, Sievers S, Poschet G, Ziegler S, Hirst J, Gunkel N, Miller AK.",
+        "cited_by": 0
+      },
+      "hash": "270e8ff60419e3ecd4d5dee52ac8babeee1f056b56c1220bac9df573fdb8af81"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1129025",
+      "title": "Unraveling single-molecule reactions via multiplexed in-situ DNA sequencing",
+      "url": "https://europepmc.org/article/PPR/PPR1129025",
+      "published": "2025-12-02",
+      "retrieved_at": "2026-09-08T10:06:22.338951+00:00",
+      "metadata": {
+        "doi": "10.1101/2025.11.27.690701",
+        "epmc_id": "PPR1129025",
+        "epmc_source": "PPR",
+        "authors": "Hazra JP, Andrews R, Turner P, Zhao Q, Steuer H, El-Sagheer AH, Mazumder A, El Sayyed H, K\u00fcmmerlin M, Brown T, Kapanidis AN.",
+        "cited_by": 1
+      },
+      "hash": "9df8ee9ea959945e88ebf1f5ad7722a225192216c21fed391d496c8cc360a298"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1102921",
+      "title": "Cannabis consumption is associated with altered steroid metabolism in young men",
+      "url": "https://europepmc.org/article/PPR/PPR1102921",
+      "published": "2025-10-15",
+      "retrieved_at": "2026-09-08T10:06:22.339118+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-7582554/v1",
+        "epmc_id": "PPR1102921",
+        "epmc_source": "PPR",
+        "authors": "Rudaz S, Galmiche M, Meister I, Zufferey F, Rossier M, Rahban R, Nef S, Boccard J.",
+        "cited_by": 0
+      },
+      "hash": "1054af5371693792e32e760bbb29d592686f679f8415b15c8fb96ac31ce95c91"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1079344",
+      "title": "Spatiotemporal proteomics reveals dynamic antagonistic gradients shaping signalling waves",
+      "url": "https://europepmc.org/article/PPR/PPR1079344",
+      "published": "2025-09-06",
+      "retrieved_at": "2026-09-08T10:06:22.339356+00:00",
+      "metadata": {
+        "doi": "10.1101/2025.09.05.674076",
+        "epmc_id": "PPR1079344",
+        "epmc_source": "PPR",
+        "authors": "Meijer WHM, Andrade V, Stelloo S, Thomas WM, van Oostrom MJ, Ilcken EF, Peters KTJ, Vermeulen M, Sonnen KF.",
+        "cited_by": 1
+      },
+      "hash": "4508f9d39745f4048b68ea0e986e4733a29378005b535b83bec2f9a60d586dd3"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1075711",
+      "title": "New Geochemical Insights into the Genesis of the Kalasayi Tungsten Deposit, Western Tianshan Mountains: Multistage Mineralization within a Progressive Orogenic Evolution Model",
+      "url": "https://europepmc.org/article/PPR/PPR1075711",
+      "published": "2025-08-29",
+      "retrieved_at": "2026-09-08T10:06:22.339621+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-7438577/v1",
+        "epmc_id": "PPR1075711",
+        "epmc_source": "PPR",
+        "authors": "Yuan P, Gu X, Zhang Y, Yang L, Ba W.",
+        "cited_by": 0
+      },
+      "hash": "bf1de014759600c4da8c6fd37499fcae475e95f930d669836c74db0e44f115d1"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1072828",
+      "title": "High-resolution characterization of nasal microbial dynamics in young children",
+      "url": "https://europepmc.org/article/PPR/PPR1072828",
+      "published": "2025-08-26",
+      "retrieved_at": "2026-09-08T10:06:22.339800+00:00",
+      "metadata": {
+        "doi": "10.1101/2025.08.22.25334231",
+        "epmc_id": "PPR1072828",
+        "epmc_source": "PPR",
+        "authors": "Hoving D, Steenbergen RA, Singh Y, Safadi DE, German EL, de Campos IB, Fourie E, van Roermund M, de Kroon AC, van der Valk I, Bogaert D, Wessels E, de Vries JJ, Miellet WR, Trzci\u0144ski K, Ferreira DM, van Houten MA, Jochems SP.",
+        "cited_by": 0
+      },
+      "hash": "cb1d463e7b35964cd883799d625d789875e2e1107cd1845d4c6bde3f1264eee6"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1059437",
+      "title": "\u201cBreaking the Resistance Barrier\u201d: Superior Efficacy of Chlorfenapyr Bednets Against Highly Resistant Anopheles malaria vectors in Uganda",
+      "url": "https://europepmc.org/article/PPR/PPR1059437",
+      "published": "2025-08-01",
+      "retrieved_at": "2026-09-08T10:06:22.340181+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-7246642/v1",
+        "epmc_id": "PPR1059437",
+        "epmc_source": "PPR",
+        "authors": "Oruni A, Menze BD, Fotso-Toguem YG, Ngannang-Fezeu VB, Thiomela RF, Tchouakui M, Hearn J, Kayondo J, Wondji CS.",
+        "cited_by": 0
+      },
+      "hash": "02e7721d3c66a79e197f177f4a43a657bd47a918e2fa4bd9b9f5be6893a10889"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR1035254",
+      "title": "Xpert MTB/RIF<sup>\u00ae</sup>cycle threshold as a marker of TB disease severity; Implications for TB treatment stratification",
+      "url": "https://europepmc.org/article/PPR/PPR1035254",
+      "published": "2025-06-12",
+      "retrieved_at": "2026-09-08T10:06:22.340566+00:00",
+      "metadata": {
+        "doi": "10.1101/2025.06.12.25329126",
+        "epmc_id": "PPR1035254",
+        "epmc_source": "PPR",
+        "authors": "Grint DJ, Dhillon J, Butcher PD, Adams J, Munshi T, Witney AA, Gould K, Laing K, Cousins C, Wasserman S, Fielding K, Harrison T, Jindani A.",
+        "cited_by": 0
+      },
+      "hash": "d32a5d6e48f868798459de93620219853a10305ff8a0e756abb8fd4126c385bc"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR998998",
+      "title": "AquIRE reveals multiple mechanisms of clinically induced RNA damage and the conservation and dynamics of glycoRNAs",
+      "url": "https://europepmc.org/article/PPR/PPR998998",
+      "published": "2025-04-02",
+      "retrieved_at": "2026-09-08T10:06:22.340794+00:00",
+      "metadata": {
+        "doi": "10.1101/2025.04.01.646554",
+        "epmc_id": "PPR998998",
+        "epmc_source": "PPR",
+        "authors": "Zhang Z, Kotopanova ZV, Dang K, Kong X, Simms N, Yuen TW, S\u00f6nmez A, Beadle LF, Hilton E, Qureshi T, Coppola M, Holmes CD, Kan KT, Ashe M, Gallois P, Ashe H, Lafontaine DL, Braun M, Saunders M, Sutton P, Thornton D, Knight JRP.",
+        "cited_by": 0
+      },
+      "hash": "201bc0a5e9baaccc9957c64941f1c75174ceaa3f8fff267031be031cdc235721"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR972416",
+      "title": "Transmission dynamics of Escherichia coli sequence type 131 in households \u2013 a \u201cOne Health\u201d prospective cohort study",
+      "url": "https://europepmc.org/article/PPR/PPR972416",
+      "published": "2025-01-30",
+      "retrieved_at": "2026-09-08T10:06:22.341088+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-5861827/v1",
+        "epmc_id": "PPR972416",
+        "epmc_source": "PPR",
+        "authors": "Mo Y, Perez R, The HC, Vignesvaran K, Tan WC, Hui MCS, Tan EY, Peng SY, Zhou L, Singh S(, Yeung W, Seah I, Teo J, Aung KT, Tang CY, Ong R, Cooper B, Tambyah P.",
+        "cited_by": 0
+      },
+      "hash": "f88e5f99be2f375f350d7567bbf1b278146ccc4aa492b1c5c3c68086a8d1292f"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR958463",
+      "title": "Generalists in a Specialist World: Vibrio-Phages with Broad Host Range",
+      "url": "https://europepmc.org/article/PPR/PPR958463",
+      "published": "2024-12-24",
+      "retrieved_at": "2026-09-08T10:06:22.341300+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.12.24.630238",
+        "epmc_id": "PPR958463",
+        "epmc_source": "PPR",
+        "authors": "Bernard C, Labreuche Y, Diarra C, Daszkowski P, Cahier K, Gouden\u00e8ge D, Lamarche MG, Whitfield G, Lang M, Valencia J, Groseille J, Piel D, Brun YV, Rocha EP, Le Roux F.",
+        "cited_by": 1
+      },
+      "hash": "e00003d3f400d3e1a01ae45a9f08827c7ca4dee256667f2284b5ccd7924c9391"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR956098",
+      "title": "Men with long-term conditions in the Game of Stones text messaging and financial incentives trial: an exploratory mixed methods study",
+      "url": "https://europepmc.org/article/PPR/PPR956098",
+      "published": "2024-12-16",
+      "retrieved_at": "2026-09-08T10:06:22.341565+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.12.13.24318555",
+        "epmc_id": "PPR956098",
+        "epmc_source": "PPR",
+        "authors": "Macaulay L, O\u2019Dolan C, Swingler J, Torrens C, MacLean A, Turner K, Avenell A, Cotton S, Dombrowski SU, Gray CM, Hunt K, Kee F, McKinley MC, MacLennan G, Hoddinott P.",
+        "cited_by": 0
+      },
+      "hash": "e66af7898a23a2cc535344e5f407c256dbc74f61c00282516611268e69614df4"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR920156",
+      "title": "Application of a new highly multiplexed amplicon sequencing tool to evaluate<i>Plasmodium falciparum</i>antimalarial resistance and relatedness in individual and pooled samples from Dschang, Cameroon",
+      "url": "https://europepmc.org/article/PPR/PPR920156",
+      "published": "2024-10-04",
+      "retrieved_at": "2026-09-08T10:06:22.341971+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.10.03.24314715",
+        "epmc_id": "PPR920156",
+        "epmc_source": "PPR",
+        "authors": "Sadler JM, Simkin A, Tchuenkam VPK, Gerdes Gyuricza I, Fola AA, Wamae K, Assefa A, Niar\u00e9 K, Thwai K, White SJ, Moss WJ, Dinglasan RR, Nsango S, Tume CB, Parr JB, Ali IM, Bailey JA, Juliano JJ.",
+        "cited_by": 0
+      },
+      "hash": "07778465d4d1966fcb7786bcb95be295c2de657fa8e8c1db1450dfa0bd5f1e0f"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR910251",
+      "title": "Macrophage-derived RNAseT2 stimulates muscle stem cell fusion via SLK/N-WASP/actin bundling",
+      "url": "https://europepmc.org/article/PPR/PPR910251",
+      "published": "2024-09-13",
+      "retrieved_at": "2026-09-08T10:06:22.342128+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.09.11.612435",
+        "epmc_id": "PPR910251",
+        "epmc_source": "PPR",
+        "authors": "Weiss-Gayet M, Juban G, Le Moal E, Moretta A, Farnetari C, Gobet C, Guillemaud J, Le Bihan M, Shoseyov O, Adrait A, Ternka K, Boespflug-Tanguy O, Kettwig M, Coute Y, Mounier R, Acquati F, Knight R, Chazaud B.",
+        "cited_by": 0
+      },
+      "hash": "9e272ceb24e8b452fd1ee755b41b5c127fa6d50219903e6a659f3c5c12c0377b"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR892264",
+      "title": "A STAT3 Degrader Demonstrates Pre-clinical Efficacy in Venetoclax resistant Acute Myeloid Leukemia",
+      "url": "https://europepmc.org/article/PPR/PPR892264",
+      "published": "2024-08-07",
+      "retrieved_at": "2026-09-08T10:06:22.342335+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.08.05.599788",
+        "epmc_id": "PPR892264",
+        "epmc_source": "PPR",
+        "authors": "Chakraborty S, Morganti C, Pena BR, Zhang H, Verma D, Zaldana K, Gitego N, Ma F, Aluri S, Pradhan K, Gordon S, Mantzaris I, Goldfinger M, Feldman E, Gritsman K, Shi Y, Hubner S, Qiu YH, Brown BD, Skwarska A, Verma A, Konopleva M, Tabe Y, Gavathiotis E, Colla S, Gollob J, Dey J, Kornblau SM, Koralov SB, Ito K, Shastri A.",
+        "cited_by": 0
+      },
+      "hash": "7e45347cc902b73809ccfb3d2ce673e3d7cebe7cf3f119b55995ab434e3ddc6d"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR863022",
+      "title": "Screening for breast cancer with mammography",
+      "url": "https://europepmc.org/article/PPR/PPR863022",
+      "published": "2024-06-06",
+      "retrieved_at": "2026-09-08T10:06:22.342658+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.06.06.24308542",
+        "epmc_id": "PPR863022",
+        "epmc_source": "PPR",
+        "authors": "Gotzsche PC, Jorgensen KJ.",
+        "cited_by": 0
+      },
+      "hash": "ec81023f8939ac88012f010ef892047795e8042ee422a1ce5cdb6b666a09866c"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR824382",
+      "title": "Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: a systematic review and individual patient data meta-analysis",
+      "url": "https://europepmc.org/article/PPR/PPR824382",
+      "published": "2024-03-19",
+      "retrieved_at": "2026-09-08T10:06:22.342834+00:00",
+      "metadata": {
+        "doi": "10.21203/rs.3.rs-4103631/v1",
+        "epmc_id": "PPR824382",
+        "epmc_source": "PPR",
+        "authors": "Groves ES, Simpson JA, Edler P, Daher A, Pasaribu AP, Pereira DB, Saravu K, von Seidlein L, Rajasekhar M, Price RN, Commons RJ.",
+        "cited_by": 0
+      },
+      "hash": "704156c63b6d8e9b5601c361db2a9754c6ab6d1351a8580b0da45178cb0af22f"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR802861",
+      "title": "Social inequalities in pregnancy metabolic profile: findings from the multi-ethnic Born in Bradford cohort study",
+      "url": "https://europepmc.org/article/PPR/PPR802861",
+      "published": "2024-02-08",
+      "retrieved_at": "2026-09-08T10:06:22.343098+00:00",
+      "metadata": {
+        "doi": "10.1101/2024.02.08.24302335",
+        "epmc_id": "PPR802861",
+        "epmc_source": "PPR",
+        "authors": "Elhakeem A, Clayton GL, Soares AG, Taylor K, Maitre L, Santorelli G, Wright J, Lawlor DA, Vrijheid M.",
+        "cited_by": 0
+      },
+      "hash": "72e7609761c0db3186c50b3315c0306014a495e225143bd464616f4fa610d939"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR770591",
+      "title": "An epigenome-wide analysis of DNA methylation, racialized and economic inequities, and air pollution",
+      "url": "https://europepmc.org/article/PPR/PPR770591",
+      "published": "2023-12-08",
+      "retrieved_at": "2026-09-08T10:06:22.343463+00:00",
+      "metadata": {
+        "doi": "10.1101/2023.12.07.570610",
+        "epmc_id": "PPR770591",
+        "epmc_source": "PPR",
+        "authors": "Watkins SH, Testa C, Simpkin AJ, Smith GD, Coull B, De Vivo I, Tilling K, Waterman PD, Chen JT, Diez-Roux AV, Krieger N, Suderman M, Relton C.",
+        "cited_by": 0
+      },
+      "hash": "7530a6c85a8f8f61105f60d00cc4c1d4c31f69402b40803ca23d8d844d836c32"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR770080",
+      "title": "Impact of COVID-19 on mental illness in vaccinated and unvaccinated people: a population-based cohort study in OpenSAFELY",
+      "url": "https://europepmc.org/article/PPR/PPR770080",
+      "published": "2023-12-07",
+      "retrieved_at": "2026-09-08T10:06:22.343846+00:00",
+      "metadata": {
+        "doi": "10.1101/2023.12.06.23299602",
+        "epmc_id": "PPR770080",
+        "epmc_source": "PPR",
+        "authors": "Walker VM, Patalay P, Cuitun Coronado JI, Denholm R, Forbes H, Stafford J, Moltrecht B, Palmer T, Walker A, Thompson EJ, Taylor K, Cezard G, Horne EMF, Wei Y, Al Arab M, Knight R, Fisher L, Massey J, Davy S, Mehrkar A, Bacon S, Goldacre B, Wood A, Chaturvedi N, Macleod J, John A, Sterne JAC.",
+        "cited_by": 0
+      },
+      "hash": "8cf99e0627f8e129510017877d7ef257cea6afaaa58aad94d69e146d0bf22ae8"
+    },
+    {
+      "company": "KYMR",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR767399",
+      "title": "JUN mediates senescence and immune cell recruitment to prevent prostate cancer progression",
+      "url": "https://europepmc.org/article/PPR/PPR767399",
+      "published": "2023-11-30",
+      "retrieved_at": "2026-09-08T10:06:22.344206+00:00",
+      "metadata": {
+        "doi": "10.1101/2023.11.29.569178",
+        "epmc_id": "PPR767399",
+        "epmc_source": "PPR",
+        "authors": "Redmer T, Raigel M, Sternberg C, Ziegler R, Probst C, Lindner D, Aufinger A, Limberger T, Trachtova K, Kodajova P, H\u00f6gler S, Schlederer M, Stoiber S, Oberhuber M, Bolis M, Neubauer HA, Miranda S, Tomberger M, Harbusch NS, Garces de los Fayos Alonso I, Sternberg F, Moriggl R, Theurillat J, Tichy B, Bystry V, Persson JL, Mathas S, Aberger F, Strobl B, Pospisilova S, Merkel O, Egger G, Lagger S, Kenner L.",
+        "cited_by": 0
+      },
+      "hash": "cc089bc81e5d2aa92a6e901233c86e3cac32928f60986c53914b865ea684c086"
+    }
+  ],
+  "errors": []
+}

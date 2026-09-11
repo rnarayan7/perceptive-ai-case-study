@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR1211933",
+  "title": "Disrupting linearity of PROTAC scaffolds prevents off-target complex I inhibition",
+  "url": "https://europepmc.org/article/PPR/PPR1211933",
+  "published": "2026-02-14",
+  "retrieved_at": "2026-09-08T10:06:22.338813+00:00",
+  "metadata": {
+    "doi": "10.64898/2026.02.13.702718",
+    "epmc_id": "PPR1211933",
+    "epmc_source": "PPR",
+    "authors": "Richert N, N\u016fskov\u00e1 H, Samarin J, Ivanov BS, Saoud M, Deis F, de Vries N, Sievers S, Poschet G, Ziegler S, Hirst J, Gunkel N, Miller AK.",
+    "cited_by": 0
+  },
+  "hash": "270e8ff60419e3ecd4d5dee52ac8babeee1f056b56c1220bac9df573fdb8af81"
+}

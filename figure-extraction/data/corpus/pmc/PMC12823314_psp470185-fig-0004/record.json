@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12823314_psp470185-fig-0004",
+  "figure_type": "pk_logscale",
+  "title": "Albumin Levels Are Predictive of Cachexia-Induced Time-Dependent Clearance of Therapeutic Antibodies: A Physiologically Based Pharmacokinetic Model of Durvalumab.",
+  "caption": "Concentration‐time profile of 10 mg/kg every 2 weeks for 40 weeks of the time‐varying PBPK model versus the previously published popPK model of durvalumab [ 19 ].",
+  "context": "Concentration‐time profile of 10 mg/kg every 2 weeks for 40 weeks of the time‐varying PBPK model versus the previously published popPK model of durvalumab [ 19 ]. Evaluation of Time‐Dependent Clearance Prediction Figure 4 shows the concentration‐time profile predicted by the PBPK model compared to the simulated profile of the durvalumab popPK model with intravenous administration of 10 mg/kg every 2 weeks for 40 weeks.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823314/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:04.422243+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12823314",
+    "pmid": "41543435",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 4"
+  },
+  "image_hash": "b8ff85ef573acdbf1d149646b4c49aa282c767da4a86cc7a1cf6ee488c673411",
+  "image_file": "image.jpg"
+}

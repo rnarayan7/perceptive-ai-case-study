@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "36075249",
+  "title": "ABX464 (obefazimod) for moderate-to-severe, active ulcerative colitis: a phase 2b, double-blind, randomised, placebo-controlled induction trial and 48 week, open-label extension.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36075249/",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.551046+00:00",
+  "metadata": {
+    "journal": "The lancet. Gastroenterology & hepatology",
+    "year": "2022",
+    "pmid": "36075249"
+  },
+  "hash": "a890649ecc0a6d55704e1c7102d91a2a5a79ef2fd2b569136cf0c17efd80d3d7"
+}

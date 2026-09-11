@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10011815",
+  "title": "FAERS report 10011815: Parkinson^s disease, Convulsion",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10011815",
+  "published": "2014-04-21",
+  "retrieved_at": "2026-09-08T08:40:36.205773+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Parkinson^s disease",
+      "Convulsion"
+    ],
+    "drugs": [
+      "VIMPAT",
+      "CARBAMAZIPINE",
+      "CARBA DOPA LEVA DOPA"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "0853fc580ab73372e2cd1a28f421c3b0a39fff29846d9790f1eef7ef455d0140"
+}

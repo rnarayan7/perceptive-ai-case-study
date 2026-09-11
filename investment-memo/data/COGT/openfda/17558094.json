@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17558094",
+  "title": "FAERS report 17558094: Drooling, Diarrhoea, Arteriosclerosis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17558094",
+  "published": "2020-10-16",
+  "retrieved_at": "2026-09-08T08:40:57.628532+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Drooling",
+      "Diarrhoea",
+      "Arteriosclerosis",
+      "Dysarthria",
+      "Rash",
+      "Chest pain",
+      "Constipation"
+    ],
+    "drugs": [
+      "AYVAKIT",
+      "AYVAKIT",
+      "AYVAKIT",
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "b4d7da60290073ac25a0d6c023f7fe77c31b28e6d89aee5f8b723853252d3ef0"
+}

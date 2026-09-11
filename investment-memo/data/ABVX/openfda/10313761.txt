@@ -1,0 +1,4 @@
+FAERS adverse-event report 10313761 (comparator: vedolizumab)
+Serious: yes
+Reactions: Urinary tract infection, Candida infection, Mouth ulceration
+Reported drugs: ENTYVIO, PREDNISONE.

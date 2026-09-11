@@ -1,0 +1,49 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03266692",
+  "title": "Study of ACTR087 in Combination With SEA-BCMA in Subjects With Relapsed or Refractory Multiple Myeloma",
+  "url": "https://clinicaltrials.gov/study/NCT03266692",
+  "published": "2017-08-30",
+  "retrieved_at": "2026-09-07T12:53:51.524413+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Multiple Myeloma",
+      "Multiple Myeloma in Relapse",
+      "Refractory Multiple Myeloma"
+    ],
+    "interventions": [
+      {
+        "name": "ACTR087",
+        "type": "BIOLOGICAL"
+      },
+      {
+        "name": "SEA-BCMA",
+        "type": "BIOLOGICAL"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 15,
+    "start_date": "2018-02-22",
+    "primary_completion_date": "2019-10-01",
+    "completion_date": "2019-10-01",
+    "first_posted_date": "2017-08-30",
+    "primary_outcomes": [
+      {
+        "measure": "Safety and tolerability of ACTR087 in combination with SEA-BCMA",
+        "timeFrame": "28 days"
+      },
+      {
+        "measure": "Determination of recommended Phase 2 dosing regimen",
+        "timeFrame": "52 weeks"
+      }
+    ]
+  },
+  "hash": "c3f9ceb138f6b08f2430db52e172dcab8699cb0263748ff8fea5fd21a44acd14"
+}

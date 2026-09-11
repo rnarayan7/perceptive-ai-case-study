@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha1934-point-prevalence-europe-ae49fd5d",
+  "title": "Early infantile developmental and epileptic encephalopathy - Point prevalence (Europe) [ORPHA:1934]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:06.783197+00:00",
+  "metadata": {
+    "orphacode": 1934,
+    "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+    "disorder_group": "Disorder",
+    "typology": "Clinical syndrome",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "Unknown",
+    "prevalence_qualification": "Class only",
+    "value_average": "0.0",
+    "geographic_area": "Europe",
+    "validation_status": "Not yet validated",
+    "source": "ORPHANET",
+    "source_pmids": [],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "ae49fd5d9654534d4c8a570d42f8f8b4380c6ca1a7b48b948af7b361d36c74fd"
+}

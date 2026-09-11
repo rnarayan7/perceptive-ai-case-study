@@ -1,0 +1,565 @@
+Item 15. Exhibit and Financial Statement Schedules
+
+(a) Documents filed as part of this report
+
+(1) All financial statements
+
+Information in response to this Item is included in Part II, Item 8 of this Annual Report.
+
+(2) Financial Statement Schedules
+
+All financial schedules have been omitted because the required information is either presented in the consolidated financial statements filed as part of this Annual Report or the notes thereto or is not applicable or required.
+
+(3) Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+Schedule/
+
+Form
+
+Incorporated by Reference
+
+File No.
+
+Exhibit
+
+Filing Date
+
+3.1
+
+Amended and Restated Certificate of Incorporation of Immunovant, Inc.
+
+8-K
+
+001-38906
+
+3.1
+
+December 20, 2019
+
+3.2
+
+Amended and Restated Bylaws of Immunovant, Inc.
+
+8-K
+
+001-38906
+
+3.2
+
+December 20, 2019
+
+4.1
+
+Description of Securities.
+
+10-K
+
+001-38906
+
+4.3
+
+June 29, 2020
+
+10.1
+
+UK Sub-Plan to the Immunovant, Inc. 2019 Equity Incentive Plan
+
+10-Q
+
+001-38906
+
+10.1
+
+February 3, 2023
+
+10.2
+
+Form of Stock Option Grant Notice and Agreement for the UK Sub-Plan
+
+10-Q
+
+001-38906
+
+10.2
+
+February 3, 2023
+
+10.3
+
+Form of Restricted Stock Unit Grant Notice and Agreement for the UK Sub-Plan
+
+10-Q
+
+001-38906
+
+10.3
+
+February 3, 2023
+
+10.4
+
+Immunovant, Inc. 2023 Inducement Plan
+
+10-Q
+
+001-38906
+
+10.4
+
+February 3, 2023
+
+10.5
+
+Form of Stock Option Grant Notice and Option Agreement for the Immunovant, Inc. 2023 Inducement Plan
+
+10-Q
+
+001-38906
+
+10.5
+
+February 3, 2023
+
+10.6
+
+Form of Restricted Stock Unit Grant Notice and Award Agreement for the Immunovant, Inc. 2023 Inducement Plan
+
+10-Q
+
+001-38906
+
+10.6
+
+February 3, 2023
+
+10.7
+
+Amended and Restated Registration Rights Agreement, dated September 29, 2019, by and among Health Sciences Acquisitions Corporation and the Investors party thereto.
+
+8-K
+
+001-38906
+
+10.1
+
+December 20, 2019
+
+10.8
+
+Restricted Stock Agreement, dated September 29, 2019, by and between Health Sciences Acquisitions Corporation and Health Sciences Holdings, LLC.
+
+8-K
+
+001-38906
+
+10.2
+
+December 20, 2019
+
+10.9†
+
+2019 Equity Incentive Plan of Immunovant, Inc.
+
+10-K
+
+001-38906
+
+10.3
+
+June 29, 2020
+
+10.10.1†
+
+Forms of Option Grant Notices and Option Agreements under 2019 Equity Incentive Plan of Immunovant, Inc.
+
+10-K
+
+001-38906
+
+10.3.1
+
+June 29, 2020
+
+10.10.2†
+
+Forms of Restricted Stock Unit Grant Notices and Award Agreements under 2019 Equity Incentive Plan of Immunovant, Inc.
+
+10-K
+
+001-38906
+
+10.3.2
+
+June 29, 2020
+
+10.11†
+
+2018 Equity Incentive Plan of Immunovant Sciences Ltd., and forms of award agreements thereunder.
+
+8-K
+
+001-38906
+
+10.4
+
+December 20, 2019
+
+10.12†
+
+Roivant Sciences Ltd. Amended and Restated 2015 Equity Incentive Plan.
+
+S-4
+
+333-256165
+
+10.25
+
+May 14, 2021
+
+10.13†
+
+Form of Indemnification Agreement.
+
+8-K
+
+001-38906
+
+10.5
+
+December 20, 2019
+
+146
+
+Table of Contents
+
+Exhibit
+
+Number
+
+Description
+
+Schedule/
+
+Form
+
+Incorporated by Reference
+
+File No.
+
+Exhibit
+
+Filing Date
+
+10.14††
+
+License Agreement, dated December 19, 2017, by and between Roivant Sciences GmbH and HanAll BioPharma Co., Ltd.
+
+8-K
+
+001-38906
+
+10.6
+
+December 20, 2019
+
+10.15
+
+Assignment and Assumption Agreement, dated as of December 7, 2018, by and between Immunovant Sciences GmbH and Roivant Sciences GmbH, relating to the License Agreement by and between Roivant Sciences GmbH and HanAll BioPharma Co., Ltd.
+
+8-K
+
+001-38906
+
+10.7
+
+December 20, 2019
+
+10.16
+
+Services Agreement, effective as of August 20, 2018, by and between Roivant Sciences, Inc., Immunovant Sciences GmbH, IMVT Corporation (formerly Immunovant, Inc.) and Immunovant Sciences Ltd.
+
+8-K
+
+001-38906
+
+10.8
+
+December 20, 2019
+
+10.17
+
+Services Agreement, effective as of August 20, 2018, by and between Roivant Sciences GmbH and Immunovant Sciences GmbH.
+
+8-K
+
+001-38906
+
+10.9
+
+December 20, 2019
+
+10.18
+
+Amended and Restated Information Sharing and Cooperation Agreement, effective as of December 28, 2018, by and between Immunovant Sciences Ltd. and Roivant Sciences Ltd.
+
+8-K
+
+001-38906
+
+10.10
+
+December 20, 2019
+
+10.19†
+
+Employment Agreement with Eric Venker, dated as of April 21, 2025.
+
+10-Q
+
+001-38906
+
+10.4
+
+August 11, 2025
+
+10.20†
+
+Employment Agreement with Tiago Girao, dated as of April 21, 2025.
+
+10-K
+
+001-38906
+
+10.19
+
+May 29, 2025
+
+10.21†
+
+Employment Agreement with Jay Stout, dated as of April 11, 2023.
+
+10-K
+
+001-38906
+
+10.24
+
+May 22, 2023
+
+10.22†
+
+Employment Agreement with Michael Geffner, dated as of January 9, 2024.
+
+10-Q
+
+001-38906
+
+10.1
+
+February 12, 2024
+
+10.23†
+
+Separation Agreement and General Release with Michael Geffner, dated as of November 20, 2025.
+
+10-Q
+
+001-38906
+
+10.1
+
+February 6, 2026
+
+10.24†
+
+Employment Agreement with Melanie Gloria, dated as of November 5, 2024.
+
+10-Q
+
+001-38906
+
+10.1
+
+November 7, 2024
+
+10.25†
+
+Employment Agreement with Christopher Van Tuyl, dated as of November 27, 2024.
+
+10-Q
+
+001-38906
+
+10.1
+
+February 6, 2025
+
+10.26†
+
+Employment Agreement with Peter Salzmann, dated as of May 30, 2019.
+
+8-K
+
+001-38906
+
+10.11
+
+December 20, 2019
+
+10.27†
+
+Separation Agreement and General Release with Peter Salzmann, dated as of April 20, 2025.
+
+10-K
+
+001-38906
+
+10.25
+
+May 29, 2025
+
+10.28†
+
+Separation Agreement and General Release with Renee Barnett, dated as of May 9, 2025.
+
+10-Q
+
+001-38906
+
+10.2
+
+August 11, 2025
+
+10.29
+
+Sales Agreement, by and between Immunovant, Inc. and Leerink Partners LLC, dated November 9, 2023.
+
+S-3ASR
+
+333-275419
+
+1.2
+
+November 9, 2023
+
+10.30
+
+Registration Rights Agreement, by and between the Company and certain of the Purchasers, dated January 13, 2025.
+
+8-K
+
+001-38906
+
+10.2
+
+January 13, 2025
+
+19.1
+
+Immunovant, Inc. Insider Trading Policy
+
+21.1
+
+List of Subsidiaries.
+
+10-K
+
+001-38906
+
+21.1
+
+June 8, 2022
+
+23.1
+
+Consent of Ernst & Young LLP, independent registered public accounting firm.
+
+24.1
+
+Power of Attorney (included on signature page to this Annual Report)
+
+147
+
+Table of Contents
+
+Exhibit
+
+Number
+
+Description
+
+Schedule/
+
+Form
+
+Incorporated by Reference
+
+File No.
+
+Exhibit
+
+Filing Date
+
+31.1
+
+Certification of Chief Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+31.2
+
+Certification of Chief Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+32.1#
+
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32.2#
+
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+97.1
+
+Immunovant Inc. Incentive Compensation Recoupment Policy
+
+10-K
+
+001-38906
+
+97.1
+
+May 29, 2024
+
+101.INS
+
+Inline XBRL Instance Document
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents
+
+104
+
+Cover Page Interactive Data (embedded within the Inline XBRL document)
+
+___________
+
++
+
+The annexes, schedules and certain exhibits to the Share Exchange Agreement have been omitted pursuant to Item 601 of Regulation S-K.
+
+†
+
+Indicates a management contract or compensatory plan, contract or arrangement.
+
+††
+
+Certain portions of this exhibit (indicated by asterisks) have been omitted because they are not material and are the type that Immunovant, Inc. treats as private or confidential.
+
+#
+
+In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule: Management’s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Annual Report and will not be deemed “filed” for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.

@@ -1,0 +1,33 @@
+{
+  "company": "KYMR",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "research_and_development_expense",
+  "title": "KYMERA THERAPEUTICS, INC. - Research and development expense (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/0001193125-26-333849-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:34.394088+00:00",
+  "metadata": {
+    "cik": 1815442,
+    "entity_name": "KYMERA THERAPEUTICS, INC.",
+    "concept": "research_and_development_expense",
+    "label": "Research and development expense",
+    "taxonomy": "us-gaap",
+    "tag": "ResearchAndDevelopmentExpense",
+    "value": 217644000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": "2026-01-01",
+    "period_type": "duration",
+    "accession": "0001193125-26-333849",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-05",
+    "frame": null,
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001815442.json",
+    "derived": false
+  },
+  "hash": "645aa6ec9223cf06d85872c24afef1001b9e47fa94fc548cb42e63b58e0fabb0"
+}

@@ -1,0 +1,907 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "started_at": "2026-09-08T10:07:08.053212+00:00",
+  "finished_at": "2026-09-08T10:07:08.923575+00:00",
+  "documents": [
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06754462",
+      "title": "A Study to Evaluate the Efficacy, Safety, and Tolerability of IMVT-1402 in Adult Participants With Active, Difficult to Treat Rheumatoid Arthritis",
+      "url": "https://clinicaltrials.gov/study/NCT06754462",
+      "published": "2024-12-31",
+      "retrieved_at": "2026-09-08T10:07:08.899995+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Rheumatoid Arthritis"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 120,
+        "start_date": "2025-01-10",
+        "primary_completion_date": "2027-09",
+        "completion_date": "2027-09",
+        "first_posted_date": "2024-12-31",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of participants who maintain ACR20 response at Week 28",
+            "timeFrame": "Week 28"
+          }
+        ]
+      },
+      "hash": "436e6471aac3aedc340910c165a54373381a2f70c92ed1d695feb4142973c8ef"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05517421",
+      "title": "Study to Assess Batoclimab in Participants With Active Thyroid Eye Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05517421",
+      "published": "2022-08-26",
+      "retrieved_at": "2026-09-08T10:07:08.900541+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Thyroid Eye Disease"
+        ],
+        "interventions": [
+          {
+            "name": "Batoclimab",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 114,
+        "start_date": "2022-11-23",
+        "primary_completion_date": "2025-11-02",
+        "completion_date": "2025-11-18",
+        "first_posted_date": "2022-08-26",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of proptosis responders",
+            "timeFrame": "At Week 24"
+          }
+        ]
+      },
+      "hash": "005ec52eb5c53183954ac904869cb394fe855d92b1de5a7894936a131ae2d481"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04253236",
+      "title": "To Assess the Efficacy and Safety of RVT-1401 in the Treatment of Warm Autoimmune Hemolytic Anemia (ASCEND-WAIHA).",
+      "url": "https://clinicaltrials.gov/study/NCT04253236",
+      "published": "2020-02-05",
+      "retrieved_at": "2026-09-08T10:07:08.901358+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Warm Autoimmune Hemolytic Anemia"
+        ],
+        "interventions": [
+          {
+            "name": "RVT-1401 680 mg/weekly",
+            "type": "DRUG"
+          },
+          {
+            "name": "RVT-1401 340 mg/weekly",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 5,
+        "start_date": "2020-08-11",
+        "primary_completion_date": "2021-04-01",
+        "completion_date": "2021-04-01",
+        "first_posted_date": "2020-02-05",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Responders at Week 13",
+            "timeFrame": "Week 13"
+          },
+          {
+            "measure": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death",
+            "timeFrame": "Up to Week 20"
+          }
+        ]
+      },
+      "hash": "292e36de7339269ae482ed8f47864bdef98b7dcec6477d28e0772b34db58eeee"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05403541",
+      "title": "Phase 3 Study to Assess the Efficacy and Safety of Batoclimab as Induction and Maintenance Therapy in Adult Participants With Generalized Myasthenia Gravis",
+      "url": "https://clinicaltrials.gov/study/NCT05403541",
+      "published": "2022-06-03",
+      "retrieved_at": "2026-09-08T10:07:08.901854+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Generalized Myasthenia Gravis"
+        ],
+        "interventions": [
+          {
+            "name": "Batoclimab 680 mg SC weekly",
+            "type": "DRUG"
+          },
+          {
+            "name": "Batoclimab 340 mg SC weekly",
+            "type": "DRUG"
+          },
+          {
+            "name": "Matching Placebo SC",
+            "type": "DRUG"
+          },
+          {
+            "name": "Batoclimab 340 mg SC bi-weekly",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 240,
+        "start_date": "2022-06-27",
+        "primary_completion_date": "2025-01-10",
+        "completion_date": "2027-02",
+        "first_posted_date": "2022-06-03",
+        "primary_outcomes": [
+          {
+            "measure": "Change from Baseline in Myasthenia Gravis Activities of Daily Living (MG-ADL) score in acetylcholine receptor (AChR) Ab seropositive (AChRAb+) participants",
+            "timeFrame": "Baseline (Day 1) to Week 12"
+          }
+        ]
+      },
+      "hash": "fc016e1f8aede069be59b84edd488a58c8107e8514b1b67fd15e999076b57abb"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06727604",
+      "title": "A Study to Assess the Efficacy, Safety, and Tolerability of IMVT-1402 as Treatment for Adult Participants With Graves' Disease",
+      "url": "https://clinicaltrials.gov/study/NCT06727604",
+      "published": "2024-12-11",
+      "retrieved_at": "2026-09-08T10:07:08.902488+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves' Disease"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 240,
+        "start_date": "2024-12-17",
+        "primary_completion_date": "2028-06",
+        "completion_date": "2028-06",
+        "first_posted_date": "2024-12-11",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of participants who are euthyroid (local laboratory T3 [Total T3 or FT3], FT4, and TSH values within normal limits) and off ATD at Week 26",
+            "timeFrame": "Week 26"
+          }
+        ]
+      },
+      "hash": "0bbad19753ab2a12e298b3b3b5f8c82eebd43dbff8122f855f52aca6fab025ac"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06980805",
+      "title": "A Study to Assess the Safety, Tolerability, and Efficacy of IMVT-1402 in Participants With Cutaneous Lupus Erythematosus (CLE)",
+      "url": "https://clinicaltrials.gov/study/NCT06980805",
+      "published": "2025-05-20",
+      "retrieved_at": "2026-09-08T10:07:08.902904+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Subacute Cutaneous Lupus Erythematosus",
+          "Chronic Cutaneous Lupus Erythematosus"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 56,
+        "start_date": "2025-02-19",
+        "primary_completion_date": "2026-10",
+        "completion_date": "2027-04",
+        "first_posted_date": "2025-05-20",
+        "primary_outcomes": [
+          {
+            "measure": "Percent change from Period 1 Baseline in Cutaneous Lupus Erythematosus Disease area and Severity Index activity (CLASI-A) score at Week 12",
+            "timeFrame": "Baseline (Day 1) and Week 12"
+          }
+        ]
+      },
+      "hash": "5e0410e69994ba2be1cebd5a5e67d2f9942639d7d025c259761df3b95c772bb5"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05524571",
+      "title": "Study to Assess Batoclimab in Participants With Active Thyroid Eye Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05524571",
+      "published": "2022-09-01",
+      "retrieved_at": "2026-09-08T10:07:08.903197+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Thyroid Eye Disease"
+        ],
+        "interventions": [
+          {
+            "name": "Batoclimab",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 86,
+        "start_date": "2023-01-05",
+        "primary_completion_date": "2026-02-03",
+        "completion_date": "2026-03-03",
+        "first_posted_date": "2022-09-01",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of proptosis responders",
+            "timeFrame": "At Week 24"
+          }
+        ]
+      },
+      "hash": "098680dbc00a9640ae132639b7ddd26a135d03036c64f9abe6306210079b2179"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07188844",
+      "title": "An Open-Label Extension Study of Batoclimab in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+      "url": "https://clinicaltrials.gov/study/NCT07188844",
+      "published": "2025-09-23",
+      "retrieved_at": "2026-09-08T10:07:08.903418+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Chronic Inflammatory Demyelinating Polyneuropathy"
+        ],
+        "interventions": [
+          {
+            "name": "Batoclimab",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 26,
+        "start_date": "2025-08-28",
+        "primary_completion_date": "2026-07-16",
+        "completion_date": "2026-07-16",
+        "first_posted_date": "2025-09-23",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of Participants with Treatment-Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and TEAEs Leading to Treatment Discontinuation",
+            "timeFrame": "Up to 52 weeks"
+          }
+        ]
+      },
+      "hash": "141271dc5fba9a6d66a8d98dc8d5a2989c25ef71d0b6d033a16328d764e68d2f"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03863080",
+      "title": "A Study of RVT-1401 in Myasthenia Gravis (MG) Patients",
+      "url": "https://clinicaltrials.gov/study/NCT03863080",
+      "published": "2019-03-05",
+      "retrieved_at": "2026-09-08T10:07:08.904989+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Myasthenia Gravis"
+        ],
+        "interventions": [
+          {
+            "name": "RVT-1401",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 17,
+        "start_date": "2019-05-21",
+        "primary_completion_date": "2020-10-07",
+        "completion_date": "2020-12-21",
+        "first_posted_date": "2019-03-05",
+        "primary_outcomes": [
+          {
+            "measure": "Double-Blind Treatment Period: Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+            "timeFrame": "Up to Week 18"
+          },
+          {
+            "measure": "Open-Label Extension Period: Number of Participants Reporting AEs and SAEs",
+            "timeFrame": "Up to Week 18"
+          },
+          {
+            "measure": "Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Vital Signs",
+            "timeFrame": "Up to Week 7"
+          },
+          {
+            "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in Vital Signs",
+            "timeFrame": "Up to Week 18"
+          },
+          {
+            "measure": "Double-blind Treatment Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters",
+            "timeFrame": "Up to Week 7"
+          },
+          {
+            "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters",
+            "timeFrame": "Up to Week 18"
+          },
+          {
+            "measure": "Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Electrocardiogram (ECG)",
+            "timeFrame": "Up to Week 7"
+          },
+          {
+            "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in ECG",
+            "timeFrame": "Up to Week 18"
+          },
+          {
+            "measure": "Double-blind Treatment Period: Percent Change From Baseline in Levels of Total Immunoglobulin G (IgG)",
+            "timeFrame": "Baseline (Day 1) and Up to Week 7"
+          },
+          {
+            "measure": "Double-blind Treatment Period: Percent Change From Baseline in IgG Subclasses 1, 2, 3 and 4",
+            "timeFrame": "Baseline (Day 1) and Up to Week 7"
+          },
+          {
+            "measure": "Double-Blind Treatment Period: Percent Change From Baseline in Anti-acetylcholine Receptor Immunoglobulin G (Anti-AChR-IgG) at Week 7",
+            "timeFrame": "Baseline (Day 1) and Week 7"
+          }
+        ]
+      },
+      "hash": "6a2ff2f11913573504b5cccf6e5ed3c5f771d8a560c5d9de60a04392596dee06"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03938545",
+      "title": "ASCEND GO-2: Study of RVT-1401 for the Treatment of Participants With Active, Moderate to Severe Graves' Ophthalmopathy ( GO )",
+      "url": "https://clinicaltrials.gov/study/NCT03938545",
+      "published": "2019-05-06",
+      "retrieved_at": "2026-09-08T10:07:08.906294+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves' Ophthalmopathy (GO)"
+        ],
+        "interventions": [
+          {
+            "name": "RVT-1401 (Administered via subcutaneous injection)",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo (Administered via subcutaneous injection)",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 65,
+        "start_date": "2019-07-23",
+        "primary_completion_date": "2021-02-02",
+        "completion_date": "2021-04-15",
+        "first_posted_date": "2019-05-06",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of Participants With Proptosis Response at Week 13",
+            "timeFrame": "Baseline; Week 13"
+          },
+          {
+            "measure": "Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (SAEs)",
+            "timeFrame": "From Baseline up to Week 20"
+          }
+        ]
+      },
+      "hash": "c03b5cb2b79c6c914f0712589cc9ed4f5b761520ff8cde86f6ad3bfd8e9137b6"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06979531",
+      "title": "Efficacy and Safety of IMVT-1402 in Adult Participants With Primary Sjogren's Disease With Moderate to Severe Systemic Disease Activity",
+      "url": "https://clinicaltrials.gov/study/NCT06979531",
+      "published": "2025-05-20",
+      "retrieved_at": "2026-09-08T10:07:08.906825+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Primary Sj\u00f6gren's Syndrome"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 180,
+        "start_date": "2025-06-30",
+        "primary_completion_date": "2028-07",
+        "completion_date": "2029-07",
+        "first_posted_date": "2025-05-20",
+        "primary_outcomes": [
+          {
+            "measure": "Change from Baseline in clinESSDAI Score at Week 24 for IMVT-1402 Dose 1 compared to Placebo",
+            "timeFrame": "Baseline and at Week 24"
+          }
+        ]
+      },
+      "hash": "bf256c77714be86969054b662a3775fdb9eb82a08988d04e19d3b7233d03f800"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07032662",
+      "title": "Imeroprubart in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+      "url": "https://clinicaltrials.gov/study/NCT07032662",
+      "published": "2025-06-24",
+      "retrieved_at": "2026-09-08T10:07:08.907344+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Chronic Inflammatory Demyelinating Polyneuropathy"
+        ],
+        "interventions": [
+          {
+            "name": "Imeroprubart",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 162,
+        "start_date": "2025-03-18",
+        "primary_completion_date": "2028-08",
+        "completion_date": "2030-05",
+        "first_posted_date": "2025-06-24",
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of participants remaining Relapse-free by Week 24",
+            "timeFrame": "Baseline, Week 24"
+          }
+        ]
+      },
+      "hash": "7f69ca911ecb1b9b82b638fed3c5765d6a9efdaed9bb4878da12b020d898d5e4"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05517447",
+      "title": "Extension Study to Assess Batoclimab in Participants With Thyroid Eye Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05517447",
+      "published": "2022-08-26",
+      "retrieved_at": "2026-09-08T10:07:08.907668+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Thyroid Eye Disease"
+        ],
+        "interventions": [
+          {
+            "name": "Observational cohort study",
+            "type": "OTHER"
+          },
+          {
+            "name": "Batoclimab",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 109,
+        "start_date": "2022-11-06",
+        "primary_completion_date": "2026-04-02",
+        "completion_date": "2026-04-02",
+        "first_posted_date": "2022-08-26",
+        "primary_outcomes": [
+          {
+            "measure": "Duration of proptosis response off treatment in study eye in batoclimab responder participants in the feeder studies",
+            "timeFrame": "Up to Week 24"
+          }
+        ]
+      },
+      "hash": "458bf1fef6d51aff0faa9e8dff778353d6e6b4f46816b2cf833a1377fe0868c0"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05907668",
+      "title": "A Proof-of-Concept Study to Assess Batoclimab in Participants With Graves' Disease",
+      "url": "https://clinicaltrials.gov/study/NCT05907668",
+      "published": "2023-06-18",
+      "retrieved_at": "2026-09-08T10:07:08.908643+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves Disease"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1401 (batoclimab)",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 32,
+        "start_date": "2023-05-15",
+        "primary_completion_date": "2025-07-25",
+        "completion_date": "2025-07-25",
+        "first_posted_date": "2023-06-18",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of Participants Who Achieved Normalization of Free Triiodothyronine (FT3) and Free Thyroxine (FT4), or Have FT3 and/or FT4 Below the Lower Limit of Normal (LLN) at Week 24 Without Increase in ATD Dose Compared to Baseline",
+            "timeFrame": "At Week 24"
+          }
+        ]
+      },
+      "hash": "a28012efe67dd80128ac0f58c639a2ea81b5e503ec87825a32741772588f4d41"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07018323",
+      "title": "A Study to Assess the Efficacy, Safety, and Tolerability of IMVT-1402 as Treatment for Adult Participants With Graves' Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07018323",
+      "published": "2025-06-12",
+      "retrieved_at": "2026-09-08T10:07:08.909370+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves' Disease"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 210,
+        "start_date": "2025-06-19",
+        "primary_completion_date": "2027-05",
+        "completion_date": "2027-05",
+        "first_posted_date": "2025-06-12",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of participants who are euthyroid and off ATD at Week 26 (Dose 1)",
+            "timeFrame": "Week 26"
+          }
+        ]
+      },
+      "hash": "8c3dcae9711d72a78026affd5f64dab86b0dfa7b3bd04729a0ff07d13a58cf43"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT03922321",
+      "title": "Study of RVT-1401 for the Treatment of Patients With Moderate to Severe Active Graves' Ophthalmopathy (GO)",
+      "url": "https://clinicaltrials.gov/study/NCT03922321",
+      "published": "2019-04-19",
+      "retrieved_at": "2026-09-08T10:07:08.909961+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves' Ophthalmopathy"
+        ],
+        "interventions": [
+          {
+            "name": "RVT-1401",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 7,
+        "start_date": "2019-04-22",
+        "primary_completion_date": "2020-02-29",
+        "completion_date": "2020-05-21",
+        "first_posted_date": "2019-04-19",
+        "primary_outcomes": [
+          {
+            "measure": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death During the 6-week Treatment Period",
+            "timeFrame": "from Baseline up to Week 6"
+          },
+          {
+            "measure": "Number of Participants With Clinically Significant Findings Related to Vital Signs",
+            "timeFrame": "up to Week 18"
+          },
+          {
+            "measure": "Number of Participants With a Change From Normal Physical Examination Findings at Baseline to Abnormal Physical Examination Findings at the End of the Study",
+            "timeFrame": "up to Week 18"
+          },
+          {
+            "measure": "Number of Participants With Clinically Significant Findings Related to Electrocardiograms (ECGs)",
+            "timeFrame": "up to Week 18"
+          },
+          {
+            "measure": "Percent Change From Baseline in Total Immunoglobulin G (IgG), IgG1, IgG2, IgG3, and IgG4 Levels",
+            "timeFrame": "Baseline; Week 7; Week 6 and 7 combined"
+          },
+          {
+            "measure": "Mean Change From Baseline in Levels of Anti-thyroid-stimulating Hormone Receptor (Anti-TSHR) Antibodies at Week 7",
+            "timeFrame": "Baseline; Week 7"
+          }
+        ]
+      },
+      "hash": "fae39baf5f84a50c2fef38ccbdec90b70f1321e0c467c917cde53d584d99107c"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07039916",
+      "title": "Study to Assess the Efficacy and Safety of IMVT-1402 in Participants With Mild to Severe Generalized Myasthenia Gravis",
+      "url": "https://clinicaltrials.gov/study/NCT07039916",
+      "published": "2025-06-26",
+      "retrieved_at": "2026-09-08T10:07:08.910358+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE3"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Generalized Myasthenia Gravis"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 231,
+        "start_date": "2025-05-27",
+        "primary_completion_date": "2027-12",
+        "completion_date": "2028-12",
+        "first_posted_date": "2025-06-26",
+        "primary_outcomes": [
+          {
+            "measure": "Change from Baseline in MG-ADL Score for Antibody-positive Participants",
+            "timeFrame": "Baseline to Week 12"
+          }
+        ]
+      },
+      "hash": "92c22927d1e33976530b8ddd528be6d4ff0ad7f0a8be83eae6b48278ae8402c4"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05581199",
+      "title": "To Assess Efficacy and Safety of Batoclimab in Adult Participants With Active CIDP",
+      "url": "https://clinicaltrials.gov/study/NCT05581199",
+      "published": "2022-10-14",
+      "retrieved_at": "2026-09-08T10:07:08.910849+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Chronic Inflammatory Demyelinating Polyneuropathy"
+        ],
+        "interventions": [
+          {
+            "name": "Batoclimab 680 milligrams (mg) subcutaneous (SC) weekly",
+            "type": "DRUG"
+          },
+          {
+            "name": "Batoclimab 340 mg SC weekly",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 94,
+        "start_date": "2022-12-15",
+        "primary_completion_date": "2026-07-20",
+        "completion_date": "2026-07-20",
+        "first_posted_date": "2022-10-14",
+        "primary_outcomes": [
+          {
+            "measure": "Period 2, Cohort A: Proportion of participants who remain relapse-free at Week 36",
+            "timeFrame": "Week 36"
+          }
+        ]
+      },
+      "hash": "453f52e1d25a7f5cfc7db71a95a7c8d3caaec651165d629e88158f123449cfdc"
+    },
+    {
+      "company": "IMVT",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07286006",
+      "title": "A Long-Term Extension Study of IMVT-1402 in Adult Participants With Graves' Disease (GD)",
+      "url": "https://clinicaltrials.gov/study/NCT07286006",
+      "published": "2025-12-16",
+      "retrieved_at": "2026-09-08T10:07:08.911266+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ENROLLING_BY_INVITATION",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Graves' Disease"
+        ],
+        "interventions": [
+          {
+            "name": "IMVT-1402",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Immunovant Sciences GmbH",
+        "enrollment": 372,
+        "start_date": "2026-01-26",
+        "primary_completion_date": "2030-03",
+        "completion_date": "2030-03",
+        "first_posted_date": "2025-12-16",
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of Group A Participants who remain euthyroid, Off ATD, and Off IMVT-1402",
+            "timeFrame": "At Week 52"
+          }
+        ]
+      },
+      "hash": "2b3be347f11e8a6ecc9d4c55b16e3583f86a95cfceb1ac6954ad5e6cfd67d560"
+    }
+  ],
+  "errors": []
+}

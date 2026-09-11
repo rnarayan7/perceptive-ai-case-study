@@ -1,0 +1,9 @@
+Drugs@FDA application BLA761286: RYSTIGGO
+Sponsor: UCB INC
+Active ingredient(s): ROZANOLIXIZUMAB-NOLI
+Brand name(s): RYSTIGGO
+Application type: BLA (biologic)
+Original approval date: 2023-06-26
+Review priority: PRIORITY, STANDARD, UNKNOWN
+Marketing status: Prescription
+Submissions on record: 3

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13316349_fig5",
+  "figure_type": "kaplan_meier",
+  "title": "Therapy and biomarker dependent progression-free survival in infant sonic hedgehog medulloblastoma: a multi-national retrospective cohort study.",
+  "caption": "Exploratory survival analyses of iMB SHH  patients receiving upfront CTx-only treatment.  (A) Kaplan–Meier plot of progression-free survival according to SHH molecular subgroup and histological subtypes. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (B) Kaplan–Meier plot of progression-free survival according to histological subtype and upfront CTx type. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (C) Relationship between histological subtype and upfront CTx type. p-value for chi-squared test is shown. (D) Kaplan–Meier plot of progression-free survival according to metastatic status and upfront CTx type. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (E) Mean 5-year progression-free survival proportion of previous M0 DN/MBEN iMB SHH  studies according to upfront CTx type. Figure includes previous iMB studies for which PFS information could be extracted for comparable patient cohorts. ∗ACNS1221 study reported 2-year PFS. (F) Mean 5-year progression-free survival proportion of previous DN/MBEN iMB SHH  studies according to metastatic status. Figure includes previous iMB studies for which PFS information could be extracted for comparable patient cohorts. CTx = Chemotherapy. CLA = Classic histology. LCA = Large-cell/anaplastic histology. MBEN = Medulloblastoma with extensive nodularity. DN = Desmoplastic nodular. SD = Standard-dose (blue). HD = High-dose (orange). IVT-MTX = Intraventricular methotrexate (pink). M+ = Metastatic disease. M0 = non-metastatic disease. PFS = progression-free survival.",
+  "context": "Exploratory survival analyses of iMB SHH  patients receiving upfront CTx-only treatment.  (A) Kaplan–Meier plot of progression-free survival according to SHH molecular subgroup and histological subtypes. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (B) Kaplan–Meier plot of progression-free survival according to histological subtype and upfront CTx type. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (C) Relationship between histological subtype and upfront CTx type. p-value for chi-squared test is shown. (D) Kaplan–Meier plot of progression-free survival according to metastatic status and upfront CTx type. At-risk table (numbers censored in parentheses) and p-value for log-rank test are shown. ∗Indicates p-value < 0.05. (E) Mean 5-year progression-free survival proportion of previous M0 DN/MBEN iMB SHH  studies according to upfront CTx type. Figure includes previous iMB studies for which PFS information could be extracted for comparable patient cohorts. ∗ACNS1221 study reported 2-year PFS. (F) Mean 5-year progression-free survival proportion of previous DN/MBEN iMB SHH  studies according to metastatic status. Figure includes previous iMB studies for which PFS information could be extracted for comparable patient cohorts. CTx = Chemotherapy. CLA = Classic histology. LCA = Large-cell/anaplastic histology. MBEN = Medulloblastoma with extensive nodularity. DN = Desmoplastic nodular. SD = Standard-dose (blue). HD = High-dose (orange). IVT-MTX = Intraventricular methotrexate (pink). M+ = Metastatic disease. M0 = non-metastatic disease. PFS = progression-free survival.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13316349/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T12:54:52.575151+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13316349",
+    "pmid": "42382416",
+    "journal": "EClinicalMedicine",
+    "fig_label": "Fig. 5"
+  },
+  "image_hash": "c74209c193922e62fe9e3f75ea3f057a9db4c32c2f2da2d06e2d0787bd6c9395",
+  "image_file": "image.jpg"
+}

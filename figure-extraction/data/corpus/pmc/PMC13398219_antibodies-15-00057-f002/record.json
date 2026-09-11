@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13398219_antibodies-15-00057-f002",
+  "figure_type": "pk_logscale",
+  "title": "Potential Mechanisms of Partial/Transient Response or Resistance to Daratumumab Therapy: A Focus on Anti-Daratumumab Antibodies and Urinary Daratumumab Loss.",
+  "caption": "In relation to previously published articles on different therapeutic monoclonal antibodies and on previously published pharmacokinetic studies of intravenous and subcutaneous daratumumab, we propose standardizing the monitoring of anti-daratumumab antibodies, at least after 3 to 6 months following last infusion, in particular in those cases characterized by (1) grade 3–4 infusion reactions, (2) before daratumumab readministration in those patients who had temporarily stopped taking the drug, (3) in those patients who have not achieved satisfactory hematological remission (e.g., VGPR or complete remission), (4) or in those patients who experienced an early relapse.",
+  "context": "In relation to previously published articles on different therapeutic monoclonal antibodies and on previously published pharmacokinetic studies of intravenous and subcutaneous daratumumab, we propose standardizing the monitoring of anti-daratumumab antibodies, at least after 3 to 6 months following last infusion, in particular in those cases characterized by (1) grade 3–4 infusion reactions, (2) before daratumumab readministration in those patients who had temporarily stopped taking the drug, (3) in those patients who have not achieved satisfactory hematological remission (e.g., VGPR or complete remission), (4) or in those patients who experienced an early relapse. The neutralizing effect of anti-daratumumab antibodies, which theoretically could lead to a significant reduction in the effective serum concentration of daratumumab, could be masked in most cases by therapeutic regimens characterized by repeated daratumumab infusions ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13398219/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-03",
+  "retrieved_at": "2026-09-07T13:10:01.492959+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13398219",
+    "pmid": "42496283",
+    "journal": "Antibodies (Basel, Switzerland)",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "581618dcd89e7dd13581db7ecabf7fcfa1aeea750724790f763f643ea8952e04",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "34921960",
+  "title": "The ECHELON-2 Trial: 5-year results of a randomized, phase III study of brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34921960/",
+  "published": "2022",
+  "retrieved_at": "2026-09-07T08:25:52.521824+00:00",
+  "metadata": {
+    "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+    "year": "2022",
+    "pmid": "34921960"
+  },
+  "hash": "1c54a7fde24bf2e980c2b91ac104c6b0136969373f79cc092807c64f6eccf17d"
+}

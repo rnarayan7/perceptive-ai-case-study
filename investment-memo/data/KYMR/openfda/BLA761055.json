@@ -1,0 +1,32 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA761055",
+  "title": "Drugs@FDA BLA761055: DUPIXENT",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761055",
+  "published": "2017-03-28",
+  "retrieved_at": "2026-09-08T08:40:21.498765+00:00",
+  "metadata": {
+    "manufacturer": "REGENERON PHARMACEUTICALS",
+    "brand_name": "DUPIXENT",
+    "sponsor_name": "REGENERON PHARMACEUTICALS",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "DUPIXENT"
+    ],
+    "active_ingredients": [
+      "DUPILUMAB"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2017-03-28",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 33
+  },
+  "hash": "93b06623972971d4561696264650d253be9ef0fd077673e5af59c97f55880363"
+}

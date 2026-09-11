@@ -1,0 +1,51 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03813199",
+  "title": "Study of Two Doses of ABX464 in Participants With Moderate to Severe Rheumatoid Arthritis",
+  "url": "https://clinicaltrials.gov/study/NCT03813199",
+  "published": "2019-01-23",
+  "retrieved_at": "2026-09-07T12:53:29.801640+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Rheumatoid Arthritis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464 50mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "Matching Placebo",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 100mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "Methotrexate",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 60,
+    "start_date": "2019-07-04",
+    "primary_completion_date": "2021-04-27",
+    "completion_date": "2021-04-27",
+    "first_posted_date": "2019-01-23",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Treatment-emergent Adverse Events in the ABX464 Treated Patients Versus Placebo",
+        "timeFrame": "through study completion, an average of 15 weeks"
+      }
+    ]
+  },
+  "hash": "5d8a69a86e1222c76ac2f4a5a7969a7b8df7c1eb9a8ecd6e4def0fd7b7b5c9b9"
+}

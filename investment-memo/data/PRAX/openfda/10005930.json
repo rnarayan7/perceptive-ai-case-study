@@ -1,0 +1,27 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10005930",
+  "title": "FAERS report 10005930: Generalised oedema",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10005930",
+  "published": "2014-03-13",
+  "retrieved_at": "2026-09-08T08:40:36.205203+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": false,
+    "reactions": [
+      "Generalised oedema"
+    ],
+    "drugs": [
+      "DIVALPROEX SODIUM DELAYED RELEASE CAPSULES (SPRINKLES)",
+      "TRILEPTAL",
+      "CLOBAZAM",
+      "VIMPAT",
+      "MELATONIN",
+      "MIRALAX"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "4004e1eaef7dc9e68bc3bb910da6ac2887f5e7836e31d96155bcec25df14d3ed"
+}

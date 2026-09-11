@@ -1,0 +1,30 @@
+{
+  "company": "PRAX",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha1934-prevalence-at-birth-japan-9f142910",
+  "title": "Early infantile developmental and epileptic encephalopathy - Prevalence at birth (Japan) [ORPHA:1934]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:06.783081+00:00",
+  "metadata": {
+    "orphacode": 1934,
+    "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+    "disorder_group": "Disorder",
+    "typology": "Clinical syndrome",
+    "prevalence_type": "Prevalence at birth",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "1.0",
+    "geographic_area": "Japan",
+    "validation_status": "Validated",
+    "source": "19828294[PMID]",
+    "source_pmids": [
+      "19828294"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "9f1429103f14222f7a90a768f8e24fbbfea154581fc39521c069942806edab8f"
+}

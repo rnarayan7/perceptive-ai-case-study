@@ -1,0 +1,425 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "started_at": "2026-09-08T10:06:07.841441+00:00",
+  "finished_at": "2026-09-08T13:31:28.382111+00:00",
+  "documents": [
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "36075249",
+      "title": "ABX464 (obefazimod) for moderate-to-severe, active ulcerative colitis: a phase 2b, double-blind, randomised, placebo-controlled induction trial and 48 week, open-label extension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36075249/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.423513+00:00",
+      "metadata": {
+        "journal": "The lancet. Gastroenterology & hepatology",
+        "year": "2022",
+        "pmid": "36075249"
+      },
+      "hash": "a890649ecc0a6d55704e1c7102d91a2a5a79ef2fd2b569136cf0c17efd80d3d7"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "36573890",
+      "title": "ABX464 (Obefazimod) Upregulates miR-124 to Reduce Proinflammatory Markers in Inflammatory Bowel Diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36573890/",
+      "published": "2023-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.424628+00:00",
+      "metadata": {
+        "journal": "Clinical and translational gastroenterology",
+        "year": "2023",
+        "pmid": "36573890"
+      },
+      "hash": "63bcb2cc94d36dce1ce7c621f3d523efd1a624b608b0ff5994240ab154174945"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "37129565",
+      "title": "Obefazimod: A First-in-class Drug for the Treatment of Ulcerative Colitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37129565/",
+      "published": "2023-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.425017+00:00",
+      "metadata": {
+        "journal": "Journal of Crohn's & colitis",
+        "year": "2023",
+        "pmid": "37129565"
+      },
+      "hash": "8a92bf346d28e0dfa8dee4dc01b261f9664e2919423199291c3294e82bfc211c"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40417999",
+      "title": "Obefazimod in patients with moderate-to-severely active ulcerative colitis: efficacy and safety analysis from the 96-week open-label maintenance phase 2b study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40417999/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.425739+00:00",
+      "metadata": {
+        "journal": "Journal of Crohn's & colitis",
+        "year": "2025",
+        "pmid": "40417999"
+      },
+      "hash": "ed7f1d0c65eef16541463d8f251cae3401a5f384ebe475d0c76e72a48c8ca6fc"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "38295619",
+      "title": "Structure-activity relationship and target investigation of 2-aryl quinolines with nematocidal activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38295619/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.427017+00:00",
+      "metadata": {
+        "journal": "International journal for parasitology. Drugs and drug resistance",
+        "year": "2024",
+        "pmid": "38295619"
+      },
+      "hash": "aebffacc17d8e2f2554a7899ce71c3fedc73713251e55159d666a24281b774d1"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40553443",
+      "title": "Novel Small-Molecule miR-124 Inducer Acts as \"a Physiological Brake\" of Inflammation in Ulcerative Colitis by Targeting the PIK3R2/PI3K/Akt Axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40553443/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.427600+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2025",
+        "pmid": "40553443"
+      },
+      "hash": "48ab4374e5fc95b2ed465a3d0516a7c1883ab73da7373ef78fd73cd430549ed3"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "35641124",
+      "title": "Safety and efficacy of the miR-124 upregulator ABX464 (obefazimod, 50 and 100 mg per day) in patients with active rheumatoid arthritis and inadequate response to methotrexate and/or anti-TNF\u03b1 therapy: a placebo-controlled phase II study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35641124/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.428253+00:00",
+      "metadata": {
+        "journal": "Annals of the rheumatic diseases",
+        "year": "2022",
+        "pmid": "35641124"
+      },
+      "hash": "5652490cabbbaa10af61e01b368d82f588d2939ffdda226b9174e946ebdd2594"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40332360",
+      "title": "Advances in Anthelmintic Target Identification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40332360/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.429565+00:00",
+      "metadata": {
+        "journal": "International journal of molecular sciences",
+        "year": "2025",
+        "pmid": "40332360"
+      },
+      "hash": "08476df8218b9d70afe7a7f7881278a9d4d3b14f317b8908878365c352ffa5f6"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "33387693",
+      "title": "Specific and selective induction of miR-124 in immune cells by the quinoline ABX464: a transformative therapy for inflammatory diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33387693/",
+      "published": "2021-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.429983+00:00",
+      "metadata": {
+        "journal": "Drug discovery today",
+        "year": "2021",
+        "pmid": "33387693"
+      },
+      "hash": "225f4cf5669af8ee5d55dbac14193c8ea582b53ff68879eca77e0c09dce0b44b"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42322247",
+      "title": "Obefazimod (ABX464) for moderate-to-severe Crohn's disease: clinical development of a novel oral therapeutic approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322247/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.430242+00:00",
+      "metadata": {
+        "journal": "Expert opinion on emerging drugs",
+        "year": "2026",
+        "pmid": "42322247"
+      },
+      "hash": "c8603e0d55ab7e3cf1fdf5d446d9a178ac789b4ecb0c5e24658399b87fc2f33e"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "30800421",
+      "title": "Safety, tolerability and impact on viral reservoirs of the addition to antiretroviral therapy of ABX464, an investigational antiviral drug, in individuals living with HIV-1: a Phase IIa randomised controlled study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30800421/",
+      "published": "2019-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.430796+00:00",
+      "metadata": {
+        "journal": "Journal of virus eradication",
+        "year": "2019",
+        "pmid": "30800421"
+      },
+      "hash": "776a1291468f9c87ffe4e57c387aead9d0ceee5c04a1918aa3aa5bd5724d1b72"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "27999038",
+      "title": "Pharmacokinetics and tolerability of ABX464, a novel first-in-class compound to treat HIV infection, in healthy HIV-uninfected subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27999038/",
+      "published": "2017-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.431195+00:00",
+      "metadata": {
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2017",
+        "pmid": "27999038"
+      },
+      "hash": "57e5fdd1b1d4b3b6ff7c50657d3800587c22aff0c830bbb9d9c5ab6cef46e215"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "27799203",
+      "title": "Randomized Trial of Food Effect on Pharmacokinetic Parameters of ABX464 Administered Orally to Healthy Male Subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27799203/",
+      "published": "2017-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.431844+00:00",
+      "metadata": {
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2017",
+        "pmid": "27799203"
+      },
+      "hash": "40f3ef4a23a6e92e04c3ddb53d02132cb57048d738b04307e8234241c5815c2a"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "34436569",
+      "title": "ABX464 Decreases the Total Human Immunodeficiency Virus (HIV) Reservoir and HIV Transcription Initiation in CD4+ T Cells From Antiretroviral Therapy-Suppressed Individuals Living With HIV.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34436569/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.432453+00:00",
+      "metadata": {
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2022",
+        "pmid": "34436569"
+      },
+      "hash": "053d30a605d7f719738f810585d702fae2387fde354c7c11b4bbc933e089bf30"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "28687795",
+      "title": "The Anti-Hiv Candidate Abx464 Dampens Intestinal Inflammation by Triggering Il-22 Production in Activated Macrophages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28687795/",
+      "published": "2017-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.433448+00:00",
+      "metadata": {
+        "journal": "Scientific reports",
+        "year": "2017",
+        "pmid": "28687795"
+      },
+      "hash": "915e5d158656855d5c487a6f21c5d90e3dd191fed41234614735df624a7c36c2"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "29893893",
+      "title": "Contrasting Timing of Virological Relapse After Discontinuation of Tenofovir or Entecavir in Hepatitis B e Antigen-Negative Patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29893893/",
+      "published": "2018-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.433935+00:00",
+      "metadata": {
+        "journal": "The Journal of infectious diseases",
+        "year": "2018",
+        "pmid": "29893893"
+      },
+      "hash": "2ef0f6166049d0486accfe2071ca4c1313f5c7310a9c663a27603cd040c021e1"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "30692590",
+      "title": "Both anti-inflammatory and antiviral properties of novel drug candidate ABX464 are mediated by modulation of RNA splicing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30692590/",
+      "published": "2019-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.435114+00:00",
+      "metadata": {
+        "journal": "Scientific reports",
+        "year": "2019",
+        "pmid": "30692590"
+      },
+      "hash": "c4baa2c015209b91a0f6be723e448c1b6d7377c34832bbc2d1968db0197aaf1d"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "37781656",
+      "title": "ABX464 (obefazimod) for patients with COVID-19 at risk for severe disease: miR-AGE, a randomized, double-blind placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37781656/",
+      "published": "2023-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.435636+00:00",
+      "metadata": {
+        "journal": "The journal of allergy and clinical immunology. Global",
+        "year": "2023",
+        "pmid": "37781656"
+      },
+      "hash": "de9b879da88ce96aafa727a2b111e546366f8375f4048288084c7f9f440c850a"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "25889234",
+      "title": "Long lasting control of viral rebound with a new drug ABX464 targeting Rev - mediated viral RNA biogenesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25889234/",
+      "published": "2015-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.436754+00:00",
+      "metadata": {
+        "journal": "Retrovirology",
+        "year": "2015",
+        "pmid": "25889234"
+      },
+      "hash": "5352c67af90ccc58a3cf70f9e50d059d08c61e64c8d55f2f914f8d61b47d756c"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "25218293",
+      "title": "Efficacy of ABX196, a new NKT agonist, in prophylactic human vaccination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25218293/",
+      "published": "2014-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.437534+00:00",
+      "metadata": {
+        "journal": "Vaccine",
+        "year": "2014",
+        "pmid": "25218293"
+      },
+      "hash": "1e9af435694f5575db4f6208842280c2251d76bb1bd77619a9a7accd0eda72e5"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "36198025",
+      "title": "Demonstration of the Antitumor Activity of the iNKT Agonist ABX196, a Novel Enhancer of Cancer Immunotherapy, in Melanoma and Hepatocarcinoma Mouse Models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36198025/",
+      "published": "2022-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.438237+00:00",
+      "metadata": {
+        "journal": "Molecular cancer therapeutics",
+        "year": "2022",
+        "pmid": "36198025"
+      },
+      "hash": "fc29a17463fc5005098c5979a8a85870c2dd8636702d3b25547a5a05f841fa21"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "28507108",
+      "title": "Safety, Pharmacokinetics, and Antiviral Activity of a Novel HIV Antiviral, ABX464, in Treatment-Naive HIV-Infected Subjects in a Phase 2 Randomized, Controlled Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28507108/",
+      "published": "2017-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.439085+00:00",
+      "metadata": {
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2017",
+        "pmid": "28507108"
+      },
+      "hash": "a9160772016662ff6d9180ed38d2b141d89ebd05bbd01a54e98201c347c24352"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "26215448",
+      "title": "ABX464: a good drug candidate instead of a magic bullet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26215448/",
+      "published": "2015-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.439588+00:00",
+      "metadata": {
+        "journal": "Retrovirology",
+        "year": "2015",
+        "pmid": "26215448"
+      },
+      "hash": "d2c73d87d1c9c348abd788bfce1a5202b5605ca07070f8238b273bce38b401f0"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "33662385",
+      "title": "Induction and Long-term Follow-up With ABX464 for Moderate-to-severe Ulcerative Colitis: Results of Phase IIa Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33662385/",
+      "published": "2021-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.439853+00:00",
+      "metadata": {
+        "journal": "Gastroenterology",
+        "year": "2021",
+        "pmid": "33662385"
+      },
+      "hash": "61aeb042464bcd2393374130ee92cf0c9a4251ca96e983d09d2de74bb1fdfa9d"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "41642459",
+      "title": "MicroRNAs as novel therapeutic targets against inflammatory bowel disease through modulation of ferroptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41642459/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:12.441117+00:00",
+      "metadata": {
+        "journal": "Clinical and experimental medicine",
+        "year": "2026",
+        "pmid": "41642459"
+      },
+      "hash": "291c61915b1800db228d575080237ee977c918ae0dfe1acef63d7a935dc402ed"
+    },
+    {
+      "company": "ABVX",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "17904915",
+      "title": "The prevalence and geographic distribution of Crohn's disease and ulcerative colitis in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17904915/",
+      "published": "2007-01-01",
+      "retrieved_at": "2026-09-08T13:31:28.379857+00:00",
+      "metadata": {
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "year": "2007",
+        "pmid": "17904915"
+      },
+      "hash": "048a1e4a223f2edf12de0103e355ee2eaab18c913d64df067955a21133088e34"
+    }
+  ],
+  "errors": []
+}

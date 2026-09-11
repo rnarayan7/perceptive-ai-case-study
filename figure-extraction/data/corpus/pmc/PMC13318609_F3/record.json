@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13318609_F3",
+  "figure_type": "forest",
+  "title": "Prognostic impact of low BMI on outcomes following definitive radiotherapy for esophageal squamous cell carcinoma.",
+  "caption": "Forest plot of subgroup analyses for progression-free survival (PFS). Hazard ratios (HR) with 95% confidence intervals (CI) are shown. BMI, body mass index; NLR, neutrophil-to-lymphocyte ratio; SII, systemic immune-inflammation index; CRP, C-reactive protein; TNM, tumor-node-metastasis; ECOG PS, Eastern Cooperative Oncology Group Performance Status; CCRT, concurrent chemoradiotherapy. Nutritional Risk Screening 2002.",
+  "context": "Forest plot of subgroup analyses for progression-free survival (PFS). Hazard ratios (HR) with 95% confidence intervals (CI) are shown. BMI, body mass index; NLR, neutrophil-to-lymphocyte ratio; SII, systemic immune-inflammation index; CRP, C-reactive protein; TNM, tumor-node-metastasis; ECOG PS, Eastern Cooperative Oncology Group Performance Status; CCRT, concurrent chemoradiotherapy. Nutritional Risk Screening 2002. Subgroup analyses of survival To evaluate the consistency of the BMI effect across various patient demographics and clinical features, subgroup analyses were conducted for both PFS ( Figure 3 ) and OS ( Figure 4 ). The PFS subgroup analysis ( Figure 3 ) demonstrated that the detrimental effect of low BMI was particularly pronounced in several subgroups.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13318609/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-17",
+  "retrieved_at": "2026-09-07T13:06:13.361032+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13318609",
+    "pmid": "42389701",
+    "journal": "Frontiers in nutrition",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "1d91256df08fab9a30d3bd2d5f9fec02c3b6d306104e74b2585a019074454673",
+  "image_file": "image.jpg"
+}

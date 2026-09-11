@@ -1,0 +1,39 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02792686",
+  "title": "ABX464 First in Man Study",
+  "url": "https://clinicaltrials.gov/study/NCT02792686",
+  "published": "2016-06-07",
+  "retrieved_at": "2026-09-07T12:53:29.796876+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Volunteers"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 24,
+    "start_date": "2014-03",
+    "primary_completion_date": "2014-07",
+    "completion_date": "2014-07",
+    "first_posted_date": "2016-06-07",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of patients experiencing at least one Adverse Event",
+        "timeFrame": "Up to 45 days post dosing"
+      }
+    ]
+  },
+  "hash": "928b357fd43ce0b01a6a815bae07f509482897ee28155d9aa8bf3ab84147135c"
+}

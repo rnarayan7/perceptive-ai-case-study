@@ -1,0 +1,116 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The independent COG DSMC met regularly to review trial safety and efficacy data. The
+               DSMC composition and responsibilities were as defined in NCI’s National Clinical Trials
+               Network (NCTN) guidelines (National Cancer Institute, 2012).
+
+               The FDA’s Assessment:
+
+               The Schedule of Activities for safety monitoring in the HR/IR subjects is shown in FDA
+               Table 11.
+
+                 FDA Table 11. Study AALL1331 Schedule of Activities - HR/IR Cohort
+
+
+
+
+                 Source: Study AALL1331 Section 7.1a
+
+
+
+
+                                                                   95
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               leukemia, T-cell ALL, T-cell lymphoblastic lymphoma, or B-cell lymphoblastic lymphoma
+               were not eligible. Subjects must not have had prior stem cell transplant or rescue or prior
+               blinatumomab treatment. Subjects with pre-existing significant CNS pathology or
+               uncontrollable seizure disorders were not eligible.
+
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s description of the eligibility. In addition, patients with
+               genetic syndromes, including Bloom syndrome, ataxia-telangiectasia, Fanconi anemia,
+               Kostmann syndrome, Schwachman syndrome, and other bone marrow failure syndromes
+               were not eligible.
+
+
+               Treatment Plan
+
+               The Applicant’s Position:
+
+               In the HR/IR group, the control arm received 2 additional blocks (cycles) of chemotherapy;
+               each chemotherapy cycle was 4 weeks in duration. The experimental arm received 2 blocks
+               (cycles) of blinatumomab at a dose of 15 µg/m2/day as a 28-day cIV infusion; each cycle was
+               separated by a 7-day break. Risk-adapted intrathecal therapy was provided to both the
+               blinatumomab and chemotherapy groups. On completion of randomized therapy, eligible
+               subjects underwent allogeneic HSCT. Subjects could receive up to 6 weeks of bridging
+               maintenance therapy prior to HSCT. Additional details on the study design including the
+               low-risk group are provided in Section 2.2 of Module 2.7.3 (Summary of Clinical Efficacy).
+
+
+               The FDA’s Assessment:
+               FDA agrees with the description of high risk/intermediate risk (HR/IR) therapy. Patients who
+               were randomized to HR/IR therapy also received a bone marrow evaluation prior to the
+               start of HSCT conditioning.
+
+               The Applicant did not include a description of low risk (LR) therapy. Patients who were
+               classified as LR were randomized to receive either four blocks of chemotherapy prior to
+               initiation of maintenance therapy (Arm C), or three blocks of chemotherapy + 3 blocks of
+               blinatumomab prior to initiation of maintenance therapy (Arm D).
+
+               For all arms, additional bone marrow evaluation occurred after the second block of therapy
+               (either Block 2 of chemotherapy for Arms A, C, and D or cycle 1 of blinatumomab for Arm B).
+
+
+               Monitoring Plan
+
+               The Applicant’s Position:
+
+                                                                   94
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+               The Schedule of Activities for safety monitoring in the LR subjects is shown in FDA Table 12.
+
+                 FDA Table 12. Study AALL1331 Schedule of Activities - LR Cohort
+
+
+
+
+                 Source: Study AALL1331 Section 7.1b
+
+
+
+               Statistical Analysis Plan
+
+               The Applicant’s Position:
+
+               Disease-free survival is defined as time from randomization to late treatment failure (≥ 5%
+                                                                   96
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

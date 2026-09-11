@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0291eca5-7a1d-4a79-30be-252224d96509",
+  "title": "Label: Imatinib Mesylate (IMATINIB MESYLATE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0291eca5-7a1d-4a79-30be-252224d96509",
+  "published": "2026-07-28",
+  "retrieved_at": "2026-09-08T08:41:09.580607+00:00",
+  "metadata": {
+    "brand_name": "Imatinib Mesylate",
+    "generic_name": "IMATINIB MESYLATE",
+    "manufacturer": "Apotex Corp",
+    "manufacturer_name": "Apotex Corp",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA079179",
+    "route": "ORAL"
+  },
+  "hash": "c7edf42c3a9f6e8b9872b98cc3d39a9af82bc87c32e76093382428ea81716b2f"
+}

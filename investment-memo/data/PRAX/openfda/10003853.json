@@ -1,0 +1,37 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003853",
+  "title": "FAERS report 10003853: Cardiac arrest, Arrhythmia, Acidosis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003853",
+  "published": "2014-03-25",
+  "retrieved_at": "2026-09-08T08:40:36.204946+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Cardiac arrest",
+      "Arrhythmia",
+      "Acidosis",
+      "Respiratory distress",
+      "Status epilepticus"
+    ],
+    "drugs": [
+      "SABRIL (FOR ORAL SOLUTION)",
+      "ONFI",
+      "VIMPAT",
+      "DIAZEPAM",
+      "LAMICTAL",
+      "TOPAMAX",
+      "PHENOBARBITAL",
+      "FELBAMATE",
+      "PROPOFOL",
+      "KETAMINE",
+      "DEPAKOTE",
+      "PYRIDOXINE"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "80c4e5b431a5f41b59179a7d8a11336910b4fbf17fb2b925ddfe665dddf171f8"
+}

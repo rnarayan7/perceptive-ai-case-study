@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13313305_Fig2",
+  "figure_type": "kaplan_meier",
+  "title": "A real-world study of the effectiveness and safety of low-dose immunotherapy in addition to oral metronomic chemotherapy in recurrent and metastatic head and neck squamous cell carcinoma.",
+  "caption": "Kaplan-Meier curves for duration of response (DOR)",
+  "context": "Kaplan-Meier curves for duration of response (DOR)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13313305/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T12:55:23.215174+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13313305",
+    "pmid": "42219423",
+    "journal": "Journal of the Egyptian National Cancer Institute",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "b05dcebbad6bf3c3ebaf2ba17a2d8d6670b812c0277d7f7f1818edcb76b83bbe",
+  "image_file": "image.jpg"
+}

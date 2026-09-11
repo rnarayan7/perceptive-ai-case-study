@@ -1,0 +1,28 @@
+{
+  "company": "IMVT",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "Q5152_2026-07-01",
+  "title": "Medicare Part B ASP: Inj, eculizumab-aeeb, 2 mg (Q5152, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:12.233411+00:00",
+  "metadata": {
+    "hcpcs": "Q5152",
+    "short_description": "Inj, eculizumab-aeeb, 2 mg",
+    "dosage": "2 MG",
+    "payment_limit": 41.156,
+    "asp_per_unit": 38.826415094339616,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "eculizumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "e6975d541466e52598160c940cc93b24b7ef901a6b289414788641a601820fdd"
+}

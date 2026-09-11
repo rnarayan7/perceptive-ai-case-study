@@ -1,0 +1,13 @@
+Title: ABX464 in Treating Inflammation and Preventing Acute Respiratory Failure in Patients With COVID-19
+Status: TERMINATED
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: COVID-19
+Interventions: ABX464 (DRUG), Placebo (DRUG)
+Enrollment: 509
+
+Summary: A phase 2/3, randomized, double blind, placebo-controlled study to evaluate the efficacy and the safety of ABX464 in treating inflammation and preventing acute respiratory failure in patients aged ≥65 and patients aged ≥18 with at least one additional risk factor who are infected with SARS-CoV-2 (the MiR-AGE study).
+
+Primary outcomes:
+- Rate of Responders: i.e. Rate of Patients Who do Not Require Use of High-flow Oxygen Invasive or Non-invasive Mechanical Ventilation (IMV and NIV, Respectively) Within 28 Days and Who Are Alive at the End of the 28 Days Period. (time frame: 28 days)

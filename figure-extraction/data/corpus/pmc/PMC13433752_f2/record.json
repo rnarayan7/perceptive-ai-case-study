@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13433752_f2",
+  "figure_type": "forest",
+  "title": "Prognostic significance of tumoral Siglec-15 expression in solid tumors: a systematic review and meta-analysis.",
+  "caption": "Forest plot of the association between tumoral Siglec-15 expression and OS in solid tumors. HR, hazard ratio; OS, overall survival.",
+  "context": "Forest plot of the association between tumoral Siglec-15 expression and OS in solid tumors. HR, hazard ratio; OS, overall survival. Pooled analysis showed that high Siglec-15 expression was significantly associated with worse OS in solid tumors (HR = 1.53, 95% CI: 1.25-1.86, P < 0.001, Figure 2 ). Subgroup analyses confirmed the robustness of this association across multiple stratifications, including country, sample size, HR type, data source, scoring method, cutoff definition, and study quality ( Table 2 ; Supplementary Figures 1 – 7 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13433752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-21",
+  "retrieved_at": "2026-09-07T13:07:17.357042+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "1.53 (95% CI 1.25-1.86)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "sociated with worse OS in solid tumors (HR = 1.53, 95% CI: 1.25-1.86, P < 0.001, Figure 2 ). Subgroup analys",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13433752",
+    "pmid": "42553325",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "949868d7706bbee964bc98d1b5d260c06bbfaaef45cbbb29577eb690027c0e8b",
+  "image_file": "image.jpg"
+}

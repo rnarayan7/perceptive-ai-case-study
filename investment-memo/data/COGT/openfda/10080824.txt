@@ -1,0 +1,4 @@
+FAERS adverse-event report 10080824 (comparator: midostaurin)
+Serious: yes
+Reactions: Electrocardiogram QT prolonged, Pulmonary toxicity
+Reported drugs: DACOGEN (DECITABINE) LYOPHILIZED POWDER, MIDOSTAURIN, CEPHALEXIN

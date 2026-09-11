@@ -1,0 +1,22 @@
+Title: A Safety, Pharmacokinetics, and Pharmacodynamics Study of ABX464 in HIV-1 Seronegative and Seropositive Adults
+Status: COMPLETED
+Phase: PHASE1, PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: HIV Infections, Health Volunteers
+Interventions: ABX464 150mg (DRUG), ABX464 50mg (DRUG), ABX464 50mg (DRUG)
+Enrollment: 36
+
+Summary: The purpose of the ABX464-005 study is to characterize the systemic and mucosal immunological sequelae associated with exposure to ABX464 and to explore selected immunological endpoints, compartmental pharmacokinetics, and pharmacodynamics.
+
+Primary outcomes:
+- Area Under the Curve (AUC) of ABX464 in Sera (time frame: Day 1, Day 28 and Day 84)
+- Maximum Observed Concentration (Cmax) of ABX464 in Sera (time frame: Day 1, Day 28 and day 84)
+- Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera (time frame: Day 1, Day 28 and Day 84)
+- Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Sera (time frame: Day 1, Day 28 and Day 84)
+- Maximum Observed Concentration (Cmax) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC) (time frame: Day 1, Day 28 and Day 84)
+- Area Under the Curve (AUC) of ABX464 in Peripheral Blood Mononuclear Cells (PBMC) (time frame: Day 1, Day 28 and Day 84)
+- Maximum Observed Concentration (Cmax) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC) (time frame: Day 1, Day 28 and Day 84)
+- Area Under the Curve (AUC) of ABX464 Metabolite (ABX464-N-Glucuronide) in Peripheral Blood Mononuclear Cells (PBMC) (time frame: Day 1, Day 28 and Day 84)
+- Concentration of ABX464 in Rectal Tissue (Measured Only at Pre-infusion Timepoint) (time frame: Day 1, Day 28, Day 56, Day 84 and Day 112)
+- Concentration of ABX464 Metabolite (ABX464-N-Glucuronide) in Rectal Tissue (Measured Only at Pre-infusion Timepoint) (time frame: Day 1, Day 28, Day 56, Day 84 and Day 112)

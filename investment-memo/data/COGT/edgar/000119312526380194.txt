@@ -1,0 +1,121 @@
+false000162222900016222292026-09-012026-09-01
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): September 1, 2026
+
+COGENT BIOSCIENCES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38443
+
+46-5308248
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+180 Third Avenue, 4th Floor
+
+Waltham, Massachusetts
+
+02451
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617)945-5576
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.001 Par Value
+
+COGT
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On September 1, 2026, Cogent Biosciences, Inc. (the “Company”) entered into a Commercial Supply Agreement (the “Agreement”) with Hovione FarmaCiencia S.A. (“Hovione”) to manufacture bezuclastinib spray-dried dispersion and bezuclastinib tablets (“Product”). The Agreement provides that the Company will purchase Product pursuant to rolling forecasts and will purchase specified minimum percentages of its requirements for each Product from Hovione, which percentages decrease over the term of the Agreement. Each forecast is updated quarterly, with a specified near-term portion binding on both parties and the balance constituting non-binding, good faith estimates subject to specified adjustment limits. The Agreement will remain in effect for an initial five-year term, followed by successive automatic two-year renewals. Either party may terminate the Agreement by written notice delivered a specified period prior to commencement of the applicable renewal term. In addition, either party has the right to terminate the Agreement in certain circumstances, including the other party’s uncured breach, a prolonged force majeure event, insolvency and specified regulatory and legal developments affecting the Product or its manufacture.
+
+The foregoing description of the Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Agreement, which will be filed, with certain confidential information omitted, as an exhibit to the Company’s quarterly report on Form 10-Q for the quarter ending September 30, 2026.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: September 2, 2026
+
+COGENT BIOSCIENCES, INC.
+
+By:
+
+/s/ Evan Kearns
+
+Evan Kearns
+
+Chief Legal Officer and Corporate Secretary

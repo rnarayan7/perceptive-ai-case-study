@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13321883_f0001",
+  "figure_type": "waterfall",
+  "title": "Efficacy and safety of cabozantinib plus nivolumab in advanced non-clear cell renal cell carcinoma: a nationwide multicenter study.",
+  "caption": "Efficacy in patients treated with cabozantinib plus nivolumab. (A) Waterfall plot displaying the best percentage change from baseline in the sum of target lesion diameters. (B) Objective response rate according to histologic subtypes. (C) Disease control rate according to histologic subtypes.",
+  "context": "Efficacy in patients treated with cabozantinib plus nivolumab. (A) Waterfall plot displaying the best percentage change from baseline in the sum of target lesion diameters. (B) Objective response rate according to histologic subtypes. (C) Disease control rate according to histologic subtypes. Efficacy Among the 62 evaluable patients ( Figure 1A ), the ORR was 45.2% (95% confidence interval [CI]: 32.4–57.9; Figure 1B ). An additional 48.4% achieved stable disease as their best response, resulting in a DCR of 93.6% (95% CI, 87.3–99.8; Figure 1C ). ORR and DCR were not significantly different according to line of treatment (Supplementary Figure 1A and B) and IMDC risk group (Supplementary Figure 2A and B). Although PFS and OS did not differ significantly according to line of treatment (Supplementary Figure 1C and D), patients with favorable/intermediate IMDC risk had significantly longer PFS than those with poor IMDC risk (Supplementary Figure 2C).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13321883/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-06-28",
+  "retrieved_at": "2026-09-07T12:57:29.970866+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13321883",
+    "pmid": "42366526",
+    "journal": "Oncoimmunology",
+    "fig_label": "Figure 1."
+  },
+  "image_hash": "349351eb7772f1dbde500ea363024f940f986607f9cdbedf655b468c0558e5ee",
+  "image_file": "image.jpg"
+}

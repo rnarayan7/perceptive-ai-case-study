@@ -1,0 +1,115 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 8. Study KD025-208: Kaplan Meier Plot of Duration of Response per FDA Adjudication
+
+
+
+
+                                                      Source: Reviewer’s analysis.
+
+               Alternative Measure of Durability
+
+               Table 25 shows durability of response by dose group: time from response to new systemic
+               therapy or death, whichever occurs first.
+
+               Table 25. Study KD025-208: Durability of Response per FDA Adjudication by Dose Group
+                                                                        Belumosudil
+                                                     200 mg QD         200 mg BID          400 mg BID
+                                                         N=10              N=7                 N=10
+                Events, n (%)                          4 (40%)           5 (71%)             9 (90%)
+                Median, months (95% CI) 1
+                                                     NE (1.6, NE)     12.2 (3.8, NE)      7.6 (1.1, 26.4)
+               1
+                Median as estimated per Kaplan-Meier methodology, confidence interval estimated using the
+               Brookmeyer and Crowley method.
+               Source: Reviewer’s analysis.
+
+               Median durability of response is non-estimable in the 200 mg QD group. Durability of response
+
+                                                                     149
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Efficacy Results – Secondary and Other Relevant Endpoints
+
+               Duration of Response
+
+               For responses that began through Cycle 7 Day 1, Table 24 shows duration of response by dose
+               group: time from response to any organ progression from the last assessment, new systemic
+               therapy, or death, whichever occurs first. Median duration of response is 5.6 (95% CI: 1.6, 11.1)
+               months in the 200 mg QD group.
+
+               Reviewer’s comment: Results should be interpreted with caution due to low number of events (10 or
+               fewer) and high uncertainty in all dose groups.
+
+               Table 24. Study KD025-208: Duration of Response per FDA Adjudication by Dose Group
+                                                                                     Belumosudil
+                                                               200 mg QD              200 mg BID             400 mg BID
+                                                                   N=10                    N=7                   N=10
+                   Events, n (%)                                 9 (90%)                7 (100%)              10 (100%)
+                   Median, months (95% CI)1                   5.6 (1.6, 11.1)         2.9 (1.7, 3.7)         3.5 (1.0, 5.1)
+               1
+                Median as estimated per Kaplan-Meier methodology, confidence interval estimated using the
+               Brookmeyer and Crowley method.
+               Source: Reviewer’s analysis.
+
+               Figure 8 shows the Kaplan-Meier plot of duration of response for responses that began through
+               Cycle 7 Day 1.
+
+
+
+
+                                                                     148
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               was longer than six months in 80% (95% CI: 41%, 95%) and longer than 12 months in 60% (95%
+               CI: 25%, 83%) of patients in the 200 mg QD group. Figure 9 shows the durability of response
+               Kaplan-Meier plot. The number of events is 10 or fewer in all dose groups.
+
+               Reviewer’s comment: Results should be interpreted with caution due to low number of events (10 or
+               fewer) and high uncertainty in all dose groups.
+
+               Figure 9. Study KD025-208: Kaplan Meier Plot of Durability of Response per FDA Adjudication
+
+
+
+
+               Source: Reviewer’s analysis.
+
+               Subpopulations
+
+
+               Table 26 shows ORR by subgroups. Study KD025-208 was not designed to compare subgroups
+               and does not contain sufficient information on patients in each treatment group to determine if
+               subgroup outcomes differ.
+
+
+
+
+                                                                     150
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+

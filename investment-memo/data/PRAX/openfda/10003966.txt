@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003966 (comparator: lamotrigine)
+Serious: yes
+Reactions: Abnormal behaviour, Drug level increased, Lethargy, Irritability, Obsessive-compulsive disorder, Dermatillomania, Activities of daily living impaired, Memory impairment, Bradykinesia, Muscular weakness, Insomnia, Drug interaction
+Reported drugs: ONFI, ONFI, PROZAC, PROZAC, PROZAC, CARBAMAZEPINE, CARBAMAZEPINE, LEVETIRACETAM, TOPIRAMATE, LAMOTRIGINE, LAMOTRIGINE, LORAZEPAM, MULTIPLE VITAMIN WITH MINERALS, CALCIUM CARBONATE- VITAMIN D

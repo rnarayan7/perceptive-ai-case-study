@@ -1,0 +1,77 @@
+Item 6. Exhibits
+
+Exhibit
+
+Number
+
+Description
+
+10.1†*
+
+2019 Incentive Plan Capped Value Appreciation Right Award Grant Notice with Eric Venker, dated as of July 28, 2025
+
+31.1*
+
+Certification of Chief Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2*
+
+Certification of Chief Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1#
+
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2#
+
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+101.INS*
+
+Inline XBRL Instance Document
+
+101.SCH*
+
+Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents
+
+104*
+
+Cover Page Interactive Data (embedded within the Inline XBRL document)
+
+*   Filed herewith.
+
+†   Indicates a management contract or compensatory plan, contract or arrangement
+
+#   In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule:
+
+Management’s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed “filed” for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+
+32
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Immunovant, Inc.
+
+Date: August 6, 2026
+
+By:
+
+/s/ Eric Venker, M.D., Pharm.D.
+
+Eric Venker, M.D., Pharm.D.
+
+Chief Executive Officer
+
+By:
+
+/s/ Tiago Girao
+
+Tiago Girao
+
+Chief Financial Officer
+
+33

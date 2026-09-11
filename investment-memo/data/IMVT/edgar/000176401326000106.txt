@@ -1,0 +1,175 @@
+0001764013FALSE00017640132026-09-022026-09-02
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 2, 2026
+
+IMMUNOVANT, INC.
+
+(Exact name of Registrant as specified in its Charter)
+
+Delaware
+
+001-38906
+
+83-2771572
+
+(State or other jurisdiction of incorporation or organization)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+1000 Park Forty Plaza, Suite 210
+
+Durham,
+
+NC
+
+27713
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(917) 410-3120
+
+Registrant’s telephone number, including area code
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+IMVT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+On September 2, 2026, Immunovant, Inc. (“Immunovant”) held its 2026 Annual Meeting of Stockholders (the “Annual Meeting”). There were 198,373,370 shares of common stock and Series A preferred stock represented at the Annual Meeting by valid proxies or voted at the Annual Meeting, which was approximately 96% of the shares of common stock and Series A preferred stock entitled to vote at the Annual Meeting. At the Annual Meeting, Immunovant’s stockholders voted on the three proposals set forth below. A more detailed description of each proposal is set forth in Immunovant’s definitive proxy statement for the Annual Meeting (the “Proxy Statement”), which was filed with the Securities and Exchange Commission on July 22, 2026.
+
+Proposal 1 – Election of Directors
+
+Jacob Bauer, Douglas Hughes and Robert Susman were each elected to serve as a member of Immunovant’s Board of Directors (the “Board”), until the 2027 Annual Meeting of Stockholders and until their successors are duly elected and qualified, by the following votes:
+
+Nominee
+
+Votes For
+
+Votes Withheld
+
+Broker Non-Votes
+
+Jacob Bauer
+
+162,872,114
+
+26,430,450
+
+9,070,806
+
+Douglas Hughes
+
+174,053,304
+
+15,249,260
+
+9,070,806
+
+Robert Susman
+
+181,604,476
+
+7,698,088
+
+9,070,806
+
+Proposal 2 – Ratification of the Selection of Independent Registered Public Accounting Firm
+
+The stockholders ratified the selection by the Audit Committee of the Board of Ernst & Young LLP as Immunovant’s independent registered public accounting firm for the fiscal year ending March 31, 2027, by the following votes:
+
+Votes For
+
+Votes Against
+
+Votes Abstain
+
+198,148,265
+
+187,390
+
+37,715
+
+Proposal 3 - Approval, on a Non-Binding Advisory Basis, of the Compensation of Immunovant’s Named Executive Officers
+
+The stockholders approved, on a non-binding advisory basis, the compensation of Immunovant’s named executive officers, as disclosed in the Proxy Statement, including the compensation tables and related narrative disclosures, by the following votes:
+
+Votes For
+
+Votes Against
+
+Votes Abstain
+
+Broker Non-Votes
+
+180,772,822
+
+8,437,839
+
+91,903
+
+9,070,806
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+IMMUNOVANT, INC.
+
+By:
+
+/s/ Tiago Girao
+
+Tiago Girao
+
+Chief Financial Officer
+
+Date: September 3, 2026

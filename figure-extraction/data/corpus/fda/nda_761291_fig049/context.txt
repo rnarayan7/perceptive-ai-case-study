@@ -1,0 +1,111 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               reactivity of teclistamab to cynomolgus monkey relative to humans. The no-observed-effect level
+               for 5 weekly IV doses of teclistamab-treated monkeys was 30 mg/kg , the highest dose tested,
+               with corresponding AUCDay22-29 and Day 22 Cmax mean values of 3549 µg·day/mL and 1084 µg/mL,
+               respectively. All doses were expected to be pharmacologically active, as mean serum
+               concentrations of teclistamab throughout the treatment periods were higher than the EC50 (0.09
+               to 0.48 ug/mL) for cytotoxicity with cynomolgus monkey T cells against cBCMA-expressing target
+               cells.
+
+               No evidence of immunotoxicity in cynomolgus monkeys was observed following IV weekly dosing
+               in any of the above toxicity studies. While ADAs were detected in a number of animals in the
+               toxicology studies, the relationship between immunogenicity in animals and human is not well
+               established, and results in animals are not expected to be predictive of the human immunogenic
+               response (Bugelski 2004).
+
+               A 3-month toxicity study in cynomolgus monkeys was not conducted due to the absence of
+               pharmacologic or toxicologic effects, the high incidence of ADAs in the 5-week study that
+               impacted exposure in some animals, and the restricted expression of BCMA to the B cell lineage
+               that limits the potential for toxicity on other normal cells and tissues. In accordance with the
+               above, the FDA provided feedback via written responses only and agreed a 3-month animal
+               toxicology study is not warranted.
+
+               A SC local tolerance GLP study demonstrated teclistamab was well tolerated at injection sites in
+               New Zealand rabbits administered a single dose of 20 mg (2.0 mL dose volume) in formulation
+               buffer. Because rabbits are not a pharmacologically relevant species, this study only tested the
+               local tolerance of the formulation at an antibody protein concentration of 10 mg/mL. The
+               formulation buffer contains the same components as the drug product. Additionally, there were
+               no adverse injection site findings following repeat-dose IV administration in cynomolgus
+               monkeys administered doses of 1, 10, or 30 mg/kg/week.
+
+               The FDA’s Assessment:
+               We agree with the Applicant’s assessment of the 5-week repeat-dose toxicity study in
+               cynomolgus monkeys; a detailed review of this study is provided below. Lack of PD activity or
+               teclistamab-related adverse effects at dose levels expected to be pharmacologically active may
+               be attributed to the relatively low binding affinity of teclistamab to cynomolgus monkey BCMA,
+               the paucity of BCMA-expressing target cells, and the decreased teclistamab systemic exposure in
+               animals affected by ADAs. A longer-duration repeat-dose toxicity study would not provide
+               meaningful information and is not warranted. The cynomolgus monkey is a pharmacologically-
+               relevant nonclinical species to assess the toxicology of teclistamab and general toxicology studies
+               in other species are not warranted.
+
+               We agree with the Applicant’s assessment of the local tolerance study in New Zealand White
+               rabbits.
+
+               Study title / Study number: JNJ-64007957 (BCMAxCD3): A 5-Week, Intravenous Repeat-dose GLP
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              43
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+
+                        5.5.2. Genetic Toxicology
+
+               The Applicant’s Position:
+               Genotoxicity studies were not conducted with teclistamab. As indicated in the ICH S6(R1)
+               guidance, genotoxicity studies routinely conducted for pharmaceuticals, are not appropriate for
+               biotechnology-derived pharmaceuticals such as monoclonal antibodies.
+
+               The FDA’s Assessment:
+               We agree that genotoxicity studies are not needed to support the approval of BLA 761261.
+                     5.5.3. Carcinogenicity
+
+               The Applicant’s Position:
+               Carcinogenicity studies were not conducted with teclistamab. As indicated in the ICH S9
+               guidance, carcinogenicity studies are not warranted to support marketing for therapeutics
+               intended to treat patients with advanced cancer.
+
+               The FDA’s Assessment:
+               We agree that carcinogenicity studies are not needed to support the approval of BLA 761261.
+
+                        5.5.4. Reproductive and Developmental Toxicology
+
+               The Applicant’s Position:
+               No reproductive and developmental toxicity studies were conducted for teclistamab. In
+               accordance with ICH S5(R3) and S6(R1) and the US FDA Guidance for Oncology, a weight of
+               evidence based on the intended patient population, BCMA target biology including data from
+               genetically modified mice that lack BCMA, the mechanism of action of teclistamab and published
+               data on trafficking of antibodies has been provided in Module 2.4 “Reproductive and
+               Developmental Studies” to provide information on pregnancy risk. Teclistamab is not expected
+               to be teratogenic based on the restricted expression of BCMA on plasma cell lineage compared
+               with other normal cells and tissues and the on-target specificity of teclistamab.
+
+               The FDA’s Assessment:
+               We agree with the Applicant’s WOE-based approach for the assessment of reproductive and
+               developmental toxicity. There is no BCMA gene or protein expression in human reproductive
+               organs; therefore, the risk of on-target/off-tumor toxicity in these tissues is relatively low. In the
+               5-week repeat-dose toxicity study in cynomolgus monkeys, there were no findings in
+               reproductive tissues. Mice deficient in BCMA developed normally.
+
+               In the tissue cross-reactivity study with normal human tissues (see 5.5.5. Other Toxicology
+               Studies), teclistamab stained mononuclear leukocytes in the ovary and prostate. Teclistamab is a
+               T-cell redirecting bsAb; risks associated with T-cell activation include cytokine release and
+               associated inflammatory effects. The occurrence of inflammatory AEs in the mother may
+               adversely affect the pregnancy or the developing fetus. Teclistamab may cross the placenta to
+               the developing fetus similarly as an endogenous IgG antibody. It is unknown if the level of BCMA
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              45
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

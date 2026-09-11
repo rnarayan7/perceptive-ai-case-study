@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig106",
+  "figure_type": "unknown",
+  "title": "nda_bla_168489 figure 106",
+  "caption": "",
+  "context": "\f\n\f\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.075414+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "abaac0e81cf01984e00691f563e652a009d6dfb340d327815e89e0fb96e52ca3",
+  "image_file": "image.png"
+}

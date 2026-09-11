@@ -1,0 +1,8 @@
+Title: Expanded Access to Bezuclastinib to be Coadministered With Sunitinib for Patients With Gastrointestinal Stromal Tumors
+Status: AVAILABLE
+Study type: EXPANDED_ACCESS
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Gastrointestinal Neoplasms, Gastrointestinal Stromal Tumors
+Interventions: Bezuclastinib (DRUG), Sunitinib (DRUG)
+
+Summary: The purpose of this expanded access program (EAP) is to provide investigational bezuclastinib so that it can be coadministered with sunitinib to patients with a diagnosis of gastrointestinal stromal tumors (GIST) with no comparable or satisfactory alternative therapy options. The combination of bezuclastinib and sunitinib provides broad inhibition of all primary and secondary KIT mutations that commonly occur in GIST.

@@ -1,0 +1,32 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA761224",
+  "title": "Drugs@FDA BLA761224: TEZSPIRE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761224",
+  "published": "2021-12-17",
+  "retrieved_at": "2026-09-08T08:40:26.630264+00:00",
+  "metadata": {
+    "manufacturer": "ASTRAZENECA AB",
+    "brand_name": "TEZSPIRE",
+    "sponsor_name": "ASTRAZENECA AB",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "TEZSPIRE"
+    ],
+    "active_ingredients": [
+      "TEZEPELUMAB-EKKO"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2021-12-17",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 4
+  },
+  "hash": "3227502f82f705b593dabd9f61855b2417f91c82d2a28023b20e079eeafdd6f9"
+}

@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "68084020301-2026-08-19",
+  "title": "NADAC price: PRIMIDONE 250 MG TABLET",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:37.182546+00:00",
+  "metadata": {
+    "ndc": "68084020301",
+    "ndc_description": "PRIMIDONE 250 MG TABLET",
+    "nadac_per_unit": 0.21966,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-26",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "primidone"
+  },
+  "hash": "87f954279ba79ed3f2dd6003986ab9a1f6b002b76f80112bb651ecb4c86dbdd9"
+}

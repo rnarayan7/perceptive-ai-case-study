@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13430458_f2",
+  "figure_type": "kaplan_meier",
+  "title": "Correction: First-line serplulimab plus chemotherapy versus chemotherapy alone in small-cell lung cancer patients with brain metastases: a multicenter, prospective cohort study.",
+  "caption": "Comparison of treatment regimens in patients receiving first-line cranial radiotherapy. Survival curves of  (A)  intracranial progression-free survival (iPFS);  (B)  extracranial PFS;  (C)  systemic PFS; and  (D)  overall survival (OS). This analysis compares the serplulimab plus chemotherapy group versus the chemotherapy alone group among patients who received first-line cranial radiotherapy.",
+  "context": "Comparison of treatment regimens in patients receiving first-line cranial radiotherapy. Survival curves of  (A)  intracranial progression-free survival (iPFS);  (B)  extracranial PFS;  (C)  systemic PFS; and  (D)  overall survival (OS). This analysis compares the serplulimab plus chemotherapy group versus the chemotherapy alone group among patients who received first-line cranial radiotherapy. There was a mistake in Figure 2 and Figure 3 as published. The images for Figure 2 and Figure 3 were accidentally swapped during the production stage. While the figure titles and captions remain entirely correct and in their proper places, the original image file displayed under Figure 2 belongs to Figure 3 , and vice versa. The corrected Figure 2 and Figure 3 appear below: The original version of this article has been updated.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430458/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-20",
+  "retrieved_at": "2026-09-07T12:50:10.069153+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13430458",
+    "pmid": "42549123",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "8b2ca26c2a5e76196b18cd750788479872e9478b414e5d793f79db301ff8dffc",
+  "image_file": "image.jpg"
+}

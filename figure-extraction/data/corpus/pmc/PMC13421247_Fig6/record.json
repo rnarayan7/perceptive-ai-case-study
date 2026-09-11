@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig6",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Global sensitivity analysis using the PRCC method. ( A ) Ranking of the negatively correlated parameters for the liver protein profile, ( B ) Ranking of the positively correlated parameters for the liver protein profiles, ( C ) ranking of negatively correlated parameters for the liver mRNA profiles, ( D ) positive correlation ranking for the liver mRNA profiles. mRNA dose and infusion time are fixed to 2 mg/kg and 10 min respectively",
+  "context": "Global sensitivity analysis using the PRCC method. ( A ) Ranking of the negatively correlated parameters for the liver protein profile, ( B ) Ranking of the positively correlated parameters for the liver protein profiles, ( C ) ranking of negatively correlated parameters for the liver mRNA profiles, ( D ) positive correlation ranking for the liver mRNA profiles. mRNA dose and infusion time are fixed to 2 mg/kg and 10 min respectively",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.775114+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 6"
+  },
+  "image_hash": "fa077ef6ae8a1c23f1efd8ae742e3b8ad7db710d8afca57608975dcad99b6345",
+  "image_file": "image.jpg"
+}

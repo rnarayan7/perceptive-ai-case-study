@@ -1,0 +1,87 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12930161_fig1",
+  "figure_type": "waterfall",
+  "title": "Readministration of nivolumab for patients with advanced gastric cancer: a case series.",
+  "caption": "Treatment exposure and tumor response in patients.  (A) Treatment exposure and response duration for each patient. (B) Waterfall plot showing the maximum percentage change from baseline in the sum of the largest diameter of target lesions. ICI, immune checkpoint inhibitor; PD, progressive disease; PR, partial response; SD, stable disease.  a Tumor response represents the best response during treatment.",
+  "context": "Treatment exposure and tumor response in patients.  (A) Treatment exposure and response duration for each patient. (B) Waterfall plot showing the maximum percentage change from baseline in the sum of the largest diameter of target lesions. ICI, immune checkpoint inhibitor; PD, progressive disease; PR, partial response; SD, stable disease.  a Tumor response represents the best response during treatment. The treatment regimen and responses are summarized in Figure 1 A and Table 2 . Waterfall plots for five patients with measurable lesions are shown in Figure 1 B. Following reintroduction, the patient of case 7 achieved PR and waterfall plot for the two patients is shown in Figure 1 B.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930161/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-17",
+  "retrieved_at": "2026-09-07T13:02:23.693106+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Total number of bars",
+      "value": "7",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars lower than -25% threshold",
+      "value": "1",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars lower than +20% threshold",
+      "value": "3",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Leftmost bar value",
+      "value": "48%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Max ICI rechallenge bar value",
+      "value": "48%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Max ICI reintroduction bar value",
+      "value": "48%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Most negative bar value",
+      "value": "-30%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC12930161",
+    "pmid": "41743424",
+    "journal": "ESMO gastrointestinal oncology",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "fdee6c94b4c7cd3e3024407d6ec78e6562d2783a6aebacaf2828b39cb5a7e9d8",
+  "image_file": "image.jpg"
+}

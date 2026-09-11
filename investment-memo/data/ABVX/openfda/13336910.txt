@@ -1,0 +1,4 @@
+FAERS adverse-event report 13336910 (comparator: upadacitinib)
+Serious: yes
+Reactions: Dysstasia, Rheumatoid arthritis
+Reported drugs: NARCAN, HYDROCHLOROTHIAZIDE., PREDNISONE., XELJANZ, WELLBUTRIN XL, WELLBUTRIN XL, XELJANZ, CYCLOBENZAPRINE HCL, RINVOQ, PLAQUENIL S, XELJANZ

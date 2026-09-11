@@ -1,0 +1,13 @@
+Title: A Study to Evaluate the Efficacy, Safety, and Tolerability of IMVT-1402 in Adult Participants With Active, Difficult to Treat Rheumatoid Arthritis
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Rheumatoid Arthritis
+Interventions: IMVT-1402 (DRUG), Placebo (DRUG)
+Enrollment: 120
+
+Summary: This Phase 2b, multicenter, double-blind, placebo-controlled, randomized withdrawal study is designed to assess the efficacy and safety of IMVT-1402 in adult participants with active, difficult-to-treat, anti-citrullinated protein autoantibody (ACPA) positive rheumatoid arthritis (RA).
+
+Primary outcomes:
+- Proportion of participants who maintain ACR20 response at Week 28 (time frame: Week 28)

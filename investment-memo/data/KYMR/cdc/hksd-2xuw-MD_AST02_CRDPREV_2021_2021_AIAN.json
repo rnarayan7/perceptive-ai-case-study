@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MD_AST02_CRDPREV_2021_2021_AIAN",
+  "title": "Asthma - Maryland - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573693+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Maryland",
+    "location_abbr": "MD",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "15.8",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "American Indian or Alaska Native, non-Hispanic"
+  },
+  "hash": "6ad91c9b8d30fd32b9289b4937af640dafcb38bb9d68040e0c280ec436f16a3d"
+}

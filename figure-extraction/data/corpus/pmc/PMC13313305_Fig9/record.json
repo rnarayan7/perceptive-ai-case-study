@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13313305_Fig9",
+  "figure_type": "kaplan_meier",
+  "title": "A real-world study of the effectiveness and safety of low-dose immunotherapy in addition to oral metronomic chemotherapy in recurrent and metastatic head and neck squamous cell carcinoma.",
+  "caption": "Kaplan Meier curves for progression-free survival (PFS) among first-line and second-line treatment subgroups",
+  "context": "Kaplan Meier curves for progression-free survival (PFS) among first-line and second-line treatment subgroups",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13313305/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T12:55:23.222460+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13313305",
+    "pmid": "42219423",
+    "journal": "Journal of the Egyptian National Cancer Institute",
+    "fig_label": "Fig. 9"
+  },
+  "image_hash": "9cdd3e3289a9ace47adcc946202ca6b41ed8e4fd7bd0f57dffa45f1c7041b8d0",
+  "image_file": "image.jpg"
+}

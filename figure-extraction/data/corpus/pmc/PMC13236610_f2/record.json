@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13236610_f2",
+  "figure_type": "forest",
+  "title": "Prognostic significance of ypN status after neoadjuvant chemoimmunotherapy in resectable NSCLC: a systematic review and meta-analysis.",
+  "caption": "Primary meta-analysis of overall survival (OS) according to post-neoadjuvant nodal status, presented as a fixed-effect forest plot. To avoid double counting when multiple hazard ratios were reported against a shared reference group, one prespecified comparison from each study was retained in the primary analysis. OS, overall survival; HR, hazard ratio; CI, confidence interval. Guo ( 10 ) = cN1→ypN+ versus cN1→ypN−; Guo ( 10 )* = cN2→ypN− versus cN1→ypN−; Guo ( 10 )** = cN2→ypN+ versus cN1→ypN−; Ma ( 11 ) = downstaged N0 versus natural N0; Ma ( 11 )* = ypN+ versus natural N0.",
+  "context": "Primary meta-analysis of overall survival (OS) according to post-neoadjuvant nodal status, presented as a fixed-effect forest plot. To avoid double counting when multiple hazard ratios were reported against a shared reference group, one prespecified comparison from each study was retained in the primary analysis. OS, overall survival; HR, hazard ratio; CI, confidence interval. Guo ( 10 ) = cN1→ypN+ versus cN1→ypN−; Guo ( 10 )* = cN2→ypN− versus cN1→ypN−; Guo ( 10 )** = cN2→ypN+ versus cN1→ypN−; Ma ( 11 ) = downstaged N0 versus natural N0; Ma ( 11 )* = ypN+ versus natural N0. Across two clinically comparable but non-identical nodal-response comparisons, unfavorable post-treatment nodal status was associated with worse OS than favorable nodal status (HR 4.75, 95% CI 2.38–9.47; P < 0.00001; Figure 2 ), with no heterogeneity detected (I² = 0%). Substitution with cN2→ypN− versus cN1→ypN− also retained statistical significance (HR 3.44, 95% CI 1.64–7.20; P = 0.001; Supplementary Figure 2 ), with I² remaining 0% ( 10 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236610/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-22",
+  "retrieved_at": "2026-09-07T13:08:12.230946+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "4.75 (95% CI 2.38-9.47)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "h worse OS than favorable nodal status (HR 4.75, 95% CI 2.38–9.47; P < 0.00001; Figure 2 ), with no heter",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "3.44 (95% CI 1.64-7.20)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "also retained statistical significance (HR 3.44, 95% CI 1.64–7.20; P = 0.001; Supplementary Figure 2 ), w",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13236610",
+    "pmid": "42255205",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "24461190a71b905fd660bb74600ef7e4ca23f3e3a709b75168bac50328be7da6",
+  "image_file": "image.jpg"
+}

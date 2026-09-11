@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig202",
+  "figure_type": "unknown",
+  "title": "nda_bla_168489 figure 202",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377\n               OPDIVO (nivolumab) and Yervoy (ipilimumab)\n               agreed with this proposal (IND 120909 Preliminary Meeting Comments; Reference ID: 5001702)\n               and therefore, BMS is not providing financial disclosure information for CA209070 in this\n               application.\n               The FDA’s Assessment:\n               FDA agrees with the Applicant’s assessment. Given the the limited duration of study treatment\n               and the absence of clinically meaningful anti-tumor activity in the relapsed/refractory solid\n               tumor population on study, the FDA has concluded that the Investigator’s financial disclosures\n               are unlikely to have biased the interpretation of the study results.\n\n                                Nonclinical Pharmacology/Toxicology\n\n               The Applicant’s Position:\n               The results of study report Expression of PD-L1, and Characterization of Tumor Infiltrating\n               Immune Cells in Tumors of Pediatric Origin are submitted in Module 4.2.1.1. This nonclinical\n               biomarker report is provided in this submission to fulfill the nivolumab PWR and PIP01, and no\n               corresponding Module 2 non-clinical summaries are included in this application, as the pediatric\n               non-clinical study results are out of the scope of the proposed extension of the approved adult\n               indications of nivolumab as a single agent or in combination with ipilimumab for the treatment\n               of melanoma to include pediatric (12 years and older) patients.\n               The FDA’s Assessment:\n               FDA agrees with the Applicant’s summary.\n\n                             OCP Appendices (Technical documents supporting OCP\n                         recommendations)\n\n                                Population PK Analysis\n\n                           19.4.1.1. Executive Summary\n\n                           The FDA’s Assessment:\n                           Sufficient PK data from adolescent (12 years and older) and adult patients were\n                           included in the popPK model for nivolumab and ipilimumab. The popPK model\n                           adequately described the PK profile for nivolumab and ipilimumab in adult and\n                           adolescent patients. PopPK results showed that the nivolumab exposure following\n                           the proposed dosing regimen in adolescent patients with adjuvant melanoma\n                           (Figure 9) or with metastatic melanoma who received nivolumab as a single\n                           agent(Figure 10) were comparable to adult exposure. In addition, the nivolumab and\n                           ipilimumab exposure after 4 cycles of the proposed dosing regimens in adolescent\n                           patients with metastatic melanoma who received the combination therapy (Figure\n                           11 and Figure 12) were also comparable to the adult exposure.\n\n\n\n\n                                                                 144\n                                           Version date: June 2022 (ALL NDA/ BLA reviews)\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5127294\n\f\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.080805+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "34972229aea85ab4d422e3ffa3b0f8621eee045b4834a57049fd768623c5ffc9",
+  "image_file": "image.png"
+}

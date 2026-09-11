@@ -1,0 +1,4 @@
+FAERS adverse-event report 15042922 (comparator: upadacitinib)
+Serious: yes
+Reactions: Rib fracture, Pneumothorax, Blood pressure decreased, Arthralgia, Orthostatic hypotension, Fall, Cervical vertebral fracture, Spinal column injury, Fall, Sciatica, Fall
+Reported drugs: ESBRIET, ESBRIET, ESBRIET, WARFARIN SODIUM, SYNTHROID, SIMVASTATIN, SINGULAIR, ALBUTEROL SULFATE, LIPITOR, BUSPAR, ZYRTEC, VITAMIN D3, CYANOCOBALAMIN, CYMBALTA, FLONASE, NEURONTIN, PROAMATINE, PRILOSEC, DESYREL, RINVOQ, TYMLOS

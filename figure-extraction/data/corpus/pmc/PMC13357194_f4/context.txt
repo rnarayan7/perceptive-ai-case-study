@@ -1,0 +1,1 @@
+Kaplan–Meier curves of OS according to disease control to first-line treatment response. Treatment response to first-line therapy was highly predictive: patients achieving disease control had a median OS of 16.0 months versus 7.7 months without disease control (P < 0.001; Figure 4 ).

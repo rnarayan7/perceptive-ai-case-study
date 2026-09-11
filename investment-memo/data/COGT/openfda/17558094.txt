@@ -1,0 +1,4 @@
+FAERS adverse-event report 17558094 (comparator: avapritinib)
+Serious: yes
+Reactions: Drooling, Diarrhoea, Arteriosclerosis, Dysarthria, Rash, Chest pain, Constipation
+Reported drugs: AYVAKIT, AYVAKIT, AYVAKIT, AYVAKIT

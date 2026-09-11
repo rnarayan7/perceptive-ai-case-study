@@ -1,0 +1,4 @@
+FAERS adverse-event report 20547798 (comparator: efgartigimod)
+Serious: yes
+Reactions: Muscular weakness, Muscle twitching, Diplopia, Throat irritation, Flushing, Infusion related reaction
+Reported drugs: VYVGART

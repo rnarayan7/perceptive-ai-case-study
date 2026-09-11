@@ -1,0 +1,56 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02840110",
+  "title": "Long-Term Follow-Up Study of Subjects Treated With ACTR T Cell Product",
+  "url": "https://clinicaltrials.gov/study/NCT02840110",
+  "published": "2016-07-21",
+  "retrieved_at": "2026-09-07T12:53:51.529138+00:00",
+  "metadata": {
+    "phases": [],
+    "overall_status": "TERMINATED",
+    "study_type": "OBSERVATIONAL",
+    "conditions": [
+      "B Cell Lymphomas",
+      "Multiple Myeloma",
+      "Solid Tumor",
+      "HER-2 Protein Overexpression"
+    ],
+    "interventions": [
+      {
+        "name": "ACTR T Cell Product",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 22,
+    "start_date": "2016-10",
+    "primary_completion_date": "2020-10-23",
+    "completion_date": "2021-02-23",
+    "first_posted_date": "2016-07-21",
+    "primary_outcomes": [
+      {
+        "measure": "Long-term safety of ACTR T cell product as assessed by overall survival",
+        "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+      },
+      {
+        "measure": "Long-term safety of ACTR T cell product as assessed by serious adverse events related to ACTR T cell product",
+        "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+      },
+      {
+        "measure": "Long-term safety of ACTR T cell product as assessed by Grade 3 or 4 adverse events related to ACTR T cell product",
+        "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+      },
+      {
+        "measure": "Long-term safety of ACTR T cell product as assessed by adverse events of special interest, regardless of grade or relatedness to the ACTR T cell product",
+        "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+      },
+      {
+        "measure": "ACTR T cell persistence in subjects previously treated with an ACTR T cell product",
+        "timeFrame": "Total of 15 years after first receiving an ACTR T cell product"
+      }
+    ]
+  },
+  "hash": "d35f9d8ab8f8e1499790b59517b94e211bb3e07a57c9102fd4f914823fe5460c"
+}

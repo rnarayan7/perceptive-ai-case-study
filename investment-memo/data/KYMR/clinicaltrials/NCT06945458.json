@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06945458",
+  "title": "Safety, PK, PD, and Clinical Activity of Orally Administered KT-621 in Adult Patients With Atopic Dermatitis (AD)",
+  "url": "https://clinicaltrials.gov/study/NCT06945458",
+  "published": "2025-04-25",
+  "retrieved_at": "2026-09-07T06:57:16.412536+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Atopic Dermatitis"
+    ],
+    "interventions": [
+      {
+        "name": "KT-621",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 22,
+    "start_date": "2025-04-17",
+    "primary_completion_date": "2025-11-10",
+    "completion_date": "2025-11-10",
+    "first_posted_date": "2025-04-25",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of adverse events (AEs)",
+        "timeFrame": "From enrollment through the safety follow-up visit on Day 43"
+      },
+      {
+        "measure": "Incidence of treatment-emergent potentially clinically-significant abnormalities in electrocardiogram (ECG) results, vital signs, or laboratory test results from the serum chemistry, hematology (with differential), chemistry, or coagulation panels.",
+        "timeFrame": "From enrollment through the safety follow-up visit on Day 43"
+      }
+    ]
+  },
+  "hash": "d072f4ea6080866533a8a9567d81084b35fcaf17107f14e77c17eb2409f237f4"
+}

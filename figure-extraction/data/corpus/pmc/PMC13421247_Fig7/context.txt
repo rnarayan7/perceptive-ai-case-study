@@ -1,0 +1,1 @@
+Exploration of key model parameters. Liver protein AUC under three different doses (0.5, 1 and 2 mg/kg) was plotted by varying ( A ) liver mRNA degradation rate, ( B ) mRNA escape rate, and ( C ) liver endosomal degradation rate. Infusion time is fixed to 10 min

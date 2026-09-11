@@ -1,0 +1,30 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha44890-point-prevalence-sweden-55c3b573",
+  "title": "Gastrointestinal stromal tumor - Point prevalence (Sweden) [ORPHA:44890]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:10.055788+00:00",
+  "metadata": {
+    "orphacode": 44890,
+    "preferred_term": "Gastrointestinal stromal tumor",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-5 / 10 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "12.9",
+    "geographic_area": "Sweden",
+    "validation_status": "Validated",
+    "source": "15648083[PMID]",
+    "source_pmids": [
+      "15648083"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "55c3b57387ffd5d20cd6644f1ce186ab5548a44a16e1954e75cf47d9a85ac128"
+}

@@ -1,0 +1,33 @@
+{
+  "company": "COGT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "common_shares_outstanding",
+  "title": "Cogent Biosciences, Inc. - Common shares outstanding (2026-08-06)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/0001193125-26-342393-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-08T08:46:37.316221+00:00",
+  "metadata": {
+    "cik": 1622229,
+    "entity_name": "Cogent Biosciences, Inc.",
+    "concept": "common_shares_outstanding",
+    "label": "Common shares outstanding",
+    "taxonomy": "dei",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "value": 173524982.0,
+    "unit": "shares",
+    "reporting_currency": "",
+    "period_end": "2026-08-06",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001193125-26-342393",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-10",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622229.json",
+    "derived": false
+  },
+  "hash": "bf1f90f87ca3d8ead34ca98407b393a014ea1890d5441faeb7bc419dbfa97a5a"
+}

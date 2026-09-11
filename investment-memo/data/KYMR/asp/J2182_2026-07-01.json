@@ -1,0 +1,28 @@
+{
+  "company": "KYMR",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J2182_2026-07-01",
+  "title": "Medicare Part B ASP: Injection, mepolizumab, 1mg (J2182, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.898642+00:00",
+  "metadata": {
+    "hcpcs": "J2182",
+    "short_description": "Injection, mepolizumab, 1mg",
+    "dosage": "1 MG",
+    "payment_limit": 32.281,
+    "asp_per_unit": 30.453773584905658,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "mepolizumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "f8ebd59b77e90633de9eef282d007aa1986e01fe13530187e76f0d2a01ab7cb9"
+}

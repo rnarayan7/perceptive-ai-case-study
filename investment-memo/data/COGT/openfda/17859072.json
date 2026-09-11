@@ -1,0 +1,44 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17859072",
+  "title": "FAERS report 17859072: Chest pain",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17859072",
+  "published": "2020-06-04",
+  "retrieved_at": "2026-09-08T08:41:06.398507+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Chest pain"
+    ],
+    "drugs": [
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "METOPROLOL TARTRATE.",
+      "PROCHLORPERAZINE.",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "EZETIMIBE.",
+      "CLOPIDOGREL",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "MIRALAX",
+      "DIPHENHYDRAMINE.",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK",
+      "QINLOCK"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "8a86aa6a5a173bade3692c14d0fe10b4a1d4d48b8b791e0e7cc0af3afd658d0e"
+}

@@ -1,0 +1,9 @@
+Drugs@FDA application BLA761224: TEZSPIRE
+Sponsor: ASTRAZENECA AB
+Active ingredient(s): TEZEPELUMAB-EKKO
+Brand name(s): TEZSPIRE
+Application type: BLA (biologic)
+Original approval date: 2021-12-17
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 4

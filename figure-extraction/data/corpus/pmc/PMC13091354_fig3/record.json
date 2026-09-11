@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13091354_fig3",
+  "figure_type": "waterfall",
+  "title": "Kinase signaling in liver disease via clinical-trial-on-a-PamChip: A distinctive methodology for drug mechanisms and personalized medicine.",
+  "caption": "Hierarchical kinase computations for the hepatocellular carcinoma (HCC) tumor for target pathways .  A , waterfall plots of Z-scores for upstream PTKs in pooled grouped HCC tumors  versus  normal adjacent tissue, displayed separately for men ( left ) and women ( right ). The  blue arrow  indicates the position of ABL.  B , waterfall plot illustrating ABL substrates in HCC tumors compared with normal adjacent tissue in men ( left ) and women ( right ).  Red points  signify substrates passing a log fold-change threshold of 0.2.  C , heat map depicting phosphorylation levels of ABL substrates in HCC tumors of men and women relative to normal adjacent tissue.  D , the validation of ABL phosphorylation was performed by analyzing all samples collectively through immunohistochemistry to detect ABL tyrosine 245 phosphorylation (pTry245ABL) in HCC tumors  versus  normal tissue. The sample size was n = 9, comprising five men and four women, with each sample treated as an individual biological replicate. An ABL-specific antibody was used, along with a negative control containing only the secondary antibody, without the primary antibody. The scale bar for the  lower panels  showing pABL, ABL, and the negative control is 200 μm. A magnified view of pABL in the  upper panel  is also provided, with a 50 μm scale bar.  E , quantitative gene analysis of  ABL1  and  ABL2  was performed with a sample size of n = 9 (men, n = 5; women, n = 4) as individual biological replicates. The results distinguish between noncancerous tissues ( black circles ) and tumor tissues ( red squares ).  F , the kinase activity of ABL, alongside the PerMed Score, reflects the percentage change in kinase activity within the HCC tumor compared with adjacent normal tissue, based on the pooled grouped lysate analysis. The  blue line  represents the mean signal intensity for each substrate relative to the control, with the percentage change indicated above. ABL, Abelson tyrosine kinase; PerMed, personalized medicine; PTK, phosphotyrosine kinase.",
+  "context": "Hierarchical kinase computations for the hepatocellular carcinoma (HCC) tumor for target pathways .  A , waterfall plots of Z-scores for upstream PTKs in pooled grouped HCC tumors  versus  normal adjacent tissue, displayed separately for men ( left ) and women ( right ). The  blue arrow  indicates the position of ABL.  B , waterfall plot illustrating ABL substrates in HCC tumors compared with normal adjacent tissue in men ( left ) and women ( right ).  Red points  signify substrates passing a log fold-change threshold of 0.2.  C , heat map depicting phosphorylation levels of ABL substrates in HCC tumors of men and women relative to normal adjacent tissue.  D , the validation of ABL phosphorylation was performed by analyzing all samples collectively through immunohistochemistry to detect ABL tyrosine 245 phosphorylation (pTry245ABL) in HCC tumors  versus  normal tissue. The sample size was n = 9, comprising five men and four women, with each sample treated as an individual biological replicate. An ABL-specific antibody was used, along with a negative control containing only the secondary antibody, without the primary antibody. The scale bar for the  lower panels  showing pABL, ABL, and the negative control is 200 μm. A magnified view of pABL in the  upper panel  is also provided, with a 50 μm scale bar.  E , quantitative gene analysis of  ABL1  and  ABL2  was performed with a sample size of n = 9 (men, n = 5; women, n = 4) as individual biological replicates. The results disti",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091354/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-03-18",
+  "retrieved_at": "2026-09-07T12:58:29.135881+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13091354",
+    "pmid": "41856289",
+    "journal": "The Journal of biological chemistry",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "16c1ec3c0001bdc52247d857b4efb38c4831a96b07fefb255306b4e6a4b28dcb",
+  "image_file": "image.jpg"
+}

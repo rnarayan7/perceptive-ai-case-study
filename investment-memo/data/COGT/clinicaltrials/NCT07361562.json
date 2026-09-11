@@ -1,0 +1,48 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07361562",
+  "title": "A Study of a Selective ERBB2 Inhibitor (CGT4255), in Patients With Advanced Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT07361562",
+  "published": "2026-01-23",
+  "retrieved_at": "2026-09-07T12:53:51.523715+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Advanced Solid Tumor, Adult",
+      "ERBB2 Altered Breast Cancer",
+      "ERBB2 Gene Amplification",
+      "HER2 Overexpression",
+      "Non-Small Cell Lung Cancer",
+      "HER2"
+    ],
+    "interventions": [
+      {
+        "name": "CGT4255",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 100,
+    "start_date": "2025-12-30",
+    "primary_completion_date": "2028-05",
+    "completion_date": "2028-11",
+    "first_posted_date": "2026-01-23",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Part A]",
+        "timeFrame": "Approximately 12 months"
+      },
+      {
+        "measure": "Overall Response Rate [Part B and Part C]",
+        "timeFrame": "Approximately 6 months"
+      }
+    ]
+  },
+  "hash": "524e9a09d6d07ddd414946eb54a99527b78c761faa2dc2aa829df92049056c89"
+}

@@ -1,0 +1,36 @@
+{
+  "company": "ABVX",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "49846599",
+  "title": "8-chloro-N-[4-(trifluoromethoxy)phenyl]quinolin-2-amine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/49846599",
+  "published": null,
+  "retrieved_at": "2026-09-08T10:06:05.695017+00:00",
+  "metadata": {
+    "cid": 49846599,
+    "query_name": "ABX464",
+    "molecular_formula": "C16H10ClF3N2O",
+    "molecular_weight": "338.71",
+    "smiles": "C1=CC2=C(C(=C1)Cl)N=C(C=C2)NC3=CC=C(C=C3)OC(F)(F)F",
+    "iupac_name": "8-chloro-N-[4-(trifluoromethoxy)phenyl]quinolin-2-amine",
+    "synonyms": [
+      "1258453-75-6",
+      "obefazimod",
+      "ABX464",
+      "ABX-464",
+      "8-chloro-N-[4-(trifluoromethoxy)phenyl]quinolin-2-amine",
+      "8-Chloro-N-(4-(trifluoromethoxy)phenyl)quinolin-2-amine",
+      "SPL-464",
+      "26RU378B9V",
+      "Abx 464",
+      "2-Quinolinamine, 8-chloro-N-(4-(trifluoromethoxy)phenyl)-",
+      "RefChem:167336",
+      "Rev Inhibitor ABX-464",
+      "CBC 80/20 Binder ABX-464",
+      "Cap Binding Complex 80/20 Binder ABX-464",
+      "824-937-7"
+    ]
+  },
+  "hash": "6e0490d8a3f1fdff7d39073fb0cc386300b2d0981fc8079fb2998bdd00d4096e"
+}

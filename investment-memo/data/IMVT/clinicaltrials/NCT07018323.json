@@ -1,0 +1,47 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07018323",
+  "title": "A Study to Assess the Efficacy, Safety, and Tolerability of IMVT-1402 as Treatment for Adult Participants With Graves' Disease",
+  "url": "https://clinicaltrials.gov/study/NCT07018323",
+  "published": "2025-06-12",
+  "retrieved_at": "2026-09-07T12:53:37.947467+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Graves' Disease"
+    ],
+    "interventions": [
+      {
+        "name": "IMVT-1402",
+        "type": "DRUG"
+      },
+      {
+        "name": "IMVT-1402",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 210,
+    "start_date": "2025-06-19",
+    "primary_completion_date": "2027-05",
+    "completion_date": "2027-05",
+    "first_posted_date": "2025-06-12",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of participants who are euthyroid and off ATD at Week 26 (Dose 1)",
+        "timeFrame": "Week 26"
+      }
+    ]
+  },
+  "hash": "8c3dcae9711d72a78026affd5f64dab86b0dfa7b3bd04729a0ff07d13a58cf43"
+}

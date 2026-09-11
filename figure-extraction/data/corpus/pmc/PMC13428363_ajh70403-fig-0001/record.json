@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13428363_ajh70403-fig-0001",
+  "figure_type": "table",
+  "title": "A Randomized Phase II Study of Subcutaneous Mosunetuzumab in Combination With Polatuzumab Vedotin Compared With Rituximab Plus Polatuzumab Vedotin in Patients With Relapsed or Refractory Large B-Cell Lymphoma.",
+  "caption": "Patient disposition. Deaths categorized as “other” were not specified due to events occurring outside of the reporting window. Abbreviations: AE, adverse event; Mosun, mosunetuzumab; PD, progressive disease; Pola, polatuzumab vedotin; R, rituximab.",
+  "context": "Patient disposition. Deaths categorized as “other” were not specified due to events occurring outside of the reporting window. Abbreviations: AE, adverse event; Mosun, mosunetuzumab; PD, progressive disease; Pola, polatuzumab vedotin; R, rituximab. At data cutoff (November 15, 2024), 20 (50.0%) patients receiving Mosun‐Pola and 11 (28.2%) patients receiving R‐Pola had completed initial treatment, and 17 (42.5%) and 10 (25.6%) patients, respectively, had discontinued the study (Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428363/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": null,
+  "published": "2026-06-12",
+  "retrieved_at": "2026-09-07T13:22:32.191541+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13428363",
+    "pmid": "42283231",
+    "journal": "American journal of hematology",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "ca94e3e803476a8eb94772100327790563ec19b2371bd2979353a00bc590c6b9",
+  "image_file": "image.jpg"
+}

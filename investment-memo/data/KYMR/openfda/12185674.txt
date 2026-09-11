@@ -1,0 +1,4 @@
+FAERS adverse-event report 12185674 (comparator: dupilumab)
+Serious: yes
+Reactions: Completed suicide, Toxicity to various agents, Intentional overdose
+Reported drugs: DUPILUMAB, PLACEBO, PLACEBO, DIPHENHYDRAMINE., VALPROIC ACID., LISINOPRIL., PROAIR HFA, SYMBICORT, DUPILUMAB

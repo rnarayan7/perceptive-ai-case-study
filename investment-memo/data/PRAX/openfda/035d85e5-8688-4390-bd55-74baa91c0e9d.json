@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "035d85e5-8688-4390-bd55-74baa91c0e9d",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=035d85e5-8688-4390-bd55-74baa91c0e9d",
+  "published": "2024-06-04",
+  "retrieved_at": "2026-09-08T08:40:34.884231+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Macleods Pharmaceuticals Limited",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA208466",
+    "route": "ORAL"
+  },
+  "hash": "41c7ae51fcff05abf6df6a3304be0a19d372bdfe1c705460dd2c752a2ebe91e7"
+}

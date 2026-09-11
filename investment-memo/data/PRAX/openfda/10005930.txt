@@ -1,0 +1,4 @@
+FAERS adverse-event report 10005930 (comparator: lacosamide)
+Serious: no
+Reactions: Generalised oedema
+Reported drugs: DIVALPROEX SODIUM DELAYED RELEASE CAPSULES (SPRINKLES), TRILEPTAL, CLOBAZAM, VIMPAT, MELATONIN, MIRALAX

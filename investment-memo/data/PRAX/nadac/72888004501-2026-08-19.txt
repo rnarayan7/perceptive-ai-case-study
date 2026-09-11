@@ -1,0 +1,7 @@
+Drug: PRIMIDONE 50 MG TABLET
+NDC: 72888004501
+NADAC per unit: $0.09156
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

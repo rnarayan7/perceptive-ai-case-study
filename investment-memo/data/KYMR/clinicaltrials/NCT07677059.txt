@@ -1,0 +1,14 @@
+Title: A Long-term Study of KT-621 Administered Orally to Participants With Asthma Previously Enrolled in a KT-621 Asthma Study
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Asthma (Diagnosis)
+Interventions: KT-621 (DRUG)
+Enrollment: 264
+
+Summary: This Phase 2b open-label, long-term extension study is designed to evaluate the long-term safety and efficacy of KT-621 in participants with asthma who were previously enrolled in the parent study (KT621-AS-202) of KT-621 for asthma. The main goals of this study are to investigate the long-term safety and tolerability of KT-621, the long-term efficacy of KT-621 at treating asthma, and how KT-621 behaves in the body long-term.
+
+Primary outcomes:
+- Incidence of treatment-emergent adverse events (TEAEs) (time frame: From baseline through Week 52)
+- Incidence of treatment-emergent serious adverse events (SAEs) (time frame: From baseline through Week 52)

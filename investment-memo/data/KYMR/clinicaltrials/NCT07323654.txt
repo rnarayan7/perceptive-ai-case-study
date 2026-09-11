@@ -1,0 +1,15 @@
+Title: A Study of KT-621 Administered Orally to Adult Participants With Moderate to Severe Eosinophilic Asthma
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Eosinophilic Asthma
+Interventions: KT-621 (DRUG), Placebo (OTHER)
+Enrollment: 264
+
+Summary: This Phase 2b study is designed to evaluate the safety and efficacy of KT-621 in participants with uncontrolled moderate to severe eosinophilic asthma.
+
+The main goals of this study are to investigate how effective KT-621 is at treating uncontrolled moderate to severe eosinophilic asthma, the safety and tolerability of KT-621, and how KT-621 behaves in the body.
+
+Primary outcomes:
+- Change from baseline in pre-bronchodilator FEV1 (time frame: From baseline to Week 12)

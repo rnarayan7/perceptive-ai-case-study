@@ -1,0 +1,125 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 5. Inhibition ROCK 2 by Belumosudil and the Metabolites KD025m1 and KD025m2
+                Enzyme                              Ki (nM)
+                           KD025      KD025m1 KD025m2          Y-27632    Fasudil
+                ROCK2      40±5       55±2        338±55       45±5       55±5
+               Inhibition of pro-inflammatory cytokines (Zanin-Zhorov 2014)
+               PBMCs were isolated from healthy subjects from a Phase 1 study after once daily oral
+               administration with belumosudil at 120 mg, 240 mg, and 320 mg. PBMCs were activated ex vivo
+               with anti-CD3/CD28 stimulation. The supernatants were analyzed for the secretion of IL-21, IL-
+               17, and IFN-γ after 48 hours by enzyme-linked immunosorbent assay (ELISA). Both IL-21 and IL-
+               17 production were reduced by 90 and 60%, respectively, in cells from belumosudil-treated
+               individuals compared to placebo-treated subjects. There was no effect of belumosudil on IFN-γ
+               secretion.
+               Figure 2. Belumosudil (KD025) Inhibits IL-21 and IL-17 Secretion ex- vivo in Human PBMCs
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+               Inhibition of STAT3 phosphorylation (Zanin-Zhorov 2014)
+               Human peripheral blood CD4+ T cells were treated with 2.5, 5, or 10 µM belumosudil and then
+               stimulated by anti-CD3/28 mAbs, IL-1β (50 ng/mL) and TGF-β (5 ng/mL) for 48 hours. Nuclear
+               extracts were prepared and analyzed by Western blotting. Belumosudil treatment resulted in
+               suppression of phosphorylated STAT3 (pSTAT) and reduced levels of IRF4 and RORγt protein in a
+               concentration-dependent manner, demonstrating inhibition of ROCK2 leads to down-regulation
+               of STAT3 phosphorylation and transcriptional activity.
+               Figure 3. Belumosudil Inhibits STAT3 Phosphorylation, and Down-Regulates IRF4 and RORγt
+               Expression
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+                                                                     38
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               All nonclinical primary pharmacology studies were non-Good Laboratory Practice (GLP)
+               consistant with regulatory expectations.
+               The FDA’s Assessment:
+
+               FDA Please note different nomenclature used in the review: belumosudil (KD025, SLx-2119),
+               metabolite KD025 m1 (SLx-3047), and second metabolite KD025 m2 (SLx-2131).
+
+               In Vitro Activity
+
+               The effects of belumosudil on the activity of ROCK1 and ROCK2 were evaluated in enzymes
+               purified from cell supernatants or tissue homogenates (Study KD025-NCP-2). Full length rat
+               ROCK1 and ROCK2 proteins were isolated from various tumor cell lines or tissues by
+               immunoabsorption to 24-well microtiter plates pre-coated with antibodies specific for each
+               isozyme. Reactions were initiated by the addition of S6 kinase substrate peptide, [γ33P]ATP,
+               and belumusodil and incubated at 37°C for 20 minutes. Reactions were terminated by addition
+               of phosphoric acid and the radioactivity was quantified using standard methods. The results
+               show that belumosudil inhibited ROCK2 enzymatic activity with approximately 30-fold greater
+               inhibition compared to ROCK1; i.e. an IC50 more than 30-fold lower than its inhibitory effect on
+               ROCK1 (Figure 1). Table 5 shows the order of the inhibitory effect of belumosudil, its active
+               metabolite KD025m1, and its second metabolite KD025m2 on ROCK enzymes. Fasudil and Y-
+               27362 are included as reference ROCK inhibitors. The active metabolite KD025m1 inhibited
+               ROCK2 with a comparable Ki value to belumosudil, while inhibition of ROCK2 by the second
+               metabolite KD025m2 was approximately 6-fold lower.
+
+               Figure 1. Inhibition of ROCK 1 and ROCK 2 Enzymatic Activity by Belumosudil
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+
+                                                                     37
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+               In Vivo Activity
+
+               The in vivo pharmacodynamic activity of belumosudil was assessed in cGVHD murine models
+               that involve a wide spectrum of clinically relevant target organs including the lung, and skin
+               (Study Nos. KD025-NCP-cGVHD-1, KD025-NCP-cGVHD-2, Flynn 2016). In addition, anti-fibrotic
+               activity of belumosudil was also assessed in a pulmonary fibrosis model, as fibrosis is one of the
+               clinical manifestation of cGVHD due to numerous inflammatory and infectious insults to the
+               lung (Study No. KDM-01).
+
+               B10.BR recipient mice were conditioned with Cytoxan/total body radiation. Donor bone
+               marrow (BM) from C57BI/6 mice was T-cell depleted with anti-Thy 1.2 mAb followed by rabbit
+               complement treatment. On Day 0, recipient mice received 107 BM cells with or without
+               allogeneic splenocytes (106 cells). On Day 28 after transplantation, a decrease in pulmonary
+               function was noticed in the recipient mice and was characterized by an increase in airway
+               resistance, which correlated with constriction, increased elastance and decreased compliance.
+               Belumosudil at 100 mg/kg/day was administered intraperitoneally once a day for 28 days to
+               one group of animals with established cGVHD with lung effects. Animals were observed for
+               body weight changes twice weekly. Pulmonary function tests (PFTs) were performed on Day 56
+               by whole-body plethysmography. Histopathology of lung sections was conducted to assess
+               collagen deposition, and immunofluorescence for antibody depositions. Flow cytometric
+               analysis was conducted to determine the effect of belumosudil on CD4+ T follicular helper (Tfh)
+               cells and germinal centers (GC) of B cells in spleens that are known to be activated during
+               cGVHD disease initiation. Single cell suspensions of spleens were labeled with anti-CD4, anti-
+               CXCR5 (Tfh cells are identified by high surface expression of the chemokine receptor CXCR5),
+               and anti-PD1. In comparison with control mice, treatment with belumosudil at 150 mg/kg once
+               daily (IP) significantly improved lung function in cGVHD mice, as was demonstrated by a
+               decrease in resistance and elastance, and an increase in lung compliance compared to the
+               vehicle-treated group with no effect on body weight and survival (Figure 4). Treatment with
+               belumosudil was also shown to reduce both collagen and antibody deposition in the lung
+               (Figure 4), and reduced the number of GC centers and Tfh cells in the spleen of GVHD mice
+               (Figu

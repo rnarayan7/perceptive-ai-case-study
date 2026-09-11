@@ -1,0 +1,9 @@
+Drugs@FDA application ANDA078947: LAMOTRIGINE
+Sponsor: TORRENT PHARMS
+Active ingredient(s): LAMOTRIGINE
+Brand name(s): LAMOTRIGINE
+Application type: ANDA (generic)
+Original approval date: 2009-01-27
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 22

@@ -1,0 +1,4 @@
+FAERS adverse-event report 22744248 (comparator: rozanolixizumab)
+Serious: yes
+Reactions: Pneumonia, Acute respiratory distress syndrome, Cardiac failure, Acute respiratory failure, Acute kidney injury
+Reported drugs: ROZANOLIXIZUMAB, AMIODARONE, AMIODARONE, AMIODARONE, CELLCEPT, CELLCEPT, CELLCEPT, DELTASONE, DELTASONE, DELTASONE, DELTASONE, ASPIRIN, MELATONIN, MELOXICAM, VITAMIN D3, GLUCOPHAGE XR, LISINOPRIL, XARELTO, PROTONIX, TYLENOL

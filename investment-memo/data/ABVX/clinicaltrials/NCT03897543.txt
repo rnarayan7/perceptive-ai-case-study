@@ -1,0 +1,13 @@
+Title: ABX196 in Combination With Nivolumab in Patients With Hepatocellular Carcinoma
+Status: RECRUITING
+Phase: PHASE1, PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Carcinoma, Hepatocellular
+Interventions: ABX196 (DRUG)
+Enrollment: 48
+
+Summary: Open-label, uncontrolled, phase 1-2 study to evaluate the safety, tolerability, pharmacodynamic effects, and preliminary efficacy of ABX196 administered in combination with nivolumab in patients with hepatocellular carcinoma
+
+Primary outcomes:
+- Incidence of adverse events (AEs) (time frame: Through study completion, an average of 1 year)

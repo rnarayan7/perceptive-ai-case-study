@@ -1,0 +1,122 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                 FDA Table 3. Study 20120215 Schedule of Activities
+
+
+
+
+                 Source: Study 20120215 Table 7-1
+
+
+
+               Statistical Analysis Plan
+               The Applicant’s Position:
+               Event-free survival is a composite endpoint that accounts for not only survival but also
+               measures durable CR, which is desired in patients with acute leukemias. Additionally, it can
+               be assessed before a survival benefit can be demonstrated, it is not affected by crossover or
+               subsequent therapies, and it is generally based on objective and quantitative assessments.
+               Therefore, Amgen in agreement with the European Medicines Agency Pediatric Committee
+               (PDCO) decided to utilize EFS as the primary endpoint to demonstrate clinical benefit in
+               Study 20120215. This is in line with anticancer guidelines, Committee for Medicinal
+               Products for Human (CHMP) guidance on Evaluation of Anticancer Medicinal Products in
+               Man (EMA/CHMP/205/95/Rev.5) and US FDA Guidance for Industry Clinical Trial Endpoints
+               for the Approval of Cancer Drugs and Biologics (US FDA, 2007).
+               Event-free survival was calculated from the date of randomization to the date of relapse or
+
+                                                                   48
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               μg/day). For interruptions due to clinically relevant neurologic events, after resolution to
+               grade ≤ 1, blinatumomab was to be resumed at the reduced dose for the remainder of
+               treatment. Additional details on dose modification and supportive care for clinically relevant
+               neurologic events are provided in Section 6.2.2.2 of the Study 20120215 Protocol. The re-
+               start of blinatumomab infusion was to be performed in the hospital under supervision of the
+               investigator.
+               Blinatumomab was to be permanently discontinued in the event of:
+                    •   Relapse
+                    •   Adverse event(s) requiring dose interruption at the 5 μg/m2/day dose
+                    •   Clinically relevant toxicities that in the investigator’s view imposed an unacceptable
+                        safety risk to the subject
+                    •   Clinically relevant neurologic events related to blinatumomab (defined in Appendix H
+                        of the protocol) that needed more than 1 week to resolve to grade ≤ 1, were grade 3
+                        or 4, occurred occur after re-start of treatment
+                    •   Any adverse events meeting the criteria for interruption that did not resolve to
+                        CTCAE grade ≤ 1 within 1 week or more than 2 interruptions per cycle due to adverse
+                        event
+                    •   A medical condition, which in the view of the investigator did not indicate a benefit
+                        of blinatumomab for the subject
+                    •   Withdrawal of subject’s consent to study treatment
+               Criteria for dose modification and treatment discontinuation of HC3 are described in Section
+               6.3.2 of the Study 20120215 Protocol.
+               The FDA’s Assessment:
+               FDA agrees that subjects were randomized to receive one cycle of chemotherapy (HC3) or
+               one cycle of blinatumomab following two cycles of chemotherapy. FDA agrees with the dose
+               modification and discontinuation instructions for blinatumomab.
+
+
+               Monitoring Plan
+               The Applicant’s Position:
+               An independent data monitoring committee (DMC) external to Amgen oversaw the interim
+               analyses and also assessed safety at regular intervals (approximately every 6 months) during
+               the course of the study.
+               The FDA’s Assessment:
+
+               The Schedule of Activities for safety monitoring is shown in FDA Table 3.
+
+
+
+                                                                   47
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               M2 bone marrow after having achieved CR, failure to achieve CR at the end of treatment,
+               second malignancy, or death due to any cause, whichever occurred first. Subjects who did
+               not achieve CR or died before the end-of-treatment disease assessment were assigned an
+               EFS duration of 1 day. Subjects who did not experience an EFS event were censored at their
+               last evaluable disease assessment date.
+               For EFS, an enrollment target of approximately 202 subjects and the observation of
+               94 events would give approximately 84% power using a 2-sided alpha level of 0.05. The
+               calculation was based on a non-cured hazard ratio of 0.63, a control true cure rate of 40%, a
+               control true median EFS of 7 months among non-cured patients, a true treatment cure rate
+               of 56.2%, and a true treatment median EFS of 11.1 months among non-cured subjects.
+               Two interim analyses were planned to assess benefit when approximately 50% and 75% of
+               the total number of EFS events were observed; O’Brien-Fleming stopping boundaries were
+               calculated with the use of a Lan-DeMets alpha spending function (O-Brien and Fleming,
+               1979; Lan and DeMets, 1983). Testing of the secondary endpoints was planned to be
+               descriptive at the interim analyses.
+               Overall survival, the universally accepted direct measure of clinical benefit in oncology
+               studies, was a key secondary endpoint and was calculated as the time from randomization
+               to death.
+               Minimal residual disease response was defined as MRD level < 10-4 by PCR or flow
+               cytometry following HC3 or blinatumomab therapy.
+               Time-to-event endpoints were summarized using the Kaplan-Meier method, and treatment
+               arms were compared using two-sided stratified log-rank tests. Treatment effects were
+               expressed as a hazard ratio with a 95% confidence interval (CI), estimated using a stratified
+               Cox regression model. Percentages with exact 95% CIs summarized response endpoints.
+               The percentage of subjects in each treatment arm with a MRD response (ie, MRD level < 10-
+               4
+                 at end of treatment [day 29]) was summarized with an exact binomial 95% CI. In addition,
+               a 2-sided Cochran Mantel-Haenszel test, which adjusted for the stratification factors at
+               randomization, described the difference in MRD response between treatment arms. The
+               cumulative incidence of relapse was analyzed using an extension of the Cox regression
+               model, whereby deaths that occurred before relapse and unrelated to an otherwise
+               undocumented re

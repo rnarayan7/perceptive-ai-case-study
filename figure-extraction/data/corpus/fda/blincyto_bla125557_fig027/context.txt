@@ -1,0 +1,138 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                    week blocks of blinatumomab (Arm B).
+               •    Compare OS of LR B-ALL patients who are randomized following Induction Block 1
+                    chemotherapy to receive either chemotherapy alone (Arm C) or chemotherapy plus
+                    blinatumomab (Arm D).
+
+               In addition, a key exploratory objective was to compare the rates of MRD positivity in the
+               HR/IR group between Arms A and B after Block 2 and Block 3 of therapy. The study design is
+               shown below in FDA Figure 7.
+
+               FDA Figure 7. Study AALL1331 Trial Design
+
+
+
+
+                                                                   92
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               on level of risk. High-risk and intermediate-risk (HR/IR) subjects (including MRD-positive
+               subjects) were randomized to either a control arm with 2 additional blocks of
+               chemotherapy, or an experimental arm with 2 blocks of blinatumomab. Low-risk subjects
+               were randomized to either a control arm with 2 blocks of chemotherapy followed by
+               continuation and maintenance chemotherapy, or an experimental arm with 1 block of
+               chemotherapy, 2 blocks of blinatumomab, each followed by continuation and a third
+               additional block of blinatumomab followed by maintenance. In September 2019, Study
+               AALL1331 was closed to accrual for the HR/IR arms based on the recommendation of the
+               COG DSMC, due to a strong trend towards improved DFS and improved OS, markedly lower
+               rates of serious toxicity, and a higher rate of MRD clearance for blinatumomab compared to
+               chemotherapy. Further, the COG DSMC recommended that the AALL1331 low-risk group
+               continue to enroll and randomize subjects until enrollment goals were reached. The
+               low-risk treatment group has since completed enrollment.
+
+               The primary endpoint of this study is DFS. The secondary endpoint is OS (time from
+               randomization to death from any cause). An exploratory endpoint was rate of MRD
+               negativity (MRD < 10-4) after each course of randomized therapy. A post hoc endpoint was
+               the rate of proceeding to transplant. Adverse events were also assessed.
+
+               Primary analysis results for the HR/IR group are based on the publicly available dataset that
+               was reported in the Brown et al publication (Brown et al, 2021). The primary analysis data
+               cutoff date for the HR/IR group was 30 September 2020 and includes all subjects in the
+               HR/IR group that were enrolled up to 30 June 2019 (date of DSMC decision to modify study
+               conduct). Final analysis results including the low-risk subjects will be provided in a
+               subsequent CSR.
+
+
+               The FDA’s Assessment:
+               FDA agrees with the trial design overview, description of randomization, and endpoints. In
+               addition, the primary and secondary objectives are as follows:
+
+               Primary Objectives
+               • Compare disease-free survival (DFS) of HR/IR B-ALL patients who are randomized
+                   following Induction Block 1 chemotherapy to receive either two intensive chemotherapy
+                   blocks (Arm A) or two 5-week blocks of blinatumomab (Arm B) prior to allogeneic
+                   hematopoietic stem cell transplantation (allo-HSCT).
+               • Compare DFS of LR B-ALL patients who are randomized following Induction Block 1
+                   therapy to receive either chemotherapy alone (Arm C) or chemotherapy plus
+                   blinatumomab (Arm D).
+
+               Secondary Objectives
+               • Compare OS of HR/IR B-ALL patients who are randomized following Induction Block 1
+                  chemotherapy to receive either two intensive chemotherapy blocks (Arm A) or two 5-
+
+                                                                   91
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               Classification of high, intermediate, and low risk was as follows:
+
+               •    High Risk:
+
+                        - Early bone marrow relapse (< 36 months from diagnosis)
+                        - Early extramedullary relapse (< 18 months from diagnosis)
+                        - Not dependent upon End Block 1 MRD
+
+               •    Intermediate Risk:
+
+                        - Late bone marrow relapse (≥ 36 months from diagnosis), End Block 1 MRD ≥ 0.1%
+                        - Late extramedullary relapse (≥ 18 months from diagnosis), End Block 1 MRD ≥ 0.1%
+
+               •    Low Risk
+
+                        - Late bone marrow relapse (≥ 36 months from diagnosis), End Block 1 MRD < 0.1%
+                        - Late extramedullary relapse (≥ 18 months from diagnosis), End Block 1 MRD <0.1%
+                        (or indeterminate)
+
+               •    For this study, DFS was defined as the time from the start of randomization to treatment
+                    failure, relapse, second malignancy, or death.
+
+               •    Relapse was defined as:
+
+                    - Bone marrow: M3 bone marrow (>25% blasts)
+
+                    - CNS: Positive cytomorphology and ≥ 5 WBC/uL in the CSF or clinical signs of CNS
+                      leukemia
+
+                    - Testicular: positive biopsy
+
+                    - Combined relapse: M2 or M3 marrow with concomitant CNS and/or testicular
+                      relapse
+
+
+               Key Eligibility Criteria
+
+               The Applicant’s Description:
+
+               Subjects ≥ 1 year and < 31 years of age at the time of relapse with first relapse B-cell ALL
+               (with or without extramedullary disease) were eligible for this study. Extramedullary sites
+               were limited to the CNS and testicles. Subjects with Down syndrome, Philadelphia
+               chromosome-positive/BCR-ABL1-positive ALL, Burkitt leukemia/lymphoma, mature B-cell
+
+                                                                   93
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

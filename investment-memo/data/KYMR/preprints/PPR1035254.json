@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR1035254",
+  "title": "Xpert MTB/RIF<sup>\u00ae</sup>cycle threshold as a marker of TB disease severity; Implications for TB treatment stratification",
+  "url": "https://europepmc.org/article/PPR/PPR1035254",
+  "published": "2025-06-12",
+  "retrieved_at": "2026-09-08T10:06:22.340566+00:00",
+  "metadata": {
+    "doi": "10.1101/2025.06.12.25329126",
+    "epmc_id": "PPR1035254",
+    "epmc_source": "PPR",
+    "authors": "Grint DJ, Dhillon J, Butcher PD, Adams J, Munshi T, Witney AA, Gould K, Laing K, Cousins C, Wasserman S, Fielding K, Harrison T, Jindani A.",
+    "cited_by": 0
+  },
+  "hash": "d32a5d6e48f868798459de93620219853a10305ff8a0e756abb8fd4126c385bc"
+}

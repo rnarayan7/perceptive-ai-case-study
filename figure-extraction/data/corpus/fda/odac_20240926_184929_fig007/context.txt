@@ -1,0 +1,54 @@
+September 26, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+
+PD-L1 Expression and Immune Checkpoint        Geetika Srivastava, MD, MSPH
+Inhibitors for the First Line Treatment of    Clinical Reviewer
+Metastatic or Unresectable Esophageal         DO3, OOD, OND, CDER, FDA
+Squamous Cell Carcinoma (ESCC)
+Clarifying Questions
+
+BREAK
+
+OPEN PUBLIC HEARING
+
+Questions to the Committee/Committee
+Discussion
+
+ADJOURNMENT
+______________________________________________________________________________
+Questions to the Committee:
+
+Morning Session
+
+   1. DISCUSSION: In patients with HER2-negative microsatellite stable
+      gastric/gastroesophageal junction (GEJ) adenocarcinoma, does the cumulative data
+      support the use of PD-L1 expression as a predictive biomarker when selecting patients
+      for treatment with PD-1-inhibitors?
+
+        Committee Discussion: Overall, Committee members agreed that PD-L1 expression is a
+        predictive biomarker for PD-1 inhibitors; however, there were concerns from the panel
+        regarding the optimal PD-L1 cut-point. Some Committee members commented about the
+        practical issues with the assay, standardization, and the real-life situation of having to
+        re-biopsy patients. Although efficacy may also be lower in patients with PD-L1 less than
+        5 or 10 (compared to in patients with tumors PD-L1 greater than 10), given challenges
+        with reliably assigning a specific PD-L1 level in a patient, the committee generally
+        recommended using PD-L1 >1 as the threshold (i.e., PD-L1 positive) to designate the
+        group of patients with a favorable risk-benefit assessment for pembrolizumab, nivolumab,
+        or tislelizumab.
+
+        Please see the transcript for details of the Committee’s discussion.
+
+   2. VOTE: Is a risk benefit assessment favorable for the use of PD-1 inhibitors in first line
+      advanced HER2 negative microsatellite stable gastric/GEJ adenocarcinoma in patients
+      with PD-L1 expression < 1?
+
+        Vote Result: Yes: 2            No:    10      Abstain:       1
+
+        Committee Discussion: The majority of the Committee agreed the risk benefit assessment
+        is not favorable for the use of PD-1 inhibitors in first line advanced HER2 negative
+        microsatellite stable gastric/GEJ adenocarcinoma in patients with PD-L1 expression <1.
+
+
+                                             Page 8 of 9
+

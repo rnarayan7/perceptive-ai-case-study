@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "07356cf2-224b-40d2-b827-e10a6b42c232",
+  "title": "Label: LACOSAMIDE",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=07356cf2-224b-40d2-b827-e10a6b42c232",
+  "published": "2026-05-07",
+  "retrieved_at": "2026-09-08T08:40:34.884595+00:00",
+  "metadata": {
+    "brand_name": "LACOSAMIDE",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Zydus Pharmaceuticals USA Inc.",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc.",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA209465",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "220dde7750e73e82c77841567bf8fb150229e1c1a85834ee67372fa0f94ce806"
+}

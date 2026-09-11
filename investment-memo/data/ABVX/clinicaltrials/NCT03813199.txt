@@ -1,0 +1,13 @@
+Title: Study of Two Doses of ABX464 in Participants With Moderate to Severe Rheumatoid Arthritis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Rheumatoid Arthritis
+Interventions: ABX464 50mg (DRUG), Matching Placebo (DRUG), ABX464 100mg (DRUG), Methotrexate (DRUG)
+Enrollment: 60
+
+Summary: This Phase IIa study aims at investigating the safety and tolerability of 2 dose-levels of ABX464 administered daily in combination with methotrexate (MTX) in patients with moderate to severe active Rheumatoid Arthritis (RA) who had an inadequate response to MTX or/and to one or more anti- tumor necrosis factor alpha (TNFα) therapies.
+
+Primary outcomes:
+- Number of Treatment-emergent Adverse Events in the ABX464 Treated Patients Versus Placebo (time frame: through study completion, an average of 15 weeks)

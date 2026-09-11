@@ -1,0 +1,9 @@
+Drugs@FDA application ANDA206382: LAMOTRIGINE
+Sponsor: SCIEGEN PHARMS
+Active ingredient(s): LAMOTRIGINE
+Brand name(s): LAMOTRIGINE
+Application type: ANDA (generic)
+Original approval date: 2016-06-17
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 8

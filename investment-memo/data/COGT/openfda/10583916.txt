@@ -1,0 +1,4 @@
+FAERS adverse-event report 10583916 (comparator: midostaurin)
+Serious: yes
+Reactions: Mycobacterium avium complex infection, Chronic obstructive pulmonary disease
+Reported drugs: MIDOSTAURIN, ACYCLOVIR., ZITHROMAX, NORVASC, HCTZ, PLATELETS, PLATELETS, VIDAZA, FLUCONAZOLE., COREG, PRBC, COMPAZINE, ZOFRAN, VIDAZA, RIFAMPIN., PRBC, MIDOSTAURIN, EMB, ALLOPURINOL.

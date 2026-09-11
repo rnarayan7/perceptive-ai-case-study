@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig006",
+  "figure_type": "spider",
+  "title": "nda_761291 figure 6",
+  "caption": "",
+  "context": "\f\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n\n                        1.4 Patient Experience Data\n\n               Patient Experience Data Relevant to this Application (check all that apply)\n                   □    The patient experience data that was submitted as part of the application, include:                       Section where discussed, if\n                                                                                                                                  applicable\n                        ▪ Clinical outcome assessment (COA) data, such as\n                               ▪ Patient reported outcome (PRO)                                                                  8.1.2 and 8.2.6\n                                □    Observer reported outcome (ObsRO)\n                                □    Clinician reported outcome (ClinRO)\n                                □    Performance outcome (PerfO)\n                        □   Qualitative studies (e.g., individual patient/caregiver interviews, focus group interviews, expert\n                            interviews, Delphi Panel, etc.)\n                        □   Patient-focused drug development or other stakeholder meeting summary reports\n                        □   Observational survey studies designed to capture patient experience data\n                        □   Natural history studies\n                        □   Patient preference studies (e.g., submitted studies or scientific publications)\n\n                        □   Other: (Please specify)\n                   □    Patient experience data that was not submitted in the application but was considered in this review.\n\n\n\n               X\n\n\n\n\n               Cross-Disciplinary Team Leader\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                   26\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the\n               positions of the FDA.\n\nReference ID: 5065872\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.843101+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "5ca8cf2fb6ba2cd7026326934fb69cec3fdb999b02f6f1cdf3129be7d19d7c59",
+  "image_file": "image.png"
+}

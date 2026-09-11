@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13385651_Fig4",
+  "figure_type": "spider",
+  "title": "Pembrolizumab plus high-dose IL-2 in advanced clear cell renal cell carcinoma: six-year survival outcomes and molecular signatures from a phase 2 trial.",
+  "caption": "Differential gene expression analysis across multiple timepoints. a  Volcano plot showing differentially expressed genes at block 2 week 4 (B2W4, post-10 doses of IL-2) versus block 2 week 2 (B2W2, post-4 doses of pembrolizumab), with significant genes (FDR < 0.05, |log2FC| > 0.6) highlighted in red. Statistical significance was determined by two-sided paired  t -test with Benjamini–Hochberg FDR correction ( n  = 15 paired samples from patients).  b ,  c  Volcano plots of extreme versus non-responders at B2W2 ( b ) and B2W4 ( c ), with significant genes ( p  < 0.05, |log2FC| > 0.6) highlighted. Statistical significance was determined by two-sided Welch’s  t -test;  p -values are uncorrected as results did not survive FDR correction. At B2W2: EXT,  n  = 7; NON,  n  = 3 patients. At B2W4: EXT,  n  = 8; NON,  n  = 3 patients.  d  Heatmap of gene expression at B2W4 showing individual patient expression profiles (EXT,  n  = 8; INT,  n  = 6; NON,  n  = 3 patients) for selected inflammatory mediators and chemokines. Color intensity represents Z-scored expression levels; red indicates upregulation and blue indicates downregulation.",
+  "context": "Differential gene expression analysis across multiple timepoints. a  Volcano plot showing differentially expressed genes at block 2 week 4 (B2W4, post-10 doses of IL-2) versus block 2 week 2 (B2W2, post-4 doses of pembrolizumab), with significant genes (FDR < 0.05, |log2FC| > 0.6) highlighted in red. Statistical significance was determined by two-sided paired  t -test with Benjamini–Hochberg FDR correction ( n  = 15 paired samples from patients).  b ,  c  Volcano plots of extreme versus non-responders at B2W2 ( b ) and B2W4 ( c ), with significant genes ( p  < 0.05, |log2FC| > 0.6) highlighted. Statistical significance was determined by two-sided Welch’s  t -test;  p -values are uncorrected as results did not survive FDR correction. At B2W2: EXT,  n  = 7; NON,  n  = 3 patients. At B2W4: EXT,  n  = 8; NON,  n  = 3 patients.  d  Heatmap of gene expression at B2W4 showing individual patient expression profiles (EXT,  n  = 8; INT,  n  = 6; NON,  n  = 3 patients) for selected inflammatory mediators and chemokines. Color intensity represents Z-scored expression levels; red indicates upregulation and blue indicates downregulation.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13385651/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-25",
+  "retrieved_at": "2026-09-07T13:16:49.758242+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13385651",
+    "pmid": "42185255",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 4"
+  },
+  "image_hash": "6580a2f72fc44be56cdbb5c59af6fdad113b896aba72dcfdf8a30438524ccd60",
+  "image_file": "image.jpg"
+}

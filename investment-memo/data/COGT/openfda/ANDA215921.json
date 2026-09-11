@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA215921",
+  "title": "Drugs@FDA ANDA215921: MIDOSTAURIN",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A215921",
+  "published": "2024-06-28",
+  "retrieved_at": "2026-09-08T08:41:03.274495+00:00",
+  "metadata": {
+    "manufacturer": "DR REDDYS",
+    "brand_name": "MIDOSTAURIN",
+    "sponsor_name": "DR REDDYS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "MIDOSTAURIN"
+    ],
+    "active_ingredients": [
+      "MIDOSTAURIN"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2024-06-28",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "9bcb6b9ce2bda2128a7b6c366af9fe7bd9718564f1b008c9a51d5d8045207d8e"
+}

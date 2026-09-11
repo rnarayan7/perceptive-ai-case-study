@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13334329_f3",
+  "figure_type": "table",
+  "title": "Sacituzumab govitecan in Japanese participants with HR+/HER2- metastatic breast cancer: primary results from the phase II ASCENT-J02 study.",
+  "caption": "Any-grade TEAEs (≥ 20%) in the phase II HR+/HER2− mBC cohort (safety analysis set). HR+/HER2–, hormone receptor–positive/human epidermal growth factor receptor 2–negative; mBC, metastatic breast cancer; TEAE, treatment-emergent adverse event.",
+  "context": "Any-grade TEAEs (≥ 20%) in the phase II HR+/HER2− mBC cohort (safety analysis set). HR+/HER2–, hormone receptor–positive/human epidermal growth factor receptor 2–negative; mBC, metastatic breast cancer; TEAE, treatment-emergent adverse event.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13334329/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:20:22.456179+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13334329",
+    "pmid": "41887616",
+    "journal": "Japanese journal of clinical oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "4c997ce465b78c4c64737e77b5bf51b6aa9053cd9ec51ebab2a6891ca7f85237",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0d642561-8ade-460b-b6b0-78cfc6cc2694",
+  "title": "Label: Drug label",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0d642561-8ade-460b-b6b0-78cfc6cc2694",
+  "published": "2023-03-23",
+  "retrieved_at": "2026-09-08T08:40:55.167803+00:00",
+  "metadata": {
+    "brand_name": null,
+    "generic_name": null,
+    "manufacturer": null,
+    "manufacturer_name": null,
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": null
+  },
+  "hash": "b8b8755f05edd3e1e16c6e1448e6db5ee4639a124a477af664a0f6a956870fcc"
+}

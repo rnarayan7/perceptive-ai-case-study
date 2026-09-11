@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+  "title": "Label: ENTYVIO (VEDOLIZUMAB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+  "published": "2026-04-29",
+  "retrieved_at": "2026-09-08T08:40:11.691746+00:00",
+  "metadata": {
+    "brand_name": "ENTYVIO",
+    "generic_name": "VEDOLIZUMAB",
+    "manufacturer": "Takeda Pharmaceuticals America, Inc.",
+    "manufacturer_name": "Takeda Pharmaceuticals America, Inc.",
+    "pharm_class_epc": "Integrin Receptor Antagonist [EPC]",
+    "pharm_class_moa": "Integrin Receptor Antagonists [MoA]",
+    "application_number": "BLA761133",
+    "route": "SUBCUTANEOUS"
+  },
+  "hash": "0b71d7e1ea9f33e09fe12839751f83acb2d884c3653d003dcd817f7307c167e9"
+}

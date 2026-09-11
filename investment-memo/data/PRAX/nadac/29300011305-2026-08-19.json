@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "29300011305-2026-08-19",
+  "title": "NADAC price: LAMOTRIGINE 150 MG TABLET",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:30.028646+00:00",
+  "metadata": {
+    "ndc": "29300011305",
+    "ndc_description": "LAMOTRIGINE 150 MG TABLET",
+    "nadac_per_unit": 0.07068,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-09-02",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "lamotrigine"
+  },
+  "hash": "2022b78fa43316d2114304b53780d56b0f47fdbe75ac869a698c8ef30a978f81"
+}

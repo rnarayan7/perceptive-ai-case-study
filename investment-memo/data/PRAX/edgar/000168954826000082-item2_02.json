@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000168954826000082-item2_02",
+  "title": "Praxis Precision Medicines, Inc. 8-K (2026-08-06) - Results of Operations and Financial Condition",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/0001689548-26-000082-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-07T12:53:48.834494+00:00",
+  "metadata": {
+    "accession": "0001689548-26-000082",
+    "cik": 1689548,
+    "form": "8-K",
+    "primary_document": "prax-20260806.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-08-06",
+    "filing_date": "2026-08-06",
+    "items": "2.02,7.01,9.01",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/prax-20260806.htm",
+    "section": "Results of Operations and Financial Condition",
+    "section_key": "item2_02"
+  },
+  "hash": "946e586a5ee1bc31e8d53f889d763921745a9c5844ae1fd9677d5a25324ae6b5"
+}

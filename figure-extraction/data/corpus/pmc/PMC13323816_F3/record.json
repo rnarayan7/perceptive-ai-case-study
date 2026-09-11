@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13323816_F3",
+  "figure_type": "pk_logscale",
+  "title": "Safety, tolerability, pharmacokinetics, pharmacodynamics, and immunogenicity of STSA-1002, recombinant anti-human C5a fully human monoclonal antibody, in a randomized, first-in-human phase I study in healthy adults.",
+  "caption": "The mean concentration-time profile of STSA-1002 in the 5 mg/kg, 10 mg/kg, and 20 mg/kg cohorts (semi-logarithmic) (n = 20). Healthy subjects received STSA-1002 at 5 mg/kg (n = 4), 10 mg/kg (n = 8), or 20 mg/kg (n = 8) once weekly for 4 weeks. Blood samples were collected pre-dose and at multiple time points up to Day 56. Plasma concentrations of STSA-1002 were measured using a validated ELISA method. Data are presented as mean ± standard deviation (SD), with error bars representing SD. The y-axis is shown on a logarithmic scale (base 10) to accommodate the wide concentration range. No statistical comparisons were performed for this figure; the plot is intended for descriptive illustration of the pharmacokinetic profiles. The y-axis is shown on a logarithmic scale (base 10).",
+  "context": "The mean concentration-time profile of STSA-1002 in the 5 mg/kg, 10 mg/kg, and 20 mg/kg cohorts (semi-logarithmic) (n = 20). Healthy subjects received STSA-1002 at 5 mg/kg (n = 4), 10 mg/kg (n = 8), or 20 mg/kg (n = 8) once weekly for 4 weeks. Blood samples were collected pre-dose and at multiple time points up to Day 56. Plasma concentrations of STSA-1002 were measured using a validated ELISA method. Data are presented as mean ± standard deviation (SD), with error bars representing SD. The y-axis is shown on a logarithmic scale (base 10) to accommodate the wide concentration range. No statistical comparisons were performed for this figure; the plot is intended for descriptive illustration of the pharmacokinetic profiles. The y-axis is shown on a logarithmic scale (base 10). The mean concentration versus time profile of STSA-1002 is shown in Figure 3 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13323816/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-18",
+  "retrieved_at": "2026-09-07T13:09:56.375665+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13323816",
+    "pmid": "42394970",
+    "journal": "Frontiers in pharmacology",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "30019d00a8b616d17fa3f1182f9a58443508ef8adba120f078eb29959032079f",
+  "image_file": "image.jpg"
+}

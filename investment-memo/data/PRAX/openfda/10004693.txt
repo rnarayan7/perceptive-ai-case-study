@@ -1,0 +1,4 @@
+FAERS adverse-event report 10004693 (comparator: lamotrigine)
+Serious: yes
+Reactions: Loss of consciousness, Psychomotor hyperactivity
+Reported drugs: LAMICTAL, LAMICTAL, FRISIUM, FRISIUM

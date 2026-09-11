@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06028230",
+  "title": "A Phase 2 Study to Evaluate the Efficacy and Safety of SAR444656 Compared With Placebo in Adult Participants With Moderate to Severe Hidradenitis Suppurativa",
+  "url": "https://clinicaltrials.gov/study/NCT06028230",
+  "published": "2023-09-08",
+  "retrieved_at": "2026-09-07T06:57:16.410998+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Hidradenitis Suppurativa"
+    ],
+    "interventions": [
+      {
+        "name": "SAR444656 (KT-474)",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Sanofi",
+    "enrollment": 70,
+    "start_date": "2023-09-29",
+    "primary_completion_date": "2025-10-09",
+    "completion_date": "2025-11-12",
+    "first_posted_date": "2023-09-08",
+    "primary_outcomes": [
+      {
+        "measure": "Percent change from baseline in total abscess and inflammatory nodule (AN) count",
+        "timeFrame": "Week 16"
+      }
+    ]
+  },
+  "hash": "f9898e660013688267a5c0ff85492c067cb8caa01d37f54adee849360ca0ac35"
+}

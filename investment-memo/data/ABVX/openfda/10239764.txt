@@ -1,0 +1,4 @@
+FAERS adverse-event report 10239764 (comparator: vedolizumab)
+Serious: yes
+Reactions: Transitional cell carcinoma
+Reported drugs: SPIRIVA, BUDESONIDE., FOLIC ACID., GRAVOL, CALCIUM, GLUCOSAMINE, PULMICORT TURBUHALER, IMODIUM, VITAMIN B12, METHOTREXATE, ATENOLOL., OMEGA 3                            /01334101/, BRICANYL, VEDOLIZUMAB, OMEGA 3                            /01334101/, INDAPAMIDE., AMLODIPINE, ASA, GLUCOSAMINE, VITAMIN C

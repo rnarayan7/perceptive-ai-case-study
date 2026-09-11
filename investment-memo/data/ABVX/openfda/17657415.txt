@@ -1,0 +1,4 @@
+FAERS adverse-event report 17657415 (comparator: ozanimod)
+Serious: yes
+Reactions: Neuralgia
+Reported drugs: PANTOPRAZOL, LEVODOPA, L?THYROXIN, PANTOPRAZOL, OZANIMOD., AZITHROMYCIN ANHYDROUS., SOLEDUM

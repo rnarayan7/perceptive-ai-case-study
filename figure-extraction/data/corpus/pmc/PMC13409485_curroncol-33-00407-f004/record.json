@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13409485_curroncol-33-00407-f004",
+  "figure_type": "kaplan_meier",
+  "title": "Prognostic Impact of the Systemic Immune-Inflammation Index According to Concurrent Chemotherapy Backbone in Stage III Non-Small Cell Lung Cancer.",
+  "caption": "Kaplan–Meier overall survival curves according to integrated systemic immune-inflammation index and chemotherapy backbone groups. Patients with low SII demonstrated more favorable survival outcomes irrespective of chemotherapy regimen. The poorest outcomes were observed in patients with high SII receiving carboplatin/paclitaxel (median overall survival, 9.4 months), whereas the most favorable outcomes were observed in patients with low SII receiving cisplatin/etoposide (median overall survival, 26.1 months). Overall survival distributions differed significantly among the four groups (log-rank  p  = 0.012).",
+  "context": "Kaplan–Meier overall survival curves according to integrated systemic immune-inflammation index and chemotherapy backbone groups. Patients with low SII demonstrated more favorable survival outcomes irrespective of chemotherapy regimen. The poorest outcomes were observed in patients with high SII receiving carboplatin/paclitaxel (median overall survival, 9.4 months), whereas the most favorable outcomes were observed in patients with low SII receiving cisplatin/etoposide (median overall survival, 26.1 months). Overall survival distributions differed significantly among the four groups (log-rank  p  = 0.012). Integrated Analysis of Systemic Immune-Inflammation Index and Chemotherapy Backbone When patients were stratified according to both baseline SII and chemotherapy backbone, significant differences in overall survival were observed among the four groups (log-rank p = 0.012; Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13409485/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:50:36.787400+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "9.4",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "h SII receiving carboplatin/paclitaxel (median overall survival, 9.4 months), whereas the most favorable outcomes w",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "26.1",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "low SII receiving cisplatin/etoposide (median overall survival, 26.1 months). Overall survival distributions differ",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13409485",
+    "pmid": "42505209",
+    "journal": "Current oncology (Toronto, Ont.)",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "5eee87ed21be9358b4f9d34cace5efd730a9613347e28c1f261b39412b559b53",
+  "image_file": "image.jpg"
+}

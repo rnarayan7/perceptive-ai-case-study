@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0e21389b-2f51-4975-aa21-fc5c9dd9f6dc",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0e21389b-2f51-4975-aa21-fc5c9dd9f6dc",
+  "published": "2024-05-17",
+  "retrieved_at": "2026-09-08T08:40:34.885964+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Amneal Pharmaceuticals of New York LLC",
+    "manufacturer_name": "Amneal Pharmaceuticals of New York LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA204857",
+    "route": "ORAL"
+  },
+  "hash": "a2e4a5f7292f17bfd3d3cea146980ed464a3701c97610722d005893e33978806"
+}

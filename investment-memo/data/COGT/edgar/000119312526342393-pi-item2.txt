@@ -1,0 +1,796 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K. Some of the information contained in this discussion and analysis or set forth elsewhere in this Quarterly Report on Form 10-Q, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of certain factors, including but not limited to those set forth under the caption “Risk Factors” in this Quarterly Report on Form 10-Q.
+
+Overview
+
+We are a clinical-stage biotechnology company focused on developing precision therapies for genetically defined diseases. Our approach is to design rational precision therapies that treat the underlying cause of disease and improve the lives of patients. Our most advanced program is bezuclastinib, also known as CGT9486, a highly selective tyrosine kinase inhibitor that is designed to potently inhibit the KIT D816V mutation as well as other mutations in KIT exon 17. In the vast majority of cases, KIT D816V is responsible for driving Systemic Mastocytosis (“SM”), a serious and rare disease caused by unchecked proliferation of mast cells. Exon 17 mutations are also found in patients with advanced gastrointestinal stromal tumors (“GIST”), a type of cancer with strong dependence on oncogenic KIT signaling. Bezuclastinib is a highly selective and potent KIT inhibitor with the potential to provide a new treatment option for these patient populations. We are developing bezuclastinib to treat patients living with Non-Advanced Systemic Mastocytosis (“NonAdvSM”), Advanced Systemic Mastocytosis (“AdvSM”) and GIST. In 2025 we reported positive top-line results from registrational trials in each of these indications, and we subsequently filed three New Drug Applications (each, an “NDA”) that are all currently pending review with the U.S. Food and Drug Administration (“FDA”).
+
+We believe bezuclastinib represents a significant commercial opportunity across each of these indications. Based on internal analyses and external market research, we estimate a global annual market opportunity of over $4 billion for bezuclastinib in combination with sunitinib as a potential second-line treatment for patients with GIST, approximately $3.5 billion for the treatment of patients with NonAdvSM, and approximately $500 million for the treatment of patients with AdvSM. We are building an internal commercial organization and expect to launch bezuclastinib commercially in the United States in the second half of 2026, pending regulatory approval.
+
+In addition to bezuclastinib, we have a growing portfolio of novel targeted therapy candidates. We have an ongoing Phase 1 dose escalation study of our CNS-penetrant, selective mutant ErbB2 inhibitor and a Phase 1 dose escalation study of our potential best-in-class, wild-type-sparing, PI3Kα inhibitor. The Cogent Research Team is also developing additional targeted therapies to help patients fighting serious, genetically driven diseases, including programs targeting mutations in KRAS and JAK2.
+
+Our Pipeline
+
+18
+
+Bezuclastinib - SM
+
+SM is driven by KIT D816V mutations causing a perpetual ‘on’ state within mast cells, a type of white blood cell, leading to proliferation and accumulation in various internal organs and bone marrow. Key biomarkers of SM include but are not limited to, elevated serum tryptase, high mast cell burden in bone marrow and the KIT D816V variant allele frequency. As a highly selective and potent KIT inhibitor, bezuclastinib has the potential to provide a new treatment option for patients with SM. SM occurs when mast cells inappropriately accumulate in various internal organs in the body. Approximately 90% of SM patients present with NonAdvSM and 10% of patients present with AdvSM, a rare and very aggressive form of SM. There are three subtypes of AdvSM: aggressive SM (“ASM”), SM with associated hematologic neoplasm (“SM-AHN”) and mast cell leukemia (“MCL”).
+
+SUMMIT is our registration-directed randomized, global, multicenter, double-blind, placebo-controlled, multi-part Phase 2 clinical trial for patients with NonAdvSM. The study is designed to explore the safety and efficacy of bezuclastinib in patients with moderate to severe NonAdvSM, which includes Indolent Systemic Mastocytosis (“ISM”), Smoldering Systemic Mastocytosis (“SSM”) and Bone Marrow Mastocytosis. APEX is our registration-directed global, open-label, multi-center, Phase 2 clinical trial in patients with AdvSM evaluating the safety, efficacy, pharmacokinetic, and pharmacodynamic profiles of bezuclastinib. We reported top-line results from our SUMMIT trial in July 2025 and full results in December 2025, as well as top-line results from our APEX trial in December 2025 and full results in June 2026, all of which were positive and achieved all primary and key secondary endpoints.
+
+We submitted the first NDA for bezuclastinib in patients with NonAdvSM in December 2025, which was accepted by the FDA in March 2026. The FDA assigned a Prescription Drug User Fee Act ("PDUFA") target action date of December 30, 2026. We submitted an NDA in June 2026 for patients with AdvSM. In October 2025, the FDA granted Breakthrough Therapy Designation for bezuclastinib in NonAdvSM patients previously treated with avapritinib as well as in patients with SSM, both patient populations with no currently approved standard of care. The FDA and European Medicines Agency (“EMA”) have granted orphan drug designation to bezuclastinib for the treatment of Mastocytosis.
+
+In addition, in 2025, we initiated an expanded access program in the United States to allow eligible SM patients to receive investigational bezuclastinib prior to potential regulatory approval.
+
+Bezuclastinib - GIST
+
+We are also pursuing the development of bezuclastinib in combination with sunitinib as a potential second line treatment for patients living with GIST. GIST is a cancer frequently driven by KIT mutations, and resistance to currently available therapeutics is frequently associated with the emergence of other KIT mutations. First-line therapy for the vast majority of GIST patients is imatinib, followed by sunitinib monotherapy as the current second-line therapy for the majority of patients that eventually develop resistance to imatinib.
+
+PEAK is our randomized open-label, global Phase 3 clinical trial designed to evaluate the safety, tolerability, and efficacy of bezuclastinib in combination with sunitinib compared to sunitinib alone in patients with locally advanced, unresectable or metastatic GIST who have received prior treatment with imatinib. We reported top-line results from our PEAK trial in November 2025 and full results in May 2026, which demonstrated a substantial and highly statistically significant clinical benefit on the primary endpoint of progression free survival (“PFS”). Median PFS was 16.5 months for the bezuclastinib combination vs. 9.2 months for sunitinib monotherapy, and the bezuclastinib combination reduced the risk of disease progression or death by 50% compared to sunitinib monotherapy. In January 2026, we announced that the FDA agreed to accept our NDA for bezuclastinib in combination with sunitinib for patients with GIST who have received prior treatment with imatinib under the Real-Time Oncology Review (“RTOR”) program and we submitted our GIST NDA in March 2026 under this program, which was accepted by the FDA with Priority Review in May 2026. The FDA assigned a PDUFA target action date of November 30, 2026. In January 2026, the FDA also granted Breakthrough Therapy Designation (“BTD”) for bezuclastinib in combination with sunitinib for patients with GIST who have received prior treatment with imatinib. Bezuclastinib has been granted orphan drug designation for the treatment of GIST by the FDA under the Orphan Drug Act and by the EMA.
+
+During the second quarter of 2026, we initiated a Phase 2 trial investigating the benefit of the bezuclastinib plus sunitinib combination for first-line GIST patients with exon 9 mutations who are naive to, or recently initiated treatment with, imatinib.
+
+19
+
+In 2025, we initiated an expanded access program in the United States for patients affected with advanced, metastatic, and/or unresectable GIST, who are intolerant to or have experienced disease progression on prior imatinib therapy, to receive investigational bezuclastinib prior to potential regulatory approval.
+
+Other Bezuclastinib Information
+
+Worldwide rights to develop and commercialize bezuclastinib are exclusively licensed from Plexxikon Inc., a member of the Daiichi Sankyo Group (“Plexxikon”). Under the terms of the license agreement, Plexxikon received an upfront payment and is eligible for additional development milestones of up to $7.5 million upon the satisfaction of certain clinical milestones and up to $25.0 million upon the satisfaction of certain regulatory milestones. During the second quarter of 2022, as a result of the progression of the PEAK study, the first clinical milestone was achieved, resulting in payment of $2.5 million to Plexxikon in June 2022. In the fourth quarter of 2025, $5.0 million became payable upon the achievement of certain regulatory milestones and was paid in the first quarter of 2026. An additional $15.0 million may become payable in the next twelve months as a result of the achievement of additional regulatory milestones. Plexxikon is also eligible to receive tiered royalties ranging from a low-single digit percentage to a high-single digit percentage on annual net sales of products, on a product-by-product and country-by-country basis until the later of the expiration of the last valid claim of a licensed Plexxikon patent covering the applicable product in a country or the tenth anniversary of the first commercial sale of the product in that country.
+
+Patents protecting bezuclastinib include composition of matter claims which have been issued in the United States and other key territories and provide exclusivity through 2033 and potentially beyond through patent term extensions. In addition, we have pending patent applications in the United States and other key territories that seek to protect our optimized formulation of bezuclastinib, which could potentially provide exclusivity through at least 2043, as well as a pending U.S. provisional patent application directed to methods of administering bezuclastinib, which could potentially provide exclusivity through at least 2046.
+
+CGT4255 (ErbB2)
+
+We are also advancing a novel, ErbB2 mutant program, which is focused on actionable and underserved mutations in a variety of solid tumor systemic and CNS involved indications. HER2 alterations such as amplification, overexpression, insertions, and point mutations, are established oncogenic drivers in many solid tumors. Activating HER2 mutations are found in 2-4% of advanced lung cancers and have emerged as mechanisms of acquired resistance to targeted therapies. Patients with HER2 mutant lung tumors develop more brain metastasis during treatment than patients with any other oncogenic drivers in lung cancer. Addressing brain metastasis in this group of patients remains a clinical challenge with limited therapeutic options. Approved HER2 tyrosine kinase inhibitors have inferior potency against key mutations and lack sufficient brain penetration to be an impactful treatment option for patients with brain metastasis. We received clearance from the FDA on our investigational new drug application (“IND”) submission for CGT4255 and have an ongoing Phase 1 dose escalation study.
+
+CGT6297 (PI3Kα)
+
+Our research team is developing a potential best-in-class, wild-type-sparing, PI3Kα inhibitor that provides coverage of both the H1047R mutation as well as E542K and E545K helical mutants, which affects >30,000 cancer patients each year. The phosphoinositide 3-kinase (“PI3K”) pathway is a key cell cycle regulating pathway that has an established role in tumor growth and development. PI3Kα mutations are highly prevalent in many solid tumors and are present in 36% of all breast cancer patients. The approved agents for these patients often lead to dose limitations, resulting from activity against wild-type PI3Kα. IND-enabling studies have been completed for CGT6297 and we submitted an IND application for this program in the fourth quarter of 2025. We have an ongoing Phase 1 dose escalation study.
+
+Research Programs
+
+KRAS
+
+Our research team is developing a potent and selective KRAS inhibitor. Mutations in KRAS are among the most prevalent mutations found in cancer, occurring most often in colorectal cancer, non-small cell lung cancer and pancreatic cancer. We plan to submit an IND for this program in 2026.
+
+20
+
+JAK2
+
+Our research team is developing a novel, wild-type-sparing, JAK2 V617F mutant-selective inhibitor. The JAK2 V617F mutation is the most prevalent molecular abnormality in BCR-ABL-negative myeloproliferative neoplasms, occurring in approximately 95% of patients with polycythemia vera, and 50% of patients with essential thrombocythemia or primary myelofibrosis. We plan to submit an IND for this program in 2026.
+
+Financial Operations Overview
+
+Since our inception in 2014, we have focused significant efforts and financial resources on establishing and protecting our intellectual property portfolio, conducting research and development of our product candidates, manufacturing drug product material for use in preclinical studies and clinical trials, staffing our company, and raising capital. We do not have any products approved for sale and have not generated any revenue from product sales. Our net loss was $193.8 million for the six months ended June 30, 2026 compared to net loss of $145.5 million for the six months ended June 30, 2025. As of June 30, 2026, we had an accumulated deficit of $1,382.2 million. We expect to continue to incur significant expenses and operating losses for at least the next several years. We expect that our expenses and capital requirements will increase substantially in connection with our ongoing activities, particularly if and as we:
+
+•
+seek regulatory approvals for any product candidates that successfully complete clinical trials;
+
+•
+establish a sales, marketing, and distribution infrastructure to commercialize any products for which we may obtain regulatory approval;
+
+•
+establish a commercial manufacturing source and secure supply chain capacity sufficient to provide commercial quantities of any product candidates for which we may obtain regulatory approval;
+
+•
+maintain, expand, and protect our intellectual property portfolio;
+
+•
+add operational, financial, and management information systems and personnel, including personnel to support our product development and planned future commercialization efforts;
+
+•
+initiate and increase enrollment for our existing and planned clinical trials for our product candidates;
+
+•
+continue to discover and develop additional product candidates;
+
+•
+acquire or in-license other product candidates and technologies; and
+
+•
+hire additional research, clinical, scientific, and commercial personnel.
+
+We will not generate revenue from product sales unless and until we obtain regulatory approval for our product candidates. If we obtain regulatory approval for any of our product candidates and do not enter into a commercialization partnership, we expect to incur significant expenses related to developing our internal commercialization capability to support product sales, marketing, and distribution.
+
+Because of the numerous risks and uncertainties associated with pharmaceutical product development, we are unable to accurately predict the timing or amount of increased expenses or when, or if, we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+
+As of June 30, 2026, we had cash, cash equivalents and marketable securities of $792.3 million. We believe that our cash, cash equivalents and marketable securities, with the $71.4 million net proceeds from shares sold under our ATM after the end of the quarter, will be sufficient to fund our operating expenses and capital expenditure requirements into late 2028, including through potential FDA approval of bezuclastinib and commercial launch for SM and GIST.
+
+21
+
+Components of Our Results of Operations
+
+Operating Expenses
+
+Research and Development Expenses
+
+Research and development expenses consist primarily of costs incurred for our research activities, including our drug discovery efforts, and the development of our product candidates, which include:
+
+•
+expenses incurred in connection with the discovery, preclinical and clinical development of our product candidates, including under agreements with third parties, such as consultants, contractors and contract research organizations;
+
+•
+the cost of developing and manufacturing material for use in our preclinical studies and clinical trials, including under agreements with consultants and third party contractors and contract manufacturing organizations;
+
+•
+employee-related expenses, including salaries, related benefits and stock-based compensation expense for employees engaged in research and development functions;
+
+•
+laboratory supplies and animal care;
+
+•
+facilities, depreciation and other expenses, which include direct and allocated expenses for rent and maintenance of facilities and insurance; and
+
+•
+payments made under third-party licensing agreements.
+
+We do not allocate employee costs, laboratory supplies, software and facilities, including depreciation or other indirect costs, to specific product development programs because these costs are deployed across multiple product development programs and, as such, are not separately classified. We expense research and development costs as incurred. Advance payments that we make for goods or services to be received in the future for use in research and development activities are recorded as prepaid expenses. The prepaid amounts are expensed as the related goods are delivered or the services are performed.
+
+Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect that our research and development expenses will increase substantially in connection with our planned clinical and preclinical development activities in the near term and in the future. At this time, we cannot reasonably estimate or know the nature, timing, and costs of the efforts that will be necessary to complete the preclinical and clinical development of any of our product candidates. The successful development and commercialization of our product candidates is highly uncertain. This is due to the numerous risks and uncertainties associated with product development and commercialization, including the following:
+
+•
+the timing and progress of our preclinical and clinical development activities;
+
+•
+the number and scope of preclinical and clinical programs we decide to pursue;
+
+•
+the progress of the development efforts of parties with whom we have entered, or may enter, into collaboration arrangements;
+
+•
+our ability to maintain our current research and development programs and to establish new ones;
+
+•
+the enrollment rates in our clinical trials;
+
+•
+our ability to establish new licensing or collaboration arrangements;
+
+•
+the future productivity of the Cogent Research Team in Boulder, CO and its ability to discover new product candidates and build our pipeline;
+
+•
+the successful completion of clinical trials with safety, tolerability, and efficacy profiles that are satisfactory to the FDA or any comparable foreign regulatory authority;
+
+•
+the receipt of regulatory approvals from applicable regulatory authorities;
+
+•
+the success in establishing and operating a manufacturing facility, or securing manufacturing supply through relationships with third parties;
+
+•
+our ability to obtain and maintain patents, trade secret protection, and regulatory exclusivity, both in the United States and internationally;
+
+22
+
+•
+our ability to protect our rights in our intellectual property portfolio;
+
+•
+the commercialization of our product candidates, if and when approved;
+
+•
+the acceptance of our product candidates, if approved, by patients, the medical community, and third-party payors;
+
+•
+competition with other products; and
+
+•
+a continued acceptable safety profile of our therapies following approval.
+
+A change in the outcome of any of these variables with respect to the development of any of our product candidates could significantly change the costs and timing associated with the development of that product candidate. We may never succeed in obtaining regulatory approval for any of our product candidates.
+
+General and Administrative Expenses
+
+General and administrative expenses consist primarily of salaries and related costs, including stock-based compensation, for personnel in executive, finance, commercial and administrative functions. General and administrative expenses also include direct and allocated facility-related costs as well as professional fees for legal, patent, consulting, investor and public relations, accounting, and audit services. We anticipate that our general and administrative expenses will increase in the future as a result of the costs associated with the expansion of operations to support our ongoing discovery, preclinical and clinical activities and planned commercial launch.
+
+Interest Income
+
+Interest income consists of interest earned on our cash equivalents and marketable securities balances.
+
+Interest Expense
+
+Interest expense consists of interest incurred on the Notes and the Credit Facility (as defined below) and associated amortization of issuance costs and the accretion of debt discount.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists of miscellaneous income and expense unrelated to our core operations.
+
+Income Taxes
+
+Since our inception, we have not recorded any current or deferred tax benefit for the net losses we have incurred in each year or for our tax credits generated, as we believe, based upon the weight of available evidence, that it is more likely than not that our net operating loss carryforwards and tax credits will not be realized. Accordingly, a full valuation allowance has been established against the deferred tax assets as of December 31, 2025. We reevaluate the utilization of net operating loss carryforwards and tax credits at each reporting period. As of December 31, 2025, we had U.S. federal and state net operating loss carryforwards of $428.3 million and $170.8 million, respectively, which may be available to offset future taxable income and begin to expire in 2035. Of the federal net operating loss carryforwards at December 31, 2025, $425.0 million is available to be carried forward indefinitely but we are permitted to offset a maximum of 80% of taxable income per year. As of December 31, 2025, we had U.S. federal and state research and development tax credit carryforwards of $28.8 million and $6.0 million, respectively, which may be available to offset future income tax liabilities and begin to expire in 2040 and 2035, respectively. We also had federal orphan drug tax credits of $37.1 million which may be available to offset future income tax liabilities and begin to expire in 2041.
+
+Utilization of the U.S. federal and state net operating loss carryforwards and tax credit carryforwards may be subject to a substantial annual limitation under Section 382 of the Internal Revenue Code of 1986, and corresponding provisions of state law, due to ownership changes that have occurred previously or that could occur in the future. These ownership changes may limit the amount of carryforwards that can be utilized annually to offset future taxable income. In general, an ownership change, as defined by Section 382, results from transactions increasing the ownership of certain stockholders or public groups in the stock of a corporation by more than 50% over a three-year period.
+
+We have recorded a full valuation allowance against our net deferred tax assets at each balance sheet date.
+
+23
+
+Results of Operations
+
+Comparison of the Three Months Ended June 30, 2026 and 2025
+
+The following table summarizes our results of operations for the three months ended June 30, 2026 and 2025:
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+(in thousands)
+
+Operating expenses:
+
+Research and development
+
+$
+
+70,811
+
+$
+
+62,203
+
+$
+
+8,608
+
+General and administrative
+
+31,827
+
+13,379
+
+18,448
+
+Total operating expenses
+
+102,638
+
+75,582
+
+27,056
+
+Loss from operations
+
+(102,638
+
+)
+
+(75,582
+
+)
+
+(27,056
+
+)
+
+Other income:
+
+Interest income
+
+7,461
+
+2,373
+
+5,088
+
+Interest expense
+
+(1,217
+
+)
+
+(314
+
+)
+
+(903
+
+)
+
+Other income (expense), net
+
+(11
+
+)
+
+(6
+
+)
+
+(5
+
+)
+
+Total other income, net
+
+6,233
+
+2,053
+
+4,180
+
+Net loss
+
+$
+
+(96,405
+
+)
+
+$
+
+(73,529
+
+)
+
+$
+
+(22,876
+
+)
+
+Research and Development Expenses
+
+The following table summarizes our research and development expenses for the three months ended June 30, 2026 and 2025:
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+(in thousands)
+
+Direct external research and development expenses:
+
+Bezuclastinib
+
+$
+
+25,593
+
+$
+
+27,115
+
+$
+
+(1,522
+
+)
+
+Early-stage, preclinical and discovery programs
+
+11,791
+
+10,039
+
+1,752
+
+Unallocated expenses:
+
+Personnel related (including stock-based compensation)
+
+26,204
+
+19,534
+
+6,670
+
+Laboratory supplies, facility related and other
+
+7,223
+
+5,515
+
+1,708
+
+Total research and development expenses
+
+$
+
+70,811
+
+$
+
+62,203
+
+$
+
+8,608
+
+Total research and development expense increased by $8.6 million for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The increase was primarily driven by costs to support the SUMMIT, PEAK and APEX clinical programs, regulatory activities associated with potential approvals of bezuclastinib, continued investment in the company's early-stage research pipeline, and pre-approval manufacturing costs that would otherwise be capitalized following anticipated FDA approval. The change also includes an increase in stock-based compensation expense of $3.6 million for the three months ended June 30, 2026 as compared to the three months ended June 30, 2025.
+
+General and Administrative Expenses
+
+General and administrative expenses for the three months ended June 30, 2026 were $31.8 million, compared to $13.4 million for the three months ended June 30, 2025. The increase in general and administrative expenses was driven by continued investments in commercial readiness, including personnel and infrastructure to support the potential launch of bezuclastinib, as well as overall organizational growth.
+
+Interest Income
+
+Interest income for the three months ended June 30, 2026 was $7.5 million, compared to $2.4 million for the three months ended June 30, 2025. The increase is due to higher invested balances in cash equivalents and marketable securities.
+
+24
+
+Interest Expense
+
+Interest expense for the three months ended June 30, 2026 was $1.2 million related to the Notes and associated amortization of financing costs and the accretion of debt discount. Interest expense for the three months ended June 30, 2025 was $0.3 million related to theCredit Facility and associated amortization of financing costs and the accretion of debt discount.
+
+Other Income (Expense), Net
+
+Other income (expense), net for the three months ended June 30, 2026 and 2025 was not material and represented miscellaneous expense.
+
+Comparison of the Six Months Ended June 30, 2026 and 2025
+
+The following table summarizes our results of operations for the six months ended June 30, 2026 and 2025:
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+(in thousands)
+
+Operating expenses:
+
+Research and development
+
+$
+
+146,176
+
+$
+
+125,232
+
+$
+
+20,944
+
+General and administrative
+
+60,069
+
+25,283
+
+34,786
+
+Total operating expenses
+
+206,245
+
+150,515
+
+55,730
+
+Loss from operations
+
+(206,245
+
+)
+
+(150,515
+
+)
+
+(55,730
+
+)
+
+Other income:
+
+Interest income
+
+15,069
+
+5,325
+
+9,744
+
+Interest expense
+
+(2,430
+
+)
+
+(314
+
+)
+
+(2,116
+
+)
+
+Other income (expense), net
+
+(151
+
+)
+
+(11
+
+)
+
+(140
+
+)
+
+Total other income, net
+
+12,488
+
+5,000
+
+7,488
+
+Net loss
+
+$
+
+(193,757
+
+)
+
+$
+
+(145,515
+
+)
+
+$
+
+(48,242
+
+)
+
+Research and Development Expenses
+
+The following table summarizes our research and development expenses for the six months ended June 30, 2026 and 2025:
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+(in thousands)
+
+Direct external research and development expenses:
+
+Bezuclastinib
+
+$
+
+53,695
+
+$
+
+55,212
+
+$
+
+(1,517
+
+)
+
+Early-stage, preclinical and discovery programs
+
+25,766
+
+19,817
+
+5,949
+
+Unallocated expenses:
+
+Personnel related (including stock-based compensation)
+
+53,163
+
+39,662
+
+13,501
+
+Laboratory supplies, facility related and other
+
+13,552
+
+10,541
+
+3,011
+
+Total research and development expenses
+
+$
+
+146,176
+
+$
+
+125,232
+
+$
+
+20,944
+
+Total research and development expense increased by $20.9 million for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The increase was primarily driven by costs to support the SUMMIT, PEAK and APEX clinical programs, regulatory activities associated with potential approvals of bezuclastinib, continued investment in the company's early-stage research pipeline, and pre-approval manufacturing costs that would otherwise be capitalized following anticipated FDA approval. The change also includes an increase in stock-based compensation expense of $7.3 million for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025.
+
+25
+
+General and Administrative Expenses
+
+General and administrative expenses for the six months ended June 30, 2026 were $60.1 million, compared to $25.3 million for the six months ended June 30, 2025. The increase in general and administrative expenses was driven by continued investments in commercial readiness, including personnel and infrastructure to support the potential launch of bezuclastinib, as well as overall organizational growth.
+
+Interest Income
+
+Interest income for the six months ended June 30, 2026 was $15.1 million, compared to $5.3 million for the six months ended June 30, 2025. The increase is due to higher invested balances in cash equivalents and marketable securities.
+
+Interest Expense
+
+Interest expense for the six months ended June 30, 2026 was $2.4 million related to the Notes and associated amortization of issuance costs and the accretion of debt discount. Interest expense for the six months ended June 30, 2025 was $0.3 million related to the Credit Facility and associated amortization of financing costs and the accretion of debt discount.
+
+Other Income (Expense), Net
+
+Other income (expense), net for the six months ended June 30, 2026 and 2025 was not material and represented miscellaneous expense.
+
+Liquidity and Capital Resources
+
+Since our inception, we have incurred significant operating losses. We have not yet commercialized any of our product candidates and have generated only limited revenue to date from funding arrangements with our former collaboration partner. While we may generate revenue in the future from the sale of a product candidate, any such revenue would depend on successful regulatory approval and commercial launch. We have historically funded our operations primarily through the public offering and private placement of our securities, issuance of debt, and consideration received from our collaborative agreements.
+
+On May 6, 2022, we entered into a Sales Agreement (the “Sales Agreement”) with Guggenheim Securities, LLC (“Guggenheim Securities”), pursuant to which we may issue and sell, from time to time, shares of our common stock having an aggregate offering price of up to $75.0 million through Guggenheim Securities, as the sales agent, in an at the market offering (“ATM”) registered under a shelf registration statement on Form S-3. On November 7, 2025, we amended the Sales Agreement to increase the aggregate offering price to up to $300.0 million. No shares were sold under the Sales Agreement during the three months ended June 30, 2026. During the six months ended June 30, 2026, 1,340,699 shares were sold under the Sales Agreement for net proceeds of approximately $45.7 million. As of  June 30, 2026, $88.6 million remained unsold and available for sale under the Sales Agreement. Subsequent to June 30, 2026, 1,743,528 shares of common stock were sold under the Sales Agreement for net proceeds of approximately $71.4 million.
+
+As of June 30, 2026, we have 185,967,909 shares outstanding on an as-converted basis, which consists of (i) 171,598,409 shares of common stock outstanding, (ii) 39,414 shares of Series A Non-Voting Convertible Preferred Stock that are convertible into 9,853,500 shares of common stock and (iii) 4,516 shares of Series B Non-Voting Convertible Preferred Stock that are convertible into 4,516,000 shares of common stock.
+
+As of June 30, 2026, we had cash, cash equivalents and marketable securities of $792.3 million. We believe that our cash, cash equivalents and marketable securities, with the $71.4 million net proceeds from shares sold under our ATM after the end of the quarter, will be sufficient to fund our operating expenses and capital expenditure requirements into late 2028, including through potential FDA approval of bezuclastinib and commercial launch for SM and GIST.
+
+Cash Flows
+
+The following table summarizes our sources and uses of cash for each of the periods presented:
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+(in thousands)
+
+Net cash used in operating activities
+
+$
+
+(164,154
+
+)
+
+$
+
+(121,053
+
+)
+
+Net cash (used in) provided by investing activities
+
+(22,177
+
+)
+
+78,289
+
+Net cash provided by financing activities
+
+55,491
+
+72,197
+
+Net (decrease) increase in cash, cash equivalents and restricted cash
+
+$
+
+(130,840
+
+)
+
+$
+
+29,433
+
+26
+
+Operating Activities
+
+Net cash used in operating activities was $164.2 million during the six months ended June 30, 2026 and primarily consisted of a net loss of $193.8 million, adjusted for changes in our net working capital and other non-cash items, including stock-based compensation of $34.0 million.
+
+Net cash used in operating activities was $121.1 million during the six months ended June 30, 2025 and primarily resulted from our net loss of $145.5 million, adjusted for changes in our net working capital and other non-cash items, including stock-based compensation of $19.7 million.
+
+Investing Activities
+
+During the six months ended June 30, 2026, net cash used in investing activities was $22.2 million, which consisted of purchases of marketable securities and property and equipment, partially offset by maturities and sales of marketable securities.
+
+During the six months ended June 30, 2025, net cash provided by investing activities was $78.3 million which consisted of maturities and sales of marketable securities, partially offset by purchases of property and equipment and marketable securities.
+
+Financing Activities
+
+During the six months ended June 30, 2026, net cash provided by financing activities was $55.5 million, which consisted of  $45.7 million in proceeds from the issuance of common stock under the ATM, net of paid issuance costs, proceeds from the issuance of common stock upon stock option exercises, and proceeds from the issuance of common stock under the Employee Stock Purchase Plan.
+
+During the six months ended June 30, 2025, net cash provided by financing activities was $72.2 million, which consisted of $47.2 million in proceeds from the Credit Facility, net of paid issuance costs, $24.3 million in proceeds from the issuance of common stock under the ATM, net of paid issuance costs, proceeds from the issuance of common stock under the 2018 Employee Stock Purchase Plan and proceeds from the issuance of common stock upon stock option exercises.
+
+Funding Requirements
+
+We expect our expenses to increase in connection with our ongoing activities, particularly as we prepare to commercialize bezuclastinib (if approved), advance the clinical development of our current and any future product candidates and conduct additional research, development and preclinical activities. The timing and amount of our operating expenditures will depend largely on:
+
+•
+any delay in our regulatory filings for our product candidates and any adverse development or perceived adverse development with respect to the applicable regulatory authority’s review of such filings, including without limitation the FDA’s issuance of a “refusal to file” letter or a request for additional information;
+
+•
+adverse regulatory decisions, including failure to receive regulatory approval of our product candidates;
+
+•
+the initiation, progress, timing, and completion of preclinical studies and clinical trials for our current and future potential product candidates;
+
+•
+our ability to obtain adequate product supply for any approved product or our inability to do so at acceptable prices;
+
+•
+our ability to establish a sales, marketing, and distribution infrastructure to commercialize any products for which we may obtain regulatory approval;
+
+•
+our ability to commercialize our product candidates or gain market acceptance by physicians, patients, third-party payors, and others in the medical community;
+
+•
+adverse results or delays in clinical trials;
+
+•
+our decision to initiate a clinical trial, not to initiate a clinical trial, or to terminate an existing clinical trial;
+
+•
+changes in laws or regulations applicable to our products, including but not limited to clinical trial requirements for approvals;
+
+•
+adverse developments concerning our manufacturers;
+
+•
+our ability to establish collaborations, if desired or needed;
+
+•
+additions or departures of key scientific or management personnel; and
+
+•
+unanticipated serious safety concerns related to the use of our product candidates.
+
+27
+
+As of June 30, 2026, we had cash, cash equivalents and marketable securities of $792.3 million. We believe that our cash, cash equivalents and marketable securities, with the $71.4 million net proceeds from shares sold under our ATM after the end of the quarter, will be sufficient to fund our operating expenses and capital expenditure requirements into late 2028, including through potential FDA approval of bezuclastinib and commercial launch for SM and GIST. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect.
+
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our operations through a combination of equity offerings, additional debt financings, collaborations, strategic alliances, and marketing, distribution, or licensing arrangements. To the extent that we raise additional capital through the sale of equity or convertible debt securities, existing ownership interests will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of common stockholders. Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making acquisitions or capital expenditures, or declaring dividends. If we raise additional funds through collaborations, strategic alliances, marketing, distribution, or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or drug candidates, or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings or other arrangements when needed, we may be required to delay, limit, reduce, or terminate our research, product development, or future commercialization efforts, or grant rights to develop and market drug candidates that we would otherwise prefer to develop and market ourselves.
+
+Critical Accounting Estimates
+
+There have been no material changes in our critical accounting policies during the six months ended June 30, 2026, as compared to those described under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies and Significant Judgments and Estimates” in our Annual Report on Form 10-K.
+
+Off-Balance Sheet Arrangements
+
+We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations of the SEC.
+
+Contractual Obligations and Commitments
+
+A description of our material cash requirements, including commitments for capital expenditures, is described above and disclosed in Note 7 and Note 8 to our condensed consolidated financial statements
+appearing elsewhere in this Quarterly Report on Form 10-Q.
+
+Recently Issued Accounting Pronouncements
+
+A description of recently issued accounting pronouncements that may potentially impact our financial position and results of operations is disclosed in Note 2 to our condensed consolidated financial statements appearing elsewhere in this Quarterly Report on Form 10-Q.

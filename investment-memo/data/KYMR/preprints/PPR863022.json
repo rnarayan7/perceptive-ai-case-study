@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR863022",
+  "title": "Screening for breast cancer with mammography",
+  "url": "https://europepmc.org/article/PPR/PPR863022",
+  "published": "2024-06-06",
+  "retrieved_at": "2026-09-08T10:06:22.342658+00:00",
+  "metadata": {
+    "doi": "10.1101/2024.06.06.24308542",
+    "epmc_id": "PPR863022",
+    "epmc_source": "PPR",
+    "authors": "Gotzsche PC, Jorgensen KJ.",
+    "cited_by": 0
+  },
+  "hash": "ec81023f8939ac88012f010ef892047795e8042ee422a1ce5cdb6b666a09866c"
+}

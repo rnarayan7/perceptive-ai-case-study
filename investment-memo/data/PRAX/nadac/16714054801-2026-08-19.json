@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "16714054801-2026-08-19",
+  "title": "NADAC price: LACOSAMIDE 50 MG TABLET",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:33.681740+00:00",
+  "metadata": {
+    "ndc": "16714054801",
+    "ndc_description": "LACOSAMIDE 50 MG TABLET",
+    "nadac_per_unit": 0.11527,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "lacosamide"
+  },
+  "hash": "17b10f5214b4906a482bbad80dd89f95ea78e7c6dd7cb502faf16a2ee4e4ae50"
+}

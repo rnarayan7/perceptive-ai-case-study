@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OR_ART01_CRDPREV_2020_2020_OVR",
+  "title": "Arthritis - Oregon - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203677+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Oregon",
+    "location_abbr": "OR",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "23.3",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "5db3813a28585a46151d2399fddc88b943c55921c95f269d7f42c0cf9c85e13c"
+}

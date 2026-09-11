@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig148",
+  "figure_type": "unknown",
+  "title": "nda_bla_168489 figure 148",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377\n               OPDIVO (nivolumab) and Yervoy (ipilimumab)\n                    pediatric patients weighing < 40 kg.\n               •    Approved flat adult dosages for pediatric patients with body weight ≥ 40 kg.\n\n               Refer to Section 6.1.1. for more details.\n\n                           6.3.2.3. Is an alternative dosing regimen or management strategy\n                                 required for subpopulations based on intrinsic patient factors (e.g.\n                                 race, ethnicity, age, performance status, genetic subpopulations,\n                                 etc.)?\n\n               The Applicant’s Position:\n               Yes. For adolescents ≥ 12 years old and weighing < 40 kg, body weight based dosing (3 mg/kg\n               Q2W or 6 mg/kg Q4W) is recommended for nivo mono and for nivolumab maintenance dosing\n               after the combination as described in Section 6.2.2.2.\n               Age and race were evaluated as covariates in both PPK and exposure-response safety analyses.\n               (See Section 6.3.1 for interpretation of covariate effects, and Sections 19.4.1 and 19.4.2 for\n               detailed distributions in the analysis datasets).\n\n               The FDA’s Assessment:\n               FDA agrees with the Applicant’s position.\n\n               The Applicant’s PPK analyses were conducted in patients with age range 1 to <12 years, 12 to\n               <18 years and 18 to ≤30 years. Pediatric patients (12 years and older) with advanced solid\n               tumors have lower CL and VC for both nivolumab and ipilimumab than adults with melanoma\n               after accounting for the effect of body weight. This higher nivolumab exposure in pediatric\n               patients (12 years and older) is expected only in the lowest body weight band (40-60 kg) and\n               supports a body weight-based dosing regimens for pediatric patients weighing < 40 kg. The\n               higher nivolumab or ipilimumab exposures at higher body weight band (weighing >80 kg) for\n               pediatric patients (12 years and older) treated with nivolumab + ipilimumab combination\n               therapy could be due to the drug-drug interactions between nivolumab and ipilimumab. Refer\n               to Section 6.1.1. for more details.\n\n\n                           6.3.2.4. Are there clinically relevant food-drug or drug-drug interactions,\n                                 and what is the appropriate management strategy?\n\n               The Applicant’s Position:\n               No. There are no clinical studies evaluating food-drug interactions, as nivolumab is an IgG4\n               kappa immunoglobin. There are no drug-drug interactions with nivo mono and nivo + ipi, via\n               PPK evaluation.\n               The FDA’s Assessment:\n               FDA agrees with the Applicant’s position.\n\n                                                                 74\n                                           Version date: June 2022 (ALL NDA/ BLA reviews)\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\n\nReference ID: 5127294\n\f\n7. Sources of Clinical Data\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.078623+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "f011a6b5162fec851474b507db138e81ba31d58f118d09927eccecc9df3922f0",
+  "image_file": "image.png"
+}

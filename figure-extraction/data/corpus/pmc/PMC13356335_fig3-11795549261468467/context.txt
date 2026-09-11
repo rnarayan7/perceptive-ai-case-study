@@ -1,0 +1,1 @@
+Kaplan-Meier curve for overall survival The median OS was 7.5 months (95% CI, 5.9-9.1); the 6-month OS rate was 60% and the 12-month OS rate was 30.9% ( Figure 3 ).

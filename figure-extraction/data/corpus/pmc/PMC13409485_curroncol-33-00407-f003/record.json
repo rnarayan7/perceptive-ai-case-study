@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13409485_curroncol-33-00407-f003",
+  "figure_type": "kaplan_meier",
+  "title": "Prognostic Impact of the Systemic Immune-Inflammation Index According to Concurrent Chemotherapy Backbone in Stage III Non-Small Cell Lung Cancer.",
+  "caption": "Kaplan–Meier overall survival curves according to concurrent chemotherapy backbone. Patients receiving cisplatin/etoposide demonstrated numerically longer overall survival than those receiving carboplatin/paclitaxel (median overall survival: 21.9 vs. 13.9 months), although the difference did not reach statistical significance (log-rank  p  = 0.163).",
+  "context": "Kaplan–Meier overall survival curves according to concurrent chemotherapy backbone. Patients receiving cisplatin/etoposide demonstrated numerically longer overall survival than those receiving carboplatin/paclitaxel (median overall survival: 21.9 vs. 13.9 months), although the difference did not reach statistical significance (log-rank  p  = 0.163). Although a numerical advantage was observed for cisplatin/etoposide, the difference was not statistically significant (log-rank p = 0.163; Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13409485/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:50:36.786278+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13409485",
+    "pmid": "42505209",
+    "journal": "Current oncology (Toronto, Ont.)",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "00df585b5d9db9fc8fed39c82111a846bbf652557ef09c8752685ff259f3f46a",
+  "image_file": "image.jpg"
+}

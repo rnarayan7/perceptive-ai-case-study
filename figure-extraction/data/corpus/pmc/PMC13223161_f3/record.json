@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13223161_f3",
+  "figure_type": "forest",
+  "title": "Circulating tumor DNA and prognosis in gastric cancer patients undergoing surgery: meta-analysis and trial sequential analysis.",
+  "caption": "Forest plot of the pooled HR for DFS.",
+  "context": "Forest plot of the pooled HR for DFS. The combined HR was 2.36 (95% CI: 1.69–3.29) under a random-effects model ( Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223161/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T13:05:29.541559+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "2.36 (95% CI 1.69-3.29)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "of the pooled HR for DFS. The combined HR was 2.36 (95% CI: 1.69–3.29) under a random-effects model ( Figure",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13223161",
+    "pmid": "42232546",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "7796154e0a772a56d5c73f3685b28711ff68eb7dc11377458a7c947f780910f5",
+  "image_file": "image.jpg"
+}

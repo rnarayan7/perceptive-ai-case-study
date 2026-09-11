@@ -1,0 +1,1 @@
+Kaplan–Meier curve of overall survival according to APC mutation status. The median OS was not reached (95% CI, 31.5–NA) in patients with the APC mutation, whereas it was 37.3 months (95% CI, 23.4–NA) in those with APC-wild type tumors ( Table 3 ), showing a significant difference between the groups (HR 0.41, 95% CI 0.19–0.91, p = 0.024; Figure 2 ).

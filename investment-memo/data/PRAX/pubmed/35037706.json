@@ -1,0 +1,16 @@
+{
+  "company": "PRAX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "35037706",
+  "title": "The novel persistent sodium current inhibitor PRAX-562 has potent anticonvulsant activity with improved protective index relative to standard of care sodium channel blockers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-07T12:53:46.202872+00:00",
+  "metadata": {
+    "journal": "Epilepsia",
+    "year": "2022",
+    "pmid": "35037706"
+  },
+  "hash": "2960e0e6b9043f065ca1081f7b9f32a4098b7a64a3eba53252dd45c19a515d22"
+}

@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "27999038",
+  "title": "Pharmacokinetics and tolerability of ABX464, a novel first-in-class compound to treat HIV infection, in healthy HIV-uninfected subjects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27999038/",
+  "published": "2017-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.559417+00:00",
+  "metadata": {
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "year": "2017",
+    "pmid": "27999038"
+  },
+  "hash": "57e5fdd1b1d4b3b6ff7c50657d3800587c22aff0c830bbb9d9c5ab6cef46e215"
+}

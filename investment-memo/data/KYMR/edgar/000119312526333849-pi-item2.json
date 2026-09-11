@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000119312526333849-pi-item2",
+  "title": "Kymera Therapeutics, Inc. 10-Q (2026-08-05) - Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/0001193125-26-333849-index.htm",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-07T12:31:02.394950+00:00",
+  "metadata": {
+    "accession": "0001193125-26-333849",
+    "cik": 1815442,
+    "form": "10-Q",
+    "primary_document": "kymr-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-05",
+    "items": "",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/kymr-20260630.htm",
+    "section": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+    "section_key": "pi-item2"
+  },
+  "hash": "546b0edf4a18de9484f6fd00a2db285ea2afbefe118e92ab87ec96af766b675c"
+}

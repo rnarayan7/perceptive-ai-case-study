@@ -1,0 +1,69 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12823314_psp470185-fig-0002",
+  "figure_type": "pk_logscale",
+  "title": "Albumin Levels Are Predictive of Cachexia-Induced Time-Dependent Clearance of Therapeutic Antibodies: A Physiologically Based Pharmacokinetic Model of Durvalumab.",
+  "caption": "PBPK model‐simulated serum albumin level over time (black line) fitted to albumin in patients with advanced cancer treated with durvalumab (black circles).",
+  "context": "PBPK model‐simulated serum albumin level over time (black line) fitted to albumin in patients with advanced cancer treated with durvalumab (black circles). The model fit of albumin concentration in the plasma matches well to the mean albumin level observed in patients who received durvalumab up to 450 days after the first dose (Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823314/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:04.418182+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Albumin at ~6 weeks",
+      "value": "35.4 g/L",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Albumin at ~15 weeks",
+      "value": "37.8 g/L",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Albumin at ~28 weeks",
+      "value": "38.9 g/L",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Albumin at ~48 weeks",
+      "value": "39.9 g/L",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Albumin at ~64 weeks",
+      "value": "40.4 g/L",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC12823314",
+    "pmid": "41543435",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "a38d7d4adf6c0b16d0a50fca1a0ed553e8d1b8dfd5f9f73c1e1c4f60d64bc764",
+  "image_file": "image.jpg"
+}

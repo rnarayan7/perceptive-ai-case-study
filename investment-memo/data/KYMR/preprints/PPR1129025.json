@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR1129025",
+  "title": "Unraveling single-molecule reactions via multiplexed in-situ DNA sequencing",
+  "url": "https://europepmc.org/article/PPR/PPR1129025",
+  "published": "2025-12-02",
+  "retrieved_at": "2026-09-08T10:06:22.338951+00:00",
+  "metadata": {
+    "doi": "10.1101/2025.11.27.690701",
+    "epmc_id": "PPR1129025",
+    "epmc_source": "PPR",
+    "authors": "Hazra JP, Andrews R, Turner P, Zhao Q, Steuer H, El-Sagheer AH, Mazumder A, El Sayyed H, K\u00fcmmerlin M, Brown T, Kapanidis AN.",
+    "cited_by": 1
+  },
+  "hash": "9df8ee9ea959945e88ebf1f5ad7722a225192216c21fed391d496c8cc360a298"
+}

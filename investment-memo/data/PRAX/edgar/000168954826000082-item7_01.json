@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000168954826000082-item7_01",
+  "title": "Praxis Precision Medicines, Inc. 8-K (2026-08-06) - Regulation FD Disclosure",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/0001689548-26-000082-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-07T12:53:48.834502+00:00",
+  "metadata": {
+    "accession": "0001689548-26-000082",
+    "cik": 1689548,
+    "form": "8-K",
+    "primary_document": "prax-20260806.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-08-06",
+    "filing_date": "2026-08-06",
+    "items": "2.02,7.01,9.01",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/prax-20260806.htm",
+    "section": "Regulation FD Disclosure",
+    "section_key": "item7_01"
+  },
+  "hash": "04059dd129d1ec361cba8088101d763c3a151af8eb3bd094f2d03a57c4263830"
+}

@@ -1,0 +1,33 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA022251",
+  "title": "Drugs@FDA NDA022251: LAMICTAL ODT",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022251",
+  "published": "2009-05-08",
+  "retrieved_at": "2026-09-08T08:40:42.258848+00:00",
+  "metadata": {
+    "manufacturer": "GLAXOSMITHKLINE LLC",
+    "brand_name": "LAMICTAL ODT",
+    "sponsor_name": "GLAXOSMITHKLINE LLC",
+    "application_type": "NDA",
+    "brand_names": [
+      "LAMICTAL ODT"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2009-05-08",
+    "review_priority": [
+      "N/A",
+      "STANDARD",
+      "UNKNOWN"
+    ],
+    "submission_count": 26
+  },
+  "hash": "48a98dc76ce143be0e809751372d762f42eacfab85d467f8ae2ec721a3c7837a"
+}

@@ -1,0 +1,125 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 12    Kaplan-Meier Plots for Failure-free Survival in the Belumosudil 200-mg QD
+               Group – mITT Population, Phase 2 Analysis Group
+
+
+
+
+               Abbreviations: cGVHD = chronic graft versus host disease; FFS = failure free survival; mITT =
+               modified intent-to-treat; QD = once daily.
+               Note: The data cutoff date was 19 February 2020.
+               Source: ISE Figure 3.4A1.
+
+               Failure-free survival with CR/PR at 6 months was achieved in less than 42% of subjects
+               (estimated 22%-42%) after first line treatment.
+
+               Time to Next Treatment
+               Median TTNT for subjects in the mITT-P2AG population in the 200 mg QD group was not
+               reached (95% CI: 15.18, NR). Among subjects in the 200 mg QD group, 22 subjects (26.5%)
+               received a new systemic therapy for cGVHD. At baseline, overall, over 20% of subjects had
+               received prior treatment with ruxolitinib, while more than 25% had received prior treatment
+               with ibrutinib. It is notable that Investigators elected to continue subjects—even those who had
+               not received ruxolitinib or ibrutinib—on belumosudil, suggesting that Investigators saw some
+               clinical benefit in continued belumosudil dosing despite other available options.
+
+               Overall Survival
+               For subjects in the mITT-P2AG population in the 200 mg QD group, median OS was not reached
+               at the time of the data cutoff. Among subjects in the 200 mg QD group, 8 (9.6%) died;
+               75 subjects were censored, including 70 who were alive and 5 who were lost to follow-up.
+
+
+                        The Applicant’s Position
+
+
+                                                                     186
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Responses to treatment were generally rapid, occurring during the first 8 weeks. Late responses
+               tend to reflect response in organ systems with more fibrotic involvement, as advanced/severe
+               disease requires sustained therapy to achieve a response. Subjects in the 200 mg QD group had
+               a median TTR of approximately 8 weeks or shorter in the skin, eyes, mouth, esophagus, upper
+               GI, lower GI, liver, and joints and fascia.
+               Median GSR TTR was 12.0 weeks in 35 subjects in the 200 mg QD group.
+               Late organ system responses occurring after more than 24 weeks of treatment in the 200 mg
+               QD group were observed, including 5 patients with responses in the eyes; 3 in the skin and
+               joints and fascia; 2 in the mouth; and 1 each in the esophagus, lower GI, liver, and lungs. In the
+               200 mg QD group, 6 responses occurred after more than 24 weeks of treatment, according to
+               GSR.
+               Lee Symptom Scale
+               On the LSS, which is a measure of cGVHD symptom burden, a 7-point reduction (7 PtR) increase
+               from baseline is considered a clinically meaningful improvement. In the mITT-P2AG population,
+               45 subjects (54.2%) in the 200 mg QD group experienced a clinically meaningful improvement
+               at least once. There were 31 subjects (37.3%) in the 200 mg QD group who experienced a
+               clinically meaningful improvement on at least 2 consecutive assessments. The median duration
+               of a 7-point reduction (DO7) PtR was 14.3 weeks (range, 0-120) in the 200 mg QD group. Thirty-
+               six subjects (43.4%) in the 200 mg QD group had a DO7 PtR ≥ 8 weeks.
+               The LSS results were analyzed separately for responders and nonresponders. As assessed by
+               LSS, 6 subjects (25.0%) in the 200 mg QD group experienced clinically meaningful improvement
+               at least once. There were 4 subjects (16.7%) in the 200 mg QD group who experienced clinically
+               meaningful improvement on at least 2 consecutive assessments. The median DO7-PtR was
+               12.4 weeks (range, 4-16). Four subjects (16.7%) in the 200 mg QD group had a DO7 PtR
+               ≥ 8 weeks.
+
+               Failure-Free Survival
+               Figure 12 is a Kaplan-Meier plot for FFS for subjects receiving belumodusil 200 mg QD.
+               Median FFS among subjects in the mITT-P2AG population in the 200 mg QD group was
+               20.7 months (95% CI: 10.6, NR).
+               Among subjects in the 200 mg QD group, 52 subjects (62.7%) were censored; 48 subjects were
+               ongoing on the study and 4 had discontinued from the study. Failure events were new systemic
+               therapy for cGVHD (21 subjects, 25.3%), nonrelapse mortality (3 subjects, 3.6%), and recurrent
+               malignancy (7 subjects, 8.4%). Failure-free survival at 6, 12, 18, and 24 months was 74%, 56%,
+               51%, and 44%, respectively, though it is notable the median duration of follow-up is
+               approximately 8 months and a number of subjects were censored in the 6 to 12 month range.
+
+
+
+                                                                     185
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Secondary and exploratory endpoint analyses supported the primary analysis. Corticosteroid
+               dose reductions and discontinuations were demonstrated among both responders and non-
+               responders.
+
+               Subpopulations
+
+
+                        Data:
+
+               Evaluation of ORR was performed for the following pre-specified subgroups: age group, gender,
+               race, number of organs involved at baseline, severe cGVHD, number of prior lines of therapy,
+               prior use of ibrutinib, prior use of ruxolitinib, refractory to prior line of cGVHD treatment,
+               duration of cGVHD before enrollment, and baseline glomerular filtration rate (GFR).
+               Overall Response Rate
+               Among subjects in the 200 mg QD group, there were numerical differences in ORR in the
+               subgroups analyses of age group and number of prior lines of therapy.
+               With respect to the subgroup analysis of age group, the ORR for subjects ≥ 65 years of age
+               (N = 17) was 53% (95% CI: 28, 77). Although the lower bound of this CI crosses 30%, the point
+               estimate is meaningful, and the CI is wide given the number of subjects. For subjects < 65 years
+               of age (N = 66), ORR was 76% (95% CI: 64, 86).
+               With respect to the subgroup analysis of number of lines of prior therapy, robust responses
+               were observed in subjects who had received < 4 and ≥ 4 lines of prior therapy. When pooled
+               across number of lines (i.e., combining 1 line with 2 or 3 lines) and compared with subjects with
+               ≥ 4 lines of prior therapy, no meaningful differences in ORR were observed with belumosudil.
+               Pooled across all dose levels, the ORR in subjects who had 1 prior line of therapy (n=16) was
+       

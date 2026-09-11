@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13367496_f0002",
+  "figure_type": "kaplan_meier",
+  "title": "A Novel Prognostic Model Based on Prognostic Nutritional Index and Systemic Immune-Inflammation Index for Cancer Patients Treated with Immune Checkpoint Inhibitors.",
+  "caption": "Prognostic significance of PNI and SII in cancer patients receiving immune checkpoint inhibitors (ICIs). ( A  and  B ) Kaplan–Meier curves for the association of PNI with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in cancer patients receiving ICIs. ( C  and  D ) Kaplan–Meier curves for the association of SII with OS ( C ) and PFS ( D ) in cancer patients receiving ICIs.",
+  "context": "Prognostic significance of PNI and SII in cancer patients receiving immune checkpoint inhibitors (ICIs). ( A  and  B ) Kaplan–Meier curves for the association of PNI with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in cancer patients receiving ICIs. ( C  and  D ) Kaplan–Meier curves for the association of SII with OS ( C ) and PFS ( D ) in cancer patients receiving ICIs. Prognostic Significance of PNI and SII in ICI-Treated Cancer Patients For the entire cohort, high PNI was significantly correlated with better OS (p<0.001, Figure 2A ) and PFS (p<0.001, Figure 2B ) of ICI-treated cancer patients. In contrast, high SII was significantly correlated with worse OS (p<0.001, Figure 2C ) and PFS (p=0.004, Figure 2D ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13367496/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:52:04.123760+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13367496",
+    "pmid": "42453699",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "b844c488d64d8e74f88a2372518d7627e2554c9f7ff2a388bc86c97ce73d64a3",
+  "image_file": "image.jpg"
+}

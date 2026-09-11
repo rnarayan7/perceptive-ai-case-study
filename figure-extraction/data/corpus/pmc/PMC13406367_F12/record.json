@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13406367_F12",
+  "figure_type": "forest",
+  "title": "Survival benefit of concurrent beta-blocker use in cancer patients treated with radiotherapy: A systematic review and meta-analysis.",
+  "caption": "Forest plot for LRPFS in radiotherapy-treated patients. CI = confidence interval, LRPFS = locoregional progression-free survival, HR = hazard ratio.",
+  "context": "Forest plot for LRPFS in radiotherapy-treated patients. CI = confidence interval, LRPFS = locoregional progression-free survival, HR = hazard ratio.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13406367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:04:19.052123+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13406367",
+    "pmid": "42499029",
+    "journal": "Medicine",
+    "fig_label": "Figure 12."
+  },
+  "image_hash": "5d24bf4f0558804afe3a7f1d9b79f9c444c803ac9a463ece5129be3207b39229",
+  "image_file": "image.jpg"
+}

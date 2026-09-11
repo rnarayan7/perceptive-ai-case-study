@@ -1,0 +1,1 @@
+Kaplan–Meier curves of progression-free survival and overall survival of patients with left side colorectal cancer. Similarly, for overall survival, although the APC-mutated group showed a numerically lower hazard ratio, it did not reach statistical significance in this subgroup (HR 0.59, 95% CI 0.23–1.56, p = 0.28; Figure 5 ).

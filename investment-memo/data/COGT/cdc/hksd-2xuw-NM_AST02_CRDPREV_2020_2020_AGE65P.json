@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NM_AST02_CRDPREV_2020_2020_AGE65P",
+  "title": "Asthma - New Mexico - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.851406+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "New Mexico",
+    "location_abbr": "NM",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "8.7",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "4cd8b3e8e79ee602b3ab708afab9856a4dc5be90657d485ed48fa8ed8089d32d"
+}

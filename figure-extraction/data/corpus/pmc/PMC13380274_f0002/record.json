@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380274_f0002",
+  "figure_type": "kaplan_meier",
+  "title": "Limited Survival Benefit of Preoperative Conization Before Radical Surgery in Stage IB Cervical Cancer: An IPTW-Adjusted Retrospective Cohort Study.",
+  "caption": "Weighted Kaplan–Meier survival curves comparing patients with and without conization after IPTW adjustment. ( A ) Overall survival. ( B ) Progression-free survival.",
+  "context": "Weighted Kaplan–Meier survival curves comparing patients with and without conization after IPTW adjustment. ( A ) Overall survival. ( B ) Progression-free survival. Weighted survival analyses stratified by surgical approach showed no significant differences in overall survival or progression-free survival between patients who did and did not undergo preoperative conization, regardless of whether laparotomy or laparoscopic surgery was performed ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380274/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-14",
+  "retrieved_at": "2026-09-07T12:50:16.470581+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13380274",
+    "pmid": "42472258",
+    "journal": "International journal of women's health",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "728fd4abca0bb09c7b48e3cbc5949429b149b4e9c1f4caccb9c990c76782cd1d",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,16 @@
+Title: Evaluation of the Potential CYP1A2-mediated Drug Drug Interaction Safety, and Tolerability of ABX464
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Healthy
+Interventions: Caffeine (DRUG), ABX464 (DRUG), Fluvoxamine (DRUG)
+Enrollment: 59
+
+Summary: A two part, fixed-sequence, open-label crossover study to evaluate potential CYP1A2-mediated drug-drug interactions of ABX464 in healthy subjects using caffeine and fluvoxamine as probe drugs
+
+Primary outcomes:
+- Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Peak Plasma Concentration (Cmax) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464. (time frame: Day 1, Day 4 and Day 17)
+- Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Area under the plasma concentration versus time curve (AUC) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464. (time frame: Day 1, Day 4 and Day 17)
+- Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Peak Plasma Concentration (Cmax) in the presence and absence of fluvoxamine. (time frame: Day 1 and Day11)
+- Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Area under the plasma concentration versus time curve (AUC) in the presence and absence of fluvoxamine. (time frame: Day 1 and Day 11)

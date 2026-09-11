@@ -1,0 +1,1 @@
+Waterfall plot (left) illustrating best percentage change from baseline in total sum of target lesion diameters and spider plot (right) of tumor response over time.

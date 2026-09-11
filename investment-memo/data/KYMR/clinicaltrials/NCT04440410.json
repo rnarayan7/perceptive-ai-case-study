@@ -1,0 +1,41 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04440410",
+  "title": "Evaluation of Cutaneous and Circulating Inflammatory Biomarkers in Hidradenitis Suppurativa and Atopic Dermatitis",
+  "url": "https://clinicaltrials.gov/study/NCT04440410",
+  "published": "2020-06-19",
+  "retrieved_at": "2026-09-07T06:57:16.412116+00:00",
+  "metadata": {
+    "phases": [],
+    "overall_status": "COMPLETED",
+    "study_type": "OBSERVATIONAL",
+    "conditions": [
+      "Hidradenitis Suppurativa",
+      "Dermatitis, Atopic"
+    ],
+    "interventions": [],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 40,
+    "start_date": "2020-05-28",
+    "primary_completion_date": "2021-03-24",
+    "completion_date": "2021-03-24",
+    "first_posted_date": "2020-06-19",
+    "primary_outcomes": [
+      {
+        "measure": "Biomarker Identification",
+        "timeFrame": "Day 1"
+      },
+      {
+        "measure": "Determination of Biomarker Correlations",
+        "timeFrame": "Day 1"
+      },
+      {
+        "measure": "Examination of IRAK4 Degradation Effects Ex Vivo",
+        "timeFrame": "Day 1"
+      }
+    ]
+  },
+  "hash": "349ab807a454d1d49ae5526170d03e00970380bc3ff81cfd86256e5b2d72b73e"
+}

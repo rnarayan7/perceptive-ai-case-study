@@ -1,0 +1,28 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12155183",
+  "title": "FAERS report 12155183: Sepsis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12155183",
+  "published": "2016-03-07",
+  "retrieved_at": "2026-09-08T08:40:20.461991+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Sepsis"
+    ],
+    "drugs": [
+      "OMEPRAZOLE.",
+      "CAFFEINE CITRATE (MANUFACTURER UNKNOWN) (CAFFEINE CITRATE) (CAFFEINE CITRATE)",
+      "WARFARIN",
+      "DUPILUMAB",
+      "MIDAZOLAM",
+      "METOPROLOL.",
+      "DUPILUMAB"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "8c004ba4df7017a48fa048cacc03897e6b42d27cea73c1ab73a78997b5f0fe39"
+}

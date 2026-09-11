@@ -1,0 +1,32 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA207997",
+  "title": "Drugs@FDA NDA207997: RYDAPT",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=207997",
+  "published": "2017-04-28",
+  "retrieved_at": "2026-09-08T08:41:03.274256+00:00",
+  "metadata": {
+    "manufacturer": "NOVARTIS",
+    "brand_name": "RYDAPT",
+    "sponsor_name": "NOVARTIS",
+    "application_type": "NDA",
+    "brand_names": [
+      "RYDAPT"
+    ],
+    "active_ingredients": [
+      "MIDOSTAURIN"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2017-04-28",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 8
+  },
+  "hash": "ca79268b9d04145c5b4fca4656610140e1ce28cf20fdea2c4089a6e548ac3a74"
+}

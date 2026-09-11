@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA204499",
+  "title": "Drugs@FDA ANDA204499: LAMOTRIGINE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A204499",
+  "published": "2024-09-26",
+  "retrieved_at": "2026-09-08T08:40:42.258191+00:00",
+  "metadata": {
+    "manufacturer": "IPCA LABS",
+    "brand_name": "LAMOTRIGINE",
+    "sponsor_name": "IPCA LABS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LAMOTRIGINE"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2024-09-26",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 2
+  },
+  "hash": "de1da8b667f8c7376259ffee8c491b360cc42eddb96672fd8e8ef941659ad047"
+}

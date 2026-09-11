@@ -1,0 +1,4 @@
+FAERS adverse-event report 10441028 (comparator: midostaurin)
+Serious: yes
+Reactions: Acute myeloid leukaemia, Neutrophil count decreased
+Reported drugs: MIDOSTAURIN, ALLOPURINOL., ACYCLOVIR., VIDAZA, LISINOPRIL., CIPROFLOXACIN., FLUCONAZOLE.

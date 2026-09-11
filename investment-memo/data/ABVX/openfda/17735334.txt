@@ -1,0 +1,4 @@
+FAERS adverse-event report 17735334 (comparator: ozanimod)
+Serious: yes
+Reactions: Endometrial adenocarcinoma
+Reported drugs: OZANIMOD., DIANE (CYPROTERONE ACETATE\ETHINYL ESTRADIOL), PAROXINI, OTIPAX, PROPOFOL., PROPOFOL., METHYLPREDNISOLONE.

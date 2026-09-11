@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "37129565",
+  "title": "Obefazimod: A First-in-class Drug for the Treatment of Ulcerative Colitis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37129565/",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.552827+00:00",
+  "metadata": {
+    "journal": "Journal of Crohn's & colitis",
+    "year": "2023",
+    "pmid": "37129565"
+  },
+  "hash": "8a92bf346d28e0dfa8dee4dc01b261f9664e2919423199291c3294e82bfc211c"
+}

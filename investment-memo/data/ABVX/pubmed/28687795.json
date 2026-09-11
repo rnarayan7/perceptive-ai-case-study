@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "28687795",
+  "title": "The Anti-Hiv Candidate Abx464 Dampens Intestinal Inflammation by Triggering Il-22 Production in Activated Macrophages.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28687795/",
+  "published": "2017-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.562068+00:00",
+  "metadata": {
+    "journal": "Scientific reports",
+    "year": "2017",
+    "pmid": "28687795"
+  },
+  "hash": "915e5d158656855d5c487a6f21c5d90e3dd191fed41234614735df624a7c36c2"
+}

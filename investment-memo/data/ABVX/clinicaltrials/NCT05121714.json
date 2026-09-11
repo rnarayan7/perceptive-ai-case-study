@@ -1,0 +1,59 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05121714",
+  "title": "Evaluation of the Potential CYP1A2-mediated Drug Drug Interaction Safety, and Tolerability of ABX464",
+  "url": "https://clinicaltrials.gov/study/NCT05121714",
+  "published": "2021-11-16",
+  "retrieved_at": "2026-09-07T12:53:29.798992+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      {
+        "name": "Caffeine",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Fluvoxamine",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 59,
+    "start_date": "2020-12-17",
+    "primary_completion_date": "2021-05-18",
+    "completion_date": "2021-05-18",
+    "first_posted_date": "2021-11-16",
+    "primary_outcomes": [
+      {
+        "measure": "Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Peak Plasma Concentration (Cmax) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464.",
+        "timeFrame": "Day 1, Day 4 and Day 17"
+      },
+      {
+        "measure": "Part A Evaluate the potential for inhibition and/or induction of CYP1A2 in vivo based on the Area under the plasma concentration versus time curve (AUC) of caffeine (a known CYP1A2 substrate) in the presence and absence of ABX464.",
+        "timeFrame": "Day 1, Day 4 and Day 17"
+      },
+      {
+        "measure": "Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Peak Plasma Concentration (Cmax) in the presence and absence of fluvoxamine.",
+        "timeFrame": "Day 1 and Day11"
+      },
+      {
+        "measure": "Part B Evaluate whether ABX464 is a substrate for CYP1A2 in vivo based on Area under the plasma concentration versus time curve (AUC) in the presence and absence of fluvoxamine.",
+        "timeFrame": "Day 1 and Day 11"
+      }
+    ]
+  },
+  "hash": "cd637f00ba21bf4fabdf8a750a359a8c69c0866d634b78fbec921db69b4bc71f"
+}

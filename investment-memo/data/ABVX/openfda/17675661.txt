@@ -1,0 +1,4 @@
+FAERS adverse-event report 17675661 (comparator: ozanimod)
+Serious: yes
+Reactions: Pneumonia
+Reported drugs: OZANIMOD

@@ -1,0 +1,32 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA761304",
+  "title": "Drugs@FDA BLA761304: VYVGART HYTRULO",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761304",
+  "published": "2023-06-20",
+  "retrieved_at": "2026-09-08T08:40:49.144430+00:00",
+  "metadata": {
+    "manufacturer": "ARGENX BV",
+    "brand_name": "VYVGART HYTRULO",
+    "sponsor_name": "ARGENX BV",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "VYVGART HYTRULO"
+    ],
+    "active_ingredients": [
+      "EFGARTIGIMOD ALFA AND HYALURONIDASE-QVFC"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2023-06-20",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 9
+  },
+  "hash": "315fed6dfe9b4d288b536c486b7209f0276477b791ebbdf7066e0f3cf21ed2ef"
+}

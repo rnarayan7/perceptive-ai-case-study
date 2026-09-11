@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13099334_F1",
+  "figure_type": "pk_logscale",
+  "title": "Pharmacokinetic profiling of rituximab in glomerular diseases: key determinants and implications for personalized therapy.",
+  "caption": "Factors influencing the blood concentration of RTX.",
+  "context": "Factors influencing the blood concentration of RTX. RTX is governed not by an isolated determinant, but by an interconnected pharmacokinetic network involving disease-specific immunological activity (which modulates target antigen burden and the risk of ADA development), direct renal sequelae (notably proteinuria), and patient-specific factors (including polymorphisms in the FcRn) ( Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13099334/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-04-08",
+  "retrieved_at": "2026-09-07T13:10:57.846391+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13099334",
+    "pmid": "42028435",
+    "journal": "Frontiers in pharmacology",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "a3da868fba31ed5c9086e9d04b4f0e81ab8c780610b995041a9e5b0309368dd9",
+  "image_file": "image.jpg"
+}

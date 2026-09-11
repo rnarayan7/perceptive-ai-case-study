@@ -1,0 +1,18 @@
+{
+  "company": "ABVX",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR105580",
+  "title": "Targeting the Long Non-Coding RNA LINC00599-205 splicing by novel candidate drug ABX464 to produce the anti-inflammatory microRNA miR-124",
+  "url": "https://europepmc.org/article/PPR/PPR105580",
+  "published": "2019-12-12",
+  "retrieved_at": "2026-09-07T12:53:33.637841+00:00",
+  "metadata": {
+    "doi": "10.1101/2019.12.11.871335",
+    "epmc_id": "PPR105580",
+    "epmc_source": "PPR",
+    "authors": "Manchon L, Vautrin A, Tazi J, Garcel A, Campos N.",
+    "cited_by": 0
+  },
+  "hash": "afbbc41c52d9f976199dc6bc120fc428333edeb9fc31e4decc51dab3cdedf1f6"
+}

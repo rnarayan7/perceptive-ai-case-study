@@ -1,0 +1,4 @@
+FAERS adverse-event report 22821677 (comparator: rozanolixizumab)
+Serious: yes
+Reactions: Tension headache, Musculoskeletal stiffness, Chills, Pyrexia, Malaise, Feeling abnormal, Myasthenia gravis, Sinus tachycardia, Diarrhoea, Poor quality sleep, Nervousness, Anxiety, White blood cell count increased, Hyperhidrosis, Dry skin, SARS-CoV-2 test negative, Dysphagia, Musculoskeletal discomfort, Fatigue, Eyelid ptosis, Dysarthria, Diplopia, Inappropriate schedule of product administration, Off label use, Product dose omission issue
+Reported drugs: RYSTIGGO, RYSTIGGO, RYSTIGGO, RYSTIGGO, ZYRTEC, CADUET, COZAAR, RITALIN, EPINEPHRINE, banofen, PREDNISONE, PREDNISONE, PREDNISONE, MESTINON

@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "42336816",
+  "title": "Structural basis for selective and potent degradation of IRAK4 by KT-474.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42336816/",
+  "published": "2026",
+  "retrieved_at": "2026-09-07T08:26:55.625800+00:00",
+  "metadata": {
+    "journal": "Nature communications",
+    "year": "2026",
+    "pmid": "42336816"
+  },
+  "hash": "af90b6fe07d8e4059c62de730d74977b57710daaaae4fe4c439f064d7eaa2ef1"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240926_184929_fig002",
+  "figure_type": "unknown",
+  "title": "odac_20240926_184929 figure 2",
+  "caption": "",
+  "context": "September 26, 2024\nOncologic Drugs Advisory Committee Meeting\n\n          Summary Minutes of the Oncologic Drugs Advisory Committee Meeting\n                                  September 26, 2024\n\nThe Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,\nCenter for Drug Evaluation and Research met on September 26, 2024, at FDA White Oak\nCampus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire\nAvenue, Silver Spring, Maryland. The public also had the option to participate via an online\nteleconferencing and/or video conferencing platform, and the meeting presentations were heard,\nviewed, captioned, and recorded through an online video conferencing platform. Prior to the\nmeeting, the members and temporary voting members were provided the briefing materials from\nthe FDA, Bristol Myers-Squibb Co., Merck Sharp & Dohme LLC, a subsidiary of Merck & Co.,\nInc, and BeiGene USA, Inc. The meeting was called to order by Christopher Lieu, MD (Acting\nChairperson). The conflict of interest statement was read into the record by Joyce Frimpong,\nPharmD (Acting Designated Federal Officer). There were approximately 1,300 people in\nattendance. There were 8 Open Public Hearing (OPH) speaker presentations during the morning\nsession and 1 OPH speaker during the afternoon session.\n\nA verbatim transcript will be available, in most instances, at approximately ten to twelve weeks\nfollowing the meeting date.\n\nAgenda: During the morning session, the Committee discussed the use of immune checkpoint\ninhibitors in patients with unresectable or metastatic gastric and gastroesophageal junction\nadenocarcinoma. The current labeling for approved checkpoint inhibitors in this indication\nreflect broad approvals in the intent to treat patient populations agnostic of programmed death\ncell ligand-1 (PD-L1) expression. Cumulative data has shown that PD-L1 expression appears to\nbe a predictive biomarker of treatment efficacy in this patient population; however, clinical trials\nhave used different approaches to assess PD-L1 expression and different thresholds to define\nPD-L1 positivity. FDA wanted the Committee’s opinion on the:\n    • adequacy of PD-L1 expression as a predictive biomarker for patient selection in this\n         patient population,\n    • differing risk-benefit assessments in different subpopulations defined by PD-L1\n         expression, and\n    • adequacy of the cumulative data to restrict the approvals of immune checkpoint inhibitors\n         based on PD-L1 expression.\nThe Committee discussed the existing supplemental biologics license applications (sBLA) which\nwere approved for patients with previously untreated HER2-negative unresectable or metastatic\ngastric or gastroesophageal adenocarcinoma:\n    • sBLA 125554/S-091 for OPDIVO (nivolumab) injection, submitted by Bristol Myers-\n         Squibb Co. and\n    • sBLA 125514/S-143 for KEYTRUDA (pembrolizumab) injection, submitted by Merck\n         Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc.\nThe Committee also discussed BLA 761417 for tislelizumab injection, submitted by BeiGene\nUSA, Inc., for the same proposed indication.\n\nDuring the afternoon session, the Committee discussed the use of immune checkpoint inhibitors\nin patients with metastatic or unresectable esophageal squamous cell carcinoma. The current\n\n\n                                             Page 3 of 9\n\f",
+  "url": "https://www.fda.gov/media/184929/download",
+  "image_url": "https://www.fda.gov/media/184929/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:58.771511+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240926_184929",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "74d6b510b44a58ac4a01067fbf5e1960925a33b713d3dcec9fac5fd935f68d07",
+  "image_file": "image.png"
+}

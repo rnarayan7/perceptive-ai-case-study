@@ -1,0 +1,22 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17568053",
+  "title": "FAERS report 17568053: Death",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17568053",
+  "published": "2020-03-20",
+  "retrieved_at": "2026-09-08T08:40:57.628588+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Death"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "307068e1e9c9f65a3e9db62fa40cb9c2367e2d317d8bf1684cbb74b394a04080"
+}

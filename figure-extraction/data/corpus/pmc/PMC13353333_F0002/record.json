@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13353333_F0002",
+  "figure_type": "waterfall",
+  "title": "Randomized phase-II trial of surufatinib plus FOLFOX/FOLFIRI versus FOLFOXIRI as second-line therapy for metastatic colorectal cancer.",
+  "caption": "Waterfall plot showing maximum percentage change from baseline in the sum of target lesion diameters (per RECIST version 1.1) in the full analysis set (FAS) population. Note: Waterfall plot of the maximum percentage change from baseline in target lesion size (RECIST 1.1) for patients in the doublet cohort (top) and triplet cohort (bottom). Bars are color-coded by best overall response: orange (CR), light blue (PR), green (SD), and dark blue (PD). Dashed lines indicate RECIST thresholds for PR (–30%) and PD (+20%).",
+  "context": "Waterfall plot showing maximum percentage change from baseline in the sum of target lesion diameters (per RECIST version 1.1) in the full analysis set (FAS) population. Note: Waterfall plot of the maximum percentage change from baseline in target lesion size (RECIST 1.1) for patients in the doublet cohort (top) and triplet cohort (bottom). Bars are color-coded by best overall response: orange (CR), light blue (PR), green (SD), and dark blue (PD). Dashed lines indicate RECIST thresholds for PR (–30%) and PD (+20%). Detailed response data are presented in Table 2 , and the maximum percentage change in target lesion size from baseline is depicted in Figure 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13353333/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T13:01:45.954361+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13353333",
+    "pmid": "42421558",
+    "journal": "Annals of medicine",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "57e935ceb953cfd8a8c30e255b7fbfc156534a7173776e04957c3aee075412bc",
+  "image_file": "image.jpg"
+}

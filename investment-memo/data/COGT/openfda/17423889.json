@@ -1,0 +1,24 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17423889",
+  "title": "FAERS report 17423889: Disease progression, Chest pain, Dyspnoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17423889",
+  "published": "2023-11-01",
+  "retrieved_at": "2026-09-08T08:40:57.628242+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Disease progression",
+      "Chest pain",
+      "Dyspnoea"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "80d8385b9576b2dec3d3442194fa4b9cf614c6d3b7c2e62aef6275895f30fa46"
+}

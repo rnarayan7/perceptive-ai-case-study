@@ -1,0 +1,4 @@
+FAERS adverse-event report 13765766 (comparator: upadacitinib)
+Serious: yes
+Reactions: Rheumatoid arthritis, Knee operation, Blepharitis
+Reported drugs: XYREM, XYREM, XYREM, XYREM, XYREM, XYREM, XYREM, METHOTREXATE, CETIRIZINE HYDROCHLORIDE, ALLEGRA ALLERGY, ARMODAFINIL, RINVOQ, CELEBREX, ALENDRONATE SODIUM, FOSAMAX, OMEPRAZOLE, ESTRING, SUNOSI

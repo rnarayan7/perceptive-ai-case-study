@@ -1,0 +1,7 @@
+Compound: avapritinib
+PubChem CID: 118023034
+IUPAC name: (1S)-1-(4-fluorophenyl)-1-[2-[4-[6-(1-methylpyrazol-4-yl)pyrrolo[2,1-f][1,2,4]triazin-4-yl]piperazin-1-yl]pyrimidin-5-yl]ethanamine
+Molecular formula: C26H27FN10
+Molecular weight: 498.6 g/mol
+SMILES: C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
+Synonyms: Avapritinib, 1703793-34-3, BLU-285, Ayvakit, (1S)-1-(4-fluorophenyl)-1-[2-[4-[6-(1-methylpyrazol-4-yl)pyrrolo[2,1-f][1,2,4]triazin-4-yl]piperazin-1-yl]pyrimidin-5-yl]ethanamine, 513P80B4YJ, C-366, 70C366, DTXSID301027935, X720776, X-720776, (1S)-1-(4-FLUOROPHENYL)-1-(2-(4-(6-(1-METHYL-1H-PYRAZOL-4-YL)PYRROLO(2,1-F)(1,2,4)TRIAZIN-4-YL)PIPERAZIN-1-YL)PYRIMIDIN-5-YL)ETHAN-1-AMINE, (1S)-1-(4-fluorophenyl)-1-(2-{4-[6-(1-methyl-1H-pyrazol-4-yl)pyrrolo[2,1-f][1,2,4]triazin-4-yl]piperazin-1-yl}pyrimidin-5-yl)ethan-1-amine, (S)-1-(4-FLUOROPHENYL)-1-(2-(4-(6-(1-METHYL-1H-PYRAZOL-4-YL)PYRROLO(2,1-F)(1,2,4)TRIAZIN-4-YL)PIPERAZIN-YL)PYRIMIDIN-5-YL)ETHAN-1-AMINE, avapritinibum

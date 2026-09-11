@@ -1,0 +1,49 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04772885",
+  "title": "A Single and Multiple Ascending Dose Trial of KT-474 in Healthy Adult Volunteers and Patients With Atopic Dermatitis (AD) or Hidradenitis Suppurativa (HS)",
+  "url": "https://clinicaltrials.gov/study/NCT04772885",
+  "published": "2021-02-26",
+  "retrieved_at": "2026-09-07T06:57:16.410484+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Volunteer",
+      "Atopic Dermatitis",
+      "Hidradenitis Suppurativa"
+    ],
+    "interventions": [
+      {
+        "name": "KT-474/Placebo",
+        "type": "DRUG"
+      },
+      {
+        "name": "KT-474",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 154,
+    "start_date": "2021-02-23",
+    "primary_completion_date": "2022-10-20",
+    "completion_date": "2022-10-20",
+    "first_posted_date": "2021-02-26",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence and severity of treatment emergent Adverse Events",
+        "timeFrame": "up to 28 days"
+      },
+      {
+        "measure": "Incidence and frequency of use of concomitant medication",
+        "timeFrame": "up to 28 days"
+      }
+    ]
+  },
+  "hash": "dd7bdf3365083988949c78a5b31a6427e64ef65708a89f6084c713784894bf9a"
+}

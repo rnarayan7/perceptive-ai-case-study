@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526333834-item2_02",
+  "title": "Kymera Therapeutics, Inc. 8-K (2026-08-05) - Results of Operations and Financial Condition",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333834/0001193125-26-333834-index.htm",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-07T12:31:02.686697+00:00",
+  "metadata": {
+    "accession": "0001193125-26-333834",
+    "cik": 1815442,
+    "form": "8-K",
+    "primary_document": "kymr-20260805.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-08-05",
+    "filing_date": "2026-08-05",
+    "items": "2.02,9.01",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333834/kymr-20260805.htm",
+    "section": "Results of Operations and Financial Condition",
+    "section_key": "item2_02"
+  },
+  "hash": "f0053578785ac15ee1bb31a315b8ed60c4fa9c9a0140bb8eca73c36437ea616b"
+}

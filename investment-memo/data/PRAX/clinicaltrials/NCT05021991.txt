@@ -1,0 +1,13 @@
+Title: A Clinical Trial of 2 Doses of PRAX-944 in Participants With Essential Tremor
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Essential Tremor
+Interventions: 100 mg PRAX-944 (DRUG), 60 mg PRAX-944 (DRUG), Placebo (DRUG), Flexibly dosed 20 mg to 100 mg PRAX-944 (DRUG)
+Enrollment: 133
+
+Summary: This multi-center, randomized, double-blinded, placebo-controlled, dose-range-finding clinical trial (with an optional Extension comprised of an Extension Double-blind (DB) Lead in Period followed by an Extension Open-label (OL) Period) that will assess the efficacy, safety, and tolerability of PRAX 944 in participants aged 18 years or older who have a diagnosis of Essential Tremor (ET) and have had symptoms for at least 3 years.
+
+Primary outcomes:
+- Change from baseline to Day 56 on the modified ADL (time frame: 56 days)

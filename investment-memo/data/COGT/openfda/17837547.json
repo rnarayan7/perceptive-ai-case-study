@@ -1,0 +1,28 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17837547",
+  "title": "FAERS report 17837547: Atrial fibrillation",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17837547",
+  "published": "2020-06-04",
+  "retrieved_at": "2026-09-08T08:41:06.396508+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Atrial fibrillation"
+    ],
+    "drugs": [
+      "ACETYLSALICYLIC ACID",
+      "BISOPROLOL.",
+      "QINLOCK",
+      "RAMIPRIL.",
+      "QINLOCK",
+      "HYDROCHLOROTHIAZIDE.",
+      "SIMVASTATIN."
+    ],
+    "occurcountry": "DE"
+  },
+  "hash": "c29f22a6164540e295b873db6b461bcea56da65bb0bc66baac92530fbeda488d"
+}

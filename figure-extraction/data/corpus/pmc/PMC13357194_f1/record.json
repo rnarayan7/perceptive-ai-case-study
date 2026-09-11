@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13357194_f1",
+  "figure_type": "kaplan_meier",
+  "title": "Survival outcomes and prognostic factors in &lt;i&gt;de novo&lt;/i&gt; advanced biliary tract cancer: insights from a Saudi multicenter cohort.",
+  "caption": "Kaplan–Meier curves of progression-free survival (PFS) by first-line regimen.",
+  "context": "Kaplan–Meier curves of progression-free survival (PFS) by first-line regimen. Median PFS differed significantly across first-line regimens (log-rank P < 0.001; Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13357194/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-29",
+  "retrieved_at": "2026-09-07T12:55:05.511426+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13357194",
+    "pmid": "42444838",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "1d3f2b1168174241cc6adafd0eb1b006a5743911e888fc222f21d1fdcad4cc07",
+  "image_file": "image.jpg"
+}

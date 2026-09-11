@@ -1,0 +1,20 @@
+Title: (Peak) A Phase 3 Randomized Trial of CGT9486+Sunitinib vs. Sunitinib in Subjects With Gastrointestinal Stromal Tumors
+Status: RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Advanced Gastrointestinal Stromal Tumors, Metastatic Cancer
+Interventions: CGT9486 (DRUG), CGT9486 (DRUG), Sunitinib (DRUG), Sunitinib (DRUG), Midazolam (DRUG), CGT9486 (DRUG), Sunitinib (DRUG), CGT9486 (DRUG), Sunitinib (DRUG)
+Enrollment: 482
+
+Summary: This is a Phase 3, open-label, international, multicenter study of CGT9486 in combination with sunitinib. This is a multi-part study that will enroll approximately 482 patients. Part 1 consists of two evaluations: 1) confirming the dose of an updated formulation of CGT9486 to be used in subsequent parts in approximately 20 patients who have received at least one prior line of therapy for Gastrointestinal Stromal Tumors (GIST) and 2) evaluating the potential for drug-drug interactions between CGT9486 and sunitinib in approximately 18 patients who have received at least two prior tyrosine kinase inhibitors (TKIs) for GISTs. The second part of the study will enroll approximately 388 patients who are intolerant to, or who failed prior treatment with imatinib only and will compare the efficacy of CGT9486 plus sunitinib to sunitinib alone with patients being randomized in a 1:1 manner. This study also contains two substudies: 1) a drug-drug interactions (DDI) substudy will investigate the potential for CGT9486 to be a Cytochrome P450 (CYP)3A4 inducer in approximately 16 patients who have received at least one prior line of therapy for GIST and 2) a substudy intended to test the efficacy of bezuclastinib and sunitinib as first-line (1L) treatment of GIST in approximately 40 participants with KIT exon 9 mutations and no prior systemic therapy (with the exception of up to 10 subjects with ongoing imatinib therapy of ≤4 weeks).
+
+Primary outcomes:
+- Part 1a - pharmacokinetics - Cmax (time frame: 16 days)
+- Part 1a - pharmacokinetics - AUC (time frame: 16 days)
+- Part 1b - pharmacokinetics - Cmax (time frame: 14 days)
+- Part 1b - pharmacokinetics - AUC (time frame: 14 days)
+- Part 1b - pharmacokinetics - Tmax (time frame: 14 days)
+- Part 2 - Progression Free Survival (PFS) (time frame: Approximately 48 months)
+- DDI Substudy - pharmacokinetics - AUC (time frame: 16 days)
+- DDI Substudy - pharmacokinetics - Cmax (time frame: 14 days)

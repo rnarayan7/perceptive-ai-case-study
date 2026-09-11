@@ -1,0 +1,7 @@
+Drug: TOFACITINIB 5 MG TABLET
+NDC: 59651045960
+NADAC per unit: $0.57264
+Pricing unit: EA
+Effective date: 2026-09-02
+Rate-setting classification: G
+OTC: N

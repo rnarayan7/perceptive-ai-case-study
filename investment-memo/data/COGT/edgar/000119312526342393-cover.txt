@@ -1,0 +1,297 @@
+--12-310001622229falseQ2May 01 20261http://fasb.org/srt/2025#ChiefExecutiveOfficerMember0001622229us-gaap:SeriesAPreferredStockMember2025-01-012025-06-300001622229us-gaap:SeriesBPreferredStockMember2026-01-012026-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembersrt:MaximumMember2023-01-012024-12-310001622229cogt:SeriesBNonVotingConvertiblePreferredStockMembersrt:MaximumMember2024-06-102024-06-100001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2024-12-310001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2026-04-012026-06-300001622229us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001622229cogt:LatestageDevelopmentMember2026-04-012026-06-300001622229us-gaap:OverAllotmentOptionMember2026-01-310001622229cogt:PerformanceBasedRestrictedStockUnitsMember2026-04-012026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2026-06-300001622229us-gaap:EmployeeStockMember2025-01-012025-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-310001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2026-04-012026-06-300001622229us-gaap:RestrictedStockUnitsRSUMember2025-04-012025-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001622229cogt:PerformanceBasedRestrictedStockUnitsMember2025-04-012025-06-300001622229cogt:PerformanceBasedRestrictedStockUnitsPsusMember2026-01-012026-06-300001622229us-gaap:SeriesBPreferredStockMember2024-06-100001622229cogt:ConvertibleSeniorNotesDue2031Memberus-gaap:ConvertibleDebtMember2025-11-180001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2026-01-012026-01-010001622229cogt:AtTheMarketProgramMember2025-01-012025-03-310001622229cogt:ConvertibleSeniorNotesDue2031Member2025-04-012025-06-300001622229cogt:LatestageDevelopmentMember2025-04-012025-06-300001622229us-gaap:RetainedEarningsMember2025-12-310001622229cogt:OtherOperationalInfrastructureAndAdvisorySupportMember2026-01-012026-06-300001622229cogt:TwoThousandEighteenEmployeeStockPurchasePlanMember2026-06-300001622229cogt:EvanKearnsMember2026-06-300001622229us-gaap:RetainedEarningsMember2025-01-012025-03-310001622229cogt:GuggenheimSecuritiesLLCMembersrt:MaximumMember2022-05-060001622229us-gaap:SeriesAPreferredStockMember2026-04-012026-06-300001622229cogt:GuggenheimSecuritiesLLCMember2026-01-012026-06-300001622229cogt:UndesignatedPreferredStockMember2025-12-310001622229us-gaap:FairValueInputsLevel2Memberus-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-01-012025-03-310001622229us-gaap:SeriesBPreferredStockMember2025-04-012025-06-300001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2025-01-012025-03-310001622229cogt:ConvertibleSeniorNotesDue2031Memberus-gaap:ConvertibleDebtMember2026-06-300001622229us-gaap:EmployeeStockMember2025-04-012025-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2025-10-012025-12-310001622229cogt:EarlyStagePreclinicalAndDiscoveryProgramsMember2026-01-012026-06-300001622229cogt:TwoThousandTwentyInducementPlanMember2026-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembersrt:MinimumMember2025-10-012025-10-310001622229cogt:ResearchAndDevelopmentPersonnelRelatedMember2026-04-012026-06-3000016222292026-01-012026-03-310001622229cogt:LatestageDevelopmentMember2026-01-012026-06-300001622229cogt:CreditFacilityMember2025-01-012025-06-300001622229cogt:DrJessicaSachsMember2026-04-012026-06-300001622229cogt:ConvertibleSeniorNotesDue2031Member2026-04-012026-06-300001622229cogt:ResearchAndDevelopmentSoftwareFacilitiesAndOtherStrategicSupportMember2025-04-012025-06-300001622229us-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001622229us-gaap:SeriesBPreferredStockMember2026-06-300001622229us-gaap:RetainedEarningsMember2025-06-300001622229cogt:PerformanceBasedRestrictedStockUnitsSubjectToVestingMember2026-01-012026-06-300001622229cogt:ResearchAndDevelopmentSoftwareFacilitiesAndOtherStrategicSupportMember2026-04-012026-06-300001622229us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-3000016222292024-12-310001622229cogt:EarlyStagePreclinicalAndDiscoveryProgramsMember2026-04-012026-06-300001622229us-gaap:CommonStockMember2026-01-012026-06-300001622229cogt:TimeBasedRestrictedStockUnitsSubjectToVestingMember2025-01-012025-06-300001622229cogt:PerformanceBasedRestrictedStockUnitsMember2025-01-012025-06-300001622229us-gaap:RetainedEarningsMember2026-03-310001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2026-01-012026-03-310001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2026-06-300001622229cogt:Stock-BasedCompensationExpenseMember2026-01-012026-06-300001622229cogt:UndesignatedPreferredStockMember2026-06-300001622229us-gaap:AdditionalPaidInCapitalMember2026-06-300001622229us-gaap:RetainedEarningsMember2026-01-012026-03-310001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2026-03-310001622229us-gaap:RestrictedStockUnitsRSUMember2026-06-300001622229cogt:DebtInstrumentTrancheOneMembercogt:CreditFacilityMember2025-06-110001622229us-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-3000016222292025-01-012025-06-300001622229us-gaap:SeriesAPreferredStockMember2026-06-300001622229us-gaap:CommonStockMemberus-gaap:SeriesBPreferredStockMember2026-01-012026-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembersrt:MaximumMember2025-10-012025-10-310001622229cogt:CreditFacilityMember2026-01-012026-06-300001622229cogt:DepreciationExpenseMember2025-04-012025-06-3000016222292026-08-060001622229us-gaap:GeneralAndAdministrativeExpenseMember2025-04-012025-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-01-012026-03-310001622229us-gaap:RestrictedStockUnitsRSUMember2026-04-012026-06-300001622229us-gaap:AdditionalPaidInCapitalMember2025-12-310001622229cogt:PerformanceBasedRestrictedStockUnitsSubjectToVestingMember2025-01-012025-06-300001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2025-03-310001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2018-03-272018-03-270001622229cogt:PerformanceBasedRestrictedStockUnitsMember2026-01-012026-06-300001622229cogt:DepreciationExpenseMember2026-01-012026-06-300001622229us-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-3100016222292025-01-012025-03-310001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2025-06-300001622229us-gaap:AdditionalPaidInCapitalMember2026-01-012026-03-310001622229us-gaap:AdditionalPaidInCapitalMember2025-01-012025-03-310001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2026-03-310001622229cogt:DrJessicaSachsMember2026-06-300001622229us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001622229cogt:GuggenheimSecuritiesLLCMembersrt:MaximumMember2025-07-110001622229us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001622229us-gaap:AdditionalPaidInCapitalMember2026-03-310001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembercogt:PerformanceBasedRestrictedStockUnitMember2025-01-012025-12-310001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2025-12-310001622229cogt:SecuritiesPurchaseAgreementMembercogt:SeriesBNonVotingConvertiblePreferredStockMember2024-02-140001622229cogt:ConvertibleSeniorNotesDue2031Member2025-01-012025-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2026-01-012026-06-300001622229cogt:TwoThousandTwentyInducementPlanMember2020-10-220001622229cogt:JohnGreenMember2026-04-012026-06-300001622229us-gaap:RetainedEarningsMember2025-03-310001622229cogt:TwoThousandEighteenEmployeeStockPurchasePlanMembersrt:MaximumMember2018-03-280001622229cogt:SeriesANonVotingConvertiblePreferredStockMembersrt:MaximumMember2026-06-300001622229cogt:AtTheMarketMember2026-01-012026-06-300001622229us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001622229us-gaap:GeneralAndAdministrativeExpenseMember2025-01-012025-06-300001622229us-gaap:AdditionalPaidInCapitalMember2024-12-310001622229cogt:TwoThousandEighteenEmployeeStockPurchasePlanMember2026-01-012026-01-310001622229us-gaap:AdditionalPaidInCapitalMember2025-03-310001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2026-04-012026-06-300001622229us-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229cogt:Stock-BasedCompensationExpenseMember2025-01-012025-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-12-310001622229us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229us-gaap:CommonStockMember2025-03-310001622229us-gaap:RetainedEarningsMember2026-04-012026-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2026-06-300001622229us-gaap:AdditionalPaidInCapitalMember2025-06-300001622229us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001622229us-gaap:CommonStockMember2026-04-012026-06-300001622229us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001622229cogt:AtTheMarketMember2025-01-012025-06-300001622229cogt:UsTreasuryBillsAndNotesSecuritiesMember2026-06-300001622229us-gaap:RetainedEarningsMember2024-12-310001622229us-gaap:RestrictedStockUnitsRSUMember2025-01-012025-06-300001622229us-gaap:CommonStockMemberus-gaap:SeriesBPreferredStockMember2024-06-100001622229cogt:EarlyStagePreclinicalAndDiscoveryProgramsMember2025-04-012025-06-300001622229us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001622229cogt:EarlyStagePreclinicalAndDiscoveryProgramsMember2025-01-012025-06-300001622229srt:MaximumMember2026-01-012026-06-300001622229us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001622229cogt:WalthamLeaseMember2025-09-052025-09-050001622229us-gaap:RestrictedStockUnitsRSUMember2026-01-012026-06-300001622229us-gaap:CommonStockMember2025-06-300001622229cogt:ResearchAndDevelopmentSoftwareFacilitiesAndOtherStrategicSupportMember2026-01-012026-06-300001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2026-01-012026-06-300001622229cogt:TwoThousandEighteenEmployeeStockPurchasePlanMember2018-03-280001622229us-gaap:CommonStockMember2024-12-310001622229cogt:UsTreasuryBillsAndNotesSecuritiesMember2025-12-310001622229us-gaap:CommonStockMember2025-01-012025-03-310001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-12-3100016222292025-06-300001622229cogt:DepreciationExpenseMember2025-01-012025-06-300001622229us-gaap:SeriesBPreferredStockMember2026-04-012026-06-3000016222292026-01-012026-06-3000016222292026-03-310001622229us-gaap:EmployeeStockMember2026-01-012026-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-310001622229us-gaap:RetainedEarningsMember2026-06-300001622229cogt:Stock-BasedCompensationExpenseMember2026-04-012026-06-300001622229us-gaap:CommonStockMemberus-gaap:SeriesAPreferredStockMember2026-06-300001622229cogt:KarenFerranteMember2026-04-012026-06-300001622229cogt:PlexxikonLicenseAgreementMembersrt:MaximumMember2020-07-012020-07-300001622229us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229us-gaap:SeriesAPreferredStockMember2026-01-012026-06-300001622229cogt:ResearchAndDevelopmentPersonnelRelatedMember2025-01-012025-06-300001622229cogt:CreditFacilityMember2025-04-012025-06-300001622229us-gaap:CommonStockMember2026-04-012026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2025-04-012025-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembersrt:MaximumMember2026-02-012026-02-280001622229us-gaap:CommonStockMembercogt:SeriesBNonVotingConvertiblePreferredStockMember2024-06-100001622229us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001622229cogt:ConvertibleSeniorNotesDue2031Memberus-gaap:ConvertibleDebtMember2026-01-012026-06-300001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2025-01-012025-06-300001622229cogt:ConversionOfConvertibleNotesMember2026-01-012026-06-300001622229cogt:OtherOperationalInfrastructureAndAdvisorySupportMember2025-04-012025-06-300001622229cogt:PlexxikonLicenseAgreementMember2022-06-300001622229us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-300001622229us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2025-12-310001622229cogt:PlexxikonLicenseAgreementMember2026-01-012026-06-300001622229cogt:WalthamLeaseMember2025-09-050001622229us-gaap:SeriesBPreferredStockMember2025-01-012025-06-300001622229us-gaap:CommonStockMember2026-01-012026-03-310001622229us-gaap:CommonStockMember2025-01-012025-06-300001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2025-12-310001622229us-gaap:CommonStockMember2025-12-310001622229us-gaap:CommonStockMember2025-04-012025-06-300001622229cogt:ConvertibleSeniorNotesDue2031Memberus-gaap:ConvertibleDebtMember2025-11-182025-11-180001622229cogt:AndrewRobbinsMember2026-04-012026-06-300001622229us-gaap:CommonStockMember2026-01-012026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2025-12-3100016222292026-06-300001622229us-gaap:CommonStockMember2022-06-130001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2025-01-012025-06-300001622229us-gaap:ResearchAndDevelopmentExpenseMember2025-04-012025-06-300001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2025-04-012025-06-300001622229cogt:ConvertibleSeniorNotesDue2031Member2026-01-012026-06-300001622229us-gaap:GeneralAndAdministrativeExpenseMember2026-04-012026-06-300001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2026-01-012026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesANonVotingConvertiblePreferredStockMember2025-06-300001622229cogt:SeriesANonVotingConvertiblePreferredStockMember2026-06-300001622229us-gaap:ResearchAndDevelopmentExpenseMember2026-01-012026-06-300001622229cogt:ResearchAndDevelopmentPersonnelRelatedMember2025-04-012025-06-300001622229us-gaap:CommonStockMember2026-03-310001622229us-gaap:CommonStockMember2026-06-300001622229us-gaap:EmployeeStockMember2026-04-012026-06-3000016222292025-12-310001622229cogt:ArleneMorrisMember2026-04-012026-06-300001622229us-gaap:RetainedEarningsMember2025-04-012025-06-300001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2025-03-310001622229cogt:SeriesANonVotingConvertiblePreferredStockMembersrt:MinimumMember2026-06-300001622229cogt:EvanKearnsMember2026-04-012026-06-300001622229cogt:SeriesBNonVotingConvertiblePreferredStockMember2025-04-012025-06-300001622229cogt:WalthamLeaseMember2026-06-300001622229us-gaap:GeneralAndAdministrativeExpenseMember2026-01-012026-06-300001622229cogt:OtherOperationalInfrastructureAndAdvisorySupportMember2026-04-012026-06-300001622229us-gaap:SeriesAPreferredStockMemberus-gaap:CommonStockMember2026-01-012026-06-300001622229cogt:Stock-BasedCompensationExpenseMember2025-04-012025-06-300001622229us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001622229us-gaap:ResearchAndDevelopmentExpenseMember2026-04-012026-06-300001622229cogt:AtTheMarketProgramMember2026-01-012026-03-310001622229cogt:TwoThousandEighteenEmployeeStockPurchasePlanMembersrt:MaximumMember2018-03-282018-03-2800016222292025-04-012025-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMembersrt:MinimumMember2026-02-012026-02-280001622229cogt:ResearchAndDevelopmentSoftwareFacilitiesAndOtherStrategicSupportMember2025-01-012025-06-300001622229us-gaap:ResearchAndDevelopmentExpenseMember2025-01-012025-06-300001622229cogt:TimeBasedRestrictedStockUnitsSubjectToVestingMember2026-01-012026-06-300001622229us-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001622229cogt:ArleneMorrisMember2026-06-300001622229cogt:JohnGreenMember2026-06-300001622229us-gaap:FairValueMeasurementsRecurringMember2026-06-300001622229cogt:ResearchAndDevelopmentPersonnelRelatedMember2026-01-012026-06-3000016222292026-04-012026-06-300001622229cogt:PlexxikonLicenseAgreementMember2025-12-310001622229dei:FormerAddressMember2026-01-012026-06-3000016222292025-01-012025-12-310001622229cogt:LatestageDevelopmentMember2025-01-012025-06-300001622229cogt:GuggenheimSecuritiesLLCMemberus-gaap:SubsequentEventMember2026-07-012026-07-010001622229us-gaap:EmployeeStockOptionMember2026-06-300001622229cogt:DepreciationExpenseMember2026-04-012026-06-300001622229cogt:CreditFacilityMember2025-06-110001622229us-gaap:CommonStockMember2025-04-012025-06-300001622229srt:MinimumMembercogt:SeriesBNonVotingConvertiblePreferredStockMember2024-06-102024-06-100001622229cogt:OtherOperationalInfrastructureAndAdvisorySupportMember2025-01-012025-06-300001622229cogt:KarenFerranteMember2026-06-300001622229us-gaap:PreferredStockMembercogt:SeriesBConvertiblePreferredStockMember2024-12-310001622229us-gaap:SeriesAPreferredStockMember2025-04-012025-06-300001622229cogt:AndrewRobbinsMember2026-06-300001622229cogt:PerformanceBasedRestrictedStockUnitsPsusMember2026-06-300001622229us-gaap:FairValueInputsLevel2Memberus-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001622229cogt:TwoThousandEighteenStockOptionAndIncentivePlanMember2018-03-270001622229cogt:CreditFacilityMember2026-04-012026-06-3000016222292025-03-31cogt:Securityxbrli:purecogt:Daysutr:sqftxbrli:sharescogt:Segmentiso4217:USDutr:sqftiso4217:USDiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 10-Q
+
+(Mark One)
+
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2026
+
+OR
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from  to
+
+Commission File Number: 001-38443
+
+Cogent Biosciences, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+46-5308248
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(I.R.S. Employer
+
+Identification Number)
+
+180 Third Avenue, 4th Floor
+
+Waltham, Massachusetts
+
+02451
+
+(Address of principal executive offices)
+
+(Zip code)
+
+(617)945-5576
+
+(Registrant’s telephone number, including area code)
+
+275 Wyman Street, 3rd Floor
+
+Waltham, Massachusetts
+
+(Former name or former address, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 Par Value
+
+COGT
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+As of August 6, 2026, there were 173,524,982 shares of the registrant’s common stock, $0.001 par value per share, outstanding.
+
+FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q contains forward-looking statements, which reflect our current views with respect to, among other things, our operations and financial performance. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding our future results of operations and financial position, anticipated regulatory approval and commercial launch of bezuclastinib, business strategy and plans, and objectives of management for future operations, are forward-looking statements. These statements involve known and unknown risks, uncertainties, and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements.
+
+In some cases, you can identify forward-looking statements by terms such as “may,” “should,” “expects,” “might,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” “seek,” “would” or “continue,” or the negative of these terms or other similar expressions. The forward-looking statements in this Quarterly Report on Form 10-Q are only predictions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition and results of operations. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. These forward-looking statements speak only as of the date of this Quarterly Report on Form 10-Q and are subject to a number of risks, uncertainties and assumptions described in Item 1A “Risk Factors.” Because forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified, you should not rely on these forward-looking statements as predictions of future events. The events and circumstances reflected in our forward-looking statements may not be achieved or occur and actual results could differ materially from those projected in the forward-looking statements. Some of the key factors that could cause actual results to differ from our expectations include:
+
+•
+the potential impacts of raising additional capital, including dilution to our existing stockholders, restrictions on our operations or requirements that we relinquish rights to our technologies or product candidates;
+
+•
+the success, cost, and duration of our product development activities and clinical trials, including the enrollment rates in our clinical trials;
+
+•
+the timing of the U.S. Food and Drug Administration’s (“FDA”) review and anticipated approval of our three pending new drug applications for our bezuclastinib product candidate and any other product candidates we may develop;
+
+•
+our ability to obtain and maintain regulatory approval for our bezuclastinib product candidate and any other product candidates we may develop, and any related restrictions, limitations, and/or warnings in the label of an approved product candidate;
+
+•
+the potential for our identified research priorities to advance our bezuclastinib product candidate or for our teams to discover and develop additional product candidates;
+
+•
+the ability to license additional intellectual property rights relating to our bezuclastinib product candidate or future product candidates from third-parties and to comply with our existing or future license agreements and/or collaboration agreements;
+
+•
+our ability to commercialize our bezuclastinib product candidate and future product candidates in light of the intellectual property rights of others;
+
+•
+our ability to obtain funding for our operations, including funding necessary to complete further discovery, development and commercialization of our existing and future product candidates;
+
+•
+the scalability and commercial viability of our manufacturing methods and processes;
+
+•
+the commercialization of our product candidates, if approved;
+
+•
+our ability to attract collaborators with development, regulatory, and commercialization expertise;
+
+•
+future agreements with third parties in connection with the commercialization of our product candidates and any other approved product;
+
+•
+the size and growth potential of the markets for our product candidates, and our ability to serve those markets;
+
+•
+the rate and degree of market acceptance of our product candidates;
+
+•
+the pricing and reimbursement of our product candidates, if approved;
+
+•
+regulatory developments in the United States and foreign countries, including pharmaceutical and biological product marketing regulation;
+
+i
+
+•
+the impact of adverse business and economic conditions including inflationary pressures, general economic slowdown or a recession, high interest rates, changes in monetary policy, banking institution instability, changes in trade policies, including tariffs or other trade-related actions or the threat of such actions, and the prospect of a shutdown of the U.S. federal government;
+
+•
+our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately;
+
+•
+the development and success of competing therapies that are or may be under development in clinical trials or become available commercially;
+
+•
+our ability to attract and retain key scientific and management personnel;
+
+•
+our ability to satisfy the conditions, covenants, and obligations applicable to our convertible notes;
+
+•
+the accuracy of our estimates regarding expenses, future revenue, capital requirements, and needs for additional financing;
+
+•
+our use of the proceeds from the private placements, debt issuance, sales of our preferred stock and public offerings of our common stock from time to time; and
+
+•
+our expectations regarding our ability to obtain and maintain intellectual property protection for our bezuclastinib product candidate and future product candidates.
+
+While we may elect to update these forward-looking statements at some point in the future, whether as a result of any new information, future events, or otherwise, we have no current intention of doing so except to the extent required by applicable law.
+
+ii
+
+Cogent Biosciences, Inc.
+
+Table of Contents
+
+Page
+
+PART I—FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements (Unaudited)
+
+1
+
+Condensed Consolidated Balance Sheets
+
+1
+
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+
+2
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+3
+
+Condensed Consolidated Statements of Cash Flows
+
+5
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+6
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+18
+
+Item 3.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+28
+
+Item 4.
+
+Controls and Procedures
+
+29
+
+PART II—OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+30
+
+Item 1A.
+
+Risk Factors
+
+30
+
+Item 2.
+
+Recent Sales of Unregistered Securities and Use of Proceeds
+
+30
+
+Item 3.
+
+Defaults Upon Senior Securities
+
+30
+
+Item 4.
+
+Mine Safety Disclosures
+
+30
+
+Item 5.
+
+Other Information
+
+30
+
+Item 6.
+
+Exhibits
+
+32
+
+Signatures
+
+33
+
+iii
+
+PART I—FINANCIAL INFORMATION

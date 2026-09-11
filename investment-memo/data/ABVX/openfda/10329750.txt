@@ -1,0 +1,4 @@
+FAERS adverse-event report 10329750 (comparator: vedolizumab)
+Serious: yes
+Reactions: Abdominal pain, Septic shock, Large intestine perforation, General physical health deterioration
+Reported drugs: LANTUS, CORTANCYL, VEDOLIZUMAB, NOVORAPID

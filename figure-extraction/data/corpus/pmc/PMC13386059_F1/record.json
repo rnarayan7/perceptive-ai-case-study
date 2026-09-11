@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13386059_F1",
+  "figure_type": "spider",
+  "title": "Safety and efficacy of fecal microbiota transplantation in solid cancers resistant to immune checkpoint inhibitors: results of the MITRIC trial.",
+  "caption": "Study treatment and clinical outcomes. ( A ) Patients with progressive disease on ICI therapy were enrolled. Up to five FMT administrations were allowed. ICI therapy was either continued according to the schedule as per study enrollment or was reintroduced shortly after the first FMT. ( B ) Spider plot showing changes in the sum of target lesions according to iRECIST. Recipients are colored by FMT donor. ( C ) Swimmer plot. Each bar represents one recipient, showing the number of FMTs, PFS and OS. The total length of the bar represents OS. The blue section of the bar illustrates PFS per iRECIST, the gray section of the bar depicts post-progression survival. Numbers on the y-axis represent patient IDs. iCPD, confirmed progressive disease; iUPD, unconfirmed progressive disease; FMT, fecal microbiota transplant; HNSCC, head and neck squamous cell carcinoma; MSI-H, microsatellite instability-high; OS, overall survival; PD, progression of disease; PDAC, pancreatic ductal adenocarcinoma; PFS, progression-free survival; R, recipient; RCC, renal cell carcinoma.",
+  "context": "Study treatment and clinical outcomes. ( A ) Patients with progressive disease on ICI therapy were enrolled. Up to five FMT administrations were allowed. ICI therapy was either continued according to the schedule as per study enrollment or was reintroduced shortly after the first FMT. ( B ) Spider plot showing changes in the sum of target lesions according to iRECIST. Recipients are colored by FMT donor. ( C ) Swimmer plot. Each bar represents one recipient, showing the number of FMTs, PFS and OS. The total length of the bar represents OS. The blue section of the bar illustrates PFS per iRECIST, the gray section of the bar depicts post-progression survival. Numbers on the y-axis represent patient IDs. iCPD, confirmed progressive disease; iUPD, unconfirmed progressive disease; FMT, fecal microbiota transplant; HNSCC, head and neck squamous cell carcinoma; MSI-H, microsatellite instability-high; OS, overall survival; PD, progression of disease; PDAC, pancreatic ductal adenocarcinoma; PFS, progression-free survival; R, recipient; RCC, renal cell carcinoma. Feasibility and exposure of study interventions The study allowed for up to five sequential FMTs ( figure 1A ), administered by colonoscopy (first two FMTs) or enema (3rd–5th FMT). Response data of individual patients are shown in figure 1B . The number of FMTs, PFS and OS of individual patients are displayed in figure 1C . The patient with RCC experienced stable disease until week 14, while the patient with MSI-H pancreatic c",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13386059/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-20",
+  "retrieved_at": "2026-09-07T13:17:12.069196+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13386059",
+    "pmid": "42476727",
+    "journal": "Journal for immunotherapy of cancer",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "2c27f296e57dd36eca8276f06c2c23b5eda3524aabcd7a4f0478f4af5895fa64",
+  "image_file": "image.jpg"
+}

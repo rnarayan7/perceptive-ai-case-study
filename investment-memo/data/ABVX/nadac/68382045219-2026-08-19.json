@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "68382045219-2026-08-19",
+  "title": "NADAC price: MESALAMINE ER 0.375 GRAM CAP",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:22.585105+00:00",
+  "metadata": {
+    "ndc": "68382045219",
+    "ndc_description": "MESALAMINE ER 0.375 GRAM CAP",
+    "nadac_per_unit": 0.48654,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "mesalamine"
+  },
+  "hash": "681a93a753ef9cdf9e680ecb2a0aaa475285f2d7c8ec1e2c505b4c0520090e36"
+}

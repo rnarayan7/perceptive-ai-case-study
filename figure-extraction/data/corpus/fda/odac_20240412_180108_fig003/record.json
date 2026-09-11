@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240412_180108_fig003",
+  "figure_type": "unknown",
+  "title": "odac_20240412_180108 figure 3",
+  "caption": "",
+  "context": "April 12, 2024\nOncologic Drugs Advisory Committee Meeting\n\n\n  INDUSTRY PRESENTATIONS                     International Independent Team for Endpoint\n                                             Approval of Myeloma Minimal Residual Disease\n                                             (I2TEAMM)\n\n  Introduction                               Brian G. M. Durie, MD\n                                             Cedars-Sinai Comprehensive Cancer Center\n                                             Los Angeles, California\n\n  The Need for MRD Assessment                Bruno Paiva, PhD\n                                             Director of Flow Cytometry\n                                             Department of Hematology and Immunology\n                                             CIMA Laboratory Diagnostics\n                                             University of Navara, SPAIN\n\n  Meta-Analyses and Key Results              Qian Shi, PhD\n                                             Professor of Biostatistics and Oncology\n                                             Department of Quantitative Health Sciences\n                                             Mayo Clinic\n                                             Rochester, Minnesota\n\n  Conclusions                                Kenneth C. Anderson, MD\n                                             Kraft Family Professor of Medicine\n                                             Dana-Farber Cancer Institute\n                                             and Harvard Medical School\n                                             Boston, Massachusetts\n\n  FDA PRESENTATIONS\n\n  MRD to Support Accelerated Approval        Rachel Ershler, MD, MHS\n                                             Clinical Reviewer\n                                             DHM II, OOD, OND, CDER, FDA\n\n                                             Jing Zhang, PhD\n                                             Statistical Reviewer\n                                             Division of Biometrics IX\n                                             Office of Biostatistics\n                                             Office of Translational Sciences, CDER, FDA\n\n  BREAK\n\n  Clarifying Questions\n\n  LUNCH\n\n  OPEN PUBLIC HEARING\n\n  Questions to the Committee/ Committee\n  Discussion\n\n  ADJOURNMENT\n\n\n                                          Page 4 of 6\n\f",
+  "url": "https://www.fda.gov/media/180108/download",
+  "image_url": "https://www.fda.gov/media/180108/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:01.286489+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240412_180108",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "3946805d6e15e358e68a9fbcb726bf26e912e635a367dc86347af71fb2ef2b9f",
+  "image_file": "image.png"
+}

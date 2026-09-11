@@ -1,0 +1,13 @@
+Title: A Proof-of-Concept Study to Assess Batoclimab in Participants With Graves' Disease
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Graves Disease
+Interventions: IMVT-1401 (batoclimab) (DRUG)
+Enrollment: 32
+
+Summary: The purpose of this study is to assess the efficacy and safety of 24 weeks of treatment with batoclimab in adult participants with biochemically documented hyperthyroidism due to GD who have failed to achieve euthyroidism on antithyroid drugs (ATDs).
+
+Primary outcomes:
+- Percentage of Participants Who Achieved Normalization of Free Triiodothyronine (FT3) and Free Thyroxine (FT4), or Have FT3 and/or FT4 Below the Lower Limit of Normal (LLN) at Week 24 Without Increase in ATD Dose Compared to Baseline (time frame: At Week 24)

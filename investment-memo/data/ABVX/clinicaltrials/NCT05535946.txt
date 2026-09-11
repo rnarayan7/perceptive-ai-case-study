@@ -1,0 +1,18 @@
+Title: ABTECT - Maintenance
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 (DRUG), Placebo (DRUG)
+Enrollment: 1116
+
+Summary: This is a multicenter, randomized, placebo-controlled study to evaluate the long-term efficacy and safety of ABX464 50mg and 25mg administered once daily (QD) as maintenance therapy in subjects with moderately to severely active ulcerative colitis who have inadequate response, no response, a loss of response, or an intolerance to either conventional therapies \[corticosteroids, immunosuppressant (i.e. azathioprine, 6-mercaptopurine, methotrexate)\] and/or advanced therapies \[biologics (TNF inhibitors, anti-integrins, anti-IL-23), and/or S1P receptor modulators, and/or JAK inhibitors\].
+
+This study is the maintenance phase of both previous induction studies ABX464-105 and ABX464-106.
+
+Primary outcomes:
+- Rate of subjects in clinical remission at Week 44 (time frame: Week 44)
+- Number and percentage of all treatment-emergent adverse events (TEAEs) (time frame: Week 44)
+- Number and percentage of all serious adverse events (SAEs) (time frame: Week 44)
+- Number and percentage of all causally related TEAEs/SAEs (time frame: Week 44)

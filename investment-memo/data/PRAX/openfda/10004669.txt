@@ -1,0 +1,4 @@
+FAERS adverse-event report 10004669 (comparator: lamotrigine)
+Serious: yes
+Reactions: Transfusion, Liver disorder, Rash, Contusion, Urticaria
+Reported drugs: LAMICTAL, SEROQUEL, WELLBUTRIN SR, VENTOLIN HFA, METFORMIN

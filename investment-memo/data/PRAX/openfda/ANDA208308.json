@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA208308",
+  "title": "Drugs@FDA ANDA208308: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A208308",
+  "published": "2022-03-17",
+  "retrieved_at": "2026-09-08T08:40:37.245849+00:00",
+  "metadata": {
+    "manufacturer": "REGCON HOLDINGS",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "REGCON HOLDINGS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2022-03-17",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 4
+  },
+  "hash": "4435d33dd8a270c4ac768baa1e2a908785b71e847db30bb221049e3f3d642799"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13356958_bvag152-F2",
+  "figure_type": "spider",
+  "title": "Gemcitabine and oxaliplatin combination in patients with advanced adrenocortical carcinoma.",
+  "caption": "Swimmer's plot illustrating clinical treatment response and therapy duration. Abbreviations: GemOx: gemcitabine and oxaliplatin; PD: progressive disease; PR: partial response; SD: stable disease. Treatment-related toxicities and subsequent therapies are summarized in the Table S1 [ 15 ].",
+  "context": "Swimmer's plot illustrating clinical treatment response and therapy duration. Abbreviations: GemOx: gemcitabine and oxaliplatin; PD: progressive disease; PR: partial response; SD: stable disease. Treatment-related toxicities and subsequent therapies are summarized in the Table S1 [ 15 ].",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13356958/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:13:44.403197+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13356958",
+    "pmid": "42438583",
+    "journal": "Journal of the Endocrine Society",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "830d9a37468b39a40ecf89f43c72fc07248a35d884ba50e114a4d2d56c877c2e",
+  "image_file": "image.jpg"
+}

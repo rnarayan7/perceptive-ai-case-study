@@ -1,0 +1,29 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12042990",
+  "title": "FAERS report 12042990: Asthma, Wheezing",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12042990",
+  "published": "2025-07-09",
+  "retrieved_at": "2026-09-08T08:40:20.461017+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Asthma",
+      "Wheezing"
+    ],
+    "drugs": [
+      "ALLEGRA",
+      "FLUTICASONE FUROATE\\VILANTEROL TRIFENATATE",
+      "MONTELUKAST SODIUM",
+      "NASONEX",
+      "PREDONINE",
+      "DUPILUMAB vs Placebo",
+      "INFLUENZA VIRUS VACCINE"
+    ],
+    "occurcountry": "JP"
+  },
+  "hash": "be311d0a5ed2b9673649c11efe63df32c66ac43ab5d060a31a6b5699a49ade9d"
+}

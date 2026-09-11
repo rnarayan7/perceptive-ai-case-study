@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17499413",
+  "title": "FAERS report 17499413: Nephrolithiasis, Dehydration, Asthenia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17499413",
+  "published": "2020-03-05",
+  "retrieved_at": "2026-09-08T08:40:57.628319+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Nephrolithiasis",
+      "Dehydration",
+      "Asthenia",
+      "Nausea"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "f24c123706fbed91d80bed6e740a26b9f0411657ebc9d085b6cf9cb8268d9a12"
+}

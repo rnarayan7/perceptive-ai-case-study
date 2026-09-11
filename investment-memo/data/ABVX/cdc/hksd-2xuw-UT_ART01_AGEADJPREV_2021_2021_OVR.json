@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-UT_ART01_AGEADJPREV_2021_2021_OVR",
+  "title": "Arthritis - Utah - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002563+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Utah",
+    "location_abbr": "UT",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "21.7",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "e71f868d219672656e70f6fc09c8689c1fbb9b8af625995ec186af4cfdbe8af8"
+}

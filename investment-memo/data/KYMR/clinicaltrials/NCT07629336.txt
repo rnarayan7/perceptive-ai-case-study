@@ -1,0 +1,36 @@
+Title: SAR447971 First-in-human Study
+Status: RECRUITING
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Sanofi
+Conditions: Hidradenitis, Healthy Volunteers
+Interventions: SAR447971 (DRUG), Placebo (DRUG)
+Enrollment: 114
+
+Summary: SAD20411 is a single-center, first-in-human, double-blind, randomized, placebo-controlled, sequential single ascending dose study in healthy male and/or female participants with a pilot food effect investigation.
+
+MAD20412 is a single-center, double-blind, randomized, placebo-controlled, sequential multiple ascending dose study in healthy male and/or female participants.
+
+MAD24339 is an open-label, sequential multiple ascending dose study in hidradenitis suppurativa (HS) male and/or female participants.
+
+Number of participants - The total expected number of healthy participants is approximately 94 and the total number of HS participants is expected to be approximately 20.
+
+* SAD20411 will enroll up to 46 participants
+* MAD20412 will enroll up to 48 participants
+* MAD24339 will enroll up to 20 participants
+
+Duration of study - The anticipated study duration per participant is up to approximately 10 weeks in SAD20411 and MAD20412, and up to approximately 12 weeks in MAD24339.
+
+Primary outcomes:
+- SAD20411: Incidence of treatment emergent adverse events (TEAEs) (time frame: Day 1 to Day 15)
+- SAD20411: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis) (time frame: Day 1 to Day 15)
+- SAD20411: Incidence of clinically significant abnormalities in vital signs (time frame: Day 1 to Day 15)
+- SAD20411: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF) (time frame: Day 1 to Day 15)
+- MAD20412: Incidence of treatment emergent adverse events (TEAEs) (time frame: Day 1 to Dat 29)
+- MAD20412: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis) (time frame: Day 1 to Dat 29)
+- MAD20412: Incidence of clinically significant abnormalities in vital signs (time frame: Day 1 to Dat 29)
+- MAD20412: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF) (time frame: Day 1 to Dat 29)
+- MAD24339: Incidence of treatment emergent adverse events (TEAEs) (time frame: Day 1 to Day 42)
+- MAD24339: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis) (time frame: Day 1 to Day 42)
+- MAD24339: Incidence of clinically significant abnormalities in vital signs (time frame: Day 1 to Day 42)
+- MAD24339: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF) (time frame: Day 1 to Day 42)

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13340334_f0003",
+  "figure_type": "kaplan_meier",
+  "title": "Updated Real-World Outcomes with Brentuximab Vedotin in Chinese Lymphoma Patients: A Multicenter, Retrospective Study.",
+  "caption": "Kaplan-Meier survival curves of 101 patients who received BV as first-line therapy. ( A ) The progression-free survival curve among 101 patients. ( B ) The overall survival curve among 101 patients.",
+  "context": "Kaplan-Meier survival curves of 101 patients who received BV as first-line therapy. ( A ) The progression-free survival curve among 101 patients. ( B ) The overall survival curve among 101 patients. The 1-year, 2-year and 3-yearOS rates were 91.4%, 87.5%and 87.5%, respectively ( Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13340334/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-03",
+  "retrieved_at": "2026-09-07T12:55:41.700453+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13340334",
+    "pmid": "42415936",
+    "journal": "Drug design, development and therapy",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "e75dbd47954eb7e3ae474291bc7bbb30515735149a89a829ab6c0f73e526e8e0",
+  "image_file": "image.jpg"
+}

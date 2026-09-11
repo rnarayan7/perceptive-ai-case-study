@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "37552303",
+  "title": "Atorvastatin for Anthracycline-Associated Cardiac Dysfunction: The STOP-CA Randomized Clinical Trial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37552303/",
+  "published": "2023",
+  "retrieved_at": "2026-09-07T08:25:52.542675+00:00",
+  "metadata": {
+    "journal": "JAMA",
+    "year": "2023",
+    "pmid": "37552303"
+  },
+  "hash": "a90d85e523a4faa512fb50edd6615764fc42cff151fc15308c9cdaadf6e10b7f"
+}

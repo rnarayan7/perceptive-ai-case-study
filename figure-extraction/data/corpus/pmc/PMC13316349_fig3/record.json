@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13316349_fig3",
+  "figure_type": "kaplan_meier",
+  "title": "Therapy and biomarker dependent progression-free survival in infant sonic hedgehog medulloblastoma: a multi-national retrospective cohort study.",
+  "caption": "Progression-free survival of iMB SHH  patients receiving upfront CSI and CTx treatment.  (A) Univariable Cox proportional hazards regression model of progression-free survival. p-values for Cox proportional hazards tests are shown. (B) Kaplan–Meier plot of progression-free survival according to DN/MBEN versus CLA/LCA pathological variants. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. (C) Kaplan–Meier plot of progression-free survival according to MYCN amplification status. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. (D) Kaplan–Meier plot of progression-free survival according to SHH molecular subgroup. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. STR = Sub-total resection. M+ = Metastatic disease. DN = Desmoplastic nodular. MBEN = Medulloblastoma with extensive nodularity. CLA = Classic histology. LCA = Large cell anaplastic histology. CI = Confidence interval.",
+  "context": "Progression-free survival of iMB SHH  patients receiving upfront CSI and CTx treatment.  (A) Univariable Cox proportional hazards regression model of progression-free survival. p-values for Cox proportional hazards tests are shown. (B) Kaplan–Meier plot of progression-free survival according to DN/MBEN versus CLA/LCA pathological variants. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. (C) Kaplan–Meier plot of progression-free survival according to MYCN amplification status. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. (D) Kaplan–Meier plot of progression-free survival according to SHH molecular subgroup. At-risk tables (numbers censored in parentheses) and p-values from log-rank tests are shown. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. STR = Sub-total resection. M+ = Metastatic disease. DN = Desmoplastic nodular. MBEN = Medulloblastoma with extensive nodularity. CLA = Classic histology. LCA = Large cell anaplastic histology. CI = Confidence interval.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13316349/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T12:54:52.572282+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13316349",
+    "pmid": "42382416",
+    "journal": "EClinicalMedicine",
+    "fig_label": "Fig. 3"
+  },
+  "image_hash": "e1d73b3985060529a9c7ff8458c96125a0931afc189aa7d8b15f70a4b4b4e75f",
+  "image_file": "image.jpg"
+}

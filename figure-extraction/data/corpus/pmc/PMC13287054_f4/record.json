@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13287054_f4",
+  "figure_type": "forest",
+  "title": "Antibody-based regimens targeting PD-1/PD-L1 and VEGF/VEGFR in advanced or metastatic NSCLC: a meta-analysis of RCTs.",
+  "caption": "Forest plot of OS with antibody-based regimens targeting PD-1/PD-L1 and VEGF/VEGFR in advanced or metastatic NSCLC (p<0.001).",
+  "context": "Forest plot of OS with antibody-based regimens targeting PD-1/PD-L1 and VEGF/VEGFR in advanced or metastatic NSCLC (p<0.001). Pooled analysis—results of OS A pooled analysis of seven studies reporting OS demonstrated that the intervention group achieved a significant improvement in OS compared with the control group (HR = 0.79, 95%CI: 0.71-0.87, p<0.001), with negligible heterogeneity (I²=0%), as shown in Figure 4 . Sensitivity analysis was performed by sequentially excluding each study, and the pooled HR and 95%CI remained stable without substantial changes, supporting the robustness of the PFS result, as shown in Supplementary Figure 4 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13287054/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-09",
+  "retrieved_at": "2026-09-07T13:06:45.862798+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.79 (95% CI 0.71-0.87)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "in OS compared with the control group (HR = 0.79, 95%CI: 0.71-0.87, p<0.001), with negligible heterogeneit",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13287054",
+    "pmid": "42344916",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "e8abfefaeb4ec967d910e58f59da0ddf74aece5e258748433cde3f19d0478950",
+  "image_file": "image.jpg"
+}

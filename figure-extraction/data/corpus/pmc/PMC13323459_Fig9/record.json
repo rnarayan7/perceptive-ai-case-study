@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13323459_Fig9",
+  "figure_type": "waterfall",
+  "title": "Radiologic response assessment in patients with desmoid-type fibromatosis treated with percutaneous cryoablation.",
+  "caption": "Radiologic responses according to M-RECIST on the overall series of patients. Waterfall plot depicting M-RECIST responses on the overall series of evaluable patients ( n  = 34).  *** PD due to the appearance of new lesions adjacent to but distinct from the treated lesion",
+  "context": "Radiologic responses according to M-RECIST on the overall series of patients. Waterfall plot depicting M-RECIST responses on the overall series of evaluable patients ( n  = 34).  *** PD due to the appearance of new lesions adjacent to but distinct from the treated lesion",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13323459/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T12:57:12.050592+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13323459",
+    "pmid": "42384128",
+    "journal": "European radiology experimental",
+    "fig_label": "Fig. 9"
+  },
+  "image_hash": "336b8ef309d90775f716a2f1c0426737eaaad2207b5ba7d8c858dca79877629e",
+  "image_file": "image.jpg"
+}

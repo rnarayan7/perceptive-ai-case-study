@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2467-annual-incidence-europe-da50c60a",
+  "title": "Systemic mastocytosis - Annual incidence (Europe) [ORPHA:2467]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T13:31:34.382713+00:00",
+  "metadata": {
+    "orphacode": 2467,
+    "preferred_term": "Systemic mastocytosis",
+    "disorder_group": "Group of disorders",
+    "typology": "Clinical group",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "0.6",
+    "geographic_area": "Europe",
+    "validation_status": "Validated",
+    "source": "24761987[PMID]_8645532[PMID]",
+    "source_pmids": [
+      "24761987",
+      "8645532"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "da50c60a777d707ed120fd9189989b7f8134e4041266eb2ea6665d43e9f97fd8"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 10348805 (comparator: vedolizumab)
+Serious: yes
+Reactions: Pseudomonas aeruginosa meningitis
+Reported drugs: ENTYVIO, AZATHIOPRINE., IMURAN, SOLU-MEDROL, PREDNISONE., PREDNISONE., IMURAN

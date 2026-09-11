@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA219403",
+  "title": "Drugs@FDA ANDA219403: CENOBAMATE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A219403",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:32.689935+00:00",
+  "metadata": {
+    "manufacturer": "ZENARA PHARMA PRIVATE LTD",
+    "brand_name": "CENOBAMATE",
+    "sponsor_name": "ZENARA PHARMA PRIVATE LTD",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "CENOBAMATE"
+    ],
+    "active_ingredients": [
+      "CENOBAMATE"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "56501738c41ec8ea38a4e5d863385dd45f1bc5f9195c7e89708af88443a6ae99"
+}

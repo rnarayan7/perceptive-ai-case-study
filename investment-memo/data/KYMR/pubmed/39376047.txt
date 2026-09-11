@@ -1,0 +1,3 @@
+Title: Discovery of the First Clinical Protein Degrader for the Treatment of Autoimmune Indications: Orally Bioavailable and Selective IRAK4 Degrader KT-474.
+Journal: Journal of medicinal chemistry
+Abstract: IRAK4 inhibitors have been sought for the treatment of a host of diseases, however, recent evidence suggests a protein degradation approach might have advantages over an inhibitor. This viewpoint summarizes the discovery of KT-474─a selective and orally bioavailable interleuken receptor-associated kinase 4 proteolysis-targeting chimera in Phase 2 clinical trials for autoimmune indications.

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13135962_f4",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of local consolidative therapy combined with systemic therapy in driver-negative oligometastatic non-small cell lung cancer: a systematic review and meta-analysis.",
+  "caption": "Objective response rate (ORR) and treatment-related adverse events (TRAE).  (A)  Forest plot showing pooled risk ratios (RRs) for ORR comparing systemic therapy plus LCT versus systemic therapy alone.  (B)  Forest plot showing pooled risk ratios (RRs) for TRAE between the two treatment strategies.",
+  "context": "Objective response rate (ORR) and treatment-related adverse events (TRAE).  (A)  Forest plot showing pooled risk ratios (RRs) for ORR comparing systemic therapy plus LCT versus systemic therapy alone.  (B)  Forest plot showing pooled risk ratios (RRs) for TRAE between the two treatment strategies. Objective response rate The pooled analysis demonstrated a significantly higher objective response rate in patients receiving LCT in addition to systemic therapy compared with systemic therapy alone (RR = 1.47, 95% CI 1.12-1.93, Figure 4A ). Treatment-related adverse events No significant difference in the incidence of treatment-related adverse events was observed between patients receiving LCT and those receiving systemic therapy alone (RR = 1.31, 95% CI 0.93-1.84, Figure 4B ). Publication bias of the studies Visual inspection of funnel plots suggested mild asymmetry for OS and PFS ( Supplementary Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13135962/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-04-20",
+  "retrieved_at": "2026-09-07T13:05:51.659286+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13135962",
+    "pmid": "42088207",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "c42bb2ed8f4bf979dba14f1e28d3c2b2b8914b215759e68db41e82aa7adf8f93",
+  "image_file": "image.jpg"
+}

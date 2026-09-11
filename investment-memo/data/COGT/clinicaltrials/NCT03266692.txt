@@ -1,0 +1,14 @@
+Title: Study of ACTR087 in Combination With SEA-BCMA in Subjects With Relapsed or Refractory Multiple Myeloma
+Status: TERMINATED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Multiple Myeloma, Multiple Myeloma in Relapse, Refractory Multiple Myeloma
+Interventions: ACTR087 (BIOLOGICAL), SEA-BCMA (BIOLOGICAL)
+Enrollment: 15
+
+Summary: This is a phase 1, multi-center, single-arm, open-label study evaluating the safety, tolerability, and anti-myeloma activity of ACTR087 (an autologous T cell product) in combination with SEA-BCMA (a monoclonal antibody) in subjects with relapsed or refractory Multiple Myeloma.
+
+Primary outcomes:
+- Safety and tolerability of ACTR087 in combination with SEA-BCMA (time frame: 28 days)
+- Determination of recommended Phase 2 dosing regimen (time frame: 52 weeks)

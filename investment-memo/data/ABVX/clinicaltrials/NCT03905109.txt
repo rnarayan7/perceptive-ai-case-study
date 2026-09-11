@@ -1,0 +1,14 @@
+Title: Phase 2b/3 Study of ABX464 in Moderate to Severe Active Crohn's Disease Patients
+Status: WITHDRAWN
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Crohn Disease
+Interventions: ABX464 (DRUG), Placebo (DRUG)
+Enrollment: 0
+
+Summary: This is a multicenter, randomized, placebo controlled study to evaluate the efficacy and safety of ABX464, administered once daily (QD), in inducing clinical remission and endoscopic response in patients with moderate to severe active Crohn's disease (CD) who have inadequate response, loss of response, or intolerance to prior corticosteroid and/or immunosuppressant treatment and/or biologics. This study consists of a 28 day Screening Period, a 52 week Treatment Period; including a 12 week double blinded (Cohort 1) or open label (Cohort 2) Induction Phase and a 40 week double blinded (responders) or open label (nonresponders) Maintenance Phase; and a 4 week Follow up Period, which will consist of an End of Study (EOS) visit
+
+Primary outcomes:
+- The co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of (time frame: from baseline, at Week 12)
+- Co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of (time frame: from baseline, at Week 12)

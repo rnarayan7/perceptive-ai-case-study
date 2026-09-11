@@ -1,0 +1,48 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03680560",
+  "title": "Study of ACTR T Cell Product in Combination With Trastuzumab in Subjects With HER2-Positive Advanced Solid Tumor Cancers",
+  "url": "https://clinicaltrials.gov/study/NCT03680560",
+  "published": "2018-09-21",
+  "retrieved_at": "2026-09-07T12:53:51.530838+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Solid Tumor",
+      "HER-2 Protein Overexpression"
+    ],
+    "interventions": [
+      {
+        "name": "ACTR T Cell Product",
+        "type": "BIOLOGICAL"
+      },
+      {
+        "name": "Trastuzumab",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 6,
+    "start_date": "2019-03-13",
+    "primary_completion_date": "2020-03-12",
+    "completion_date": "2020-03-12",
+    "first_posted_date": "2018-09-21",
+    "primary_outcomes": [
+      {
+        "measure": "Safety and tolerability of ACTR T cell product with trastuzumab as assessed by committee review of dose limiting toxicities (DLTs), incidence and severity of adverse events (AEs) and clinically significant abnormalities of laboratory values",
+        "timeFrame": "42 days"
+      },
+      {
+        "measure": "Determination of recommended phase 2 dose (RP2D) regimen",
+        "timeFrame": "42 days"
+      }
+    ]
+  },
+  "hash": "185f980938de7dafd6b5042611f7a78da76b3e1e393ad677e05d699334e22b52"
+}

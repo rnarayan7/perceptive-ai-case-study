@@ -1,0 +1,33 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06915766",
+  "title": "Expanded Access to Bezuclastinib for Patients With NonAdvanced Systemic Mastocytosis or Advanced Systemic Mastocytosis",
+  "url": "https://clinicaltrials.gov/study/NCT06915766",
+  "published": "2025-04-08",
+  "retrieved_at": "2026-09-07T12:53:51.523925+00:00",
+  "metadata": {
+    "phases": [],
+    "overall_status": "AVAILABLE",
+    "study_type": "EXPANDED_ACCESS",
+    "conditions": [
+      "Systemic Mastocytoses, Indolent",
+      "Systemic Mastocytoses, Aggressive"
+    ],
+    "interventions": [
+      {
+        "name": "Bezuclastinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": null,
+    "start_date": null,
+    "primary_completion_date": null,
+    "completion_date": null,
+    "first_posted_date": "2025-04-08",
+    "primary_outcomes": []
+  },
+  "hash": "ac617125ffaf4a92b5df88e4424cd49cb2e1b572909a28937f60e4f6a4783b7f"
+}

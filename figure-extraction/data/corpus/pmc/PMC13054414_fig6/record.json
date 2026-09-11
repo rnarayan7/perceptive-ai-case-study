@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13054414_fig6",
+  "figure_type": "spider",
+  "title": "MVI-targeted carbon-ion radiotherapy combined with immunotherapy for advanced hepatocellular carcinoma: Phase Ib DEPARTURE trial.",
+  "caption": "RNA-seq analysis of non-irradiated lesions and tumor microenvironment in patients receiving combined C-ion RT and immunotherapy. (A) Spider plot showing the dynamics of non-irradiated lesions. Patients were stratified into reduction (relative change ≤-5%) and progression groups (relative change >-5%) based on lesion size changes. (B) Radar charts comparing immune cell proportions between pre- and post-treatment biopsy specimens, as calculated by CIBERSORTx. Patient #2 in the progression group showed an increase in Treg proportions after treatment. (C) Lollipop plot displaying Gene Set Enrichment Analysis (GSEA) results comparing reduction and progression groups, highlighting differentially enriched pathways. (D) Lollipop plot showing GSEA results after excluding durvalumab monotherapy cases, comparing pathway enrichment between reduction and progression groups. (E) Heatmap of gene expression profiles from pretreatment biopsy specimens, illustrating the relationship between patient characteristics, treatment outcomes, and gene expression patterns. C-ion RT, carbon-ion radiotherapy; Treg, regulatory T cell.",
+  "context": "RNA-seq analysis of non-irradiated lesions and tumor microenvironment in patients receiving combined C-ion RT and immunotherapy. (A) Spider plot showing the dynamics of non-irradiated lesions. Patients were stratified into reduction (relative change ≤-5%) and progression groups (relative change >-5%) based on lesion size changes. (B) Radar charts comparing immune cell proportions between pre- and post-treatment biopsy specimens, as calculated by CIBERSORTx. Patient #2 in the progression group showed an increase in Treg proportions after treatment. (C) Lollipop plot displaying Gene Set Enrichment Analysis (GSEA) results comparing reduction and progression groups, highlighting differentially enriched pathways. (D) Lollipop plot showing GSEA results after excluding durvalumab monotherapy cases, comparing pathway enrichment between reduction and progression groups. (E) Heatmap of gene expression profiles from pretreatment biopsy specimens, illustrating the relationship between patient characteristics, treatment outcomes, and gene expression patterns. C-ion RT, carbon-ion radiotherapy; Treg, regulatory T cell.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13054414/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-02-05",
+  "retrieved_at": "2026-09-07T13:14:34.546375+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13054414",
+    "pmid": "41904890",
+    "journal": "JHEP reports : innovation in hepatology",
+    "fig_label": "Fig. 6"
+  },
+  "image_hash": "67a3d9043705495ba2b28def13b6f5d0a530a71243035da4d546bca36e074600",
+  "image_file": "image.jpg"
+}

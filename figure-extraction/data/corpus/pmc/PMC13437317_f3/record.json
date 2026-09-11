@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13437317_f3",
+  "figure_type": "waterfall",
+  "title": "Tumor fat composition predicts response to everolimus and supports low-dose therapy in TSC-associated renal angiomyolipomas: a multicenter prospective study.",
+  "caption": "Effects of everolimus on TSC-RAML with varying fat content.  (a)  Mean volume changes in RAMLs following everolimus treatment.  (b)  Best percentage change from baseline in tumor volume of fat-rich and fat-poor RAMLs after 6 months of everolimus treatment.  (c)  Mean CT value change in RAMLs after everolimus treatment.  (d)  Rate of changes in mean CT value from baseline levels in fat-rich and -poor RAML tumours.",
+  "context": "Effects of everolimus on TSC-RAML with varying fat content.  (a)  Mean volume changes in RAMLs following everolimus treatment.  (b)  Best percentage change from baseline in tumor volume of fat-rich and fat-poor RAMLs after 6 months of everolimus treatment.  (c)  Mean CT value change in RAMLs after everolimus treatment.  (d)  Rate of changes in mean CT value from baseline levels in fat-rich and -poor RAML tumours. As illustrated in Supplementary Figure 3a , everolimus treatment for 3–6 months resulted in a marked reduction in tumor size. Notably, in 5 patients (7.46%), the RAML volume exceeded the baseline level at 3 months after discontinuation; this number increased to 28 patients (47.46%) at 6 months ( Supplementary Figure 3b ). 12.66 (9.20–17.41) cm³, P <.001], indicating a weaker response to everolimus in fat-rich lesions ( Table 3 and Figure 3a ). In contrast, all fat-poor RAML group patients exhibited a reduction in RAML tumour volume; 96.30% (26/27) demonstrated a ≥30% reduction in RAML tumour volume, and an identical proportion of the patients exhibited a ≥ 50% reduction ( Figure 3b ). After 6 months of treatment, the mean CT value decreased in both groups, with a more considerable reduction observed in the fat-poor RAML group ( Table 3 ; Figure 3c ). In contrast, the mean CT value decreased in all fat-poor RAML group patients ( Figure 3d ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13437317/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-22",
+  "retrieved_at": "2026-09-07T12:56:50.956931+00:00",
+  "ground_truth": [
+    {
+      "quantity": "proportion (candidate)",
+      "value": "30% (26/27)",
+      "unit": null,
+      "population_n": 27,
+      "method": "regex_candidate",
+      "source_text": "d a reduction in RAML tumour volume; 96.30% (26/27) demonstrated a ≥30% reduction in RAML t",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13437317",
+    "pmid": "42558341",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "422d9e02402ed39f392bf62b652039040ef7f5e0bccf32f0ee265027e51f7cf8",
+  "image_file": "image.jpg"
+}

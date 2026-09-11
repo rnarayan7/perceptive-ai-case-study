@@ -1,0 +1,23 @@
+{
+  "company": "COGT",
+  "source": "edgar",
+  "doc_type": "424B5",
+  "doc_id": "000119312526342683",
+  "title": "Cogent Biosciences, Inc. 424B5 (2026-08-10)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342683/0001193125-26-342683-index.htm",
+  "published": "2026-08-10",
+  "retrieved_at": "2026-09-07T12:53:56.575509+00:00",
+  "metadata": {
+    "accession": "0001193125-26-342683",
+    "cik": 1622229,
+    "form": "424B5",
+    "primary_document": "d149476d424b5.htm",
+    "primary_doc_description": "424B5",
+    "report_date": "",
+    "filing_date": "2026-08-10",
+    "items": "",
+    "company_title": "Cogent Biosciences, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342683/d149476d424b5.htm"
+  },
+  "hash": "916b46542c6f77054a22ceaddab7b85408d99ebc11bcba638784278196a440e0"
+}

@@ -1,0 +1,1 @@
+Forest plot of the pooled HR for DFS. The combined HR was 2.36 (95% CI: 1.69–3.29) under a random-effects model ( Figure 3 ).

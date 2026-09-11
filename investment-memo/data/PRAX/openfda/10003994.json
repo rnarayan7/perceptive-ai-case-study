@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003994",
+  "title": "FAERS report 10003994: Convulsion, Tongue injury, Hallucination",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003994",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:41.208187+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Convulsion",
+      "Tongue injury",
+      "Hallucination",
+      "Anticonvulsant drug level below therapeutic",
+      "Injury"
+    ],
+    "drugs": [
+      "DEPAKOTE",
+      "ZONISAMIDE",
+      "LAMICTAL"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "cebce70537bd4968d39d2931fc1c530956fe22141c94998b53b52ecf8bd5a226"
+}

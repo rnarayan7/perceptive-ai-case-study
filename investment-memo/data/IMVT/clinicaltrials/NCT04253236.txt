@@ -1,0 +1,14 @@
+Title: To Assess the Efficacy and Safety of RVT-1401 in the Treatment of Warm Autoimmune Hemolytic Anemia (ASCEND-WAIHA).
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Warm Autoimmune Hemolytic Anemia
+Interventions: RVT-1401 680 mg/weekly (DRUG), RVT-1401 340 mg/weekly (DRUG)
+Enrollment: 5
+
+Summary: This is a Phase 2 non-randomized, open-label study to investigate the efficacy, safety and tolerability of RVT-1401 in patients with Warm Autoimmune Hemolytic Anemia.
+
+Primary outcomes:
+- Number of Responders at Week 13 (time frame: Week 13)
+- Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death (time frame: Up to Week 20)

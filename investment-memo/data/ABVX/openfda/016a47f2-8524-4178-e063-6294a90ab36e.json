@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "016a47f2-8524-4178-e063-6294a90ab36e",
+  "title": "Label: Betaloan SUIK (BETAMETHASONE SODIUM PHOSPHATE AND BETAMETHASONE ACETATE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=016a47f2-8524-4178-e063-6294a90ab36e",
+  "published": "2024-12-31",
+  "retrieved_at": "2026-09-08T08:40:16.632418+00:00",
+  "metadata": {
+    "brand_name": "Betaloan SUIK",
+    "generic_name": "BETAMETHASONE SODIUM PHOSPHATE AND BETAMETHASONE ACETATE",
+    "manufacturer": "Advanced Rx Pharmacy of Tennessee, LLC",
+    "manufacturer_name": "Advanced Rx Pharmacy of Tennessee, LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": "INTRA-ARTICULAR"
+  },
+  "hash": "bcc21058e92f77a6f35fa566dba080ae3165de3f69617001e9a1f7898cd1ae90"
+}

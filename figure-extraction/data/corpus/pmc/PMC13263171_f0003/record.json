@@ -1,0 +1,96 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13263171_f0003",
+  "figure_type": "forest",
+  "title": "Post-Treatment Prognostic Nutritional Index Outperforms Baseline Index as an Independent Prognostic Biomarker in Advanced Hepatocellular Carcinoma Receiving Immune-Based Systemic Therapy.",
+  "caption": "Forest plot of subgroup analyses for OS. The vertical dashed line represents HR = 1. HR < 1 indicates a favorable prognosis in the high PNI group. Interaction P values: treatment line P = 0.911, tumor number P = 0.036, AFP level P = 0.035, BCLC stage P = 0.485. Subgroup sample sizes: first-line (n = 80), second-line (n = 53); solitary (n = 31), multiple (n = 102); AFP < 400 (n = 72), AFP ≥ 400 (n = 61); BCLC B (n = 18), BCLC C (n = 115).",
+  "context": "Forest plot of subgroup analyses for OS. The vertical dashed line represents HR = 1. HR < 1 indicates a favorable prognosis in the high PNI group. Interaction P values: treatment line P = 0.911, tumor number P = 0.036, AFP level P = 0.035, BCLC stage P = 0.485. Subgroup sample sizes: first-line (n = 80), second-line (n = 53); solitary (n = 31), multiple (n = 102); AFP < 400 (n = 72), AFP ≥ 400 (n = 61); BCLC B (n = 18), BCLC C (n = 115). Subgroup Analyses of Post-Treatment PNI Prognostic Value Subgroup analyses were conducted to evaluate the prognostic consistency of post‑treatment PNI across predefined clinical subgroups, with results presented as forest plots for overall survival (OS, Figure 3 ) and progression-free survival (PFS, Figure 4 ), respectively. For OS, high post‑treatment PNI was associated with significantly longer survival in most subgroups, including first-line therapy (HR = 0.41, 95% CI: 0.20–0.83, P = 0.014), second-line therapy (HR = 0.47, 95% CI: 0.28–0.77, P = 0.003), solitary tumors (HR = 0.19, 95% CI: 0.07–0.55, P = 0.002), multiple tumors (HR = 0.58, 95% CI: 0.37–0.91, P = 0.017), AFP < 400 ng/mL (HR = 0.26, 95% CI: 0.15–0.47, P < 0.001), and BCLC stage C (HR = 0.48, 95% CI: 0.31–0.74, P < 0.001; Figure 3 ). No significant OS benefit was observed in patients with AFP ≥ 400 ng/mL (HR = 0.74, 95% CI: 0.41–1.31, P = 0.300) or BCLC stage B (HR = 0.33, 95% CI: 0.09–1.17, P = 0.086; Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263171/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-06-08",
+  "retrieved_at": "2026-09-07T13:08:19.969727+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.41 (95% CI 0.20-0.83)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "ubgroups, including first-line therapy (HR = 0.41, 95% CI: 0.20–0.83, P = 0.014), second-line therapy (HR =",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.47 (95% CI 0.28-0.77)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "–0.83, P = 0.014), second-line therapy (HR = 0.47, 95% CI: 0.28–0.77, P = 0.003), solitary tumors (HR = 0.19",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.19 (95% CI 0.07-0.55)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.28–0.77, P = 0.003), solitary tumors (HR = 0.19, 95% CI: 0.07–0.55, P = 0.002), multiple tumors (HR = 0.58",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.58 (95% CI 0.37-0.91)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.07–0.55, P = 0.002), multiple tumors (HR = 0.58, 95% CI: 0.37–0.91, P = 0.017), AFP < 400 ng/mL (HR = 0.26",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.26 (95% CI 0.15-0.47)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.37–0.91, P = 0.017), AFP < 400 ng/mL (HR = 0.26, 95% CI: 0.15–0.47, P < 0.001), and BCLC stage C (HR = 0.4",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.48 (95% CI 0.31-0.74)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": ".15–0.47, P < 0.001), and BCLC stage C (HR = 0.48, 95% CI: 0.31–0.74, P < 0.001; Figure 3 ). No significant",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.74 (95% CI 0.41-1.31)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "erved in patients with AFP ≥ 400 ng/mL (HR = 0.74, 95% CI: 0.41–1.31, P = 0.300) or BCLC stage B (HR = 0.33,",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.33 (95% CI 0.09-1.17)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.41–1.31, P = 0.300) or BCLC stage B (HR = 0.33, 95% CI: 0.09–1.17, P = 0.086; Figure 3 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13263171",
+    "pmid": "42293349",
+    "journal": "Journal of hepatocellular carcinoma",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "51493b76365ad82b977cf04d4587548eda7eed693f2a92c2e2a70302239e90d7",
+  "image_file": "image.jpg"
+}

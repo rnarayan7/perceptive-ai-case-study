@@ -1,0 +1,33 @@
+{
+  "company": "PRAX",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "common_shares_outstanding",
+  "title": "PRAXIS PRECISION MEDICINES, INC. - Common shares outstanding (2026-07-31)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+  "published": "2026-07-31",
+  "retrieved_at": "2026-09-08T08:46:35.405482+00:00",
+  "metadata": {
+    "cik": 1689548,
+    "entity_name": "PRAXIS PRECISION MEDICINES, INC.",
+    "concept": "common_shares_outstanding",
+    "label": "Common shares outstanding",
+    "taxonomy": "dei",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "value": 27919988.0,
+    "unit": "shares",
+    "reporting_currency": "",
+    "period_end": "2026-07-31",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001689548-26-000083",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-06",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001689548.json",
+    "derived": false
+  },
+  "hash": "07d034ea2993f91ebdc04f50e816f58938ec219bfe737bd802858b7d3580f756"
+}

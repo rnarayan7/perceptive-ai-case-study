@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13349752_F3",
+  "figure_type": "forest",
+  "title": "Troponin for surveillance of immune checkpoint inhibitor-associated myocarditis and post-therapy cardiovascular risk stratification: a systematic review and meta-analysis.",
+  "caption": "Troponin and MACE forest plot. Forest plot of the prognostic meta-analysis evaluating the association between troponin elevation and major adverse cardiovascular events (MACE) or cardiovascular events in patients receiving immune checkpoint inhibitors. Study-level hazard ratios with 95% confidence intervals are shown, with a pooled random-effects estimate. Statistical heterogeneity is summarized using  I 2 . MACE, major adverse cardiovascular events; ICI, immune checkpoint inhibitor; HR, hazard ratio; CI, confidence interval.",
+  "context": "Troponin and MACE forest plot. Forest plot of the prognostic meta-analysis evaluating the association between troponin elevation and major adverse cardiovascular events (MACE) or cardiovascular events in patients receiving immune checkpoint inhibitors. Study-level hazard ratios with 95% confidence intervals are shown, with a pooled random-effects estimate. Statistical heterogeneity is summarized using  I 2 . MACE, major adverse cardiovascular events; ICI, immune checkpoint inhibitor; HR, hazard ratio; CI, confidence interval. Prediction intervals remained above unity, indicating consistency of the association across study settings ( Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13349752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-26",
+  "retrieved_at": "2026-09-07T13:07:54.818124+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13349752",
+    "pmid": "42434148",
+    "journal": "Frontiers in cardiovascular medicine",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "034f3fe9276bb711c1f89037a1c993e5f9e4da3cfc12c42fca1ebb834322c870",
+  "image_file": "image.jpg"
+}

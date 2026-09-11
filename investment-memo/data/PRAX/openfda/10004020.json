@@ -1,0 +1,24 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10004020",
+  "title": "FAERS report 10004020: Tremor",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10004020",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:36.205103+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": false,
+    "reactions": [
+      "Tremor"
+    ],
+    "drugs": [
+      "DEPAKOTE",
+      "VIMPAT",
+      "DILANTIN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "03d16ff01cd318797028c9d4a03a1a326801ee580ae290717d9e9ebfff0d89e2"
+}

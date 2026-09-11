@@ -1,0 +1,41 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12181947",
+  "title": "FAERS report 12181947: Colitis ulcerative, Attention deficit hyperactivity disorder, Gastrooesophageal reflux disease",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12181947",
+  "published": "2024-10-10",
+  "retrieved_at": "2026-09-08T08:40:09.309174+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Colitis ulcerative",
+      "Attention deficit hyperactivity disorder",
+      "Gastrooesophageal reflux disease"
+    ],
+    "drugs": [
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "NORCO",
+      "VALIUM",
+      "VYVANSE",
+      "ZOLPIDEM TARTRATE",
+      "ADDERALL",
+      "ADDERALL",
+      "ASACOL",
+      "AZULFIDINE",
+      "LIALDA",
+      "MESALAMINE",
+      "METHYLPHENIDATE",
+      "PREDNISONE ACETATE",
+      "REMICADE",
+      "ENTYVIO",
+      "RINVOQ"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "91a8f48788bdd29801653afc0f02f030334d7ddb74b8ef087121b5b631516841"
+}

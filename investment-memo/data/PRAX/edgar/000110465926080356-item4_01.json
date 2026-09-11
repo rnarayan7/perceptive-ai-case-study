@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000110465926080356-item4_01",
+  "title": "8-K - FORM 8-K (2026-07-02) - Changes in Registrant's Certifying Accountant",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000110465926080356/0001104659-26-080356-index.htm",
+  "published": "2026-07-02",
+  "retrieved_at": "2026-09-07T12:53:49.897433+00:00",
+  "metadata": {
+    "accession": "0001104659-26-080356",
+    "cik": 1689548,
+    "form": "8-K",
+    "primary_document": "tm2619331d1_8k.htm",
+    "primary_doc_description": "FORM 8-K",
+    "report_date": "2026-06-29",
+    "filing_date": "2026-07-02",
+    "items": "4.01,9.01",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000110465926080356/tm2619331d1_8k.htm",
+    "section": "Changes in Registrant's Certifying Accountant",
+    "section_key": "item4_01"
+  },
+  "hash": "022eab1d51c259c3e05d50b86b8882a52387f2b881f9f261375062a74c9fd7bc"
+}

@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "30692590",
+  "title": "Both anti-inflammatory and antiviral properties of novel drug candidate ABX464 are mediated by modulation of RNA splicing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30692590/",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.564049+00:00",
+  "metadata": {
+    "journal": "Scientific reports",
+    "year": "2019",
+    "pmid": "30692590"
+  },
+  "hash": "c4baa2c015209b91a0f6be723e448c1b6d7377c34832bbc2d1968db0197aaf1d"
+}

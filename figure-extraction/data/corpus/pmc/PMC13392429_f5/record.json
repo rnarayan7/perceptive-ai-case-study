@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13392429_f5",
+  "figure_type": "kaplan_meier",
+  "title": "Risk stratification model based on estimated dose of radiation to immune cells and radiotherapy-related nadir lymphocyte count for predicting the efficacy of consolidation immunotherapy in stage III non-small cell lung cancer.",
+  "caption": "Kaplan–Meier Survival Curves Stratified by Consolidation Immunotherapy in the High-Risk Group.  (A)  OS,  (B)  PFS,  (C)  LRFS, and  (D)  DMFS. Abbreviations: Con:consolidation immunotherapy.",
+  "context": "Kaplan–Meier Survival Curves Stratified by Consolidation Immunotherapy in the High-Risk Group.  (A)  OS,  (B)  PFS,  (C)  LRFS, and  (D)  DMFS. Abbreviations: Con:consolidation immunotherapy. However, no significant difference was observed in LRFS ( P = 0.173) ( Figures 5A–D ). The prognostic impact appeared to be most pronounced in patients with stage IIIC disease ( Supplementary Figure 5 , S6 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13392429/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:51:20.645931+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13392429",
+    "pmid": "42495622",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "8c13d75c20281fb7e6d19e4370a0c9628a2be299a2680b203e74383e2cfedb0c",
+  "image_file": "image.jpg"
+}

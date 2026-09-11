@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "18035370",
+  "title": "FAERS report 18035370: Fatigue",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:18035370",
+  "published": "2020-07-17",
+  "retrieved_at": "2026-09-08T08:40:31.673318+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": false,
+    "reactions": [
+      "Fatigue"
+    ],
+    "drugs": [
+      "LEVETIRACETAM.",
+      "CENOBAMATE.",
+      "EPIDIOLEX",
+      "VIMPAT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "e6072e0718a129bf412479a97c49e5d435cc392abf35361baa63d5858fff0077"
+}

@@ -1,0 +1,91 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06456593",
+  "title": "Efficacy and Safety of Obefazimod in Subjects With Moderately to Severely Active Crohn's Disease",
+  "url": "https://clinicaltrials.gov/study/NCT06456593",
+  "published": "2024-06-13",
+  "retrieved_at": "2026-09-07T12:53:29.796789+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Moderately to Severely Active Crohn Disease"
+    ],
+    "interventions": [
+      {
+        "name": "Obefazimod",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 212,
+    "start_date": "2024-10-30",
+    "primary_completion_date": "2026-12",
+    "completion_date": "2028-04",
+    "first_posted_date": "2024-06-13",
+    "primary_outcomes": [
+      {
+        "measure": "Induction and maintenance Phase Efficacy- Crohn's Disease Activity Index (CDAI)",
+        "timeFrame": "Week 12 and week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - Simple Endoscopic Score for Crohn's disease (SES-CD)",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - Endoscopic response",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - SES-CD ulcer subscore > 1",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - CDAI clinical remission",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - PRO-2 clinical remission",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - CDAI clinical response",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - PRO-2 clinical response",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - CDAI clinical response and endoscopic response",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Maintenance Phase Efficacy - endoscopic remission",
+        "timeFrame": "Week 52"
+      },
+      {
+        "measure": "Extension Phase Safety- Adverse events",
+        "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+      },
+      {
+        "measure": "Extension Phase Safety - Hematology and coagulation",
+        "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+      },
+      {
+        "measure": "Extension Phase Safety - Biochemistry",
+        "timeFrame": "Weeks 64, 76, 88,100 and EOS"
+      }
+    ]
+  },
+  "hash": "95b0f91136b324943a59f09c862e795a9eebd4945850d488337a706dfe6d221f"
+}

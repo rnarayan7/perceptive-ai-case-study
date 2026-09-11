@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380284_f0004",
+  "figure_type": "kaplan_meier",
+  "title": "Pretreatment Prognostic Nutritional Index Predicts Progression-Free Survival in BCLC Stage C Hepatocellular Carcinoma Treated with Sorafenib.",
+  "caption": "Kaplan–Meier curves for progression free survival (PFS) according to albumin bilirubin (ALBI) grade. Worsening ALBI grade was associated with shorter progression-free survival. Detailed survival data are provided in  Table 3 .",
+  "context": "Kaplan–Meier curves for progression free survival (PFS) according to albumin bilirubin (ALBI) grade. Worsening ALBI grade was associated with shorter progression-free survival. Detailed survival data are provided in  Table 3 . Kaplan–Meier curves for mGPS, PI, PNI, and ALBI grade are shown in Figures 1–4 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380284/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-14",
+  "retrieved_at": "2026-09-07T12:51:01.224713+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13380284",
+    "pmid": "42471988",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "fbc931b2e1e62109d0d840892c8651bd79521b22794f540f6b7e6d2e71d7fc50",
+  "image_file": "image.jpg"
+}

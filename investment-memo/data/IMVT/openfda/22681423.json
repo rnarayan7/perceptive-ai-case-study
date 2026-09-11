@@ -1,0 +1,53 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22681423",
+  "title": "FAERS report 22681423: Suicidal ideation",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22681423",
+  "published": "2023-09-21",
+  "retrieved_at": "2026-09-08T08:40:52.399618+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Suicidal ideation"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "FLUTICASONE PROPIONATE",
+      "NEBIVOLOL",
+      "CLOPIDOGREL",
+      "CLOPIDOGREL",
+      "CARBAMAZEPINE",
+      "ATORVASTATIN",
+      "ATORVASTATIN",
+      "CHOLECALCIFEROL",
+      "CHOLECALCIFEROL",
+      "PERINDOPRIL",
+      "LEVOTYROXIN NYCOMED",
+      "LEVOTYROXIN NYCOMED",
+      "LEVOFLOXACIN",
+      "ENOXAPARIN SODIUM",
+      "ZOPICLONE",
+      "ZOPICLONE",
+      "FOSFOMYCIN",
+      "PANTOPRAZOLE",
+      "METHYLPREDNISOLONE",
+      "PREDNISONE",
+      "PREDNISONE",
+      "CALCIUM CARBONATE",
+      "LACOSAMIDE",
+      "LACOSAMIDE",
+      "LACOSAMIDE",
+      "LACOSAMIDE",
+      "MONTMORILLONITE",
+      "ACETAMINOPHEN",
+      "MELATONIN",
+      "ONDANSETRON",
+      "PHLOROGLUCINOL"
+    ],
+    "occurcountry": "FR"
+  },
+  "hash": "8db1d6c66b839d65a92fdfa6a5138857090b0a7ca393161dcc9b086fc729757b"
+}

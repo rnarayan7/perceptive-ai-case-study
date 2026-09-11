@@ -1,0 +1,76 @@
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               Ipilimumab PPK Supporting Advanced Melanoma
+               Figure 2: Applicant - Covariate Effects on Full Ipilimumab Pharmacokinetic Model Parameters
+
+
+
+
+               Analysis-Directory: /global/pkms/data/CA/209/mel-ped-pip01/prd/ppk-ipi/final/
+               Program Source: Analysis-Directory/R/scripts/2-model-dev-ipi.Rmd
+               Source: Analysis-Directory/R/plots/ggcoveff-full1.png
+               Note 1: Categorical covariate effects (95% CI) are represented by open symbols (horizontal lines).
+               Note 2: Continuous covariate effects (95% CI) at the 5th/95th percentiles of the covariate are represented by the
+               end of horizontal boxes (horizontal lines). Open/shaded area of boxes represents the range of covariate effects
+               from the median to the 5th/95th percentile of the covariate.
+                                                                 64
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+                   B) Covariate Effects on CLSS/CL0 and VC
+
+
+
+
+               Analysis-Directory: /global/pkms/data/CA/209/mel-ped-pip01/prd/ppk-nivo/final/
+               Program Source: Analysis-Directory/R/scripts/2-model-dev.Rmd
+               Source: Analysis-Directory/R/plots/ggcoveff-full1c-cl.png, ggcoveff-full1c-emax-vc.png
+               Note 1: Categorical covariate effects (95% CI) are represented by open symbols (horizontal lines).
+               Note 2: Continuous covariate effects (95% CI) at the 5th/95th percentiles of the covariate are represented by the end of
+               horizontal boxes (horizontal lines). Open/shaded area of boxes represents the range of covariate effects from the
+               median to the 5th/95th percentile of the covariate.
+               Note 3: Reference subject is a 60-year old male, white/other race, WTB = 75 kg, LBM = 55 kg, PS = 0, baseline
+               eGFR = 90 mL/min/1.73 m2, received nivo mono, and with MEL. Parameter estimate in a reference subject is considered
+               as 100% (vertical solid line), and dashed vertical lines are at 80% and 125% of this value.
+               Note 4: Confidence Interval values are taken from bootstrap calculations (966 successful out of a total of 1,000).
+               Note 5: The effect of WTB and LBM was also added on Q and VP, respectively, and their estimates were fixed to be
+               similar to that CL and VC, respectively.
+               Note 6: CLss/CL0 = eEMAX
+
+                                                                   63
+                                             Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               Note 3: Reference subject is a 60-year old male, LBM = 55 kg, ipil mono, and with MEL. Parameter estimate in a
+               reference subject is considered as 100% (vertical solid line), and dashed vertical lines are at 80% and 125% of this
+               value.
+               Note 4: Confidence Interval values are taken from bootstrap calculations (982successful out of a total of 1,000).
+               Note 5: The effect of LBM was also added on Q and VP, respectively, and their estimates were fixed to be similar to
+               that CL and VC, respectively.
+
+
+
+
+                                                                  65
+                                            Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+

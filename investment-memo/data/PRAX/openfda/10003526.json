@@ -1,0 +1,42 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003526",
+  "title": "FAERS report 10003526: Dry mouth, Dry eye, Lip dry",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003526",
+  "published": "2014-06-11",
+  "retrieved_at": "2026-09-08T08:40:41.204523+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": false,
+    "reactions": [
+      "Dry mouth",
+      "Dry eye",
+      "Lip dry",
+      "Dry throat",
+      "Insomnia",
+      "Depressed mood",
+      "Odynophagia",
+      "Crying",
+      "Feeling abnormal",
+      "Oesophageal pain",
+      "Oropharyngeal pain",
+      "Nausea",
+      "Abdominal distension",
+      "Contusion",
+      "Blood count abnormal"
+    ],
+    "drugs": [
+      "JAKAFI",
+      "JAKAFI",
+      "COZAAR/HCTZ",
+      "LAMICTAL",
+      "RANITIDINE",
+      "KLONOPIN",
+      "LOVENOX"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "6f8034576cddf95994f2d1b3a75ac17a77feae1ff1e92a721273590978d5b6ff"
+}

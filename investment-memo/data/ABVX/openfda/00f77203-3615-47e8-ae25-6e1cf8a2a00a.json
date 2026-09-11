@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "00f77203-3615-47e8-ae25-6e1cf8a2a00a",
+  "title": "Label: Mesalamine (MESALAMINE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=00f77203-3615-47e8-ae25-6e1cf8a2a00a",
+  "published": "2024-05-23",
+  "retrieved_at": "2026-09-08T08:40:16.631801+00:00",
+  "metadata": {
+    "brand_name": "Mesalamine",
+    "generic_name": "MESALAMINE",
+    "manufacturer": "Amneal Pharmaceuticals LLC",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC",
+    "pharm_class_epc": "Aminosalicylate [EPC]",
+    "pharm_class_moa": null,
+    "application_number": "ANDA215067",
+    "route": "ORAL"
+  },
+  "hash": "40cdc860482b3b8b9895bfd95ace553e2ffea65e44746e557650dd5dfce320dc"
+}

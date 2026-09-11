@@ -1,0 +1,53 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17390493",
+  "title": "FAERS report 17390493: Pulmonary embolism, Bronchitis, Multiple allergies",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17390493",
+  "published": "2025-03-07",
+  "retrieved_at": "2026-09-08T08:40:25.603222+00:00",
+  "metadata": {
+    "term": "tezepelumab",
+    "serious": true,
+    "reactions": [
+      "Pulmonary embolism",
+      "Bronchitis",
+      "Multiple allergies",
+      "Infusion related reaction",
+      "Product dose omission issue",
+      "Inappropriate schedule of product administration",
+      "Illness",
+      "Sinusitis",
+      "Influenza",
+      "Infusion site erythema"
+    ],
+    "drugs": [
+      "HUMAN IMMUNOGLOBULIN G",
+      "HUMAN IMMUNOGLOBULIN G",
+      "HUMAN IMMUNOGLOBULIN G",
+      "HUMAN IMMUNOGLOBULIN G",
+      "LEVOTHYROXINE SODIUM",
+      "SYNTHROID",
+      "TEZSPIRE",
+      "ZYRTEC",
+      "AZELASTINE HYDROCHLORIDE",
+      "ALBUTEROL SULFATE",
+      "VITAMIN B",
+      "VITAMIN D3",
+      "ACETAMINOPHEN",
+      "DIPHENHYDRAMINE",
+      "EPINEPHRINE",
+      "Lmx",
+      "LEVOTHYROXINE SODIUM",
+      "PROZAC",
+      "VITAMIN C",
+      "MOMETASONE FUROATE",
+      "VITAMIN B12",
+      "BUDESONIDE",
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "a5fadc438740b323e65574bee576321fdf866e8d5231fcf49423c5c42668fd57"
+}

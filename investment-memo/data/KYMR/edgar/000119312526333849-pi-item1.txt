@@ -1,0 +1,3515 @@
+Item 1. Financial Statements.
+
+KYMERA THERAPEUTICS, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except for share and per share amounts)
+
+(Unaudited)
+
+June 30,
+
+2026
+
+December 31,
+
+2025
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+124,477
+
+$
+
+357,011
+
+Marketable securities (Note 4)
+
+566,508
+
+491,265
+
+Accounts receivable
+
+20,000
+
+—
+
+Prepaid expenses and other current assets
+
+26,280
+
+22,938
+
+Total current assets
+
+$
+
+737,265
+
+$
+
+871,214
+
+Marketable securities, non-current (Note 4)
+
+813,901
+
+771,158
+
+Property and equipment, net (Note 6)
+
+39,971
+
+43,175
+
+Right-of-use assets, operating leases
+
+41,100
+
+42,351
+
+Other non-current assets
+
+7,385
+
+9,114
+
+Restricted cash
+
+5,822
+
+5,800
+
+Total assets
+
+$
+
+1,645,444
+
+$
+
+1,742,812
+
+Liabilities and Stockholders’ Equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+
+8,918
+
+$
+
+4,015
+
+Accrued expenses (Note 8)
+
+48,476
+
+42,274
+
+Deferred revenue
+
+—
+
+22,925
+
+Operating lease liabilities
+
+12,119
+
+11,941
+
+Finance lease liabilities
+
+1,577
+
+1,815
+
+Other current liabilities
+
+236
+
+242
+
+Total current liabilities
+
+$
+
+71,326
+
+$
+
+83,212
+
+Non-current liabilities
+
+Deferred revenue, net of current portion
+
+—
+
+11,440
+
+Operating lease liabilities, net of current portion
+
+64,022
+
+67,034
+
+Finance lease liabilities, net of current portion
+
+840
+
+1,462
+
+Total liabilities
+
+$
+
+136,188
+
+$
+
+163,148
+
+Stockholders’ equity:
+
+Preferred stock, $0.0001 par value; 10,000,000 shares authorized as of June 30, 2026 and December 31, 2025; 0 shares issued and outstanding as of June 30, 2026 and December 31, 2025
+
+—
+
+—
+
+Common stock, $0.0001 par value; 150,000,000 shares authorized at June 30, 2026 and December 31, 2025, 82,788,253 and 81,323,532 shares issued and outstanding at June 30, 2026 and December 31, 2025, respectively
+
+8
+
+8
+
+Additional paid-in capital
+
+2,712,811
+
+2,643,817
+
+Accumulated deficit
+
+(1,196,406
+
+)
+
+(1,065,961
+
+)
+
+Accumulated other comprehensive (loss) income
+
+(7,157
+
+)
+
+1,800
+
+Total stockholders’ equity
+
+1,509,256
+
+1,579,664
+
+Total liabilities and stockholders’ equity
+
+$
+
+1,645,444
+
+$
+
+1,742,812
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+1
+
+KYMERA THERAPEUTICS, INC
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+For the three and six months ended June 30, 2026 and 2025
+
+(In thousands, except for share and per share amounts)
+
+(Unaudited)
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Collaboration revenue
+
+$
+
+65,000
+
+$
+
+11,476
+
+$
+
+99,365
+
+$
+
+33,576
+
+Operating expenses:
+
+Research and development
+
+$
+
+119,481
+
+$
+
+78,388
+
+$
+
+217,644
+
+$
+
+158,643
+
+General and administrative
+
+21,126
+
+17,645
+
+41,484
+
+33,916
+
+Total operating expenses
+
+140,607
+
+96,033
+
+259,128
+
+192,559
+
+Loss from operations
+
+(75,607
+
+)
+
+(84,557
+
+)
+
+(159,763
+
+)
+
+(158,983
+
+)
+
+Other income (expense):
+
+Interest and other income
+
+14,477
+
+8,051
+
+29,459
+
+16,968
+
+Interest and other expense
+
+(81
+
+)
+
+(108
+
+)
+
+(141
+
+)
+
+(180
+
+)
+
+Total other income:
+
+14,396
+
+7,943
+
+29,318
+
+16,788
+
+Net loss
+
+$
+
+(61,211
+
+)
+
+$
+
+(76,614
+
+)
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+Other comprehensive loss:
+
+Unrealized (loss) gain on marketable securities
+
+(2,963
+
+)
+
+337
+
+(8,957
+
+)
+
+1,764
+
+Total comprehensive loss
+
+$
+
+(64,174
+
+)
+
+$
+
+(76,277
+
+)
+
+$
+
+(139,402
+
+)
+
+$
+
+(140,431
+
+)
+
+Net loss
+
+$
+
+(61,211
+
+)
+
+$
+
+(76,614
+
+)
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+Net loss per share, basic and diluted
+
+$
+
+(0.62
+
+)
+
+$
+
+(0.95
+
+)
+
+$
+
+(1.33
+
+)
+
+$
+
+(1.77
+
+)
+
+Weighted average common stock outstanding, basic and diluted
+
+98,177,158
+
+80,449,405
+
+97,857,489
+
+80,298,940
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+2
+
+KYMERA THERAPEUTICS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+For the three months ended June 30, 2026 and 2025
+
+(In thousands, except for share amounts)
+
+(Unaudited)
+
+Common Stock
+
+Additional
+
+Paid in
+
+Accumulated
+
+Accumulated
+
+Other
+
+Comprehensive
+
+Total
+
+Stockholders’
+
+Shares
+
+Value
+
+Capital
+
+Deficit
+
+Gain (Loss)
+
+Equity
+
+Balance at March 31, 2025
+
+65,112,714
+
+$
+
+7
+
+$
+
+1,606,475
+
+$
+
+(820,191
+
+)
+
+$
+
+(58
+
+)
+
+786,233
+
+Issuance of common stock and accompanying pre-funded warrants from June 2025 public offering, net of issuance costs of $13.5 million
+
+5,044,500
+
+—
+
+237,294
+
+—
+
+—
+
+237,294
+
+Exercise of stock options
+
+278,086
+
+—
+
+7,703
+
+—
+
+—
+
+7,703
+
+Vesting restricted stock
+
+78,013
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of shares under employee stock purchase plan
+
+44,129
+
+—
+
+1,112
+
+—
+
+—
+
+1,112
+
+Stock-based compensation expense
+
+—
+
+—
+
+15,415
+
+—
+
+—
+
+15,415
+
+Unrealized gain on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+337
+
+337
+
+Net loss
+
+—
+
+—
+
+—
+
+(76,614
+
+)
+
+—
+
+(76,614
+
+)
+
+Balance at June 30, 2025
+
+70,557,442
+
+$
+
+7
+
+$
+
+1,867,999
+
+$
+
+(896,805
+
+)
+
+$
+
+279
+
+$
+
+971,480
+
+Balance at March 31, 2026
+
+82,182,101
+
+$
+
+8
+
+$
+
+2,679,018
+
+$
+
+(1,135,195
+
+)
+
+$
+
+(4,194
+
+)
+
+$
+
+1,539,637
+
+Exercise of stock options
+
+518,649
+
+—
+
+13,383
+
+—
+
+—
+
+13,383
+
+Vesting restricted stock
+
+61,551
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of shares under employee stock purchase plan
+
+25,952
+
+—
+
+1,472
+
+—
+
+—
+
+1,472
+
+Stock-based compensation expense
+
+—
+
+—
+
+18,938
+
+—
+
+—
+
+18,938
+
+Unrealized loss on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+(2,963
+
+)
+
+(2,963
+
+)
+
+Net loss
+
+—
+
+—
+
+—
+
+(61,211
+
+)
+
+—
+
+(61,211
+
+)
+
+Balance at June 30, 2026
+
+82,788,253
+
+$
+
+8
+
+$
+
+2,712,811
+
+$
+
+(1,196,406
+
+)
+
+$
+
+(7,157
+
+)
+
+$
+
+1,509,256
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+3
+
+KYMERA THERAPEUTICS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+For the six months ended June 30, 2026 and 2025
+
+(In thousands, except for share amounts)
+
+(Unaudited)
+
+Common Stock
+
+Additional
+
+Paid in
+
+Accumulated
+
+Accumulated
+
+Other
+
+Comprehensive
+
+Total
+
+Stockholders'
+
+Shares
+
+Value
+
+Capital
+
+Deficit
+
+Gain (Loss)
+
+Equity
+
+Balance at December 31, 2024
+
+64,890,193
+
+$
+
+7
+
+$
+
+1,591,707
+
+$
+
+(754,610
+
+)
+
+$
+
+(1,485
+
+)
+
+$
+
+835,619
+
+Issuance of common stock and accompanying pre-funded warrants from June 2025 public offering, net of issuance costs of $13.5 million
+
+5,044,500
+
+237,294
+
+—
+
+—
+
+237,294
+
+Exercise of stock options
+
+353,738
+
+—
+
+8,237
+
+—
+
+—
+
+8,237
+
+Vesting restricted stock
+
+224,882
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of shares under employee stock purchase plan
+
+44,129
+
+—
+
+1,112
+
+—
+
+—
+
+1,112
+
+Stock-based compensation expense
+
+—
+
+—
+
+29,649
+
+—
+
+—
+
+29,649
+
+Unrealized gain on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+1,764
+
+1,764
+
+Net loss
+
+—
+
+—
+
+—
+
+(142,195
+
+)
+
+(142,195
+
+)
+
+Balance at June 30, 2025
+
+70,557,442
+
+$
+
+7
+
+$
+
+1,867,999
+
+$
+
+(896,805
+
+)
+
+$
+
+279
+
+$
+
+971,480
+
+Balance at December 31, 2025
+
+81,323,532
+
+$
+
+8
+
+$
+
+2,643,817
+
+$
+
+(1,065,961
+
+)
+
+$
+
+1,800
+
+$
+
+1,579,664
+
+Exercise of stock options
+
+1,188,166
+
+—
+
+32,577
+
+—
+
+—
+
+32,577
+
+Vesting restricted stock
+
+250,603
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of shares under employee stock purchase plan
+
+25,952
+
+—
+
+1,472
+
+—
+
+—
+
+1,472
+
+Stock-based compensation expense
+
+—
+
+—
+
+34,945
+
+—
+
+—
+
+34,945
+
+Unrealized loss on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+(8,957
+
+)
+
+(8,957
+
+)
+
+Net loss
+
+—
+
+—
+
+—
+
+(130,445
+
+)
+
+—
+
+(130,445
+
+)
+
+Balance at June 30, 2026
+
+82,788,253
+
+8
+
+2,712,811
+
+(1,196,406
+
+)
+
+(7,157
+
+)
+
+1,509,256
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+4
+
+KYMERA THERAPEUTICS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+For the six months ended June 30, 2026 and 2025
+
+(In thousands)
+
+(Unaudited)
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Operating activities
+
+Net loss
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Stock-based compensation expense
+
+34,945
+
+29,649
+
+Depreciation and amortization
+
+4,052
+
+4,132
+
+Premiums and discounts on available-for-sale marketable securities
+
+(5,057
+
+)
+
+(4,646
+
+)
+
+Changes in operating assets and liabilities:
+
+Prepaid expenses and other current assets
+
+(3,342
+
+)
+
+(2,305
+
+)
+
+Accounts receivable
+
+(20,000
+
+)
+
+(40,000
+
+)
+
+Contract asset
+
+—
+
+947
+
+Other long term assets
+
+1,729
+
+(2,725
+
+)
+
+Accounts payable
+
+4,883
+
+(216
+
+)
+
+Accrued expenses and other current liabilities
+
+6,282
+
+(6,939
+
+)
+
+Deferred revenue
+
+(34,365
+
+)
+
+26,424
+
+Operating lease right-of-use assets
+
+1,251
+
+1,362
+
+Operating lease liabilities
+
+(2,834
+
+)
+
+(2,416
+
+)
+
+Other assets and liabilities
+
+(4
+
+)
+
+(106
+
+)
+
+Net cash used in operating activities
+
+$
+
+(142,905
+
+)
+
+$
+
+(139,034
+
+)
+
+Investing activities
+
+Purchase of property and equipment, net
+
+(907
+
+)
+
+(1,162
+
+)
+
+Purchases of investments
+
+(390,921
+
+)
+
+(141,907
+
+)
+
+Maturities of investments
+
+269,033
+
+251,705
+
+Net cash (used in) provided by investing activities
+
+$
+
+(122,795
+
+)
+
+$
+
+108,636
+
+Financing activities
+
+Issuance of common stock and accompanying pre-funded warrants from June 2025 public offering, net of issuance costs of $13.5 million
+
+—
+
+237,294
+
+Proceeds from stock option exercises
+
+32,577
+
+8,237
+
+Proceeds from employee stock purchase plan
+
+1,472
+
+1,112
+
+Payments on finance leases
+
+(861
+
+)
+
+(659
+
+)
+
+Net cash provided by financing activities
+
+$
+
+33,188
+
+$
+
+245,984
+
+Net decrease in cash, cash equivalents and restricted cash
+
+(232,512
+
+)
+
+215,586
+
+Cash, cash equivalents and restricted cash at beginning of period
+
+362,811
+
+126,050
+
+Cash, cash equivalents and restricted cash at end of period
+
+$
+
+130,299
+
+$
+
+341,636
+
+Supplemental disclosure of cash flow activities
+
+Cash paid for interest
+
+$
+
+120
+
+$
+
+154
+
+Supplemental disclosure of noncash investing and financing activities
+
+Property and equipment purchases included in accounts payable and accrued expenses
+
+$
+
+20
+
+$
+
+116
+
+Purchase of property and equipment through finance lease
+
+$
+
+—
+
+$
+
+1,028
+
+Offering costs included in accrued expenses
+
+$
+
+—
+
+$
+
+483
+
+The following table provides a reconciliation of the cash, cash equivalents, and restricted cash balances as of each of the periods shown above:
+
+June 30,
+
+2026
+
+2025
+
+Cash and cash equivalents
+
+$
+
+124,477
+
+$
+
+335,816
+
+Restricted cash
+
+5,822
+
+5,820
+
+Total cash, cash equivalents, and restricted cash
+
+$
+
+130,299
+
+$
+
+341,636
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+5
+
+KYMERA THERAPEUTICS, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Organization and Nature of Business
+
+Kymera Therapeutics, Inc., together with its subsidiary Kymera Securities Corporation, is referred to on a consolidated basis as the “Company”. The Company is a biopharmaceutical company focused on discovering and developing small molecule therapeutics that selectively degrade disease-causing proteins by harnessing the body’s own natural cellular process, a method known as targeted protein degradation. The Company has devoted its efforts principally to research and development since formation. The Company has not yet completed product development, filed for or obtained regulatory approvals for any products, nor verified the market acceptance and demand for such products. As a result, the Company is subject to a number of risks common to emerging companies in the biotech industry. Principal among these risks are the uncertainties of the product discovery and development process, dependence on key individuals, development of the same or similar technological innovations by the Company’s competitors, protection of proprietary technology, compliance with government regulations and approval requirements, the Company’s ability to access capital and uncertainty of market acceptance of products.
+
+The Company has historical net losses and anticipates that it will continue to incur losses for the foreseeable future and had an accumulated deficit of $1,196 million as of June 30, 2026. The Company has funded these losses principally through the issuance and sale of its convertible preferred stock to outside investors and collaborators in private equity financings, its initial public offering, or IPO, follow-on offerings, Private Investment in Public Equity, or PIPE offering, and at-the market sales program as well as from cash proceeds received in connection with the Company’s corporate collaboration agreements (see Note 5). The Company expects to continue to incur operating losses and negative operating cash flows until such time as it generates a level of revenue that is sufficient to support its cost structure.
+
+As of June 30, 2026, the Company had cash, cash equivalents and marketable securities of $1,505 million. The Company believes these cash, cash equivalents and marketable securities will be sufficient to fund its operations and capital expenditure requirements through at least twelve months from the issuance of these condensed consolidated financial statements.
+
+The Company expects to finance the future research and development costs of its product portfolio with its existing cash, cash equivalents and marketable securities, or through strategic financing opportunities that could include, but are not limited to future offerings of its equity, collaboration agreements, or the incurrence of debt. However, there is no guarantee that any of these strategic or financing opportunities will be executed or realized on favorable terms, if at all, and some could be dilutive to existing stockholders. If the Company fails to obtain additional future capital, it may be unable to complete its planned preclinical studies and clinical trials.
+
+2025 Follow-on Public Offerings
+
+On June 30, 2025, the Company issued and sold 5,044,500 shares of common stock at a public offering price of $44.00 per share. Additionally, in lieu of common stock to a certain investor, the Company issued and sold pre-funded warrants to purchase 655,500 shares of common stock at a public offering price of $43.9999 per pre-funded warrant, which represents the public offering price per share of common stock less the $0.0001 per share exercise price of each pre-funded warrant. The aggregate gross proceeds from this initial closing, before deducting underwriting discounts and commissions and other estimated offering expenses payable by the Company, were approximately $250.8 million. In July 2025, the Company completed the follow-on offering through the closing of the underwriters’ full exercise of their option to purchase an additional 855,000 shares of common stock. As a result, the total aggregate gross proceeds from this follow-on offering were approximately $288.4 million, before deducting underwriting discounts and commissions and other estimated offering expenses payable by the Company.
+
+On December 10, 2025, the Company completed a follow-on offering of its common stock. The Company issued and sold 8,050,000 shares of common stock, including full exercise of the underwriters’ option to purchase an additional 1,050,000 shares, at a public offering price of $86.00 per share. The aggregate gross proceeds before deducting underwriting discounts and commissions, and other estimated offering expenses payable by the Company were approximately $692.3 million.
+
+6
+
+Pre-funded warrants
+
+In connection with certain offerings the Company has issued pre-funded warrants to purchase common stock in lieu of common stock. As the pre-funded warrants are indexed to the Company’s common stock (and otherwise meet the requirements to be classified in equity), the Company recorded the consideration received from the issuance of the pre-funded warrants as additional paid-in capital on the Company’s consolidated balance sheets. The pre-funded warrants are exercisable at any time. The holders of Pre-Funded Warrants may not exercise the warrant if the holder, together with its affiliates, would beneficially own more than 4.99% (or, at the election of the holder, 9.99%) of the number of shares of the Common Stock outstanding immediately after giving effect to such exercise. The holders of Pre-Funded Warrants may increase or decrease such percentages not in excess of 19.99% by providing at least 61 days’ prior notice to the Company.
+
+During the three and six months ended June 30, 2026, no pre-funded warrants were exercised. As of June 30, 2026, there were 15,815,253 pre-funded warrants outstanding.
+
+2. Summary of Significant Accounting Policies
+
+The accompanying condensed consolidated financial statements reflect the application of certain significant accounting policies as described in this note, and elsewhere in the accompanying condensed consolidated financial statements and notes.
+
+Principles of Consolidation
+
+The accompanying condensed consolidated financial statements include the accounts of the Company and its wholly owned subsidiary Kymera Securities Corporation. All intercompany transactions and balances have been eliminated in consolidation.
+
+Basis of Presentation
+
+The unaudited interim condensed consolidated financial statements of the Company included herein have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) as found in the Accounting Standards Codification (“ASC”), Accounting Standards Update (“ASU”) of the Financial Accounting Standards Board (“FASB”) and the rules and regulations of the SEC. Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted from this report, as is permitted by such rules and regulations. Accordingly, these condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the notes thereto for the year ended December 31, 2025 included in the Company’s Annual Report on Form 10-K, filed with the SEC on February 26, 2026.
+
+The unaudited interim condensed consolidated financial statements have been prepared on the same basis as the audited consolidated financial statements as of and for the year ended December 31, 2025, and, in the opinion of management, reflect all adjustments necessary, all of which were normal and recurring, for the fair statement of the Company’s financial position as of June 30, 2026, the results of operations and equity for the three and six months ended June 30, 2026 and 2025, and cash flows for the six months ended June 30, 2026 and 2025. The results for the three and six months ended June 30, 2026 are not necessarily indicative of the results for the year ended December 31, 2026 or for any future period.
+
+Significant Accounting Policies
+
+The significant accounting policies used in preparation of these condensed consolidated financial statements for the three and six months ended June 30, 2026 are consistent with those discussed in Note 2 to the consolidated financial statements in the 2025 Annual Report on Form 10-K except as discussed below.
+
+Stock-Based Compensation
+
+The Company accounts for all stock-based awards granted to employees, directors, and nonemployees based on their fair value on the date of the grant and recognizes compensation expense for those awards over the requisite service period, which is generally the vesting period of the respective award. Stock-based payments include grants of stock options and restricted stock units. The measurement date for stock awards is the date of grant, and stock-based compensation costs are recognized as expense over the requisite service period, which is the vesting period, on a straight-line basis. The Company has issued stock options and restricted stock units with performance-based vesting conditions and records the expense for these awards if the Company concludes that it is probable that the performance condition will be achieved. Stock-based compensation is classified in the accompanying consolidated statements of operations and comprehensive loss based on the function to which the related services are provided. The Company recognizes stock-based compensation expense for the portion of awards that have vested. Forfeitures are accounted for as they occur.
+
+7
+
+The fair value of each stock option grant is estimated on the date of grant using the Black-Scholes options-pricing model, which requires inputs based on certain subjective assumptions, including the expected stock price volatility, the expected term of the option, the risk-free interest rate for a period that approximates the expected term of the option, and the Company’s expected dividend yield. The fair value of the underlying common shares equals the closing price of the Company’s stock on the date of grant. As the Company’s IPO was in 2020, the Company lacks a sufficient period of company-specific historical and implied volatility information. Therefore, it estimates its expected stock volatility based on the historical volatility of a publicly traded set of guideline companies and expects to continue to do so until such time as it has adequate historical data regarding the volatility of its own traded stock price. The expected term of the Company’s stock options has been determined utilizing the “simplified” method for awards that qualify as “plain-vanilla” options. The expected term of stock options granted to non-employees is equal to the contractual term of the option award. The risk-free interest rate is determined by reference to the U.S. Treasury yield curve in effect at the time of grant of the award for time periods approximately equal to the expected term of the award. Expected dividend yield is based on the fact that the Company has never paid cash dividends and does not expect to pay any cash dividends in the foreseeable future. The fair value of each restricted stock unit award is estimated on the date of grant based on the fair value of the Company’s common stock on that same date.
+
+Compensation expense for discounted purchases under the employee stock purchase plan is measured using the Black-Scholes model to compute the fair value of the lookback provision plus the purchase discount and is recognized as compensation expense over the offering period.
+
+The Company has performance conditions included in certain of the Company's restricted stock units awards and stock options that are based upon the achievement of pre-specified clinical development milestones. As the outcome of each event has inherent risk and uncertainties, and a positive outcome may not be known until the event is achieved, the Company begins to recognize the grant-date fair value of the performance-based restricted stock awards when it determines the achievement of each performance condition is deemed probable, a determination which requires significant judgment by management. On the date the performance condition is deemed probable, the Company records a cumulative expense catch-up, with remaining expense amortized over the remaining service period. The Company reassess the probability of achievement at each reporting period and adjusts cumulative expense as necessary.
+
+Beginning in 2026, the structure of the performance award design was revised to include a relative total shareholder return (rTSR) approach such that certain awards are earned for the Company's rTSR performance over a three-year measurement period relative to a peer group of companies. The actual number of performance awards that will vest at the end of the performance period may be anywhere from zero to 200 percent of the target number of shares granted. The fair value of these awards is estimated using a Monte Carlo model. Expense related to these awards is recognized ratably over the measurement period.
+
+Recently Issued Accounting Pronouncements
+
+In November 2024, the FASB issued ASU 2024-03, Disaggregation of Income Statement Expenses, which is intended to improve disclosures by requiring additional information about specific expense categories in the notes to the financial statements on an annual and interim basis. The standard will be effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027, with early adoption permitted. The standard updates may be applied on either a prospective or retrospective basis. We are currently evaluating the disclosure requirements related to this new standard.
+
+8
+
+3. Fair Value Measurements
+
+The following tables present information about the Company’s financial assets measured at fair value on a recurring basis and indicates the level of the fair value hierarchy utilized to determine such fair values as of June 30, 2026 and December 31, 2025 (in thousands):
+
+Fair Value Measurements at
+
+June 30, 2026:
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Cash equivalents
+
+Money market fund
+
+$
+
+115,958
+
+$
+
+—
+
+$
+
+—
+
+$
+
+115,958
+
+Commercial Paper
+
+—
+
+3,584
+
+—
+
+3,584
+
+Marketable securities, current
+
+US treasuries
+
+145,934
+
+—
+
+—
+
+145,934
+
+US government agencies
+
+—
+
+118,104
+
+—
+
+118,104
+
+Commercial Paper
+
+—
+
+9,160
+
+—
+
+9,160
+
+Corporate bonds
+
+—
+
+293,310
+
+—
+
+293,310
+
+Marketable securities, non-current
+
+US treasuries
+
+187,353
+
+—
+
+—
+
+187,353
+
+US government agencies
+
+—
+
+229,739
+
+—
+
+229,739
+
+Corporate bonds
+
+—
+
+396,809
+
+—
+
+396,809
+
+Restricted cash
+
+5,822
+
+—
+
+—
+
+5,822
+
+Total
+
+$
+
+455,067
+
+$
+
+1,050,706
+
+$
+
+—
+
+$
+
+1,505,773
+
+Fair Value Measurements at
+
+December 31, 2025:
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Cash equivalents
+
+Money market fund
+
+$
+
+299,067
+
+$
+
+—
+
+$
+
+—
+
+$
+
+299,067
+
+Commercial Paper
+
+—
+
+16,616
+
+—
+
+16,616
+
+Corporate bonds
+
+—
+
+14,355
+
+—
+
+14,355
+
+Marketable securities, current
+
+US treasuries
+
+157,069
+
+—
+
+—
+
+157,069
+
+US government agencies
+
+—
+
+126,290
+
+—
+
+126,290
+
+Commercial Paper
+
+—
+
+7,155
+
+—
+
+7,155
+
+Corporate bonds
+
+—
+
+200,750
+
+—
+
+200,750
+
+Marketable securities, non-current
+
+US treasuries
+
+160,500
+
+—
+
+—
+
+160,500
+
+US government agencies
+
+—
+
+164,618
+
+—
+
+164,618
+
+Corporate bonds
+
+—
+
+446,041
+
+—
+
+446,041
+
+Restricted cash
+
+5,800
+
+—
+
+—
+
+5,800
+
+Total
+
+$
+
+622,436
+
+$
+
+975,825
+
+$
+
+—
+
+$
+
+1,598,261
+
+During the six months ended June 30, 2026 and the year ended December 31, 2025, there were no transfers in or out of Level 3.
+
+9
+
+4. Marketable Securities
+
+The following tables summarize the available-for-sale debt securities held at June 30, 2026 and December 31, 2025 (in thousands):
+
+Description
+
+Amortized
+
+Cost
+
+Unrealized
+
+Gains
+
+Unrealized
+
+Losses
+
+Fair
+
+Value
+
+June 30, 2026
+
+US treasury securities
+
+$
+
+335,023
+
+$
+
+30
+
+$
+
+(1,767
+
+)
+
+$
+
+333,286
+
+US government agencies
+
+349,898
+
+3
+
+(2,058
+
+)
+
+347,843
+
+Commercial Paper
+
+9,164
+
+—
+
+(3
+
+)
+
+9,161
+
+Corporate securities
+
+693,481
+
+64
+
+(3,426
+
+)
+
+690,119
+
+Total
+
+$
+
+1,387,566
+
+$
+
+97
+
+$
+
+(7,254
+
+)
+
+$
+
+1,380,409
+
+Description
+
+Amortized
+
+Cost
+
+Unrealized
+
+Gains
+
+Unrealized
+
+Losses
+
+Fair
+
+Value
+
+December 31, 2025
+
+US treasury securities
+
+$
+
+316,979
+
+$
+
+623
+
+$
+
+(34
+
+)
+
+$
+
+317,568
+
+US government agencies
+
+290,714
+
+276
+
+(81
+
+)
+
+290,909
+
+Commercial Paper
+
+7,156
+
+1
+
+(2
+
+)
+
+7,155
+
+Corporate securities
+
+645,772
+
+1,285
+
+(266
+
+)
+
+646,791
+
+Total
+
+$
+
+1,260,621
+
+$
+
+2,185
+
+$
+
+(383
+
+)
+
+$
+
+1,262,423
+
+As of June 30, 2026, the Company held 354 securities that had been in an unrealized loss position for less than 12 months with an aggregate fair value of $1.2 billion. As of December 31, 2025, the Company held 120 securities that had been in an unrealized loss position for less than 12 months with an aggregate fair value of $389.1 million. As of June 30, 2026, the Company held 6 securities that had been in an unrealized loss position for greater than 12 months with an aggregate value of $14.2 million.  As of December 31, 2025, the Company held 7 securities that had been in an unrealized loss position for greater than 12 months with an aggregate fair value of $16.3 million.
+
+As of June 30, 2026 the Company had 170 securities with a fair value of $566.5 million with a contractual maturity of less than 12 months and 231 securities with a fair value of $813.9 million with a contractual maturity of greater than 12 months. As of December 31, 2025, the Company had 141 securities with a fair value of $491.3 million with a contractual maturity of less than 12 months and 232 securities with a fair value of $771.2 million with a contractual maturity of greater than 12 months.
+
+The Company is required to determine whether a decline in the fair value below the amortized cost basis of available-for-sale securities is due to credit-related factors. At each reporting date, the Company performs an evaluation of impairment to determine if any unrealized losses are the result of credit losses. Impairment is assessed at the individual security level. Factors considered in determining whether a loss resulted from a credit loss or other factors include the Company’s intent and ability to hold the investment until the recovery of its amortized cost basis, the extent to which the fair value is less than the amortized cost basis, the length of time and extent to which fair value has been less than the cost basis, the financial condition of the issuer, any historical failure of the issuer to make scheduled interest or principal payments, any changes to the rating of the security by a rating agency, any adverse legal or regulatory events affecting the issuer or issuer’s industry, and any significant deterioration in economic conditions.
+
+Unrealized losses on available-for-sale securities presented in the previous table have not been recognized in the condensed consolidated statements of operations because the securities are high credit quality, investment grade securities that the Company does not intend to sell and will not be required to sell prior to their anticipated recovery, and the decline in fair value is attributable to factors other than credit losses. Based on its evaluation, the Company determined it does not have any credit losses related to its available-for-sale securities as of June 30, 2026 and December 31, 2025.
+
+10
+
+5. Collaborations
+
+Gilead Agreement
+
+Agreement Terms
+
+On June 25, 2025, the Company entered into an exclusive option and license agreement (the “Gilead Agreement”) with Gilead Sciences, Inc. (“Gilead”), to collaborate on developing novel molecular glue degraders directed against cyclin-dependent kinase 2 (“CDK2”). Under the Gilead Agreement, the Company granted to Gilead an exclusive option, exercisable during a defined option period, to exercise an exclusive, worldwide license to develop, manufacture, and commercialize certain CDK2 degraders generated under the collaboration.
+
+Pursuant to the Gilead Agreement, the Company was responsible for all discovery and preclinical research activities through the delivery of a complete data package as defined in the agreement. After receiving the complete data package, Gilead exercised its option to license the program and now has global rights to develop, manufacture and commercialize all products resulting from the collaboration.
+
+Following option exercise, the Gilead Agreement will expire on a product-by-product and country-by-country basis upon the expiration of all royalty obligations under the agreement. Gilead may terminate the agreement for convenience upon advance written notice. Each party may also terminate the agreement for material breach, insolvency, and the agreement may be terminated for certain other customary reasons, including Gilead’s right to terminate certain provisions of the agreement following a change of control of the Company.
+
+In consideration for the exclusive option and rights granted under the Gilead Agreement, the Company received a non-refundable upfront payment of $40.0 million. In addition, upon Gilead's exercise of the option in April 2026, the Company received an option exercise payment of $45.0 million and will be eligible to receive up to $665.0 million upon the achievement of certain development, regulatory and commercial milestones. The Company is also eligible to receive tiered royalties on net sales by Gilead ranging from high single-digit to mid-teen percentages, subject to customary reductions in certain circumstances.
+
+Accounting Treatment
+
+The Company evaluated the Gilead Agreement under ASC 606, Revenue from Contracts with Customers, and determined that the arrangement represents a contract with a customer. The Company identified the following material promises under the Gilead Agreement: (1) the discovery and preclinical research activities and (2) an option granting Gilead the right to acquire an exclusive license to the program.
+
+The option to acquire an exclusive license to the program was evaluated as a material right. The Company determined that the option to acquire an exclusive license in the future was not priced at a discount, and that the option exercise fee is at or above the standalone selling price for research at this stage of development; as such, the options and the underlying licenses are excluded from the performance obligation and the option exercise fees were excluded from the initial transaction price until the underlying option was exercised. That is, one performance obligation was identified, the discovery and preclinical research activities. The Company recognized revenue associated with the performance obligation as the discovery and preclinical research activities were provided using an input method, according to costs incurred and the costs expected to be incurred in the future to satisfy that individual performance obligation. The transfer of control occurred over this time period and, in management’s judgment, was the best measure of progress towards satisfying each performance obligation.
+
+The Company determined the total transaction price to be $40.0 million, which represents the upfront payment. The option exercise payment and all future milestone and royalty payments were excluded from the initial transaction price as they were contingent on future events and were deemed constrained due to the uncertainty of achievement and the Company’s limited control over their occurrence.
+
+With Gilead's exercise of its exclusive license under the agreement, the performance obligation associated with the agreement has been fully satisfied as of June 30, 2026. Accordingly, all future milestone payments will be recognized as revenue in full when deemed probable and unconstrained.
+
+For the three months ended June 30, 2026, the Company recognized $45.0 million of revenue under the Gilead Agreement related to the April 2026 option exercise fee, none of which was included in deferred revenue as of December 31, 2025. For the three months ended June 30, 2025, the Company did not recognize any revenue under the Gilead Agreement. For the six months ended June 30, 2026, the Company recognized $79.4 million in revenue under the Gilead Agreement, $34.4 million of which was recorded in deferred revenue as of December 31, 2025. For the six months ended June 30, 2025, the Company did not recognize any revenue under the Gilead
+
+11
+
+Agreement.  The aggregate amount of the transaction price allocated to the Company’s unsatisfied performance obligations and recorded in deferred revenue as of June 30, 2026 and December 31, 2025 was $0 and $34.4 million, respectively. This decrease was the result of revenue recognized in the current fiscal year.
+
+As of June 30, 2026, all remaining milestone payments were constrained as the achievement of such milestones are contingent upon the success of activities and decisions that are generally outside the control of the Company. Any amounts related to the option exercise fee or milestone payments will be included in the transaction price and recognized on a cumulative catch-up basis when the risk of revenue reversal is resolved. Royalties and commercial milestone payments, if any, will be recognized at the later of when the related sales occur or when the associated performance obligation has been satisfied.
+
+Sanofi Agreement
+
+Agreement Terms
+
+On July 7, 2020, the Company entered into a collaboration agreement, or the Sanofi Agreement, with Sanofi, to co-develop drug candidates directed to two biological targets. Under the Sanofi Agreement, the Company granted to Sanofi a worldwide exclusive license to develop, manufacture and commercialize certain lead compounds generated during the collaboration directed against IRAK4, or Collaboration Target 1, and one additional undisclosed target in an undisclosed field of use, or Collaboration Target 2. Such license is exercisable on a collaboration target-by-collaboration target basis only after specified milestones. For compounds directed against IRAK4, the field of use includes diagnosis, treatment, cure, mitigation or prevention of any diseases, disorders or conditions, excluding oncology and immuno-oncology.
+
+Pursuant to the Sanofi Agreement, the Company is responsible for discovery and preclinical research and conducting a Phase 1 clinical trial for at least one degrader directed against IRAK4 plus up to three backup degraders. With respect to both targets, Sanofi is responsible for development, manufacturing, and commercialization of product candidates after a specified development milestone occurs with respect to each collaboration candidate.
+
+In addition, pursuant to the Sanofi Agreement, Sanofi will grant to the Company an exclusive option, or Opt-In Right, exercisable on a collaboration target-by-collaboration target basis that will include the right to (i) fund 50% of the United States development costs for collaboration products directed against such target in the applicable field of use and (ii) share equally in the net profits and net losses of commercializing collaboration products directed against such target in the applicable field of use in the United States. In addition, if the Company exercises the Opt-In Right, Sanofi will grant to the Company an exclusive option, applicable to each collaboration target, which upon exercise will allow the Company to conduct certain co-promotion activities in the field in the United States.
+
+The Sanofi Agreement, unless earlier terminated, will expire on a product-by-product basis on the date of expiration of all payment obligations under the Sanofi Agreement with respect to such product. The Company or Sanofi may terminate the agreement upon the other party’s material breach or insolvency or for certain patent challenges. In addition, Sanofi may terminate the Sanofi Agreement for convenience or for a material safety event upon advance prior written notice, and the Company may terminate the Sanofi Agreement with respect to any collaboration candidate if, following Sanofi’s assumption of responsibility for the development, commercialization or manufacturing of collaboration candidates with respect to a particular target, Sanofi ceases to exploit any collaboration candidates directed to such target for a specified period.
+
+In consideration for the exclusive licenses granted to Sanofi under the Sanofi Agreement, Sanofi paid to us an upfront payment of $150.0 million. In addition to the upfront payment, under the agreement we were eligible to receive certain development milestone payments of up to $1.48 billion, and commercial milestone payments of up to $700.0 million, in the aggregate. We will further be eligible to receive tiered royalties on net sales ranging from the high single digits to high teens, subject to low-single digits upward adjustments in certain circumstances.
+
+12
+
+On November 15, 2022, we entered into an Amended and Restated Collaboration and License Agreement with Sanofi, or the Amended Sanofi Agreement, which amended the Original Sanofi Agreement to revise certain research terms and responsibilities set forth under the Original Sanofi Agreement. The Amended Sanofi Agreement also specifies details around the timing and number of Phase 2 trials required under the terms of the collaboration. The Amended Sanofi Agreement became effective on December 5, 2022.
+
+Additionally with respect to Sanofi, on December 2, 2022, Sanofi provided the Company with written notice of its intention to advance the collaboration target 1 candidate, KT-474, into Phase 2 clinical trials. In the fourth quarter of 2023, the Company achieved two milestones of $40.0 million and $15.0 million relating to the dosing of the first patient in the Phase 2 clinical trial for the first and second indications, respectively. Further, in July 2024, the Company announced that Sanofi intends to expand the ongoing Phase 2 trials to more rapidly progress towards pivotal studies with the intention of accelerating overall timelines. In the first quarter of 2025, the Company achieved a development milestone related to certain preclinical activities associated with the IRAK4 program. In connection with this milestone the Company unconstrained $20.0 million of consideration in the first quarter of 2025.
+
+In September 2023, the Company and Sanofi mutually agreed to cease activities related to Collaboration Target 2.
+
+In June 2025, Sanofi communicated its decision to exercise its full participation election under the terms of the companies’ collaboration agreement, and to advance KT-485/SAR447971, into clinical testing. As a result, Sanofi stopped development of KT-474. In June 2026, Sanofi informed the Company that the first participant was dosed in the first-in-human Phase 1 clinical trial evaluating KT-485/SAR447971, resulting in the achievement of a $20 million milestone.
+
+In connection with the IRAK4 program, the Company remains eligible to receive up to an additional $955 million in development and commercial milestones upon the achievement of certain developmental or regulatory events and upon the achievement of certain net sales thresholds.
+
+Accounting Treatment
+
+The Company analyzed the discovery and preclinical research activities as well as the exclusive license grants under the Sanofi Agreement and concluded that the arrangement was indicative of a vendor-customer relationship and would be accounted for under ASC 606.
+
+The Company identified the following material promises under the arrangement: (1) research services for Collaboration Target 1, (2) research license for Collaboration Target 1, (3) exclusive license for Collaboration Target 1, (4) research services for Collaboration Target 2, (5) research license for Collaboration Target 2, (6) exclusive license for Collaboration Target 2, (7) option to extend the research term, and (8) optional research services during the development period.
+
+The Company determined that Collaboration Targets 1 and 2 are distinct from each other. The research associated with degraders directed to each target is at different stages and the licensed field, should development activities be successful, are different from each other. As such, all promises associated with each target are considered distinct from promises associated with the other target.
+
+The research and development services for each collaboration target were determined not to be distinct from the research license and the exclusive license and have been combined into a single performance obligation for each collaboration target. That is, two performance obligations were identified, the combined research services, research license and exclusive license for Collaboration Target 1 and the combined research services, research license and exclusive license for Collaboration Target 2. The exclusive license for each target is not distinct from the preclinical and clinical research and development services under the Sanofi Agreement, primarily due to the highly specialized nature of the research and novel technology involved with developing protein degraders – the preclinical activities and studies and first phase 1 clinical trial could not be conducted by another party in the manner required.
+
+The option to extend the research term and optional research services during the development period were evaluated as material rights. The fees associated with each option are at or above the standalone selling price. As such, the underlying options are not performance obligations and fees associated with each option are excluded from the transaction price until the underlying option is exercised.
+
+13
+
+The Company determined the total transaction price to be $150.0 million, which consists solely of the upfront payment. All milestone payments and option payments were constrained as the achievement of such milestones are contingent upon the success of the underlying research and development activities and are generally outside the control of the Company. The reimbursement of costs for the IRAK4 backup degrader is also treated as constrained variable consideration as the criteria for reimbursement may not always be met, under which circumstances the Company would be responsible for the costs related to the backup degrader. Upon becoming unconstrained, the reimbursement consideration will be added to the transaction price and allocated to Collaboration Target 1.
+
+The Company allocated the upfront payment to each performance obligation based on the relative standalone selling price, as follows:
+
+•
+Collaboration Target 1: $120.0 million
+
+•
+Collaboration Target 2: $30.0 million
+
+The Company recognizes revenue associated with each performance obligation as the research and development services are provided using an input method, according to costs incurred as related to the research and development activities for each individual program and the costs expected to be incurred in the future to satisfy that individual performance obligation. The transfer of control occurs over this time period and, in management’s judgment, is the best measure of progress towards satisfying each performance obligation.  Prior to the full satisfaction of the Company's performance obligations, milestone and reimbursement consideration added to the transaction price were recognized as revenue with a cumulative catch-up upon becoming unconstrained. Subsequent to the satisfaction of the Company's performance obligations, milestone and reimbursement consideration will be recognized as revenue in full when deemed probable and unconstrained.
+
+With Sanofi's exercise of its full participation election under the agreement for Collaboration Target 1 in June of 2025, the performance obligations associated with Collaboration Target 1 & Collaboration Target 2 have been fully satisfied.
+
+During the three and six months ended June 30, 2026, the Company recognized $20.0 million of revenue under the Sanofi Agreement. All of this amount relates to a milestone achieved in the second quarter of 2026, triggered by the first participant dosed in the first-in-human Phase 1 clinical trial evaluating KT-485/SAR447971. In the three and six months ended June 30, 2025, the Company recognized $11.5 million and $33.6 million in revenue under the Sanofi Agreement, respectively, all of which was associated with Collaboration Target 1. The aggregate amount of the transaction price allocated to the Company’s unsatisfied performance obligations and recorded in deferred revenue was $0 at both June 30, 2026 and December 31, 2025.
+
+In the fourth quarter of 2023, the Company achieved two development milestones relating to the dosing of the first patient in the KT-474 Phase 2 clinical trials for the first and second indications, respectively. In connection with these milestones the Company unconstrained $55.0 million of consideration in the fourth quarter of 2023. In the first quarter of 2025, the Company achieved a development milestone related to certain preclinical activities associated with the IRAK4 program. During the three and six month periods ended June 30, 2025, the Company recognized $3.7 million and $23.6 million of revenue from the unconstrained milestones, respectively. As of June 30, 2025, all of the $75.0 million of consideration had been recorded as revenue.
+
+The following table presents the changes in accounts receivable, contract assets and contract liabilities for the six months ended June 30, 2026 (in thousands):
+
+Balance at
+
+December 31, 2025
+
+Additions
+
+Deductions
+
+Balance at
+
+June 30, 2026
+
+Accounts receivable and contract assets:
+
+Billed receivables – Sanofi
+
+$
+
+—
+
+$
+
+20,000
+
+$
+
+—
+
+$
+
+20,000
+
+Billed receivables – Gilead
+
+—
+
+45,000
+
+(45,000
+
+)
+
+—
+
+Total accounts receivable and contract assets
+
+$
+
+—
+
+$
+
+65,000
+
+$
+
+(45,000
+
+)
+
+$
+
+20,000
+
+Contract liabilities:
+
+Deferred Revenue - Gilead
+
+34,365
+
+45,000
+
+(79,365
+
+)
+
+—
+
+Total contract liabilities
+
+$
+
+34,365
+
+$
+
+45,000
+
+$
+
+(79,365
+
+)
+
+$
+
+—
+
+14
+
+6. Property and Equipment
+
+Property and equipment consisted of the following as of June 30, 2026 and December 31, 2025 (in thousands):
+
+June 30,
+
+2026
+
+December 31,
+
+2025
+
+Lab and office equipment under finance right-of-use asset
+
+$
+
+6,543
+
+$
+
+6,543
+
+Lab equipment
+
+11,986
+
+11,388
+
+Computer equipment
+
+966
+
+966
+
+Furniture & fixtures
+
+3,414
+
+3,414
+
+Leasehold improvements
+
+43,148
+
+42,991
+
+Total property and equipment
+
+66,057
+
+65,302
+
+Less accumulated depreciation
+
+(26,086
+
+)
+
+(22,127
+
+)
+
+Property and equipment, net
+
+$
+
+39,971
+
+$
+
+43,175
+
+Depreciation expense for the three months ended June 30, 2026 and 2025 was $1.6 million and $1.7 million, respectively. Depreciation expense for the six months ended June 30, 2026 and 2025 was $3.2 million and $3.3 million, respectively.
+
+Included in property and equipment is lab and office equipment right-of-use assets under finance leases with a cost basis of $6.5 million and $6.5 million and accumulated amortization expense of $4.3 million and $3.5 million as of June 30, 2026 and December 31, 2025, respectively.
+
+Amortization expense related to right-of-use assets during the three months ended June 30, 2026 and 2025 was $0.4 million and $0.4 million, respectively. Amortization expense related to right-of-use assets during the six months ended June 30, 2026 and 2025 was $0.9 million and $0.7 million, respectively.
+
+7. Leases
+
+In October 2019, the Company entered into a noncancelable facility lease agreement (the “2019 Lease”) for 34,522 square feet of research and development and office space in Watertown, Massachusetts. The term of the 2019 Lease is 120 months and expires on March 31, 2030. The 2019 Lease has an option to be extended for an additional five years. The lease is not reasonably certain to be extended and as such the additional term is not included in the measurement of the lease. The 2019 Lease includes a rent escalation clause, and rent expense is being recorded on a straight-line basis. In accordance with the lease agreement, the Company is required to maintain a security deposit and provided a letter of credit to the landlord, which is recorded in restricted cash as of June 30, 2026 and December 31, 2025. The letter of credit totaled $1.3 million and $1.3 million as of June 30, 2026 and December 31, 2025, respectively.
+
+In December 2021, the Company entered into a noncancelable lease (the “2021 Lease”) for 100,624 square feet of office and laboratory space in Watertown, Massachusetts, which the Company began occupying in February 2024. The 2021 Lease is subject to base rent of $0.8 million per month beginning two months after the commencement date, plus the Company’s ratable share of taxes, maintenance and other operating expenses. Base rent is subject to a 3% annual increase over the lease term of approximately 134 months following the commencement date. The Company also has two consecutive options to extend the term of the lease for five years each at then-market rates. The 2021 Lease also includes a tenant improvement allowance of approximately $20.1 million. In connection with the signing of the 2021 Lease, the Company issued a letter of credit for $4.5 million which is classified as restricted cash as of June 30, 2026 and December 31, 2025.
+
+The 2021 Lease required the landlord to build-out the base building prior to the construction of the Company’s premises. The Company concluded the accounting commencement date occurred when the landlord completed the build-out of the base building and control passed to the Company, which occurred in early January 2023. The Company assessed the classification of the 2021 Lease at the accounting commencement date and concluded the lease should be accounted for as an operating lease. The Company recorded an operating lease liability of $48.9 million, measured as the present value of the remaining lease payments discounted using the incremental borrowing rate as of the accounting commencement date. The Company recorded an operating lease right-of-use asset of $48.9 million, measured as the present value of the remaining lease payments, net of the tenant incentives.
+
+15
+
+The Company concluded the improvements paid for by the landlord in connection with the tenant improvement allowance represent lessee assets and therefore recorded $20.1 million of leasehold improvements in property and equipment. The Company recorded an additional $17.9 million of leasehold improvements in excess of the tenant improvement allowance, all of which were placed in service in 2024.
+
+Upon occupancy of the 2021 Lease facility in February of 2024, the Company exited the 2019 Lease facility and began looking to sublease the entire facility for the remaining noncancellable lease term through March 31, 2030. These actions resulted in impairment charges to date of $8.8 million.
+
+The impairment charge reduces the carrying value of the associated ROU asset, leasehold improvements and certain furniture and fixture assets that remained in the facility to their estimated fair values. The fair values are estimated using a discounted cash flows approach based on forecasted future cash flows expected to be derived from the property based on current sublease market rent, which is considered a level 3 input in the fair value hierarchy, and other key assumptions such as future sublease market conditions and the discount rate.
+
+The Company’s finance lease obligations consist of certain property and equipment financed through finance leases.
+
+The components of the lease costs for the three and six months ended June 30, 2026 and 2025, were as follows (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Operating lease costs
+
+$
+
+2,417
+
+$
+
+2,463
+
+$
+
+4,846
+
+$
+
+4,936
+
+Finance lease costs:
+
+Amortization of right-to-use assets, finance leases
+
+430
+
+375
+
+861
+
+746
+
+Interest expense for finance lease liabilities
+
+56
+
+77
+
+122
+
+154
+
+Variable lease costs
+
+1,450
+
+1,550
+
+2,824
+
+3,043
+
+Total lease costs
+
+$
+
+4,353
+
+$
+
+4,465
+
+$
+
+8,653
+
+$
+
+8,879
+
+Supplemental cash flow information relating to the Company’s leases for the six months ended June 30, 2026 and 2025, were as follows (in thousands):
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Cash paid for amounts included in the measurement
+
+of lease liabilities:
+
+Operating cash flows used in operating leases
+
+$
+
+6,169
+
+$
+
+5,989
+
+Operating cash flows used in finance leases
+
+$
+
+861
+
+$
+
+629
+
+Financing cash flows used in finance leases
+
+$
+
+122
+
+$
+
+154
+
+Weighted average remaining lease terms and discount rates as of June 30, 2026 and 2025 were as follows:
+
+June 30,
+
+2026
+
+2025
+
+Remaining lease term:
+
+Operating lease
+
+8.14 years
+
+9.08 years
+
+Finance lease
+
+1.78 years
+
+2.47 years
+
+Discount Rate:
+
+Operating lease
+
+8.68
+
+%
+
+8.71
+
+%
+
+Finance lease
+
+8.86
+
+%
+
+8.75
+
+%
+
+16
+
+The undiscounted future lease payments for operating and finance leases as of June 30, 2026, were as follows (in thousands):
+
+Fiscal Year
+
+Operating
+
+Leases
+
+Finance
+
+Leases
+
+2026 (excluding the first half)
+
+$
+
+6,267
+
+$
+
+903
+
+2027
+
+12,809
+
+1,180
+
+2028
+
+13,193
+
+449
+
+2029
+
+13,589
+
+72
+
+2030
+
+11,535
+
+—
+
+Thereafter
+
+49,300
+
+—
+
+Total minimum lease payments
+
+$
+
+106,693
+
+$
+
+2,604
+
+Less amounts representing interest or imputed interest
+
+(30,552
+
+)
+
+(187
+
+)
+
+Present value of lease liabilities
+
+$
+
+76,141
+
+$
+
+2,417
+
+8. Accrued Expenses
+
+Accrued expenses consisted of the following as of June 30, 2026 and December 31, 2025 (in thousands):
+
+June 30,
+
+2026
+
+December 31,
+
+2025
+
+Research and development expenses
+
+$
+
+35,628
+
+$
+
+21,351
+
+Payroll and payroll-related
+
+9,243
+
+18,311
+
+Professional fees
+
+3,268
+
+2,065
+
+Other
+
+337
+
+547
+
+Accrued expenses
+
+$
+
+48,476
+
+$
+
+42,274
+
+9. Other Commitments and Contingencies
+
+Legal Proceedings
+
+In the ordinary course of business, the Company may be subject to legal proceedings, claims and litigation as the Company operates in an industry susceptible to patent legal claims. The Company accounts for estimated losses with respect to legal proceedings and claims when such losses are probable and estimable. Legal costs associated with these matters are expensed when incurred. The Company is not currently a party to any legal proceedings.
+
+Indemnification Arrangements
+
+As permitted under Delaware law, the Company has agreements whereby it indemnifies its investors, employees, officers, and directors (collectively, the “Indemnified Parties”) for certain events or occurrences while the Indemnified Parties are, or were serving, at its request in such capacity. The term of the indemnification period is for the Indemnified Parties’ lifetime. The Company believes the estimated fair value of these indemnification agreements is minimal. The Company enters into standard indemnification agreements in the ordinary course of business. Pursuant to these agreements, the Company indemnifies, holds harmless, and agrees to reimburse the indemnified party for losses suffered or incurred by the indemnified party, generally the Company’s business partners or customers, in connection with any U.S. patent or any copyright or other intellectual property infringement claim by any third party with respect to the Company’s products. The maximum potential amount of future payments the Company could be required to make under these indemnification agreements is unlimited. The Company is not aware of any claims under indemnification arrangements, and it has not accrued any liabilities related to such obligations as of June 30, 2026 or December 31, 2025.
+
+17
+
+10. Equity-Based Compensation
+
+2018 Stock Option and Grant Plan
+
+In November 2018, the Company adopted, and its stockholders approved, the 2018 Stock Option and Grant Plan (the “2018 Plan”), which provides for the granting of stock options and other equity-based awards at the discretion of the Board of Directors or any subcommittee of the Board of Directors to the Company’s employees, officers, directors, and independent contractors. No further grants will be made under the 2018 Plan. However, the 2018 Plan will continue to govern outstanding equity awards granted thereunder. To the extent outstanding options granted under the 2018 Plan are cancelled, forfeited or otherwise terminated without being exercised and would otherwise have been returned to the share reserve under the 2018 Plan, the number of shares underlying such awards will be available for future grant under the 2020 Stock Option and Incentive Plan.
+
+2020 Stock Option and Incentive Plan
+
+In August 2020, the Company and its stockholders approved the 2020 Stock Option and Incentive Plan (the “2020 Plan”), which became effective on August 20, 2020. The 2020 Plan replaced the 2018 Plan as the Company’s Board of Directors has determined not to make additional awards under the 2018 Plan following the closing of the Company’s IPO. The 2020 Plan allows the Company to make equity-based and cash-based incentive awards to its officers, employees, directors and consultants. The Company initially reserved 4,457,370 shares of its common stock for the issuance of awards under the 2020 Plan, which includes the shares of common stock remaining available for issuance under its 2018 Plan as of the business day immediately prior to the effective date of the registration statement. The 2020 Plan provides that the number of shares reserved and available for issuance will automatically increase on January 1, 2021 and each January 1 thereafter, by 4% of the Company’s outstanding number of shares of common stock on the immediately preceding December 31, or such lesser number of shares as determined by the Company’s compensation committee. These limits are subject to adjustment in the event of a stock split, stock dividend or other change in the Company’s capitalization. In June 2024, in connection with the Company's 2024 annual shareholder meeting, shareholders approved an amendment to the 2020 stock option plan that redefined the definition of common stock outstanding for the purposes of calculating the annual increase to the shares available for issuance. After the amendment, outstanding equity includes all outstanding common shares as well as outstanding pre-funded warrants. As of June 30, 2026, there were an aggregate of 6,464,760 shares remaining available for future grants.
+
+2020 Employee Stock Purchase Plan
+
+In August 2020, the Company and its stockholders approved the 2020 Employee Stock Purchase Plan (the “2020 ESPP”), which became effective August 20, 2020. The 2020 ESPP initially reserved and authorized the issuance of up to a total of 445,653 shares of common stock to participating employees. The 2020 ESPP provides that the number of shares reserved and available for issuance will automatically increase on January 1, 2021 and each January 1 thereafter through January 1, 2030, by the lesser of (i) 438,898 shares of common stock, (ii) 1% of the Company’s outstanding number of shares of common stock on the immediately preceding December 31 or (iii) such lesser number of shares of common stock as determined by the administrator of the 2020 ESPP. The number of shares reserved under the 2020 ESPP is subject to adjustment in the event of a stock split, stock dividend or other change in the Company’s capitalization. As of June 30, 2026, there were an aggregate 2,716,358 shares remaining available for future grants.
+
+Stock Options
+
+A summary of stock option activity under the 2020 Plan for service and performance based vesting conditions during the six months ended June 30, 2026 is as follows (in thousands except share and per share data):
+
+Number of
+
+Options
+
+Outstanding
+
+Weighted
+
+Average
+
+Strike
+
+Price per
+
+Option
+
+Weighted
+
+Average
+
+Remaining
+
+Contractual
+
+Term
+
+(in years)
+
+Aggregate
+
+Intrinsic
+
+Value
+
+Outstanding at December 31, 2025
+
+9,003,748
+
+$
+
+33.33
+
+7.14
+
+$
+
+400,490
+
+Granted
+
+1,303,954
+
+88.50
+
+Exercised
+
+(1,188,166
+
+)
+
+27.42
+
+Forfeited
+
+(130,367
+
+)
+
+45.51
+
+Outstanding at June 30, 2026
+
+8,989,169
+
+$
+
+41.94
+
+7.11
+
+$
+
+653,811
+
+Exercisable at June 30, 2026
+
+5,785,462
+
+$
+
+34.33
+
+6.12
+
+$
+
+464,826
+
+18
+
+The intrinsic value of stock options exercised during the three months ended June 30, 2026 and 2025 was $37.2 million and $5.3 million, respectively. The intrinsic value of stock options exercised during the six months ended June 30, 2026 and 2025 was $70.5 million and $7.4 million, respectively.
+
+The weighted-average fair value of options granted during the three months ended June 30, 2026 and 2025 was $59.06 and $25.46 respectively. The weighted-average fair value of options granted during the six months ended June 30, 2026 and 2025 was $62.36 and $21.80 respectively.
+
+As of June 30, 2026, the total unrecognized stock-based compensation expense for unvested stock options was $110.3 million, with a weighted average recognition period of  3.2 years.
+
+Performance Stock Options
+
+2025 Performance Stock Options
+
+During the first quarter of 2025, the Company began granting performance stock options, or PSOs, under the Company’s 2020 Stock Option and Incentive Plan to certain key employees of the Company, including the Company’s executive officers and management team. The total number of PSOs that may vest will range from 0 to a maximum of 100% of the target number of options granted. The PSOs will vest in three separate installments based upon the achievement of three clinical milestones. The achievement of one clinical milestone will result in the vesting of 40% of the target amount, the achievement of a second clinical milestone will result in the vesting of 40% of the Target Amount and the achievement of the third clinical milestones will result in the vesting of 20% of the target amount. None of the PSOs with respect to the clinical milestone objective may vest prior to the first anniversary of the grant date. During the three and six months ended June 30, 2026, the Company did not grant any PSOs in relation to the 2025 PSO Grant. During the three and six months ended June 30, 2025 the Company granted 0 and 88,000 PSOs in relation to the 2025 PSO Grant, respectively, with a weighted average strike price of $30.17. As of June 30, 2026 there are 88,000 PSOs outstanding with a weighted average strike price of $30.17. As of June 30, 2026 the Company has concluded that it is not deemed probable that the clinical milestone based performance conditions will be achieved, and as such, no equity-based compensation has been recorded for PSOs.
+
+2026 Performance Stock Options
+
+During the three and six months ended June 30, 2026, the Company granted 0 and 95,000 PSOs in relation to the 2026 PSO Grant, respectively. During the three and six months ended June 30, 2025 the Company granted 0 PSOs in relation to the 2026 PSO Grant.  The total number of PSOs that may vest will range from 0 to a maximum of 100% of the target number of options granted. The PSOs will vest in three separate installments subject to the achievement of two clinical milestones, and a third condition around relative Total Shareholder Return (“TSR”) of the Company’s Common Stock. Specifically, the achievement of the first clinical milestone will result in the vesting of 60% of the target amount, and the achievement of the second clinical milestone will result in the vesting of 15% of the target amount. None of the PSOs with respect to the clinical milestone objective may vest prior to the first anniversary of the grant date. As of June 30, 2026, the Company has concluded that it is not deemed probable that the clinical milestone based performance conditions for the 2026 PSOs will be achieved, and as such, no equity-based compensation has been recorded for clinical milestone portion of the 2026 PSOs.
+
+25% of target PSOs earned will be based on the relative TSR of the Company’s common stock as compared to the TSR of the members of the S&P Biotechnology Select Industry Index ("XBI") over a three-year performance period from January 1, 2026 to December 31, 2028. Depending on the results relative to the TSR market condition, the holders may earn from 0% to 200% of the target amount of shares which will vest at the end of the performance period.
+
+19
+
+The PSOs will be forfeited if the performance conditions are not achieved at the end of the relative performance periods as described above. The vesting of the PSOs can also be triggered upon certain change in control events. The weighted-average grant date fair values of the PSOs relating to the TSR component were $97.53 per share. Stock-based compensation expense recognized for the PSOs relating to the TSR components were approximately $0.2 million and $0 for the three months ended June 30, 2026 and 2025, respectively.  Stock-based compensation expense recognized for the PSOs relating to the TSR components were approximately $0.3 million and $0 for the six months ended June 30, 2026 and 2025, respectively. The measurement period for the TSR portion of the 2026 PSOs have not been met, and as such no shares have become exercisable. The Company estimated the fair values of shares granted under the market-based TSR PSOs using a Monte Carlo simulation model with the following assumptions:
+
+Volatility
+
+65
+
+%
+
+Risk-free interest rate
+
+3.50
+
+%
+
+Dividend yield
+
+0.00
+
+%
+
+The following table outlines our equity-based compensation expense for stock options for the three and six months ended June 30, 2026 and 2025:
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Research and development
+
+$
+
+6,512
+
+$
+
+5,983
+
+$
+
+12,229
+
+$
+
+11,696
+
+General and administrative
+
+7,019
+
+6,408
+
+13,307
+
+12,265
+
+Total equity-based compensation
+
+$
+
+13,531
+
+$
+
+12,391
+
+$
+
+25,536
+
+$
+
+23,961
+
+The weighted-average assumptions that the Company used in the Black-Scholes option pricing model to determine the grant date fair value of stock options granted to employees and non-employees for the three and six months ended June 30, 2026 and 2025 were as follows:
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Expected term (in years)
+
+5.94
+
+5.93
+
+6.04
+
+5.85
+
+Volatility
+
+76
+
+%
+
+94
+
+%
+
+78
+
+%
+
+78
+
+%
+
+Risk-free interest rate
+
+4.12
+
+%
+
+3.97
+
+%
+
+3.77
+
+%
+
+3.99
+
+%
+
+Dividend yield
+
+0.00
+
+%
+
+0.00
+
+%
+
+0.00
+
+%
+
+0.00
+
+%
+
+Restricted Stock Units
+
+The Company has granted shares of restricted stock units with service-based and performance-based vesting conditions. A summary of restricted stock activity during the six months ended June 30, 2026 is as follows:
+
+Number of
+
+Units
+
+Outstanding
+
+Grant Date
+
+Fair Value
+
+per Share
+
+Unvested at December 31, 2025
+
+1,345,155
+
+$
+
+34.05
+
+Granted
+
+496,639
+
+88.86
+
+Vested
+
+(250,603
+
+)
+
+33.26
+
+Forfeited
+
+(65,781
+
+)
+
+45.96
+
+Unvested at June 30, 2026
+
+1,525,410
+
+$
+
+51.51
+
+20
+
+2025 Performance Stock Units
+
+During the first quarter of 2025, the Company began granting restricted stocks units with performance-based vesting conditions, or performance stock units ("PSUs") under the Company’s 2020 Stock Option and Incentive Plan to certain key employees of the Company, including the Company’s named executive officers and management team. Specifically, in the three and six months ended June 30, 2025, the Company granted 0 and 285,723 PSUs, respectively. The total number of PSUs that may vest will range from 0 to a maximum of 100% of the target number of units granted. The 2025 PSUs will vest in three separate installments based upon the achievement of three clinical milestones. The achievement of one clinical milestone will result in the vesting of 40% of the Target Amount, the achievement of a second clinical milestone will result in the vesting of 40% of the Target Amount and the achievement of third clinical milestones will result in the vesting of 20% of the Target Amount. None of the PSUs with respect to the clinical milestone objective may vest prior to the first anniversary of the grant date.  As of June 30, 2026 the Company has concluded that it is not deemed probable that the clinical milestone based performance conditions for the 2025 PSUs will be achieved, and as such, no equity-based compensation has been recorded for the 2025 PSUs.
+
+2026 Performance Stock Units
+
+During the first quarter of 2026, the Company granted PSUs to certain key employees. The total number of PSUs that may vest will range from 0 to a maximum of 100% of the target number of units granted. The PSUs will vest in three separate installments subject to the achievement of two clinical milestones, and a third condition around relative TSR of the Company’s Common Stock. Specifically, the achievement of the first clinical milestone will result in the vesting of 60% of the target amount, and the achievement of the second clinical milestone will result in the vesting of 15% of the target amount. None of the PSUs with respect to the clinical milestone objective may vest prior to the first anniversary of the grant date. Specifically, in the three and six months ended June 30, 2026, the Company granted 0 and 73,672 PSUs, respectively. As of June 30, 2026, the Company has concluded that it is not deemed probable that the clinical milestone based performance conditions for the 2026 PSUs will be achieved, and as such, no equity-based compensation has been recorded for clinical milestone portion of the 2026 PSUs.
+
+25% of target PSUs earned will be based on the relative TSR of the Company’s common stock as compared to the TSR of the members of the XBI over a three-year performance period from January 1, 2026 to December 31, 2028. Depending on the results relative to the TSR market condition, the holders may earn from 0% to 200% of the target amount of shares which will vest at the end of the performance period. The PSUs will be forfeited if the performance conditions are not achieved at the end of the relative performance periods as described above. The vesting of the PSUs can also be triggered upon certain change in control events. The weighted-average grant date fair values of the PSUs relating to the TSR component was $126.09 per share. Stock-based compensation expense recognized for the PSUs relating to the TSR component was approximately $0.2 million and $0.3 million, respectively for the three and six months ended June 30, 2026. The measurement period for the TSR portion of the 2026 PSUs has not been met, and as such no shares have become exercisable. The Company estimated the fair values of shares granted under the market-based TSR PSUs using a Monte Carlo simulation model with the following assumptions:
+
+Volatility
+
+65
+
+%
+
+Risk-free interest rate
+
+3.50
+
+%
+
+Dividend yield
+
+0.00
+
+%
+
+During the three months ended June 30, 2026, the Company granted 78,725 and 0 restricted stock units with service and performance based vesting conditions respectively. During the six months ended June 30, 2026, the Company granted 422,967 and 73,672 restricted stock units with service and performance based vesting conditions respectively.  During the three months ended June 30, 2025, the Company granted 191,300 and 0 restricted stock units with service and performance based vesting conditions respectively.  During the six months ended June 30, 2025, the company granted 519,100 and 285,723 restricted stock units with service and performance based vesting conditions respectively. As of June 30, 2026, the total unrecognized stock-based compensation expense for unvested restricted stock with service based vesting conditions was $56.2 million with a weighted average recognition period of  3.9 years.
+
+During the three months ended June 30, 2026 the Company recognized approximately $5.2 million of expense for restricted stock of which $3.7 million and $1.5 million was recorded in research and development and general and administrative expense, respectively. During the six months ended June 30, 2026 the Company recognized approximately $9.0 million of expense for restricted stock of which $6.4 million and $2.6 million was recorded in research and development and general and administrative expense, respectively. During the three months ended June 30, 2025 the Company recognized approximately $2.8 million of expense for restricted stock of which $1.9
+
+21
+
+million and $0.9 million was recorded in research and development and general and administrative expense, respectively. During the six months ended June 30, 2025 the Company recognized approximately $5.2 million of expense for restricted stock of which $3.5 million and $1.7 million was recorded in research and development and general and administrative expense, respectively.
+
+Total equity-based compensation expense recorded as research and development and general and administrative expenses for employees, directors, and non-employees during the three and six months ended June 30, 2026 and 2025 is as follows (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Research and development
+
+$
+
+10,371
+
+$
+
+8,037
+
+$
+
+18,951
+
+$
+
+15,583
+
+General and administrative
+
+8,567
+
+7,378
+
+15,994
+
+14,066
+
+Total equity-based compensation
+
+$
+
+18,938
+
+$
+
+15,415
+
+$
+
+34,945
+
+$
+
+29,649
+
+11. Related-Party Transactions
+
+John Maraganore is a member of the Company’s Board of Directors, and is affiliated with Jefferies LLC (“Jefferies”). On October 31, 2024, prior to Dr. Maraganore joining Jefferies, the Company entered into an Open Market Sale AgreementSM (the “Jefferies Sales Agreement”) with Jefferies, pursuant to which the Company may offer and sell shares of its common stock having aggregate gross proceeds of up to $300.0 million from time to time in “at-the-market” offerings through Jefferies, as its sales agent. The Company agreed to pay Jefferies a commission of up to 3.0% of the gross proceeds of any shares sold by Jefferies under the Jefferies Sales Agreement.
+
+On February 26, 2026, Jefferies acknowledged and accepted our prior written notice to terminate the Jefferies Sales Agreement, which termination was effective on February 26, 2026. As a result of such termination, we will not offer or sell any additional shares of common stock under the Jefferies Sales Agreement and as of its termination, the Company had not sold any shares of its common stock under the Jefferies Sales Agreement.
+
+Other than the aforementioned agreement, the Company had no related party transactions for the periods presented in the accompanying consolidated financial statements, which have not otherwise been discussed in these notes to the consolidated financial statements.
+
+12. Income Taxes
+
+Income taxes for the three and six months ended June 30, 2026 and 2025 have been calculated based on an estimated annual effective tax rate and certain discrete items. The Company recorded immaterial income tax expense related to investment income for the three and six months ended June 30, 2026 and 2025.
+
+The Company has never been examined by the Internal Revenue Service or any other jurisdiction for any tax years and, as such, all years within the applicable statutes of limitations are potentially subject to audit.
+
+22
+
+13. Net Loss per Share
+
+Net Loss per Share
+
+Basic and diluted loss per share is computed by dividing net loss by the weighted-average common stock outstanding for the period. The Company had 15,815,253 pre-funded warrants outstanding as of June 30, 2026 and 2025. Each pre-funded warrant is exercisable for one share of common stock at an exercise price of $0.0001 per share. Due to the nominal exercise price of the pre-funded warrants, they are considered to be outstanding shares of common stock for purposes of the calculation of earnings per share.  (in thousands, except for share and per share data):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Numerator:
+
+Net loss
+
+$
+
+(61,211
+
+)
+
+$
+
+(76,614
+
+)
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+Denominator:
+
+Weighted average common shares outstanding, basic and diluted
+
+82,361,905
+
+65,282,527
+
+82,042,236
+
+65,135,585
+
+Weighted average pre-funded warrants outstanding, basic and diluted
+
+15,815,253
+
+15,166,878
+
+15,815,253
+
+15,163,355
+
+Total weighted average common stock outstanding, basic and diluted
+
+98,177,158
+
+80,449,405
+
+97,857,489
+
+80,298,940
+
+Net loss per share:
+
+Net loss per share, basic and diluted
+
+$
+
+(0.62
+
+)
+
+$
+
+(0.95
+
+)
+
+$
+
+(1.33
+
+)
+
+$
+
+(1.77
+
+)
+
+The Company’s potentially dilutive securities, which include restricted stock and stock options, have been excluded from the computation of diluted net loss per share as the effect would be to reduce the net loss per share. Therefore, the weighted-average number of common shares outstanding used to calculate both basic and diluted net loss per share attributable to common stockholders is the same. The Company excluded the following from the computation of diluted net loss per share attributable to common stockholders at June 30, 2026 and 2025 because including them would have had an anti-dilutive effect:
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Unvested restricted stock
+
+1,525,410
+
+1,275,001
+
+Options to purchase common stock
+
+8,989,169
+
+10,954,981
+
+Total
+
+10,514,579
+
+12,229,982
+
+14. Segment Reporting
+
+The Company operates and manages its business as one reportable segment and one operating segment, which is dedicated to reinventing the treatment of human disease through the development of innovative, highly differentiated medicines that address significant health problems and that meaningfully improve patients’ lives. The Company’s chief operating decision maker, or CODM, is the chief executive officer. The CODM assesses performance for the segment and decides how to allocate resources based on consolidated net loss that is also reported on the consolidated statements of operations.
+
+The measure of segment assets is reported on the consolidated balance sheets as total consolidated assets. All material long-lived assets are located in the United States. Long-lived assets consist of property and equipment, net, and operating lease right-of-use assets.
+
+The chief operating decision maker uses net loss to monitor budget versus actual results and to analyze cash flows in assessing performance of the segment and allocating resources.
+
+Factors used in determining the reportable segment include the nature of the Company’s operating activities, the organizational and reporting structure and the type of information reviewed by the CODM to allocate resources and evaluate financial performance. The accounting policies of the segment are the same as those described in Note 2 of the notes to the consolidated financial statements included in the Company's Annual Report on Form 10-K.
+
+23
+
+The following table presents reportable segment profit and loss, including significant expense categories, attributable to the Company’s reportable segment for the periods presented:
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Revenue
+
+$
+
+65,000
+
+$
+
+11,476
+
+$
+
+99,365
+
+$
+
+33,576
+
+Less:
+
+Research and development expenses
+
+External research and development:
+
+STAT6
+
+45,672
+
+22,193
+
+78,884
+
+42,798
+
+Other external research and development expense (1)
+
+32,067
+
+23,339
+
+57,028
+
+49,683
+
+Research and development compensation and related personnel expense (2)
+
+27,901
+
+21,958
+
+55,840
+
+44,007
+
+Research and development overhead and administrative costs
+
+13,841
+
+10,898
+
+25,892
+
+22,155
+
+General & administrative (3)
+
+21,126
+
+17,645
+
+41,484
+
+33,916
+
+Interest and other expense
+
+81
+
+108
+
+141
+
+180
+
+Plus:
+
+Interest income
+
+14,477
+
+8,051
+
+29,459
+
+16,968
+
+Segment net loss
+
+$
+
+(61,211
+
+)
+
+$
+
+(76,614
+
+)
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+(1) Certain prior period amounts have been recast to conform with current period presentation.
+
+(2) Research and development compensation and related personnel expense for the three months ended June 30, 2026 and 2025 is inclusive of $10.4 and $8.0 million of stock-based compensation expense, respectively. Research and development compensation and related personnel expense for the six months ended June 30, 2026 and 2025 is inclusive of $19.0 and $15.6 million of stock-based compensation expense, respectively.
+
+(3) General and administrative expense for the three months ended June 30, 2026 and 2025 is inclusive of $8.6 million and $7.4 million of stock-based compensation expense, respectively. General and administrative expense for the six months ended June 30, 2026 and 2025 is inclusive of $16.0 million and $14.1 million of stock-based compensation expense, respectively.
+
+Depreciation expense for the three months ended June 30, 2026 and 2025 was $1.6 million and $1.7 million, respectively. Depreciation expense for the six months ended June 30, 2026 and 2025 was $3.2 million and $3.3 million, respectively. Amortization expense related to right-of-use assets during the three months ended June 30, 2026 and 2025 was $0.4 million and $0.4 million, respectively. Amortization expense related to right-of-use assets during the six months ended June 30, 2026 and 2025 was $0.9 million and $0.7 million, respectively.
+
+15. Subsequent Events
+
+Related Party Sublease
+
+Subsequent to June 30, 2026, the Company entered into a sublease agreement (the "Sublease") with Merida Biosciences, Inc. ("Merida"), pursuant to which the Company subleased the office/laboratory space governed by the 2019 Lease to Merida.
+
+Merida is considered a related party because one of the Company's directors, John Maraganore, also serves as a member of Merida's board of directors.
+
+The terms of the Sublease were reviewed and approved by the Company's Audit Committee in accordance with the Company's related party transaction policy. Management believes the terms of the Sublease are consistent with those that would have been negotiated with an unrelated third party.
+
+24

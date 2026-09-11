@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526318078-item9_01",
+  "title": "Kymera Therapeutics, Inc. 8-K (2026-07-27) - Exhibits",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526318078/0001193125-26-318078-index.htm",
+  "published": "2026-07-27",
+  "retrieved_at": "2026-09-07T12:31:02.983304+00:00",
+  "metadata": {
+    "accession": "0001193125-26-318078",
+    "cik": 1815442,
+    "form": "8-K",
+    "primary_document": "d167778d8k.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-07-27",
+    "filing_date": "2026-07-27",
+    "items": "5.02,7.01,9.01",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526318078/d167778d8k.htm",
+    "section": "Exhibits",
+    "section_key": "item9_01"
+  },
+  "hash": "53b7ddf71655b83309208164622a1a16405b3fb5cf976c16ed27ca604b782841"
+}

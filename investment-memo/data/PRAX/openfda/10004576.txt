@@ -1,0 +1,4 @@
+FAERS adverse-event report 10004576 (comparator: lamotrigine)
+Serious: yes
+Reactions: Intentional overdose, Sopor
+Reported drugs: HALCION, LAMICTAL, EFFEXOR, LITHIUM, SEROQUEL, ENTUMIN

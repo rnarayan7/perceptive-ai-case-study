@@ -1,0 +1,18 @@
+Title: Study of RVT-1401 for the Treatment of Patients With Moderate to Severe Active Graves' Ophthalmopathy (GO)
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Graves' Ophthalmopathy
+Interventions: RVT-1401 (DRUG)
+Enrollment: 7
+
+Summary: The purpose of this study was to evaluate safety, tolerability, and pharmacodynamic parameters of RVT-1401 in graves' ophthalmopathy (GO) patients.
+
+Primary outcomes:
+- Number of Participants With Any Treatment-emergent Adverse Event (TEAE), Serious AE (SAE), Treatment-related Adverse Event (AE), and Death During the 6-week Treatment Period (time frame: from Baseline up to Week 6)
+- Number of Participants With Clinically Significant Findings Related to Vital Signs (time frame: up to Week 18)
+- Number of Participants With a Change From Normal Physical Examination Findings at Baseline to Abnormal Physical Examination Findings at the End of the Study (time frame: up to Week 18)
+- Number of Participants With Clinically Significant Findings Related to Electrocardiograms (ECGs) (time frame: up to Week 18)
+- Percent Change From Baseline in Total Immunoglobulin G (IgG), IgG1, IgG2, IgG3, and IgG4 Levels (time frame: Baseline; Week 7; Week 6 and 7 combined)
+- Mean Change From Baseline in Levels of Anti-thyroid-stimulating Hormone Receptor (Anti-TSHR) Antibodies at Week 7 (time frame: Baseline; Week 7)

@@ -1,0 +1,42 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10957792",
+  "title": "FAERS report 10957792: Hepatotoxicity, Pneumonia, Thrombocytopenia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10957792",
+  "published": "2015-03-26",
+  "retrieved_at": "2026-09-08T08:41:01.864386+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Hepatotoxicity",
+      "Pneumonia",
+      "Thrombocytopenia",
+      "Neutropenia",
+      "Infection",
+      "Small intestinal obstruction",
+      "Diarrhoea",
+      "Pyrexia",
+      "Hypotension",
+      "Hyponatraemia",
+      "Renal disorder",
+      "Fatigue",
+      "Dehydration",
+      "Febrile neutropenia",
+      "Pain",
+      "Blood albumin abnormal",
+      "Hypoalbuminaemia",
+      "Syncope"
+    ],
+    "drugs": [
+      "AZACITIDINE INJECTABLE",
+      "MIDOSTAURIN",
+      "MIDOSTAURIN",
+      "MIDOSTAURIN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "ec86fc132d9497771c52d189de2432b1885546adee09b0333adf4e224664ce8f"
+}

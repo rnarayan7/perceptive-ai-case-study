@@ -1,0 +1,31 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA219450",
+  "title": "Drugs@FDA ANDA219450: OZANIMOD",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A219450",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:01.078843+00:00",
+  "metadata": {
+    "manufacturer": "APOTEX INC",
+    "brand_name": "OZANIMOD",
+    "sponsor_name": "APOTEX INC",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "OZANIMOD"
+    ],
+    "active_ingredients": [
+      "OZANIMOD"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "1f6b44fff693914e5476dcbc32d20c6e29b66f70ce3501ef8bda2daf929adb41"
+}

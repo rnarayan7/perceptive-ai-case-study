@@ -1,0 +1,83 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03863080",
+  "title": "A Study of RVT-1401 in Myasthenia Gravis (MG) Patients",
+  "url": "https://clinicaltrials.gov/study/NCT03863080",
+  "published": "2019-03-05",
+  "retrieved_at": "2026-09-07T12:53:37.944281+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Myasthenia Gravis"
+    ],
+    "interventions": [
+      {
+        "name": "RVT-1401",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 17,
+    "start_date": "2019-05-21",
+    "primary_completion_date": "2020-10-07",
+    "completion_date": "2020-12-21",
+    "first_posted_date": "2019-03-05",
+    "primary_outcomes": [
+      {
+        "measure": "Double-Blind Treatment Period: Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "timeFrame": "Up to Week 18"
+      },
+      {
+        "measure": "Open-Label Extension Period: Number of Participants Reporting AEs and SAEs",
+        "timeFrame": "Up to Week 18"
+      },
+      {
+        "measure": "Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Vital Signs",
+        "timeFrame": "Up to Week 7"
+      },
+      {
+        "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in Vital Signs",
+        "timeFrame": "Up to Week 18"
+      },
+      {
+        "measure": "Double-blind Treatment Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters",
+        "timeFrame": "Up to Week 7"
+      },
+      {
+        "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters",
+        "timeFrame": "Up to Week 18"
+      },
+      {
+        "measure": "Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Electrocardiogram (ECG)",
+        "timeFrame": "Up to Week 7"
+      },
+      {
+        "measure": "Open-label Extension Period: Number of Participants With Clinically Significant Changes in ECG",
+        "timeFrame": "Up to Week 18"
+      },
+      {
+        "measure": "Double-blind Treatment Period: Percent Change From Baseline in Levels of Total Immunoglobulin G (IgG)",
+        "timeFrame": "Baseline (Day 1) and Up to Week 7"
+      },
+      {
+        "measure": "Double-blind Treatment Period: Percent Change From Baseline in IgG Subclasses 1, 2, 3 and 4",
+        "timeFrame": "Baseline (Day 1) and Up to Week 7"
+      },
+      {
+        "measure": "Double-Blind Treatment Period: Percent Change From Baseline in Anti-acetylcholine Receptor Immunoglobulin G (Anti-AChR-IgG) at Week 7",
+        "timeFrame": "Baseline (Day 1) and Week 7"
+      }
+    ]
+  },
+  "hash": "6a2ff2f11913573504b5cccf6e5ed3c5f771d8a560c5d9de60a04392596dee06"
+}

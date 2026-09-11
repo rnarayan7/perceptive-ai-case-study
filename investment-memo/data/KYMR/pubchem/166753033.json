@@ -1,0 +1,36 @@
+{
+  "company": "KYMR",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "166753033",
+  "title": "KT-253",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/166753033",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:38.044348+00:00",
+  "metadata": {
+    "cid": 166753033,
+    "query_name": "KT-253",
+    "molecular_formula": "C48H52Cl2FN7O6",
+    "molecular_weight": "912.9",
+    "smiles": "CN1C2=C(C=CC(=C2)C3CCN(CC3)C(=O)C4CCC(CC4)NC(=O)[C@H]5[C@@H]([C@@]6(C7=C(C=C(C=C7)Cl)NC6=O)C8(N5)CCCCC8)C9=C(C(=CC=C9)Cl)F)N(C1=O)C1CCC(=O)NC1=O",
+    "iupac_name": null,
+    "synonyms": [
+      "2713618-08-5",
+      "KT-253",
+      "(3'R,4'S,5'R)-6''-chloro-4'-(3-chloro-2-fluorophenyl)-N-((1r,4R)-4-(4-(1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-5-yl)piperidine-1-carbonyl)cyclohexyl)-2''-oxodispiro[cyclohexane-1,2'-pyrrolidine-3',3''-indoline]-5'-carboxamide",
+      "(3'R,4'S,5'R)-6\"-chloro-4'-(3-chloro-2-fluorophenyl)-N-((1r,4R)-4-(4-(1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-5-yl)piperidine-1-carbonyl)cyclohexyl)-2''-oxodispiro[cyclohexane-1,2'-pyrrolidine-3',3\"-indoline]-5'-carboxamide",
+      "Seldegamadlin",
+      "seldegamadlin [INN]",
+      "VNP2BV6KGL",
+      "orb2945769",
+      "SCHEMBL23842082",
+      "SCHEMBL25870933",
+      "SCHEMBL30289090",
+      "KT-253 (SELDEGAMADLIN)",
+      "EX-A11644",
+      "AT50014",
+      "HY-170451"
+    ]
+  },
+  "hash": "1de9a6b5b0dcbe8565a7b8cde7ebaa83e6598f610d9a79acb6a1089a6a49453c"
+}

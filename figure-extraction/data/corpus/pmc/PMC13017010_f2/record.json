@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13017010_f2",
+  "figure_type": "spider",
+  "title": "A phase II trial of nivolumab for patients with platinum-refractory recurrent or metastatic salivary gland cancer.",
+  "caption": "Spider plot of tumor burden changes during nivolumab monotherapy. Longitudinal changes in target lesion size from baseline. MEC, mucoepidermoid carcinoma; SDC, salivary duct carcinoma; AdCC, adenoid cystic carcinoma; ANOS, adenocarcinoma not otherwise specified; AcCC, acinic cell carcinoma.",
+  "context": "Spider plot of tumor burden changes during nivolumab monotherapy. Longitudinal changes in target lesion size from baseline. MEC, mucoepidermoid carcinoma; SDC, salivary duct carcinoma; AdCC, adenoid cystic carcinoma; ANOS, adenocarcinoma not otherwise specified; AcCC, acinic cell carcinoma. In addition, 2 of these 3 SDC patients had at least a 30% reduction in tumor size ( Figs 1 and 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13017010/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-03-01",
+  "retrieved_at": "2026-09-07T13:16:55.793402+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13017010",
+    "pmid": "41342548",
+    "journal": "Japanese journal of clinical oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "f378549ba560ce0aecbc1fa996814228ad1bf685e8233af13aae43453754e9a4",
+  "image_file": "image.jpg"
+}

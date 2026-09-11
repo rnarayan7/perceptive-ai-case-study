@@ -1,0 +1,1 @@
+Kaplan–Meier curves of overall survival (OS) stratified by baseline ECOG performance status. ECOG performance status was strongly prognostic (P < 0.001; Figure 2 ): patients with PS 0–1 had a median OS of 11.8 months, compared with 9.3 months for PS 2, 6.7 months for PS 3, and 6.9 months for PS 4.

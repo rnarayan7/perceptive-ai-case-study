@@ -1,0 +1,52 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "16079670",
+  "title": "FAERS report 16079670: Dyspnoea, Asthma, Full blood count abnormal",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:16079670",
+  "published": "2023-10-19",
+  "retrieved_at": "2026-09-08T08:40:25.595132+00:00",
+  "metadata": {
+    "term": "tezepelumab",
+    "serious": true,
+    "reactions": [
+      "Dyspnoea",
+      "Asthma",
+      "Full blood count abnormal",
+      "Loss of personal independence in daily activities",
+      "Sleep disorder due to a general medical condition",
+      "Wheezing",
+      "Therapeutic product effect incomplete",
+      "Cough"
+    ],
+    "drugs": [
+      "SPIRIVA",
+      "BUDESONIDE\\FORMOTEROL FUMARATE",
+      "BUDESONIDE\\FORMOTEROL FUMARATE",
+      "TIOTROPIUM BROMIDE MONOHYDRATE",
+      "THEOPHYLLINE",
+      "DUPIXENT",
+      "FLOVENT",
+      "FLOVENT",
+      "FLOVENT",
+      "PREDNISONE",
+      "PREDNISONE",
+      "SINGULAIR",
+      "BENRALIZUMAB",
+      "MEPOLIZUMAB",
+      "TERBUTALINE SULFATE",
+      "TEZEPELUMAB",
+      "OMALIZUMAB",
+      "NUCALA",
+      "NUCALA",
+      "ALBUTEROL SULFATE",
+      "SYMBICORT",
+      "SYMBICORT",
+      "VENTOLIN",
+      "ALBUTEROL SULFATE\\IPRATROPIUM BROMIDE"
+    ],
+    "occurcountry": "CA"
+  },
+  "hash": "49e89ad55c011caef9d1e67718317467c9d2d5ba3e641f6bcba0255dba6bd767"
+}

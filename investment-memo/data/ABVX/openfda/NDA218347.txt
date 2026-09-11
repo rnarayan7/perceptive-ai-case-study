@@ -1,0 +1,9 @@
+Drugs@FDA application NDA218347: RINVOQ LQ
+Sponsor: ABBVIE
+Active ingredient(s): UPADACITINIB
+Brand name(s): RINVOQ LQ
+Application type: NDA
+Original approval date: 2024-04-26
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 5

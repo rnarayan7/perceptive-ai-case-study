@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13313305_Fig5",
+  "figure_type": "kaplan_meier",
+  "title": "A real-world study of the effectiveness and safety of low-dose immunotherapy in addition to oral metronomic chemotherapy in recurrent and metastatic head and neck squamous cell carcinoma.",
+  "caption": "Kaplan-Meier curve for median overall survival (OS)",
+  "context": "Kaplan-Meier curve for median overall survival (OS)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13313305/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T12:55:23.218624+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13313305",
+    "pmid": "42219423",
+    "journal": "Journal of the Egyptian National Cancer Institute",
+    "fig_label": "Fig. 5"
+  },
+  "image_hash": "1a720d4e37e0a1b78ce06d6a7b92cd8a0149fd044984cb223435cfcef94f0541",
+  "image_file": "image.jpg"
+}

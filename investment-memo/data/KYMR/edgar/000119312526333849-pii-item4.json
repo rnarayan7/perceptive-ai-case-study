@@ -1,0 +1,25 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000119312526333849-pii-item4",
+  "title": "Kymera Therapeutics, Inc. 10-Q (2026-08-05) - Mine Safety Disclosures",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/0001193125-26-333849-index.htm",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-07T12:31:02.394966+00:00",
+  "metadata": {
+    "accession": "0001193125-26-333849",
+    "cik": 1815442,
+    "form": "10-Q",
+    "primary_document": "kymr-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-05",
+    "items": "",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/kymr-20260630.htm",
+    "section": "Mine Safety Disclosures",
+    "section_key": "pii-item4"
+  },
+  "hash": "0073c574db1bb47cffb4ede9652ba98b84509f9033e3a809a3f273a4a81e093b"
+}

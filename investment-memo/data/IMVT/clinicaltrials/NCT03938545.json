@@ -1,0 +1,47 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03938545",
+  "title": "ASCEND GO-2: Study of RVT-1401 for the Treatment of Participants With Active, Moderate to Severe Graves' Ophthalmopathy ( GO )",
+  "url": "https://clinicaltrials.gov/study/NCT03938545",
+  "published": "2019-05-06",
+  "retrieved_at": "2026-09-07T12:53:37.945394+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Graves' Ophthalmopathy (GO)"
+    ],
+    "interventions": [
+      {
+        "name": "RVT-1401 (Administered via subcutaneous injection)",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo (Administered via subcutaneous injection)",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 65,
+    "start_date": "2019-07-23",
+    "primary_completion_date": "2021-02-02",
+    "completion_date": "2021-04-15",
+    "first_posted_date": "2019-05-06",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of Participants With Proptosis Response at Week 13",
+        "timeFrame": "Baseline; Week 13"
+      },
+      {
+        "measure": "Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Treatment-emergent Serious Adverse Events (SAEs)",
+        "timeFrame": "From Baseline up to Week 20"
+      }
+    ]
+  },
+  "hash": "c03b5cb2b79c6c914f0712589cc9ed4f5b761520ff8cde86f6ad3bfd8e9137b6"
+}

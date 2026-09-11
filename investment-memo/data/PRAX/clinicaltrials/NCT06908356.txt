@@ -1,0 +1,13 @@
+Title: An Open Label Trial to Evaluate the Efficacy and Safety of PRAX-628 in Adults With Focal Onset or Tonic-Clonic Seizures
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Focal Onset Seizure, Primary Generalized Epilepsy
+Interventions: 30mg PRAX-628 (DRUG)
+Enrollment: 50
+
+Summary: An Open Label Clinical Trial to Evaluate the Efficacy and Safety of PRAX-628 in Adult Patients With Focal Onset or Primary Generalized Tonic-Clonic Seizures
+
+Primary outcomes:
+- To evaluate the efficacy of PRAX-628 on seizure frequency in adults with FOS or PGTCS currently taking ASMs (time frame: 8 weeks)

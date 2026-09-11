@@ -1,0 +1,7 @@
+Drug: Drug label
+
+Indications: INDICATIONS AND USAGE PROTOPAM Chloride is indicated as an antidote: In the treatment of poisoning due to those pesticides and chemicals (e.g., nerve agents) of the organophosphate class which have anticholinesterase activity and In the control of overdosage by anticholinesterase drugs used in the treatment of myasthenia gravis. The principal indications for the use of PROTOPAM Chloride are muscle weakness and respiratory depression. In severe poisoning, respiratory depression may be due to muscle weakness.
+
+Warnings: WARNINGS PROTOPAM Chloride is not effective in the treatment of poisoning due to phosphorus, inorganic phosphates, or organophosphates not having anticholinesterase activity. PROTOPAM Chloride is not indicated as an antidote for intoxication by pesticides of the carbamate class since it may increase the toxicity of carbaryl.
+
+Contraindications: CONTRAINDICATIONS There are no known absolute contraindications for the use of PROTOPAM Chloride (see PRECAUTIONS, Drug Interactions and DOSAGE AND ADMINISTRATION ). Relative contraindications include known hypersensitivity to the drug and other situations in which the risk of its use clearly outweighs possible benefit.

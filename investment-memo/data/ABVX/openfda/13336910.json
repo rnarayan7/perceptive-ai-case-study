@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13336910",
+  "title": "FAERS report 13336910: Dysstasia, Rheumatoid arthritis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13336910",
+  "published": "2021-02-25",
+  "retrieved_at": "2026-09-08T08:40:09.309258+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Dysstasia",
+      "Rheumatoid arthritis"
+    ],
+    "drugs": [
+      "NARCAN",
+      "HYDROCHLOROTHIAZIDE.",
+      "PREDNISONE.",
+      "XELJANZ",
+      "WELLBUTRIN XL",
+      "WELLBUTRIN XL",
+      "XELJANZ",
+      "CYCLOBENZAPRINE HCL",
+      "RINVOQ",
+      "PLAQUENIL S",
+      "XELJANZ"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "f2f2a5bae1c09f75d5cfe046e997e082f0f7a1363ec7eee5f64a16979cdd7d60"
+}

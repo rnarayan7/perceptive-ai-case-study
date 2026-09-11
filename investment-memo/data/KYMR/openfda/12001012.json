@@ -1,0 +1,38 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12001012",
+  "title": "FAERS report 12001012: Drug abuse, Constipation, Colitis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12001012",
+  "published": "2016-02-04",
+  "retrieved_at": "2026-09-08T08:40:20.460882+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Drug abuse",
+      "Constipation",
+      "Colitis",
+      "Headache"
+    ],
+    "drugs": [
+      "DUPILUMAB",
+      "ALBUTEROL.",
+      "VICODIN",
+      "VICODIN",
+      "IMITREX",
+      "EXCEDRIN MIGRAINE",
+      "ATARAX",
+      "BUPRENORPHINE.",
+      "IBUPROFEN.",
+      "SERAX",
+      "DUPILUMAB",
+      "TOPAMAX",
+      "AMBIEN",
+      "PULMICORT TURBUHALER"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "5c40a53a89f911d2228a7521e1991739a5510a89b18311f2fa5151684dae0ab4"
+}

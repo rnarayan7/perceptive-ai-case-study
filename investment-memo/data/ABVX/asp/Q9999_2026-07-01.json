@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "Q9999_2026-07-01",
+  "title": "Medicare Part B ASP: Inj ustekinumab-aauz 1 mg (Q9999, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.503730+00:00",
+  "metadata": {
+    "hcpcs": "Q9999",
+    "short_description": "Inj ustekinumab-aauz 1 mg",
+    "dosage": "1 MG",
+    "payment_limit": 13.154,
+    "asp_per_unit": 12.409433962264151,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "ustekinumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "001b346caaf767f8638439f6ea51d9eabacc8c1f77d059aac38c2b2664f8386f"
+}

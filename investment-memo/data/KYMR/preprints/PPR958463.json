@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR958463",
+  "title": "Generalists in a Specialist World: Vibrio-Phages with Broad Host Range",
+  "url": "https://europepmc.org/article/PPR/PPR958463",
+  "published": "2024-12-24",
+  "retrieved_at": "2026-09-08T10:06:22.341300+00:00",
+  "metadata": {
+    "doi": "10.1101/2024.12.24.630238",
+    "epmc_id": "PPR958463",
+    "epmc_source": "PPR",
+    "authors": "Bernard C, Labreuche Y, Diarra C, Daszkowski P, Cahier K, Gouden\u00e8ge D, Lamarche MG, Whitfield G, Lang M, Valencia J, Groseille J, Piel D, Brun YV, Rocha EP, Le Roux F.",
+    "cited_by": 1
+  },
+  "hash": "e00003d3f400d3e1a01ae45a9f08827c7ca4dee256667f2284b5ccd7924c9391"
+}

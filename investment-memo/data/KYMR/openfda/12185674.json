@@ -1,0 +1,32 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12185674",
+  "title": "FAERS report 12185674: Completed suicide, Toxicity to various agents, Intentional overdose",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12185674",
+  "published": "2016-03-16",
+  "retrieved_at": "2026-09-08T08:40:20.462160+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Completed suicide",
+      "Toxicity to various agents",
+      "Intentional overdose"
+    ],
+    "drugs": [
+      "DUPILUMAB",
+      "PLACEBO",
+      "PLACEBO",
+      "DIPHENHYDRAMINE.",
+      "VALPROIC ACID.",
+      "LISINOPRIL.",
+      "PROAIR HFA",
+      "SYMBICORT",
+      "DUPILUMAB"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "9e283a0d21fed54e44be62b2404515d90bcd669f35beb3ed876c9fcbd9315d77"
+}

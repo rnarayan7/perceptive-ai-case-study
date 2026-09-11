@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12705448_Fig5",
+  "figure_type": "spider",
+  "title": "A therapeutic peptide vaccine for fibrolamellar hepatocellular carcinoma: a phase 1 trial.",
+  "caption": "Efficacy in the intention to treat population. a . Duration and type of response. The median duration of response was calculated with the use of the Kaplan–Meier method; responses were evaluated in accordance with Response Evaluation Criteria in Solid Tumors, version 1.1.  b . The change from baseline in the target lesion diameter according to RECIST, version 1.1 (n = 16).  c . Spider plot of radiographic responses to treatment. Tumor responses were measured at regular intervals, and the values shown are the largest percentage change in the sum of the longest diameters from the baseline measurements of each measurable tumor. Each line represents one patient (n = 16).  d ,  e . Kaplan–Meier curves of OS ( d ) and PFS ( e ). The 95% CIs for point estimates are shown in red shading.  DCR, disease control rate; ITT, intention to treat; ORR, overall response rate; OS, overall survival; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease: SLD, sum of longest diameters of the target lesions .",
+  "context": "Efficacy in the intention to treat population. a . Duration and type of response. The median duration of response was calculated with the use of the Kaplan–Meier method; responses were evaluated in accordance with Response Evaluation Criteria in Solid Tumors, version 1.1.  b . The change from baseline in the target lesion diameter according to RECIST, version 1.1 (n = 16).  c . Spider plot of radiographic responses to treatment. Tumor responses were measured at regular intervals, and the values shown are the largest percentage change in the sum of the longest diameters from the baseline measurements of each measurable tumor. Each line represents one patient (n = 16).  d ,  e . Kaplan–Meier curves of OS ( d ) and PFS ( e ). The 95% CIs for point estimates are shown in red shading.  DCR, disease control rate; ITT, intention to treat; ORR, overall response rate; OS, overall survival; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease: SLD, sum of longest diameters of the target lesions .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12705448/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2025-11-24",
+  "retrieved_at": "2026-09-07T13:16:39.743003+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12705448",
+    "pmid": "41286513",
+    "journal": "Nature medicine",
+    "fig_label": "Extended Data Fig. 1"
+  },
+  "image_hash": "adf125dea0c5665eb85bc83144bee9f79829f8d691c9715a85ac2c0c49a117b4",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000168954825000118",
+  "title": "Praxis Precision Medicines, Inc. 8-K (2025-12-29)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954825000118/0001689548-25-000118-index.htm",
+  "published": "2025-12-29",
+  "retrieved_at": "2026-09-07T12:53:50.440264+00:00",
+  "metadata": {
+    "accession": "0001689548-25-000118",
+    "cik": 1689548,
+    "form": "8-K",
+    "primary_document": "prax-20251229.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2025-12-29",
+    "filing_date": "2025-12-29",
+    "items": "8.01",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954825000118/prax-20251229.htm"
+  },
+  "hash": "a578adb33f2e21ec55943f10170ce227593bd7ac9f857a5b36bb2b2a0e304171"
+}

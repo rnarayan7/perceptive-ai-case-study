@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J1602_2026-07-01",
+  "title": "Medicare Part B ASP: Golimumab for iv use 1mg (J1602, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.503797+00:00",
+  "metadata": {
+    "hcpcs": "J1602",
+    "short_description": "Golimumab for iv use 1mg",
+    "dosage": "1 MG",
+    "payment_limit": 11.035,
+    "asp_per_unit": 10.410377358490566,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "golimumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "18b5b7fc03a325cb0efacb4f03d4a4363535904d931335270c5889a25adf6f7c"
+}

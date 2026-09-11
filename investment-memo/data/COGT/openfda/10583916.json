@@ -1,0 +1,41 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10583916",
+  "title": "FAERS report 10583916: Mycobacterium avium complex infection, Chronic obstructive pulmonary disease",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10583916",
+  "published": "2014-11-14",
+  "retrieved_at": "2026-09-08T08:41:01.864192+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Mycobacterium avium complex infection",
+      "Chronic obstructive pulmonary disease"
+    ],
+    "drugs": [
+      "MIDOSTAURIN",
+      "ACYCLOVIR.",
+      "ZITHROMAX",
+      "NORVASC",
+      "HCTZ",
+      "PLATELETS",
+      "PLATELETS",
+      "VIDAZA",
+      "FLUCONAZOLE.",
+      "COREG",
+      "PRBC",
+      "COMPAZINE",
+      "ZOFRAN",
+      "VIDAZA",
+      "RIFAMPIN.",
+      "PRBC",
+      "MIDOSTAURIN",
+      "EMB",
+      "ALLOPURINOL."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "71393ca0687e11cd331df8a37164668e28bd9be3851693c03b99e6326c8fde39"
+}

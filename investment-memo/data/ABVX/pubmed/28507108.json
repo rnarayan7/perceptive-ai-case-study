@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "28507108",
+  "title": "Safety, Pharmacokinetics, and Antiviral Activity of a Novel HIV Antiviral, ABX464, in Treatment-Naive HIV-Infected Subjects in a Phase 2 Randomized, Controlled Study.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28507108/",
+  "published": "2017-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.568600+00:00",
+  "metadata": {
+    "journal": "Antimicrobial agents and chemotherapy",
+    "year": "2017",
+    "pmid": "28507108"
+  },
+  "hash": "a9160772016662ff6d9180ed38d2b141d89ebd05bbd01a54e98201c347c24352"
+}

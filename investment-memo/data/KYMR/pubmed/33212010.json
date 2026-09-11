@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "33212010",
+  "title": "Proteogenomic Landscape of Breast Cancer Tumorigenesis and Targeted Therapy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33212010/",
+  "published": "2020",
+  "retrieved_at": "2026-09-07T08:25:52.537022+00:00",
+  "metadata": {
+    "journal": "Cell",
+    "year": "2020",
+    "pmid": "33212010"
+  },
+  "hash": "b9937da1707d25b919adb934bd88e1974c9f71fb8dff68ddcce0f2bd0e0cc7ec"
+}

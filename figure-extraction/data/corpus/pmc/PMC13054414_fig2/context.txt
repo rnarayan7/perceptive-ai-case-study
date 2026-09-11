@@ -1,0 +1,1 @@
+Spider plot showing changes in tumor measurements over time. (A) Sum of all target lesions. (B) MVI-positive lesion treated with C-ion RT. (C) Sum of lesions outside C-ion RT field. C-ion RT, carbon-ion radiotherapy; MVI, macrovascular invasion.

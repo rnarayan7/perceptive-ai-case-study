@@ -1,0 +1,9 @@
+Drugs@FDA application ANDA204499: LAMOTRIGINE
+Sponsor: IPCA LABS
+Active ingredient(s): LAMOTRIGINE
+Brand name(s): LAMOTRIGINE
+Application type: ANDA (generic)
+Original approval date: 2024-09-26
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 2

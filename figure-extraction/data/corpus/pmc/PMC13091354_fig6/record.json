@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13091354_fig6",
+  "figure_type": "waterfall",
+  "title": "Kinase signaling in liver disease via clinical-trial-on-a-PamChip: A distinctive methodology for drug mechanisms and personalized medicine.",
+  "caption": "Drug efficacy of ABL antagonists and personalized medicine (PerMed) core analysis .  A , the waterfall plot illustrates ABL substrates, whereas the Z-score plots compare male ( top ) and female ( bottom ) pooled, equally allocated lysates from the HCC tumor specimens. Treatments include imatinib ( left ), rebastinib ( middle ), and olverembatinib ( right ), each compared with a vehicle control. The  blue arrow  indicates the location of ABL.  Red points  in the ABL substrate waterfall plots denote substrates with a log fold change (logFC) exceeding 0.2.  B , heat maps display phosphorylation levels of ABL substrates in males ( top ) and females ( bottom ) subjected to treatments with imatinib, rebastinib, or olverembatinib, relative to the vehicle.  C , the kinase activity of ABL and ARG/ABL2 is assessed herein. The PerMed score represents the percentage change in kinase activity in HCC tumors from male and female subjects treated with ABL inhibitors, compared with a control group. The  blue line  denotes the mean signal intensity for each substrate relative to the control, with the percentage change annotated above. ABL, Abelson tyrosine kinase; HCC, hepatocellular carcinoma.",
+  "context": "Drug efficacy of ABL antagonists and personalized medicine (PerMed) core analysis .  A , the waterfall plot illustrates ABL substrates, whereas the Z-score plots compare male ( top ) and female ( bottom ) pooled, equally allocated lysates from the HCC tumor specimens. Treatments include imatinib ( left ), rebastinib ( middle ), and olverembatinib ( right ), each compared with a vehicle control. The  blue arrow  indicates the location of ABL.  Red points  in the ABL substrate waterfall plots denote substrates with a log fold change (logFC) exceeding 0.2.  B , heat maps display phosphorylation levels of ABL substrates in males ( top ) and females ( bottom ) subjected to treatments with imatinib, rebastinib, or olverembatinib, relative to the vehicle.  C , the kinase activity of ABL and ARG/ABL2 is assessed herein. The PerMed score represents the percentage change in kinase activity in HCC tumors from male and female subjects treated with ABL inhibitors, compared with a control group. The  blue line  denotes the mean signal intensity for each substrate relative to the control, with the percentage change annotated above. ABL, Abelson tyrosine kinase; HCC, hepatocellular carcinoma. Figure 6 C shows that ABL targets changed substantially with ABL inhibitors in both men and women.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091354/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-03-18",
+  "retrieved_at": "2026-09-07T12:58:29.140223+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13091354",
+    "pmid": "41856289",
+    "journal": "The Journal of biological chemistry",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "8c0a5e85dc94d19afae7e5295bc0e5ff8bf44be60a3617475bd2c0304b8ae704",
+  "image_file": "image.jpg"
+}

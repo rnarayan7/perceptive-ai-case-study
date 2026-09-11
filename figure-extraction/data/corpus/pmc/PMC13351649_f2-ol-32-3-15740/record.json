@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13351649_f2-ol-32-3-15740",
+  "figure_type": "forest",
+  "title": "Lymphocyte-to-C-reactive protein ratio as a clinically feasible nutrition-inflammation marker for predicting outcomes in patients with gastric cancer.",
+  "caption": "Forest plot illustrating the pooled effect estimates evaluating the relationship between pretreatment lymphocyte-to-C-reactive protein ratio and overall survival in individuals with gastric cancer. HR, hazard ratio; CI, confidence interval.",
+  "context": "Forest plot illustrating the pooled effect estimates evaluating the relationship between pretreatment lymphocyte-to-C-reactive protein ratio and overall survival in individuals with gastric cancer. HR, hazard ratio; CI, confidence interval.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13351649/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-02",
+  "retrieved_at": "2026-09-07T13:07:07.774248+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13351649",
+    "pmid": "42433652",
+    "journal": "Oncology letters",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "3f715a6d5b0eec87a3e533696a350a8a0ca7d7b556b74fac2d6306fa57e825c6",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,15 @@
+Title: Study to Evaluate Pharmacokinetics, Relative Bioavailability, Palatability of Obefazimod Minitablet Formulation
+Status: RECRUITING
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Healthy
+Interventions: Obefazimod 50 mg Capsule (DRUG), Obefazimod Minitablet 50 mg (DRUG)
+Enrollment: 44
+
+Summary: The sponsor is developing a pediatric minitablet formulation as part of the overall pharmaceutical development strategy. In vitro dissolution and physiological-based bio-pharmaceutics modelling and simulation have been used to guide the development of the mini-tablet formulation to match the PK exposure of the adult capsule formulation. The study aims to investigate the relative bioavailability of the 50mg minitablet compared to the adult obefazimod 50 mg capsule in adult healthy volunteers.
+
+Primary outcomes:
+- Maximum Plasma Concentration (Cmax) (time frame: Up to 336 hours post-dose (Day 15) at each period)
+- Area under the plasma concentration versus time curve from time zero up to the last measurable concentration (AUC (0-last) (time frame: Up to 336 hours post-dose (Day 15) at each period)
+- Area under the plasma concentration versus time curve up from time zero to infinity [AUC(0-inf)] (time frame: Up to 336 hours post-dose (Day 15) at each period)

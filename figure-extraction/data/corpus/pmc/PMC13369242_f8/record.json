@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13369242_f8",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of first-line chemoimmunotherapy versus chemotherapy alone for advanced pulmonary lymphoepithelioma-like carcinoma: a systematic review and real-world cohort study.",
+  "caption": "Updated meta-analysis: forest plot of relative risk for ORR  (A)  and DCR  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma-like carcinoma;ORR, Objective Response Rate; DCR, Disease Control Rate.",
+  "context": "Updated meta-analysis: forest plot of relative risk for ORR  (A)  and DCR  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma-like carcinoma;ORR, Objective Response Rate; DCR, Disease Control Rate. This common support held true even though the IO+Chemo scores skewed right with a long tail in the higher ranges.A Love plot ( Supplementary Figure 8 ) mapped the covariate shifts before and after adjustment. Applying a fixed-effects model, the updated synthesis confirmed that the IO+Chemo group consistently outperformed the chemotherapy-alone group in ORR (pooled RR = 1.81, 95% CI: 1.48–2.23, P < 0.001) and DCR (pooled RR = 1.10, 95% CI: 1.04–1.16, P = 0.001) ( Figure 8 , Table 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13369242/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:27.089283+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13369242",
+    "pmid": "42459654",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 8"
+  },
+  "image_hash": "38e439696caef01c57f4ae90405db1d3567a9e3c2100c57c2577c3a81b576236",
+  "image_file": "image.jpg"
+}

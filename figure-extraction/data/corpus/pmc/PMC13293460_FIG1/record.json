@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13293460_FIG1",
+  "figure_type": "table",
+  "title": "Efficacy of Bispecific Antibodies in Relapsed or Refractory Multiple Myeloma With Extramedullary Disease: A Systematic Review and Meta-Analysis.",
+  "caption": "PRISMA 2020 flow diagram of study identification, screening, and inclusion. EMD: extramedullary disease; ORR: objective response rate; PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-Analyses.",
+  "context": "PRISMA 2020 flow diagram of study identification, screening, and inclusion. EMD: extramedullary disease; ORR: objective response rate; PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-Analyses. The study selection process is summarized in Figure 1 . After 226 duplicates were removed, 2,632 records were screened, and 2,601 were excluded; 31 full-text reports were then assessed for eligibility, of which 27 were excluded (cited with reasons in Table A3 in the Appendices), and four prospective studies met the inclusion criteria, comprising 144 patients with baseline EMD (Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13293460/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-24",
+  "retrieved_at": "2026-09-07T13:26:38.158290+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13293460",
+    "pmid": "42359424",
+    "journal": "Cureus",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "6d18d7b9dedc913a54d9885e228dc9ce7bc7db1e489155dd170f3a1577a61530",
+  "image_file": "image.jpg"
+}

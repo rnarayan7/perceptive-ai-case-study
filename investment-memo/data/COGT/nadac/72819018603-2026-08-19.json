@@ -1,0 +1,23 @@
+{
+  "company": "COGT",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "72819018603-2026-08-19",
+  "title": "NADAC price: IMATINIB MESYLATE 400 MG TAB",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:45.099402+00:00",
+  "metadata": {
+    "ndc": "72819018603",
+    "ndc_description": "IMATINIB MESYLATE 400 MG TAB",
+    "nadac_per_unit": 2.87642,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "imatinib"
+  },
+  "hash": "f2abfef443e0a239ed6a480ec2f11322a788a571423f81fd66d8f06eb58c0bca"
+}

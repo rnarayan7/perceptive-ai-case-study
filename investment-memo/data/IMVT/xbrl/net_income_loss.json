@@ -1,0 +1,33 @@
+{
+  "company": "IMVT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "net_income_loss",
+  "title": "IMMUNOVANT, INC. - Net income (loss) (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000101/0001764013-26-000101-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:36.376902+00:00",
+  "metadata": {
+    "cik": 1764013,
+    "entity_name": "IMMUNOVANT, INC.",
+    "concept": "net_income_loss",
+    "label": "Net income (loss)",
+    "taxonomy": "us-gaap",
+    "tag": "NetIncomeLoss",
+    "value": -153224000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": "2026-04-01",
+    "period_type": "duration",
+    "accession": "0001764013-26-000101",
+    "form": "10-Q",
+    "fiscal_year": 2027,
+    "fiscal_period": "Q1",
+    "filed": "2026-08-06",
+    "frame": "CY2026Q2",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001764013.json",
+    "derived": false
+  },
+  "hash": "345a3cd6a0ba1201de2668dc0263babddd4b12fe89055604229e81360939b507"
+}

@@ -1,0 +1,135 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The Applicant’s Position:
+
+               N/A
+
+               The FDA’s Assessment:
+
+               Relapse-Free Survival
+
+               Relapse-free survival (RFS) is defined as the time from randomization until the date of
+               relapse or death due to any cause, whichever occurs first. FDA's analysis of RFS was
+               assessed based on FDA’s re-adjudication of bone marrow and MRD data.
+
+               FDA Figure 6 and FDA Table 10 summarize RFS results. Hazard ratio is 0.38 (95% CI: 0.22,
+               0.66), demonstrating RFS advantage of the blinatumomab group. Median RFS in the HC3
+               group is 7.8 (95% CI: 5.8, 13.4) months. Median RFS in the blinatumomab group is non-
+               estimable due to few events.
+
+
+               FDA Figure 6: Study 20120215 RFS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+
+
+
+
+                                                                   89
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Table 9: Study 20120215 OS by Subgroups
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+               Abbreviations: HC3 = High-Risk Consolidation 3, CI = Confidence Interval, NA = not applicable, HR = hazard ratio calculated
+               based on Cox Proportional Hazard model (unstratified).
+
+
+               In general, the subgroup analyses support the efficacy of blinatumomab.
+
+
+               Efficacy Results – Exploratory and COA (PRO) Endpoints
+               The Applicant’s Position:
+
+               N/A
+
+               The FDA’s Assessment:
+               No exploratory or PRO endpoints were evaluated.
+
+               Additional Analyses Conducted on the Individual Trial
+
+               As presented in the previous sections, ad hoc analyses for this study were performed to
+               provide longer follow-up time and to assess efficacy baseline MRD status.
+
+
+                                                                           88
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+               FDA Table 10: Study 20120215 RFS Summary
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+               Abbreviations: HC3 = High-Risk Consolidation 3, CI = Confidence Interval, NE = not estimable, MRD = minimal residual
+               disease, HR = hazard ratio calculated based on Cox Proportional Hazard model.
+               Stratification factor: MRD status per PCR at baseline (< 10-3 vs. ≥ 10-3 vs. missing). Results for the subgroup with missing
+               MRD are not shown due to low sample size and events.
+
+
+
+               MRD Conversion
+
+               Using the MRD by PCR data, FDA categorized subjects using a cutpoint of 0.1% at baseline
+               and of 0.01% at the Day 29 assessment. There were 27 subjects with MRD > 0.1% at
+               baseline, 11 in the blinatumomab arm and 16 in the chemotherapy arm. An MRD < 0.01%
+               was observed at the Day 29 assessment for 10 (91%; 95% CI 59,99) in the blinatumomab
+               arm and in 2 (13%; 95% CI 2,38) in the chemotherapy arm.
+
+
+               8.1.2 Study AALL1331
+
+               Title: Risk-Stratified Randomized Phase III Testing of Blinatumomab (NSC#765986) in First
+               Relapse of Childhood B-Lymphoblastic Leukemia (B-ALL)
+
+               INVESTIGATIONAL PLAN
+
+               Trial Design
+
+               The Applicant’s Description:
+
+               Study AALL1331 is an ongoing, phase 3, open-label, randomized, parallel group study to
+               evaluate efficacy and safety of blinatumomab compared with standard combination
+               chemotherapy in treating pediatric subjects with B-cell precursor ALL in first relapse.
+
+               In the original study design, all subjects received 1 block of induction chemotherapy and
+               then were randomized to the blinatumomab or standard of care chemotherapy arms based
+
+                                                                            90
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13220056_f4",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of immune checkpoint inhibitors combined with tyrosine kinase inhibitors in patients with metastatic renal cell carcinoma: a risk-stratified systematic review and meta-analysis.",
+  "caption": "Forest plots of tumor response outcomes.  (A)  Random-effects model forest plot of objective response rate (ORR).  (B)  Fixed-effects model forest plot of complete response (CR) rate. All effect estimates lie in the OR > 1 region, indicating superior ORR and CR with ICI-TKI compared with sunitinib.",
+  "context": "Forest plots of tumor response outcomes.  (A)  Random-effects model forest plot of objective response rate (ORR).  (B)  Fixed-effects model forest plot of complete response (CR) rate. All effect estimates lie in the OR > 1 region, indicating superior ORR and CR with ICI-TKI compared with sunitinib. Objective response rate and complete response Across five RCTs (n = 3,637), ICI-TKI showed a significant advantage in ORR over sunitinib (pooled odds ratio [OR] 3.74, 95% CI 2.63–5.32, P < 0.0001) ( Figure 4A ). Among the same patient population (n = 3,637), the CR rate significantly favored ICI-TKI therapy over sunitinib (OR 3.16, 95% CI 2.36–4.22, P < 0.0001) ( Figure 4B ). Excluding CLEAR and CheckMate 9ER reduced I² to 0% and RR remained 1.10, suggesting that potent vascular endothelial growth factor receptor-tyrosine kinase inhibitor (VEGFR-TKI) plus PD-1 blockade may be a key contributor to this variability ( Supplementary Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13220056/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-15",
+  "retrieved_at": "2026-09-07T13:06:55.291263+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13220056",
+    "pmid": "42220544",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "3b5955c7cc00e11fa500443cffe408fef3b7e444f59e4ab18ee40b70c1be5840",
+  "image_file": "image.jpg"
+}

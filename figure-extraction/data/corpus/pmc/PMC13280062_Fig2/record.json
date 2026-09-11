@@ -1,0 +1,69 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13280062_Fig2",
+  "figure_type": "waterfall",
+  "title": "Impact of different PSMA PET-based eligibility criteria on outcome of [&lt;sup&gt;177&lt;/sup&gt;Lu]Lu-PSMA radioligand therapy using [&lt;sup&gt;18&lt;/sup&gt;F]rhPSMA-7/[&lt;sup&gt;18&lt;/sup&gt;F]rhPSMA-7.3 (Flotufolastat).",
+  "caption": "Waterfall plot depicting best PSA response in percentage for each patient: In the subgroups V + /B + , V + /B-, and V-/B-, a > 50% PSA response was present in 62 of 157 (39.5%, 95% CI 31.8–47.6%), 2 of 17 (11.8%, 95% CI 1.5–36.4), and 0 of 13 (0%, 95% CI 0–26.5%) patients, respectively",
+  "context": "Waterfall plot depicting best PSA response in percentage for each patient: In the subgroups V + /B + , V + /B-, and V-/B-, a > 50% PSA response was present in 62 of 157 (39.5%, 95% CI 31.8–47.6%), 2 of 17 (11.8%, 95% CI 1.5–36.4), and 0 of 13 (0%, 95% CI 0–26.5%) patients, respectively",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13280062/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-18",
+  "retrieved_at": "2026-09-07T13:02:40.143802+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Bars beyond -90% decline threshold",
+      "value": "28 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars beyond -50% decline threshold",
+      "value": "54 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Bars beyond -30% decline threshold",
+      "value": "81 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Leftmost bar value",
+      "value": "100%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Deepest bar value",
+      "value": "-98%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13280062",
+    "pmid": "42313302",
+    "journal": "EJNMMI research",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "4ca94b1bde4c35fd28ddcadbdb432e2b9ce44d5c0ce5db99359dc68179f74142",
+  "image_file": "image.jpg"
+}

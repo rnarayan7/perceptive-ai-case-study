@@ -1,0 +1,43 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06979531",
+  "title": "Efficacy and Safety of IMVT-1402 in Adult Participants With Primary Sjogren's Disease With Moderate to Severe Systemic Disease Activity",
+  "url": "https://clinicaltrials.gov/study/NCT06979531",
+  "published": "2025-05-20",
+  "retrieved_at": "2026-09-07T12:53:37.945974+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Primary Sj\u00f6gren's Syndrome"
+    ],
+    "interventions": [
+      {
+        "name": "IMVT-1402",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 180,
+    "start_date": "2025-06-30",
+    "primary_completion_date": "2028-07",
+    "completion_date": "2029-07",
+    "first_posted_date": "2025-05-20",
+    "primary_outcomes": [
+      {
+        "measure": "Change from Baseline in clinESSDAI Score at Week 24 for IMVT-1402 Dose 1 compared to Placebo",
+        "timeFrame": "Baseline and at Week 24"
+      }
+    ]
+  },
+  "hash": "bf256c77714be86969054b662a3775fdb9eb82a08988d04e19d3b7233d03f800"
+}

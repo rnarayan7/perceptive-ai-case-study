@@ -1,0 +1,4 @@
+FAERS adverse-event report 10011815 (comparator: lacosamide)
+Serious: yes
+Reactions: Parkinson^s disease, Convulsion
+Reported drugs: VIMPAT, CARBAMAZIPINE, CARBA DOPA LEVA DOPA

@@ -1,0 +1,1 @@
+Sensitivity analysis forest plot for OS benefit of PPaLND versus control (adjusted). (2020) ( 18 ) reduced the heterogeneity (I²) to 0% and substantially altered the pooled HR, indicating that the results for this subgroup are not robust and require validation from additional research ( Figure 5 ).

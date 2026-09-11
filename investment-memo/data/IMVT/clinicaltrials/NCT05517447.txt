@@ -1,0 +1,13 @@
+Title: Extension Study to Assess Batoclimab in Participants With Thyroid Eye Disease
+Status: TERMINATED
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Thyroid Eye Disease
+Interventions: Observational cohort study (OTHER), Batoclimab (DRUG)
+Enrollment: 109
+
+Summary: This is a 2-cohort (observational and treatment cohort) extension study for participants completing feeder studies (IMVT-1401-3201 or IMVT-1401-3202). The observational cohort will assess the durability of proptosis response of feeder studies off treatment. The treatment cohort will evaluate the efficacy of batoclimab as assessed by proptosis responder rate.
+
+Primary outcomes:
+- Duration of proptosis response off treatment in study eye in batoclimab responder participants in the feeder studies (time frame: Up to Week 24)

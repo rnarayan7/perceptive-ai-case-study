@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12823314_psp470185-fig-0006",
+  "figure_type": "pk_logscale",
+  "title": "Albumin Levels Are Predictive of Cachexia-Induced Time-Dependent Clearance of Therapeutic Antibodies: A Physiologically Based Pharmacokinetic Model of Durvalumab.",
+  "caption": "PBPK‐model predicted change from baseline clearance over time (black line) versus empirical popPK models of 10 immune checkpoint inhibitor monoclonal antibody drugs (points).",
+  "context": "PBPK‐model predicted change from baseline clearance over time (black line) versus empirical popPK models of 10 immune checkpoint inhibitor monoclonal antibody drugs (points). Figure 6 shows the change from baseline clearance over time predicted by the PBPK model compared to the change in clearance of 10 immune checkpoint inhibitor monoclonal antibody drugs that exhibited time‐dependent clearance in cancer patients.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823314/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:04.425567+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12823314",
+    "pmid": "41543435",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 6"
+  },
+  "image_hash": "533f458242f9163bdb72b10e3b1a67c382f5dd6dfe97cab2f6acc0f05a7e3651",
+  "image_file": "image.jpg"
+}
