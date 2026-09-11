@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "34436569",
+  "title": "ABX464 Decreases the Total Human Immunodeficiency Virus (HIV) Reservoir and HIV Transcription Initiation in CD4+ T Cells From Antiretroviral Therapy-Suppressed Individuals Living With HIV.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34436569/",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.560932+00:00",
+  "metadata": {
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "year": "2022",
+    "pmid": "34436569"
+  },
+  "hash": "053d30a605d7f719738f810585d702fae2387fde354c7c11b4bbc933e089bf30"
+}

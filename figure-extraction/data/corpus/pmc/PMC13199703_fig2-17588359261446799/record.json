@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13199703_fig2-17588359261446799",
+  "figure_type": "kaplan_meier",
+  "title": "The impact of APC mutation on the efficacy of anti-EGFR therapy in metastatic colorectal cancer with RAS wild type: a retrospective analysis.",
+  "caption": "Kaplan–Meier curve of overall survival according to APC mutation status.",
+  "context": "Kaplan–Meier curve of overall survival according to APC mutation status. The median OS was not reached (95% CI, 31.5–NA) in patients with the APC mutation, whereas it was 37.3 months (95% CI, 23.4–NA) in those with APC-wild type tumors ( Table 3 ), showing a significant difference between the groups (HR 0.41, 95% CI 0.19–0.91, p = 0.024; Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199703/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-05-23",
+  "retrieved_at": "2026-09-07T12:53:02.106905+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.41 (95% CI 0.19-0.91)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "nificant difference between the groups (HR 0.41, 95% CI 0.19–0.91, p = 0.024; Figure 2 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13199703",
+    "pmid": "42199488",
+    "journal": "Therapeutic advances in medical oncology",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "bf2563153cd6650c489c6bb191829120105cc40e970d680dd756976ab3ca0871",
+  "image_file": "image.jpg"
+}

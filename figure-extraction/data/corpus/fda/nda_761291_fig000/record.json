@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig000",
+  "figure_type": "unknown",
+  "title": "nda_761291 figure 0",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n               Reviewers of Multi-Disciplinary Review and Evaluation\n\n               [FDA will complete this section.]\n                 Regulatory Project Manager                                      Denise Felluca, PharmD, MBA\n                 Chief Project Management Staff                                  Theresa Carioti, MPH\n                 Pharmacology/Toxicology Reviewer(s)                             Michael Manning, PhD\n                 Pharmacology/Toxicology Team Leader(s)                          Brenda Gehrke, PhD\n                 Office of Clinical Pharmacology Reviewer(s)                     Lauren Price, PharmD\n                 Office of Clinical Pharmacology Team Leader(s)                  Nan Zheng, PhD\n                 Pharmacometrics Reviewer(s)                                     Robyn Konicki, PharmD\n                 Pharmacometrics Team Leader(s)                                  Jiang Liu, PhD\n                 Clinical Reviewer                                               Andrea Baines, MD, PhD\n                 Clinical Team Leader                                            Bindu Kanapuru, MD\n                 Safety Analyst                                                  Peter Schotland, PhD\n                 Statistical Reviewer                                            Jay Zhao, PhD\n                 Statistical Team Leader                                         Qing Xu, PhD\n                 Associate Director for Labeling (ADL)                           Elizabeth Everhart, MSN, RN, ACNP\n                 Cross-Disciplinary Team Leader                                  Bindu Kanapuru, MD\n                 Deputy Division Director (DHOT)                                 Haleh Saber, PhD, MS\n                 Division Director (OCP)                                         Brian Booth, PhD\n                 Deputy Division Director (OB)                                   Lisa Rodriguez, PhD\n                 Division Director (OOD)                                         Nicole Gormley, MD\n                 Office Director (or designated signatory authority)             Marc Theoret, MD\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              13\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.842126+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "21e6f3eb56e65cf37d170a4c6244f3f7894e69c4624ce1da5237d56c2b684054",
+  "image_file": "image.png"
+}

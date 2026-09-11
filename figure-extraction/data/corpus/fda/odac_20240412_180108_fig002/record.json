@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240412_180108_fig002",
+  "figure_type": "unknown",
+  "title": "odac_20240412_180108 figure 2",
+  "caption": "",
+  "context": "April 12, 2024\nOncologic Drugs Advisory Committee Meeting\n\n\nOpen Public Hearing Speakers: Jenny Ahlstrom (HealthTree Foundation); Mary DeRome\n(Multiple Myeloma Research Foundation); Saad Usmani, MD; Surbhi Sidana, MD; Noopur\nRaje, MD; Vinay Prasad, MD, MPH; Linda Huguelet; Frank Morelli\n\nThe agenda was as follows:\n\n  Call to Order and Introduction of          Grzegorz (Greg) S. Nowakowski, MD, FASCO\n  Committee                                  Acting Chairperson, ODAC\n\n  Conflict of Interest Statement             Takyiah Stevenson, PharmD\n                                             Acting Designated Federal Officer, ODAC\n\n  FDA Introductory Remarks\n\n  Oncology Endpoint Development              Nicole Gormley, MD\n                                             Associate Director of Oncology Endpoint\n                                             Development\n                                             Oncology Center of Excellence (OCE)\n                                             Director, Division of Hematologic Malignancies II\n                                             (DHM II) Office of Oncologic Diseases (OOD)\n                                             Office of New Drugs (OND), CDER, FDA\n\n  Multiple Myeloma - Minimal                 Bindu Kanapuru, MD\n  Residual Disease (MRD)                     Associate Director of Therapeutic Review\n                                             DHM II, OOD, OND, CDER, FDA\n\n  INDUSTRY PRESENTATIONS                     Sylvester Comprehensive Cancer Center,\n                                             University of Miami\n\n  Introduction                               C. Ola Landgren, MD, PhD\n                                             Professor of Medicine\n                                             Chief, Division of Myeloma, Department of Medicine\n                                             Director, Sylvester Myeloma Institute\n                                             Co-Leader, Translational and Clinical Oncology\n                                             Program\n                                             Paul J. DiMare Endowed Chair in Immunotherapy\n                                             Sylvester Comprehensive Cancer Center\n                                             University of Miami\n\n  Multiple Myeloma, Unmet Medical Need,      C. Ola Landgren, MD, PhD\n  and Role of MRD\n\n  Data, Methodology, and Results             Sean Devlin, PhD\n                                             Associate Professor of Biostatistics\n                                             Associate Attending Biostatistician\n                                             Department of Biostatistics\n                                             Memorial Sloan Kettering Cancer Center\n\n  Summary and Clinical Conclusions           C. Ola Landgren, MD, PhD\n\n\n                                          Page 3 of 6\n\f",
+  "url": "https://www.fda.gov/media/180108/download",
+  "image_url": "https://www.fda.gov/media/180108/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:01.286230+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240412_180108",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "3f5aed4b71dac78a7c4343ba18807dc8ed2d65c77f800e200796f9e355210ab4",
+  "image_file": "image.png"
+}

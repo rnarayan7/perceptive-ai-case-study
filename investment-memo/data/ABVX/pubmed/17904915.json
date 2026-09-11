@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "17904915",
+  "title": "The prevalence and geographic distribution of Crohn's disease and ulcerative colitis in the United States.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17904915/",
+  "published": "2007-01-01",
+  "retrieved_at": "2026-09-08T13:31:28.379857+00:00",
+  "metadata": {
+    "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+    "year": "2007",
+    "pmid": "17904915"
+  },
+  "hash": "048a1e4a223f2edf12de0103e355ee2eaab18c913d64df067955a21133088e34"
+}

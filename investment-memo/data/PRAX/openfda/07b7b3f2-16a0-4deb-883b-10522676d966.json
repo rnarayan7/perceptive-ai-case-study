@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "07b7b3f2-16a0-4deb-883b-10522676d966",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=07b7b3f2-16a0-4deb-883b-10522676d966",
+  "published": "2023-11-09",
+  "retrieved_at": "2026-09-08T08:40:34.884964+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Alembic Pharmaceuticals Inc.",
+    "manufacturer_name": "Alembic Pharmaceuticals Inc.",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA204974",
+    "route": "ORAL"
+  },
+  "hash": "f83b13cfa8519faf8ec023345cfe3fd7ee5a7e143772ac1ceabbb6d4ecd06c1a"
+}

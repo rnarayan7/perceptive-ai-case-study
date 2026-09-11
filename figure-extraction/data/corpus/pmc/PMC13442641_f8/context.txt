@@ -1,0 +1,1 @@
+External multicenter validation of the FLIPI-SII model in 187 R-CHOP-treated patients with follicular lymphoma.  (A)  Overall survival.  (B)  Progression-free survival. The log-rank test showed significant differences across FLIPI-SII risk groups for both OS and PFS (p=0.00031 for OS, and p=0.03 for PFS) ( Figure 8 ).

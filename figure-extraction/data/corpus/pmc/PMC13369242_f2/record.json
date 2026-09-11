@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13369242_f2",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of first-line chemoimmunotherapy versus chemotherapy alone for advanced pulmonary lymphoepithelioma-like carcinoma: a systematic review and real-world cohort study.",
+  "caption": "Forest plot of hazard ratios for PFS (A)  and OS  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma like carcinoma; PFS, Progression-Free Survival;OS, overall survival.",
+  "context": "Forest plot of hazard ratios for PFS (A)  and OS  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma like carcinoma; PFS, Progression-Free Survival;OS, overall survival. Overall survival (OS) also improved significantly, with a 52% reduction in mortality risk for the combination group (pooled HR = 0.48, 95% CI: 0.37–0.62, P < 0.001; I² = 0%) ( Figure 2 , Table 2 ). Visual inspections using L’Abbé and radial plots, coupled with a leave-one-out sensitivity analysis ( 31 ), identified one small-sample study as the primary source of this heterogeneity ( Supplementary Figure 2 - 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13369242/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:27.081426+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.48 (95% CI 0.37-0.62)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "risk for the combination group (pooled HR = 0.48, 95% CI: 0.37–0.62, P < 0.001; I² = 0%) ( Figure 2 , Table",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13369242",
+    "pmid": "42459654",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "c0be20a41f5faa93ca4fe994e95c541ef761a9c59dda68907496865642e5c29d",
+  "image_file": "image.jpg"
+}

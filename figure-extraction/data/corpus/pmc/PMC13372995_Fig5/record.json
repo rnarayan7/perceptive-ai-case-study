@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13372995_Fig5",
+  "figure_type": "pk_logscale",
+  "title": "Differential expression of monoclonal antibody in rat brain following systemic and local administration of AAV.",
+  "caption": "[ A ] Plasma concentrations of anti-TargetX mAb and Ctrl mAb at different time points after AAV9-anti-TargetX mAb, AAV5-anti-TargetX mAb* (only ICM) and AAV9-Ctrl mAb ** (only ICM) administration through different routes and at different doses (only ICM) (undetectable concentrations were assigned LOD value of 0.1 ng/ml to be plotted on a semi-log plot). ( B ) anti-TargetX mAb plasma exposure (AUC t ) after administration through different routes ( C ) anti-TargetX mAb/Ctrl mAb plasma exposure (AUC t ) of different groups after ICM administration. DN=Dose normalized to 5E12 Vg/rat, ICM=Intra-Cisterna Magna, IST=Intra-striatal, IV=Intravenous.  N  = 3 per group (except ICM 1E12 3 W Ctrl mAb, where  N  = 2). Data presented as Mean ± SD (* p  < 0.05,** p  < 0.01,**** p  < 0.0001) Dose normalized data (DN) were dose normalized to the top dose of 5E12 Vg (Equation: AUCt/nominal dose*5E12) *Ctrl mAb is the transgene product for only one group (ICM 1E12 3 W Ctrl mAb). All of the other groups used anti-TargetX mAb as the transgene product **AAV5 used as the vector for only one group (ICM 5E12 3 W anti-TargetX mAb). All of the other groups were injected with AAV9 vector",
+  "context": "[ A ] Plasma concentrations of anti-TargetX mAb and Ctrl mAb at different time points after AAV9-anti-TargetX mAb, AAV5-anti-TargetX mAb* (only ICM) and AAV9-Ctrl mAb ** (only ICM) administration through different routes and at different doses (only ICM) (undetectable concentrations were assigned LOD value of 0.1 ng/ml to be plotted on a semi-log plot). ( B ) anti-TargetX mAb plasma exposure (AUC t ) after administration through different routes ( C ) anti-TargetX mAb/Ctrl mAb plasma exposure (AUC t ) of different groups after ICM administration. DN=Dose normalized to 5E12 Vg/rat, ICM=Intra-Cisterna Magna, IST=Intra-striatal, IV=Intravenous.  N  = 3 per group (except ICM 1E12 3 W Ctrl mAb, where  N  = 2). Data presented as Mean ± SD (* p  < 0.05,** p  < 0.01,**** p  < 0.0001) Dose normalized data (DN) were dose normalized to the top dose of 5E12 Vg (Equation: AUCt/nominal dose*5E12) *Ctrl mAb is the transgene product for only one group (ICM 1E12 3 W Ctrl mAb). All of the other groups used anti-TargetX mAb as the transgene product **AAV5 used as the vector for only one group (ICM 5E12 3 W anti-TargetX mAb). All of the other groups were injected with AAV9 vector",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13372995/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-15",
+  "retrieved_at": "2026-09-07T13:08:53.360857+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13372995",
+    "pmid": "42455160",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 5"
+  },
+  "image_hash": "8b3b898d97fc0195be0144b17bfd0538df0fa6fc4457efc1c8e0455c5adcdf14",
+  "image_file": "image.jpg"
+}

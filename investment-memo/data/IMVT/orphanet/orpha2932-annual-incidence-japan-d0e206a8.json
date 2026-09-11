@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2932-annual-incidence-japan-d0e206a8",
+  "title": "Chronic inflammatory demyelinating polyneuropathy - Annual incidence (Japan) [ORPHA:2932]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:08.378772+00:00",
+  "metadata": {
+    "orphacode": 2932,
+    "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "0.48",
+    "geographic_area": "Japan",
+    "validation_status": "Validated",
+    "source": "18223015[PMID]",
+    "source_pmids": [
+      "18223015"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "d0e206a860cb981db71d64d38ecc36ad4fd3dcf6fdb6e34edbe4c009847175eb"
+}

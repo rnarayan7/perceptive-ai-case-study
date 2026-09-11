@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003968 (comparator: lacosamide)
+Serious: no
+Reactions: Feeling abnormal
+Reported drugs: EPIVAL, TOPIMAX, KEPPRA, VIMPAT

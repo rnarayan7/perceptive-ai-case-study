@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig133",
+  "figure_type": "table",
+  "title": "nda_bla_168489 figure 133",
+  "caption": "",
+  "context": "\f\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377\n               OPDIVO (nivolumab) and Yervoy (ipilimumab)\n               Q2W for ipilimumab in pediatric patients weighing <40 kg.\n\n                                General Dosing and Therapeutic Individualization\n\n                           6.2.2.1.     General Dosing\n\n               The Applicant’s Position:\n               Proposed Dosage and Administration\n               Recommended doses and schedules are presented in Table 3.\n\n               Confirmation of the selected Doses and Regimens\n               • Clinical efficacy and safety results: The recommended dosing regimens were supported by\n                  the nivolumab and ipilimumab PPK and E-R safety analyses to support the PK-based efficacy\n                  extrapolation from adult pivotal efficacy studies to adolescents in advanced melanoma and\n                  adjuvant treatment of melanoma.\n               • PPK analysis: The PK of nivolumab is adequately characterized by a 2 compartment, zero-\n                  order IV infusion PK model with time-varying CL for advanced melanoma and solid tumor,\n                  and with stationary CL for adjuvant treatment of melanoma. The PK of ipilimumab is also\n                  adequately characterized by a 2 compartment, zero-order IV infusion PK model with time-\n                  varying CL for advanced melanoma and solid tumors. Details of the PPK assessments to\n                  characterize adolescent PK for nivolumab and ipilimumab are provided in section 6.3 and\n                  the Appendix.\n               • Exposure-Response safety analysis:\n                  Dosing Recommendation for Advanced Melanoma Nivolumab Monotherapy\n                  Despite higher exposures predicted for adolescents versus adults when given the adult\n                  approved dosing regimens (exposures exceeding the adult range up to 25.0%, 26.0% and\n                  31.6% higher Cavgss, Cminss, and Cmaxss, respectively for 240 mg Q2W and up to 32.8%,\n                  31.4% and 41.2% higher Cavgss, Cminss, and Cmaxss, respectively for 480 mg Q4W), the\n                  pooled E-R safety analysis predicted lower median Gr2+ IMAEs with overlapping 90% PIs in\n                  adolescents versus adults when using the approved adult dosing regimens (Table 6 and\n                  Table 7). Body weight-based dosing for adolescent < 40 kg is recommended and avoids the\n                  potential for higher exposure in low body weight subjects using adult flat dosing.\n                  Dosing Recommendation for Advanced Melanoma Nivolumab in Combination with\n                  Ipilimumab\n                  Despite higher exposures predicted for adolescents versus adults when given the adult\n                  approved dosing regimens (exposures exceeding the adult range up to 15.7%, 19.3%, and\n                  26.1% higher Cavg4, Cmin4, and Cmax4, respectively for nivolumab and up to 39%, 56%,\n                  and 35% higher Cavg4, Cmin4, and Cmax4, respectively for ipilimumab), the pooled E-R\n                  safety analysis predicted lower median Gr2+ IMAEs with overlapping 90% PIs in adolescent\n                  versus adult when using the approved adult dosing regimens (Table 11 and Table 12).\n                  Nivolumab maintenance dosing after the combination uses the same dosing\n                  recommendations for nivo mono.\n                                                                 59\n                                           Version date: June 2022 (ALL NDA/ BLA reviews)\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\n\nReference ID: 5127294\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.076221+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "eb6908e4223b3ea444ca4b412222b1a1a38ff18782bdb1f8ce3a9abd317c9ff2",
+  "image_file": "image.png"
+}

@@ -1,0 +1,237 @@
+0001764013FALSE--03-31Q12027xbrli:sharesiso4217:USDiso4217:USDxbrli:sharesxbrli:pureimvt:segmentimvt:subsidiary00017640132026-04-012026-06-3000017640132026-08-0300017640132026-06-3000017640132026-03-310001764013us-gaap:SeriesAPreferredStockMember2026-03-310001764013us-gaap:SeriesAPreferredStockMember2026-06-300001764013imvt:PreferredStockExcludingSeriesAPreferredStockMember2026-03-310001764013imvt:PreferredStockExcludingSeriesAPreferredStockMember2026-06-3000017640132025-04-012025-06-300001764013us-gaap:PreferredStockMemberus-gaap:SeriesAPreferredStockMember2026-03-310001764013us-gaap:CommonStockMember2026-03-310001764013us-gaap:AdditionalPaidInCapitalMember2026-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-310001764013us-gaap:RetainedEarningsMember2026-03-310001764013us-gaap:CommonStockMember2026-04-012026-06-300001764013us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001764013us-gaap:RetainedEarningsMember2026-04-012026-06-300001764013us-gaap:PreferredStockMemberus-gaap:SeriesAPreferredStockMember2026-06-300001764013us-gaap:CommonStockMember2026-06-300001764013us-gaap:AdditionalPaidInCapitalMember2026-06-300001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001764013us-gaap:RetainedEarningsMember2026-06-300001764013us-gaap:PreferredStockMemberus-gaap:SeriesAPreferredStockMember2025-03-310001764013us-gaap:CommonStockMember2025-03-310001764013us-gaap:AdditionalPaidInCapitalMember2025-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-310001764013us-gaap:RetainedEarningsMember2025-03-3100017640132025-03-310001764013us-gaap:CommonStockMember2025-04-012025-06-300001764013us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001764013us-gaap:RetainedEarningsMember2025-04-012025-06-300001764013us-gaap:PreferredStockMemberus-gaap:SeriesAPreferredStockMember2025-06-300001764013us-gaap:CommonStockMember2025-06-300001764013us-gaap:AdditionalPaidInCapitalMember2025-06-300001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-300001764013us-gaap:RetainedEarningsMember2025-06-3000017640132025-06-300001764013us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Member2026-06-300001764013us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Member2026-03-310001764013us-gaap:ConvertiblePreferredStockMember2026-04-012026-06-300001764013us-gaap:ConvertiblePreferredStockMember2025-04-012025-06-300001764013us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001764013us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001764013us-gaap:RestrictedStockMember2026-04-012026-06-300001764013us-gaap:RestrictedStockMember2025-04-012025-06-300001764013imvt:CappedValueAppreciationRightsMember2026-04-012026-06-300001764013imvt:CappedValueAppreciationRightsMember2025-04-012025-06-3000017640132017-12-192017-12-1900017640132017-12-190001764013imvt:UponAchievementOfDevelopmentRegulatoryAndSalesMilestonesMembersrt:MaximumMember2017-12-1900017640132018-12-072018-12-0700017640132026-01-012026-01-310001764013us-gaap:RelatedPartyMember2018-08-012018-08-310001764013us-gaap:SeriesAPreferredStockMembersrt:MaximumMember2026-06-300001764013imvt:StockOptionsAndStockOptionsNotSettledMember2026-06-300001764013imvt:StockOptionsAndStockOptionsNotSettledMember2026-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2026-06-300001764013us-gaap:RestrictedStockUnitsRSUMember2026-03-310001764013imvt:CappedValueAppreciationRightsMember2026-06-300001764013imvt:CappedValueAppreciationRightsMember2026-03-310001764013imvt:StockOptionNotSettledMember2026-04-012026-06-300001764013imvt:RestrictedStockUnitsNotSettledMember2026-06-300001764013imvt:EquityInducementPlan2023Member2026-04-012026-06-300001764013imvt:EquityIncentivePlan2019Member2019-12-310001764013imvt:EquityIncentivePlan2019Member2019-12-012019-12-310001764013imvt:EquityIncentivePlan2019Member2026-06-300001764013imvt:EquityIncentivePlan2019Memberus-gaap:RestrictedStockUnitsRSUMember2026-06-300001764013imvt:EquityIncentivePlan2018Member2026-06-300001764013imvt:EquityInducementPlan2023Member2023-02-010001764013imvt:EquityInducementPlan2023Member2026-06-3000017640132025-04-012026-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2026-04-012026-06-300001764013us-gaap:PerformanceSharesMember2026-03-310001764013us-gaap:PerformanceSharesMember2026-04-012026-06-300001764013us-gaap:PerformanceSharesMember2026-06-300001764013us-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost2026-04-012026-06-300001764013us-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost2025-04-012025-06-300001764013us-gaap:GeneralAndAdministrativeExpense2026-04-012026-06-300001764013us-gaap:GeneralAndAdministrativeExpense2025-04-012025-06-300001764013us-gaap:EmployeeStockOptionMember2026-06-300001764013us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2026-04-012026-06-300001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2025-04-012025-06-300001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2026-06-300001764013imvt:EndocrineDiseasesMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:EndocrineDiseasesMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:NeurologicalDiseasesMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:NeurologicalDiseasesMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:RheumatologyDiseasesMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:RheumatologyDiseasesMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:DermatologyDiseasesMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:DermatologyDiseasesMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:OtherClinicalAndNonclinicalMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:OtherClinicalAndNonclinicalMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:OtherUnallocatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:OtherUnallocatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:PersonnelRelatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:PersonnelRelatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:ReportableSegmentMember2026-04-012026-06-300001764013imvt:ReportableSegmentMember2025-04-012025-06-300001764013imvt:ReportableSegmentMemberus-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost2026-04-012026-06-300001764013imvt:ReportableSegmentMemberus-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost2025-04-012025-06-300001764013imvt:ReportableSegmentMemberus-gaap:GeneralAndAdministrativeExpense2026-04-012026-06-300001764013imvt:ReportableSegmentMemberus-gaap:GeneralAndAdministrativeExpense2025-04-012025-06-30
+
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2026
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission File Number 001-38906
+
+IMMUNOVANT, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+83-2771572
+
+(State or other jurisdiction
+
+of incorporation or organization)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1000 Park Forty Plaza, Suite 210
+
+27713
+
+Durham,
+
+NC
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (917) 410-3120
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+IMVT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+As of August 3, 2026, there were 206,552,682 shares of the Registrant’s common stock, $0.0001 par value per share, outstanding.
+
+i
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+QUARTERLY REPORT ON FORM 10-Q
+
+FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2026
+
+Table of Contents
+
+Page
+
+PART I.
+
+FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements (unaudited)
+
+2
+
+Condensed Consolidated Balance Sheets as of June 30, 2026 and March 31, 2026
+
+2
+
+Condensed Consolidated Statements of Operations for the Three Months Ended June 30, 2026 and 2025
+
+3
+
+Condensed Consolidated Statements of Comprehensive Loss for the Three Months Ended June 30, 2026 and 2025
+
+4
+
+Condensed Consolidated Statements of Stockholders’ Equity for the Three Months Ended June 30, 2026 and 2025
+
+5
+
+Condensed Consolidated Statements of Cash Flows for the Three Months Ended June 30, 2026 and 2025
+
+6
+
+Notes to Condensed Consolidated Financial Statements
+
+7
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+17
+
+Item 3.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+27
+
+Item 4.
+
+Controls and Procedures
+
+27
+
+PART II.
+
+OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+28
+
+Item 1A.
+
+Risk Factors
+
+28
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+31
+
+Item 3.
+
+Defaults Upon Senior Securities
+
+31
+
+Item 4.
+
+Mine Safety Disclosures
+
+31
+
+Item 5.
+
+Other Information
+
+31
+
+Item 6.
+
+Exhibits
+
+32
+
+SIGNATURES
+
+33
+
+Where You Can Find More Information
+
+We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. In addition, investors and others should note that we may announce material business and financial information to our investors using our investor relations website (www.immunovant.com), filings we make with the Securities and Exchange Commission, webcasts, press releases, and conference calls. We use these mediums, including our website, to communicate with our stockholders and the public about our company, our product candidates, and other matters. It is possible that the information that we make available may be deemed to be material information. We therefore encourage investors and others interested in our company to review the information that we make available on our website.
+
+The information contained on the website referenced in this Quarterly Report on Form 10-Q is not incorporated by reference into this filing, and the website address is provided only as an inactive textual reference.
+
+All trademarks, trade names, service marks, and copyrights appearing in this Quarterly Report on Form 10-Q are the property of their respective owners.
+
+1
+
+Table of Contents
+
+PART I—FINANCIAL INFORMATION

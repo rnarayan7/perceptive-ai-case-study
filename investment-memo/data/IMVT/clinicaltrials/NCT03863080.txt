@@ -1,0 +1,23 @@
+Title: A Study of RVT-1401 in Myasthenia Gravis (MG) Patients
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Myasthenia Gravis
+Interventions: RVT-1401 (DRUG), Placebo (DRUG)
+Enrollment: 17
+
+Summary: The purpose of the current study is to assess safety/tolerability and key pharmacodynamic (PD) effects that are considered to be associated with clinical benefit (reduction of total IgG and anti-AChR-IgG) in Myasthenia Gravis patients following treatment with RVT-1401 (also known as IMVT-1401) compared to placebo.
+
+Primary outcomes:
+- Double-Blind Treatment Period: Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs) (time frame: Up to Week 18)
+- Open-Label Extension Period: Number of Participants Reporting AEs and SAEs (time frame: Up to Week 18)
+- Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Vital Signs (time frame: Up to Week 7)
+- Open-label Extension Period: Number of Participants With Clinically Significant Changes in Vital Signs (time frame: Up to Week 18)
+- Double-blind Treatment Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters (time frame: Up to Week 7)
+- Open-label Extension Period: Number of Participants With Clinically Significant Changes in Clinical Laboratory Parameters (time frame: Up to Week 18)
+- Double-Blind Treatment Period: Number of Participants With Clinically Significant Changes in Electrocardiogram (ECG) (time frame: Up to Week 7)
+- Open-label Extension Period: Number of Participants With Clinically Significant Changes in ECG (time frame: Up to Week 18)
+- Double-blind Treatment Period: Percent Change From Baseline in Levels of Total Immunoglobulin G (IgG) (time frame: Baseline (Day 1) and Up to Week 7)
+- Double-blind Treatment Period: Percent Change From Baseline in IgG Subclasses 1, 2, 3 and 4 (time frame: Baseline (Day 1) and Up to Week 7)
+- Double-Blind Treatment Period: Percent Change From Baseline in Anti-acetylcholine Receptor Immunoglobulin G (Anti-AChR-IgG) at Week 7 (time frame: Baseline (Day 1) and Week 7)

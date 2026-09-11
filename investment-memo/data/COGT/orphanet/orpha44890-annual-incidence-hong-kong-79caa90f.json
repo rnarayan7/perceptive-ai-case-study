@@ -1,0 +1,30 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha44890-annual-incidence-hong-kong-79caa90f",
+  "title": "Gastrointestinal stromal tumor - Annual incidence (Hong Kong) [ORPHA:44890]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:10.055735+00:00",
+  "metadata": {
+    "orphacode": 44890,
+    "preferred_term": "Gastrointestinal stromal tumor",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "1.82",
+    "geographic_area": "Hong Kong",
+    "validation_status": "Not yet validated",
+    "source": "16610025[PMID]",
+    "source_pmids": [
+      "16610025"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=44890",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/44890",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "79caa90f9ba70d3982cf0bdb2a0993fe328072bb5f1f721fbbaa7d2c4eb0e6da"
+}

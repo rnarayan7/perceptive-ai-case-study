@@ -1,0 +1,33 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA761286",
+  "title": "Drugs@FDA BLA761286: RYSTIGGO",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761286",
+  "published": "2023-06-26",
+  "retrieved_at": "2026-09-08T08:40:53.534414+00:00",
+  "metadata": {
+    "manufacturer": "UCB INC",
+    "brand_name": "RYSTIGGO",
+    "sponsor_name": "UCB INC",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "RYSTIGGO"
+    ],
+    "active_ingredients": [
+      "ROZANOLIXIZUMAB-NOLI"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2023-06-26",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD",
+      "UNKNOWN"
+    ],
+    "submission_count": 3
+  },
+  "hash": "b36582d6ba5cfbf12c8f8d2eeb9d86b9bb3606c8dc5930e81c9eddde024577b2"
+}

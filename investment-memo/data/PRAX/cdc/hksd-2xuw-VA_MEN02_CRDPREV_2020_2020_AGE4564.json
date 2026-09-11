@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-VA_MEN02_CRDPREV_2020_2020_AGE4564",
+  "title": "Mental Health - Virginia - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785273+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Virginia",
+    "location_abbr": "VA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "16.4",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "bb746669b949e775ca6d13574919899eff37f2ba45f54430d680d93cce91e4ef"
+}

@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "09a0d30d-9b8f-4c76-8cdb-8492386b2254",
+  "title": "Label: Lamotrigine (LAMOTRIGINE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=09a0d30d-9b8f-4c76-8cdb-8492386b2254",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-08T08:40:39.645565+00:00",
+  "metadata": {
+    "brand_name": "Lamotrigine",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer": "Preferred Pharmaceuticals Inc.",
+    "manufacturer_name": "Preferred Pharmaceuticals Inc.",
+    "pharm_class_epc": "Anti-epileptic Agent [EPC]",
+    "pharm_class_moa": "Organic Cation Transporter 2 Inhibitors [MoA]",
+    "application_number": "ANDA090170",
+    "route": "ORAL"
+  },
+  "hash": "fa2b89d76b4cb9dc2b0055946bd1c0bd36f3e277aadad1f11b684a06eb353490"
+}

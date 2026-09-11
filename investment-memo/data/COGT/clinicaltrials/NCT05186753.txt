@@ -1,0 +1,15 @@
+Title: (Summit) A Study to Evaluate the Efficacy and Safety of CGT9486 Versus Placebo in Patients With Indolent or Smoldering Systemic Mastocytosis
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: SSM, Mastocytosis, Indolent, Mastocytosis, Systemic, Mastocytosis, ISM, BMM, Smoldering Systemic Mastocytosis, Bone Marrow Mastocytosis
+Interventions: Bezuclastinib Tablets (Formulation A) (DRUG), Bezuclastinib Tablets (Formulation B) (DRUG), Placebo Tablets (DRUG)
+Enrollment: 237
+
+Summary: This is a multi-part, randomized, double-blind, placebo-controlled Phase 2 clinical study comparing the safety and efficacy of bezuclastinib (CGT9486) plus best supportive care (BSC) with placebo plus BSC in patients with nonadvanced systemic mastocytosis (NonAdvSM), including indolent systemic mastocytosis and smoldering systemic mastocytosis, whose symptoms are not adequately controlled by BSC. This study will be conducted in three parts. Patients in Parts 1a, 1b and 2 will receive bezuclastinib or placebo, and may roll over onto Part 3 to receive treatment with bezuclastinib. Additionally, a substudy of subjects will investigate the efficacy, safety, and tolerability of bezuclastinib in patients who are experiencing inadequate symptom control with avapritinib.
+
+Primary outcomes:
+- Part 1: Determine recommended dose of bezuclastinib (CGT9486) in subjects with NonAdvSM (time frame: 3 months)
+- Part 2: Efficacy of bezuclastinib at the selected dose versus placebo (time frame: 24 Weeks)
+- Part 3: Safety and tolerability of bezuclastinib as assessed by number of adverse events (time frame: Up to 5 years)

@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "25889234",
+  "title": "Long lasting control of viral rebound with a new drug ABX464 targeting Rev - mediated viral RNA biogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25889234/",
+  "published": "2015-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.566283+00:00",
+  "metadata": {
+    "journal": "Retrovirology",
+    "year": "2015",
+    "pmid": "25889234"
+  },
+  "hash": "5352c67af90ccc58a3cf70f9e50d059d08c61e64c8d55f2f914f8d61b47d756c"
+}

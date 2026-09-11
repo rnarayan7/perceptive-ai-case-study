@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J3380_2026-07-01",
+  "title": "Medicare Part B ASP: Inj vedolizumab iv 1 mg (J3380, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.503424+00:00",
+  "metadata": {
+    "hcpcs": "J3380",
+    "short_description": "Inj vedolizumab iv 1 mg",
+    "dosage": "1 MG",
+    "payment_limit": 21.622,
+    "asp_per_unit": 20.39811320754717,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "vedolizumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "967e215f188f349f1fa31d9d54433c30cc87c27d7a79a6b0405249f98197ca41"
+}

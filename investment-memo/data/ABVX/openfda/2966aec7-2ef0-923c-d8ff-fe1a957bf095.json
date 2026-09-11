@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "2966aec7-2ef0-923c-d8ff-fe1a957bf095",
+  "title": "Label: Rinvoq (UPADACITINIB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:40:05.306252+00:00",
+  "metadata": {
+    "brand_name": "Rinvoq",
+    "generic_name": "UPADACITINIB",
+    "manufacturer": "AbbVie Inc.",
+    "manufacturer_name": "AbbVie Inc.",
+    "pharm_class_epc": "Janus Kinase Inhibitor [EPC]",
+    "pharm_class_moa": "Janus Kinase Inhibitors [MoA]",
+    "application_number": "NDA211675",
+    "route": "ORAL"
+  },
+  "hash": "d003be45318b4fcd9d1bd4d6208a5058433221d9bc90116981999dee772eb1e4"
+}

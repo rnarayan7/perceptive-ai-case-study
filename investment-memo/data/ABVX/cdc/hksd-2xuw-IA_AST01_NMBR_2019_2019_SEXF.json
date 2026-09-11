@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IA_AST01_NMBR_2019_2019_SEXF",
+  "title": "Asthma - Iowa - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T10:05:54.163162+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Iowa",
+    "location_abbr": "IA",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": "32.0",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "2e0e2bcb651db770427f179f987aa1f3a8f7089574575213575b784c17a53dec"
+}

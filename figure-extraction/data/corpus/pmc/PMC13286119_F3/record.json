@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13286119_F3",
+  "figure_type": "pk_logscale",
+  "title": "Laroprovstat, the First Oral Small-Molecule PCSK9 Inhibitor for the Treatment of Hypercholesterolemia: Results From a Randomized, Single-Blind, Placebo-Controlled Phase 1 Trial in Treatment-Naïve Patients.",
+  "caption": "Laroprovstat increased LDL uptake in HepG2 cells and increased liver Ldlr protein levels and lowered plasma LDL-C levels in human  PCSK9  knock-in mice. A , Concentration-response curve of laroprovstat effect on labeled low-density lipoprotein (LDL) uptake using proprotein convertase subtilisin/kexin type 9 (PCSK9)–treated HepG2 cells.  B , Liver LDL receptor (Ldlr) protein levels and ( C ) change in plasma LDL cholesterol (LDL-C) levels from baseline in human  PCSK9  knock-in (hPCSK9 KI) mice dosed with vehicle or laroprovstat (30 mg·kg −1 ·d −1  for 7 days by oral gavage twice daily, n=11–12 mice per group).  D , Achieved (blue square) and predicted (solid line) laroprovstat plasma concentration. Data presented as individual values and mean±SEM. ** P <0.01, **** P <0.0001, unpaired t test.",
+  "context": "Laroprovstat increased LDL uptake in HepG2 cells and increased liver Ldlr protein levels and lowered plasma LDL-C levels in human  PCSK9  knock-in mice. A , Concentration-response curve of laroprovstat effect on labeled low-density lipoprotein (LDL) uptake using proprotein convertase subtilisin/kexin type 9 (PCSK9)–treated HepG2 cells.  B , Liver LDL receptor (Ldlr) protein levels and ( C ) change in plasma LDL cholesterol (LDL-C) levels from baseline in human  PCSK9  knock-in (hPCSK9 KI) mice dosed with vehicle or laroprovstat (30 mg·kg −1 ·d −1  for 7 days by oral gavage twice daily, n=11–12 mice per group).  D , Achieved (blue square) and predicted (solid line) laroprovstat plasma concentration. Data presented as individual values and mean±SEM. ** P <0.01, **** P <0.0001, unpaired t test. Laroprovstat increased uptake of labeled LDL in a concentration-dependent fashion in PCSK9-treated human hepatoma HepG2 cells with IC 50 125 nmol/L (95% CI, 80–324; Figure 3 A). In mice engineered to express human PCSK9 and not mouse Pcsk9 in hepatocytes, laroprovstat treatment increased mouse liver Ldlr protein levels and decreased plasma LDL-C levels (Figure 3 B and 3 C). Plasma exposures at termination were 2.01±1.30 μmol/L (Figure 3 D) and well predicted by the pharmacokinetic model ( Figure S3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13286119/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-15",
+  "retrieved_at": "2026-09-07T13:12:57.837718+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13286119",
+    "pmid": "42137960",
+    "journal": "Circulation",
+    "fig_label": "Figure 3."
+  },
+  "image_hash": "a5772b635bf8d5766b0893838c08df0a922394da2beb111e39702a77a90250b2",
+  "image_file": "image.jpg"
+}

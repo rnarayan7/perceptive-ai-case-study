@@ -1,0 +1,7 @@
+Drug: Drug label
+
+Indications: INDICATIONS AND USAGE Neostigmine Methylsulfate Injection, USP is indicated for: - the symptomatic control of myasthenia gravis when oral therapy is impractical. - the prevention and treatment of postoperative distention and urinary retention after mechanical obstruction has been excluded. - reversal of effects of non-depolarizing neuromuscular blocking agents (e.g., tubocurarine, metocurine, gallamine or pancuronium) after surgery.
+
+Warnings: WARNINGS Neostigmine Methylsulfate Injection, USP should be used with caution in patients with epilepsy, bronchial asthma, bradycardia, recent coronary occlusion, vagotonia, hyperthyroidism, cardiac arrhythmias or peptic ulcer. When large doses of Neostigmine are administered, the prior or simultaneous injection of Atropine Sulfate may be advisable. Separate syringes should be used for the Neostigmine and Atropine. Because of the possibility of hypersensitivity in an occasional patient, Atropine and anti-shock medication should always be readily available.
+
+Contraindications: CONTRAINDICATIONS Neostigmine Methylsulfate Injection, USP is contraindicated in patients with known hypersensitivity to the drug. It is also contraindicated in patients with peritonitis or mechanical obstruction of the intestinal or urinary tract.

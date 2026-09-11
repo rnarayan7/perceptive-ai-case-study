@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NC_ART01_CRDPREV_2019_2019_SEXF",
+  "title": "Arthritis - North Carolina - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203729+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "North Carolina",
+    "location_abbr": "NC",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "31.2",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "c399cafbf1ce07e41c96699197baa06f1afa1ebfbd1514aaa75642fa91d2a887"
+}

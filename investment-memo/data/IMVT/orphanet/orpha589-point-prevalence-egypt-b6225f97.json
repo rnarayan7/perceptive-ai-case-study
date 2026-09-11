@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-point-prevalence-egypt-b6225f97",
+  "title": "Myasthenia gravis - Point prevalence (Egypt) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576840+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "3.2",
+    "geographic_area": "Egypt",
+    "validation_status": "Validated",
+    "source": "20948236[PMID]",
+    "source_pmids": [
+      "20948236"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "b6225f97efddc152b8de71b13166664e7949974dd6684ea99ba9e2dc8577e232"
+}

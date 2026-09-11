@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig1",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Schematic of the whole-body PBPK model ( A ) and sub-compartments in liver tissue ( B ). Blood flows are indicated by black solid arrows, lymphatic flows are depicted by dashed black arrows, and other cellular processes were presented by green solid arrows. SI: small intestine. LI: large intestine",
+  "context": "Schematic of the whole-body PBPK model ( A ) and sub-compartments in liver tissue ( B ). Blood flows are indicated by black solid arrows, lymphatic flows are depicted by dashed black arrows, and other cellular processes were presented by green solid arrows. SI: small intestine. LI: large intestine",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.762124+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 1"
+  },
+  "image_hash": "d3003581f052cadb2daa6e3413a3f805f8f6a22768ab74368808fa16ce9dfcf2",
+  "image_file": "image.jpg"
+}

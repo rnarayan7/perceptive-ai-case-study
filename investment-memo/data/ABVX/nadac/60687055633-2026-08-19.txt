@@ -1,0 +1,7 @@
+Drug: MESALAMINE DR 400 MG CAPSULE
+NDC: 60687055633
+NADAC per unit: $2.56479
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

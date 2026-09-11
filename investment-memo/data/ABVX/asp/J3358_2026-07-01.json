@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J3358_2026-07-01",
+  "title": "Medicare Part B ASP: Ustekinumab, iv inject, 1 mg (J3358, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.503564+00:00",
+  "metadata": {
+    "hcpcs": "J3358",
+    "short_description": "Ustekinumab, iv inject, 1 mg",
+    "dosage": "1 MG",
+    "payment_limit": 11.356,
+    "asp_per_unit": 10.71320754716981,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "ustekinumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "394fb10fce19127251eeec9394af180934a48d1dde156e880ca9f6b89423564e"
+}

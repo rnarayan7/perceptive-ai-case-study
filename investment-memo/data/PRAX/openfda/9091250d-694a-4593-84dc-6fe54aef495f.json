@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "9091250d-694a-4593-84dc-6fe54aef495f",
+  "title": "Label: Phenobarbital Sodium (PHENOBARBITAL SODIUM)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=9091250d-694a-4593-84dc-6fe54aef495f",
+  "published": "2025-06-04",
+  "retrieved_at": "2026-09-08T08:40:44.131180+00:00",
+  "metadata": {
+    "brand_name": "Phenobarbital Sodium",
+    "generic_name": "PHENOBARBITAL SODIUM",
+    "manufacturer": "Cameron Pharmaceuticals",
+    "manufacturer_name": "Cameron Pharmaceuticals",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": "INTRAMUSCULAR"
+  },
+  "hash": "c928fb4c28448cc3ccb1b4a2953ecfce7c98c95b5ab8eca7c718707c66c42c35"
+}

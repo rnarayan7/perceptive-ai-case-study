@@ -1,0 +1,4 @@
+FAERS adverse-event report 10008561 (comparator: lacosamide)
+Serious: yes
+Reactions: Convulsion, Drug dose omission
+Reported drugs: SABRIL, KEPPRA, VIMPAT, TOPAMAX, SABRIL, SABRIL

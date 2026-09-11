@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000119312526342393-pi-item1",
+  "title": "Cogent Biosciences, Inc. 10-Q (2026-08-10) - Financial Statements (Unaudited",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/0001193125-26-342393-index.htm",
+  "published": "2026-08-10",
+  "retrieved_at": "2026-09-07T12:53:57.245884+00:00",
+  "metadata": {
+    "accession": "0001193125-26-342393",
+    "cik": 1622229,
+    "form": "10-Q",
+    "primary_document": "cogt-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-10",
+    "items": "",
+    "company_title": "Cogent Biosciences, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/cogt-20260630.htm",
+    "section": "Financial Statements (Unaudited",
+    "section_key": "pi-item1"
+  },
+  "hash": "6bf8767776212b1062f8a7a60875795ba1e736786e22f9443fc7ba319ba62aab"
+}

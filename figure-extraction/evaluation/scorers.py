@@ -113,7 +113,15 @@ def score_log_scale(pred, p, t, spec) -> ScoreResult:
 
 
 def score_proportion(pred, p, t, spec) -> ScoreResult:
-    """Exact match on numerator AND denominator; a wrong denominator is its own miss."""
+    """Match numerator AND denominator, within ``spec.tolerance`` slop.
+
+    ``spec.tolerance`` is an allowed absolute difference (in patients/bars) on both
+    the numerator and the denominator: 0 (the default when unset) is exact match,
+    right for transcribed table cells; a small slop (e.g. 2) is right for a
+    proportion *measured* off a chart, where the last bar or two are at the pixel
+    resolution limit. The slop stays small, so a genuinely wrong denominator (the
+    trap fig 2 sets, off by tens) still fails as a ``denominator_error``.
+    """
     res = _base(pred, spec, p, t)
     if t.kind != ValueKind.PROPORTION or t.denominator is None:
         res.error_category = "gold_not_proportion"
@@ -122,8 +130,9 @@ def score_proportion(pred, p, t, spec) -> ScoreResult:
         res.within_tolerance = False
         res.error_category = "missing_denominator"
         return res
-    num_ok = p.numerator == t.numerator
-    den_ok = p.denominator == t.denominator
+    slop = int(spec.tolerance) if spec.tolerance else 0
+    num_ok = abs(p.numerator - t.numerator) <= slop
+    den_ok = abs(p.denominator - t.denominator) <= slop
     res.within_tolerance = num_ok and den_ok
     if den_ok and not num_ok:
         res.error_category = "numerator_error"

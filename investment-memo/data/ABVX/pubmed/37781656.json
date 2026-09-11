@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "37781656",
+  "title": "ABX464 (obefazimod) for patients with COVID-19 at risk for severe disease: miR-AGE, a randomized, double-blind placebo-controlled trial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37781656/",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.564637+00:00",
+  "metadata": {
+    "journal": "The journal of allergy and clinical immunology. Global",
+    "year": "2023",
+    "pmid": "37781656"
+  },
+  "hash": "de9b879da88ce96aafa727a2b111e546366f8375f4048288084c7f9f440c850a"
+}

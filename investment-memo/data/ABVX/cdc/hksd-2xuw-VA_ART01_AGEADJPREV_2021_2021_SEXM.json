@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-VA_ART01_AGEADJPREV_2021_2021_SEXM",
+  "title": "Arthritis - Virginia - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002855+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Virginia",
+    "location_abbr": "VA",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "21.1",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "2e22ef20b9667e5e3ad3d15eea049c7700e9198ca7cee1c7e4051cb2d7000f0c"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13091354_fig9",
+  "figure_type": "waterfall",
+  "title": "Kinase signaling in liver disease via clinical-trial-on-a-PamChip: A distinctive methodology for drug mechanisms and personalized medicine.",
+  "caption": "Validation of ABL antagonist effects on kinases .  A , images of phosphorylated PTK ( left ) and STK ( right ) PamChip during the final cycle utilizing HepG2 cells treated with vehicle, imatinib, rebastinib, or olverembatinib (n = 3, ran as biological replicates and validated individually).  B , phylogenetic trees illustrating the modifications in PTK and STK activity in HepG2 cells following treatment with imatinib ( left ), rebastinib ( middle ), or olverembatinib ( right ), compared with the control. Node coloration indicates levels of kinase activity, whereas node size reflects statistical significance. Branch coloration signifies kinase family associations.  C , waterfall plot of the PTK upstream kinase analysis (UKA), depicting kinase activity in HepG2 cells treated with imatinib ( left ), rebastinib ( middle ), or olverembatinib ( right ), in comparison to the vehicle. The  blue arrow  indicates the position of ABL.  D , the kinase activity levels of ABL, ARG/ABL2, DDR1, and INSR are presented herein. The personalized medicine (PerMed) score represents the percentage change in kinase activity in HepG2 cells subjected to ABL inhibitors relative to the vehicle control. The  blue line  shows the average signal intensity of each substrate relative to the control.  E , the kinase activity levels of AKT2, ERK1, GSK3, and AURA are also shown. The PerMed score indicates the percentage change in kinase activity in HepG2 cells treated with ABL inhibitors compared with the control. The  blue line  denotes the average signal intensity of each substrate against the control. ABL, Abelson tyrosine kinase; DDR1, discoidin domain receptor 1; INSR, insulin receptor; PTK, phosphotyrosine kinase; STK, serine/threonine kinase.",
+  "context": "Validation of ABL antagonist effects on kinases .  A , images of phosphorylated PTK ( left ) and STK ( right ) PamChip during the final cycle utilizing HepG2 cells treated with vehicle, imatinib, rebastinib, or olverembatinib (n = 3, ran as biological replicates and validated individually).  B , phylogenetic trees illustrating the modifications in PTK and STK activity in HepG2 cells following treatment with imatinib ( left ), rebastinib ( middle ), or olverembatinib ( right ), compared with the control. Node coloration indicates levels of kinase activity, whereas node size reflects statistical significance. Branch coloration signifies kinase family associations.  C , waterfall plot of the PTK upstream kinase analysis (UKA), depicting kinase activity in HepG2 cells treated with imatinib ( left ), rebastinib ( middle ), or olverembatinib ( right ), in comparison to the vehicle. The  blue arrow  indicates the position of ABL.  D , the kinase activity levels of ABL, ARG/ABL2, DDR1, and INSR are presented herein. The personalized medicine (PerMed) score represents the percentage change in kinase activity in HepG2 cells subjected to ABL inhibitors relative to the vehicle control. The  blue line  shows the average signal intensity of each substrate relative to the control.  E , the kinase activity levels of AKT2, ERK1, GSK3, and AURA are also shown. The PerMed score indicates the percentage change in kinase activity in HepG2 cells treated with ABL inhibitors compared with the control. The  blue line  denotes the average signal intensity of each substrate against the control. ABL, Abelson tyrosine kinase; DDR1, discoidin domain receptor 1; INSR, insulin receptor; PTK, phosphotyrosine kinase; STK, serine/threonine kinase.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091354/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-03-18",
+  "retrieved_at": "2026-09-07T12:58:29.142622+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13091354",
+    "pmid": "41856289",
+    "journal": "The Journal of biological chemistry",
+    "fig_label": "Figure 9"
+  },
+  "image_hash": "f3d68d558312bc8ce593c2eed947b9a0ad2db97c1f7272fefdbc2a40981f9bcf",
+  "image_file": "image.jpg"
+}

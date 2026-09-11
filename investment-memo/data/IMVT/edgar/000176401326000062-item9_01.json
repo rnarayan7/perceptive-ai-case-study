@@ -1,0 +1,25 @@
+{
+  "company": "IMVT",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000176401326000062-item9_01",
+  "title": "Immunovant, Inc. 8-K (2026-05-20) - Financial Statements and Exhibits",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000062/0001764013-26-000062-index.htm",
+  "published": "2026-05-20",
+  "retrieved_at": "2026-09-07T12:53:42.848324+00:00",
+  "metadata": {
+    "accession": "0001764013-26-000062",
+    "cik": 1764013,
+    "form": "8-K",
+    "primary_document": "imvt-20260520.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-05-20",
+    "filing_date": "2026-05-20",
+    "items": "2.02,9.01",
+    "company_title": "Immunovant, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000062/imvt-20260520.htm",
+    "section": "Financial Statements and Exhibits",
+    "section_key": "item9_01"
+  },
+  "hash": "38aeea5e00a5ed0fe94ab7a7d1fdfb715b17be97f8e450c570c221c6dd4baa49"
+}

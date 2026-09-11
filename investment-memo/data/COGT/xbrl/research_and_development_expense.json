@@ -1,0 +1,33 @@
+{
+  "company": "COGT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "research_and_development_expense",
+  "title": "Cogent Biosciences, Inc. - Research and development expense (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/0001193125-26-342393-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:37.316290+00:00",
+  "metadata": {
+    "cik": 1622229,
+    "entity_name": "Cogent Biosciences, Inc.",
+    "concept": "research_and_development_expense",
+    "label": "Research and development expense",
+    "taxonomy": "us-gaap",
+    "tag": "ResearchAndDevelopmentExpense",
+    "value": 146176000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": "2026-01-01",
+    "period_type": "duration",
+    "accession": "0001193125-26-342393",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-10",
+    "frame": null,
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622229.json",
+    "derived": false
+  },
+  "hash": "026de9a542b244fa78e110e352a3e93e2199531e3e8879a78ece2c8354c64fba"
+}

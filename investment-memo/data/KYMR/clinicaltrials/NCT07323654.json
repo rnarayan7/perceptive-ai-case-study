@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07323654",
+  "title": "A Study of KT-621 Administered Orally to Adult Participants With Moderate to Severe Eosinophilic Asthma",
+  "url": "https://clinicaltrials.gov/study/NCT07323654",
+  "published": "2026-01-07",
+  "retrieved_at": "2026-09-07T06:57:16.411992+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Eosinophilic Asthma"
+    ],
+    "interventions": [
+      {
+        "name": "KT-621",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 264,
+    "start_date": "2026-01-28",
+    "primary_completion_date": "2027-12",
+    "completion_date": "2027-12",
+    "first_posted_date": "2026-01-07",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline in pre-bronchodilator FEV1",
+        "timeFrame": "From baseline to Week 12"
+      }
+    ]
+  },
+  "hash": "6bb84727b05499163e803fa05016720a34d9026e7f05980d63ec0086a660a801"
+}

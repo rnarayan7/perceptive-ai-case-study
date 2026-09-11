@@ -1,0 +1,29 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "14019788",
+  "title": "FAERS report 14019788: Basal cell carcinoma, Fibrocystic breast disease",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:14019788",
+  "published": "2023-10-18",
+  "retrieved_at": "2026-09-08T08:40:09.309703+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Basal cell carcinoma",
+      "Fibrocystic breast disease"
+    ],
+    "drugs": [
+      "SIMPONI",
+      "ENBREL",
+      "ORENCIA",
+      "CIMZIA",
+      "XELJANZ",
+      "HYRIMOZ",
+      "RINVOQ"
+    ],
+    "occurcountry": "DE"
+  },
+  "hash": "f1a24298e2efb5dd7854e45127cd4b4c539b1998d8f0b74ba6e48f14ffd10ee2"
+}

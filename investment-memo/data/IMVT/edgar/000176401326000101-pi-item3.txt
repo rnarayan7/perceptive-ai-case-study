@@ -1,0 +1,13 @@
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk
+
+As of June 30, 2026, we had cash and cash equivalents of $797.8 million, all of which are maintained in accredited financial institutions. Our cash equivalents consist of money market funds invested in high-quality, short-term securities that are issued and guaranteed by the U.S. government and its agencies. Our primary exposure to market risk is interest income volatility, which is sensitive to changes in the general level of interest rates; however, due to the nature of our account portfolio, an immediate hypothetical 10% change in interest rates would not have a material effect on our financial condition or consolidated financial statements.
+
+Foreign Currency Exchange Rate Risk
+
+Our employees and our operations are currently primarily located in the U.S. and our expenses are generally denominated in U.S. dollars. We therefore are not currently exposed to significant market risk related to changes in foreign currency exchange rates. However, we are exposed to fluctuations in foreign currency exchange rate risk as a result of entering into transactions denominated in currencies other than U.S. dollars as we have contracted with and may continue to contract with foreign vendors. An immediate hypothetical 10% change in exchange rates during any of the periods presented would not have a material effect on our liquidity or consolidated financial statements.
+
+Effects of Inflation
+
+Inflation generally affects us by increasing our research and development and contract manufacturing costs. We do not believe that inflation had a material effect on our business, financial condition or consolidated financial statements as of June 30, 2026.

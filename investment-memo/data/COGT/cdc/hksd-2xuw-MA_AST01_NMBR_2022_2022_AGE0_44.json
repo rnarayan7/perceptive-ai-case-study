@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MA_AST01_NMBR_2022_2022_AGE0_44",
+  "title": "Asthma - Massachusetts - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.852749+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Massachusetts",
+    "location_abbr": "MA",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": "20.0",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Age",
+    "stratification": "Age 0-44"
+  },
+  "hash": "e9a2ec6c02c43fd60358499919acae618fb8b7c2b31fffe49004dd5a5fc9bbe2"
+}

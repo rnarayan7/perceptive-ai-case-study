@@ -1,0 +1,22 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17675661",
+  "title": "FAERS report 17675661: Pneumonia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17675661",
+  "published": "2022-03-09",
+  "retrieved_at": "2026-09-08T08:39:59.981855+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Pneumonia"
+    ],
+    "drugs": [
+      "OZANIMOD"
+    ],
+    "occurcountry": "GE"
+  },
+  "hash": "9f2ba5f03e72c3c9c5776860b2040b8eb79430824fb9f4d7c602f93767b2472c"
+}

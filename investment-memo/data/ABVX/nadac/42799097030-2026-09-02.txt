@@ -1,0 +1,7 @@
+Drug: TOFACITINIB ER 11 MG TABLET
+NDC: 42799097030
+NADAC per unit: $2.19263
+Pricing unit: EA
+Effective date: 2026-09-02
+Rate-setting classification: G
+OTC: N

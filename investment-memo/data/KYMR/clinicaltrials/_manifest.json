@@ -1,0 +1,735 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "started_at": "2026-09-08T10:06:15.397410+00:00",
+  "finished_at": "2026-09-08T10:06:16.223840+00:00",
+  "documents": [
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04772885",
+      "title": "A Single and Multiple Ascending Dose Trial of KT-474 in Healthy Adult Volunteers and Patients With Atopic Dermatitis (AD) or Hidradenitis Suppurativa (HS)",
+      "url": "https://clinicaltrials.gov/study/NCT04772885",
+      "published": "2021-02-26",
+      "retrieved_at": "2026-09-08T10:06:16.210384+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Volunteer",
+          "Atopic Dermatitis",
+          "Hidradenitis Suppurativa"
+        ],
+        "interventions": [
+          {
+            "name": "KT-474/Placebo",
+            "type": "DRUG"
+          },
+          {
+            "name": "KT-474",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 154,
+        "start_date": "2021-02-23",
+        "primary_completion_date": "2022-10-20",
+        "completion_date": "2022-10-20",
+        "first_posted_date": "2021-02-26",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence and severity of treatment emergent Adverse Events",
+            "timeFrame": "up to 28 days"
+          },
+          {
+            "measure": "Incidence and frequency of use of concomitant medication",
+            "timeFrame": "up to 28 days"
+          }
+        ]
+      },
+      "hash": "dd7bdf3365083988949c78a5b31a6427e64ef65708a89f6084c713784894bf9a"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07677059",
+      "title": "A Long-term Study of KT-621 Administered Orally to Participants With Asthma Previously Enrolled in a KT-621 Asthma Study",
+      "url": "https://clinicaltrials.gov/study/NCT07677059",
+      "published": "2026-06-30",
+      "retrieved_at": "2026-09-08T10:06:16.210499+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Asthma (Diagnosis)"
+        ],
+        "interventions": [
+          {
+            "name": "KT-621",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 264,
+        "start_date": "2026-07",
+        "primary_completion_date": "2028-12",
+        "completion_date": "2028-12",
+        "first_posted_date": "2026-06-30",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of treatment-emergent adverse events (TEAEs)",
+            "timeFrame": "From baseline through Week 52"
+          },
+          {
+            "measure": "Incidence of treatment-emergent serious adverse events (SAEs)",
+            "timeFrame": "From baseline through Week 52"
+          }
+        ]
+      },
+      "hash": "eed99089ce0e2b26753cac5ac371f4796219191565680108a8fe61ba49d98ea0"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06028230",
+      "title": "A Phase 2 Study to Evaluate the Efficacy and Safety of SAR444656 Compared With Placebo in Adult Participants With Moderate to Severe Hidradenitis Suppurativa",
+      "url": "https://clinicaltrials.gov/study/NCT06028230",
+      "published": "2023-09-08",
+      "retrieved_at": "2026-09-08T10:06:16.210763+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Hidradenitis Suppurativa"
+        ],
+        "interventions": [
+          {
+            "name": "SAR444656 (KT-474)",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Sanofi",
+        "enrollment": 70,
+        "start_date": "2023-09-29",
+        "primary_completion_date": "2025-10-09",
+        "completion_date": "2025-11-12",
+        "first_posted_date": "2023-09-08",
+        "primary_outcomes": [
+          {
+            "measure": "Percent change from baseline in total abscess and inflammatory nodule (AN) count",
+            "timeFrame": "Week 16"
+          }
+        ]
+      },
+      "hash": "f9898e660013688267a5c0ff85492c067cb8caa01d37f54adee849360ca0ac35"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06058156",
+      "title": "Phase 2 Study of SAR444656 in Adult Participants With Moderate to Severe Atopic Dermatitis",
+      "url": "https://clinicaltrials.gov/study/NCT06058156",
+      "published": "2023-09-28",
+      "retrieved_at": "2026-09-08T10:06:16.210965+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "TERMINATED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Atopic Dermatitis"
+        ],
+        "interventions": [
+          {
+            "name": "SAR444656 (KT-474)",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Sanofi",
+        "enrollment": 70,
+        "start_date": "2023-11-09",
+        "primary_completion_date": "2025-10-23",
+        "completion_date": "2025-11-20",
+        "first_posted_date": "2023-09-28",
+        "primary_outcomes": [
+          {
+            "measure": "Percent change from baseline in EASI",
+            "timeFrame": "Week 16"
+          }
+        ]
+      },
+      "hash": "56376091394b1fc578960344c3edf72caa223194908ff9cbf8d995a944f2d39e"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07629336",
+      "title": "SAR447971 First-in-human Study",
+      "url": "https://clinicaltrials.gov/study/NCT07629336",
+      "published": "2026-06-05",
+      "retrieved_at": "2026-09-08T10:06:16.211090+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Hidradenitis",
+          "Healthy Volunteers"
+        ],
+        "interventions": [
+          {
+            "name": "SAR447971",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Sanofi",
+        "enrollment": 114,
+        "start_date": "2026-05-26",
+        "primary_completion_date": "2028-02-16",
+        "completion_date": "2028-02-16",
+        "first_posted_date": "2026-06-05",
+        "primary_outcomes": [
+          {
+            "measure": "SAD20411: Incidence of treatment emergent adverse events (TEAEs)",
+            "timeFrame": "Day 1 to Day 15"
+          },
+          {
+            "measure": "SAD20411: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+            "timeFrame": "Day 1 to Day 15"
+          },
+          {
+            "measure": "SAD20411: Incidence of clinically significant abnormalities in vital signs",
+            "timeFrame": "Day 1 to Day 15"
+          },
+          {
+            "measure": "SAD20411: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+            "timeFrame": "Day 1 to Day 15"
+          },
+          {
+            "measure": "MAD20412: Incidence of treatment emergent adverse events (TEAEs)",
+            "timeFrame": "Day 1 to Dat 29"
+          },
+          {
+            "measure": "MAD20412: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+            "timeFrame": "Day 1 to Dat 29"
+          },
+          {
+            "measure": "MAD20412: Incidence of clinically significant abnormalities in vital signs",
+            "timeFrame": "Day 1 to Dat 29"
+          },
+          {
+            "measure": "MAD20412: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+            "timeFrame": "Day 1 to Dat 29"
+          },
+          {
+            "measure": "MAD24339: Incidence of treatment emergent adverse events (TEAEs)",
+            "timeFrame": "Day 1 to Day 42"
+          },
+          {
+            "measure": "MAD24339: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+            "timeFrame": "Day 1 to Day 42"
+          },
+          {
+            "measure": "MAD24339: Incidence of clinically significant abnormalities in vital signs",
+            "timeFrame": "Day 1 to Day 42"
+          },
+          {
+            "measure": "MAD24339: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+            "timeFrame": "Day 1 to Day 42"
+          }
+        ]
+      },
+      "hash": "df4d0fc7a65f37429f1e856c824c9800a53853c84ecf83907251b460b00c8d0b"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06673667",
+      "title": "First-in-human Study of Orally Administered KT-621 in Healthy Adult Participants",
+      "url": "https://clinicaltrials.gov/study/NCT06673667",
+      "published": "2024-11-05",
+      "retrieved_at": "2026-09-08T10:06:16.211199+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Participants Study"
+        ],
+        "interventions": [
+          {
+            "name": "KT-621",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 118,
+        "start_date": "2024-10-22",
+        "primary_completion_date": "2025-04-23",
+        "completion_date": "2025-04-23",
+        "first_posted_date": "2024-11-05",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of adverse events",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically-significant abnormalities in safety laboratory parameters: hematology",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: serum chemistry",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: coagulation",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in electrocardiogram values: QTcF (milliseconds)",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: heart rate (beats per minute)",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: blood pressure (mmHg)",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: respiratory rate (breaths per minute)",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: temperature (degrees Celsius)",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          }
+        ]
+      },
+      "hash": "a1bf5bd3795be6926b47a152b0a790f26b77c4c54f81ed08241fd5a88ab44207"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07323654",
+      "title": "A Study of KT-621 Administered Orally to Adult Participants With Moderate to Severe Eosinophilic Asthma",
+      "url": "https://clinicaltrials.gov/study/NCT07323654",
+      "published": "2026-01-07",
+      "retrieved_at": "2026-09-08T10:06:16.211476+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Eosinophilic Asthma"
+        ],
+        "interventions": [
+          {
+            "name": "KT-621",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 264,
+        "start_date": "2026-01-28",
+        "primary_completion_date": "2027-12",
+        "completion_date": "2027-12",
+        "first_posted_date": "2026-01-07",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline in pre-bronchodilator FEV1",
+            "timeFrame": "From baseline to Week 12"
+          }
+        ]
+      },
+      "hash": "6bb84727b05499163e803fa05016720a34d9026e7f05980d63ec0086a660a801"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT04440410",
+      "title": "Evaluation of Cutaneous and Circulating Inflammatory Biomarkers in Hidradenitis Suppurativa and Atopic Dermatitis",
+      "url": "https://clinicaltrials.gov/study/NCT04440410",
+      "published": "2020-06-19",
+      "retrieved_at": "2026-09-08T10:06:16.211562+00:00",
+      "metadata": {
+        "phases": [],
+        "overall_status": "COMPLETED",
+        "study_type": "OBSERVATIONAL",
+        "conditions": [
+          "Hidradenitis Suppurativa",
+          "Dermatitis, Atopic"
+        ],
+        "interventions": [],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 40,
+        "start_date": "2020-05-28",
+        "primary_completion_date": "2021-03-24",
+        "completion_date": "2021-03-24",
+        "first_posted_date": "2020-06-19",
+        "primary_outcomes": [
+          {
+            "measure": "Biomarker Identification",
+            "timeFrame": "Day 1"
+          },
+          {
+            "measure": "Determination of Biomarker Correlations",
+            "timeFrame": "Day 1"
+          },
+          {
+            "measure": "Examination of IRAK4 Degradation Effects Ex Vivo",
+            "timeFrame": "Day 1"
+          }
+        ]
+      },
+      "hash": "349ab807a454d1d49ae5526170d03e00970380bc3ff81cfd86256e5b2d72b73e"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05225584",
+      "title": "Safety, PK, PD, Clinical Activity of KT-333 in Adult Patients With Refractory Lymphoma, Large Granular Lymphocytic Leukemia, Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT05225584",
+      "published": "2022-02-04",
+      "retrieved_at": "2026-09-08T10:06:16.211745+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Non Hodgkin Lymphoma (NHL)",
+          "Peripheral T-cell Lymphoma (PTCL)",
+          "Cutaneous T-Cell Lymphoma (CTCL)",
+          "Large Granular Lymphocytic Leukemia (LGL-L)",
+          "T-cell Prolymphocytic Leukemia (T-PLL)",
+          "Solid Tumors"
+        ],
+        "interventions": [
+          {
+            "name": "KT-333",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 56,
+        "start_date": "2022-05-19",
+        "primary_completion_date": "2025-03-03",
+        "completion_date": "2025-03-03",
+        "first_posted_date": "2022-02-04",
+        "primary_outcomes": [
+          {
+            "measure": "Safety",
+            "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "Safety",
+            "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "Safety",
+            "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "Maximum Tolerated Dose (MTD)",
+            "timeFrame": "Within the first 28 days of treatment"
+          },
+          {
+            "measure": "Dose Limiting Toxicities (DLTs)",
+            "timeFrame": "Within the first 28days of treatment"
+          }
+        ]
+      },
+      "hash": "f6aac2c80bf57509df0d79f4d25673221a5a31786f1c589ae4948d2f9b6204ff"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT06945458",
+      "title": "Safety, PK, PD, and Clinical Activity of Orally Administered KT-621 in Adult Patients With Atopic Dermatitis (AD)",
+      "url": "https://clinicaltrials.gov/study/NCT06945458",
+      "published": "2025-04-25",
+      "retrieved_at": "2026-09-08T10:06:16.211861+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Atopic Dermatitis"
+        ],
+        "interventions": [
+          {
+            "name": "KT-621",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 22,
+        "start_date": "2025-04-17",
+        "primary_completion_date": "2025-11-10",
+        "completion_date": "2025-11-10",
+        "first_posted_date": "2025-04-25",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of adverse events (AEs)",
+            "timeFrame": "From enrollment through the safety follow-up visit on Day 43"
+          },
+          {
+            "measure": "Incidence of treatment-emergent potentially clinically-significant abnormalities in electrocardiogram (ECG) results, vital signs, or laboratory test results from the serum chemistry, hematology (with differential), chemistry, or coagulation panels.",
+            "timeFrame": "From enrollment through the safety follow-up visit on Day 43"
+          }
+        ]
+      },
+      "hash": "d072f4ea6080866533a8a9567d81084b35fcaf17107f14e77c17eb2409f237f4"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07217015",
+      "title": "A Study of KT-621 Administered Orally to Participants With Moderate to Severe Atopic Dermatitis",
+      "url": "https://clinicaltrials.gov/study/NCT07217015",
+      "published": "2025-10-15",
+      "retrieved_at": "2026-09-08T10:06:16.212087+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE2"
+        ],
+        "overall_status": "ACTIVE_NOT_RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Atopic Dermatitis"
+        ],
+        "interventions": [
+          {
+            "name": "KT-621",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "OTHER"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 200,
+        "start_date": "2025-11-24",
+        "primary_completion_date": "2027-06",
+        "completion_date": "2028-06",
+        "first_posted_date": "2025-10-15",
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline in Eczema Area and Severity Index (EASI) score",
+            "timeFrame": "From baseline through Week 16"
+          }
+        ]
+      },
+      "hash": "36881ae846e42f7889459401920355f55445b217ddfe1b7e2fd17267500e4f58"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05775406",
+      "title": "Safety and Clinical Activity of KT-253 in Adult Patients with High Grade Myeloid Malignancies, Acute Lymphocytic Leukemia, Lymphoma, Solid Tumors",
+      "url": "https://clinicaltrials.gov/study/NCT05775406",
+      "published": "2023-03-20",
+      "retrieved_at": "2026-09-08T10:06:16.212219+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Myeloid Malignancies",
+          "Acute Lymphocytic Leukemia",
+          "Lymphomas",
+          "Advanced Solid Tumors"
+        ],
+        "interventions": [
+          {
+            "name": "KT-253",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 52,
+        "start_date": "2023-05-15",
+        "primary_completion_date": "2024-12-18",
+        "completion_date": "2024-12-18",
+        "first_posted_date": "2023-03-20",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence and severity of adverse events",
+            "timeFrame": "From the time of signing ICF through 30 days after last dose of study drug or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "Maximum Tolerated Dose (MTD) and recommended Phase 2 dose (RP2D) in Patients",
+            "timeFrame": "From the time of the first dose of study drug through 30 days after the last dose of study drug or prior to start of a new anticancer therapy"
+          }
+        ]
+      },
+      "hash": "8ef88354721459adf0356a7699536d83e1f93bec3ccb87afd219bcd54797f251"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT07412288",
+      "title": "First-in-human Study of Orally Administered KT-579 in Healthy Adult Participants",
+      "url": "https://clinicaltrials.gov/study/NCT07412288",
+      "published": "2026-02-17",
+      "retrieved_at": "2026-09-08T10:06:16.212296+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "RECRUITING",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Healthy Participants"
+        ],
+        "interventions": [
+          {
+            "name": "KT-579",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 96,
+        "start_date": "2026-02-23",
+        "primary_completion_date": "2026-12",
+        "completion_date": "2026-12",
+        "first_posted_date": "2026-02-17",
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of adverse events",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          },
+          {
+            "measure": "Incidence of serious adverse events",
+            "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+          }
+        ]
+      },
+      "hash": "b3cd32823cdb5df08e3347071a39cc475e38f09081480354b00fc7f6b2b91f22"
+    },
+    {
+      "company": "KYMR",
+      "source": "clinicaltrials",
+      "doc_type": "study",
+      "doc_id": "NCT05233033",
+      "title": "Safety, PK/PD, and Clinical Activity of KT-413 in Adult Patients with Relapsed or Refractory B-cell NHL",
+      "url": "https://clinicaltrials.gov/study/NCT05233033",
+      "published": "2022-02-10",
+      "retrieved_at": "2026-09-08T10:06:16.212413+00:00",
+      "metadata": {
+        "phases": [
+          "PHASE1"
+        ],
+        "overall_status": "COMPLETED",
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Non Hodgkin Lymphoma",
+          "Diffuse Large B Cell Lymphoma",
+          "DLBCL",
+          "MYD88 Gene Mutation"
+        ],
+        "interventions": [
+          {
+            "name": "KT-413",
+            "type": "DRUG"
+          }
+        ],
+        "lead_sponsor": "Kymera Therapeutics, Inc.",
+        "enrollment": 7,
+        "start_date": "2022-06-13",
+        "primary_completion_date": "2023-07-28",
+        "completion_date": "2023-07-28",
+        "first_posted_date": "2022-02-10",
+        "primary_outcomes": [
+          {
+            "measure": "To establish the Maximum Tolerated Dose (MTD)",
+            "timeFrame": "Within first 3 weeks of treatment"
+          },
+          {
+            "measure": "Number of Participants with protocol specified Dose Limiting Toxicities (DLTs)",
+            "timeFrame": "Within first 3 weeks of treatment"
+          },
+          {
+            "measure": "Dose recommended for future studies",
+            "timeFrame": "Within first 3 weeks of treatment"
+          },
+          {
+            "measure": "Clinical Laboratory Abnormalities",
+            "timeFrame": "Clinical laboratory abnormalities will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "Adverse Event Parameters",
+            "timeFrame": "Adverse Event Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          },
+          {
+            "measure": "ECG Parameters",
+            "timeFrame": "ECG Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+          }
+        ]
+      },
+      "hash": "a9b696d22f59138ead6a375ad3f099bcc9aaad82758a61ed5fc0f3045691879c"
+    }
+  ],
+  "errors": []
+}

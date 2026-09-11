@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA216015",
+  "title": "Drugs@FDA ANDA216015: MIDOSTAURIN",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A216015",
+  "published": "2024-05-10",
+  "retrieved_at": "2026-09-08T08:41:03.274528+00:00",
+  "metadata": {
+    "manufacturer": "LUPIN",
+    "brand_name": "MIDOSTAURIN",
+    "sponsor_name": "LUPIN",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "MIDOSTAURIN"
+    ],
+    "active_ingredients": [
+      "MIDOSTAURIN"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2024-05-10",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "0730508fb55b8d415d07a7bd4bc07b17354c7b80b7cbd2285f0d9503aca8e38d"
+}

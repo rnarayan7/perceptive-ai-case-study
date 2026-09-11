@@ -1,0 +1,154 @@
+{
+  "counts": {
+    "total": 14,
+    "scored": 12,
+    "interpretive": 2,
+    "missed": 0
+  },
+  "by_figure_type": {
+    "kaplan_meier": {
+      "n": 2,
+      "mae": 0.09,
+      "median_error": 0.09,
+      "within_tolerance_rate": 1.0
+    },
+    "pk_logscale": {
+      "n": 2,
+      "mae": 0.5,
+      "median_error": 0.5,
+      "within_tolerance_rate": 0.5
+    },
+    "table": {
+      "n": 4,
+      "mae": 0.0,
+      "median_error": 0.0,
+      "within_tolerance_rate": 1.0
+    },
+    "waterfall": {
+      "n": 4,
+      "mae": 1.3333,
+      "median_error": 1.0,
+      "within_tolerance_rate": 0.25
+    }
+  },
+  "by_family": {
+    "categorical_set": {
+      "n": 1,
+      "mae": 1.0,
+      "median_error": 1.0,
+      "within_tolerance_rate": 0.0
+    },
+    "continuous": {
+      "n": 5,
+      "mae": 0.636,
+      "median_error": 0.02,
+      "within_tolerance_rate": 0.8
+    },
+    "log_scale": {
+      "n": 1,
+      "mae": 0.0,
+      "median_error": 0.0,
+      "within_tolerance_rate": 1.0
+    },
+    "proportion": {
+      "n": 5,
+      "mae": 0.25,
+      "median_error": 0.0,
+      "within_tolerance_rate": 0.6
+    }
+  },
+  "coverage": 0.75,
+  "calibration": {
+    "bins": [
+      {
+        "range": [
+          0.0,
+          0.5
+        ],
+        "n": 3,
+        "mean_confidence": 0.267,
+        "accuracy": 0.333
+      },
+      {
+        "range": [
+          0.5,
+          0.7
+        ],
+        "n": 2,
+        "mean_confidence": 0.575,
+        "accuracy": 0.0
+      },
+      {
+        "range": [
+          0.7,
+          0.85
+        ],
+        "n": 1,
+        "mean_confidence": 0.8,
+        "accuracy": 1.0
+      },
+      {
+        "range": [
+          0.85,
+          0.95
+        ],
+        "n": 3,
+        "mean_confidence": 0.883,
+        "accuracy": 1.0
+      },
+      {
+        "range": [
+          0.95,
+          1.01
+        ],
+        "n": 3,
+        "mean_confidence": 0.96,
+        "accuracy": 1.0
+      }
+    ],
+    "ece": 0.168,
+    "n": 12
+  },
+  "agreement_vs_error": {
+    "pearson_r": 0.076,
+    "n": 6
+  },
+  "error_categories": {
+    "numerator_error": 1,
+    "value_error": 1,
+    "missing_denominator": 1,
+    "set_mismatch": 1
+  },
+  "router": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.833,
+    "routed": {
+      "fig01_km": "kaplan_meier",
+      "fig02_waterfall": "waterfall",
+      "fig03_pk": "pk_logscale",
+      "fig04_forest": "forest",
+      "fig05_table": "table",
+      "fig06_spider": "waterfall"
+    }
+  },
+  "cost": {
+    "total_usd": 0.1553,
+    "input_tokens": 25183,
+    "output_tokens": 11228,
+    "by_model": [
+      {
+        "model": "claude-sonnet-5",
+        "input_tokens": 17956,
+        "output_tokens": 11194,
+        "usd": 0.1479
+      },
+      {
+        "model": "claude-haiku-4-5",
+        "input_tokens": 7227,
+        "output_tokens": 34,
+        "usd": 0.0074
+      }
+    ]
+  }
+}

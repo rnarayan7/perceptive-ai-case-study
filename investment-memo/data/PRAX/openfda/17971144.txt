@@ -1,0 +1,4 @@
+FAERS adverse-event report 17971144 (comparator: cenobamate)
+Serious: no
+Reactions: Emotional disorder, Mood swings, Somnolence
+Reported drugs: EPIDIOLEX, CLOBAZAM, ZONEGRAN, XCOPRI, VIMPAT

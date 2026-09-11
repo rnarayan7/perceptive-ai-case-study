@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10004693",
+  "title": "FAERS report 10004693: Loss of consciousness, Psychomotor hyperactivity",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10004693",
+  "published": "2014-07-17",
+  "retrieved_at": "2026-09-08T08:40:41.209848+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Loss of consciousness",
+      "Psychomotor hyperactivity"
+    ],
+    "drugs": [
+      "LAMICTAL",
+      "LAMICTAL",
+      "FRISIUM",
+      "FRISIUM"
+    ],
+    "occurcountry": "IT"
+  },
+  "hash": "34155a33cb6b0dcacc6f7ee469b0272454316c048e3e046db61e5fce012f31aa"
+}

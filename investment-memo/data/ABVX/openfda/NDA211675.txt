@@ -1,0 +1,9 @@
+Drugs@FDA application NDA211675: RINVOQ
+Sponsor: ABBVIE
+Active ingredient(s): UPADACITINIB
+Brand name(s): RINVOQ
+Application type: NDA
+Original approval date: 2019-08-16
+Review priority: N/A, PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 20

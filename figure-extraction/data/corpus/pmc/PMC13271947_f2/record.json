@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13271947_f2",
+  "figure_type": "forest",
+  "title": "The impact of statin therapy on the prognosis of hormone receptor-positive breast cancer: a systematic review and meta-analysis.",
+  "caption": "The forest plot compares the effects of statin use versus no use on the risk of recurrence and mortality in hormone receptor-positive breast cancer.",
+  "context": "The forest plot compares the effects of statin use versus no use on the risk of recurrence and mortality in hormone receptor-positive breast cancer. Meta-analysis Results Impact of statin use on recurrence risk in HR+ breast cancer The pooled analysis reveals a notably significant 23% reduction in recurrence risk for patients on statin therapy compared to those not on statins (HR = 0.77; 95% CI: 0.61–0.98, P = 0.03), as illustrated in Figure 2 . Impact of statin use on mortality in HR+ breast cancer As illustrated in Figure 2 , the pooled HR for mortality is 0.77 (95% CI: 0.73–0.81), indicated by the diamond which lies completely to the left of the line of no effect (HR = 1).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271947/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-03",
+  "retrieved_at": "2026-09-07T13:08:32.108562+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.77 (95% CI 0.61-0.98)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "erapy compared to those not on statins (HR = 0.77; 95% CI: 0.61–0.98, P = 0.03), as illustrated in Figure 2",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13271947",
+    "pmid": "42318468",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "8303a38dea1c1ef968660777f389188b60d7aecad0365943d0f324f79492583a",
+  "image_file": "image.jpg"
+}

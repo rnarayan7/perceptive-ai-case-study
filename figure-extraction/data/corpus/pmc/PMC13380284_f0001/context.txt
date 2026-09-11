@@ -1,0 +1,1 @@
+Kaplan–Meier curves for progression-free survival (PFS) stratified by the Modified Glasgow Prognostic Score (mGPS). Patients with an mGPS of 0 demonstrated longer PFS compared with those with mGPS scores of 1 and 2. Detailed survival data are provided in  Table 3 . Kaplan–Meier curves for mGPS, PI, PNI, and ALBI grade are shown in Figures 1–4 .

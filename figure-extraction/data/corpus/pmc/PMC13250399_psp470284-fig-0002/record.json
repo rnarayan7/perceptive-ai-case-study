@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13250399_psp470284-fig-0002",
+  "figure_type": "pk_logscale",
+  "title": "Physiologically Based Pharmacokinetic Model to Predict Drug-Drug Interactions With the Antibody-Drug Conjugate Trastuzumab Deruxtecan.",
+  "caption": "Simulated mean (solid black line) and 5th and 95th percentile (gray lines) plasma concentrations of T‐DXd (a, c) and released DXd (b, d) following a 5.4 mg/kg (a, b) or 6.4 mg/kg (c, d) dose every 21 days. The open circles represent the observed clinical data from the control arm of the drug interaction study (DS8201‐A‐A104) and the data from the dose‐expansion cohort in DS8201‐A‐J101. Lower panels show the data with the  y ‐axis on a logarithmic scale. T‐DXd, trastuzumab deruxtecan.",
+  "context": "Simulated mean (solid black line) and 5th and 95th percentile (gray lines) plasma concentrations of T‐DXd (a, c) and released DXd (b, d) following a 5.4 mg/kg (a, b) or 6.4 mg/kg (c, d) dose every 21 days. The open circles represent the observed clinical data from the control arm of the drug interaction study (DS8201‐A‐A104) and the data from the dose‐expansion cohort in DS8201‐A‐J101. Lower panels show the data with the  y ‐axis on a logarithmic scale. T‐DXd, trastuzumab deruxtecan. When only 50% of DXd was released back to the blood ( F rel = 50%), the recovery of the DXd PK profile was improved, and AUC tau was predicted within 1.25‐fold of the observed values (Table 2 and Figure 2 ). Model Validation The T‐DXd and DXd profiles following administration of 6.4 mg/kg were well recovered by the model, with PK parameters predicted within 1.5‐fold of the observed values (Table 2 and Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13250399/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T13:12:39.189472+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13250399",
+    "pmid": "42265973",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "19412b6d1b0ad4d834355bc75d2d9149f8e1221c941a43a0441e1b1bf1c76540",
+  "image_file": "image.jpg"
+}

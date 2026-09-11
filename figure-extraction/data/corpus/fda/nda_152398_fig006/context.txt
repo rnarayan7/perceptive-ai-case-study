@@ -1,0 +1,127 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 4. Effect of Belumosudil on Improving Lung Function in cGVHD Murine Model
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+
+
+               Figure 5. Effect of Belumosudil (KD025) on Germinal Centers and T Follicular Helper (Tfh) Cells
+               in Spleen
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+               As noted by the Applicant, the therapeutic benefits of belumosudil were also demonstrated in
+               an established model of scleroderma cGVHD (Scl cGVHD; Flynn 2016). Treatment with
+               belumosudil at 150 mg/kg daily administered intraperitoneally to Scl cGVHD mice for ~3 weeks
+               resulted in significant improvement in skin morphology (i.e., skin ulcers with alopecia less than
+               1 cm2 in area = 1; skin ulcers with alopecia 1–2 cm2 in area = 2; skin ulcers with alopecia
+               greater than 2 cm2 in area = 3; mice lacking skin ulcers and alopecia received a score of 0)
+               compared to vehicle control 4.
+
+
+               4
+                Anderson BE, McNiff J, Yan J, et al. Memory CD41 T cells do not induce graft-versus-host disease. J Clin Invest.
+               2003;112(1):101-108.
+                                                                        40
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+               In Vivo Activity
+
+               The in vivo pharmacodynamic activity of belumosudil was assessed in cGVHD murine models
+               that involve a wide spectrum of clinically relevant target organs including the lung, and skin
+               (Study Nos. KD025-NCP-cGVHD-1, KD025-NCP-cGVHD-2, Flynn 2016). In addition, anti-fibrotic
+               activity of belumosudil was also assessed in a pulmonary fibrosis model, as fibrosis is one of the
+               clinical manifestation of cGVHD due to numerous inflammatory and infectious insults to the
+               lung (Study No. KDM-01).
+
+               B10.BR recipient mice were conditioned with Cytoxan/total body radiation. Donor bone
+               marrow (BM) from C57BI/6 mice was T-cell depleted with anti-Thy 1.2 mAb followed by rabbit
+               complement treatment. On Day 0, recipient mice received 107 BM cells with or without
+               allogeneic splenocytes (106 cells). On Day 28 after transplantation, a decrease in pulmonary
+               function was noticed in the recipient mice and was characterized by an increase in airway
+               resistance, which correlated with constriction, increased elastance and decreased compliance.
+               Belumosudil at 100 mg/kg/day was administered intraperitoneally once a day for 28 days to
+               one group of animals with established cGVHD with lung effects. Animals were observed for
+               body weight changes twice weekly. Pulmonary function tests (PFTs) were performed on Day 56
+               by whole-body plethysmography. Histopathology of lung sections was conducted to assess
+               collagen deposition, and immunofluorescence for antibody depositions. Flow cytometric
+               analysis was conducted to determine the effect of belumosudil on CD4+ T follicular helper (Tfh)
+               cells and germinal centers (GC) of B cells in spleens that are known to be activated during
+               cGVHD disease initiation. Single cell suspensions of spleens were labeled with anti-CD4, anti-
+               CXCR5 (Tfh cells are identified by high surface expression of the chemokine receptor CXCR5),
+               and anti-PD1. In comparison with control mice, treatment with belumosudil at 150 mg/kg once
+               daily (IP) significantly improved lung function in cGVHD mice, as was demonstrated by a
+               decrease in resistance and elastance, and an increase in lung compliance compared to the
+               vehicle-treated group with no effect on body weight and survival (Figure 4). Treatment with
+               belumosudil was also shown to reduce both collagen and antibody deposition in the lung
+               (Figure 4), and reduced the number of GC centers and Tfh cells in the spleen of GVHD mice
+               (Figure 5). These studies demonstrate the therapeutic benefits of belumusodil cGVHD using
+               nonclinical models.
+
+
+
+
+                                                                     39
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Immunologic imbalance in cGVHD can lead to increased fibrosis in the lung. The anti-fibrotic
+               therapeutic benefits of belumosudil were examined in a commonly utilized model of pulmonary
+               fibrosis induced with bleomycin in mice (Study No. KDM-01). Pulmonary fibrosis was
+               established at belumosudil treatment initiation. C57Bl/6 mice were treated orally with
+               belumosudil (50, 100, or 150 mg/kg/day) or vehicle (0.4% carboxymethyl cellulose) for 13 days
+               beginning 8 days after the administration of 2.25 U/kg of bleomycin into the lungs. Belumosudil
+               has demonstrated anti-fibrotic effects on pulmonary fibrosis in a murine model of pulmonary
+               fibrosis compared to both untreated and vehicle-treated groups. Belumosudil at 100 and 150
+               mg/kg significantly reduced mean lung wet weight, and significantly reduced pulmonary fibrosis
+               and inflammation in comparison to vehicle-control therapy, demonstrating improved
+               pulmonary function in murine model of pulmonary fibrosis.
+
+
+               Secondary Pharmacology
+
+               The Applicant’s Position:
+
+               Secondary pharmacology for belumosudil was evaluated in multiple in vitro kinase screening
+               assays (Study KD025-NCP-2), including the evaluation of kinase inhibition against a panel of
+               approximately 220 kinases that were representative of the AGC, CMGC, TK, TKL, STE, CAMK,
+               and CK1 kinase families. At maximum recommended clinical dose levels of 200 mg/day, a mean
+               steady state Cmax of 2390 ng/mL [5.3µM total drug] is achieved at that dose, which provides a
+               sufficient safety margin versus the off-targets identified in vitro.
+               With the exception of ROCK2 (intended pharmacological target) and CK2 (IC50 approximately
+               100 nM), belumosudil IC50 values were generally above 5 µM for all other ATP-dependent
+               kinases. In follow up cell based target engagement assays, belumosudil did not demonstrate
+               pharmacologically relevant CK2 activity (IC50>10uM) and it was concluded the reported in vitro
+               CK2 inhibition is unlikely to contribute to the in vivo activity of belumosudil.
+
+               Belumosudil interaction with cell surface receptors and ion channels (Study KD025-NCP-2) was
+               also evaluated through assessment of inhibition of radioligand binding and demonstated limited
+               off target binding. Of the many targets evaluated, only two potentially active targets were
+               identified: adenosine A2A and A3 receptors with IC50 va

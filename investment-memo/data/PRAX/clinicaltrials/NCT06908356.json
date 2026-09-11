@@ -1,0 +1,40 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06908356",
+  "title": "An Open Label Trial to Evaluate the Efficacy and Safety of PRAX-628 in Adults With Focal Onset or Tonic-Clonic Seizures",
+  "url": "https://clinicaltrials.gov/study/NCT06908356",
+  "published": "2025-04-03",
+  "retrieved_at": "2026-09-07T12:53:43.591009+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Focal Onset Seizure",
+      "Primary Generalized Epilepsy"
+    ],
+    "interventions": [
+      {
+        "name": "30mg PRAX-628",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 50,
+    "start_date": "2025-01-10",
+    "primary_completion_date": "2025-07",
+    "completion_date": "2025-07",
+    "first_posted_date": "2025-04-03",
+    "primary_outcomes": [
+      {
+        "measure": "To evaluate the efficacy of PRAX-628 on seizure frequency in adults with FOS or PGTCS currently taking ASMs",
+        "timeFrame": "8 weeks"
+      }
+    ]
+  },
+  "hash": "39d4e0d1ada2870df7818b2e463f5cfb340a920ae2638363f9acaf604862e7c3"
+}

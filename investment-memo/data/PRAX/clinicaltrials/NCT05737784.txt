@@ -1,0 +1,14 @@
+Title: A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE1, PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: SCN2A-DEE, Epilepsy
+Interventions: PRAX-222 - Initial Dose (DRUG), PRAX-222 - Initial Ascending Doses (DRUG), PRAX-222 - Optional Ascending Doses (DRUG), PRAX-222 - Fixed Doses (DRUG), Placebo (PROCEDURE)
+Enrollment: 60
+
+Summary: The goal of this trial is to learn about the effect of PRAX-222 in pediatric participants with early onset SCN2A developmental and epileptic encephalopathy (DEE), aged 2 to 18 years.
+
+Primary outcomes:
+- Number of participants with treatment-emergent adverse events (Preliminary Safety, Dose Escalation) (time frame: Screening (-8 weeks) through up to 92 weeks)
+- Seizure frequency (Confirmatory Phase) (time frame: 36 to 40 weeks)

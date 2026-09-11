@@ -1,0 +1,13 @@
+Title: A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety
+Status: RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Epileptic Encephalopathy, SCN2A Encephalopathy
+Interventions: 1mg elsunersen (DRUG), 0.5mg elsunersen (DRUG)
+Enrollment: 40
+
+Summary: A Multi-Center, Single-Arm Clinical Trial to Investigate the Efficacy and Safety of Elsunersen in Pediatric Participants with Early Onset SCN2A Developmental and Epileptic Encephalopathy
+
+Primary outcomes:
+- To assess the efficacy of elsunersen on seizure frequency in participants with early-onset SCN2A DEE (time frame: 24 weeks)

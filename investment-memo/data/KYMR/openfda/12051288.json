@@ -1,0 +1,34 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "12051288",
+  "title": "FAERS report 12051288: Colitis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:12051288",
+  "published": "2016-02-09",
+  "retrieved_at": "2026-09-08T08:40:20.461713+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": true,
+    "reactions": [
+      "Colitis"
+    ],
+    "drugs": [
+      "TOPAMAX",
+      "PULMICORT TURBUHALER",
+      "REGN668 (DUPILUMAB)",
+      "IMITREX",
+      "SINGULAIR",
+      "OXAZEPAM.",
+      "ALBUTEROL.",
+      "BUPRENORPHINE HCL",
+      "IBUPROFEN.",
+      "ATARAX",
+      "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+      "AMBIEN",
+      "EXCEDRIN MIGRAINE"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "f18dc41b927801db5cf163d5939fe439cd2be914c55c61bc1fb51c18e34eb5a5"
+}

@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MT_AST02_CRDPREV_2023_2023_SEXM",
+  "title": "Asthma - Montana - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.853009+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Montana",
+    "location_abbr": "MT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.0",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "109ece3a210b7af58cbed54e2ef0064de2c444614dbd38fdb502d51b46e0b42b"
+}

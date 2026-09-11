@@ -1,0 +1,33 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA022254",
+  "title": "Drugs@FDA NDA022254: VIMPAT",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022254",
+  "published": "2008-10-28",
+  "retrieved_at": "2026-09-08T08:40:37.247283+00:00",
+  "metadata": {
+    "manufacturer": "UCB INC",
+    "brand_name": "VIMPAT",
+    "sponsor_name": "UCB INC",
+    "application_type": "NDA",
+    "brand_names": [
+      "VIMPAT"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2008-10-28",
+    "review_priority": [
+      "N/A",
+      "STANDARD",
+      "UNKNOWN"
+    ],
+    "submission_count": 31
+  },
+  "hash": "9471f90c4bd3c6c50bd000f03626db4d6d7ab9509b67e319801c4ae06a4340be"
+}

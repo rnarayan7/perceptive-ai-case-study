@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA206382",
+  "title": "Drugs@FDA ANDA206382: LAMOTRIGINE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A206382",
+  "published": "2016-06-17",
+  "retrieved_at": "2026-09-08T08:40:42.258386+00:00",
+  "metadata": {
+    "manufacturer": "SCIEGEN PHARMS",
+    "brand_name": "LAMOTRIGINE",
+    "sponsor_name": "SCIEGEN PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LAMOTRIGINE"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2016-06-17",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 8
+  },
+  "hash": "7aeacb25af3fcd98b8b7d81ecb4d319b38f96f6e3e0dd5dea5171b17abbbb0f5"
+}

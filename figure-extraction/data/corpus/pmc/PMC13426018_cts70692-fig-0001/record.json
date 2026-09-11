@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13426018_cts70692-fig-0001",
+  "figure_type": "pk_logscale",
+  "title": "Human Pharmacokinetic Prediction of Antibody-Drug Conjugates Using Human FcRn Transgenic Mice.",
+  "caption": "Mean ± SD plasma concentration–time profiles of ADCs in Tg32 mice. Open squares indicate total ADC concentration‐time profiles and closed squares indicate total antibody concentration‐time profiles.",
+  "context": "Mean ± SD plasma concentration–time profiles of ADCs in Tg32 mice. Open squares indicate total ADC concentration‐time profiles and closed squares indicate total antibody concentration‐time profiles. As shown in Figures 1 and 2 , all ADCs exhibited biphasic elimination profiles for both total antibody and total ADC.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13426018/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T13:08:39.564204+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13426018",
+    "pmid": "42535721",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "70a523c5c1146da74cd93de901268f269683d8f6ea7412a9a028e30164af114b",
+  "image_file": "image.jpg"
+}

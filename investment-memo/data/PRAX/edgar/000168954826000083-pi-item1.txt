@@ -1,0 +1,2565 @@
+Item 1. Financial Statements.
+
+PRAXIS PRECISION MEDICINES, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+(Amounts in thousands, except share and per share data)
+
+June 30, 2026
+
+December 31, 2025
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+474,761
+
+$
+
+357,329
+
+Marketable securities
+
+283,790
+
+242,002
+
+Prepaid expenses and other current assets
+
+13,352
+
+11,580
+
+Total current assets
+
+771,903
+
+610,911
+
+Long-term marketable securities
+
+615,290
+
+326,757
+
+Property and equipment, net
+
+492
+
+147
+
+Operating lease right-of-use assets
+
+1,001
+
+92
+
+Internal-use software
+
+773
+
+—
+
+Other assets
+
+643
+
+—
+
+Total assets
+
+$
+
+1,390,102
+
+$
+
+937,907
+
+Liabilities and stockholders’ equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+
+23,386
+
+$
+
+24,628
+
+Accrued expenses
+
+24,585
+
+35,033
+
+Operating lease liabilities
+
+1,087
+
+110
+
+Total current liabilities
+
+49,058
+
+59,771
+
+Total liabilities
+
+49,058
+
+59,771
+
+Commitments and contingencies (Note 6)
+
+Stockholders’ equity:
+
+Preferred stock, $0.0001 par value; 10,000,000 shares authorized and no shares issued or outstanding as of June 30, 2026 and December 31, 2025
+
+$
+
+—
+
+$
+
+—
+
+Common stock, $0.0001 par value; 150,000,000 shares authorized; 27,916,593 shares issued and outstanding as of June 30, 2026, and 25,195,092 shares issued and outstanding as of December 31, 2025
+
+15
+
+15
+
+Additional paid-in capital
+
+2,659,990
+
+2,017,566
+
+Accumulated deficit
+
+(1,316,289)
+
+(1,140,008)
+
+Accumulated other comprehensive (loss) gain
+
+(2,672)
+
+563
+
+Total stockholders’ equity
+
+1,341,044
+
+878,136
+
+Total liabilities and stockholders’ equity
+
+$
+
+1,390,102
+
+$
+
+937,907
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+1
+
+PRAXIS PRECISION MEDICINES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+(Amounts in thousands, except share and per share data)
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Operating expenses:
+
+Research and development
+
+$
+
+69,416
+
+$
+
+63,006
+
+$
+
+147,403
+
+$
+
+123,812
+
+General and administrative
+
+27,488
+
+13,061
+
+55,361
+
+26,983
+
+Total operating expenses
+
+96,904
+
+76,067
+
+202,764
+
+150,795
+
+Loss from operations
+
+(96,904)
+
+(76,067)
+
+(202,764)
+
+(150,795)
+
+Other income:
+
+Other income, net
+
+13,184
+
+4,940
+
+26,483
+
+10,372
+
+Total other income
+
+13,184
+
+4,940
+
+26,483
+
+10,372
+
+Net loss
+
+$
+
+(83,720)
+
+$
+
+(71,127)
+
+$
+
+(176,281)
+
+$
+
+(140,423)
+
+Net loss per share attributable to common stockholders, basic and diluted
+
+$
+
+(2.87)
+
+$
+
+(3.31)
+
+$
+
+(6.08)
+
+$
+
+(6.60)
+
+Weighted average common shares outstanding, basic and diluted
+
+29,131,375
+
+21,474,827
+
+29,008,351
+
+21,266,490
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+2
+
+PRAXIS PRECISION MEDICINES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+(Unaudited)
+
+(Amounts in thousands)
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Net loss
+
+$
+
+(83,720)
+
+$
+
+(71,127)
+
+$
+
+(176,281)
+
+$
+
+(140,423)
+
+Change in unrealized loss on marketable securities, net of tax
+
+(1,078)
+
+(264)
+
+(3,235)
+
+(259)
+
+Comprehensive loss
+
+$
+
+(84,798)
+
+$
+
+(71,391)
+
+$
+
+(179,516)
+
+$
+
+(140,682)
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+3
+
+PRAXIS PRECISION MEDICINES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(Unaudited)
+
+(Amounts in thousands, except share data)
+
+Common Stock
+
+Additional
+
+Paid-In
+
+Capital
+
+Accumulated
+
+Deficit
+
+Accumulated Other
+
+Comprehensive Gain (Loss)
+
+Total
+
+Stockholders’
+
+Equity
+
+Shares
+
+Amount
+
+Balance at December 31, 2025
+
+25,195,092
+
+$
+
+15
+
+$
+
+2,017,566
+
+$
+
+(1,140,008)
+
+$
+
+563
+
+$
+
+878,136
+
+Stock-based compensation expense
+
+—
+
+—
+
+17,112
+
+—
+
+—
+
+17,112
+
+Issuance of common stock from follow-on public offering, net of underwriting discounts, commissions and offering costs of $40,153
+
+2,543,800
+
+—
+
+621,235
+
+—
+
+—
+
+621,235
+
+Vesting of restricted stock units
+
+134,225
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Shares withheld for taxes for vesting of restricted stock units
+
+(45,548)
+
+—
+
+(12,923)
+
+—
+
+—
+
+(12,923)
+
+Issuance of common stock upon exercise of stock options
+
+31,945
+
+—
+
+1,119
+
+—
+
+—
+
+1,119
+
+Change in unrealized gain on marketable securities, net of tax
+
+—
+
+—
+
+—
+
+—
+
+(2,157)
+
+(2,157)
+
+Net loss
+
+—
+
+—
+
+—
+
+(92,561)
+
+—
+
+(92,561)
+
+Balance at March 31, 2026
+
+27,859,514
+
+$
+
+15
+
+$
+
+2,644,109
+
+$
+
+(1,232,569)
+
+$
+
+(1,594)
+
+$
+
+1,409,961
+
+Stock-based compensation expense
+
+—
+
+—
+
+11,309
+
+—
+
+—
+
+11,309
+
+Issuance of common stock under employee stock purchase plan
+
+4,817
+
+—
+
+809
+
+—
+
+—
+
+809
+
+Vesting of restricted stock units
+
+4,400
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Shares withheld for taxes for vesting of restricted stock units
+
+(1,098)
+
+—
+
+(310)
+
+—
+
+—
+
+(310)
+
+Issuance of common stock upon exercise of stock options
+
+48,960
+
+—
+
+4,073
+
+—
+
+—
+
+4,073
+
+Change in unrealized loss on marketable securities, net of tax
+
+—
+
+—
+
+—
+
+—
+
+(1,078)
+
+(1,078)
+
+Net loss
+
+—
+
+—
+
+—
+
+(83,720)
+
+—
+
+(83,720)
+
+Balance at June 30, 2026
+
+27,916,593
+
+$
+
+15
+
+$
+
+2,659,990
+
+$
+
+(1,316,289)
+
+$
+
+(2,672)
+
+$
+
+1,341,044
+
+4
+
+Common Stock
+
+Additional
+
+Paid-In
+
+Capital
+
+Accumulated
+
+Deficit
+
+Accumulated Other
+
+Comprehensive Gain
+
+Total
+
+Stockholders’
+
+Equity
+
+Shares
+
+Amount
+
+Balance at December 31, 2024
+
+19,422,358
+
+$
+
+14
+
+$
+
+1,281,522
+
+$
+
+(836,740)
+
+$
+
+654
+
+$
+
+445,450
+
+Stock-based compensation expense
+
+—
+
+—
+
+8,786
+
+—
+
+—
+
+8,786
+
+Issuance of common stock from at-the-market public offerings, net of commission costs of $1,120
+
+694,212
+
+—
+
+54,904
+
+—
+
+—
+
+54,904
+
+Issuance of common stock from exercise of pre-funded warrants
+
+173,840
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Vesting of restricted stock units
+
+55,850
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Shares withheld for taxes for vesting of restricted stock units
+
+(18,765)
+
+—
+
+(1,195)
+
+—
+
+—
+
+(1,195)
+
+Issuance of common stock upon exercise of stock options
+
+14,422
+
+—
+
+560
+
+—
+
+—
+
+560
+
+Change in unrealized gain on marketable securities, net of tax
+
+—
+
+—
+
+—
+
+—
+
+5
+
+5
+
+Net loss
+
+—
+
+—
+
+—
+
+(69,296)
+
+—
+
+(69,296)
+
+Balance at March 31, 2025
+
+20,341,917
+
+$
+
+14
+
+$
+
+1,344,577
+
+$
+
+(906,036)
+
+$
+
+659
+
+$
+
+439,214
+
+Balance at Stock-based compensation expense
+
+—
+
+—
+
+7,770
+
+—
+
+—
+
+7,770
+
+Issuance of common stock from at-the-market offerings, net of commission costs of $579
+
+657,477
+
+—
+
+28,360
+
+—
+
+—
+
+28,360
+
+Balance at Issuance of common stock from exercise of pre-funded warrants
+
+26,509
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Balance at Issuance of common stock under employee stock purchase plan
+
+9,319
+
+—
+
+294
+
+—
+
+—
+
+294
+
+Balance at Vesting of restricted stock units
+
+5,860
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Balance at Shares withheld for taxes for vesting of restricted stock units
+
+(608)
+
+—
+
+(23)
+
+—
+
+—
+
+(23)
+
+Balance at Change in unrealized gain on marketable securities, net of tax
+
+—
+
+—
+
+—
+
+—
+
+(264)
+
+(264)
+
+Balance at Net loss
+
+—
+
+—
+
+—
+
+(71,127)
+
+—
+
+(71,127)
+
+Balance at June 30, 2025
+
+21,040,474
+
+$
+
+14
+
+$
+
+1,380,978
+
+$
+
+(977,163)
+
+$
+
+395
+
+$
+
+404,224
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+5
+
+PRAXIS PRECISION MEDICINES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+(Amounts in thousands)
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Cash flows from operating activities:
+
+Net loss
+
+$
+
+(176,281)
+
+$
+
+(140,423)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Depreciation expense
+
+72
+
+93
+
+Stock-based compensation expense
+
+28,421
+
+16,556
+
+Non-cash operating lease expense
+
+516
+
+506
+
+Amortization of premiums and discounts on marketable securities, net
+
+(1,344)
+
+(2,216)
+
+Changes in operating assets and liabilities:
+
+Prepaid expenses and other current assets
+
+(2,188)
+
+6,917
+
+Accounts payable
+
+(1,352)
+
+16,304
+
+Accrued expenses
+
+(10,446)
+
+(4,806)
+
+Operating lease liabilities
+
+(449)
+
+(614)
+
+Other
+
+(643)
+
+(3)
+
+Net cash used in operating activities
+
+(163,694)
+
+(107,686)
+
+Cash flows from investing activities:
+
+Capitalized internal-use software costs
+
+(773)
+
+—
+
+Purchases of property and equipment
+
+(307)
+
+(56)
+
+Purchases of marketable securities
+
+(564,050)
+
+(158,404)
+
+Maturities of marketable securities
+
+231,837
+
+125,290
+
+Net cash used in investing activities
+
+(333,293)
+
+(33,170)
+
+Cash flows from financing activities:
+
+Issuance of common stock from follow-on public offering, net of underwriting discounts, commissions and offering costs
+
+621,235
+
+—
+
+Proceeds from at-the-market offerings, net of issuance and commission costs
+
+—
+
+83,263
+
+Payments of tax withholdings related to vesting of restricted stock units
+
+(13,233)
+
+(1,218)
+
+Proceeds from exercise of stock options and employee stock purchase plan purchases
+
+6,001
+
+854
+
+Net cash provided by financing activities
+
+614,003
+
+82,899
+
+Increase (decrease) in cash, cash equivalents and restricted cash
+
+117,016
+
+(57,957)
+
+Cash, cash equivalents and restricted cash, beginning of period
+
+357,745
+
+215,788
+
+Cash, cash equivalents and restricted cash, end of period
+
+$
+
+474,761
+
+$
+
+157,831
+
+Reconciliation of cash, cash equivalents and restricted cash:
+
+Cash and cash equivalents
+
+474,761
+
+157,415
+
+Restricted cash
+
+—
+
+416
+
+Total cash, cash equivalents and restricted cash
+
+$
+
+474,761
+
+$
+
+157,831
+
+Supplemental disclosures of non-cash activities:
+
+Purchase of property and equipment included in accrued expenses and accounts payable
+
+$
+
+110
+
+$
+
+64
+
+Right-of-use assets obtained in exchange for lease obligations
+
+$
+
+1,425
+
+$
+
+—
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+6
+
+PRAXIS PRECISION MEDICINES, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(Unaudited)
+
+1. Nature of the Business
+
+Praxis Precision Medicines, Inc. (“Praxis” or the “Company”) is a fully integrated, leading central nervous system ("CNS") precision neuroscience biopharmaceutical company translating insights from genetic epilepsies into the development of therapies for CNS disorders characterized by neuronal excitation-inhibition imbalance. Normal brain function requires a delicate balance of excitation and inhibition in neuronal circuits, which, when dysregulated, can lead to abnormal function and both rare and more prevalent neurological disorders. The Company is applying genetic insights to the discovery and development of therapies for neurological disorders through two proprietary platforms, using its understanding of shared biological targets and circuits in the brain. Each platform has multiple programs currently, with significant potential for additional program and indication expansion:
+
+•Cerebrum™, the Company's small molecule platform, utilizes deep understanding of neuronal excitability and neuronal networks and applies a series of computational and experimental tools to develop orally available precision therapies
+
+•Solidus™, the Company's antisense oligonucleotide ("ASO"), platform, is an efficient, targeted precision medicine discovery and development engine anchored on a proprietary, computational methodology
+
+The Company's platforms utilize a deliberate, pragmatic and patient-guided approach, leveraging a suite of translational tools, including novel transgenic and predictive translational animal models and electrophysiology markers, to enable an efficient path to proof-of-concept in patients. Through this approach, the Company has established a diversified, multimodal CNS portfolio with four late-stage product candidates across movement disorders and epilepsy.
+
+Praxis was incorporated in 2015 and commenced operations in 2016. The Company has funded its operations primarily with proceeds from the issuance of redeemable convertible preferred stock, from the sale of common stock through an initial public offering, at-the-market offerings under its shelf registration statement, and follow-on public offerings of common stock and pre-funded warrants to purchase common stock. From inception through June 30, 2026, the Company raised $2.4 billion in aggregate cash proceeds from these transactions, net of issuance costs.
+
+The Company is subject to risks and uncertainties common to clinical-stage companies in the biotechnology industry, including but not limited to, risks associated with completing preclinical studies and clinical trials, receiving regulatory approvals for product candidates, development by competitors of new biopharmaceutical products, dependence on key personnel, protection of proprietary technology, compliance with government regulations and the ability to secure additional capital to fund operations. Programs currently under development may require significant additional research and development efforts, including preclinical and clinical testing and regulatory approval, prior to commercialization. These efforts require significant amounts of capital, adequate personnel and infrastructure and extensive compliance-reporting capabilities. Even if the Company’s product development efforts are successful, it is uncertain when, if ever, the Company will realize revenue from product sales.
+
+Liquidity
+
+In accordance with the Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) 2014-15, Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern (Subtopic 205-40), the Company has evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern within one year after the date that these condensed consolidated financial statements are issued.
+
+The Company has incurred recurring losses since its inception, including a net loss of $176.3 million for the six months ended June 30, 2026. In addition, as of June 30, 2026, the Company had an accumulated deficit of $1.3 billion. The Company expects to continue to generate operating losses for the foreseeable future.
+
+The Company expects that its cash, cash equivalents and marketable securities as of June 30, 2026 of $1.4 billion will be sufficient to fund its operating expenditures and capital expenditure requirements necessary to advance its research efforts and clinical trials for at least one year from the date of issuance of these condensed
+
+7
+
+consolidated financial statements. The future viability of the Company is dependent on its ability to achieve regulatory approvals of its new drug applications, which are subject to risk and timing uncertainty, and raising additional capital to finance its operations, if needed. The Company's inability to raise capital as and when needed could have a negative impact on its financial condition and ability to pursue its business strategies. There can be no assurance that the current operating plan will be achieved or that additional funding will be available on terms acceptable to the Company, or at all.
+
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying condensed consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (“GAAP”). Any reference in these notes to applicable guidance is meant to refer to the authoritative GAAP as found in the Accounting Standards Codification (“ASC”) and ASUs of the FASB.
+
+The significant accounting policies used in preparation of these condensed consolidated financial statements for the three and six months ended June 30, 2026 are consistent with those discussed in Note 2 to the consolidated financial statements included in the Company's 2025 Annual Report on Form 10-K, other than as noted below.
+
+Unaudited Interim Condensed Consolidated Financial Information
+
+The accompanying unaudited condensed consolidated interim financial statements have been prepared on the same basis as the audited annual consolidated financial statements, and in the opinion of management reflect all adjustments, which include only normal recurring adjustments necessary for the fair statement of the Company’s financial position as of June 30, 2026, the results of its operations for the three and six months ended June 30, 2026 and 2025 and its cash flows for the six months ended June 30, 2026 and 2025. Financial statement disclosures for the three and six months ended June 30, 2026 and 2025 are condensed and do not include all disclosures required for an annual set of financial statements in accordance with GAAP.
+
+The results for the three and six months ended June 30, 2026 are not necessarily indicative of results to be expected for the year ended December 31, 2026, any other interim periods, or any future year or period.
+
+Use of Estimates
+
+The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of expenses during the reporting periods. Significant estimates and assumptions reflected in these condensed consolidated financial statements include, but are not limited to, accrued and prepaid research and development expense, collaboration revenue, stock-based compensation expense and the recoverability of the Company’s net deferred tax assets and related valuation allowance. Estimates are periodically reviewed in light of changes in circumstances, facts and experience. Changes in estimates are recorded in the period in which they become known. Actual results could differ materially from those estimates.
+
+Common Stock Warrants
+
+The Company accounts for warrants to purchase shares of its common stock in accordance with the guidance in FASB ASC No. 480, Distinguishing Liabilities from Equity ("ASC 480") and ASC No. 815, Derivatives and Hedging ("ASC 815"). The Company classifies warrants issued for the purchase of shares of its common stock as either equity or liability instruments based on an assessment of the specific terms and conditions of each respective contract. Such assessment includes determining whether the warrants are freestanding financial instruments or embedded in a host instrument, whether the warrants are liabilities within the scope of ASC 480, whether the warrants meet the definition of a derivative in ASC 815 and whether the warrants meet the requirements for equity classification pursuant to the indexation and equity classification criteria in ASC 815. The Company determines the classification for its warrants at the time of issuance and updates its assessment, as necessary. Warrants that meet all of the criteria for equity classification are recorded as a component of additional paid-in capital. Equity classified warrants are accounted for at fair value on the issuance date with no changes in fair value recognized after the issuance date.
+
+Performance Stock Units
+
+8
+
+For equity awards that do not vest unless the performance condition is met, the Company recognizes expense if, and to the extent that, it is determined that achievement of the performance conditions are probable. If the Company concludes that vesting is probable, expense is recognized over the requisite service period.
+
+Internal-Use Software & Cloud Computing Arrangements
+
+The Company capitalizes certain costs incurred in developing or obtaining internal-use software in accordance with ASC 350-40, Internal-Use Software, including costs related to cloud computing arrangements hosted by a third-party vendor and accounted for as service contracts. The Company capitalizes costs incurred to develop or obtain internal-use software once management has authorized and committed to funding the project, and it is probable the project will be completed, and the software will be used to perform the function intended. Capitalizable costs include external direct costs of materials and services used in developing and implementing the software, payroll and payroll-related costs for employees directly associated with the project. Costs associated with training, data conversion, and post-implementation activities are expensed as incurred.
+
+As of June 30, 2026, the Company had capitalized internal-use software costs of $0.8 million, which are included in internal-use software on the consolidated balance sheets. Capitalized internal-use software costs are amortized on a straight-line basis over the estimated useful life of the software, typically two to five years. Amortization expense related to these costs will be presented within depreciation expense which is presented within operating expenses within the consolidated statement of operations. No amortization expense has been recorded as of June 30, 2026.
+
+As of June 30, 2026, the Company had capitalized cloud computing implementation costs of $0.9 million, of which $0.3 million is classified as current and included in prepaid expenses and other current assets, and $0.6 million is classified as noncurrent and included in other assets on the consolidated balance sheets. These costs are amortized on a straight-line basis over the term of the associated hosting arrangement, including reasonably certain renewal periods, beginning when the module or component of the hosting arrangement is ready for its intended use, typically two to five years. Amortization expense related to these costs will be presented in the same line item in the consolidated statement of operations as the fees associated with the hosting arrangement. No amortization expense has been recorded as of June 30, 2026. Cash flows associated with these implementation costs are classified within operating activities in the consolidated statements of cash flows, consistent with the classification of the related hosting fees.
+
+The Company evaluates capitalized costs for impairment consistent with its policy for long-lived assets whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. The Company did not record any impairment during the three and six months ended June 30, 2026.
+
+Recent Accounting Pronouncements
+
+Recently Adopted Accounting Pronouncements
+
+In September 2025, the FASB issued ASU No. 2025-06, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software ("ASU 2025-06"), which amends certain aspects of the accounting for and disclosure of software costs under ASC 350-40. The ASU makes targeted improvements to ASC 350-40 to modernize the guidance for internal-use software and better reflect current software development practices. ASU 2025-06 is effective for fiscal periods beginning after December 15, 2027 and interim periods within those fiscal years. The amendments in this update can be applied using a prospective, retrospective, or modified transition approach. The Company early adopted the standard on January 1, 2026 using a prospective transition approach. The adoption of this standard did not have a material impact on the Company's financial statements. Refer to Note 2 for accounting treatment and impact on the Company's condensed consolidated financial statements.
+
+Recently Issued Accounting Pronouncements
+
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses ("ASU 2024-03"), requiring public entities to disclose additional information about specific expense categories in the notes to the financial statements on an interim and annual basis. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods beginning after December 15, 2027, with early adoption permitted. The amendments in this update should be applied either prospectively to financial statements issued for reporting periods after the effective date of this update, or retrospectively to any or all prior periods presented in the financial
+
+9
+
+statements. The Company is currently evaluating the impact of adopting ASU 2024-03 on its consolidated financial statements.
+
+In December 2025, the FASB issued ASU No. 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements ("ASU 2025-11"), which clarifies the guidance in Topic 270 to improve the consistency of interim financial reporting. The ASU provides a comprehensive list of required interim disclosures and introduces a disclosure principle requiring entities to disclose events since the end of the last annual reporting period that have material impact on the entity. ASU 2025-11 is effective for fiscal years beginning after December 15, 2027, including interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating the impact of adopting ASU 2025-11 on its consolidated financial statements.
+
+3. Cash Equivalents and Marketable Securities
+
+The following is a summary of the Company's investment portfolio as of June 30, 2026 and December 31, 2025 (in thousands):
+
+As of June 30, 2026
+
+Gross Unrealized
+
+Estimated
+
+Cost
+
+Gains
+
+Losses
+
+Fair Value
+
+Cash equivalents:
+
+Money market funds
+
+$
+
+79,243
+
+$
+
+—
+
+$
+
+—
+
+$
+
+79,243
+
+Available-for-sale securities:
+
+Debt securities issued by U.S. government agencies
+
+277,132
+
+—
+
+(656)
+
+276,476
+
+Corporate debt securities
+
+293,902
+
+—
+
+(678)
+
+293,224
+
+Asset backed securities
+
+68,267
+
+—
+
+(59)
+
+68,208
+
+Commercial paper
+
+14,466
+
+—
+
+(25)
+
+14,441
+
+Other debt securities
+
+247,985
+
+—
+
+(1,254)
+
+246,731
+
+Total cash equivalents and marketable securities
+
+$
+
+980,995
+
+$
+
+—
+
+$
+
+(2,672)
+
+$
+
+978,323
+
+As of December 31, 2025
+
+Gross Unrealized
+
+Estimated
+
+Cost
+
+Gains
+
+Losses
+
+Fair Value
+
+Cash equivalents:
+
+Money market funds
+
+$
+
+195,296
+
+$
+
+—
+
+$
+
+—
+
+$
+
+195,296
+
+Debt securities issued by U.S. government agencies
+
+7,003
+
+—
+
+(1)
+
+7,002
+
+Available-for-sale securities:
+
+Corporate debt securities
+
+198,036
+
+282
+
+—
+
+198,318
+
+Debt securities issued by U.S. government agencies
+
+183,739
+
+258
+
+—
+
+183,997
+
+Asset backed securities
+
+61,282
+
+70
+
+—
+
+61,352
+
+Commercial paper
+
+7,714
+
+4
+
+—
+
+7,718
+
+Other debt securities
+
+117,424
+
+—
+
+(50)
+
+117,374
+
+Total cash equivalents and marketable securities
+
+$
+
+770,494
+
+$
+
+614
+
+$
+
+(51)
+
+$
+
+771,057
+
+As of June 30, 2026, the Company had 180 securities with a total fair market value of $793.8 million in an unrealized loss position. The Company believes that any unrealized losses associated with the decline in value of its securities is temporary and primarily related to the change in market interest rates since purchase, and believes that it is more likely than not that it will be able to hold its debt securities to maturity. The Company anticipates a full recovery of the amortized cost basis of its debt securities at maturity and an allowance was not recognized.
+
+Contractual maturities of the marketable securities at each balance sheet date are as follows (in thousands):
+
+10
+
+June 30, 2026
+
+December 31, 2025
+
+Within one year
+
+$
+
+283,790
+
+$
+
+242,002
+
+After one year through five years
+
+615,290
+
+326,757
+
+Total
+
+$
+
+899,080
+
+$
+
+568,759
+
+Securities are evaluated for impairment at the end of each reporting period. The Company did not record any impairment related to its available-for-sale securities during the three and six months ended June 30, 2026 and 2025.
+
+4. Fair Value Measurements
+
+Fair value is defined as the price that would be received to sell an asset in an orderly transaction between market participants at the measurement date. The Company categorizes financial assets measured at fair value based on a fair value hierarchy. The following fair value hierarchy is used to classify financial assets based on observable inputs and unobservable inputs used to value the financial assets:
+
+•Level 1: Unadjusted quoted prices in active markets that are accessible at the measurement date for identical assets;
+
+•Level 2: Quoted prices for similar assets in active markets, quoted prices in markets that are not active, or inputs which are unobservable, either directly or indirectly, for substantially the full term of the asset; or
+
+•Level 3: Prices or valuation techniques that require inputs that are both significant to the valuation of the asset and unobservable.
+
+The following table presents information about the Company’s financial assets measured at fair value on a recurring basis and indicates the level of the fair value hierarchy utilized to determine such fair values as of June 30, 2026 and December 31, 2025 (in thousands):
+
+As of June 30, 2026
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Money market funds
+
+$
+
+79,243
+
+$
+
+—
+
+$
+
+—
+
+$
+
+79,243
+
+Debt securities issued by U.S. government agencies
+
+276,476
+
+—
+
+—
+
+276,476
+
+Corporate debt securities
+
+—
+
+293,224
+
+—
+
+293,224
+
+Asset backed securities
+
+—
+
+68,208
+
+—
+
+68,208
+
+Commercial paper
+
+—
+
+14,441
+
+—
+
+14,441
+
+Other debt securities
+
+—
+
+246,731
+
+—
+
+246,731
+
+$
+
+355,719
+
+$
+
+622,604
+
+$
+
+—
+
+$
+
+978,323
+
+As of December 31, 2025
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Money market funds
+
+$
+
+195,296
+
+$
+
+—
+
+$
+
+—
+
+$
+
+195,296
+
+Debt securities issued by U.S. government agencies
+
+190,999
+
+—
+
+—
+
+190,999
+
+Corporate debt securities
+
+—
+
+198,318
+
+—
+
+198,318
+
+Asset backed securities
+
+—
+
+61,352
+
+—
+
+61,352
+
+Commercial paper
+
+—
+
+7,718
+
+—
+
+7,718
+
+Other debt securities
+
+—
+
+117,374
+
+—
+
+117,374
+
+$
+
+386,295
+
+$
+
+384,762
+
+$
+
+—
+
+$
+
+771,057
+
+5. Accrued Expenses
+
+11
+
+Accrued expenses consisted of the following (in thousands):
+
+June 30, 2026
+
+December 31, 2025
+
+Accrued external research and development expenses
+
+$
+
+18,925
+
+$
+
+14,291
+
+Accrued personnel-related expenses
+
+3,708
+
+18,713
+
+Accrued other expenses
+
+1,952
+
+2,029
+
+Total accrued expenses
+
+$
+
+24,585
+
+$
+
+35,033
+
+6. Commitments and Contingencies
+
+In May 2021, the Company entered into a sublease agreement for office space located in Boston, Massachusetts that expired on January 31, 2026. The Company issued a letter of credit to the landlord related to the security deposit, secured by restricted cash, which is reflected within prepaid expenses and other current assets on the accompanying condensed consolidated balance sheets as of December 31, 2025. During the three months ended June 30, 2026, following the expiration of a required holding period, the letter of credit was released and the associated collateral cash was reclassified from restricted cash to cash and cash equivalents. In September 2025, the Company entered into a license agreement for its existing office space which commenced on March 1, 2026 and expires on March 31, 2027, with no option to renew or terminate early. At commencement, the Company recorded an operating lease right-of-use asset and operating lease liability of $1.4 million, which are reflected within the accompanying condensed consolidated balance sheet as of June 30, 2026. This license agreement qualifies as an operating lease.
+
+7. Collaboration and License Agreements
+
+UCB Option and License Agreement
+
+In December 2022, the Company entered into an Option and License Agreement (“the Collaboration Agreement”) with UCB Biopharma SRL (“UCB”) for the discovery of small molecule therapeutics as potential treatments of KCNT1-related epilepsies. Effective May 31, 2026, the Collaboration Agreement terminated and the Company regained full global development and commercialization rights to its KCNT1 program. Neither party has any further rights or obligations under the Collaboration Agreement, including with respect to option fees, milestone payments and royalties, and no termination payment was due to or from either party.
+
+Tenacia Collaboration and License Agreement
+
+On January 4, 2024, the Company entered into an exclusive collaboration and license Agreement (“the Tenacia License Agreement”) with Tenacia Biotechnology (Shanghai) Co., Ltd. (“Tenacia”), a China-based portfolio company of Bain Capital, which provides Tenacia an exclusive license to use certain intellectual property for the development and commercialization of ulixacaltamide and products containing ulixacaltamide in China, Hong Kong, Macau and Taiwan. Tenacia is solely responsible for the development and commercialization under the arrangement, with the exception of the associated manufacturing. The Company also entered into a Stock Purchase Agreement (“the Stock Purchase Agreement”) with BCPE Tenet Holdings Cayman, Ltd. (“BCPE”), a related party of Tenacia. Pursuant to the terms of the Tenacia License Agreement, the Company was entitled to an up-front, non-refundable and non-creditable cash payment of $5.0 million, net of certain tax withholdings. In addition, the Company is eligible to receive $264.0 million in success-based development and commercialization milestone payments as well as tiered royalties on net sales. Pursuant to the terms of the Stock Purchase Agreement, the Company issued and sold 443,253 shares of its common stock to BCPE at a price per share of $22.5605 for aggregate gross proceeds of $10.0 million. The per share price was based on a 20% premium over the 30-day volume-weighted average price.
+
+Under the terms of the Tenacia License Agreement, the Company granted to Tenacia an exclusive license to use certain intellectual property for the development and commercialization of ulixacaltamide and products containing ulixacaltamide in China, Hong Kong, Macau and Taiwan. Tenacia is solely responsible for the development and commercialization under the arrangement, with the exception of the associated manufacturing.
+
+The Company concluded that the Tenacia License Agreement and the Stock Purchase Agreement is a combined arrangement since they were executed at the same time and in contemplation of each other with the same counterparty or a related party thereof and the combined arrangement falls within the scope of Topic 606.
+
+12
+
+The Company’s obligations under the arrangement comprise a single promise, or one performance obligation, related to the exclusive development and commercialization license granted to Tenacia. Total proceeds associated with the combined arrangement at inception were $14.8 million consisting of the following: (i) $10.0 million gross proceeds from the sale of common stock under the Stock Purchase Agreement and (ii) $4.8 million, net of tax, related to the up-front payment under the Tenacia License Agreement, both of which were received in January 2024. During the three and six months ended June 30, 2026 and 2025, the Company had not achieved any development or sales milestones or earned any royalties under the Tenacia License Agreement.
+
+The Company recorded the common stock sold to BCPE at its issuance date fair value of $38.95 per share, or $17.3 million in the aggregate, which exceeded the proceeds received which were calculated based on the 20% premium over the prior 30-day volume-weighted average price. Accordingly, there is no transaction price allocable to the performance obligation. The Company accounted for the excess of the fair value of the equity securities issued over the total proceeds received as consideration paid to a customer for which no distinct good or service was transferred in exchange. As a result, the transaction gives rise to negative revenue on a cumulative basis in the amount of $2.5 million, which was recorded at the inception of the Tenacia License Agreement in research and development expense in the accompanying consolidated statement of operations. For agreements where the licenses are considered separate performance obligations or represent the only performance obligation, the Company recognizes revenue at the point in time that the Company effectively grants the license, as the licenses or assignments represent functional intellectual property.
+
+As of June 30, 2026, the Company did not have any material receivables, included within other current assets and prepaid expenses on the consolidated balance sheets, and had no deferred revenue related to the arrangement with Tenacia. The Company did not recognize any contract assets related to costs to obtain a contract with a customer or costs to fulfill a contract with a customer through June 30, 2026 because no qualifying costs were incurred. During three and six months ended June 30, 2026 and 2025, the Company did not recognize any revenue associated with the combined arrangement.
+
+8. Common Stock and Preferred Stock
+
+Common Stock
+
+As of June 30, 2026 and December 31, 2025, the authorized capital stock of the Company included 150,000,000 shares of common stock, $0.0001 par value.
+
+As of June 30, 2026 and December 31, 2025, the Company did not hold any treasury shares.
+
+Follow-On Public Offerings
+
+January 2024 Public Offering
+
+On January 16, 2024, the Company completed a public offering of: (i) an aggregate of 3,802,025 shares of its common stock at a public offering price of $35.50 per share, including the underwriters' full exercise of their option to purchase 633,750 additional shares of common stock, and (ii) pre-funded warrants to purchase 1,056,725 shares of common stock at a public offering price of $35.4999 per share of common stock underlying the warrants. The purchase price per share of each pre-funded warrant represents the per share offering price for the common stock, less the $0.0001 per share exercise price of each underlying share. Total net proceeds generated from the offering were approximately $161.6 million, after deducting underwriting discounts, commissions and other offering expenses payable by the Company.
+
+The pre-funded warrants are exercisable at any time on or after the date of issuance at the option of the holder, subject to a beneficial ownership blocker that may limit exercisability. No holder may exercise any portion of the warrants that would cause the aggregate number of shares of common stock beneficially owned by such holder, together with its affiliates, to exceed 4.99% (or 9.99%) of the issued and outstanding common stock. A holder of a pre-funded warrant may increase or decrease this percentage up to 19.99% by providing at least 61 days’ prior notice to the Company. The pre-funded warrants do not expire. The pre-funded warrants may be settled through either physical or net share settlement. Following the occurrence of certain fundamental transactions, the holders of the pre-funded warrants have the right to receive upon exercise of the warrants the same amount and kind of securities, cash, or property as they would have been entitled to receive if they had been holders of the common shares issuable under the warrants immediately prior to such transaction. During the year ended December 31, 2025, 200,355 pre-funded warrants were exercised via cashless exercise, resulting in 200,349 shares of common
+
+13
+
+stock issued. No cash proceeds associated with the exercise were received by the Company. As of December 31, 2025, a total of 704,225 pre-funded warrants associated with this offering remained outstanding.
+
+During the six months ended June 30, 2026, no pre-funded warrants were exercised. As of June 30, 2026, a total of 704,225 pre-funded warrants associated with this offering remained outstanding.
+
+April 2024 Public Offering
+
+On April 2, 2024, the Company completed a public offering of: (i) an aggregate of 3,849,558 shares of its common stock at a public offering price of $56.50 per share, including the underwriters' full exercise of their option to purchase 530,973 additional shares of common stock, and (ii) pre-funded warrants to purchase 221,238 shares of common stock at a public offering price of $56.4999 per share of common stock underlying the warrants. The purchase price per share for each pre-funded warrant represents the per share offering price for the common stock, less the $0.0001 per share exercise price of each underlying share. Total net proceeds generated from the offering were approximately $216.0 million, after deducting underwriting discounts, commissions and other offering expenses payable by the Company.
+
+The pre-funded warrants are exercisable at any time on or after the date of issuance at the option of the holder, subject to a beneficial ownership blocker that may limit exercisability. No holder may exercise any portion of the warrants that would cause the aggregate number of shares of common stock beneficially owned by such holder, together with its affiliates, to exceed 4.99% (or 9.99%) of the issued and outstanding common stock. A holder of a pre-funded warrant may increase or decrease this percentage up to 19.99% by providing at least 61 days' prior notice to the Company. The pre-funded warrants do not expire. The pre-funded warrants may be settled through either physical or net share settlement. Following the occurrence of certain fundamental transactions, the holders of the pre-funded warrants have the right to receive upon exercise of the warrants the same amount and kind of securities, cash or property as they would have been entitled to receive if they had been holders of the common shares issuable under the warrants immediately prior to such transaction. As of June 30, 2026, none of the pre-funded warrants had been exercised and all remained outstanding.
+
+October 2025 Public Offering
+
+On October 20, 2025, the Company completed a public offering of: (i) an aggregate of 3,527,072 shares of its common stock at a public offering price of $157.00 per share, including the underwriters' full exercise of their option to purchase 501,592 additional shares of common stock, and (ii) pre-funded warrants to purchase 318,470 shares of common stock at a public offering price of $156.9999 per share of common stock underlying the warrants. The purchase price per share of each pre-funded warrant represents the per share offering price for the common stock, less the $0.0001 per share exercise price of each underlying share. Total net proceeds generated from the offering were approximately $567.1 million, after deducting underwriting discounts, commissions and other offering expenses payable by the Company.
+
+The pre-funded warrants are exercisable at any time on or after the date of issuance at the option of the holder, subject to a beneficial ownership blocker that may limit exercisability. No holder may exercise any portion of the warrants that would cause the aggregate number of shares of common stock beneficially owned by such holder, together with its affiliates, to exceed 4.99% (or 9.99%) of the issued and outstanding common stock.  A holder of a pre-funded warrant may increase or decrease this percentage up to 19.99% by providing at least 61 days’ prior notice to the Company. The pre-funded warrants do not expire. The pre-funded warrants may be settled through either physical or net share settlement. Following the occurrence of certain fundamental transactions, the holders of the pre-funded warrants have the right to receive upon exercise of the warrants the same amount and kind of securities, cash, or property as they would have been entitled to receive if they had been holders of the common shares issuable under the warrants immediately prior to such transaction. As of June 30, 2026, none of the pre-funded warrants had been exercised and all remained outstanding.
+
+The Company determined that the pre-funded warrants related to the January 2024, April 2024, and October 2025 public offerings are freestanding financial instruments because they are both legally detachable and separately exercisable from the common stock sold in the offering. As such, the Company evaluated the pre-funded warrants to determine whether they represent instruments that require liability classification pursuant to the guidance in ASC 480. However, the Company concluded that the pre-funded warrants are not a liability within the scope of ASC 480 due to their characteristics. Further, the Company determined that the pre-funded warrants do not meet the definition of a derivative under ASC 815 because they do not meet the criteria regarding no or little initial net investment. Accordingly, the Company assessed the pre-funded warrants relative to the guidance in ASC
+
+14
+
+No. 815-40, Contracts in Entity’s Own Equity, to determine the appropriate treatment. The Company concluded that the pre-funded warrants are both indexed to its own stock and meet all other conditions for equity classification. Accordingly, the Company has classified the pre-funded warrants as permanent equity.
+
+January 2026 Public Offering
+
+On January 7, 2026, the Company completed a public offering of 2,543,800 shares of its common stock at a public offering price of $260.00 per share, including the underwriters' full exercise of their option to purchase 331,800 additional shares of common stock. Total net proceeds generated from the offering were approximately $621.2 million, after deducting underwriting discounts, commissions and other offering expenses payable by the Company.
+
+Shares Reserved for Future Issuance
+
+The Company has reserved the following shares of common stock for future issuance:
+
+June 30,
+
+2026
+
+December 31,
+
+2025
+
+Shares reserved for exercise of outstanding stock options
+
+1,905,404
+
+1,876,778
+
+Shares reserved for exercise of pre-funded warrants related to the January 2024 Financing
+
+704,225
+
+704,225
+
+Shares reserved for exercise of pre-funded warrants related to the April 2024 Financing
+
+221,238
+
+221,238
+
+Shares reserved for exercise of pre-funded warrants related to October 2025 Financing
+
+318,470
+
+318,470
+
+Shares reserved for future awards under the 2020 Stock Option and Incentive Plan
+
+1,402,688
+
+473,358
+
+Shares reserved for future awards under the 2020 Employee Stock Purchase Plan
+
+528,313
+
+281,180
+
+Shares reserved for future awards under the 2024 Inducement Plan
+
+936,132
+
+945,280
+
+Shares reserved for vesting of restricted stock units and performance stock units
+
+654,792
+
+501,853
+
+Total shares of authorized common stock reserved for future issuance
+
+6,671,262
+
+5,322,382
+
+Preferred Stock
+
+As of June 30, 2026 and December 31, 2025, the authorized capital stock of the Company included 10,000,000 shares of undesignated preferred stock, $0.0001 par value.
+
+9. Stock-Based Compensation
+
+2024 Inducement Plan
+
+In January 2024, the Board of Directors ("the Board") adopted the 2024 Inducement Plan (the "Inducement Plan") without stockholder approval pursuant to Rule 5635(c)(4) of the Nasdaq Stock Market LLC listing rules ("Rule 5635(c)(4)"). In accordance with Rule 5635(c)(4), the Inducement Plan allows the Company to grant awards only to a newly hired employee who was not previously an employee or non-employee director or to an employee who is being rehired following a bona fide period of non-employment if such award is a material inducement to such employee entering into employment. In January 2025, the number of shares of common stock authorized for issuance under the Inducement Plan was increased by 870,000 shares. The total number of shares of common stock authorized for issuance under the Inducement Plan as of June 30, 2026 and December 31, 2025 was 1,000,000 shares.
+
+2020 Stock Option and Incentive Plan
+
+The total number of shares of common stock authorized for issuance under the 2020 Stock Option and Incentive Plan (the "2020 Plan”) as of June 30, 2026 and December 31, 2025 was 4,201,704 shares and 2,941,950 shares, respectively.
+
+2017 Stock Incentive Plan
+
+The total number of shares of common stock authorized for issuance under the 2017 Stock Incentive Plan (the "2017 Plan") as of June 30, 2026 and December 31, 2025 was 395,850 shares. Any authorization to issue new options under the 2017 Plan was cancelled upon the effectiveness of the 2020 Plan and no further awards will be granted under the 2017 Plan.
+
+15
+
+2020 Employee Stock Purchase Plan
+
+The total number of shares of common stock authorized for issuance under the 2020 Employee Stock Purchase Plan (the "2020 ESPP”) as of June 30, 2026 and December 31, 2025 was 621,318 shares and 369,368 shares, respectively.
+
+Restricted Stock Units
+
+The following table summarizes the Company’s restricted stock unit activity:
+
+Shares
+
+Weighted
+
+Average
+
+Grant Date
+
+Fair Value
+
+Unvested as of December 31, 2025
+
+501,853
+
+$
+
+64.12
+
+Issued
+
+171,675
+
+295.02
+
+Vested
+
+(130,784)
+
+70.42
+
+Forfeited
+
+(19,754)
+
+118.59
+
+Unvested as of June 30, 2026
+
+522,990
+
+$
+
+136.28
+
+As of June 30, 2026, total unrecognized compensation cost related to unvested restricted stock units was $62.1 million, which is expected to be recognized over a weighted-average period of 3.16 years.
+
+Performance Stock Units
+
+In January 2026, the Company granted performance stock units ("PSUs") to its executive officers under the 2020 Plan. Vesting of the PSUs is subject to the achievement of specified performance conditions, which include achieving objectively measurable clinical, regulatory and commercial revenue targets. If these conditions are not met, the PSUs would be forfeited and returned to the plan. The actual number of common shares issued that could potentially vest is calculated by multiplying thetargetnumber of PSUs granted by a multiplier determined for each performance goal, resulting in an aggregate payout ranging from 0% to 250% of the total target PSUs granted. The performance conditions are required to be achieved during the performance period, which ends on December 31, 2027.
+
+The following table summarizes the Company’s performance stock unit activity:
+
+Shares
+
+Grant Date
+
+Fair Value
+
+Unvested as of December 31, 2025
+
+—
+
+$
+
+—
+
+Issued(a)
+
+131,802
+
+294.38
+
+Vested
+
+—
+
+—
+
+Forfeited
+
+—
+
+—
+
+Unvested as of June 30, 2026
+
+131,802
+
+$
+
+294.38
+
+(a) The number of shares issued during the period is the maximum amount of shares that could be payable under the terms of the PSU agreement.
+
+As of June 30, 2026, total unrecognized compensation costs related to unvested PSUs that were determined to be probable of achievement was $8.2 million, which is expected to be recognized over a weighted-average period of 0.54 years.
+
+Stock Options
+
+The following table summarizes the Company’s stock option activity:
+
+16
+
+Number of
+
+Shares
+
+Weighted
+
+Average
+
+Exercise Price
+
+per Share
+
+Weighted
+
+Average
+
+Remaining
+
+Contractual
+
+Term
+
+Aggregate
+
+Intrinsic Value
+
+(In years)
+
+(In thousands)
+
+Outstanding as of December 31, 2025
+
+1,876,778
+
+$
+
+89.80
+
+Granted
+
+109,647
+
+292.60
+
+Exercised
+
+(74,198)
+
+72.10
+
+$
+
+18,225
+
+Cancelled or Forfeited
+
+(6,823)
+
+81.11
+
+Outstanding as of June 30, 2026
+
+1,905,404
+
+$
+
+102.19
+
+7.38
+
+$
+
+466,138
+
+Exercisable as of June 30, 2026
+
+1,285,374
+
+$
+
+104.01
+
+6.91
+
+$
+
+319,584
+
+Vested and expected to vest as of June 30, 2026
+
+1,905,404
+
+$
+
+102.19
+
+7.38
+
+$
+
+466,138
+
+Valuation of Stock Options
+
+The weighted-average assumptions that the Company used in the Black-Scholes option pricing model to determine the grant-date fair value of stock options granted to employees and non-employees on the date of grant were as follows for the three and six months ended June 30, 2026:
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2026
+
+Risk-free interest rate
+
+4.26
+
+%
+
+3.87
+
+%
+
+Expected term (in years)
+
+6.00
+
+6.00
+
+Expected volatility
+
+78.29
+
+%
+
+80.09
+
+%
+
+Expected dividend yield
+
+—
+
+%
+
+—
+
+%
+
+Weighted average grant-date fair value per share
+
+$
+
+187.94
+
+$
+
+207.72
+
+As of June 30, 2026, total unrecognized compensation cost related to unvested stock options was $42.5 million, which is expected to be recognized over a weighted-average period of 2.32 years.
+
+Stock-Based Compensation
+
+Stock-based compensation expense was allocated as follows (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Research and development
+
+$
+
+3,915
+
+$
+
+3,230
+
+$
+
+9,428
+
+$
+
+7,010
+
+General and administrative
+
+7,394
+
+4,540
+
+18,993
+
+9,546
+
+Total stock-based compensation expense
+
+$
+
+11,309
+
+$
+
+7,770
+
+$
+
+28,421
+
+$
+
+16,556
+
+10. Net Loss per Share
+
+The following potential common shares, presented based on amounts outstanding at each period end, were excluded from the calculation of diluted net loss per share attributable to common stockholders for the periods indicated because including them would have been anti-dilutive:
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Outstanding stock options
+
+1,905,404
+
+2,102,627
+
+1,905,404
+
+2,102,627
+
+Unvested restricted stock units and performance stock units
+
+654,792
+
+515,596
+
+654,792
+
+515,596
+
+Potential shares issuable under the 2020 ESPP
+
+3,867
+
+15,940
+
+3,867
+
+15,940
+
+2,564,063
+
+2,634,163
+
+2,564,063
+
+2,634,163
+
+17
+
+Common shares issuable upon exercise of the pre-funded warrants that were sold in connection with the January 2024, April 2024, and October 2025 underwritten public offerings are included in the calculation of basic weighted average number of common shares outstanding for the three and six months ended June 30, 2026 and 2025. Consistent with the guidance in ASC 260-10-45-13, the underlying common shares are issuable for little to no consideration and there are no vesting conditions or contingencies associated with the warrants. Accordingly, the aggregate number of common shares underlying the pre-funded warrants have been considered outstanding for purposes of the calculation of basic net loss per share from the date of issuance.
+
+11. Related Party Transactions
+
+On September 11, 2019, the Company entered into a Cooperation and License Agreement (the “License Agreement”) with RogCon Inc. (“RogCon”). Under the License Agreement, RogCon granted to the Company an exclusive, worldwide license under RogCon's intellectual property to research, develop and commercialize products for the treatment of all forms of epilepsy and/or neurodevelopmental disorders in each case caused by any mutation of the SCN2A gene. Pursuant to the terms of the License Agreement, the Company will conduct, at its own cost and expense, the research and development activities assigned to it under the associated research plan. In addition, the Company is responsible for reimbursing RogCon for any costs associated with research and development activities RogCon performs at the request of the Company. One of the founders of RogCon became the Company's General Counsel in June 2020. The Company continues to reimburse RogCon for its out-of-pocket costs incurred for activities performed under the License Agreement. Expenses incurred during all periods presented were not material.
+
+12. Segment Information
+
+The Company has one operating segment. The Company's operating segment discovers and develops therapies for CNS disorders. The Company's chief operating decision maker ("CODM"), its Chief Executive Officer, manages the Company's operations on a consolidated basis for the purposes of assessing performance and allocating resources based on net loss that also is reported on the condensed consolidated statement of operations as consolidated net loss. Net loss is used by the CODM to make key strategic and operational decisions. The measure of segment assets is reported on the condensed consolidated balance sheet as total consolidated assets. The majority of the Company's long-lived assets are held in the United States.
+
+The following table presents selected financial information about the Company's single operating segment for the three and six months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended
+
+June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Program-specific expenses:
+
+Ulixacaltamide
+
+$
+
+13,299
+
+$
+
+18,385
+
+$
+
+32,402
+
+$
+
+41,898
+
+Vormatrigine
+
+12,878
+
+17,957
+
+33,372
+
+31,690
+
+Relutrigine
+
+13,979
+
+10,509
+
+26,833
+
+15,886
+
+Elsunersen
+
+8,141
+
+1,317
+
+11,338
+
+2,078
+
+Other early stage assets
+
+5,471
+
+1,417
+
+8,713
+
+2,522
+
+Personnel-related expenses
+
+18,943
+
+11,913
+
+36,673
+
+24,943
+
+Stock-based compensation expense
+
+11,309
+
+7,770
+
+28,421
+
+16,556
+
+Depreciation expense
+
+33
+
+46
+
+72
+
+93
+
+Other segment expenses(a)
+
+12,851
+
+6,753
+
+24,940
+
+15,129
+
+Other income, net
+
+13,184
+
+4,940
+
+26,483
+
+10,372
+
+Consolidated net loss
+
+$
+
+(83,720)
+
+$
+
+(71,127)
+
+$
+
+(176,281)
+
+$
+
+(140,423)
+
+(a) Other segment expenses includes research and development and general and administrative costs not attributable to a specific program.
+
+13. Subsequent Events
+
+The Company considers events or transactions that occur after the balance sheet date but prior to the issuance of the condensed consolidated financial statements to provide additional evidence for certain estimates or identify matters that require additional disclosure. The Company has concluded that no subsequent events have occurred that require disclosure.
+
+18

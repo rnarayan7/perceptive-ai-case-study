@@ -1,0 +1,4 @@
+FAERS adverse-event report 17633400 (comparator: ozanimod)
+Serious: yes
+Reactions: Gastritis erosive
+Reported drugs: MESALAZINE, IBUPROFEN., ATENOLOL., OZANIMOD., ATENOLOL., PREDNISONE.

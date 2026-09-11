@@ -1,0 +1,13 @@
+Title: A Clinical Trial for Participants With DEE to Assess Efficacy, Safety, Tolerability, and PK of Relutrigine
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Developmental and Epileptic Encephalopathy 1
+Interventions: 1.0mg/kg/day PRAX-562 (DRUG), 1.5mg/kg/day PRAX-562 (DRUG), Placebo (DRUG)
+Enrollment: 160
+
+Summary: A Phase 3, Randomized, Multi-Center, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy, Safety, Tolerability, and Pharmacokinetics of Relutrigine in Participants with Developmental and Epileptic Encephalopathies Followed by an Open-Label Extension
+
+Primary outcomes:
+- To assess the effect of relutrigine on seizure frequency in participants with DEEs compared to placebo (time frame: 16 weeks)

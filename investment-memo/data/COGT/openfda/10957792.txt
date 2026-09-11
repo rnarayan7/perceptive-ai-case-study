@@ -1,0 +1,4 @@
+FAERS adverse-event report 10957792 (comparator: midostaurin)
+Serious: yes
+Reactions: Hepatotoxicity, Pneumonia, Thrombocytopenia, Neutropenia, Infection, Small intestinal obstruction, Diarrhoea, Pyrexia, Hypotension, Hyponatraemia, Renal disorder, Fatigue, Dehydration, Febrile neutropenia, Pain, Blood albumin abnormal, Hypoalbuminaemia, Syncope
+Reported drugs: AZACITIDINE INJECTABLE, MIDOSTAURIN, MIDOSTAURIN, MIDOSTAURIN

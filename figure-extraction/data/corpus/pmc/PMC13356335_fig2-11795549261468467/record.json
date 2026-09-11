@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13356335_fig2-11795549261468467",
+  "figure_type": "kaplan_meier",
+  "title": "Efficacy of Pembrolizumab as a Second- or Third-Line Therapy in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: A Multicenter Retrospective Study in Vietnamese Patients.",
+  "caption": "Kaplan-Meier curve for progression-free survival",
+  "context": "Kaplan-Meier curve for progression-free survival The median PFS was 4.3 months (95% CI, 2.9-5.7); the PFS rates at 6 and 12 months were 32.6% and 16.1%, respectively ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13356335/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:51:43.038695+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "4.3",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "curve for progression-free survival The median PFS was 4.3 months (95% CI, 2.9-5.7); the PFS rates at 6 a",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13356335",
+    "pmid": "42438489",
+    "journal": "Clinical Medicine Insights. Oncology",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "65ee9af5cb989cd34c2935dbcf69d433baa51c3a593311d9d5dde3875e4db23b",
+  "image_file": "image.jpg"
+}

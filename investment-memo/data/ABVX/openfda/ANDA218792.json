@@ -1,0 +1,31 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA218792",
+  "title": "Drugs@FDA ANDA218792: UPADACITINIB",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A218792",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:10.366476+00:00",
+  "metadata": {
+    "manufacturer": "SANDOZ INC",
+    "brand_name": "UPADACITINIB",
+    "sponsor_name": "SANDOZ INC",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "UPADACITINIB"
+    ],
+    "active_ingredients": [
+      "UPADACITINIB"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "e01e4a0059c688c7418523417bd79db69ad8a8cc6e8ee45550509de57ce3bc52"
+}

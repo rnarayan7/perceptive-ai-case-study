@@ -1,0 +1,98 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+                 Characteristic    Statistic   KD025-    KD025-   KD025-     KD025-    KD025-    KD025-    KD025-    All
+                                               101       102      103        106       107       208       213       Subjects
+                                               (n=48)    (n=24)   (n=6)      (n=23)    (n=73)    (n=54)    (n=124)   (n=352)
+                 Race: Native      N (%)       1         0 (0%)   0 (0%)     0 (0%)    0 (0%)    2         2         5
+                 American                      (2.08%)                                           (3.70%)   (1.61%)   (1.42%)
+                 Race: Other       N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    2         3         0 (0%)    5
+                                                                                       (2.74%)   (5.56%)             (1.42%)
+                 Race: Unknown     N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    0 (0%)    0 (0%)    8         8
+                                                                                                           (6.45%)   (2.27%)
+                 Healthy           N (%)       48        24       6          23        73        0 (0%)    0 (0%)    174
+                                               (100%)    (100%)   (100%)     (100%)    (100%)                        (49.4%)
+                 cGVHD Patients    N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    0 (0%)    54        124       178
+                                                                                                 (100%)    (100%)    (50.6%)
+                 Not Fasting       N (%)       0 (0%)    0 (0%)   0 (0%)     15        73        54        124       266
+                                                                             (65.2%)   (100%)    (100%)    (100%)    (75.6%)
+                 Fasting           N (%)       48        24       6          8         0 (0%)    0 (0%)    0 (0%)    86
+                                               (100%)    (100%)   (100%)     (34.8%)                                 (24.4%)
+                 Concomitant PPI   N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    70        36        62        168
+                                                                                       (95.9%)   (66.7%)   (50.0%)   (47.7%)
+                Concomitant         N (%)      0 (0%)   0 (0%)    0 (0%)     0 (0%)    35        29        73        137
+                3A4 Inhibitor                                                          (47.9%)   (53.7%)   (58.9%)   (38.9%)
+                Concomitant         N (%)      0 (0%)   0 (0%)    0 (0%)     0 (0%)    30        1         0 (0%)    31
+                3A4 Inducer                                                            (41.1%)   (1.85%)             (8.81%)
+               Source: Applicant’s population PK/PD report Appendix Table 13
+
+               The final model structure is a 2-comparment model with first order absorption and a lag time,
+               with a statistically significant effect of formulation on Ka and lag time (Figure 15). The
+               parameter estimates of the final model are shown in Table 107.
+               Figure 15. Belumosudil final PPK model structure
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+
+
+
+                                                                     297
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+                                                                                                                               (b) (4)
+
+
+
+
+               16.4.2 Pharmacometrics Review
+
+               A population pharmacokinetics (PPK) model was developed by the Applicant to characterize the
+               PK of belumosudil in healthy subjects and Graft versus Host Disease (GVHD) patients. Intrinsic
+               and extrinsic factors which influence the PK and PK variability of belumosudil were identified.
+               The exposure-response (E-R) relationships for efficacy and safety were explored. In this review,
+               FDA verified the Applicant’s analyses, as well as conducted independent analyses to evaluate
+               the Applicant’s dose selection.
+
+               1. Population PK Analyses
+               Data from five Phase 1 studies (KD025-101, KD025-102, KD025-103, KD025-106, and KD025-
+               107) including 174 healthy subjects and two Phase 2 studies (KD025-208 and KD025-213,
+               conducted in cGVHD subjects) including 178 GVHD subjects were utilized for PPK model
+               development. The demographic characteristics of subjects included in the final PPK model
+               dataset are shown in Table 106.
+
+               Table 106. Summary of demographic characteristics for subjects included in the final PPK
+               model dataset
+                 Characteristic    Statistic   KD025-    KD025-    KD025-    KD025-    KD025-    KD025-    KD025-    All
+                                               101       102       103       106       107       208       213       Subjects
+                                               (n=48)    (n=24)    (n=6)     (n=23)    (n=73)    (n=54)    (n=124)   (n=352)
+                 Age (years)       Mean        35.5      32.9      33.2      36.2      34.7      51.4      54.7      44.4
+                                   (SD)        (8.89)    (9.54)    (9.33)    (11.5)    (11.4)    (13.8)    (13.3)    (15.3)
+                                   Median      35.5      32.0      34.0      33.0      31.0      51.5      55.5      44.0
+                                   (Min,       (19.0,    (20.0,    (19.0,    (20.0,    (18.0,    (20.0,    (21.0,    (18.0,
+                                   Max)        55.0)     51.0)     46.0)     54.0)     55.0)     75.0)     77.0)     77.0)
+                 Weight (kg)       Mean        83.3      75.6      75.4      81.2      84.6      83.0      79.7      81.5
+                                   (SD)        (10.3)    (9.89)    (12.3)    (10.0)    (12.5)    (19.5)    (18.3)    (15.6)
+                                   Median      84.6      75.9      79.5      83.6      82.2      80.7      78.0      80.7
+                                   (Min,       (59.8,    (59.4,    (58.2,    (64.6,    (57.1,    (50.2,    (38.6,    (38.6,
+                                   Max)        104)      99.8)     87.3)     97.4)     118)      143)      137)      143)
+                 Sex: Male         N (%)       48        20        5         23        73        34        68        271
+                                               (100%)    (83.3%)   (83.3%)   (100%)    (100%)    (63.0%)   (54.8%)   (77.0%)
+                 Sex: Female       N (%)       0 (0%)    4         1         0 (0%)    0 (0%)    20        56        81
+                                                         (16.7%)   (16.7%)                       (37.0%)   (45.2%)   (23.0%)
+                 Race:             N (%)       20        10        3         20        63        47        104       267
+                 White/Caucasian               (41.7%)   (41.7%)   (50.0%)   (87.0%)   (86.3%)   (87.0%)   (83.9%)   (75.9%)
+                 Race:             N (%)       26        14        3         3         5         2         7         60
+                 Black/African-                (54.2%)   (58.3%)   (50.0%)   (13.0%)   (6.85%)   (3.70%)   (5.65%)   (17.0%)
+                 American
+                 Race: Asian       N (%)       1       

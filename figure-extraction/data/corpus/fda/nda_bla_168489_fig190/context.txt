@@ -1,0 +1,102 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               In summary, the totality of the safety data supports the use of nivo mono and nivo + ipi in
+               adolescents ≥ 12 years as treatment for advanced melanoma and the use of nivo monotherapy
+               in adolescents ≥ 12 years as treatment for adjuvant melanoma.
+               The FDA’s Assessment:
+               The assessment of safety of nivolumab as a single agent and in combination with ipilimumab,
+               and ipilimymab in combination with nivolumab was based primarily on data from previously
+               conducted studies CA209067, CA209915 and CA209238 and from clinical pharmacology
+               analyses (population PK data and E-R safety analysis) that support the recommended doses for
+               the extension of the approved indications for the nivolumab as a single agent and in
+               combination with ipilimumab, and ipilimumab in combination with nivolumab adult melanoma
+               indications to a pediatric population 12 years of age and older. The pediatric safety data
+               submitted from the pivotal trial includes 126 pediatric patients that were treated with either
+               nivolumab as a single agent (n=80) or nivolumab in combination with ipilimumab (n=46). Due to
+               the limited median duration of treatment on this study (median duration of treatment was 0.84
+               months for nivolumab as a single agent and 0.72 months for nivolumab in combination with
+               ipilimumab) conclusions could not be made regarding the pediatric safety profile of nivolumab
+               and ipilimumab based on the results of these studies alone.
+
+               As the safety of nivolumab and ipilimumab has been previously reviewed and characterized in
+               adult patients with resectable, unresectable and metastatic melanoma and also in other tumor
+               types, FDA did not conduct an in depth analysis of the data from Studies CA209067, CA209915
+               or CA209238 during the review of this supplemental BLA. Safety results of Studies CA209067
+               and CA209238 served as the basis for prior approvals of nivolumab and ipilimumab and
+               therefore have previously been reviewed in detail.
+
+               SUMMARY AND CONCLUSIONS
+
+                        Statistical Issues
+               The FDA’s Assessment:
+               Efficacy analyses for Study CA209070 were descriptive in nature and there was no
+               demonstration of any clinically meaningful anti-tumor activity in the pediatric study. No
+               statistical analyses were conducted by FDA.
+
+
+                        Conclusions and Recommendations
+               The FDA’s Assessment:
+               FDA concludes that the data submitted to support the extension of the nivolumab and
+               ipilimumab adult indications to a pediatric population 12 year of age and older sufficiently
+               support approval of the proposed doses. The safety and efficacy of nivolumab and ipilimumab
+               has been well characterized in adult patients with resectable, unresectable, and metastatic
+               melanoma. The population PK and E-R safety and efficacy analysis, and the known similarities
+               between adolescent and adult melanoma further support the extension of the approved
+                                                              134
+                                       Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5127294
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               9        Advisory Committee Meeting and Other External Consultations
+
+               The FDA’s Assessment:
+               The Division did not refer the application to the Oncologic Drug Advisory Committee (ODAC) or
+               seek input from Special Government Employees (SGEs) for these supplemental BLAs as no
+               significant review issues were identified during the review.
+
+
+               10 Pediatrics
+
+               The Applicant’s Position:
+               Development in pediatric populations for nivolumab and ipilimumab included submission of a
+               proposed pediatric study report (PPSR), discussions with and feedback received from the FDA,
+               followed by issuance of a Pediatric Written Request (PWR) by the FDA for both nivolumab and
+               ipilimumab. As of 20-Jul-2017, the FDA determined that the PWR for ipilimumab was fulfilled.
+               The current nivolumab PWR, which includes Amendment 03, lists a request for non-clinical
+               biomarker studies in pediatric tumor tissues, a clinical study (Study 1: ADVL1412/ CA209070),
+               and pharmacokinetic analyses to establish pediatric dosing recommendations for nivolumab
+               alone and in combination with ipilimumab in advanced melanoma.
+               Based on the similarity of melanoma between adolescents (≥ 12 to < 18 years) and adults,
+               demonstrated by comparable general clinical characteristics, risk factors and maturation of
+               immune system in adolescents, a similar exposure-response (E-R) relationship to treatment
+               with nivolumab ± ipilimumab between adolescent and adult subjects with melanoma is
+               expected. BMS developed a population pharmacokinetic (PPK) model using pooled data from
+               CA209070 and other pediatric and adult studies to characterize pediatric PK in order to define
+               recommended dosing regimens for nivolumab and nivolumab in combination with ipilimumab
+               for the treatment of pediatric patients (12 years and older) with melanoma in support of
+               efficacy extrapolation from adult to pediatric patients.
+               BMS requests the following:
+               •    Determination of pediatric exclusivity for nivolumab, based on the results of the studies
+                    (non-clinical biomarker studies, CA209070, and pharmacokinetic analyses) conducted
+                    according to the nivolumab PWR. As part of the supplemental BLAs.
+               •    Extension of the approved adult indications of nivolumab in advanced and adjuvant
+                    melanoma to include pediatric (12 years and older) patients, with a data package that
+                    includes the following clinical studies: CA209070, CA209915, CA209067, and CA209238.
+
+               The FDA’s Assessment:
+               FDA Pediatric Exclusivity Review Board reviewed the Pediatric Exclusivity Determination
+
+                                                                 136
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5127294
+

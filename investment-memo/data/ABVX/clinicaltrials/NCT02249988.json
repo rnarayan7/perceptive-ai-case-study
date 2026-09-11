@@ -1,0 +1,40 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02249988",
+  "title": "Clinical Efficacy of ABX203 Therapeutic Vaccine in HBeAg Negative Patients With Chronic Hepatitis B",
+  "url": "https://clinicaltrials.gov/study/NCT02249988",
+  "published": "2014-09-26",
+  "retrieved_at": "2026-09-07T12:53:29.797025+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Chronic Hepatitis B"
+    ],
+    "interventions": [
+      {
+        "name": "ABX203 therapeutic Hepatitis B vaccine treatment arm",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 261,
+    "start_date": "2014-12",
+    "primary_completion_date": "2016-12",
+    "completion_date": "2016-12",
+    "first_posted_date": "2014-09-26",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of subjects with viral load < 40 IU/mL at Week 48.",
+        "timeFrame": "Week 48"
+      }
+    ]
+  },
+  "hash": "7386f6db44543e8bd7ef9eb71df77b2b3167478111dc7458571ef107525b2c4c"
+}

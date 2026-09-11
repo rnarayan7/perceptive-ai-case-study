@@ -1,0 +1,21 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0062fcc7-aa08-4990-9d33-d798725907f1",
+  "title": "Label: Prednisone (PREDNISONE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0062fcc7-aa08-4990-9d33-d798725907f1",
+  "published": "2026-07-13",
+  "retrieved_at": "2026-09-08T08:40:28.243571+00:00",
+  "metadata": {
+    "brand_name": "Prednisone",
+    "generic_name": "PREDNISONE",
+    "manufacturer": "Bryant Ranch Prepack",
+    "manufacturer_name": "Bryant Ranch Prepack",
+    "pharm_class_epc": "Corticosteroid [EPC]",
+    "pharm_class_moa": "Corticosteroid Hormone Receptor Agonists [MoA]",
+    "application_number": "ANDA040584",
+    "route": "ORAL"
+  },
+  "hash": "257112d5dac67872cece6404fc773b344721167d1924a74fb07a185feb5ae1c6"
+}

@@ -1,0 +1,15 @@
+Title: Safety, PK and PD Study of ABX464 in Untreated HIV Patients
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Human Immunodeficiency Virus Infections
+Interventions: ABX464 (DRUG), Placebo (OTHER)
+Enrollment: 70
+
+Summary: ABX464 is a first in class that showed efficacy as an anti-HIV therapy. The present study is intended to assess the safety, the tolerability, and pharmacokinetic parameters and to evaluate the effect on viral load of repeated oral administrations of ABX464 in patients infected by HIV, not previously treated for their HIV.
+
+Two types of design are intended in this protocol: dosing every 3 days or dosing every day. The goal is to determine the best dosing regimen to reduce viral load and minimize adverse events.
+
+Primary outcomes:
+- Safety and tolerability profile of ABX464 as assessed by the change from baseline in laboratory values, in vital signs and ECG parameters at week 3 and by the number of patients with adverse events. (time frame: Week 3)

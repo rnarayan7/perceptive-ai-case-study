@@ -1,0 +1,9 @@
+Drugs@FDA application BLA761055: DUPIXENT
+Sponsor: REGENERON PHARMACEUTICALS
+Active ingredient(s): DUPILUMAB
+Brand name(s): DUPIXENT
+Application type: BLA (biologic)
+Original approval date: 2017-03-28
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 33

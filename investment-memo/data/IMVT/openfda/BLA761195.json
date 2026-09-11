@@ -1,0 +1,32 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA761195",
+  "title": "Drugs@FDA BLA761195: VYVGART",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761195",
+  "published": "2021-12-17",
+  "retrieved_at": "2026-09-08T08:40:49.144534+00:00",
+  "metadata": {
+    "manufacturer": "ARGENX BV",
+    "brand_name": "VYVGART",
+    "sponsor_name": "ARGENX BV",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "VYVGART"
+    ],
+    "active_ingredients": [
+      "EFGARTIGIMOD ALFA"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2021-12-17",
+    "review_priority": [
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 6
+  },
+  "hash": "ff6b2feff7db21ca72ba33b9c63c5bdc78ca61fed6043890df3928f929ffc03e"
+}

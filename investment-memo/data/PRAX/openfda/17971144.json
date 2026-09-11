@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17971144",
+  "title": "FAERS report 17971144: Emotional disorder, Mood swings, Somnolence",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17971144",
+  "published": "2021-11-17",
+  "retrieved_at": "2026-09-08T08:40:31.672342+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": false,
+    "reactions": [
+      "Emotional disorder",
+      "Mood swings",
+      "Somnolence"
+    ],
+    "drugs": [
+      "EPIDIOLEX",
+      "CLOBAZAM",
+      "ZONEGRAN",
+      "XCOPRI",
+      "VIMPAT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "fe819625124d45f8379920a1ec176d00c9d8e77206463c829b594586c60cf1a5"
+}

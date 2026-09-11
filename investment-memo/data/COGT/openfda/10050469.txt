@@ -1,0 +1,4 @@
+FAERS adverse-event report 10050469 (comparator: midostaurin)
+Serious: yes
+Reactions: Disease progression, Haematotoxicity, Hyperglycaemia, Pneumonia, Sepsis, Sinusitis, Hypokalaemia, Hyperkalaemia, Hyponatraemia, Hypertriglyceridaemia
+Reported drugs: CLADRIBINE, ARA-C, GRANULOCYTE COLONY-STIMULATING FACTOR NOS, ATRA (ALL TRANS RETINOIC ACID), MIDOSTAURIN

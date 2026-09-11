@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13195455_F2",
+  "figure_type": "spider",
+  "title": "Lenvatinib in radioiodine-refractory differentiated thyroid cancer: a real-world institutional analysis.",
+  "caption": "Waterfall plot of maximum tumor shrinkage during lenvatinib treatment Waterfall plot illustrating the maximum percentage change in the diameter of the largest measurable tumor from baseline for each patient treated with lenvatinib ( n  = 44). Each bar represents an individual patient, arranged in order of maximum tumor shrinkage. Bars in light orange indicate patients with lung metastases ( n  = 25). ORR and DCR were 52.3% and 95.5% in all patients, and 64.0% and 100% in those with lung metastases, respectively. Median maximum tumor change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. Abbreviations : ORR, objective response rate; DCR, disease control rate.",
+  "context": "Waterfall plot of maximum tumor shrinkage during lenvatinib treatment Waterfall plot illustrating the maximum percentage change in the diameter of the largest measurable tumor from baseline for each patient treated with lenvatinib ( n  = 44). Each bar represents an individual patient, arranged in order of maximum tumor shrinkage. Bars in light orange indicate patients with lung metastases ( n  = 25). ORR and DCR were 52.3% and 95.5% in all patients, and 64.0% and 100% in those with lung metastases, respectively. Median maximum tumor change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. Abbreviations : ORR, objective response rate; DCR, disease control rate.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13195455/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-01-22",
+  "retrieved_at": "2026-09-07T13:15:19.983696+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "3",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. Abbreviations : ORR, objective respons",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13195455",
+    "pmid": "41565294",
+    "journal": "Endocrine journal",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "5275b55fd843f1dba96b66823fce0fe0152a76c26becd21217db960c2d0e0339",
+  "image_file": "image.jpg"
+}

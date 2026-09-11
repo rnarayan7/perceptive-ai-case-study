@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13135962_f3",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of local consolidative therapy combined with systemic therapy in driver-negative oligometastatic non-small cell lung cancer: a systematic review and meta-analysis.",
+  "caption": "Progression-free survival (PFS) analysis.  (A)  Forest plot showing pooled hazard ratios (HRs) for PFS comparing systemic therapy plus LCT versus systemic therapy alone.  (B)  Cumulative meta-analysis of PFS, illustrating the evolution and stabilization of the treatment effect as additional studies were incorporated.",
+  "context": "Progression-free survival (PFS) analysis.  (A)  Forest plot showing pooled hazard ratios (HRs) for PFS comparing systemic therapy plus LCT versus systemic therapy alone.  (B)  Cumulative meta-analysis of PFS, illustrating the evolution and stabilization of the treatment effect as additional studies were incorporated. Progression-free survival Similarly, LCT was associated with a significant prolongation of progression-free survival (HR = 0.53, 95% CI 0.46-0.61, Figure 3A ). Cumulative meta-analysis showed that the PFS benefit emerged early and remained stable over successive studies, with the final pooled HR reaching 0.53 in 2025 ( Figure 3B ). Sensitivity analyses for the outcomes Leave-one-out sensitivity analyses confirmed the robustness of the pooled estimates ( Supplementary Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13135962/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-04-20",
+  "retrieved_at": "2026-09-07T13:05:51.657145+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.53 (95% CI 0.46-0.61)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "longation of progression-free survival (HR = 0.53, 95% CI 0.46-0.61, Figure 3A ). Cumulative meta-analysis",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13135962",
+    "pmid": "42088207",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "f73b673af9f0f49a32f75be04e02e53ce7a5efffaab2a6204ad14f33d4e5eb21",
+  "image_file": "image.jpg"
+}

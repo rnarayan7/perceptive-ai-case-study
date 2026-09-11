@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR1079344",
+  "title": "Spatiotemporal proteomics reveals dynamic antagonistic gradients shaping signalling waves",
+  "url": "https://europepmc.org/article/PPR/PPR1079344",
+  "published": "2025-09-06",
+  "retrieved_at": "2026-09-08T10:06:22.339356+00:00",
+  "metadata": {
+    "doi": "10.1101/2025.09.05.674076",
+    "epmc_id": "PPR1079344",
+    "epmc_source": "PPR",
+    "authors": "Meijer WHM, Andrade V, Stelloo S, Thomas WM, van Oostrom MJ, Ilcken EF, Peters KTJ, Vermeulen M, Sonnen KF.",
+    "cited_by": 1
+  },
+  "hash": "4508f9d39745f4048b68ea0e986e4733a29378005b535b83bec2f9a60d586dd3"
+}

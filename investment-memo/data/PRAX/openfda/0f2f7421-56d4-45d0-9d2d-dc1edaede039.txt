@@ -1,0 +1,9 @@
+Drug: Lamotrigine
+
+Generic name: LAMOTRIGINE
+
+Manufacturer: Zydus Lifesciences Limited
+
+Established pharmacologic class: Anti-epileptic Agent [EPC]
+
+Mechanism class: Organic Cation Transporter 2 Inhibitors [MoA]

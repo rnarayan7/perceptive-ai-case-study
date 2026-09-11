@@ -1,0 +1,13 @@
+Title: A Long-Term Extension Study of IMVT-1402 in Adult Participants With Graves' Disease (GD)
+Status: ENROLLING_BY_INVITATION
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Graves' Disease
+Interventions: IMVT-1402 (DRUG)
+Enrollment: 372
+
+Summary: This is a long-term extension study that will rollover participants completing feeder studies IMVT-1402-2502 (NCT06727604) or IMVT-1402-2503 (NCT07018323) to evaluate the efficacy and safety of IMVT-1402 in adult participants with GD. Eligible participants will be assigned to 1 of 3 study groups (Groups A, B and C) based on their GD status at the completion of their respective feeder study.
+
+Primary outcomes:
+- Percentage of Group A Participants who remain euthyroid, Off ATD, and Off IMVT-1402 (time frame: At Week 52)

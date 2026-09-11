@@ -1,0 +1,2713 @@
+Item 1. Financial Statements (Unaudited)
+
+COGENT BIOSCIENCES, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except share and per share amounts)
+
+(unaudited)
+
+June 30,
+
+December 31,
+
+2026
+
+2025
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+181,172
+
+$
+
+312,012
+
+Short-term marketable securities
+
+611,128
+
+588,753
+
+Prepaid expenses and other current assets
+
+12,520
+
+9,590
+
+Total current assets
+
+804,820
+
+910,355
+
+Operating lease, right-of-use assets
+
+22,596
+
+18,078
+
+Property and equipment, net
+
+4,775
+
+5,457
+
+Restricted cash
+
+416
+
+416
+
+Other assets
+
+1,939
+
+3,301
+
+Total assets
+
+$
+
+834,546
+
+$
+
+937,607
+
+Liabilities and Stockholders’ Equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+
+7,488
+
+$
+
+9,504
+
+Accrued expenses and other current liabilities
+
+50,319
+
+52,902
+
+Operating lease liabilities
+
+1,489
+
+1,547
+
+Total current liabilities
+
+59,296
+
+63,953
+
+Convertible senior notes, net
+
+223,457
+
+222,895
+
+Operating lease liabilities, net of current portion
+
+19,315
+
+14,355
+
+Other liabilities
+
+90
+
+33
+
+Total liabilities
+
+302,158
+
+301,236
+
+Commitments and contingencies (Note 7)
+
+Stockholders’ equity:
+
+Preferred stock, $0.001 par value; 8,979,420 shares authorized; no shares issued or outstanding
+
+—
+
+—
+
+Series A non-voting convertible preferred stock, $0.001 par value; 1,000,000 shares authorized; 39,414 and 67,414 shares issued and outstanding at June 30, 2026 and December 31, 2025, respectively
+
+29,190
+
+53,830
+
+Series B non-voting convertible preferred stock, $0.001 par value; 20,580 shares authorized; 4,516 shares issued and outstanding at June 30, 2026 and December 31, 2025
+
+35,563
+
+35,563
+
+Common stock, $0.001 par value; 300,000,000 shares authorized; 171,598,409 and 160,980,024 shares issued and outstanding at June 30, 2026 and December 31, 2025, respectively
+
+171
+
+161
+
+Additional paid-in capital
+
+1,850,411
+
+1,734,882
+
+Accumulated other comprehensive income (loss)
+
+(770
+
+)
+
+355
+
+Accumulated deficit
+
+(1,382,177
+
+)
+
+(1,188,420
+
+)
+
+Total stockholders’ equity
+
+532,388
+
+636,371
+
+Total liabilities and stockholders’ equity
+
+$
+
+834,546
+
+$
+
+937,607
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+1
+
+COGENT BIOSCIENCES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(in thousands, except share and per share amounts)
+
+(unaudited)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Operating expenses:
+
+Research and development
+
+$
+
+70,811
+
+$
+
+62,203
+
+$
+
+146,176
+
+$
+
+125,232
+
+General and administrative
+
+31,827
+
+13,379
+
+60,069
+
+25,283
+
+Total operating expenses
+
+102,638
+
+75,582
+
+206,245
+
+150,515
+
+Loss from operations
+
+(102,638
+
+)
+
+(75,582
+
+)
+
+(206,245
+
+)
+
+(150,515
+
+)
+
+Other income:
+
+Interest income
+
+7,461
+
+2,373
+
+15,069
+
+5,325
+
+Interest expense
+
+(1,217
+
+)
+
+(314
+
+)
+
+(2,430
+
+)
+
+(314
+
+)
+
+Other income (expense), net
+
+(11
+
+)
+
+(6
+
+)
+
+(151
+
+)
+
+(11
+
+)
+
+Total other income, net
+
+6,233
+
+2,053
+
+12,488
+
+5,000
+
+Net loss
+
+$
+
+(96,405
+
+)
+
+$
+
+(73,529
+
+)
+
+$
+
+(193,757
+
+)
+
+$
+
+(145,515
+
+)
+
+Net loss per share, basic and diluted, Series A non-voting convertible preferred stock
+
+$
+
+(130.00
+
+)
+
+$
+
+(132.95
+
+)
+
+$
+
+(262.58
+
+)
+
+$
+
+(263.08
+
+)
+
+Weighted average Series A non-voting convertible preferred stock outstanding, basic and diluted
+
+39,414
+
+67,686
+
+53,337
+
+67,788
+
+Net loss per share, basic and diluted, Series B non-voting convertible preferred stock
+
+$
+
+(520.15
+
+)
+
+$
+
+(531.89
+
+)
+
+$
+
+(1,050.27
+
+)
+
+$
+
+(1,052.27
+
+)
+
+Weighted average Series B non-voting convertible preferred stock outstanding, basic and diluted
+
+4,516
+
+6,868
+
+4,516
+
+6,868
+
+Net loss per share, basic and diluted, common stock
+
+$
+
+(0.52
+
+)
+
+$
+
+(0.53
+
+)
+
+$
+
+(1.05
+
+)
+
+$
+
+(1.05
+
+)
+
+Weighted average common stock outstanding, basic and diluted
+
+171,005,468
+
+114,466,080
+
+166,624,462
+
+114,463,810
+
+Comprehensive loss:
+
+Net loss
+
+$
+
+(96,405
+
+)
+
+$
+
+(73,529
+
+)
+
+$
+
+(193,757
+
+)
+
+$
+
+(145,515
+
+)
+
+Other comprehensive income (loss):
+
+Net unrealized gains (losses) on marketable securities
+
+(355
+
+)
+
+(151
+
+)
+
+(1,125
+
+)
+
+(434
+
+)
+
+Total other comprehensive income (loss)
+
+(355
+
+)
+
+(151
+
+)
+
+(1,125
+
+)
+
+(434
+
+)
+
+Comprehensive loss
+
+$
+
+(96,760
+
+)
+
+$
+
+(73,680
+
+)
+
+$
+
+(194,882
+
+)
+
+$
+
+(145,949
+
+)
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+2
+
+COGENT BIOSCIENCES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(in thousands, except share amounts)
+
+(unaudited)
+
+Series A Non-Voting
+
+Convertible Preferred
+
+Stock
+
+Series B Non-Voting
+
+Convertible Preferred
+
+Stock
+
+Common Stock
+
+Additional
+
+Paid-in
+
+Accumulated
+
+Other Comprehensive
+
+Accumulated
+
+Total
+
+Stockholders’
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Income (Loss)
+
+Deficit
+
+Equity
+
+Balances at December 31, 2025
+
+67,414
+
+$
+
+53,830
+
+4,516
+
+$
+
+35,563
+
+160,980,024
+
+$
+
+161
+
+$
+
+1,734,882
+
+$
+
+355
+
+$
+
+(1,188,420
+
+)
+
+$
+
+636,371
+
+Issuance of common stock under Employee Stock Purchase Plan
+
+—
+
+—
+
+—
+
+—
+
+173,128
+
+—
+
+1,062
+
+—
+
+—
+
+1,062
+
+Issuance of common stock upon RSU vesting
+
+—
+
+—
+
+—
+
+—
+
+3,200
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of common stock under ATM, net of issuance costs of $1.4 million
+
+—
+
+—
+
+—
+
+—
+
+1,340,699
+
+1
+
+45,711
+
+—
+
+—
+
+45,712
+
+Issuance of common stock from exercises of stock options
+
+—
+
+—
+
+—
+
+—
+
+670,692
+
+1
+
+5,755
+
+—
+
+—
+
+5,756
+
+Issuance of common stock from pre-funded warrant exercises
+
+—
+
+—
+
+—
+
+—
+
+606,060
+
+1
+
+5
+
+—
+
+—
+
+6
+
+Conversion of Series A non-voting preferred stock into common stock
+
+(28,000
+
+)
+
+(24,640
+
+)
+
+—
+
+—
+
+7,000,000
+
+7
+
+24,633
+
+—
+
+—
+
+—
+
+Unrealized losses on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(770
+
+)
+
+—
+
+(770
+
+)
+
+Stock-based compensation expense
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+16,908
+
+—
+
+—
+
+16,908
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(97,352
+
+)
+
+(97,352
+
+)
+
+Balances at March 31, 2026
+
+39,414
+
+$
+
+29,190
+
+4,516
+
+$
+
+35,563
+
+170,773,803
+
+$
+
+171
+
+$
+
+1,828,956
+
+$
+
+(415
+
+)
+
+$
+
+(1,285,772
+
+)
+
+$
+
+607,693
+
+Issuance of common stock from exercises of stock options
+
+—
+
+—
+
+—
+
+—
+
+484,606
+
+—
+
+4,348
+
+—
+
+—
+
+4,348
+
+Issuance of common stock upon PSU vesting
+
+—
+
+—
+
+—
+
+—
+
+340,000
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Unrealized losses on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(355
+
+)
+
+—
+
+(355
+
+)
+
+Stock-based compensation expense
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+17,107
+
+—
+
+—
+
+17,107
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(96,405
+
+)
+
+(96,405
+
+)
+
+Balances at June 30, 2026
+
+39,414
+
+$
+
+29,190
+
+4,516
+
+$
+
+35,563
+
+171,598,409
+
+$
+
+171
+
+$
+
+1,850,411
+
+$
+
+(770
+
+)
+
+$
+
+(1,382,177
+
+)
+
+$
+
+532,388
+
+3
+
+Series A Non-Voting
+
+Convertible Preferred
+
+Stock
+
+Series B Non-Voting
+
+Convertible Preferred
+
+Stock
+
+Common Stock
+
+Additional
+
+Paid-in
+
+Accumulated
+
+Other Comprehensive
+
+Accumulated
+
+Total
+
+Stockholders’
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Income (Loss)
+
+Deficit
+
+Equity
+
+Balances at December 31, 2024
+
+70,465
+
+$
+
+56,515
+
+6,868
+
+$
+
+54,085
+
+110,461,729
+
+$
+
+110
+
+$
+
+1,004,612
+
+$
+
+447
+
+$
+
+(859,483
+
+)
+
+$
+
+256,286
+
+Issuance of common stock under ATM, net of issuance costs of $0.7 million
+
+—
+
+—
+
+—
+
+—
+
+2,587,992
+
+3
+
+24,247
+
+—
+
+—
+
+24,250
+
+Conversion of Series A non-voting preferred stock into common stock
+
+(2,767
+
+)
+
+(2,435
+
+)
+
+—
+
+—
+
+691,750
+
+1
+
+2,434
+
+—
+
+—
+
+—
+
+Issuance of common stock from exercises of stock options
+
+—
+
+—
+
+—
+
+—
+
+26,842
+
+—
+
+136
+
+—
+
+—
+
+136
+
+Issuance of common stock under Employee Stock Purchase Plan
+
+—
+
+—
+
+—
+
+—
+
+88,141
+
+—
+
+584
+
+—
+
+—
+
+584
+
+Unrealized losses on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(283
+
+)
+
+—
+
+(283
+
+)
+
+Stock-based compensation expense
+
+10,008
+
+—
+
+—
+
+10,008
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(71,986
+
+)
+
+(71,986
+
+)
+
+Balances at March 31, 2025
+
+67,698
+
+$
+
+54,080
+
+6,868
+
+$
+
+54,085
+
+113,856,454
+
+$
+
+114
+
+$
+
+1,042,021
+
+$
+
+164
+
+$
+
+(931,469
+
+)
+
+$
+
+218,995
+
+Conversion of Series A non-voting preferred stock into common stock
+
+(284
+
+)
+
+(250
+
+)
+
+—
+
+—
+
+71,000
+
+—
+
+250
+
+—
+
+—
+
+—
+
+Issuance of common stock from exercises of stock options
+
+—
+
+—
+
+—
+
+—
+
+1,038
+
+—
+
+5
+
+—
+
+—
+
+5
+
+Unrealized losses on marketable securities
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(151
+
+)
+
+—
+
+(151
+
+)
+
+Stock-based compensation expense
+
+9,716
+
+—
+
+—
+
+9,716
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(73,529
+
+)
+
+(73,529
+
+)
+
+Balances at June 30, 2025
+
+67,414
+
+$
+
+53,830
+
+6,868
+
+$
+
+54,085
+
+113,928,492
+
+$
+
+114
+
+$
+
+1,051,992
+
+$
+
+13
+
+$
+
+(1,004,998
+
+)
+
+$
+
+155,036
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+4
+
+COGENT BIOSCIENCES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+
+(unaudited)
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+Cash flows from operating activities:
+
+Net loss
+
+$
+
+(193,757
+
+)
+
+$
+
+(145,515
+
+)
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Depreciation and amortization expense
+
+1,367
+
+1,295
+
+Stock-based compensation expense
+
+34,015
+
+19,724
+
+Amortization of operating leases, right-of-use assets
+
+1,157
+
+1,000
+
+Net amortization (accretion) of premiums (discounts) on marketable securities
+
+(2,141
+
+)
+
+(739
+
+)
+
+Amortization of debt discount and issuance costs
+
+562
+
+63
+
+Loss on fixed asset disposal
+
+134
+
+—
+
+Changes in operating assets and liabilities:
+
+Prepaid expenses and other current assets
+
+(1,538
+
+)
+
+2,235
+
+Other assets
+
+1,362
+
+—
+
+Accounts payable
+
+(2,016
+
+)
+
+4,612
+
+Accrued expenses and other current liabilities
+
+(2,583
+
+)
+
+(2,979
+
+)
+
+Operating lease liability
+
+(773
+
+)
+
+(758
+
+)
+
+Other liabilities
+
+57
+
+9
+
+Net cash used in operating activities
+
+(164,154
+
+)
+
+(121,053
+
+)
+
+Cash flows from investing activities:
+
+Purchases of property and equipment
+
+(819
+
+)
+
+(678
+
+)
+
+Purchases of marketable securities
+
+(216,645
+
+)
+
+(67,883
+
+)
+
+Maturities and sales of marketable securities
+
+195,287
+
+146,850
+
+Net cash (used in) provided by investing activities
+
+(22,177
+
+)
+
+78,289
+
+Cash flows from financing activities:
+
+Proceeds from long-term debt
+
+—
+
+49,291
+
+Payment of debt issuance costs
+
+—
+
+(2,069
+
+)
+
+Proceeds from issuance of common stock under ATM, net of issuance costs of $1.4 million and $0.7 million, respectively
+
+45,712
+
+24,250
+
+Proceeds from pre-funded warrant exercises
+
+6
+
+—
+
+Proceeds from issuance of common stock upon stock option exercises
+
+8,711
+
+141
+
+Proceeds from issuance of common stock from Employee Stock Purchase Plan
+
+1,062
+
+584
+
+Net cash provided by financing activities
+
+55,491
+
+72,197
+
+Net (decrease) increase in cash, cash equivalents and restricted cash
+
+(130,840
+
+)
+
+29,433
+
+Cash, cash equivalents and restricted cash at beginning of period
+
+312,428
+
+98,165
+
+Cash, cash equivalents and restricted cash at end of period
+
+$
+
+181,588
+
+$
+
+127,598
+
+Supplemental disclosure of cash flow information:
+
+Cash paid for interest
+
+$
+
+1,838
+
+$
+
+252
+
+Supplemental disclosure of noncash investing and financing information:
+
+Conversion of Series A Preferred Stock into common shares
+
+$
+
+24,640
+
+$
+
+2,685
+
+Right-of-use assets obtained in exchange for new operating lease liabilities
+
+$
+
+5,675
+
+$
+
+—
+
+Stock options exercised for which cash proceeds had not yet been received
+
+$
+
+1,392
+
+$
+
+—
+
+Debt discount included in accrued expenses and other liabilities
+
+$
+
+—
+
+$
+
+3,100
+
+Debt issuance costs included in accounts payable and accrued expenses
+
+$
+
+—
+
+$
+
+236
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+5
+
+COGENT BIOSCIENCES, INC.
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(unaudited)
+
+1. Nature of the Business and Basis of Presentation
+
+Cogent Biosciences, Inc. (“Cogent” or the “Company”) is a clinical-stage biotechnology company focused on developing precision therapies for genetically defined diseases. Cogent’s approach is to design rational precision therapies that treat the underlying cause of disease and improve the lives of patients. Cogent’s most advanced program is bezuclastinib, also known as CGT9486, a highly selective tyrosine kinase inhibitor that is designed to potently inhibit the KIT D816V mutation as well as other mutations in KIT exon 17. In the vast majority of cases, KIT D816V is responsible for driving Systemic Mastocytosis (“SM”), a serious and rare disease caused by unchecked proliferation of mast cells. Exon 17 mutations are also found in patients with advanced gastrointestinal stromal tumors (“GIST”), a type of cancer with strong dependence on oncogenic KIT signaling. Bezuclastinib is a highly selective and potent KIT inhibitor with the potential to provide a new treatment option for these patient populations. The Company is developing bezuclastinib to treat patients living with Non-Advanced Systemic Mastocytosis (“NonAdvSM”), Advanced Systemic Mastocytosis (“AdvSM”), and GIST. The Company is building an internal commercial organization and expects to launch bezuclastinib commercially in the United States in the second half of 2026, pending regulatory approval. The Company has ongoing Phase 1 studies of its CNS-penetrant, selective mutant ErbB2 inhibitor and its potential best-in-class, wild-type-sparing, PI3Kα inhibitor. In addition, the Company’s research team is developing a portfolio of novel targeted therapies to help patients fighting serious, genetically driven diseases targeting mutations in KRAS and JAK2.
+
+The Company is subject to risks and uncertainties common to clinical-stage companies in the biotechnology industry, including, but not limited to, development by competitors of new technological innovations, dependence on key personnel, protection of proprietary technology, compliance with government regulations and the ability to secure additional capital to fund operations. Product candidates currently under development will require significant additional research and development efforts, including extensive preclinical and clinical testing and regulatory approval prior to commercialization. These efforts require significant amounts of additional capital, adequate personnel and infrastructure and extensive compliance-reporting capabilities. Even if the Company’s drug development efforts are successful, it is uncertain when, if ever, the Company will realize revenue from product sales.
+
+The accompanying condensed consolidated financial statements have been prepared on the basis of continuity of operations, realization of assets and the satisfaction of liabilities and commitments in the ordinary course of business. The Company has incurred recurring losses since inception, including a net loss of $193.8million for the six months ended June 30, 2026. As of June 30, 2026, the Company had an accumulated deficit of $1,382.2 million. The Company expects to continue to generate operating losses in the foreseeable future. As of the issuance date of the interim condensed consolidated financial statements, the Company expects that its cash, cash equivalents and marketable securities will be sufficient to fund its operating expenses and capital expenditure requirements for at least the next 12 months from issuance of the condensed consolidated financial statements.
+
+The Company expects that it will continue to incur significant expenses in connection with its ongoing business activities. The Company will need to seek additional funding through equity offerings, debt financings, collaborations, licensing arrangements or other marketing and distribution arrangements, partnerships, joint ventures, combinations or divestitures of one or more of its assets or businesses. The Company may not be able to obtain financing on acceptable terms, or at all, and the Company may not be able to enter into collaborative arrangements or divest its assets. The terms of any financing may adversely affect the holdings or the rights of the Company’s stockholders. Arrangements with collaborators or others may require the Company to relinquish rights to certain of its technologies or product candidates. If the Company is unable to obtain funding, the Company could be forced to delay, reduce or eliminate its research and development programs or commercialization efforts, which could adversely affect its business prospects, or the Company may be unable to continue operations.
+
+The Company’s condensed consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America (“GAAP”).
+
+6
+
+2. Summary of Significant Accounting Policies
+
+Unaudited Interim Financial Information
+
+The consolidated balance sheet at December 31, 2025 was derived from audited financial statements but does not include all disclosures required by GAAP. The accompanying condensed unaudited consolidated financial statements as of June 30, 2026 and for the three and six months ended June 30, 2026 and 2025 have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial statements. Certain information and footnote disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations. These condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the notes thereto for the year ended December 31, 2025 included in the Company’s Annual Report on Form 10-Kon file with the SEC. In the opinion of management, all adjustments, consisting only of normal recurring adjustments necessary for a fair statement of the Company’s financial position as of June 30, 2026 and results of operations for the three and six months ended June 30, 2026 and 2025 and cash flows for the six months ended June 30, 2026 and 2025 have been made. The Company’s results of operations for the three and six months ended June 30, 2026 are not necessarily indicative of the results of operations that may be expected for the year ending December 31, 2026.
+
+Principles of Consolidation
+
+The accompanying condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries, Mono, Inc. and Kiq Bio LLC. All intercompany accounts and transactions have been eliminated.
+
+Use of Estimates
+
+The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of expenses during the reporting periods. Significant estimates and assumptions reflected in these condensed consolidated financial statements include, but are not limited to, the accrual of research and development expenses and the valuation of stock-based awards. The Company bases its estimates on historical experience, known trends and other market-specific or other relevant factors that it believes to be reasonable under the circumstances. On an ongoing basis, management evaluates its estimates, as there are changes in circumstances, facts and experience. Actual results may differ from those estimates or assumptions.
+
+Marketable Securities
+
+The Company’s marketable securities, consisting of debt securities, are classified as available-for-sale. Available-for-sale marketable debt securities are carried at fair value with the unrealized gains and losses included in other comprehensive income (loss) as a component of stockholders’ equity until realized. Any premium or discount arising at purchase is amortized and/or accreted to interest income and/or expense over the life of the instrument. Realized gains and losses are determined using the specific identification method and are included in other income (expense). The Company reviews its portfolio of available-for-sale debt securities, using both quantitative and qualitative factors, to determine if declines in fair value below cost have resulted from a credit-related loss or other factors. If the decline in fair value is due to credit-related factors, a loss is recognized in net income, and if the decline in fair value is not due to credit-related factors, the loss is recorded in other comprehensive income (loss).
+
+Recently Issued Accounting Pronouncements
+
+In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. The new standard requires additional disclosure of the nature of expenses included in the income statement as well as disclosures about specific types of expenses included in the expense captions presented in the income statement. ASU 2024-03 is effective for annual periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. The Company is currently evaluating the impact of the ASU on its consolidated financial statements.
+
+7
+
+3. Marketable Securities and Fair Value of Financial Assets and Liabilities
+
+The following table summarizes the Company’s marketable securities (in thousands):
+
+June 30, 2026
+
+Amortized
+
+Cost
+
+Gross
+
+Unrealized
+
+Gains
+
+Gross
+
+Unrealized
+
+Losses
+
+Fair
+
+Value
+
+U.S. Treasury bills and notes (due within one year)
+
+$611,898
+
+$4
+
+$(774)
+
+$611,128
+
+December 31, 2025
+
+Amortized
+
+Cost
+
+Gross
+
+Unrealized
+
+Gains
+
+Gross
+
+Unrealized
+
+Losses
+
+Fair
+
+Value
+
+U.S. Treasury bills and notes (due within one year)
+
+$588,397
+
+$363
+
+$(7)
+
+$588,753
+
+As of June 30, 2026, the Company held 12 securities in an unrealized loss position. The aggregate fair value of the securities held by the Company in an unrealized loss position for less than twelve months as of June 30, 2026 was $551.3 million and there were no securities held by the Company in an unrealized loss position for more than twelve months. As of December 31, 2025, the Company held one security that was in an unrealized loss position. The aggregate fair value of securities held by the Company in an unrealized loss position for less than twelve months as of December 31, 2025 was $40.0 million and there were no securities held by the Company in an unrealized loss position for more than twelve months. The Company has the intent and ability to hold such securities until recovery. As a result, the Company did not record any charges for impairments for its marketable debt securities for the three and six months ended June 30, 2026 and for the year ended December 31, 2025.
+
+The following tables present the Company’s fair value hierarchy for its financial assets and liabilities, which are measured at fair value on a recurring basis (in thousands):
+
+Fair Value Measurements at June 30, 2026 Using:
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Cash equivalents:
+
+Money market funds
+
+$153,830
+
+$—
+
+$—
+
+$153,830
+
+Marketable securities:
+
+U.S. Treasury bills and notes
+
+$—
+
+$611,128
+
+$—
+
+$611,128
+
+Total assets
+
+$153,830
+
+$611,128
+
+$—
+
+$764,958
+
+Fair Value Measurements at December 31, 2025 Using:
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets:
+
+Cash equivalents:
+
+Money market funds
+
+$213,102
+
+$—
+
+$—
+
+$213,102
+
+Marketable securities:
+
+U.S. Treasury bills and notes
+
+$—
+
+$588,753
+
+$—
+
+$588,753
+
+Total assets
+
+$213,102
+
+$588,753
+
+$—
+
+$801,855
+
+Money market funds were valued using quoted prices in active markets, which represent a Level 1 measurement in the fair value hierarchy. U.S. Treasury bills and notes were valued by the Company using quoted prices in active markets for similar securities, which represent a Level 2 measurement within the fair value hierarchy.
+
+During the three and six months ended June 30, 2026 and 2025, there were no transfers between Level 1, Level 2 and Level 3.
+
+8
+
+4. Accrued Expenses and Other Current Liabilities
+
+Accrued expenses and other current liabilities consisted of the following (in thousands):
+
+June 30, 2026
+
+December 31, 2025
+
+Accrued employee compensation and benefits
+
+$
+
+12,502
+
+$
+
+15,740
+
+Accrued external research and development expense
+
+18,465
+
+20,052
+
+Accrued external manufacturing costs
+
+8,850
+
+3,805
+
+Accrued professional and consulting services
+
+9,184
+
+6,560
+
+Other
+
+1,318
+
+6,745
+
+Total
+
+$
+
+50,319
+
+$
+
+52,902
+
+5. Preferred Stock, Series A and Series B Non-Voting Convertible Preferred Stock and Common Stock
+
+The Company’s authorized capital stock consists of 300,000,000 shares of common stock, par value $0.001 per share, and 10,000,000 shares of preferred stock, par value $0.001 per share, 1,000,000 of which are designated as Series A Non-Voting Convertible Preferred Stock (“Series A Preferred Stock”), 20,580 of which are designated as Series B Non-Voting Convertible Preferred Stock (“Series B Preferred Stock”) and 8,979,420 of which shares of preferred stock are undesignated.
+
+Series A Non-Voting Convertible Preferred Stock
+
+On July 6, 2020, the Company filed a Certificate of Designation of Preferences, Rights and Limitations of the Series A Non-Voting Convertible Preferred Stock with the Secretary of State of the State of Delaware (the “Series A Certificate of Designation”) in connection with the Company’s acquisition of Kiq Bio LLC and concurrent private placement of Series A Preferred Stock. The Series A Certificate of Designation provides for the issuance of shares of Series A Preferred Stock, par value $0.001 per share.
+
+Holders of Series A Preferred Stock are entitled to receive dividends on shares of Series A Preferred Stock equal, on an as-if-converted-to-common-stock basis, and in the same form as dividends actually paid on shares of the common stock. Except as otherwise required by law, the Series A Preferred Stock does not have voting rights. However, as long as any shares of Series A Preferred Stock are outstanding, the Company will not, without the affirmative vote of the holders of a majority of the then outstanding shares of the Series A Preferred Stock, (i) alter or change adversely the powers, preferences or rights given to the Series A Preferred Stock, (ii) alter or amend the Series A Certificate of Designation, (iii) amend its certificate of incorporation or other charter documents in any manner that adversely affects any rights of the holders of Series A Preferred Stock, (iv) increase the number of authorized shares of Series A Preferred Stock, (v) at any time while at least 40% of the originally issued Series A Preferred Stock remains issued and outstanding, consummate a Fundamental Transaction (as defined in the Series A Certificate of Designation) or (vi) enter into any agreement with respect to any of the foregoing. The Series A Preferred Stock does not have a preference upon any liquidation, dissolution or winding-up of the Company.
+
+Each share of Series A Preferred Stock is convertible at any time at the option of the holder thereof, into 250 shares of common stock, subject to certain limitations, including that a holder of Series A Preferred Stock is prohibited from converting shares of Series A Preferred Stock into shares of common stock if, as a result of such conversion, such holder, together with its affiliates, would beneficially own more than a specified percentage (to be established by the holder between 4.9% and 19.9%) of the total number of shares of common stock issued and outstanding immediately after giving effect to such conversion.
+
+Series B Non-Voting Convertible Preferred Stock
+
+On February 14, 2024, the Company filed a Certificate of Designation of Preferences, Rights and Limitations of the Series B Non-Voting Convertible Preferred Stock with the Secretary of State of the State of Delaware (the “Series B Certificate of Designation”) in connection with the private placement of Series B Preferred Stock. The Series B Certificate of Designation provides for the issuance of shares of Series B Preferred Stock, par value $0.001 per share.
+
+9
+
+Holders of shares of Series B Preferred Stock are entitled to receive dividends on shares of Series B Preferred Stock equal to, on an as-if-converted-to-common stock basis, and in the same form as dividends actually paid on shares of the common stock. Except as otherwise required by law, the Series B Preferred Stock does not have voting rights. However, as long as any shares of Series B Preferred Stock are outstanding, the Company will not, without the affirmative vote of each of the holders of the then outstanding shares of the Series B Preferred Stock, (i) alter or change adversely the powers, preferences or rights given to the Series B Preferred Stock, (ii) alter or amend the Series B Certificate of Designation, or (iii) amend its certificate of incorporation or other charter documents in any manner that adversely affects any rights of the holders of Series B Preferred Stock. The Series B Preferred Stock does not have a preference upon any liquidation, dissolution or winding-up of the Company.
+
+On June 10, 2024, following approval by the stockholders of the Company of an increase in the number of authorized shares of common stock at the Company’s 2024 annual meeting of stockholders, each share of Series B Preferred Stock automatically converted into 1,000 shares of common stock, subject to certain limitations, including that a holder of Series B Preferred Stock was prohibited from converting shares of Series B Preferred Stock into shares of common stock if, as a result of such conversion, such holder, together with its affiliates, would have beneficially owned more than a specified percentage (established by the holder between 0% and 19.9%) of the total number of shares of common stock issued and outstanding immediately after giving effect to such conversion. Pursuant to the terms of the Series B Certificate of Designation, on June 10, 2024, 13,712 shares of Series B Preferred Stock automatically converted to 13,712,000 shares of common stock.
+
+Cumulatively, through June 30, 2026, 123,911 shares of Series A Preferred Stock, or 75.9% of the previously issued Series A Preferred Stock, have been converted into 30,977,750 shares of common stock. The 39,414 shares of Series A Preferred Stock outstanding as of June 30, 2026 are convertible into 9,853,500 shares of common stock. Cumulatively, through June 30, 2026, 16,064 shares of the Series B Preferred Stock, or 78.1% of the previously issued Series B Preferred Stock, have been converted into 16,064,000 shares of common stock. The 4,516 shares of Series B Preferred Stock outstanding as of June 30, 2026 are convertible into 4,516,000 shares of common stock.
+
+No other classes of preferred stock have been designated and no other preferred shares have been issued or are outstanding as of June 30, 2026.
+
+Common Stock
+
+Each share of common stock entitles the holder to one vote on all matters submitted to a vote of the Company’s stockholders. Common stockholders are not entitled to receive dividends, unless declared by the board of directors. In the event of the Company’s liquidation, dissolution or winding up, holders of the Company’s common stock will be entitled to share ratably in all assets remaining after payment of all debts and other liabilities and any liquidation preference of any outstanding preferred stock.
+
+On May 6, 2022, the Company entered into a Sales Agreement (the “Sales Agreement”) with Guggenheim Securities, LLC (“Guggenheim Securities”), pursuant to which the Company may issue and sell, from time to time, shares of its common stock having an aggregate offering price of up to $75.0 million through Guggenheim Securities, as the sales agent, in an at the market offering (“ATM”) registered under a shelf registration statement on Form S-3. On November 7, 2025, the Company amended the Sales Agreement to increase the aggregate offering price to up to $300.0 million. During the six months ended June 30, 2026,1,340,699 shares were sold under the Sales Agreement for net proceeds of approximately $45.7 million, after deducting issuance costs of $1.4 million. As of June 30, 2026, $88.6 million remained unsold and available for sale under the Sales Agreement. Subsequent to June 30, 2026, 1,743,528 shares of common stock were sold under the Sales Agreement for net proceeds of approximately $71.4 million, after deducting issuance costs of $2.2 million.
+
+The Company issued certain pre-funded warrants in 2022. Each pre-funded warrant entitled the holder to purchase shares of common stock at an exercise price of $0.01 per share and was exercisable at any time beginning on the date of issuance. In January 2026, the remaining 606,060 pre-funded warrants were exercised.
+
+10
+
+6. Stock-Based Compensation
+
+2018 Stock Option and Incentive Plan
+
+The Company’s 2018 Stock Option and Incentive Plan, (the “2018 Plan”), which became effective on March 27, 2018, provides for the grant of incentive stock options, nonqualified stock options, stock appreciation rights, restricted stock units, restricted stock awards, unrestricted stock awards, cash-based awards and dividend equivalent rights. The number of shares initially reserved for issuance under the 2018 Plan was 700,180. Additionally, the shares of common stock that remained available for issuance under the previously outstanding 2015 Stock Incentive Plan (the “2015 Plan”) became available under the 2018 Plan. The number of shares reserved for the 2018 Plan automatically increases on each January 1 by 4% of the number of shares of the Company’s common stock outstanding on the immediately preceding December 31 or a lesser number of shares determined by the Company’s board of directors. At the Company’s 2021 annual stockholder meeting, the Company’s stockholders approved the amendment and restatement of the 2018 Plan to increase the number of shares of common stock issuable under the 2018 Plan by 6,000,000 shares. At the Company’s 2023 annual stockholder meeting, the Company’s stockholders approved the amendment and restatement of the 2018 Plan to increase the number of shares of common stock issuable under the 2018 Plan by an additional 6,000,000 shares.
+
+The shares of common stock underlying any awards that are forfeited, canceled, held back upon exercise or settlement of an award to satisfy the exercise price or tax withholding, repurchased or are otherwise terminated by the Company under the 2018 Plan or the 2015 Plan will be added back to the shares of common stock available for issuance under the 2018 Plan.
+
+The number of authorized shares reserved for issuance under the 2018 Plan was increased by 6,439,201 shares effective as of January 1, 2026. As of June 30, 2026, 1,999,348 shares of common stock remain available for issuance under the 2018 Plan.
+
+Inducement Plan
+
+On October 22, 2020, the board of directors adopted the Cogent Biosciences, Inc. 2020 Inducement Plan (the “Inducement Plan”). A total of 3,750,000 shares of common stock were initially reserved for issuance under the Inducement Plan, and, as of June 30, 2026, an additional 2,800,000 shares of common stock have been reserved for issuance under the Inducement Plan. As of June 30, 2026, 1,016,303 shares of common stock remain available for issuance under the Inducement Plan.
+
+2018 Employee Stock Purchase Plan
+
+The Company’s 2018 Employee Stock Purchase Plan (the “ESPP”) became effective on March 28, 2018, at which time a total of 78,500 shares of common stock were reserved for issuance. The number of shares of common stock that may be issued under the ESPP automatically increases on each January 1 through January 1, 2027, by the least of (i) 125,000 shares of common stock, (ii) 1% of the number of shares of the Company’s common stock outstanding on the immediately preceding December 31 or (iii) such lesser number of shares as determined by the ESPP administrator. The number of authorized shares reserved for issuance under the ESPP was increased by 125,000 shares effective as of January 1, 2026. As of June 30, 2026, 254,605 shares remain available for issuance under the ESPP.
+
+Performance-based restricted stock units
+
+In 2023 and 2024, the Board of Directors approved grants to executives in aggregate of up to 2,714,000 performance-based restricted stock units (“PSUs”) under the 2018 Plan that were eligible to vest over a performance period ending in February 2026 (“2023 Executive PSUs”). An award holder could generally receive between 0% and 200% of the target award based on achievement of specified stock price hurdles and/or research and development milestones at any time during the performance period. Any 2023 Executive PSUs earned during the performance period would vest, if at all, in a single tranche in February 2026 subject to a condition of continuing employment through the end of the performance period. The fair value of the market-based awards was estimated on the date of grant for accounting purposes using a Monte Carlo simulation model. The fair value of the performance-based awards was based on the closing share price of the Company’s common stock on the accounting grant date. In December 2025, the Board of Directors determined that the 2023 Executive PSUs had been achieved at the maximum level and approved the acceleration of vesting of all such PSUs and the Company recognized the remaining expense of $1.1 million in the fourth quarter of 2025.
+
+11
+
+In October 2025, the Board of Directors approved grants to executives in aggregate of up to 3,650,000 PSUs under the 2018 Plan that were eligible to vest over a performance period ending in December 2028 (“2025 Executive PSUs”). An award holder could generally receive between 0% and 200% of the target award based on achievement of specified stock price hurdles or development and commercial milestones at any time during the performance period. Any 2025 Executive PSUs earned during the performance period will vest, if at all, in a single tranche in December 2028 subject to a condition of continuing employment through the end of the performance period. The fair value of the market-based awards was estimated on the date of grant for accounting purposes using a Monte Carlo simulation model. The fair value of the performance-based awards was based on the closing share price of the Company’s common stock on the accounting grant date. In the fourth quarter of 2025, the maximum number of awards was deemed earned as a result of the achievement of the maximum stock price target.
+
+During the year ended December 31, 2025, the Company granted 340,000 PSUs to certain non-executives (“Non-executive PSUs”) under the 2018 Plan. These awards were subject to the holders’ continuous service to the Company through the vesting event. In May 2026, the awards vested as a result of the achievement of performance milestones and the Company recognized the remaining expense of $0.8 million in the second quarter of 2026.
+
+Stock-Based Compensation
+
+The following table summarizes stock-based compensation expense during the three and six months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Stock-based compensation expense by type of award:
+
+Stock options
+
+$
+
+9,671
+
+$
+
+7,374
+
+$
+
+19,752
+
+$
+
+15,065
+
+Employee Stock Purchase Plan
+
+393
+
+149
+
+786
+
+298
+
+Restricted stock units
+
+3,010
+
+57
+
+5,507
+
+113
+
+Performance-based restricted stock units
+
+4,033
+
+2,136
+
+7,970
+
+4,248
+
+Total
+
+$
+
+17,107
+
+$
+
+9,716
+
+$
+
+34,015
+
+$
+
+19,724
+
+The Company recorded stock-based compensation expense in the following expense categories of its condensed consolidated statements of operations and comprehensive loss (in thousands):
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Research and development expenses
+
+$
+
+8,604
+
+$
+
+4,966
+
+$
+
+17,516
+
+$
+
+10,220
+
+General and administrative expenses
+
+8,503
+
+4,750
+
+16,499
+
+9,504
+
+Total
+
+$
+
+17,107
+
+$
+
+9,716
+
+$
+
+34,015
+
+$
+
+19,724
+
+As of June 30, 2026, total unrecognized compensation cost related to the unvested stock options and restricted stock units was $94.6 million and $44.0 million, respectively, which is expected to be recognized over a weighted average period of 2.4 years and 3.6 years, respectively.
+
+As of June 30, 2026, the total amount of unrecognized compensation cost related to unvested PSUs, all of which relate to the 2025 Executive PSUs, where the market or performance criteria have been achieved or are probable of achievement was $29.9 million, which is expected to be recognized over a weighted average period of 2.5 years.
+
+7. Commitments and Contingencies
+
+Operating Lease
+
+Corporate Headquarters - Waltham, MA
+
+On September 5, 2025, the Company and BP THIRD AVENUE LLC (“BP”) entered into a lease agreement (the “Waltham Lease”) pursuant to which the Company leases approximately 31,518 square feet of office space in Waltham, Massachusetts, which serves as its corporate headquarters and replaced its former headquarters in Waltham, Massachusetts.
+
+12
+
+The term of the Waltham Lease commenced in May 2026 (the “Commencement Date”). The Waltham Lease has a term of 7 years and 6 months from the Commencement Date, and the Company has an option to extend the term of the Waltham Lease for an additional five-year period. The Company's obligation to pay base rent begins 5 months after the Commencement Date at an initial rate of $32.00 per square foot. Rent will be payable in equal monthly installments and subject to annual increases of $1.00 per square foot over the term. Additionally, the Company is required to pay its share of operating expenses and property taxes as additional rent. The Company recorded the initial right-of-use asset and lease liabilities for the lease of $5.7 million as of the Commencement Date. In connection with the Waltham Lease, the Company deposited with BP a letter of credit in the amount of approximately $0.3 million as a security deposit which is recorded in Restricted Cash in the consolidated condensed balance sheets as of June 30, 2026 and December 31, 2025.
+
+License Agreements
+
+Plexxikon License Agreement
+
+In July 2020, the Company obtained an exclusive, sublicensable, worldwide license (the “License Agreement”) to certain patents and other intellectual property rights to research, develop and commercialize bezuclastinib. Under the terms of the License Agreement, the Company is required to pay Plexxikon Inc., a member of the Daiichi Sankyo Group (“Plexxikon”), aggregate payments of up to $7.5 million upon the satisfaction of certain clinical milestones and up to $25.0 million upon the satisfaction of certain regulatory milestones. During the second quarter of 2022, as a result of the progression of the PEAK study, the first clinical milestone was achieved, resulting in payment of $2.5 million to Plexxikon in June 2022. In the fourth quarter of 2025, $5.0 million became payable upon the achievement of certain regulatory milestones and was paid in the first quarter of 2026. An additional $15.0 million may become payable in the next twelve months as a result of the achievement of additional regulatory milestones.
+
+The Company is also required to pay Plexxikon tiered royalties ranging from a low-single digit percentage to a high-single digit percentage on annual net sales of products. These royalty obligations last on a product-by-product basis and country-by-country basis until the latest of (i) the date on which there is no valid claim of a licensed Plexxikon patent covering a subject product in such country or (ii) the 10th anniversary of the date of the first commercial sale of the product in such country. In addition, if the Company sublicenses the rights under the License Agreement, the Company is required to pay a certain percentage of the sublicense revenue to Plexxikon ranging from mid-double digit percentages to mid-single digit percentages, depending on whether the sublicense is entered into prior to or after certain clinical trial events.
+
+The License Agreement will expire on a country-by-country and licensed product-by-licensed product basis until the later of the last to expire of the patents covering such licensed products or services or the 10-year anniversary of the date of first commercial sale of the licensed product in such country. The Company may terminate the License Agreement within 30 days after written notice in the event of a material breach. The Company may also terminate the agreement upon written notice in the event of the Company’s bankruptcy, liquidation or insolvency. In addition, the Company has the right to terminate this agreement in its entirety at will upon 90 days’ advance written notice to Plexxikon.
+
+Indemnification Agreements
+
+In the ordinary course of business, the Company may provide indemnification of varying scope and terms to vendors, lessors, business partners and other parties with respect to certain matters including, but not limited to, losses arising out of breach of such agreements or from intellectual property infringement claims made by third parties. In addition, the Company has entered into indemnification agreements with members of its board of directors and its executive officers that will require the Company, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors or officers. The maximum potential amount of future payments the Company could be required to make under these indemnification agreements is, in many cases, unlimited. To date, the Company has not incurred any material costs as a result of such indemnifications. The Company is not aware of any claims under indemnification arrangements that will have a material effect on its financial position, results of operations or cash flows, and it has not accrued any liabilities related to such obligations in its condensed consolidated financial statements as of June 30, 2026 or its consolidated financial statements as of December 31, 2025.
+
+Legal Proceedings
+
+The Company is not currently party to any material legal proceedings. At each reporting date, the Company evaluates whether or not a potential loss amount or a potential range of loss is probable and reasonably estimable under the provisions of the authoritative guidance that addresses accounting for contingencies. The Company expenses as incurred the costs related to such legal proceedings.
+
+13
+
+8. Debt
+
+Convertible Senior Notes Due 2031
+
+On November 18, 2025, the Company completed a public offering of $230.0 million aggregate principal amount of its 1.625% Convertible Senior Notes due 2031 (the “Notes”), including the exercise in full of the underwriters’ over-allotment option to purchase up to an additional $30.0 million aggregate principal amount of the Notes. The Notes were issued pursuant to, and are governed by, an indenture (the “Base Indenture”), dated as of November 18, 2025, between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”), as supplemented by a first supplemental indenture, dated as of November 18, 2025 (the “First Supplemental Indenture”), and a second supplemental indenture, dated April 27, 2026 (the “Second Supplemental Indenture,” and the Base Indenture, as supplemented by the First Supplemental Indenture and the Second Supplemental Indenture, the “Indenture”), between the Company and the Trustee.
+
+The Notes are general, unsecured, senior obligations of the Company. The Notes accrue interest payable semiannually in arrears on May 15 and November 15 of each year, beginning on May 15, 2026, at a rate equal to 1.625% per year. In addition, special interest will accrue on the Notes upon the occurrence of certain events relating to the Company’s failure to file certain reports with the U.S. Securities and Exchange Commission as provided in the Indenture. The Notes will mature on November 15, 2031 (the “Maturity Date”), unless earlier converted, redeemed or repurchased by the Company.
+
+Noteholders may convert their Notes at their option only in the following circumstances: (i) during any calendar quarter (and only during such calendar quarter) commencing after the calendar quarter ending on March 31, 2026, if the last reported sale price per share of the Company’s common stock, exceeds 130% of the conversion price for each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter; (ii) during the five consecutive business days immediately after any 10 consecutive trading day period (such 10 consecutive trading day period, the “Measurement Period”) in which the trading price per $1,000 principal amount of Notes for each trading day of the Measurement Period was less than 98% of the product of the last reported sale price per share of the common stock on such trading day and the conversion rate on such trading day; (iii) upon the occurrence of certain corporate events or distributions on the common stock, as described in the Indenture; (iv) if the Company calls such Notes for redemption; and (v) at any time from, and including, August 15, 2031 until the close of business on the scheduled trading day immediately before the Maturity Date. The Company will settle conversions by paying or delivering, as applicable, cash, shares of common stock or a combination of cash and shares of common stock, at the Company’s election, based on the applicable conversion rate(s). The initial conversion rate is 22.2469 shares of common stock per $1,000 principal amount of Notes, which represents an initial conversion price of approximately $44.95 per share, and is subject to adjustment as described in the Indenture. If certain corporate events that constitute a “Make-Whole Fundamental Change” occur, then the Company will in certain circumstances increase the conversion rate for a specified period of time.
+
+The Notes will be redeemable, in whole or in part (subject to certain limitations described below), at the Company’s option at any time, and from time to time, on a redemption date on or after November 20, 2029 and on or before the 26th scheduled trading day immediately before the Maturity Date, at a cash redemption price equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the last reported sale price per share of the common stock exceeds 130% of the conversion price on (i) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends the related redemption notice; and (ii) the trading day immediately before the date the Company sends such notice. However, the Company may not redeem less than all of the outstanding Notes unless at least $75.0 million aggregate principal amount of Notes are outstanding and not called for redemption as of the time the Company sends the related redemption notice. In addition, calling any Note for redemption will constitute a “Make-Whole Fundamental Change” with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased in certain circumstances if it is converted after it is called for redemption.
+
+As of June 30, 2026, the Notes are classified as a long-term liability on the condensed consolidated balance sheets and presented net of unamortized issuance costs. The issuance costs are amortized to interest expense over the contractual term of the Notes. As of June 30, 2026, the effective interest rate of the Notes is2.2%.
+
+The outstanding balance of the Notes as of June 30, 2026 consisted of the following (in thousands):
+
+June 30, 2026
+
+Principal amount
+
+$
+
+230,000
+
+Unamortized debt discount and issuance costs
+
+(6,543
+
+)
+
+Long-term debt, net
+
+$
+
+223,457
+
+As of June 30, 2026, the estimated fair value of the Notes was approximately $281.3 million. The fair value was determined based on the quoted price of the Notes in an inactive market on the last trading day of the reporting period and has been classified as Level 2 in the fair value hierarchy.
+
+14
+
+Credit Facility
+
+On June 11, 2025 (the “Closing Date”), the Company entered into a loan and security agreement (the “Loan and Security Agreement”) as a borrower with its subsidiaries (each a “Guarantor,” collectively, the “Guarantors”), the lenders party thereto (the “Lenders”), and SLR Investment Corp., as the administrative agent and collateral agent for itself and the Lenders. The Loan and Security Agreement provides for a non-dilutive term loan facility (the “Credit Facility”) of up to an aggregate principal amount of $400.0 million, of which a first tranche of $50.0 million was fully funded on the Closing Date, with future tranches at the Company’s election subject to achievement of specified milestones. On November 18, 2025, using proceeds received from the issuance of the Notes described above, the Company prepaid in full all of its amounts outstanding with respect to the Credit Facility and repaid in full all obligations due.
+
+Interest expense consists of amortization of debt discount and issuance costs and contractual coupon interest expense. Interest expense related to the Notes for the three and six months ended June 30, 2026 was $1.2 million and $2.4 million, respectively. No interest expense related to the Notes was recorded for the three and six months ended June 30, 2025. No interest expense related to the Credit Facility was recorded for the three and six months ended June 30, 2026. Interest expense related to the Credit Facility for the three and six months ended June 30, 2025 was $0.3 million.
+
+9. Net Loss per Share
+
+The Company computes net loss per share of common stock, Series A Preferred Stock and Series B Preferred Stock using the two-class method required for multiple classes of common stock and other participating securities. The two-class method is an earnings (loss) allocation method that requires income (loss) available to common stockholders be allocated to all such classes of common stock and other participating securities in accordance with the contractual terms of each class of stock. The Company has determined that the Series A Preferred Stock and Series B Preferred Stock represent other classes of common stock for purposes of calculating net loss per share.
+
+Basic and diluted net loss per common share is computed by dividing the net loss by the weighted-average number of shares and pre-funded warrants outstanding during the period, without consideration of potential dilutive securities. The outstanding pre-funded warrants are included in the computation of basic net loss per common share as the exercise price is negligible and they are fully vested and exercisable. For periods in which the Company generated a net loss, the Company does not include potential shares of common stock in diluted net loss per share when the impact of these items is anti-dilutive. The Company has generated a net loss for all periods presented, therefore diluted net loss per share is the same as basic net loss per share since the inclusion of potential shares of common stock would be anti-dilutive.
+
+The following tables set forth the computation of basic and diluted net loss per share of common stock, Series A Preferred Stock, and Series B Preferred Stock (in thousands, except share and per share amounts):
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Series A Preferred Stock
+
+Series B Preferred Stock
+
+Common Stock
+
+Series A Preferred Stock
+
+Series B Preferred Stock
+
+Common Stock
+
+Numerator:
+
+Allocated net loss
+
+$(5,124)
+
+$(2,349)
+
+$(88,932)
+
+$(8,999)
+
+$(3,653)
+
+$(60,877)
+
+Denominator:
+
+Weighted average shares outstanding, basic and diluted
+
+39,414
+
+4,516
+
+171,005,468
+
+67,686
+
+6,868
+
+114,466,080
+
+Net loss per share, basic and diluted
+
+$(130.00)
+
+$(520.15)
+
+$(0.52)
+
+$(132.95)
+
+$(531.89)
+
+$(0.53)
+
+15
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Series A Preferred Stock
+
+Series B Preferred Stock
+
+Common Stock
+
+Series A Preferred Stock
+
+Series B Preferred Stock
+
+Common Stock
+
+Numerator:
+
+Allocated net loss
+
+$(14,005)
+
+$(4,743)
+
+$(175,009)
+
+$(17,834)
+
+$(7,227)
+
+$(120,454)
+
+Denominator:
+
+Weighted average shares outstanding, basic and diluted
+
+53,337
+
+4,516
+
+166,624,462
+
+67,788
+
+6,868
+
+114,463,810
+
+Net loss per share, basic and diluted
+
+$(262.58)
+
+$(1,050.27)
+
+$(1.05)
+
+$(263.08)
+
+$(1,052.27)
+
+$(1.05)
+
+The Company excluded the following potential common shares, presented based on amounts outstanding at each period end, from the computation of diluted net loss per share attributable to common stockholders for the periods indicated above because including them would have had an anti-dilutive effect:
+
+June 30,
+
+2026
+
+2025
+
+Stock options to purchase common stock
+
+27,111,643
+
+27,107,864
+
+Shares issuable upon conversion of convertible notes
+
+5,116,787
+
+—
+
+Performance-based restricted stock units subject to vesting
+
+3,650,000
+
+3,054,000
+
+Restricted stock units subject to vesting
+
+1,282,213
+
+80,000
+
+37,160,643
+
+30,241,864
+
+10. Retirement Plan
+
+The Company has a defined-contribution plan under Section 401(k) of the Internal Revenue Code (the “401(k) Plan”). The 401(k) Plan covers all employees who meet defined minimum age and service requirements and allows participants to defer a portion of their annual compensation on a pre-tax basis. The 401(k) Plan allows for discretionary matching contributions of 100% of the first 4% of elective contributions, which vest immediately. Contributions under the plan were $0.7 million and $0.4 million for the three months ended June 30, 2026 and 2025, respectively. Contributions under the plan were $1.7 million and $1.2 million for the six months ended June 30, 2026 and 2025, respectively.
+
+11. Segment Information
+
+The Company manages its operations as a single operating segment for the purposes of assessing performance and making operating decisions. The Company’s singular focus is the development and commercialization of precision therapies for genetically defined diseases. Cogent’s chief operating decision maker (“CODM”) is the Chief Executive Officer(“CEO”). The CODM manages and allocates resources to the operations of the Company on a total company basis and segment performance is evaluated based on consolidated net loss. The Company’s CEO uses consolidated financial information for purposes of evaluating performance, understanding future forecasted results and allocating resources. The measure of segment assets is reported on the balance sheet as total consolidated assets. All of the Company’s tangible assets are held in the United States.
+
+The accounting policies for each operating segment are consistent with the Company’s policies for the condensed consolidated financial statements.
+
+16
+
+The following table is a summary of segment information for the three and six months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Operating Expenses
+
+Late-stage development
+
+$
+
+25,593
+
+$
+
+27,115
+
+$
+
+53,695
+
+$
+
+55,212
+
+Early-stage, preclinical and discovery programs
+
+11,791
+
+10,039
+
+25,766
+
+19,817
+
+R&D personnel related
+
+17,600
+
+14,568
+
+35,647
+
+29,442
+
+Research and development software, facilities and other strategic support
+
+6,537
+
+4,907
+
+12,271
+
+9,332
+
+Other operational infrastructure and advisory support
+
+23,269
+
+8,582
+
+43,484
+
+15,693
+
+Stock-based compensation expense
+
+17,107
+
+9,716
+
+34,015
+
+19,724
+
+Depreciation expense
+
+741
+
+655
+
+1,367
+
+1,295
+
+Interest income
+
+(7,461
+
+)
+
+(2,373
+
+)
+
+(15,069
+
+)
+
+(5,325
+
+)
+
+Interest expense
+
+1,217
+
+314
+
+2,430
+
+314
+
+Other expense (income), net
+
+11
+
+6
+
+151
+
+11
+
+Segment net loss and consolidated net loss
+
+$
+
+96,405
+
+$
+
+73,529
+
+$
+
+193,757
+
+$
+
+145,515
+
+17

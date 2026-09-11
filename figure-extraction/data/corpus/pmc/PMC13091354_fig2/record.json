@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13091354_fig2",
+  "figure_type": "waterfall",
+  "title": "Kinase signaling in liver disease via clinical-trial-on-a-PamChip: A distinctive methodology for drug mechanisms and personalized medicine.",
+  "caption": "Upstream kinase assessments in hepatocellular carcinoma (HCC) tumors .  A , the waterfall plot of the PTK upstream kinase analysis (UKA) illustrates kinase activity in both male and female subjects, contrasting the HCC tumor with adjacent normal tissue for each sex, based on pooled, grouped lysates. The  blue arrow  indicates the position of ABL.  B , the waterfall plot of the STK UKA presents kinase activity in male and female subjects, comparing HCC tumor with adjacent normal tissue for each sex, utilizing pooled lysates that were analyzed in technical triplicate for group assessment, followed by individual analyses for validation. ABL, Abelson tyrosine kinase; PTK, phosphotyrosine kinase; STK, serine/threonine kinase.",
+  "context": "Upstream kinase assessments in hepatocellular carcinoma (HCC) tumors .  A , the waterfall plot of the PTK upstream kinase analysis (UKA) illustrates kinase activity in both male and female subjects, contrasting the HCC tumor with adjacent normal tissue for each sex, based on pooled, grouped lysates. The  blue arrow  indicates the position of ABL.  B , the waterfall plot of the STK UKA presents kinase activity in male and female subjects, comparing HCC tumor with adjacent normal tissue for each sex, utilizing pooled lysates that were analyzed in technical triplicate for group assessment, followed by individual analyses for validation. ABL, Abelson tyrosine kinase; PTK, phosphotyrosine kinase; STK, serine/threonine kinase.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091354/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-03-18",
+  "retrieved_at": "2026-09-07T12:58:29.133442+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13091354",
+    "pmid": "41856289",
+    "journal": "The Journal of biological chemistry",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "c6a42c4c85ca2cc1ce10f725f817b6e44363e44b58b4dd89ff830ea529e92ce5",
+  "image_file": "image.jpg"
+}

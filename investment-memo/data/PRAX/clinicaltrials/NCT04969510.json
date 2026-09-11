@@ -1,0 +1,55 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04969510",
+  "title": "A Clinical Trial of Adjunctive and Monotherapy PRAX-114 in Participants With Major Depressive Disorder",
+  "url": "https://clinicaltrials.gov/study/NCT04969510",
+  "published": "2021-07-20",
+  "retrieved_at": "2026-09-07T12:53:43.591747+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Major Depressive Disorder"
+    ],
+    "interventions": [
+      {
+        "name": "10 mg PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "20 mg PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "40 mg PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "60 mg PRAX-114",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 110,
+    "start_date": "2021-06-24",
+    "primary_completion_date": "2022-07-15",
+    "completion_date": "2022-08-02",
+    "first_posted_date": "2021-07-20",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline in HAM-D17 total score at Day 15",
+        "timeFrame": "15 days"
+      }
+    ]
+  },
+  "hash": "e69d26dac3d58ea559ec6d0aff5f95974389efaf33a6663a4d75d4f4e65d89b7"
+}

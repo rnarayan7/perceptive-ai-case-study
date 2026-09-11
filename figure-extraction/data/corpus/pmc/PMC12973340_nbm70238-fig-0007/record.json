@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12973340_nbm70238-fig-0007",
+  "figure_type": "spider",
+  "title": "Anomaly Detection for Structural and Functional Connectivity in Glioma Patients.",
+  "caption": "In general, the spider plot represents the percentage of patients with altered connectivity associated to each Cortical and Subcortical Network. Networks are grouped according to left and right hemisphere (left and right sides of the image). For each pair of spider plots displayed in the same row, values range is the same. As illustrated in the legend, SC ∩  FC + SC  in yellow, SC in green, and  FC + SC  in blue. (a) The percentage of patients with altered network overlapping with the tumor (T) is depicted. (b) The percentage of patients with altered network in overlap with the edema (O) is displayed. (c) The percentage of patients with altered network out of the lesion. VisCent = Visual Central network; VisPeri = Visual Peripheral network; SomMotA = Somatomotor‐A network; SomMotB = Somatomotor‐B network; DorsAttnA = Dorsal Attention‐A network; DorsAttnB = Dorsal Attention‐B network; SalVentAttnA = Salience/Ventral Attention‐A network; SalVentAttB = Salience/Ventral Attention‐B network; LimbicB = Limbic‐B network; LimbicA = Limbic‐A network; ControlA = Control‐A network; ControlB = Control‐B network; ControlC = Control‐C network; DefaultA = Default‐A network; DefaultB = Default‐B network; DefaultC = Default‐C network; TempPar = Temporal Parietal network; Subcort = Subcortical network.",
+  "context": "In general, the spider plot represents the percentage of patients with altered connectivity associated to each Cortical and Subcortical Network. Networks are grouped according to left and right hemisphere (left and right sides of the image). For each pair of spider plots displayed in the same row, values range is the same. As illustrated in the legend, SC ∩  FC + SC  in yellow, SC in green, and  FC + SC  in blue. (a) The percentage of patients with altered network overlapping with the tumor (T) is depicted. (b) The percentage of patients with altered network in overlap with the edema (O) is displayed. (c) The percentage of patients with altered network out of the lesion. VisCent = Visual Central network; VisPeri = Visual Peripheral network; SomMotA = Somatomotor‐A network; SomMotB = Somatomotor‐B network; DorsAttnA = Dorsal Attention‐A network; DorsAttnB = Dorsal Attention‐B network; SalVentAttnA = Salience/Ventral Attention‐A network; SalVentAttB = Salience/Ventral Attention‐B network; LimbicB = Limbic‐B network; LimbicA = Limbic‐A network; ControlA = Control‐A network; ControlB = Control‐B network; ControlC = Control‐C network; DefaultA = Default‐A network; DefaultB = Default‐B network; DefaultC = Default‐C network; TempPar = Temporal Parietal network; Subcort = Subcortical network. Analyzing a broader exchange between single and integrated modality anomalies from a network perspective, Figures 6 and 7 display FC, FC ∩ FC + SC , FC + SC , and SC, SC ∩ FC + SC changes within",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973340/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T13:14:06.755033+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12973340",
+    "pmid": "41804912",
+    "journal": "NMR in biomedicine",
+    "fig_label": "FIGURE 7"
+  },
+  "image_hash": "beba8b7cecccfbcd739d3691e7ce566a149c90eb6aa3c1efe3ca5337e2d59fd7",
+  "image_file": "image.jpg"
+}

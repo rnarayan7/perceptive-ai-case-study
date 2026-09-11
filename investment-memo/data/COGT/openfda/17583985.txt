@@ -1,0 +1,4 @@
+FAERS adverse-event report 17583985 (comparator: avapritinib)
+Serious: yes
+Reactions: Acute kidney injury
+Reported drugs: AYVAKIT

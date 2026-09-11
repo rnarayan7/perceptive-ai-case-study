@@ -1,0 +1,28 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "11258735",
+  "title": "FAERS report 11258735: Abdominal discomfort, Blood albumin decreased, Hyperlipasaemia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:11258735",
+  "published": "2015-07-09",
+  "retrieved_at": "2026-09-08T08:41:01.867636+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Abdominal discomfort",
+      "Blood albumin decreased",
+      "Hyperlipasaemia",
+      "Amylase increased",
+      "Blood sodium decreased",
+      "Bilirubin conjugated increased",
+      "Blood bilirubin increased"
+    ],
+    "drugs": [
+      "MIDOSTAURIN"
+    ],
+    "occurcountry": null
+  },
+  "hash": "944bb44c7a76d41d992e98f7af0b3f95afc7ead57ef371cf8157fb4bc9bb4b38"
+}

@@ -1,0 +1,53 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22828826",
+  "title": "FAERS report 22828826: Tension headache, Musculoskeletal stiffness, Chills",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22828826",
+  "published": "2024-08-27",
+  "retrieved_at": "2026-09-08T08:40:52.402133+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Tension headache",
+      "Musculoskeletal stiffness",
+      "Chills",
+      "Pyrexia",
+      "Malaise",
+      "Feeling abnormal",
+      "Myasthenia gravis",
+      "Sinus tachycardia",
+      "Diarrhoea",
+      "Poor quality sleep",
+      "Nervousness",
+      "Anxiety",
+      "White blood cell count increased",
+      "Hyperhidrosis",
+      "Dry skin",
+      "SARS-CoV-2 test negative",
+      "Dysphagia",
+      "Musculoskeletal discomfort",
+      "Fatigue",
+      "Eyelid ptosis",
+      "Dysarthria",
+      "Diplopia",
+      "Inappropriate schedule of product administration"
+    ],
+    "drugs": [
+      "CETIRIZINE HYDROCHLORIDE",
+      "RYSTIGGO",
+      "RYSTIGGO",
+      "RYSTIGGO",
+      "AMLODIPINE + ATORVASTATIN",
+      "LOSARTAN",
+      "METHYLPHENIDATE",
+      "EPINEPHRINE",
+      "BANOPHEN",
+      "PREDNISONE"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "e9b381507552147586735230fc9d9a69d4a1cefd01124d0ff38e2adfd285f09a"
+}

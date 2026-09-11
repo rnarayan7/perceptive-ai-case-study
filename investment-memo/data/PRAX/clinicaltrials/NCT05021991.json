@@ -1,0 +1,51 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05021991",
+  "title": "A Clinical Trial of 2 Doses of PRAX-944 in Participants With Essential Tremor",
+  "url": "https://clinicaltrials.gov/study/NCT05021991",
+  "published": "2021-08-26",
+  "retrieved_at": "2026-09-07T12:53:43.592723+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Essential Tremor"
+    ],
+    "interventions": [
+      {
+        "name": "100 mg PRAX-944",
+        "type": "DRUG"
+      },
+      {
+        "name": "60 mg PRAX-944",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      },
+      {
+        "name": "Flexibly dosed 20 mg to 100 mg PRAX-944",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 133,
+    "start_date": "2021-10-14",
+    "primary_completion_date": "2023-02-09",
+    "completion_date": "2024-02-29",
+    "first_posted_date": "2021-08-26",
+    "primary_outcomes": [
+      {
+        "measure": "Change from baseline to Day 56 on the modified ADL",
+        "timeFrame": "56 days"
+      }
+    ]
+  },
+  "hash": "b3d894c7f0fc416fec0886e5738114602d982f9f37651c8e6c2972aa9304b881"
+}

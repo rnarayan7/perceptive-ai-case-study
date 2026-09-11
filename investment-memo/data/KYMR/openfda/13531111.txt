@@ -1,0 +1,4 @@
+FAERS adverse-event report 13531111 (comparator: dupilumab)
+Serious: no
+Reactions: Headache
+Reported drugs: DUPIXENT

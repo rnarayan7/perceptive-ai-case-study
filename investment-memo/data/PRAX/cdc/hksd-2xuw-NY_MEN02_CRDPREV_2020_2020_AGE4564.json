@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NY_MEN02_CRDPREV_2020_2020_AGE4564",
+  "title": "Mental Health - New York - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784418+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "New York",
+    "location_abbr": "NY",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "15.3",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "bd7fc556a3f73177a7e00a5f63c7c1e250a4d0f08bce8d3b2d1a1a91a5384e8f"
+}

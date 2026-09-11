@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OH_AST02_CRDPREV_2020_2020_WHT",
+  "title": "Asthma - Ohio - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573725+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Ohio",
+    "location_abbr": "OH",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "10.4",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "White, non-Hispanic"
+  },
+  "hash": "5f0ad0fe25d4560a95e87a2a226f3e826ae545b5f4361cf4a7c96c00bb319378"
+}

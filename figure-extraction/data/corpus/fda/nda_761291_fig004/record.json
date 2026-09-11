@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig004",
+  "figure_type": "unknown",
+  "title": "nda_761291 figure 4",
+  "caption": "",
+  "context": "\f\n\f\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.843004+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "c68846f6995956ffd88f178f98e158848312db5e2d96d06b153f4297c6c31f0d",
+  "image_file": "image.png"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13040208_fig2",
+  "figure_type": "spider",
+  "title": "Pembrolizumab and Paclitaxel in Patients with HR+/HER2- Breast Cancer with HER2-Enriched or Basal-like Subtypes.",
+  "caption": "Efficacy outcomes in the SOLTI-1716 TATEN trial.  A,  Waterfall plot showing the maximum percentage change in the sum of target lesion diameters from baseline among the 18 evaluable patients. Each bar represents one patient and is color-coded according to RECIST 1.1 best response (complete response, PR, SD, or progressive disease).  B,  Spider plot illustrating the longitudinal change in target lesion size over time for each evaluable patient. Line colors indicate no clinical benefit (red), clinical benefit at 6 months (light blue), or at 12 months (dark blue).  C,  Swimmer plot showing PFS for all 20 patients in the ITT population. Each horizontal bar represents one patient. Pink segments correspond to combination therapy (pembrolizumab + paclitaxel), blue segments to pembrolizumab maintenance, and gray segments to follow-up without active treatment. Squares on the left denote each patient’s ER expression, PD-L1 CPS score, and TIL percentage.",
+  "context": "Efficacy outcomes in the SOLTI-1716 TATEN trial.  A,  Waterfall plot showing the maximum percentage change in the sum of target lesion diameters from baseline among the 18 evaluable patients. Each bar represents one patient and is color-coded according to RECIST 1.1 best response (complete response, PR, SD, or progressive disease).  B,  Spider plot illustrating the longitudinal change in target lesion size over time for each evaluable patient. Line colors indicate no clinical benefit (red), clinical benefit at 6 months (light blue), or at 12 months (dark blue).  C,  Swimmer plot showing PFS for all 20 patients in the ITT population. Each horizontal bar represents one patient. Pink segments correspond to combination therapy (pembrolizumab + paclitaxel), blue segments to pembrolizumab maintenance, and gray segments to follow-up without active treatment. Squares on the left denote each patient’s ER expression, PD-L1 CPS score, and TIL percentage.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040208/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T13:15:53.545663+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13040208",
+    "pmid": "41569440",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "9635d70d2da11f44a405ba1fc736c18c85f2e35e788d55dedabf71bd1d840e2c",
+  "image_file": "image.jpg"
+}

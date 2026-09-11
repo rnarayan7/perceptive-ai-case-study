@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380046_fig2",
+  "figure_type": "spider",
+  "title": "Phase II study of trastuzumab-pkrb plus gedatolisib in patients with HER2-positive metastatic breast cancer who progressed after two or more HER2-directed therapies.",
+  "caption": "Efficacy analysis for the KM-10A study.  (A) Waterfall plot depicting the best change in target lesion size from baseline and phosphatidylinositol 3-kinase pathway aberration status ( n  = 43). (B) Spider plot of change in tumor burden for the target lesion over time according to patient response ( n  = 43). (C) Swimmer’s plot presenting the duration of response. (D, E) Kaplan–Meier graphs for PFS and for OS, respectively. CR, complete response; OS, overall survival; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease.",
+  "context": "Efficacy analysis for the KM-10A study.  (A) Waterfall plot depicting the best change in target lesion size from baseline and phosphatidylinositol 3-kinase pathway aberration status ( n  = 43). (B) Spider plot of change in tumor burden for the target lesion over time according to patient response ( n  = 43). (C) Swimmer’s plot presenting the duration of response. (D, E) Kaplan–Meier graphs for PFS and for OS, respectively. CR, complete response; OS, overall survival; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease. Efficacy analysis Among the 44 patients in the intention-to-treat population, two achieved CR and 17 achieved PR, resulting in an ORR of 43.2% [95% confidence interval (CI) 28.3%-59.0%; Figure 2 A]; in the evaluable population, the ORR was 44.2% (95% CI 29.1%-60.1%). According to RECIST v1.1, five patients were classified as having progressive disease (PD) due to the appearance of new lesions (three in the liver and two in the brain) despite shrinkage of target lesions, and four patients were classified as having PD due to unequivocal progression of nontarget lesions, consistent with RECIST v1.1 criteria ( Figure 2 B). The median duration of response was 4.7 months (95% CI 3.98-7.42), as illustrated in the swimmer plot ( Figure 2 C). The median PFS was 6.01 months (95% CI 5.03-7.69), with a 6- and 12-month PFS rate of 50.3% and 7.6%, respectively ( Figure 2 D). The median OS was 24.74 months (95% CI 17.28-NA), and t",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380046/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-08",
+  "retrieved_at": "2026-09-07T13:15:09.209627+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "4.7",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "RECIST v1.1 criteria ( Figure 2 B). The median duration of response was 4.7 months (95% CI 3.98-7.42), as illustrated in t",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13380046",
+    "pmid": "42419085",
+    "journal": "ESMO open",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "c00c528ca241bc7a137f8237780e9edb00112dec9a43acb1a85d90481398223a",
+  "image_file": "image.jpg"
+}

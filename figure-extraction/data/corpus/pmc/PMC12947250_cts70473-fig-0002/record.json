@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12947250_cts70473-fig-0002",
+  "figure_type": "pk_logscale",
+  "title": "QX008N, an Anti-TSLP Monoclonal Antibody: Pharmacokinetics, Tolerability, and Immunogenicity in Healthy Chinese Subjects.",
+  "caption": "Mean plasma concentration‐time profiles of QX008N following single‐dose administration. (A) Linear‐scale profile. (B) Semi‐logarithmic‐scale profile. For both panels, the main graph depicts the complete pharmacokinetic profile from 0 to 127 days (3048 h). The inset in each panel provides a detailed view of the absorption and early distribution phases from 0 to 72 h. The dashed horizontal line in each panel represents the lower limit of quantification (LLOQ) of the bioanalytical assay (0.08 μg/mL). Data are presented as mean ± SD (error bars may be smaller than the symbol size at later time points). SC, subcutaneous; IV, intravenous.",
+  "context": "Mean plasma concentration‐time profiles of QX008N following single‐dose administration. (A) Linear‐scale profile. (B) Semi‐logarithmic‐scale profile. For both panels, the main graph depicts the complete pharmacokinetic profile from 0 to 127 days (3048 h). The inset in each panel provides a detailed view of the absorption and early distribution phases from 0 to 72 h. The dashed horizontal line in each panel represents the lower limit of quantification (LLOQ) of the bioanalytical assay (0.08 μg/mL). Data are presented as mean ± SD (error bars may be smaller than the symbol size at later time points). SC, subcutaneous; IV, intravenous. Pharmacokinetics After a single subcutaneous injection of 280 mg, 560 mg, and intravenous infusion of 560 mg QX008N, mean plasma concentration‐time profiles of QX008N following single‐dose administration are shown in Figure 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947250/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-03-01",
+  "retrieved_at": "2026-09-07T13:12:11.236656+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12947250",
+    "pmid": "41757744",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "b8a59f1251f738cdc2e8106c049776ac7174d2760eafc2db3a73acfafa42aa4f",
+  "image_file": "image.jpg"
+}

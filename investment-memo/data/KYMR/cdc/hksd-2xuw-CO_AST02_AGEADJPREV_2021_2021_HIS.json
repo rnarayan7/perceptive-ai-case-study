@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CO_AST02_AGEADJPREV_2021_2021_HIS",
+  "title": "Asthma - Colorado - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.574110+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Colorado",
+    "location_abbr": "CO",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "10.2",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "5483296024e23db5735b53f8397aeb5445a85dce81dace5d468a28dca3cffe05"
+}

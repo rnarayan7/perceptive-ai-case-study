@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "01997826-7ca1-473e-bfc9-075b14b58a35",
+  "title": "Label: CIMETIDINE",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=01997826-7ca1-473e-bfc9-075b14b58a35",
+  "published": "2023-08-18",
+  "retrieved_at": "2026-09-08T08:41:09.579101+00:00",
+  "metadata": {
+    "brand_name": "CIMETIDINE",
+    "generic_name": "CIMETIDINE",
+    "manufacturer": "Chartwell RX, LLC",
+    "manufacturer_name": "Chartwell RX, LLC",
+    "pharm_class_epc": "Histamine-2 Receptor Antagonist [EPC]",
+    "pharm_class_moa": "Histamine H2 Receptor Antagonists [MoA]",
+    "application_number": "ANDA074329",
+    "route": "ORAL"
+  },
+  "hash": "12b3e58686216b6e88c1552f33a8022fc6cd73fa7c77ce1237b42e4fe3cec21b"
+}

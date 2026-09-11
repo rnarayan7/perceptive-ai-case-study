@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig050",
+  "figure_type": "pk_logscale",
+  "title": "nda_761291 figure 50",
+  "caption": "",
+  "context": "\f\n                 NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n                 teclistamab\n\n                 expression in the developing fetus could trigger inflammatory effects.\n\n                 The approval of BLA 761291 does not rely on product-specific published literature.\n\n                            5.5.5. Other Toxicology Studies\n\n                 The Applicant’s Position:\n                 In the in vitro tissue cross reactivity studies (non-GLP: monkey and human; GLP: human),\n                 teclistamab staining of mononuclear cells occurred very rarely to occasionally in most tissues.\n                 Teclistamab was compatible with human blood and serum at concentrations up to 10 mg/mL. In\n                 addition, in an in vitro assay using whole human blood, the cytokine release profile demonstrated\n                 teclistamab induced statistically significant but low-level release of IL-8, IFN-α, and TNF-α at\n                 concentrations ≥82 ng/mL compared with negative control.\n\n                 The FDA’s Assessment:\n                 We agree with the Applicant’s assessment of the GLP human tissue cross reactivity study,\n                 hemolytic potential and serum compatibility studies, and in vitro cytokine release assay.\n\n                 In the tissue cross-reactivity study, teclistamab stained mononuclear leukocytes in the peripheral\n                 blood smears, lymphoid tissues, and select non-lymphoid tissues (ovary, prostate, and skin).\n                 Teclistamab is expected to bind mononuclear leukocytes; no unanticipated cross-reactivity was\n                 observed.\n\n                 The in vitro cytokine release assay was conducted in the soluble format only. In addition to\n                 statistically significant increases in IL-8, IFN-γ, and TNF-α, lower level increases in IL-2 and IL-1β\n                 were observed. EC50 values were not provided for any cytokine.\n\n\n             X          X\n\n\n\n                 Michael Manning, PhD                            Brenda Gehrke, PhD\n                 Primary Reviewer                                Supervisor\n\n\n\n\n                 Version date: January 2020 (ALL NDA/ BLA reviews)                                                              46\n\n                 Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n                 Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.845731+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "2b54c5c2bb3c2cc28279c07d243ebf2427ea759b2fcb868f06e6e9e89e05516c",
+  "image_file": "image.png"
+}

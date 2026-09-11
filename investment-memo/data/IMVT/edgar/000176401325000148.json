@@ -1,0 +1,23 @@
+{
+  "company": "IMVT",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000176401325000148",
+  "title": "Immunovant, Inc. 8-K (2025-11-10)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401325000148/0001764013-25-000148-index.htm",
+  "published": "2025-11-10",
+  "retrieved_at": "2026-09-07T12:53:42.848464+00:00",
+  "metadata": {
+    "accession": "0001764013-25-000148",
+    "cik": 1764013,
+    "form": "8-K",
+    "primary_document": "imvt-20251110.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2025-11-10",
+    "filing_date": "2025-11-10",
+    "items": "2.02,9.01",
+    "company_title": "Immunovant, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401325000148/imvt-20251110.htm"
+  },
+  "hash": "7b9b2f6f732525acf515629206c4b9b9470d15f2438df1a941f918efa66cbdc5"
+}

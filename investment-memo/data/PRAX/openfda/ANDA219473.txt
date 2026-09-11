@@ -1,0 +1,8 @@
+Drugs@FDA application ANDA219473: CENOBAMATE
+Sponsor: AUROBINDO PHARMA LIMITED
+Active ingredient(s): CENOBAMATE
+Brand name(s): CENOBAMATE
+Application type: ANDA (generic)
+Review priority: STANDARD
+Marketing status: None (Tentative Approval)
+Submissions on record: 1

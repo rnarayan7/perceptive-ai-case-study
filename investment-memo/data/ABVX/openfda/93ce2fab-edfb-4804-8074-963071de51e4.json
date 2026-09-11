@@ -1,0 +1,21 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "93ce2fab-edfb-4804-8074-963071de51e4",
+  "title": "Label: ZEPOSIA 7-Day Starter Pack (OZANIMOD HYDROCHLORIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=93ce2fab-edfb-4804-8074-963071de51e4",
+  "published": "2026-04-16",
+  "retrieved_at": "2026-09-08T08:39:58.116705+00:00",
+  "metadata": {
+    "brand_name": "ZEPOSIA 7-Day Starter Pack",
+    "generic_name": "OZANIMOD HYDROCHLORIDE",
+    "manufacturer": "Celgene Corporation",
+    "manufacturer_name": "Celgene Corporation",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "NDA209899",
+    "route": "ORAL"
+  },
+  "hash": "f1c3a0c6c497b9ef7e913fdcd621553f7d3309ae94da37ea4e2d45217a8a124f"
+}

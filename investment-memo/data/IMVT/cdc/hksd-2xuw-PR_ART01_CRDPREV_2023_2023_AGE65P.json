@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-PR_ART01_CRDPREV_2023_2023_AGE65P",
+  "title": "Arthritis - Puerto Rico - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203811+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Puerto Rico",
+    "location_abbr": "PR",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "52.3",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "ff00b3744f46e2e2e2169d34c9da6389814d07871a9c818b7e68302f54ff399d"
+}

@@ -1,0 +1,24 @@
+Title: CGT9486 (Formerly Known as PLX9486) as a Single Agent and in Combination With PLX3397 (Pexidartinib) or Sunitinib in Participants With Advanced Solid Tumors
+Status: COMPLETED
+Phase: PHASE1, PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Gastrointestinal Stromal Tumors
+Interventions: CGT9486 (DRUG), Pexidartinib (DRUG), Sunitinib (DRUG)
+Enrollment: 51
+
+Summary: The goal of this clinical research study is to learn how CGT9486 (fka PLX9486) may affect cancer cells with certain mutations in the KIT gene, specifically in participants with types of advanced solid tumors including gastrointestinal stromal tumor (GIST).
+
+CGT9486 (fka PLX9486) is designed to block KIT gene mutations. These mutations can cause cancer and cancer cell growth. By blocking these mutations, the drug may kill the cancer cells with the mutation and/or stop the tumor from growing. By combining CGT9486 (fka PLX9486) with PLX3397 and CGT9486 (fka PLX9486) with sunitinib, the investigators hope to block most KIT gene mutations that drive cancer growth.
+
+Primary outcomes:
+- Part 1: Recommended Phase 2 Dose (RP2D) of CGT9486 (time frame: Cycle 1 of Part 1 (Cycle length = 28 days))
+- Part 1: Number of Participants With Treatment Emergent Adverse Events (TEAEs) (time frame: From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 670 days))
+- Part 1: Area Under The Concentration Time Curve From Time Zero to 24 Hours After Dosing (AUC0-24) of CGT9486 (time frame: Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15)
+- Part 1: Maximum Observed Plasma Concentration (Cmax) of CGT9486 (time frame: Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 and Cycle 1 Day 15)
+- Part 1: Time to Reach Cmax (Tmax) of CGT9486 (time frame: Predose, 1, 3, 5, 7, 9, and 24 hours postdose at Cycle 1 Day 1 (Day -10 for 350 mg QD cohort) and Cycle 1 Day 15)
+- Part 1: Half Life (T1/2) of PLX9486 (time frame: Predose, 0.5, 1, 2, 4, 9, 24, 49, 72, 96, 120, 144, 168, 192, 216 hours postdose on Day -10)
+- Part 2e: RP2D of CGT9486 in Combination With Sunitinib (time frame: Cycle 1 of Part 2e (Cycle length = 28 days))
+- Part 2b: RP2D of PLX9486 in Combination With Pexidartinib (time frame: Cycle 1 of Part 2 b (Cycle length = 28 days))
+- Part 2b: Number of Participants With Any TEAEs and Treatment-Related TEAEs (time frame: From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 868 days))
+- Part 2e: Number of Participants With Any TEAEs and Treatment-Related TEAEs (time frame: From the date of first dose of study drug up to 30 days after last dose of study drug (maximum exposure: 825 days))

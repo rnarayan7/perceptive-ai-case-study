@@ -1,0 +1,4 @@
+FAERS adverse-event report 13961694 (comparator: upadacitinib)
+Serious: no
+Reactions: Intentional product use issue, Intervertebral disc protrusion, Disease recurrence, Peroneal nerve palsy, Influenza, Ear infection, Herpes zoster, Fatigue
+Reported drugs: XELJANZ, XELJANZ, XELJANZ, XELJANZ, XELJANZ, XELJANZ, XELJANZ, RINVOQ

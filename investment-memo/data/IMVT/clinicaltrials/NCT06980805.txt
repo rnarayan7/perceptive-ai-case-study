@@ -1,0 +1,21 @@
+Title: A Study to Assess the Safety, Tolerability, and Efficacy of IMVT-1402 in Participants With Cutaneous Lupus Erythematosus (CLE)
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Subacute Cutaneous Lupus Erythematosus, Chronic Cutaneous Lupus Erythematosus
+Interventions: IMVT-1402 (DRUG), Placebo (DRUG)
+Enrollment: 56
+
+Summary: The primary purpose of this study is to evaluate the efficacy, safety, and tolerability of IMVT-1402 in participants with Cutaneous Lupus Erythematosus.
+
+The study will consist of 3 periods:
+
+Period 1: eligible participants will be randomized 1:1 to IMVT-1402 Dose 1 or placebo SC QW for 12 weeks.
+
+Period 2: participants who completed Period 1 will receive IMVT-1402 Dose 1 SC QW for 14 weeks.
+
+Period 3: after completion of Period 2, participants will be re-randomized 1:1 to blinded IMVT-1402 Dose 1 or Dose 2 SC QW for 26 weeks.
+
+Primary outcomes:
+- Percent change from Period 1 Baseline in Cutaneous Lupus Erythematosus Disease area and Severity Index activity (CLASI-A) score at Week 12 (time frame: Baseline (Day 1) and Week 12)

@@ -1,0 +1,4 @@
+FAERS adverse-event report 10205058 (comparator: vedolizumab)
+Serious: yes
+Reactions: Basal cell carcinoma, Nausea, Dysuria, Vomiting
+Reported drugs: PROBIOTIC, VEDOLIZUMAB, IMODIUM, VEDOLIZUMAB, LACTAID, VITAMIN D                          /00107901/, MULTIVITAMIN                       /01229101/, TYLENOL, LACTAID

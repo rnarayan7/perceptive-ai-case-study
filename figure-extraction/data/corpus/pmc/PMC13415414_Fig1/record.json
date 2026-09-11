@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13415414_Fig1",
+  "figure_type": "kaplan_meier",
+  "title": "Real-world efficacy and safety of CDK4/6 inhibitors plus endocrine therapy in HR+/HER2 - metastatic breast cancer: a single-institution experience.",
+  "caption": "Kaplan–Meier estimates of progression-free survival in the overall study population",
+  "context": "Kaplan–Meier estimates of progression-free survival in the overall study population",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13415414/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-28",
+  "retrieved_at": "2026-09-07T12:52:11.124291+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13415414",
+    "pmid": "42521925",
+    "journal": "Journal of the Egyptian National Cancer Institute",
+    "fig_label": "Fig. 1"
+  },
+  "image_hash": "8df0e3774ff35d6004ce3a4987c5f5579077f2ef0450c1bfb5dc5365ac3ba135",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-ND_MEN02_CRDPREV_2020_2020_AGE65P",
+  "title": "Mental Health - North Dakota - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784803+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "North Dakota",
+    "location_abbr": "ND",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "10.4",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "8d19cb303c571b7b05207b4d658976c19ba9b56e145d086da3f3efebae86df77"
+}

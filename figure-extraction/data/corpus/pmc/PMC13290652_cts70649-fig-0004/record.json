@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13290652_cts70649-fig-0004",
+  "figure_type": "pk_logscale",
+  "title": "Model-Informed Development of a Subcutaneous Formulation of Tislelizumab: Phase 1 Pharmacokinetics in Patients With Cancer.",
+  "caption": "Simulated pharmacokinetic profiles of tislelizumab subcutaneous administration in Cycle 1 and steady state, overlaid with intravenous 200 mg Q3W. Solid lines are the medians of geometric means for each simulated dose; shaded areas are the 5th and 95th percentiles of geometric means for each simulated dose. IV, intravenous; PI, predicted interval; Q3W, every 3 weeks; SC, subcutaneous.",
+  "context": "Simulated pharmacokinetic profiles of tislelizumab subcutaneous administration in Cycle 1 and steady state, overlaid with intravenous 200 mg Q3W. Solid lines are the medians of geometric means for each simulated dose; shaded areas are the 5th and 95th percentiles of geometric means for each simulated dose. IV, intravenous; PI, predicted interval; Q3W, every 3 weeks; SC, subcutaneous. Simulated pharmacokinetic profiles showed that the subcutaneous 300 mg Q3W regimen administered in the thigh produced exposures comparable to those achieved with the corresponding intravenous 200 mg Q3W regimen, whereas abdominal administration demonstrated greater variability, particularly during Cycle 1 (Table 2 , Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290652/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:10:54.244317+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13290652",
+    "pmid": "42337921",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 4"
+  },
+  "image_hash": "8ac327c0a1375a57db7dd550eda911a564aef67f53b64d8f131ff5e2fea5df19",
+  "image_file": "image.jpg"
+}

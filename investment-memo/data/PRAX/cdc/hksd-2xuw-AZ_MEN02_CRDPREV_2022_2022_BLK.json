@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AZ_MEN02_CRDPREV_2022_2022_BLK",
+  "title": "Mental Health - Arizona - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785588+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Arizona",
+    "location_abbr": "AZ",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "17.6",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Black, non-Hispanic"
+  },
+  "hash": "8e1345ca4aa9fa95e35c1abdb7280c080a147580e752dc1d26ea14e0d80f89d4"
+}

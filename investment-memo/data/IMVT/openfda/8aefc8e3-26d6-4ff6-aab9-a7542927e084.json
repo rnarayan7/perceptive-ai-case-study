@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "8aefc8e3-26d6-4ff6-aab9-a7542927e084",
+  "title": "Label: VYVGART (EFGARTIGIMOD ALFA)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=8aefc8e3-26d6-4ff6-aab9-a7542927e084",
+  "published": "2026-05-13",
+  "retrieved_at": "2026-09-08T08:40:45.477594+00:00",
+  "metadata": {
+    "brand_name": "VYVGART",
+    "generic_name": "EFGARTIGIMOD ALFA",
+    "manufacturer": "argenx US",
+    "manufacturer_name": "argenx US",
+    "pharm_class_epc": "Neonatal Fc Receptor Blocker [EPC]",
+    "pharm_class_moa": "Neonatal Fc Receptor Blockers [MoA]",
+    "application_number": "BLA761195",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "b9f3b45195b995528cd577fcc0f165b3846e0ed31fbcc1b1f16dae9aaa246329"
+}

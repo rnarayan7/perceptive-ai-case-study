@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AZ_MEN02_CRDPREV_2020_2020_SEXM",
+  "title": "Mental Health - Arizona - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785099+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Arizona",
+    "location_abbr": "AZ",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "13.1",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "bc9ae6dba6165c88d798e96bf011111b0f46579046c8cb0bc82832b6ce4942f4"
+}

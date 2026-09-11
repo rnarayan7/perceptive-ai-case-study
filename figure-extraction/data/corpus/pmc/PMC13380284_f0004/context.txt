@@ -1,0 +1,1 @@
+Kaplan–Meier curves for progression free survival (PFS) according to albumin bilirubin (ALBI) grade. Worsening ALBI grade was associated with shorter progression-free survival. Detailed survival data are provided in  Table 3 . Kaplan–Meier curves for mGPS, PI, PNI, and ALBI grade are shown in Figures 1–4 .

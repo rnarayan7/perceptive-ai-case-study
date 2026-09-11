@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-FL_AST02_CRDPREV_2019_2019_AGE4564",
+  "title": "Asthma - Florida - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T10:06:46.566124+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Florida",
+    "location_abbr": "FL",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.0",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "bad5a77d852a528d7ebe41ba0e1a1d80b514a0c9c0fa17fbc7f0ef6cc00eca52"
+}

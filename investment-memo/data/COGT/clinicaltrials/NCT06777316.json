@@ -1,0 +1,63 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06777316",
+  "title": "A Study of an FGFR2/3 Inhibitor (CGT4859) in Patients With Cholangiocarcinoma and Other Advanced Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT06777316",
+  "published": "2025-01-15",
+  "retrieved_at": "2026-09-07T12:53:51.528983+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Intrahepatic Cholangiocarcinoma (Icc)",
+      "Cholangiocarcinoma",
+      "Other Solid Tumors, Adult",
+      "FGFR2 Gene Fusion/Rearrangement",
+      "FGFR2 Gene Amplification",
+      "FGFR2 Gene Short Variants",
+      "FGFR3 Gene Fusion/Rearrangement",
+      "FGFR3 Gene Amplification",
+      "FGFR3 Gene Short Variants",
+      "FGFR2 Genetic Alterations",
+      "FGFR3 Genetic Alterations",
+      "Advanced Solid Tumors"
+    ],
+    "interventions": [
+      {
+        "name": "CGT4859",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 110,
+    "start_date": "2025-01-22",
+    "primary_completion_date": "2027-03",
+    "completion_date": "2027-06",
+    "first_posted_date": "2025-01-15",
+    "primary_outcomes": [
+      {
+        "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - AEs",
+        "timeFrame": "Approximately 12 months"
+      },
+      {
+        "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - Laboratory results",
+        "timeFrame": "Approximately 12 months"
+      },
+      {
+        "measure": "Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - ECG results",
+        "timeFrame": "Approximately 12 months"
+      },
+      {
+        "measure": "Phase 2: Evaluate antitumor activity of CGT4859 - Objective Response Rate (ORR)",
+        "timeFrame": "Approximately 8 months"
+      }
+    ]
+  },
+  "hash": "64e4144d47a74c3c669bcd2be8315bf360156934b152cc11e1ee3157b53dcc29"
+}

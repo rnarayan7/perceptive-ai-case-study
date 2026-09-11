@@ -1,0 +1,129 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               53% lower CL/F compared to healthy volunteers.
+
+               Drug-drug interactions – Belumosudil as a victim
+
+               The FDA does not agree with the Applicant’s position that no dose adjustments are required for
+               concomitant CYP3A4 inducers or PPIs.
+
+               CYP3A Inducers
+
+               The FDA notes that rifampicin, a strong CYP3A inducer, significantly reduced belumosudil Cmax
+               by approximately 60% and overall exposure by approximately 72%. Population PK (popPK)
+               analysis also showed that oral clearance (CL/F) with concomitantly administered CYP3A4
+               inducers was 2.88 times the CL/F in healthy volunteers without CYP3A4 inducers. Additional
+               information regarding the population PK analysis is provided in Section 16.4.2.
+
+               Given that CYP3A4 inducers significantly reduce belumosudil exposure, the FDA recommends
+               that belumosudil 200 mg be administered twice daily (BID) with food when administered
+               concomitantly with strong CYP3A4 inducers.
+
+               Proton-pump Inhibitors
+
+               The Applicant evaluated the impact of PPIs on belumosudil exposure in healthy subjects in
+               Study KD025-107. In Part 1, subjects received multiple doses of 20 mg rabeprazole followed by
+               a single dose of belumosudil 200 mg in the fed state. In Part 2, subjects received multiple doses
+               of 20 mg omeprazole followed by a BID dose (once every 12 hours) of belumosudil 200 mg in
+               the fed state. The PPI rabeprazole reduced belumosudil Cmax by up to 87% and overall
+               exposure by up to 80%. The impact of co-administered rabeprazole and omeprazole on
+               belumosudil exposure is shown in Table 11.
+
+               Table 11. Impact of Co-administered PPIs on belumosudil exposure, expressed as GMR
+
+
+
+
+               In addition, the PopPK analysis showed that concomitant PPI administration had a statistically
+               significant effect on exposure by reducing belumosudil bioavailability by approximately 48%
+               compared to no PPI administration. Out of the 178 patients with cGVHD included in the E-R
+               analysis, 9 patients had concomitant administration of either esomeprazole or rabeprazole,
+               which decreased belumosudil exposure up to 80% (categorized as “strong” PPIs in the studies),
+               and only 5 of these patients received 200 mg QD.
+                                                              114
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               that were used in Studies KD025-208 and KD025-213 are not labeled for dose adjustment with
+               MATE/MATE2K inhibitors.
+
+               Transporter Induction: Belumosudil is not an inducer of CYP3A4 in vitro and therefore was not
+               evaluated for P-gp induction.
+
+               The Applicant’s Position:
+
+               Food Effect
+
+               The belumosudil should be administered with food. There is increased exposure after fed
+               administration and the Phase 2 studies were conducted with fed administration.
+
+               Victim Drug-Drug Interactions
+
+               CYP3A4 Induction and Inhibition: These clinical study results indicate that CYP34A enzymes
+               impact the metabolism of belumosudil; however, no dose adjustment is needed for
+               concomitant CYP3A4 inducer or inhibitor administration given the flat exposure-efficacy and
+               exposure-safety relationships across the evaluated exposure range.
+
+               PPI: The clinical study results indicate that an increase in gastric pH led to decreased solubility
+               of belumosudil thus resulting in decreased absorption of belumosudil; however, no dose
+               adjustment is needed for concomitant PPI use given the flat exposure-efficacy relationships
+               across the evaluated exposure range.
+
+               Perpetrator Drug-Drug Interactions
+
+               The potential inhibtion of belumosudil and CYP3A4 (time dependent) and CYP3A4 gut, P-gp,
+               BCRP, OATP1B1, MATE1, and MATE2K is being further evaluated in PBPK modeling. The risk of
+               belumosudil inhibition by transporters is low, as only 2 drugs commonly used in the cGVHD
+               population are labeled for dose adjustment with transporter inhibition.
+
+               The FDA’s Assessment:
+
+               Food Effect
+
+               FDA agrees with the Applicant’s position regarding the food effect.
+
+               The effect of food on belumosudil when given with food was evaluated under Study KD025-106,
+               a 3-way crossover, open-label study in healthy subjects who were dosed in either the fasted or
+               fed (high fat breakfast) state. The high fat breakfast included 144 kcal from protein, 280 kcal
+               from carbohydrates, and 486 kcal from fat. Results showed a half-life of 11.16 h in the fasted
+               state and 6.98 h in the fed state. Administration of 200 mg belumosudil tablet in the fed state
+               resulted in an increased exposure in terms of Cmax and AUC when compared to the fasted
+               state. It should be noted that based on popPK analysis, patients with cGVHD had approximately
+                                                                113
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Given that 200 mg QD is the lowest dose studied and the significant reduction of belumosudil
+               exposure expected with co-administration of these strong PPIs, there is a potential for
+               compromised efficacy following the 200 mg QD belumosudil and co-administration of strong
+               PPIs, such as esomeprazole and rabeprazole used in the studies. To reduce the risk of lower
+               efficacy in patients with the extremely low exposures with coadministration of strong PPIs, a
+               higher dosing regimen was considered. Due to the lack of definition of weak/moderate/strong
+               PPIs in the clinical practice, dose adjustment only for strong PPIs concomitant use is not
+               practical. The dose adjustment was determined based on the pooled exposure from the mixed
+               weak/moderate/strong PPIs usage. PPK analysis using the data from the two pivotal studies
+               indicated that with the concomitant use of PPIs, the dosing regimen of 200 mg BID is expected
+               to provide closer AUC24,ss compared to that following 200 mg QD without concomitant PPIs
+               use, while the AUC24,ss following 400 mg QD with concomitant use of PPIs would be much
+               higher than that following 200 mg QD without concomitant PPIs use (Figure 2). As such, a dose
+               adjustment to 200 mg BID in the presence of concomitant PPIs would potentially prevent
+               exposures that would fall below the AUC0-24,ss observed during the pivotal studies. Given that
+               Study KD025-208 showed the highest rate of Grade 4 a

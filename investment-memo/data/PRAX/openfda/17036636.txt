@@ -1,0 +1,4 @@
+FAERS adverse-event report 17036636 (comparator: cenobamate)
+Serious: yes
+Reactions: Myoclonic epilepsy, Seizure, Petit mal epilepsy, Generalised tonic-clonic seizure, Seizure, Product dose omission issue
+Reported drugs: EPIDIOLEX, EPIDIOLEX, EPIDIOLEX, BRIVIACT, MELATONIN, BANZEL, LORATADINE, TRAZODONE HCL, TOPAMAX, CLOBAZAM, XCOPRI

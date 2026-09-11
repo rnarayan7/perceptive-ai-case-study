@@ -1,0 +1,51 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07453784",
+  "title": "Study to Evaluate Pharmacokinetics, Relative Bioavailability, Palatability of Obefazimod Minitablet Formulation",
+  "url": "https://clinicaltrials.gov/study/NCT07453784",
+  "published": "2026-03-06",
+  "retrieved_at": "2026-09-07T12:53:29.800665+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      {
+        "name": "Obefazimod 50 mg Capsule",
+        "type": "DRUG"
+      },
+      {
+        "name": "Obefazimod Minitablet 50 mg",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 44,
+    "start_date": "2026-03-03",
+    "primary_completion_date": "2026-09",
+    "completion_date": "2026-10",
+    "first_posted_date": "2026-03-06",
+    "primary_outcomes": [
+      {
+        "measure": "Maximum Plasma Concentration (Cmax)",
+        "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+      },
+      {
+        "measure": "Area under the plasma concentration versus time curve from time zero up to the last measurable concentration (AUC (0-last)",
+        "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+      },
+      {
+        "measure": "Area under the plasma concentration versus time curve up from time zero to infinity [AUC(0-inf)]",
+        "timeFrame": "Up to 336 hours post-dose (Day 15) at each period"
+      }
+    ]
+  },
+  "hash": "1a91060d8acf74cbca0ea3b72e2e16a428223843e808b8d836797aadcdd94689"
+}

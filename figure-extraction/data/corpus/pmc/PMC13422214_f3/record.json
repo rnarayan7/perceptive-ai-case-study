@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13422214_f3",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of antibody-drug conjugates in EGFR-mutant non-small cell lung cancer after tyrosine kinase inhibitor resistance: a systematic review and meta-analysis.",
+  "caption": "(A)  Forest plot of pooled ORR for the TROP2-targeting ADC subgroup (4 studies, n = 418). Pooled ORR = 50.6% (95% CI 40.3%–60.9%; I² = 73.8%).  (B)  Forest plot of pooled ORR for the HER3-targeting ADC subgroup (3 studies, n = 596). Pooled ORR = 34.2% (95% CI 28.8%–39.8%; I² = 45.7%).",
+  "context": "(A)  Forest plot of pooled ORR for the TROP2-targeting ADC subgroup (4 studies, n = 418). Pooled ORR = 50.6% (95% CI 40.3%–60.9%; I² = 73.8%).  (B)  Forest plot of pooled ORR for the HER3-targeting ADC subgroup (3 studies, n = 596). Pooled ORR = 34.2% (95% CI 28.8%–39.8%; I² = 45.7%). The TROP2-subgroup forest plot is shown in Figure 3A . A dedicated HER3-subgroup forest plot is shown in Figure 3B .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13422214/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-16",
+  "retrieved_at": "2026-09-07T13:03:03.632310+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13422214",
+    "pmid": "42534809",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "125841aaf51e860a003e92c16a339d41cb01790397ad62667d501c1c83e56f79",
+  "image_file": "image.jpg"
+}

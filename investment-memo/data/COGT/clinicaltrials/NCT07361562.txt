@@ -1,0 +1,14 @@
+Title: A Study of a Selective ERBB2 Inhibitor (CGT4255), in Patients With Advanced Solid Tumors
+Status: RECRUITING
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Advanced Solid Tumor, Adult, ERBB2 Altered Breast Cancer, ERBB2 Gene Amplification, HER2 Overexpression, Non-Small Cell Lung Cancer, HER2
+Interventions: CGT4255 (DRUG)
+Enrollment: 100
+
+Summary: This is an open-label, phase 1/1b study evaluating the safety, tolerability, pharmacokinetic (what the body does to the drug), pharmacodynamic (what the drug does to the body), and antitumor activity of CGT4255 in adult participants with advanced solid tumors with ERBB2 alterations or HER2 overexpression.
+
+Primary outcomes:
+- Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Part A] (time frame: Approximately 12 months)
+- Overall Response Rate [Part B and Part C] (time frame: Approximately 6 months)

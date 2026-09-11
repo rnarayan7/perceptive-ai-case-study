@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-WY_MEN02_AGEADJPREV_2019_2019_SEXF",
+  "title": "Mental Health - Wyoming - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785443+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Wyoming",
+    "location_abbr": "WY",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "25.8",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "dc137d3261189d50c1d3fbcb8e358db1b42bcb6d897fb60226c75b00ffc7c29a"
+}

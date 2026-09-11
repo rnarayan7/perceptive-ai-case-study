@@ -1,0 +1,47 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07412288",
+  "title": "First-in-human Study of Orally Administered KT-579 in Healthy Adult Participants",
+  "url": "https://clinicaltrials.gov/study/NCT07412288",
+  "published": "2026-02-17",
+  "retrieved_at": "2026-09-07T06:57:16.413220+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Participants"
+    ],
+    "interventions": [
+      {
+        "name": "KT-579",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 96,
+    "start_date": "2026-02-23",
+    "primary_completion_date": "2026-12",
+    "completion_date": "2026-12",
+    "first_posted_date": "2026-02-17",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of adverse events",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Incidence of serious adverse events",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      }
+    ]
+  },
+  "hash": "b3cd32823cdb5df08e3347071a39cc475e38f09081480354b00fc7f6b2b91f22"
+}

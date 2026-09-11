@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "16714024501-2026-08-19",
+  "title": "NADAC price: MESALAMINE 1,000 MG SUPP",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:22.584797+00:00",
+  "metadata": {
+    "ndc": "16714024501",
+    "ndc_description": "MESALAMINE 1,000 MG SUPP",
+    "nadac_per_unit": 1.2867,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-26",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "mesalamine"
+  },
+  "hash": "e925e67b3cdfe5315ad9eddee66233c4be82b10fc502acf7bc7eb035944d4e1e"
+}

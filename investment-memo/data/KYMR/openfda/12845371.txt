@@ -1,0 +1,4 @@
+FAERS adverse-event report 12845371 (comparator: dupilumab)
+Serious: yes
+Reactions: Autoimmune thyroiditis, Raynaud^s phenomenon, Hypothyroidism, Vitamin D deficiency, Condition aggravated, Therapeutic response unexpected, Pre-existing condition improved
+Reported drugs: XYREM, XYREM, XYREM, XYREM, XYREM, XYREM, ERGOCALCIFEROL, STRATTERA, ATIVAN, CATAPRES, TOPAMAX, IMITREX, XIFAXAN, DEXILANT, LATUDA, RESTASIS, SYNTHROID, ADDERALL, ABILIFY, CALCIUM CARBONATE, FOSAMAX, NASONEX, NUVIGIL, POTASSIUM CHLORIDE, PROVIGIL, THIAMINE HYDROCHLORIDE, VITAMIN B12, WELLBUTRIN, NIFEDIPINE, REXULTI, FUROSEMIDE, KLOR-CON M10, SUNOSI, OTEZLA, DUPIXENT, VITAMINS NOS

@@ -1,0 +1,39 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22820973",
+  "title": "FAERS report 22820973: Pyrexia, Diverticulitis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22820973",
+  "published": "2023-08-18",
+  "retrieved_at": "2026-09-08T08:40:52.401078+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Pyrexia",
+      "Diverticulitis"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "PROGRAF",
+      "PREDONINE",
+      "ICOSAPENT ETHYL",
+      "ALFACALCIDOL",
+      "CELECOXIB",
+      "VONOPRAZAN FUMARATE",
+      "PIRENOXINE",
+      "SITAGLIPTIN",
+      "ALFACALCIDOL",
+      "GLYCOSAMINOGLYCANS",
+      "BETAMETHASONE DIPROPIONATE",
+      "AMPHOTERICIN B",
+      "HERBALS",
+      "SODIUM FERROUS CITRATE",
+      "INFLUENZA VIRUS VACCINE",
+      "NADIFLOXACIN"
+    ],
+    "occurcountry": "JP"
+  },
+  "hash": "d1376098137b3a674829878b6b47716304f59f57e1bf76a0eb1dc6a6afd0c76b"
+}

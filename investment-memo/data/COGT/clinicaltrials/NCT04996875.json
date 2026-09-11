@@ -1,0 +1,46 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04996875",
+  "title": "(Apex) Bezuclastinib in Patients With Advanced Systemic Mastocytosis",
+  "url": "https://clinicaltrials.gov/study/NCT04996875",
+  "published": "2021-08-09",
+  "retrieved_at": "2026-09-07T12:53:51.529916+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Advanced Systemic Mastocytosis (AdvSM)",
+      "SM With an Associated Hematologic Neoplasm (SM-AHN)",
+      "Mast Cell Leukemia (MCL)",
+      "Aggressive Systemic Mastocytosis (ASM)"
+    ],
+    "interventions": [
+      {
+        "name": "bezuclastinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 140,
+    "start_date": "2021-11-09",
+    "primary_completion_date": "2025-09-19",
+    "completion_date": "2027-07",
+    "first_posted_date": "2021-08-09",
+    "primary_outcomes": [
+      {
+        "measure": "Part I: Identify clinically active and tolerable exposures of bezuclastinib in patients with AdvSM",
+        "timeFrame": "18 months"
+      },
+      {
+        "measure": "Part II: - Determine efficacy of bezuclastinib as measured by mIWG Objective Response Rate (ORR) - Confirm the exposure-response relationship of bezuclastinib",
+        "timeFrame": "18 months"
+      }
+    ]
+  },
+  "hash": "16beb0ef2daba0b1fa7c4c8d0a15938b97b35da74bd639dbe024d068478f919e"
+}

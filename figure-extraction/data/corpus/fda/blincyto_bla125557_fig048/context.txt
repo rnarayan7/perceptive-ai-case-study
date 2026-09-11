@@ -1,0 +1,124 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+               In Study AALL1331 (S023) for pediatric and young patients with first-relapsed ALL, the analysis
+               did not demonstrate a positive ER relationship for safety (CRS and NE) in either Arm B or Arm
+               D. (FDA Figure 12)
+
+               Taken together, no clinically meaningful association between blinatumomab exposure and
+               cytokine release syndrome (CRS) or neurological events was identified to warrant further
+               dose adjustment for blinatumomab based on individual study analyses.
+
+               FDA Figure 12: Comparison of Blinatumomab Exposures (Css) in Subjects With or Without
+               Gr ≥ 1 AE for CRS and Neurologic Events in Subjects of Study 1331
+
+
+
+
+                 Source: Figures 13-7 of Applicant’s ER Analysis Report for S26
+
+
+
+
+               ER (safety) Assessment Summary
+               The Applicant’s Position:
+
+                 General Information
+                  Goal of ER analysis                          To investigate the relationship between
+                                                               blinatumomab exposure and safety events
+                                                               (occurrence of CRS and neurologic events, and time to
+                                                               neurologic events) in pediatric subjects with high-risk
+                                                               first relapsed B-precursor ALL receiving blinatumomab
+                                                               or SOC chemotherapy as consolidation therapy after
+                                                               induction therapy
+                   Study Included                              20120215
+                   Population Included                         Pediatric subjects with high-risk first relapsed B-
+                                                               precursor ALL
+                   Endpoint                                    Occurrence of CRS and occurrence and time to
+
+                                                                        213
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                                                         and duration of EFS or duration
+                                                         of OS were found. Overall, the
+                                                         exposure-response analyses
+                                                         support the dosing regimen of 15
+                                                         µg/m2/day (maximum dose not
+                                                         to exceed 28 µg/day) in pediatric
+                                                         patients with high-risk first
+                                                         relapsed B precursor ALL.
+                 Labeling Language                       Description                                Acceptability
+                                                                                                    [FDA’s
+                                                                                                    comments]
+                   12.2 Pharmacodynamics                 No updates to labeling language            Acceptable
+                                                         recommended
+
+               Table 12-1. Summary of EFS, OS, CRS, and Neurologic Events by Treatment
+               Table 12-2. Distribution of Categorical Baseline Covariates
+               Table 12-3. Summary of Continuous Baseline Covariates
+               Table 12-4. Distribution of Categorical Baseline Covariates by Quartiles of Exposure in
+               Subjects Treated With 15 µg/m2/day cIV Infusion of Blinatumomab
+               Table 12-5. Distribution of Continuous Baseline Covariates (Mean [Min-Max]) by Quartiles
+               of Exposure in Subjects Treated With Blinatumomab
+               Table 12-6. Summary of EFS, OS, CRS, and Neurologic Events by Quartiles of Exposure in
+               Subjects Treated With Blinatumomab
+               Table 12-7. Results of Time to Event Analyses of EFS (Univariate)
+               Table 12-8. Results of Time to Event Analyses of OS (Univariate)
+               Figure 13-1. Correlation of Continuous Covariates
+               Figure 13-2. All Subjects: Distribution of Baseline Body Weight, Age, BSA, Peripheral Blasts
+               in Blood, Hemoglobin, and Platelets, Stratified by Treatment
+               Figure 13-3. Distribution of Css, Baseline Body Weight, Age, BSA, Peripheral Blast in Blood,
+               Hemoglobin, and Platelets Stratified by Sex
+               Figure 13-4. Distribution of Css, Baseline Body Weight, Age, BSA, Peripheral Blasts in Blood,
+               Hemoglobin and Platelets Stratified by B precursor ALL Subtype Related to Last Relapse
+               Figure 13-5. Kaplan-Meier Survival Curves Across Exposure Quartiles in Subjects Treated
+               With Blinatumomab
+
+
+               ER (safety) Executive Summary
+
+               The FDA’s Assessment:
+               In Study 20120215 (S023) for pediatric high-risk first-relapsed ALL, there appeared to be a flat
+               exposure-response relationship for the safety (CRS or NE) in the 45 patients from Study 215
+               who are treated by blinatumomab in a dose of 15 µg/m2/day cIV dose (not exceeding a
+               maximum of 28 µg/day). (FDA Figure 2)
+
+                                                                  212
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                                                          neurological events
+                   No. of Patients (total, and with       106 (total) [54 (blinatumomab arm),
+                   individual PK)                         52 (SOC chemotherapy arm)], 45 (with individual PK in
+                                                          blinatumomab arm). Five subjects in SOC arm were
+                                                          excluded for not receiving planned treatment.
+                   Population      General                Population characteristics were only reported for all
+                   Characteristics                        111 enrolled subjects on study [results presented
+                                                          above in ER (efficacy) Assessment Summary].
+                                      Organ               Not evaluated
+                                      impairment
+                                      Pediatrics (if      Population characteristics were only reported for all
+                                      any)                111 enrolled subjects on study (results presented
+                                                          above in ER (efficacy) Assessment Summary).
+                                      Geriatrics (if      N/A
+                                      any)
+                   Dose(s) Included                       Blinatumomab cIV infusion a

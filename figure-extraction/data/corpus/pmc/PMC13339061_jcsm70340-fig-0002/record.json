@@ -1,0 +1,51 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13339061_jcsm70340-fig-0002",
+  "figure_type": "kaplan_meier",
+  "title": "A Prospective Observational Study of Anamorelin During Chemoimmunotherapy in Non-Small Cell Lung Cancer With Cachexia (SPIRAL-ANA).",
+  "caption": "TTF, PFS, and OS of the patients treated with anamorelin in combination with chemoimmunotherapy. Kaplan–Meier curves depicting (A) TTF, (B) PFS and (C) OS of patients who received anamorelin in combination with chemoimmunotherapy. CI, confidence interval; NE, not estimable; OS, overall survival; PFS, progression‐free survival; TTF, time to treatment failure.",
+  "context": "TTF, PFS, and OS of the patients treated with anamorelin in combination with chemoimmunotherapy. Kaplan–Meier curves depicting (A) TTF, (B) PFS and (C) OS of patients who received anamorelin in combination with chemoimmunotherapy. CI, confidence interval; NE, not estimable; OS, overall survival; PFS, progression‐free survival; TTF, time to treatment failure. The median TTF was 4.2 months (95% CI: 3.6–5.3 months) (Figure 2A ). The primary endpoint, median PFS, was 6.2 months (95% CI: 4.6–7.7 months), with the lower limit of the CI falling below the threshold value of 5.0 months (Figure 2B ). The median OS was 18.5 months (95% CI: 13.1–28.6 months) (Figure 2C ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13339061/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T12:55:31.769629+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "4.2",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "al; TTF, time to treatment failure. The median TTF was 4.2 months (95% CI: 3.6–5.3 months) (Figure 2A ).",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "6.2",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "hs) (Figure 2A ). The primary endpoint, median PFS, was 6.2 months (95% CI: 4.6–7.7 months), with the lowe",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "18.5",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "d value of 5.0 months (Figure 2B ). The median OS was 18.5 months (95% CI: 13.1–28.6 months) (Figure 2C )",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13339061",
+    "pmid": "42411631",
+    "journal": "Journal of cachexia, sarcopenia and muscle",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "ee53bf31b61ef322ec38c13eac0fa6a787887c1032e9944ceb0ffe39ea0283a1",
+  "image_file": "image.jpg"
+}

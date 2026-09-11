@@ -1,0 +1,27 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22972564",
+  "title": "FAERS report 22972564: Headache",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22972564",
+  "published": "2023-09-22",
+  "retrieved_at": "2026-09-08T08:40:52.404179+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": false,
+    "reactions": [
+      "Headache"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "PREDNISOLONE",
+      "PREDNISOLONE",
+      "PREDNISOLONE",
+      "RINGER LACTATE [CALCIUM CHLORIDE DIHYDRATE;POTASSIUM CHLORIDE;SODIUM C",
+      "RINGER LACTATE [CALCIUM CHLORIDE DIHYDRATE;POTASSIUM CHLORIDE;SODIUM C"
+    ],
+    "occurcountry": "GE"
+  },
+  "hash": "19c4028b1ca3a84257ee274774e4fa8dae3e60c66deac13f7b712f4d735eeefa"
+}

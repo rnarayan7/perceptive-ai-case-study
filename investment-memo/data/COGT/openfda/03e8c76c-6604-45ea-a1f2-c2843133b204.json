@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "03e8c76c-6604-45ea-a1f2-c2843133b204",
+  "title": "Label: Drug label",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=03e8c76c-6604-45ea-a1f2-c2843133b204",
+  "published": "2019-11-13",
+  "retrieved_at": "2026-09-08T08:41:09.583643+00:00",
+  "metadata": {
+    "brand_name": null,
+    "generic_name": null,
+    "manufacturer": null,
+    "manufacturer_name": null,
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": null
+  },
+  "hash": "1e45712dc4d82b7002d90c2f2e89525ebf1eed34a8f776f14f5e565f20c6c195"
+}

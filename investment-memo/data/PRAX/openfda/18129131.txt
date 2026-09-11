@@ -1,0 +1,4 @@
+FAERS adverse-event report 18129131 (comparator: cenobamate)
+Serious: yes
+Reactions: Diarrhoea
+Reported drugs: DIAZEPAM., DIVALPROEX, EPIDIOLEX, CENOBAMATE., ZONISAMIDE., EPIDIOLEX, AMITRIPTYLINE, SIMVASTATIN., LEVOTHYROXINE.

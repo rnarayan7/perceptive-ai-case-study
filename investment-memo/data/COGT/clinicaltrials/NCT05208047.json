@@ -1,0 +1,100 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05208047",
+  "title": "(Peak) A Phase 3 Randomized Trial of CGT9486+Sunitinib vs. Sunitinib in Subjects With Gastrointestinal Stromal Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT05208047",
+  "published": "2022-01-26",
+  "retrieved_at": "2026-09-07T12:53:51.530668+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Advanced Gastrointestinal Stromal Tumors",
+      "Metastatic Cancer"
+    ],
+    "interventions": [
+      {
+        "name": "CGT9486",
+        "type": "DRUG"
+      },
+      {
+        "name": "CGT9486",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      },
+      {
+        "name": "Midazolam",
+        "type": "DRUG"
+      },
+      {
+        "name": "CGT9486",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      },
+      {
+        "name": "CGT9486",
+        "type": "DRUG"
+      },
+      {
+        "name": "Sunitinib",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 482,
+    "start_date": "2022-04-14",
+    "primary_completion_date": "2025-09-30",
+    "completion_date": "2030-01",
+    "first_posted_date": "2022-01-26",
+    "primary_outcomes": [
+      {
+        "measure": "Part 1a - pharmacokinetics - Cmax",
+        "timeFrame": "16 days"
+      },
+      {
+        "measure": "Part 1a - pharmacokinetics - AUC",
+        "timeFrame": "16 days"
+      },
+      {
+        "measure": "Part 1b - pharmacokinetics - Cmax",
+        "timeFrame": "14 days"
+      },
+      {
+        "measure": "Part 1b - pharmacokinetics - AUC",
+        "timeFrame": "14 days"
+      },
+      {
+        "measure": "Part 1b - pharmacokinetics - Tmax",
+        "timeFrame": "14 days"
+      },
+      {
+        "measure": "Part 2 - Progression Free Survival (PFS)",
+        "timeFrame": "Approximately 48 months"
+      },
+      {
+        "measure": "DDI Substudy - pharmacokinetics - AUC",
+        "timeFrame": "16 days"
+      },
+      {
+        "measure": "DDI Substudy - pharmacokinetics - Cmax",
+        "timeFrame": "14 days"
+      }
+    ]
+  },
+  "hash": "befbbe6fbb89aa3f549c6dd83f4a8c47a864d62b59c3e02d903758d723123934"
+}

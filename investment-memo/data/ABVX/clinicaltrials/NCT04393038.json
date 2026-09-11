@@ -1,0 +1,44 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04393038",
+  "title": "ABX464 in Treating Inflammation and Preventing Acute Respiratory Failure in Patients With COVID-19",
+  "url": "https://clinicaltrials.gov/study/NCT04393038",
+  "published": "2020-05-19",
+  "retrieved_at": "2026-09-07T12:53:29.789339+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "COVID-19"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 509,
+    "start_date": "2020-07-01",
+    "primary_completion_date": "2021-03-05",
+    "completion_date": "2021-04-16",
+    "first_posted_date": "2020-05-19",
+    "primary_outcomes": [
+      {
+        "measure": "Rate of Responders: i.e. Rate of Patients Who do Not Require Use of High-flow Oxygen Invasive or Non-invasive Mechanical Ventilation (IMV and NIV, Respectively) Within 28 Days and Who Are Alive at the End of the 28 Days Period.",
+        "timeFrame": "28 days"
+      }
+    ]
+  },
+  "hash": "b6c1e492a6d72497c1686791ac05c45c0db7a6d740d70bc5d23779ceed3ae989"
+}

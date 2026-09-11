@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA218706",
+  "title": "Drugs@FDA ANDA218706: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A218706",
+  "published": "2025-05-23",
+  "retrieved_at": "2026-09-08T08:40:37.245673+00:00",
+  "metadata": {
+    "manufacturer": "WESTMINSTER PHARMS",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "WESTMINSTER PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2025-05-23",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "dead4fced216ae7e9e5caab018a1272e6a9b582dc01868be9b5c8ebda1658f8d"
+}

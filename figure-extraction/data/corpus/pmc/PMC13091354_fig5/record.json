@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13091354_fig5",
+  "figure_type": "waterfall",
+  "title": "Kinase signaling in liver disease via clinical-trial-on-a-PamChip: A distinctive methodology for drug mechanisms and personalized medicine.",
+  "caption": "Drug actions on kinase specificity . A waterfall plot showing PTK upstream kinase analysis (UKA), illustrating kinase activity in both male ( top ) and female ( bottom ) subjects. The plot compares imatinib, rebastinib, and olverembatinib with vehicle control for each sex in hepatocellular carcinoma (HCC), using pooled tumor samples. The  blue arrow  indicates ABL kinase. ABL, Abelson tyrosine kinase; PTK, phosphotyrosine kinase.",
+  "context": "Drug actions on kinase specificity . A waterfall plot showing PTK upstream kinase analysis (UKA), illustrating kinase activity in both male ( top ) and female ( bottom ) subjects. The plot compares imatinib, rebastinib, and olverembatinib with vehicle control for each sex in hepatocellular carcinoma (HCC), using pooled tumor samples. The  blue arrow  indicates ABL kinase. ABL, Abelson tyrosine kinase; PTK, phosphotyrosine kinase. Figure 5 depicts the specificity of the ABL inhibitors (ABL is denoted by a blue arrow ) using the hierarchical rating system from the BioNavigator UKA software.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091354/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-03-18",
+  "retrieved_at": "2026-09-07T12:58:29.138306+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13091354",
+    "pmid": "41856289",
+    "journal": "The Journal of biological chemistry",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "20f65bc31e66d7efeee7df629b9401cb6f963c3824187232b487f78e0514b5e0",
+  "image_file": "image.jpg"
+}

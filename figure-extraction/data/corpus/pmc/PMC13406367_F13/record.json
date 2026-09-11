@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13406367_F13",
+  "figure_type": "forest",
+  "title": "Survival benefit of concurrent beta-blocker use in cancer patients treated with radiotherapy: A systematic review and meta-analysis.",
+  "caption": "Forest plot for PFS in radiotherapy-treated patients. CI = confidence interval, PFS = progression-free survival, HR = hazard ratio.",
+  "context": "Forest plot for PFS in radiotherapy-treated patients. CI = confidence interval, PFS = progression-free survival, HR = hazard ratio.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13406367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:04:19.053307+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13406367",
+    "pmid": "42499029",
+    "journal": "Medicine",
+    "fig_label": "Figure 13."
+  },
+  "image_hash": "610b5d2c1d3dbe4dcd9d4c6f3310a9515a161c2043d4e3a7080cc6b4a63e75fc",
+  "image_file": "image.jpg"
+}

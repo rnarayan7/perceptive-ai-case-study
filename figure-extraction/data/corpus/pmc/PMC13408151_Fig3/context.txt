@@ -1,0 +1,1 @@
+Anti-tumor activity and treatment duration. a  Waterfall plot of best percentage change from baseline of sum of target lesion diameters.  b  Spider plot of percentage change from baseline of sum of target lesion diameters.  c  Swimmer plot of treatment duration and best overall response. Source data are provided as a Source Data file. PR: partial response; SD: stable disease.

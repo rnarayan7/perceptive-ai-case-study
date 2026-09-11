@@ -1,0 +1,93 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+               The FDA agrees that no alternative dosing regimen of teclistamab is required based on intrinsic
+               patient factors including age (24 to 84 years), sex, race (White, Black or African American),
+               ethnicity (Hispanic/Latino, not Hispanic/Latino), mild or moderate renal impairment (eGFR by
+               MDRD method: 30 to 89 mL/min), or mild hepatic impairment (total bilirubin less than or equal
+               to ULN with AST greater than ULN or total bilirubin greater than 1 to 1.5 times ULN with any
+               AST). Refer to Section 19.4.2.2 for details regarding covariate evaluation on PK parameters and
+               exposure. Dedicated studies in patients with severe renal impairment or moderate or severe
+               hepatic impairment are not required given that teclistamab is a large biologic and PK is not
+               expected to be significantly altered by renal or hepatic impairment.
+
+                  6.3.2.4.        Are there clinically relevant food-drug or drug-drug interactions, and
+                                  what is the appropriate management strategy?
+               Data:
+
+               Teclistamab is administered via SC injection and its absorption is not expected to be impacted by
+               food. Teclistamab is not metabolized via CYP enzymes and is not expected to directly affect the
+               CYP enzymes. Therefore, no nonclinical or clinical drug-drug interaction studies were performed.
+
+               The Applicant’s Position:
+               The initial release of cytokines associated with the start of teclistamab treatment could suppress
+               CYP enzymes. CYP substrates with a narrow therapeutic index should be used with caution in
+               patients receiving teclistamab. These patients should be monitored for toxicity (eg, warfarin) or
+               drug concentrations (eg, cyclosporine) for 48 hours after administration of all doses within
+               teclistamab step-up dosing schedule and for patients who develop CRS. The dose of the
+               concomitant drug should be adjusted as needed.
+
+               The FDA’s Assessment:
+               The FDA agrees that teclistamab is not expected to have relevant food-drug interactions or
+               drug-drug interactions as a victim.
+
+               Teclistamab may act as a perpetrator of drug-drug interactions. Increased concentrations of
+               cytokines may reduce expression and activity of cytochrome P450 (CYP) enzymes (Lee 2010).
+               Teclistamab causes release of cytokines due to its mechanism of action. Serum concentrations of
+               IL-6, IL-10, TNF-α, IFN-γ, and IL-2R were measured before and after administration of step-up
+               dose 1, step-up dose 2, and the first 3 treatment doses in patients treated with the
+               recommended SC dosage regimen during Phase 1 of MajesTEC-1 (n=40). IL-6, IL-10, and IL-2R
+               were elevated after administration of teclistamab, with the largest geometric mean fold change
+               from baseline observed 48 hours after the first treatment dose for IL-6 and IL-2R or 48 hours
+               after step-up dose 2 for IL-10 (FDA Figure 4). Limited sample size (n=9) was available at the 48 hr
+               post-dose timepoint for both step-up dose 1 and step-up dose 2. Excluding these data, the
+               largest geometric mean fold change from baseline for IL-10 was observed 48 hours after the first
+               treatment dose, consistent with the time of peak fold change in IL-6 and IL-2R. Additional sparse
+               cytokine data (IL-6, IL-10, TNF-α, and IFN-γ at baseline, prior to the first treatment dose, and
+               48 hours after the first treatment dose) were available from patients treated with the
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              67
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+                 NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+                 teclistamab
+                 activity is predicted to return to at least 80% of baseline within approximately 7 to 8 days
+                 (depending on the enzyme) of the first treatment dose. Limitations of the Applicant’s PBPK
+                 model include the lack of clinical drug interaction data for model verification, the evaluation of
+                 only IL-6 effects on CYP activity, and sensitivity of the model predictions to assumed parameters
+                 (e.g., in vitro CYP suppression parameters from previous publications).
+
+                 While uncertainties remain in the absolute magnitude of potential drug interactions after
+                 administration of teclistamab, the available cytokine data, the profile of CRS occurring primarily
+                 after the step-up doses and first treatment dose (see Section 8.2.5.1 – Cytokine Release
+                 Syndrome), and the predictions from the Applicant’s PBPK model all suggest the highest risk of
+                 drug-drug interaction is expected to occur early during treatment with teclistamab (up to
+                 approximately one week after the first treatment dose) and during and after CRS. Patients
+                 receiving concomitant sensitive CYP substrates where small changes in concentration may lead
+                 to increased adverse events should be monitored for toxicity or concentration as appropriate.
+                 The dose of the CYP substrate should be adjusted as needed.
+
+
+
+
+             X          X
+
+
+
+                 Lauren Price, PharmD                                Nan Zheng, PhD
+                 Robyn Konicki, PharmD                               Jiang Liu, PhD
+                 Primary Reviewers                                   Team Leaders
+
+
+
+
+                 Version date: January 2020 (ALL NDA/ BLA reviews)                                                              69
+
+                 Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+                 Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

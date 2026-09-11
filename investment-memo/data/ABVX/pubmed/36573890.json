@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "36573890",
+  "title": "ABX464 (Obefazimod) Upregulates miR-124 to Reduce Proinflammatory Markers in Inflammatory Bowel Diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36573890/",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.552390+00:00",
+  "metadata": {
+    "journal": "Clinical and translational gastroenterology",
+    "year": "2023",
+    "pmid": "36573890"
+  },
+  "hash": "63bcb2cc94d36dce1ce7c621f3d523efd1a624b608b0ff5994240ab154174945"
+}

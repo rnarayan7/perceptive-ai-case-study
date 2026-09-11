@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig058",
+  "figure_type": "unknown",
+  "title": "nda_761291 figure 58",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n                 Amendment 6          • To investigate an SC administration method of teclistamab, which would reduce study\n                 12 March 2019          drug administration duration and was hypothesized to reduce the risk of CRS, compared\n                                        with IV dosing\n                                      • To clarify the SET could recommend alternative dosing schedules that gradually\n                                        extended the dosing interval from weekly dosing to Q2W dosing\n                 Amendment 7          •   To add Time and Events Schedules to support twice-weekly dosing, and to update rules\n                 23 May 2019              for dose escalation in the standard titration phase based on the safety and\n                                          pharmacodynamic profile\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              78\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n               The study protocol and amendments were reviewed by an Independent Ethics Committee or\n\n\n\n\n                                             APPEARS THIS WAY ON ORIGINAL\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              80\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.849032+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1224,
+    "image_height": 1584,
+    "extraction": "embedded"
+  },
+  "image_hash": "a9d6299ded23c7942519285b2102ac57e2596ee09bde5ecd392677d7f00e33dd",
+  "image_file": "image.png"
+}

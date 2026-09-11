@@ -1,0 +1,114 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+                 FDA Figure 3: Exposure-Response Relationship for Treatment Grade 3 and above TEAEs
+                 Related in Study 215 and Arms B and D of Study 1331
+
+
+
+
+                 Source: FDA Reviewer’s Analysis
+
+
+
+               6.2.2.2. Therapeutic Individualization
+               The Applicant’s Position:
+               No therapeutic individualization is needed to the currently approved dosing regimen based on
+               evaluation of the effect of intrinsic factors on PK. Similar to data presented in the sBLAs
+               supporting the accelerated approval of the MRD-positive ALL indication (seq no. 0155) and
+               regular approval of the relapsed or refractory ALL indication (seq no. 0095), age, sex, race, and
+               disease type (ie, non-Hodgkin’s lymphoma [NHL], ALL) and disease burden for ALL (ie, relapsed
+               or refractory ALL, MRD-positive ALL) did not show clinically meaningful impact on the PK of
+               blinatumomab in pediatric and adult subjects suggesting no dose adjustment required for these
+               factors. Dose adjustment is not recommended for subjects with mild or moderate renal
+               impairment or with hepatic dysfunction. In addition, population PK analyses support the
+               recommended dosing regimens for the treatment of patients with MRD-positive ALL. In line
+
+                                                                     32
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+                 FDA Figure 1: Kaplan-Meier Plots By Css Quartile for PK Available Subjects of Study
+                 20120215
+
+
+
+
+                 Source: Figures 13-5 of Applicant’s ER Analysis Report for S23
+
+                 FDA Figure 2: Comparison of Blinatumomab Exposures (Css) in Subjects With or Without
+                 Adverse Event of Any Grade for CRS and Neurological Events in Pediatric Subjects With
+                 High-risk First Relapsed ALL Following Blinatumomab Treatment in Study 20120215
+
+
+
+
+                 Source: Figures 13-6 of Applicant’s ER Analysis Report for S23
+
+
+                                                                           31
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               with previous sBLAs, no covariates other than body surface area (BSA) on clearance (CL) were
+               identified as significant. The BSA effect on CL was minimal in subjects ≥ 45 kg supporting fixed
+               dosing in these subjects. BSA-based dosing is recommended for subjects < 45 kg. No dose
+               adjustment is recommended based on the other covariates evaluated in the population PK
+               analyses.
+
+               The FDA’s Assessment:
+               The FDA agrees with the Applicant that no therapeutic individualization is needed to the
+               currently approved dosing regimen based on evaluation of the effect of intrinsic factors on PK.
+               See Section 6.2.2.1 for details.
+
+
+               Outstanding Issues
+               N/A
+
+               The FDA’s Assessment:
+               The FDA agrees with the Applicant that there are no outstanding issues for Clinical
+               Pharmacology portion of this sBLA submission.
+
+
+               6.3      Comprehensive Clinical Pharmacology Review
+               6.3.1 General Pharmacology and Pharmacokinetic Characteristics
+               The Applicant’s Position:
+               The clinical pharmacology of blinatumomab has been discussed in the Summary of Clinical
+               Pharmacology of previous sBLAs, most recently supporting the regular approval of the adult
+               and pediatric relapsed or refractory ALL indication (sequence number [seq. no.] 0095) and the
+               accelerated approval of the MRD-positive ALL indication (seq. no. 0155).
+               The new clinical pharmacology information includes an assessment of blinatumomab PK in
+               pediatric subjects with high-risk first relapsed ALL in Study 20120215 and updated comparison
+               of blinatumomab PK in pediatric and adult subjects across other blinatumomab clinical studies.
+               A summary is provided below.
+               Blinatumomab PK in pediatric subjects with high-risk first relapsed ALL were consistent with
+               those observed in pediatric and adult subjects from previous blinatumomab studies. The
+               mean (standard deviation [SD]) steady state concentration (Css) at 15 μg/m2/day and CL of
+               blinatumomab in pediatric subjects with high-risk first relapsed ALL were within the ranges of
+               those previously reported in pediatric subjects with relapsed or refractory ALL from Studies
+               MT103-205 and 20130265 when considering the high observed intersubject variability,
+               supporting similar PK between the pediatric subject populations. In addition, the PK
+               parameters and Css values of pediatric subjects were comparable to those of adult subjects.
+                                                                     33
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 5193267
+

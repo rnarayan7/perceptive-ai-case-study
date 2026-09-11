@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "60687055633-2026-08-19",
+  "title": "NADAC price: MESALAMINE DR 400 MG CAPSULE",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:22.585368+00:00",
+  "metadata": {
+    "ndc": "60687055633",
+    "ndc_description": "MESALAMINE DR 400 MG CAPSULE",
+    "nadac_per_unit": 2.56479,
+    "pricing_unit": "EA",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "mesalamine"
+  },
+  "hash": "79d8f322f2ec45aa660c7810807b875755a8f4dd3faf9b53cb19fca9567a3a14"
+}

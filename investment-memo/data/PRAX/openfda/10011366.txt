@@ -1,0 +1,4 @@
+FAERS adverse-event report 10011366 (comparator: lacosamide)
+Serious: yes
+Reactions: Brain neoplasm, Convulsion
+Reported drugs: VIMPAT

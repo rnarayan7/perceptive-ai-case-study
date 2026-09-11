@@ -1,0 +1,41 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13765766",
+  "title": "FAERS report 13765766: Rheumatoid arthritis, Knee operation, Blepharitis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13765766",
+  "published": "2025-03-25",
+  "retrieved_at": "2026-09-08T08:40:09.309577+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Rheumatoid arthritis",
+      "Knee operation",
+      "Blepharitis"
+    ],
+    "drugs": [
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "XYREM",
+      "METHOTREXATE",
+      "CETIRIZINE HYDROCHLORIDE",
+      "ALLEGRA ALLERGY",
+      "ARMODAFINIL",
+      "RINVOQ",
+      "CELEBREX",
+      "ALENDRONATE SODIUM",
+      "FOSAMAX",
+      "OMEPRAZOLE",
+      "ESTRING",
+      "SUNOSI"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "40b1e73dbe1eb856d68083a05600d2fae1973becff2a7f591435eb27e4e1311b"
+}

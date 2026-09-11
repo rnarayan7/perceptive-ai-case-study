@@ -1,0 +1,105 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               The Applicant’s Position:
+               The analysis populations for MajesTEC-1 were presented to the Agency in the context of the Type
+               B Format and Content Meeting and the Type B Pre-BLA Meeting.
+
+               A majority of subjects in the All Treated Analysis Set remained on treatment as of the clinical
+               cutoff and the most common reason for discontinuation (progressive disease) was consistent
+               with the disease under study.
+
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s summary of the treatment disposition data based on the clinical
+               cut-off of September 7th, 2021. In addition, the Applicant provided the treatment disposition
+               summary based on the updated data with additional follow-up. As of the clinical cut-off of
+               November 9th, 2021, among the 110 efficacy patients in Cohort A, 56 (50.9%) patients remained
+               on treatment and 54 (49.1%) patients had discontinued study treatment, including 35 (31.8%)
+               due to progressive disease, 7 (6.4%) due to physician decision, 10 (9.1%) due to death, and 2
+               (1.8%) due to refusal of further treatment.
+
+               Protocol Violations/Deviations
+
+               Data:
+               Major protocol deviations were reported for 15 subjects (9.1%) in the All Treated Analysis Set
+               (Table 8). The most frequent major protocol deviation was not meeting eligibility criteria (8
+               subjects [4.8%]).
+
+               Data for protocol deviations related to the COVID-19 pandemic were collected for all subjects
+               who received treatment during the study. All of these deviations were minor and most were
+               related to either missed procedures/visits or visits and/or assessments being performed
+               remotely. None of these minor deviations led to exclusion of data from the efficacy and safety
+               analyses.
+
+
+               Table 8: Summary of Subjects With Major Protocol Deviations; All Treated Analysis Set (Study
+               64007957MMY1001; Pivotal RP2D)
+
+
+                                                                                        RP2D
+                                                              Phase 1              Phase 2 Cohort A              Total
+                Analysis set: All Treated                       40                       125                      165
+
+                Subjects with major protocol deviations       1 (2.5%)                14 (11.2%)                15 (9.1%)
+                  Entered but did not satisfy criteria        1 (2.5%)                 7 (5.6%)                 8 (4.8%)
+                  Received wrong treatment or
+                   incorrect dose                                  0                   5 (4.0%)                 5 (3.0%)
+                  Developed withdrawal criteria but not
+                   withdrawn                                       0                   1 (0.8%)                 1 (0.6%)
+                  Received a disallowed concomitant
+                   treatment                                       0                   1 (0.8%)                 1 (0.6%)
+                  Other                                            0                       0                        0
+                     Other - COVID-19                              0                       0                        0
+                Key: RP2D = recommended Phase 2 dose
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              85
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               Table 9: Summary of Demographics, Baseline Characteristics, and Prior Therapies; Efficacy Analysis Set
+                         (Study 64007957MMY1001; Pivotal RP2D)
+                Analysis set: Efficacy                                                                   150
+                Age, years
+                     Median (Range)                                                                 64.5 (33; 84)
+                     ≥75 years                                                                       23 (15.3%)
+                Sex
+                     Female                                                                          62 (41.3%)
+                     Male                                                                            88 (58.7%)
+                Race
+                     Asian                                                                            3 (2.0%)
+                     Black or African American                                                        6 (4.0%)
+                     White                                                                           134 (89.3%)
+                     Multiple                                                                         1 (0.7%)
+                     Other                                                                            2 (1.3%)
+                     Not reported                                                                     4 (2.7%)
+
+                Time from multiple myeloma diagnosis to first dose (years)                         6.11 (0.8; 22.7)
+                Number of extramedullary plasmacytomas
+                      0                                                                              123 (82.0%)
+                      ≥1                                                                             27 (18.0%)
+                Bone marrow plasma cells ≥60%a        (n=145)                                         14 (9.7%)
+                Baseline ECOG score
+                      0                                                                              53 (35.3%)
+                      1                                                                              97 (64.7%)
+                ISS stagingb                          (n=148)
+                      I                                                                              79 (53.4%)
+                      II                                                                             52 (35.1%)
+                      III                                                                            17 (11.5%)
+                High risk cytogenetic profile (n=133)                                                36 (27.1%)
+                      del(17p)                                                                       22 (16.5%)
+                      t(4;14)                                                                        15 (11.3%)
+                      t(14;16)                                                                        3 (2.3%)
+
+                Median (Range) number of prior lines of therapyc                                         5.0 (2; 14)
+                Triple-class exposed (PI, IMiD, anti-CD38)                                             150 (100.0%)
+                Penta-drug exposed (2 PI, 2 IMiD, anti-CD38 antibody)                                   103 (68.7%)
+                Triple-class refractory                                                                 116 (77.3%)
+                Penta-drug refractory                                                                    44 (29.3%)
+                Refractory to last line of prior therapy                                                134 (89.3%)
+                Key: ECOG=eastern cooperative oncology group; IMiD=Immunomodulatory 

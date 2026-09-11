@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MI_MEN02_CRDPREV_2023_2023_SEXF",
+  "title": "Mental Health - Michigan - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784714+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Michigan",
+    "location_abbr": "MI",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "31.2",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "b2aaac055e5e97e1259299a263f1d05794753421d4183f41e607e66ed36b17f8"
+}

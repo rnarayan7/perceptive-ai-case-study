@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-annual-incidence-worldwide-1c2a730e",
+  "title": "Myasthenia gravis - Annual incidence (Worldwide) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576865+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "0.53",
+    "geographic_area": "Worldwide",
+    "validation_status": "Validated",
+    "source": "20565885[PMID]",
+    "source_pmids": [
+      "20565885"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "1c2a730e15de7f81787d92f7f4de20e2ad7a6a4374353a9ecaaa9d9dbc18abd4"
+}

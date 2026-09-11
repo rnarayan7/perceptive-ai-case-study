@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IL_ART01_AGEADJPREV_2022_2022_WHT",
+  "title": "Arthritis - Illinois - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003607+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Illinois",
+    "location_abbr": "IL",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "25.4",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "White, non-Hispanic"
+  },
+  "hash": "53ee16c947aca213f26ddcc9baf41ea57bf0704fd4d14d2ce76a0d7f6a54b913"
+}

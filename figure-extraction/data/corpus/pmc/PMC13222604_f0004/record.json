@@ -1,0 +1,105 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13222604_f0004",
+  "figure_type": "waterfall",
+  "title": "Anlotinib Plus Immune Checkpoint Inhibitors versus Chemotherapy in Elderly Patients with Extensive-Stage Small-Cell Lung Cancer: A Real World, Exploratory Study.",
+  "caption": "Waterfall plot of the best percentage in target lesion from baseline after treatment of anlotinib plus ICIs regimens and single-agent chemotherapy.",
+  "context": "Waterfall plot of the best percentage in target lesion from baseline after treatment of anlotinib plus ICIs regimens and single-agent chemotherapy. Specifically, the best percentage change in target lesion from baseline of the two groups was illustrated in Figure 4 , each bar represented an individual patient.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13222604/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-05-27",
+  "retrieved_at": "2026-09-07T12:58:42.068254+00:00",
+  "ground_truth": [
+    {
+      "quantity": "Anlotinib plus ICIs group, total patients (N)",
+      "value": "54",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Single-agent chemotherapy group, total patients (N)",
+      "value": "54",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Anlotinib plus ICIs, leftmost (highest) bar value",
+      "value": "62%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Single-agent chemotherapy, leftmost (highest) bar value",
+      "value": "78%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Single-agent chemotherapy, deepest (most negative) bar value",
+      "value": "-58%",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Anlotinib plus ICIs, bars exceeding +20% threshold",
+      "value": "7 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Anlotinib plus ICIs, bars exceeding -30% threshold",
+      "value": "20 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Single-agent chemotherapy, bars exceeding +20% threshold",
+      "value": "21 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "Single-agent chemotherapy, bars exceeding -30% threshold",
+      "value": "9 bars",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13222604",
+    "pmid": "42226757",
+    "journal": "Drug design, development and therapy",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "a3ceeac267340b3ae1b4f1045499b0178e859ba092cfd01d7ccda1aac27b22d9",
+  "image_file": "image.jpg"
+}

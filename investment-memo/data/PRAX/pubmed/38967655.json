@@ -1,0 +1,16 @@
+{
+  "company": "PRAX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "38967655",
+  "title": "Persistent sodium currents in neurons: potential mechanisms and pharmacological blockers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38967655/",
+  "published": "2024-01-01",
+  "retrieved_at": "2026-09-07T12:53:46.199668+00:00",
+  "metadata": {
+    "journal": "Pflugers Archiv : European journal of physiology",
+    "year": "2024",
+    "pmid": "38967655"
+  },
+  "hash": "013e48e433ae3b8f26bc3803bcc86dd009ea37ba0d0d57c7f539b143040a9f04"
+}

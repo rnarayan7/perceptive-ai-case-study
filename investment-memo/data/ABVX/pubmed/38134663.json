@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "38134663",
+  "title": "Structure activity relationship and target prediction for ABX464 analogues in Caenorhabditis elegans.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38134663/",
+  "published": "2024-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.557781+00:00",
+  "metadata": {
+    "journal": "Bioorganic & medicinal chemistry",
+    "year": "2024",
+    "pmid": "38134663"
+  },
+  "hash": "fadff0a1ab51bb1884bd0b117dbd57c5a82e6d5e58c3e5d44e319dbaf0700ee2"
+}

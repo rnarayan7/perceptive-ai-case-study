@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-DE_ART01_CRDPREV_2022_2022_OVR",
+  "title": "Arthritis - Delaware - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203385+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Delaware",
+    "location_abbr": "DE",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "27.7",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "c1023272fe61130b6d9f13515c08b35ca79274bef80e4c92a3c52610cb7cd82b"
+}

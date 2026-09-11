@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13356335_fig5-11795549261468467",
+  "figure_type": "kaplan_meier",
+  "title": "Efficacy of Pembrolizumab as a Second- or Third-Line Therapy in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: A Multicenter Retrospective Study in Vietnamese Patients.",
+  "caption": "Kaplan-Meier curves for OS according to PD-L1 expression categories by CPS. CPS, combined positive score; OS, overall survival",
+  "context": "Kaplan-Meier curves for OS according to PD-L1 expression categories by CPS. CPS, combined positive score; OS, overall survival Kaplan-Meier curves and multivariate Cox regression analysis demonstrated that patients with high PD-L1 expression (CPS≥20) exhibited significantly improved PFS ( Figure 4 ) and OS ( Figure 5 ) compared with those with CPS<20 ( Table 3 , HR for PFS: 0.452, 95% CI, 0.245-0.832, P=0.005; Table 4 , HR for OS: 0.373, 95% CI, 0.157-0.884, P=0.025).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13356335/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:51:43.040729+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.452 (95% CI 0.245-0.832)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "ared with those with CPS<20 ( Table 3 , HR for PFS: 0.452, 95% CI, 0.245-0.832, P=0.005; Table 4 , HR for OS: 0.373, 9",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.373 (95% CI 0.157-0.884)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "95% CI, 0.245-0.832, P=0.005; Table 4 , HR for OS: 0.373, 95% CI, 0.157-0.884, P=0.025).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13356335",
+    "pmid": "42438489",
+    "journal": "Clinical Medicine Insights. Oncology",
+    "fig_label": "Figure 5."
+  },
+  "image_hash": "d3f9d004a4e4671e35ecc310a93802a6c61fbb6da6d9d06772c61a05db6b826a",
+  "image_file": "image.jpg"
+}

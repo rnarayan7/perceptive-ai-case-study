@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IA_ART01_AGEADJPREV_2020_2020_SEXF",
+  "title": "Arthritis - Iowa - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003510+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Iowa",
+    "location_abbr": "IA",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "24.8",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "638baa81d340dc100c047e10acd9eefd5fdac9584a97eada48a7f793a70a738b"
+}

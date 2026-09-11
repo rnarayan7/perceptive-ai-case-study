@@ -1,0 +1,93 @@
+Item 1A. Risk Factors
+
+Our business involves a high degree of risk. You should carefully consider the risks described in “Part I, Item 1A. Risk Factors” of our Annual Report filed with the SEC on May 20, 2026, together with the other information contained in this Quarterly Report, including our unaudited condensed consolidated financial statements and the related notes appearing elsewhere in this Quarterly Report. We cannot assure you that any of the events discussed in these risk factors will not occur. These risks could have a material and adverse impact on our business, results of operations, financial condition and cash flows and, if so, our future prospects would likely be materially and adversely affected. If any of such events were to happen, the trading price of shares of our common stock could decline, and you could lose all or part of your investment. During the quarter ended June 30, 2026, our risk factors have not changed materially from those described in our Annual Report, except for the risk factors noted below.
+
+Interim, preliminary or topline data from our clinical trials that we announce or publish from time to time may change as more patient data become available and are subject to audit and verification procedures that could result in material changes in the final data.
+
+From time to time, we may publicly disclose interim, preliminary or topline data from our clinical trials, which are based on a preliminary analysis of then-available data. These results and related findings and conclusions are subject to change following a full analysis of all data related to the particular trial.
+
+We also make assumptions, estimations, calculations and conclusions as part of our analyses of data, and we may not have received or had the opportunity to fully and carefully evaluate all data. As a result, the interim, preliminary and topline results that we report may differ from future results of the same trials, or different conclusions or considerations may qualify such results, once additional data have been received and fully evaluated. Topline data also remain subject to audit and verification procedures that may result in the final data being materially different from the topline data we previously reported. As a result, interim, preliminary and topline data should be viewed with caution until the final data are available. Interim data are subject to the risk that one or more of the clinical outcomes may materially change as patient enrollment continues and more patient data become available. Adverse differences between interim, preliminary or topline data and final data could significantly harm our business prospects. Further, disclosure of preliminary or interim data by us or by our competitors could result in increased volatility in the price of our shares.
+
+Further, other parties, including our collaborators or regulatory agencies, may not accept or agree with our assumptions, estimates, calculations, conclusions or analyses or may interpret or weigh the importance of data differently, which could impact the value of the particular program, the approvability or commercialization of a particular product candidate and our business in general.
+
+In addition, our analyses, interpretations and presentation of clinical trial data may evolve over time, including through changes to primary or secondary endpoints, statistical methods, endpoint hierarchies, or the methodologies used to calculate or present them. We may make these changes to ongoing studies. We may also conduct post-hoc, retrospective, subgroup or other modified data or statistical analyses after database lock or unblinding of a clinical trial. Regulatory authorities may give less weight to, or decline to accept, results based on such changes or analyses conducted thereafter, including on the basis that such changes in endpoints or analytical methodology are not adequately justified, which could adversely affect our ability to obtain regulatory approval.
+
+28
+
+Table of Contents
+
+In addition, the information we choose or are required to publicly disclose regarding a particular study or clinical trial is based on what is typically extensive information, and you or others may not agree with what we determine is the material or otherwise appropriate information to include in our disclosure. Any information we determine not to disclose may ultimately be deemed significant with respect to future decisions, conclusions, views, activities or otherwise regarding a particular product, product candidate or our business. If the interim, preliminary or topline data that we report differ from later, final or actual results, or if others, including our collaborators or regulatory authorities, disagree with the conclusions reached, our ability to obtain approval for and commercialize our product candidates and our business, operating results, prospects or financial condition may be harmed.
+
+Clinical trials and preclinical studies are very expensive, time-consuming, difficult to design and implement and involve uncertain outcomes. We may encounter substantial delays in clinical trials, or may not be able to conduct or complete clinical trials or preclinical studies on the expected timelines, if at all.
+
+Our biopharmaceutical product candidates that are in clinical development or preclinical studies will require, as applicable, extensive clinical testing before a New Drug Application (“NDA”) or other similar application for regulatory approval, such as a Biologics License Application (“BLA”) or an application for marketing authorization in the European Union (“E.U.”) or United Kingdom (“U.K.”), may be submitted, or extensive preclinical testing before an Investigational New Drug application (“IND”) or an application for authorization to conduct a clinical trial in the E.U. or U.K. may be submitted, a Clinical Trial Application (“CTA”). We cannot provide any assurance that we will submit an IND, NDA, CTA or other similar application for regulatory approval for our product candidates within projected timeframes or whether any such application will be accepted for review or ultimately approved by the relevant regulatory authorities.
+
+We cannot provide any assurance that any clinical trials will be conducted as planned or completed on schedule, if at all. Clinical trials and preclinical studies are very expensive, time-consuming and difficult to design and implement, in part because they are subject to rigorous regulatory requirements. The clinical trial process is also time-consuming and costly and is dependent upon collaboration with many contract research organizations (“CROs”) and clinical trial sites. For instance, the FDA, an institutional review board (“IRB”), an Ethics Committee (“EC”) or other regulatory authorities may not agree with the proposed analysis plans or trial design for the clinical trials of our product candidates, and during any such review, may identify unexpected efficacy or safety concerns, which may delay the effective date of an IND or approval of an NDA, BLA or similar application. The FDA, the European Medicines Agency (“EMA”), the European Commission, the Medicines and Healthcare products Regulatory Agency (“MHRA”) or other relevant regulatory authority may also find that the benefits of any product candidate in any applicable indication do not outweigh its risks in a manner sufficient to grant regulatory approval.
+
+The FDA or other regulatory authorities may also not agree with the scope of our proposed investigational plan. For example, they may find that our proposed development program is not sufficient to support a marketing authorization application, or that the proposed indication is considered to be too broad. Moreover, the FDA or other regulatory authorities may also refuse or impose certain restrictions on our reliance on data supporting our clinical trial application or marketing authorization application should such data originate from studies outside of the relevant jurisdiction or be affected by regulatory non-compliance, including issues of data integrity. In the E.U., data derived from clinical trials that were conducted outside the E.U. cannot be used to support a CTA unless the clinical trial was registered on a relevant database. In each case, this could delay the clinical development and authorization timeline for a given product candidate.
+
+Failures can occur at any stage of development, including clinical trials or preclinical studies, and we could encounter problems that cause us to abandon or repeat clinical trials or preclinical studies. In addition, results from clinical trials or preclinical studies may require further evaluation, delaying the next stage of development or submission of an IND or an NDA or similar application in the U.S. or another jurisdiction. Further, product candidates in later stages of clinical trials may fail to show the desired safety and efficacy results despite having successfully progressed through preclinical and earlier stage clinical trials. Such product candidates may exhibit safety signals in later stage clinical trials that they did not exhibit in earlier studies or trials. A number of companies in the biopharmaceutical industry have suffered significant setbacks in, or the discontinuation of, advanced clinical trials with a product candidate due to lack of efficacy or adverse safety findings, despite having promising results in earlier trials or studies. Likewise, the results of early clinical trials or preclinical studies of our product candidates may not be predictive of the results of current or future development programs. There can also be no assurance that the results of studies conducted by collaborators or other third parties with similar product candidates in similar indications will be viewed favorably or indicative of our own future trial results.
+
+29
+
+Table of Contents
+
+The commencement and completion of clinical trials and other studies may be delayed by several factors, including:
+
+•the inability to generate sufficient data to support the initiation or continuation of clinical trials;
+
+•difficulty identifying patients and enrolling them in clinical trials and other studies, including as a result of competing trials run by other pharmaceutical companies;
+
+•the failure to add, or delays in activating, a sufficient number of clinical trial sites;
+
+•the inability to reach agreement on acceptable terms with prospective CROs and clinical trial sites, the terms of which can be subject to extensive negotiation and may vary significantly among different CROs and trial sites;
+
+•the failure by our CROs or other third parties to adhere to clinical trial agreements;
+
+•the failure to manufacture or release sufficient quantities of our product candidates or failure to obtain sufficient quantities of active comparator medications for our clinical trials, if applicable, that in each case meet our quality standards, for use in clinical trials;
+
+•the inability or unwillingness of clinical investigators or study participants to follow our clinical and other applicable protocols or applicable regulatory requirements;
+
+•unforeseen safety issues, or subjects experiencing severe or unexpected adverse events;
+
+•a lack of clinical benefit or effectiveness being demonstrated during clinical trials;
+
+•the occurrence of serious adverse events in trials of the same class of agents conducted by other sponsors;
+
+•premature discontinuation of study participants from clinical trials or missing data;
+
+•the inability to monitor patients adequately during or after treatment;
+
+•inappropriate unblinding of trial results;
+
+•changes in the market that render continued development of a product candidate no longer reasonable or commercially attractive;
+
+•the cost of clinical trials of our product candidates being greater than we anticipated;
+
+•unanticipated impact from changes in or modifications to protocols or clinical trial design, including those that may be required by the FDA or other regulatory authorities;
+
+•changes to our statistical analysis plans or the method of calculating primary or secondary endpoints, including changes required by, or subsequently rejected by, the FDA or other regulatory authorities;
+
+•the failure to obtain regulatory authorization to commence a clinical trial or reach consensus with regulatory authorities regarding the design or implementation of our studies;
+
+•resolving any dosing issues, including those raised by the FDA or other regulatory authorities;
+
+•changes in regulatory requirements and guidance that require amending or submitting new clinical protocols;
+
+•changes in the approval policies or regulations of the FDA or other regulatory authorities;
+
+•an IRB or EC refusing to approve, suspending, or terminating the trial at an investigational site, precluding enrollment of additional subjects, or withdrawing their approval of the trial; or
+
+•other regulatory issues, including the receipt of any inspectional observations on FDA’s Form-483, Warning or Untitled Letters, clinical holds or complete response letters or similar communications/objections by other regulatory authorities.
+
+We, the FDA or other regulatory authorities may suspend our clinical trials in an entire country at any time, or an IRB/EC may suspend our clinical trial sites within any country, if it appears that we or our collaborators, or the principal investigator, are failing to conduct a trial in accordance with the protocol, applicable regulatory requirements, including Good Clinical Practice (“GCP”) regulations, that we are exposing participants to unacceptable health risks, or if the FDA or other regulatory authority finds deficiencies in our IND or equivalent applications for other countries or in the manner in which clinical trials are conducted. Such authorities may suspend or terminate a clinical trial due to a number of factors, including failure to conduct the clinical trial in accordance with regulatory requirements or our clinical protocols, inspection of the clinical trial operations or trial site by the FDA, the competent authorities of the E.U. Member States and the U.K. or other regulatory authorities resulting in the imposition of a clinical hold, unforeseen safety issues or adverse side effects, failure to demonstrate a clinical benefit from using a product candidate, changes in governmental regulations or administrative actions, developments on trials conducted by us or our competitors for related technology that raises regulatory concerns about risk to patients of the technology broadly, or lack of adequate funding to continue the clinical trial. Therefore, we cannot predict with any certainty the schedule for commencement and completion of future clinical trials.
+
+30
+
+Table of Contents
+
+If we experience delays in the commencement or completion of our clinical trials, or if we terminate a clinical trial prior to completion, the commercial prospects of our product candidates could be harmed, and our ability to generate product revenue from any of our product candidates, if approved, may be delayed. In addition, any delays in our clinical trials could increase our costs, cause a decline in our share price, slow down the approval process, and jeopardize our ability to commence product sales and generate revenue. Any of these occurrences may harm our business, financial condition and results of operations. In addition, many of the factors that cause or lead to a termination or suspension of, or delay in the commencement or completion of clinical trials may also ultimately lead to the denial of regulatory approval of our product candidates. We may make formulation or manufacturing changes to our product candidates, in which case we may need to conduct additional preclinical or clinical studies to bridge our modified product candidates to earlier versions. Any delays to our clinical trials that occur as a result could shorten any period during which we may have the exclusive right to commercialize our product candidates and our competitors may be able to bring product candidates to market before we do, and the commercial viability of our product candidates could be significantly reduced.
+
+Moreover, principal investigators for our clinical trials may serve as scientific advisors or consultants to us from time to time and receive compensation in connection with such services. Under certain circumstances, we may be required to report some of these relationships to the FDA or other regulatory authorities. The FDA or other regulatory authorities may conclude that a financial relationship between us and a principal investigator has created a conflict of interest or otherwise affected the integrity of the study. The FDA or other regulatory authorities may therefore question the integrity of the data generated at the applicable clinical trial site and the utility of the clinical trial itself may be jeopardized. This could result in a delay in approval, or rejection, of our marketing and authorization applications by the FDA or other regulatory authorities, as the case may be, and may ultimately lead to the denial of marketing approval of any of our product candidates.
+
+In addition, for our product candidates that are in clinical development, prior to our acquisition of the rights to those product candidates we had no involvement with or control over the preclinical or clinical development of those product candidates. We are therefore dependent on our licensing and other transaction partners having conducted such research and development in accordance with the applicable protocols and legal, regulatory and scientific standards, having used appropriately regulated and compliant equipment and devices during the preclinical or clinical development, having accurately reported the results of all clinical trials and other research they conducted prior to our acquisition of the rights to those product candidates, having correctly collected and interpreted the data from these trials and other research and having supplied us with complete information, data sets and reports required to adequately demonstrate the results reported through the date of our acquisition of these product candidates. Problems associated with the pre-acquisition development of our product candidates could result in increased costs and delays in the commercialization or development of our product candidates, which could harm our ability to generate any future revenue from sales of our product candidates following regulatory approval.

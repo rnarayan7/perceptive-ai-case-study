@@ -1,0 +1,7 @@
+Drug: LACOSAMIDE 50 MG TABLET
+NDC: 16714054801
+NADAC per unit: $0.11527
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

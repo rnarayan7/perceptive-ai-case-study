@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000168954826000083-pi-item3",
+  "title": "Praxis Precision Medicines, Inc. 10-Q (2026-08-06) - Quantitative and Qualitative Disclosures About Market Risk",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-07T12:53:48.528487+00:00",
+  "metadata": {
+    "accession": "0001689548-26-000083",
+    "cik": 1689548,
+    "form": "10-Q",
+    "primary_document": "prax-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-06",
+    "items": "",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/prax-20260630.htm",
+    "section": "Quantitative and Qualitative Disclosures About Market Risk",
+    "section_key": "pi-item3"
+  },
+  "hash": "d85ae2d6b2cf04ee33f5224d67ce6ed7a5e6a0038f62b6aa1b62eab052358f49"
+}

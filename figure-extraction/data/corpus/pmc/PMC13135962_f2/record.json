@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13135962_f2",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of local consolidative therapy combined with systemic therapy in driver-negative oligometastatic non-small cell lung cancer: a systematic review and meta-analysis.",
+  "caption": "Overall survival (OS) analysis.  (A)  Forest plot showing pooled hazard ratios (HRs) for OS comparing systemic therapy plus local consolidative therapy (LCT) versus systemic therapy alone.  (B)  Cumulative meta-analysis of OS, performed in chronological order of publication, demonstrating the temporal stability of the pooled treatment effect over time.",
+  "context": "Overall survival (OS) analysis.  (A)  Forest plot showing pooled hazard ratios (HRs) for OS comparing systemic therapy plus local consolidative therapy (LCT) versus systemic therapy alone.  (B)  Cumulative meta-analysis of OS, performed in chronological order of publication, demonstrating the temporal stability of the pooled treatment effect over time. The RCT quality assessment plots and summary plots are presented in Supplementary Figures 1 , 2 , respectively. Overall survival Pooled analysis demonstrated that the addition of LCT was associated with a significant improvement in overall survival compared with systemic therapy alone (HR = 0.45, 95% CI 0.36-0.56, Figure 2A ), with moderate heterogeneity observed among studies (I² = 47.4%). Cumulative meta-analysis revealed a progressively stabilized survival benefit over time, with the pooled effect size converging to an HR of 0.45 by 2025, indicating a consistent and durable association between LCT and improved OS as evidence accumulated ( Figure 2B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13135962/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-04-20",
+  "retrieved_at": "2026-09-07T13:05:51.654803+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.45 (95% CI 0.36-0.56)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "l compared with systemic therapy alone (HR = 0.45, 95% CI 0.36-0.56, Figure 2A ), with moderate heterogenei",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13135962",
+    "pmid": "42088207",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "acd134a766206f95ddd1b8bcad5ef7f5df06089ceffb32e2397b3b64e630b40d",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13070488_noaf258-F1",
+  "figure_type": "spider",
+  "title": "Phase II study of safusidenib erbumine in patients with chemotherapy- and radiotherapy-naïve isocitrate dehydrogenase 1-mutated WHO grade 2 gliomas.",
+  "caption": "Waterfall and spider plots of percent change in the sum of the product of perpendicular diameters of target lesions (central assessment). (A) Waterfall plots: bars are sorted by value and best overall response per RANO-LGG criteria (two-dimensional assessment). The best overall response of each patient is differentiated by the color of bars. Baseline is defined as the last measurement taken before the first dose of the study drug.  n  = 27, Red: CR; Orange: PR; Green: MR; Blue: SD; Grey: PD, *: Indicates that treatment continues. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease. (B) Spider plots: Best overall response per RANO-LGG criteria (two-dimensional assessment) of each patient is differentiated by the color of lines. Baseline is defined as the last measurement taken before the first dose of the study drug.  n  = 27, Red: CR, Orange: PR, Green: MR, Blue: SD, Grey: PD. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease.",
+  "context": "Waterfall and spider plots of percent change in the sum of the product of perpendicular diameters of target lesions (central assessment). (A) Waterfall plots: bars are sorted by value and best overall response per RANO-LGG criteria (two-dimensional assessment). The best overall response of each patient is differentiated by the color of bars. Baseline is defined as the last measurement taken before the first dose of the study drug.  n  = 27, Red: CR; Orange: PR; Green: MR; Blue: SD; Grey: PD, *: Indicates that treatment continues. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease. (B) Spider plots: Best overall response per RANO-LGG criteria (two-dimensional assessment) of each patient is differentiated by the color of lines. Baseline is defined as the last measurement taken before the first dose of the study drug.  n  = 27, Red: CR, Orange: PR, Green: MR, Blue: SD, Grey: PD. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease. The waterfall (A) and spider plots (B) of the percent change in the SPD of the target lesions are shown in Figure 1 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070488/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-03-01",
+  "retrieved_at": "2026-09-07T13:14:40.311310+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13070488",
+    "pmid": "41206766",
+    "journal": "Neuro-oncology",
+    "fig_label": "Figure 1."
+  },
+  "image_hash": "3555d0e66c27b813d1c6206922ae3039decb7152c7b440fdc33923497e056346",
+  "image_file": "image.jpg"
+}

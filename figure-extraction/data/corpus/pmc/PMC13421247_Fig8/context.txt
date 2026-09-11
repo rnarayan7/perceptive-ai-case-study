@@ -1,0 +1,64 @@
+Exploring the impact of  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{k}_{receptor}^{Liver}$$\end{document}  (receptor depletion rate) during liver tissue influx and corresponding tissue influx rates on protein production. ( A ) Two parameter heatmap of liver protein AUC fold change from baseline. Liver influx rate on x axis in varied from 0.2 to 5 folds, and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{k}_{receptor}^{Liver}$$\end{document}  value of liver influx on y axis is varied from 0.2 to 5 folds. Base value of  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{k}_{receptor}^{Liver}$$\end{document}  and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{J}}_{\mathrm{i}\mathrm{n}}^{\mathrm{L}\mathrm{i}\mathrm{v}\mathrm{e}\mathrm{r}}$$\end{document}  are indicated by horizontal and vertical dashed black lines respectively. ( B ) Liver protein AUC under three different liver tissue influx rates.  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{J}_{in}^{Liver}$$\end{document}  was varied from 0.2 to 5 folds, ( C ) Liver protein AUC under three different  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{k}_{receptor}^{Liver}$$\end{document}  values. Receptor depletion rate was varied from 0.2 to 5 folds. ( D ) Liver protein time courses, varying liver influx rate and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{k}_{receptor}^{Liver}$$\end{document}  by 0.2 and 5 folds respectively. Simulations for baseline parameter values are shown as dashed black line. mRNA dose and infusion time are fixed to 2 mg/kg and 10 min respectively

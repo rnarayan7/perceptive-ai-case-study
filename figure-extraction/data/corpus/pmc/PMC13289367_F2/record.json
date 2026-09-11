@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13289367_F2",
+  "figure_type": "pk_logscale",
+  "title": "First-in-human (phase I) trial of SOL-116, a humanised IgG4 monoclonal antibody targeting bile salt-stimulated lipase, in healthy participants and rheumatoid arthritis patients.",
+  "caption": "Pharmacokinetics of SOL-116. (a) Mean (SD) serum SOL-116 concentration—time profiles following a single s.c. injection of 0.075, 0.225, 0.675, 2.025 and 6.075 mg/kg SOL-116 in healthy participants under fasting conditions in SAD cohorts 1–5. (b) Mean (SD) serum SOL-116 concentration—time profiles following four s.c. injections of 3.0 mg/kg SOL-116 Q4W in healthy participants with arrows indicating dosing days. (c) Individual serum concentration-time graph of SOL-116 following a single s.c. injection of 2.025 mg/kg SOL-116 in patients with RA. (d) Mean (SD) SOL-116 concentration time profiles after a single s.c. SOL-116 dose of 2.025 mg/kg in healthy participants (purple) and patients with RA (black). See  online supplemental table 6  for the actual data points of all graphs. Q4W, every 4 weeks; RA, rheumatoid arthritis; SAD, single ascending dose; s.c., subcutaneous.",
+  "context": "Pharmacokinetics of SOL-116. (a) Mean (SD) serum SOL-116 concentration—time profiles following a single s.c. injection of 0.075, 0.225, 0.675, 2.025 and 6.075 mg/kg SOL-116 in healthy participants under fasting conditions in SAD cohorts 1–5. (b) Mean (SD) serum SOL-116 concentration—time profiles following four s.c. injections of 3.0 mg/kg SOL-116 Q4W in healthy participants with arrows indicating dosing days. (c) Individual serum concentration-time graph of SOL-116 following a single s.c. injection of 2.025 mg/kg SOL-116 in patients with RA. (d) Mean (SD) SOL-116 concentration time profiles after a single s.c. SOL-116 dose of 2.025 mg/kg in healthy participants (purple) and patients with RA (black). See  online supplemental table 6  for the actual data points of all graphs. Q4W, every 4 weeks; RA, rheumatoid arthritis; SAD, single ascending dose; s.c., subcutaneous. The mean CL/F and Vz/F of SOL-116 ranged from 0.013 to 0.014 L/h and 7.6 to 10.2 L, respectively ( figure 2a and table 3 ). Based on visual inspection, it appeared that SOL-116 had reached close to steady state by day 85 (predose of the fourth dose administration) ( figure 2b and table 3 ). injection of 2.025 mg/kg in patients with RA were found to be comparable to the SOL-116 PK in healthy participants receiving a similar dose, with CL/F of 0.0183 vs 0.0130 L/hour, respectively ( figure 2c , table 3 ). Variability was slightly higher in patients with RA than in healthy participants, without a clear identifiable",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13289367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-06-22",
+  "retrieved_at": "2026-09-07T13:10:47.226743+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13289367",
+    "pmid": "42331396",
+    "journal": "RMD open",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "4c39f5f80ee1b726358a234e5e98ac95df9f0eb17d940df8a008e776c14cb191",
+  "image_file": "image.jpg"
+}

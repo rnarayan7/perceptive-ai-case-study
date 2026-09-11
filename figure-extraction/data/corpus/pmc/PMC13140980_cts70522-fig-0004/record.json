@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13140980_cts70522-fig-0004",
+  "figure_type": "pk_logscale",
+  "title": "Population-Based Modeling to Predict Human PK/PD of TAK-500, an Anti-CCR2 Antibody-Drug Conjugate for First-in-Human Study in Cancer Patients.",
+  "caption": "TAK‐500 population PK projections in humans post 1 h IV infusion. The plots (A) represent simulation of PK profile of total antibody and conjugated payload in human population and (B) represent CCR2‐receptor occupancy on the surface of the monocytes by total antibody of TAK‐500 when dosed at 50, 150, and 500 μg/kg, administered intravenously for 1 h. Prediction intervals are calculated from 1000 simulations representing 90% PI. The projections are made for ADC with DAR 4. ADC, antibody drug conjugate; DAR, drug antibody ratio; PI, prediction interval; RO, receptor occupancy.",
+  "context": "TAK‐500 population PK projections in humans post 1 h IV infusion. The plots (A) represent simulation of PK profile of total antibody and conjugated payload in human population and (B) represent CCR2‐receptor occupancy on the surface of the monocytes by total antibody of TAK‐500 when dosed at 50, 150, and 500 μg/kg, administered intravenously for 1 h. Prediction intervals are calculated from 1000 simulations representing 90% PI. The projections are made for ADC with DAR 4. ADC, antibody drug conjugate; DAR, drug antibody ratio; PI, prediction interval; RO, receptor occupancy. dA 1 dt = ktp × A 2 − kel × A 1 − V max × A 1 Km × Vc + A 1 − kpt × A 1 dA 2 dt = kpt × A 1 − ktp × A 2 Cp = A 1 / Vc CObs TAK − 202 = s 3 × 1 + s 3 \" eps \" Two‐Compartment PK /RO Modeling of TAK ‐202 in Human The stepwise population PK/RO model of TAK‐202 in humans [ 3 ] was characterized by a 2‐compartment model with nonlinear clearance (Figure 4 , Equations (19) , (20) , (21) ). The human PK profiles at the potential clinical doses (50, 150, and 500 μg/kg) were simulated using the established model (Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13140980/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T13:11:54.227601+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13140980",
+    "pmid": "41888610",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 4"
+  },
+  "image_hash": "7e52fe71b8935d44a9d868eded2f2192491b8ce4901a0f05016818707974c4ee",
+  "image_file": "image.jpg"
+}

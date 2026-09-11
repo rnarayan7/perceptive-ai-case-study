@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0344268f-d8e6-48d5-b1e1-f750ed1d8a52",
+  "title": "Label: Omeprazole (OMEPRAZOLE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0344268f-d8e6-48d5-b1e1-f750ed1d8a52",
+  "published": "2026-07-17",
+  "retrieved_at": "2026-09-08T08:41:09.582842+00:00",
+  "metadata": {
+    "brand_name": "Omeprazole",
+    "generic_name": "OMEPRAZOLE",
+    "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+    "manufacturer_name": "PD-Rx Pharmaceuticals, Inc.",
+    "pharm_class_epc": "Proton Pump Inhibitor [EPC]",
+    "pharm_class_moa": "Proton Pump Inhibitors [MoA]",
+    "application_number": "ANDA078490",
+    "route": "ORAL"
+  },
+  "hash": "a4b82ea90db82200ebecb5478f5ea485f163661f7c99a8e63f706eb2e79affd0"
+}

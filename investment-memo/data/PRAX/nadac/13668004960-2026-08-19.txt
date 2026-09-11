@@ -1,0 +1,7 @@
+Drug: LAMOTRIGINE 200 MG TABLET
+NDC: 13668004960
+NADAC per unit: $0.08404
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

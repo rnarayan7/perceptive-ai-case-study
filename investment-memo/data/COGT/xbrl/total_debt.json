@@ -1,0 +1,33 @@
+{
+  "company": "COGT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "total_debt",
+  "title": "Cogent Biosciences, Inc. - Total debt (long-term) (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526342393/0001193125-26-342393-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:37.316267+00:00",
+  "metadata": {
+    "cik": 1622229,
+    "entity_name": "Cogent Biosciences, Inc.",
+    "concept": "total_debt",
+    "label": "Total debt (long-term)",
+    "taxonomy": "us-gaap",
+    "tag": "LongTermDebt",
+    "value": 223457000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001193125-26-342393",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-10",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622229.json",
+    "derived": false
+  },
+  "hash": "e0630b75268cc540d287cd05e16300faa7d21d0ba283b1b8814ac9bd4fb4c214"
+}

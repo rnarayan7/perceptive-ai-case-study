@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-SD_ART01_AGEADJPREV_2020_2020_SEXM",
+  "title": "Arthritis - South Dakota - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003195+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "South Dakota",
+    "location_abbr": "SD",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "21.3",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "4be89e8603478d8f51a543f66fe88c7ee20bb195fd64a98d9b2c22623a81ca7d"
+}

@@ -1,0 +1,14 @@
+Title: Safety, PK, PD, and Clinical Activity of Orally Administered KT-621 in Adult Patients With Atopic Dermatitis (AD)
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Atopic Dermatitis
+Interventions: KT-621 (DRUG)
+Enrollment: 22
+
+Summary: This is a study to evaluate safety, tolerability, pharmacokinetics, pharmacodynamics, and clinical activity of orally administered KT-621 in adult male and female patients with moderate to severe atopic dermatitis (AD).
+
+Primary outcomes:
+- Incidence of adverse events (AEs) (time frame: From enrollment through the safety follow-up visit on Day 43)
+- Incidence of treatment-emergent potentially clinically-significant abnormalities in electrocardiogram (ECG) results, vital signs, or laboratory test results from the serum chemistry, hematology (with differential), chemistry, or coagulation panels. (time frame: From enrollment through the safety follow-up visit on Day 43)

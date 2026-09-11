@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA077420",
+  "title": "Drugs@FDA ANDA077420: LAMOTRIGINE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A077420",
+  "published": "2009-01-27",
+  "retrieved_at": "2026-09-08T08:40:42.258304+00:00",
+  "metadata": {
+    "manufacturer": "RISING",
+    "brand_name": "LAMOTRIGINE",
+    "sponsor_name": "RISING",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LAMOTRIGINE"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "Discontinued"
+    ],
+    "approval_date": "2009-01-27",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 13
+  },
+  "hash": "256c844110d813fac05d9d08b086772e5c73f143b4ad706ede1e394113f32481"
+}

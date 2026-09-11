@@ -1,0 +1,4 @@
+FAERS adverse-event report 15736168 (comparator: avapritinib)
+Serious: yes
+Reactions: Hepatotoxicity, Wound dehiscence, Dyspnoea
+Reported drugs: AVAPRITINIB, REGORAFENIB.

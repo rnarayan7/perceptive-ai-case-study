@@ -1,0 +1,21 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "005c57c2-a323-4ab6-b994-0a63bf9b915f",
+  "title": "Label: Drug label",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=005c57c2-a323-4ab6-b994-0a63bf9b915f",
+  "published": "2021-08-04",
+  "retrieved_at": "2026-09-08T08:40:28.243088+00:00",
+  "metadata": {
+    "brand_name": null,
+    "generic_name": null,
+    "manufacturer": null,
+    "manufacturer_name": null,
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": null
+  },
+  "hash": "223461e69ef173b45048a5fda02e0d3bc4f3a98024a484e8c850c153a1bff65f"
+}

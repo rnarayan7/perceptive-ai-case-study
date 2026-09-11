@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-KY_AST02_CRDPREV_2023_2023_AGE65P",
+  "title": "Asthma - Kentucky - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T10:06:46.564958+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Kentucky",
+    "location_abbr": "KY",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": null,
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "767d7282f74960bd3e0bcbf7a06955612488b16820981a212bf994c872c73455"
+}

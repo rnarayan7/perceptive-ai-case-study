@@ -1,0 +1,22 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17583986",
+  "title": "FAERS report 17583986: Dialysis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17583986",
+  "published": "2020-03-26",
+  "retrieved_at": "2026-09-08T08:40:57.628690+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Dialysis"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "5ed022c42fa0cac921356c3c8fbb4804e87cd7e10252ce284b76135ff3ccba28"
+}

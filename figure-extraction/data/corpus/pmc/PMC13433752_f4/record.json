@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13433752_f4",
+  "figure_type": "forest",
+  "title": "Prognostic significance of tumoral Siglec-15 expression in solid tumors: a systematic review and meta-analysis.",
+  "caption": "Forest plot of the association between tumoral Siglec-15 expression and DFS/RFS  (A)  and DSS  (B)  in solid tumors. DFS, disease-free survival; DSS, disease-specific survival; HR, hazard ratio; RFS, relapse-free survival.",
+  "context": "Forest plot of the association between tumoral Siglec-15 expression and DFS/RFS  (A)  and DSS  (B)  in solid tumors. DFS, disease-free survival; DSS, disease-specific survival; HR, hazard ratio; RFS, relapse-free survival. Subgroup analyses confirmed the robustness of this association across multiple stratifications, including country, sample size, HR type, data source, scoring method, cutoff definition, and study quality ( Table 2 ; Supplementary Figures 1 – 7 ). 667 low-expression patients) showed that high Siglec-15 expression was significantly associated with poorer DFS/RFS (HR = 1.30, 95% CI: 1.09-1.55, P = 0.004, Figure 4A ). In contrast, pooled analysis of three studies suggested a borderline association between high Siglec-15 expression and improved DSS (HR = 0.66, 95% CI: 0.43-1.00, P = 0.050, Figure 4B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13433752/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-21",
+  "retrieved_at": "2026-09-07T13:07:17.361801+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "1.30 (95% CI 1.09-1.55)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "icantly associated with poorer DFS/RFS (HR = 1.30, 95% CI: 1.09-1.55, P = 0.004, Figure 4A ). In contrast, p",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.66 (95% CI 0.43-1.00)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "Siglec-15 expression and improved DSS (HR = 0.66, 95% CI: 0.43-1.00, P = 0.050, Figure 4B ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13433752",
+    "pmid": "42553325",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "f8d6ece8a5bc355ef549e9150b1187370d55c2e7f7540e76b1ae0523eb4afb89",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,16 @@
+Title: Safety and Pharmacokinetics Study in Healthy Japanese Volunteers
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Healthy Volunteers
+Interventions: ABX464 (DRUG), Placebo (DRUG)
+Enrollment: 48
+
+Summary: The study consists of Part A, a randomized double-blind, single-ascending-dose study, and Part B, a randomized, double-blind, semi-sequential, escalating multiple-dose study, in healthy Japanese volunteers.
+
+Primary outcomes:
+- Incidence of adverse events (AEs) and SAEs (time frame: 6 weeks)
+- incidence of treatment-emergent serious adverse events (time frame: 6 weeks)
+- incidence of treatment-emergent adverse events of special interest (AESIs). (time frame: 6 weeks)
+- incidence of clinically significant laboratory abnormalities (time frame: 6 weeks)

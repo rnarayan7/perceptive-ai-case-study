@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13356335_fig3-11795549261468467",
+  "figure_type": "kaplan_meier",
+  "title": "Efficacy of Pembrolizumab as a Second- or Third-Line Therapy in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: A Multicenter Retrospective Study in Vietnamese Patients.",
+  "caption": "Kaplan-Meier curve for overall survival",
+  "context": "Kaplan-Meier curve for overall survival The median OS was 7.5 months (95% CI, 5.9-9.1); the 6-month OS rate was 60% and the 12-month OS rate was 30.9% ( Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13356335/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:51:43.039329+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "7.5",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "an-Meier curve for overall survival The median OS was 7.5 months (95% CI, 5.9-9.1); the 6-month OS rate",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13356335",
+    "pmid": "42438489",
+    "journal": "Clinical Medicine Insights. Oncology",
+    "fig_label": "Figure 3."
+  },
+  "image_hash": "c45fdf916ca5f95ba8bb0532448dbe4c06c77a615d8cc6b006712633c4c5abb1",
+  "image_file": "image.jpg"
+}

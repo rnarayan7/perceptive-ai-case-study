@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13357174_f4",
+  "figure_type": "forest",
+  "title": "Impact of metastatic pattern and histologic subtype on PD-(L)1 inhibitor efficacy in HER2-negative advanced gastric and gastroesophageal cancer: a meta-analysis.",
+  "caption": "Forest plot analysis of overall survival in GC patients without liver metastasis and with liver metastasis. Pooled hazard ratios for overall survival stratified by the  (A)  presence or  (B)  absence of liver metastases.",
+  "context": "Forest plot analysis of overall survival in GC patients without liver metastasis and with liver metastasis. Pooled hazard ratios for overall survival stratified by the  (A)  presence or  (B)  absence of liver metastases. In contrast, among patients with LM, PD-(L)1 inhibitor plus chemotherapy significantly prolonged OS (HR = 0.75; 95% CI 0.68–0.82; p < 0.001; I² = 10.5%), with a similar benefit observed in patients without LM (HR = 0.82; 95% CI 0.75–0.89; p < 0.001; I² = 0%) ( Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13357174/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-29",
+  "retrieved_at": "2026-09-07T13:04:59.425157+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.75 (95% CI 0.68-0.82)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "hemotherapy significantly prolonged OS (HR = 0.75; 95% CI 0.68–0.82; p < 0.001; I² = 10.5%), with a similar",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.82 (95% CI 0.75-0.89)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "enefit observed in patients without LM (HR = 0.82; 95% CI 0.75–0.89; p < 0.001; I² = 0%) ( Figure 4 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13357174",
+    "pmid": "42444824",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "93166750e55ade2187c76550911f7b2fd9616978b7fbc22b6e36f71f5092b97b",
+  "image_file": "image.jpg"
+}

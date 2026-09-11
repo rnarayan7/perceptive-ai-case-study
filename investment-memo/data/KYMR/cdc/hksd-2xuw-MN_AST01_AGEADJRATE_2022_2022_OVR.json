@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MN_AST01_AGEADJRATE_2022_2022_OVR",
+  "title": "Asthma - Minnesota - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T10:06:15.359756+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Minnesota",
+    "location_abbr": "MN",
+    "data_source": "NVSS",
+    "value_type": "Age-adjusted Rate",
+    "value_unit": "cases per 100,000",
+    "value": "0.9",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "ae85636d3232f350eaaa179abc2f080b0eac0ec267771808e686a4d07a08fe39"
+}

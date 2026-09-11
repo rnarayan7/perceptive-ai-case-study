@@ -1,0 +1,4 @@
+FAERS adverse-event report 16079670 (comparator: tezepelumab)
+Serious: yes
+Reactions: Dyspnoea, Asthma, Full blood count abnormal, Loss of personal independence in daily activities, Sleep disorder due to a general medical condition, Wheezing, Therapeutic product effect incomplete, Cough
+Reported drugs: SPIRIVA, BUDESONIDE\FORMOTEROL FUMARATE, BUDESONIDE\FORMOTEROL FUMARATE, TIOTROPIUM BROMIDE MONOHYDRATE, THEOPHYLLINE, DUPIXENT, FLOVENT, FLOVENT, FLOVENT, PREDNISONE, PREDNISONE, SINGULAIR, BENRALIZUMAB, MEPOLIZUMAB, TERBUTALINE SULFATE, TEZEPELUMAB, OMALIZUMAB, NUCALA, NUCALA, ALBUTEROL SULFATE, SYMBICORT, SYMBICORT, VENTOLIN, ALBUTEROL SULFATE\IPRATROPIUM BROMIDE

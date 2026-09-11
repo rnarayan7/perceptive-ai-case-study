@@ -1,0 +1,22 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10262062",
+  "title": "FAERS report 10262062: Diarrhoea haemorrhagic",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10262062",
+  "published": "2014-06-24",
+  "retrieved_at": "2026-09-08T08:41:01.863182+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Diarrhoea haemorrhagic"
+    ],
+    "drugs": [
+      "MIDOSTAURIN"
+    ],
+    "occurcountry": null
+  },
+  "hash": "1672948d575ca96c4f9009ac58bdb4cef4c156f04b6df4c8f048062c14ec5735"
+}

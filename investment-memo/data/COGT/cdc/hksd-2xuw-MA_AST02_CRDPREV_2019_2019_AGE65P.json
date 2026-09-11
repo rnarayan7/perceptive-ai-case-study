@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MA_AST02_CRDPREV_2019_2019_AGE65P",
+  "title": "Asthma - Massachusetts - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.852620+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Massachusetts",
+    "location_abbr": "MA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.3",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "fc4e9ac5b63edd0bfa6bcbaba4a252f4b04468b937924822f320d07eea3aa932"
+}

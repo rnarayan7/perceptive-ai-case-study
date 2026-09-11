@@ -1,0 +1,118 @@
+Maximum protein expression ( \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{C}_{max}$$\end{document} ) at different cellular types in the liver with varying LNP cellular uptake rate. ( A ) Protein  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{C}_{max}$$\end{document}  in hepatocyte, Kupffer cell, and total liver while varying  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{H}\mathrm{e}\mathrm{p}}$$\end{document}  and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{K}\mathrm{u}\mathrm{p}}$$\end{document}  simultaneously from 0.2 to 5 fold of the base value, ( B ) 2D color map of protein  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{C}_{max}$$\end{document}  within hepatocyte, varying  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{H}\mathrm{e}\mathrm{p}}$$\end{document}  and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{K}\mathrm{u}\mathrm{p}}$$\end{document}  from 0.2 to 5 folds. (C) 2D color map of protein  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{C}_{max}$$\end{document}  within Kupffer cell, varying  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{H}\mathrm{e}\mathrm{p}}$$\end{document}  and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{K}\mathrm{u}\mathrm{p}}$$\end{document}  from 0.2 to 5 folds. ( D ) 2D color map of total liver protein  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{C}_{max}$$\end{document} , varying  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{H}\mathrm{e}\mathrm{p}}$$\end{document}  and  \documentclass[12pt]{minimal}
+                                                  \usepackage{amsmath}
+                                                  \usepackage{wasysym}
+                                                  \usepackage{amsfonts}
+                                                  \usepackage{amssymb}
+                                                  \usepackage{amsbsy}
+                                                  \usepackage{mathrsfs}
+                                                  \usepackage{upgreek}
+                                                  \setlength{\oddsidemargin}{-69pt}
+                                                  \begin{document}$$\:{\mathrm{k}}_{\mathrm{u}\mathrm{p}}^{\mathrm{K}\mathrm{u}\mathrm{p}}$$\end{document}  from 0.2 to 5 folds

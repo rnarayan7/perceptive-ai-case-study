@@ -1,0 +1,90 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+
+
+               Abbreviations: BID = twice daily; C1D1 = Cycle 1 Day 1; cGVHD = chronic graft versus host disease; mITT = modified
+               intent-to-treat; QD = once daily.
+               Notes: CIs were calculated using the Clopper-Pearson interval (exact) method. The vertical bar references 30%,
+               which was considered clinically meaningful in an unmet need population. The data cutoff date was
+               19 February 2020.
+               Source: ISE Figure 3.1A1.
+
+                        The Applicant’s Position:
+
+               Among subjects in the 200 mg QD group, there were significant differences in ORR in the
+               subgroups analyses of age group and number of prior lines of therapy. As demonstrated by the
+               forest plots, the 95% CIs for each comparison are inclusive of 30%, indicating statistically
+               significant differences in ORR in these observed subgroups.
+
+                                                                      189
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 13     Forest Plot of Overall Response Rate by Subgroup – 200 mg QD dose, mITT
+               Population, Phase 2 Analysis Group
+
+
+
+
+                                                                     188
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Dose/Dose Response
+
+                        Data:
+
+               See the overall response rates by dosing groups in Table 48.
+
+                        The Applicant’s Position:
+
+               No dose response was observed. As assessed by best overall response and ORR, belumosudil
+               demonstrated clinically meaningful activity and a treatment effect at all dose levels evaluated.
+
+               Durability of Response
+
+                        The Applicant’s Position:
+
+               Belumosudil induced durable responses in subjects with cGVHD. Based on results of Studies
+               KD025-208 and KD025-213 in subjects who received belumosudil 200 mg QD, median DOR
+               (primary) was 24.1 weeks (95% CI: 11.4, NA). No dose change was necessary to achieve durable
+               responses.
+
+               Persistence of Effect
+
+                        The Applicant’s Position:
+
+               There are no known tolerance effects associated with belumosudil treatment.
+
+               Additional Efficacy Considerations
+
+
+
+
+                                                                     190
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+

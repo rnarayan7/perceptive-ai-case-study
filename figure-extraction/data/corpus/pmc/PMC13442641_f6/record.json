@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13442641_f6",
+  "figure_type": "kaplan_meier",
+  "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+  "caption": "Risk stratification efficiency of the FLIPI-SII model for OS, PFS, and POD24.  (A)  Kaplan-Meier curve for overall survival (OS) probability by FLIPI-SII group.  (b)  Kaplan-Meier curve for progression-free survival (PFS) by FLIPI-SII group.  (c)  Bar chart comparing POD24 incidence percentages by FLIPI-SII group.",
+  "context": "Risk stratification efficiency of the FLIPI-SII model for OS, PFS, and POD24.  (A)  Kaplan-Meier curve for overall survival (OS) probability by FLIPI-SII group.  (b)  Kaplan-Meier curve for progression-free survival (PFS) by FLIPI-SII group.  (c)  Bar chart comparing POD24 incidence percentages by FLIPI-SII group. Patients in the high-risk subgroups (L3–4, L5–6) presented remarkably shorter OS (P< 0.0001) and PFS (P = 0.00014) ( Figures 6A, B ). The POD24 incidence increased gradually from 6.0% (L0 group) to 29.0% (L5–6 group) (P = 0.011; Figure 6C ). Head-to-head comparison with the FLIPI24 index To evaluate the comparative prognostic efficiency of the FLIPI-SII model against state-of-the-art stratification tools, a direct head-to-head analysis with the recently proposed FLIPI24 index was performed in a complete-case subset ( N = 468, Supplementary Figure 6 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13442641/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:53:32.898752+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13442641",
+    "pmid": "42564252",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "482078c5e37281809f4f2d13e2724cfa18d27dd81a507de3a00efbb91a2ef3b8",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13225986_f1",
+  "figure_type": "waterfall",
+  "title": "Paired ctDNA analysis reveals diverse resistance mechanisms to mobocertinib in EGFR exon 20 insertion NSCLC.",
+  "caption": "Clinical response to mobocertinib according to EGFR exon 20 insertion subtype.  (A)  Objective response rate by insertion site;  (B)  Progression-free survival stratified by insertion region;  (C)  Waterfall plot showing the maximum percentage change in target lesions.",
+  "context": "Clinical response to mobocertinib according to EGFR exon 20 insertion subtype.  (A)  Objective response rate by insertion site;  (B)  Progression-free survival stratified by insertion region;  (C)  Waterfall plot showing the maximum percentage change in target lesions. Median PFS was 5.6 months (95% CI 3.5–9.3) and median DOR was 5.8 months (95% CI 3.31–NE; Supplementary Figures 1A, B ). The insertion sites of the patients who had PR as their best ORR were as follows: 100.0% in the helical region, 61.5% in the near-loop, 0% in the far-loop, and 75.0% in patients with no ctDNA detected ( Figure 1A ; S3 ). Among patients with baseline EGFR mutations, the median PFS was longest for the near-loop region (5.8 months, 95% CI: 3.6–NE), followed by helical region (3.8 months, 95% CI: 2.5–NE), and far-loop region (2.7 months, 95% CI: 1.8–NE; Figure 1B ). The median rate of change in target volume lesions was also analyzed based on insertion site: 26.8% decrease in the helical region, 25.0% decrease in the near-loop, and 16.0% increase in the far-loop ( Figure 1C ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13225986/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-19",
+  "retrieved_at": "2026-09-07T12:59:01.869922+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "5.6",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "um percentage change in target lesions. Median PFS was 5.6 months (95% CI 3.5–9.3) and median DOR was 5.8",
+      "verified": false
+    },
+    {
+      "quantity": "median (candidate)",
+      "value": "5.8",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "PFS was 5.6 months (95% CI 3.5–9.3) and median DOR was 5.8 months (95% CI 3.31–NE; Supplementary Figures",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13225986",
+    "pmid": "42239888",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "cc81a3bb15034f83d14976443ab9f8121309b687a5db2553bd4f81844a95f9da",
+  "image_file": "image.jpg"
+}

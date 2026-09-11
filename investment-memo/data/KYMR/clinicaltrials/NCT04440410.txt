@@ -1,0 +1,13 @@
+Title: Evaluation of Cutaneous and Circulating Inflammatory Biomarkers in Hidradenitis Suppurativa and Atopic Dermatitis
+Status: COMPLETED
+Study type: OBSERVATIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Hidradenitis Suppurativa, Dermatitis, Atopic
+Enrollment: 40
+
+Summary: This non-intervention study will identify the biomarker profiles in hidradenitis suppurativa (HS) and atopic dermatitis (AD) (as a comparator) that would have the most utility in interventional studies evaluating efficacy during therapeutic intervention. Study data will also be used to correlate cellular/molecular changes in blood (cells and serum), and tissue, with clinical/histopathological phenotypes.
+
+Primary outcomes:
+- Biomarker Identification (time frame: Day 1)
+- Determination of Biomarker Correlations (time frame: Day 1)
+- Examination of IRAK4 Degradation Effects Ex Vivo (time frame: Day 1)

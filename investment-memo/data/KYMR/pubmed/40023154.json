@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "40023154",
+  "title": "HIF regulates multiple translated endogenous retroviruses: Implications for cancer immunotherapy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40023154/",
+  "published": "2025",
+  "retrieved_at": "2026-09-07T08:25:52.541300+00:00",
+  "metadata": {
+    "journal": "Cell",
+    "year": "2025",
+    "pmid": "40023154"
+  },
+  "hash": "47aa26ee6d0642e4b17d6c397c4101ce2c817c5ecbf0f5e20df76ae986711ef2"
+}

@@ -1,0 +1,55 @@
+
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               Q2W for ipilimumab in pediatric patients weighing <40 kg.
+
+                                General Dosing and Therapeutic Individualization
+
+                           6.2.2.1.     General Dosing
+
+               The Applicant’s Position:
+               Proposed Dosage and Administration
+               Recommended doses and schedules are presented in Table 3.
+
+               Confirmation of the selected Doses and Regimens
+               • Clinical efficacy and safety results: The recommended dosing regimens were supported by
+                  the nivolumab and ipilimumab PPK and E-R safety analyses to support the PK-based efficacy
+                  extrapolation from adult pivotal efficacy studies to adolescents in advanced melanoma and
+                  adjuvant treatment of melanoma.
+               • PPK analysis: The PK of nivolumab is adequately characterized by a 2 compartment, zero-
+                  order IV infusion PK model with time-varying CL for advanced melanoma and solid tumor,
+                  and with stationary CL for adjuvant treatment of melanoma. The PK of ipilimumab is also
+                  adequately characterized by a 2 compartment, zero-order IV infusion PK model with time-
+                  varying CL for advanced melanoma and solid tumors. Details of the PPK assessments to
+                  characterize adolescent PK for nivolumab and ipilimumab are provided in section 6.3 and
+                  the Appendix.
+               • Exposure-Response safety analysis:
+                  Dosing Recommendation for Advanced Melanoma Nivolumab Monotherapy
+                  Despite higher exposures predicted for adolescents versus adults when given the adult
+                  approved dosing regimens (exposures exceeding the adult range up to 25.0%, 26.0% and
+                  31.6% higher Cavgss, Cminss, and Cmaxss, respectively for 240 mg Q2W and up to 32.8%,
+                  31.4% and 41.2% higher Cavgss, Cminss, and Cmaxss, respectively for 480 mg Q4W), the
+                  pooled E-R safety analysis predicted lower median Gr2+ IMAEs with overlapping 90% PIs in
+                  adolescents versus adults when using the approved adult dosing regimens (Table 6 and
+                  Table 7). Body weight-based dosing for adolescent < 40 kg is recommended and avoids the
+                  potential for higher exposure in low body weight subjects using adult flat dosing.
+                  Dosing Recommendation for Advanced Melanoma Nivolumab in Combination with
+                  Ipilimumab
+                  Despite higher exposures predicted for adolescents versus adults when given the adult
+                  approved dosing regimens (exposures exceeding the adult range up to 15.7%, 19.3%, and
+                  26.1% higher Cavg4, Cmin4, and Cmax4, respectively for nivolumab and up to 39%, 56%,
+                  and 35% higher Cavg4, Cmin4, and Cmax4, respectively for ipilimumab), the pooled E-R
+                  safety analysis predicted lower median Gr2+ IMAEs with overlapping 90% PIs in adolescent
+                  versus adult when using the approved adult dosing regimens (Table 11 and Table 12).
+                  Nivolumab maintenance dosing after the combination uses the same dosing
+                  recommendations for nivo mono.
+                                                                 59
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+

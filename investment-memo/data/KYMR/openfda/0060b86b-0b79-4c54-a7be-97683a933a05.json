@@ -1,0 +1,21 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0060b86b-0b79-4c54-a7be-97683a933a05",
+  "title": "Label: PredniSONE (PREDNISONE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0060b86b-0b79-4c54-a7be-97683a933a05",
+  "published": "2023-08-31",
+  "retrieved_at": "2026-09-08T08:40:28.243258+00:00",
+  "metadata": {
+    "brand_name": "PredniSONE",
+    "generic_name": "PREDNISONE",
+    "manufacturer": "A-S Medication Solutions",
+    "manufacturer_name": "A-S Medication Solutions",
+    "pharm_class_epc": "Corticosteroid [EPC]",
+    "pharm_class_moa": "Corticosteroid Hormone Receptor Agonists [MoA]",
+    "application_number": "ANDA080352",
+    "route": "ORAL"
+  },
+  "hash": "5ebe98874cbe5951d8b629c43affe167c03a58f70e216cde5ba7bc5f77a5b403"
+}

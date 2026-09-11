@@ -1,0 +1,21 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "595f437d-2729-40bb-9c62-c8ece1f82780",
+  "title": "Label: Dupixent (DUPILUMAB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780",
+  "published": "2026-04-22",
+  "retrieved_at": "2026-09-08T08:40:18.263753+00:00",
+  "metadata": {
+    "brand_name": "Dupixent",
+    "generic_name": "DUPILUMAB",
+    "manufacturer": "Sanofi-Aventis U.S. LLC",
+    "manufacturer_name": "Sanofi-Aventis U.S. LLC",
+    "pharm_class_epc": "Interleukin-4 Receptor alpha Antagonist [EPC]",
+    "pharm_class_moa": "Interleukin 4 Receptor alpha Antagonists [MoA]",
+    "application_number": "BLA761055",
+    "route": "SUBCUTANEOUS"
+  },
+  "hash": "1cb10b1368e859ea014e9ff0253f00b871a593e757ffd8034480cddbfcd7e6c6"
+}

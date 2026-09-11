@@ -1,0 +1,47 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03189836",
+  "title": "Study of ACTR707 in Combination With Rituximab in Subjects With Relapsed or Refractory B Cell Lymphoma",
+  "url": "https://clinicaltrials.gov/study/NCT03189836",
+  "published": "2017-06-16",
+  "retrieved_at": "2026-09-07T12:53:51.529479+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Lymphoma"
+    ],
+    "interventions": [
+      {
+        "name": "ACTR707",
+        "type": "BIOLOGICAL"
+      },
+      {
+        "name": "rituximab",
+        "type": "BIOLOGICAL"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 26,
+    "start_date": "2017-10-04",
+    "primary_completion_date": "2020-09-21",
+    "completion_date": "2020-09-21",
+    "first_posted_date": "2017-06-16",
+    "primary_outcomes": [
+      {
+        "measure": "Safety as assessed by dose limiting toxicities (DLTs)",
+        "timeFrame": "28 days"
+      },
+      {
+        "measure": "Determination of maximum tolerated dose and proposed recommended Phase 2 dose",
+        "timeFrame": "24 weeks"
+      }
+    ]
+  },
+  "hash": "97aceb63176e9ae87ded730684559ae670357ae621a550d5ecf05550a763c4db"
+}

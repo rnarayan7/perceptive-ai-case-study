@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "40771916",
+  "title": "Degradation of IRAK4 for the treatment of lipopolysaccharide-induced acute lung injury in mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40771916/",
+  "published": "2025",
+  "retrieved_at": "2026-09-07T08:26:55.621756+00:00",
+  "metadata": {
+    "journal": "Frontiers in pharmacology",
+    "year": "2025",
+    "pmid": "40771916"
+  },
+  "hash": "86aaa39a6d641205b878872eeac038ed106e040e0422da4db7c6a669f960e1d3"
+}

@@ -1,0 +1,75 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06673667",
+  "title": "First-in-human Study of Orally Administered KT-621 in Healthy Adult Participants",
+  "url": "https://clinicaltrials.gov/study/NCT06673667",
+  "published": "2024-11-05",
+  "retrieved_at": "2026-09-07T06:57:16.411592+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Participants Study"
+    ],
+    "interventions": [
+      {
+        "name": "KT-621",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 118,
+    "start_date": "2024-10-22",
+    "primary_completion_date": "2025-04-23",
+    "completion_date": "2025-04-23",
+    "first_posted_date": "2024-11-05",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of adverse events",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically-significant abnormalities in safety laboratory parameters: hematology",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: serum chemistry",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in safety laboratory parameters: coagulation",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in electrocardiogram values: QTcF (milliseconds)",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: heart rate (beats per minute)",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: blood pressure (mmHg)",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: respiratory rate (breaths per minute)",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      },
+      {
+        "measure": "Treatment-emergent potentially clinically significant abnormalities in vital signs: temperature (degrees Celsius)",
+        "timeFrame": "From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD)"
+      }
+    ]
+  },
+  "hash": "a1bf5bd3795be6926b47a152b0a790f26b77c4c54f81ed08241fd5a88ab44207"
+}

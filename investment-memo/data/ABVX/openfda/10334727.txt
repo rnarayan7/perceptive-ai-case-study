@@ -1,0 +1,4 @@
+FAERS adverse-event report 10334727 (comparator: vedolizumab)
+Serious: yes
+Reactions: Bone pain, Blindness unilateral, Headache, Hypoaesthesia
+Reported drugs: ENTYVIO, ZOFRAN                             /00955301/, AMBIEN, LORAZEPAM., PREDNISONE., OMEPRAZOLE., FIORICET

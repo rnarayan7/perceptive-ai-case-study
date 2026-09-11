@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MT_AST02_CRDPREV_2020_2020_OVR",
+  "title": "Asthma - Montana - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T10:06:46.565350+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Montana",
+    "location_abbr": "MT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "11.1",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "e8e096b696d1cf3c535df78480d463d9f967539a4854bd65fa37fd54fe9dd6ef"
+}

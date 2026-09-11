@@ -1,0 +1,14 @@
+Title: A Clinical Trial of PRAX-114 in Participants With Essential Tremor
+Status: WITHDRAWN
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Essential Tremor
+Interventions: 10 mg PRAX-114, 20 mg PRAX-114, and Placebo (DRUG), 10 mg PRAX-114 or 20 mg PRAX-114 (DRUG)
+Enrollment: 0
+
+Summary: This is a 2-part clinical trial to evaluate the safety, tolerability, pharmacokinetics, and efficacy of PRAX-114 in participants with essential tremor (ET). Part A is a randomized, double-blind, placebo-controlled, three-period, three-sequence, crossover design where participants will receive a single dose of 10 mg PRAX-114, 20 mg PRAX-114, and matching placebo. Part B is an open-label design where participants from Part A, after washout and confirmation of eligibility may elect to participate in Part B where all participants will receive 10 mg once every morning (QAM) for the first 14 days. Based on investigator judgement of the safety and tolerability, the dose for Days 15 to 28 could be increased to 20 mg QAM.
+
+Primary outcomes:
+- Part A: Incidence and severity of Adverse Events (AE) (time frame: 12 days)
+- Part B: Incidence and severity of AEs (time frame: 35 days)

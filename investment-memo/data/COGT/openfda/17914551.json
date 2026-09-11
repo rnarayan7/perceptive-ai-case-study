@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17914551",
+  "title": "FAERS report 17914551: Death, Ascites, Pleural effusion",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17914551",
+  "published": "2026-03-02",
+  "retrieved_at": "2026-09-08T08:41:06.398854+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Death",
+      "Ascites",
+      "Pleural effusion",
+      "Oedema peripheral",
+      "Drug interaction"
+    ],
+    "drugs": [
+      "QINLOCK"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "602c425851e59949ae70b83ab1b68ed9d1754871713c70a54c370ced21bdfe9d"
+}

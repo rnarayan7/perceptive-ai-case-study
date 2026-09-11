@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "BLA125476",
+  "title": "Drugs@FDA BLA125476: ENTYVIO",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125476",
+  "published": "2014-05-20",
+  "retrieved_at": "2026-09-08T08:40:14.791468+00:00",
+  "metadata": {
+    "manufacturer": "TAKEDA PHARMS USA",
+    "brand_name": "ENTYVIO",
+    "sponsor_name": "TAKEDA PHARMS USA",
+    "application_type": "BLA (biologic)",
+    "brand_names": [
+      "ENTYVIO"
+    ],
+    "active_ingredients": [
+      "VEDOLIZUMAB"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2014-05-20",
+    "review_priority": [
+      "N/A",
+      "PRIORITY",
+      "STANDARD"
+    ],
+    "submission_count": 16
+  },
+  "hash": "f1a89fbb663f21d9142e078ef3905b25820731faef1db5bacdb57df46acbb111"
+}

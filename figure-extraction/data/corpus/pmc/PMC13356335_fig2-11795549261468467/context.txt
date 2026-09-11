@@ -1,0 +1,1 @@
+Kaplan-Meier curve for progression-free survival The median PFS was 4.3 months (95% CI, 2.9-5.7); the PFS rates at 6 and 12 months were 32.6% and 16.1%, respectively ( Figure 2 ).

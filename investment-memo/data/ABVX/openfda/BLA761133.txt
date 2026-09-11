@@ -1,0 +1,9 @@
+Drugs@FDA application BLA761133: ENTYVIO
+Sponsor: TAKEDA PHARMS USA
+Active ingredient(s): VEDOLIZUMAB
+Brand name(s): ENTYVIO
+Application type: BLA (biologic)
+Original approval date: 2023-09-27
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 6

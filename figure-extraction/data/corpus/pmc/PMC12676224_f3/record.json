@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12676224_f3",
+  "figure_type": "spider",
+  "title": "Efficacy and safety of anlotinib hydrochloride combined with concurrent radiotherapy in the treatment of locally advanced cervical cancer: a single-arm, single-center, exploratory, phase II clinical study.",
+  "caption": "Efficacy-evaluable population efficacy assessment of patients by disease stage.  (A)  Spider plot of tumor diameter sum over time in the I-III population.  (B)  Waterfall plot of treatment efficacy evaluation in the I-III population.  (C)  Spider plot of tumor diameter sum over time in the IV population.  (D)  Waterfall plot of treatment efficacy evaluation in the IV population.  (E)  Efficacy assessment stratified according to disease staging.  (F)  Stratified analysis of PFS across different disease stages.",
+  "context": "Efficacy-evaluable population efficacy assessment of patients by disease stage.  (A)  Spider plot of tumor diameter sum over time in the I-III population.  (B)  Waterfall plot of treatment efficacy evaluation in the I-III population.  (C)  Spider plot of tumor diameter sum over time in the IV population.  (D)  Waterfall plot of treatment efficacy evaluation in the IV population.  (E)  Efficacy assessment stratified according to disease staging.  (F)  Stratified analysis of PFS across different disease stages. The visual analysis of efficacy evaluation for both patient groups is shown in Figure 3 . The spider plot ( Figure 3A ) clearly displays the changes in treatment response over time for each Stage I-III patient. The waterfall plot for Stage I-III patients ( Figure 3B ) shows three CR cases. For Stage IV patients, the spider plot ( Figure 3C ) reveals no CR cases, with four patients exhibiting target lesion enlargement and four developing new lesions. The Stage IV waterfall plot ( Figure 3D ) shows one SD patient with >30% reduction in target lesions that was not sustained for 4 weeks, and five PD patients with >20% increase in target lesions. The comparative efficacy visualization ( Figure 3E ) demonstrates that Stage IV patients had relatively fewer ORR cases. The PFS results by disease stage ( Figure 3F ) indicate that Stage IV patients experienced earlier progression events compared to Stage I-III patients, with no mortality occurring in either group.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12676224/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2025-11-20",
+  "retrieved_at": "2026-09-07T13:13:26.824626+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12676224",
+    "pmid": "41357588",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "a0cd58759fd6269da02123eca057dc92a7850b757de20b091e149d5a8d401358",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 18034905 (comparator: cenobamate)
+Serious: yes
+Reactions: Behcet^s syndrome
+Reported drugs: BRIVIACT, VIMPAT, CLOBETASOL, CLONAZEPAM., XCOPRI, OTEZLA, CHLORHEXIDINE GLUCONATE., LAMOTRIGINE., KETAMINE, COLCHICINE.

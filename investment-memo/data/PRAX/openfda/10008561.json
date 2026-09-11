@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10008561",
+  "title": "FAERS report 10008561: Convulsion, Drug dose omission",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10008561",
+  "published": "2014-08-12",
+  "retrieved_at": "2026-09-08T08:40:36.205441+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Convulsion",
+      "Drug dose omission"
+    ],
+    "drugs": [
+      "SABRIL",
+      "KEPPRA",
+      "VIMPAT",
+      "TOPAMAX",
+      "SABRIL",
+      "SABRIL"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "4ef4dc0e2f31b7ba8d4a30e326d8c344e69afaaa91520ceddff9e21a1034201c"
+}

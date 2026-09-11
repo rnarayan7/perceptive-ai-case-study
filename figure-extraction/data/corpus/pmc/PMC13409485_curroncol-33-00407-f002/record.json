@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13409485_curroncol-33-00407-f002",
+  "figure_type": "kaplan_meier",
+  "title": "Prognostic Impact of the Systemic Immune-Inflammation Index According to Concurrent Chemotherapy Backbone in Stage III Non-Small Cell Lung Cancer.",
+  "caption": "Kaplan–Meier progression-free survival curves according to systemic immune-inflammation index groups. Patients with high SII experienced significantly shorter progression-free survival than patients with low SII (median progression-free survival: 7.2 vs. 15.6 months; log-rank  p  = 0.018).",
+  "context": "Kaplan–Meier progression-free survival curves according to systemic immune-inflammation index groups. Patients with high SII experienced significantly shorter progression-free survival than patients with low SII (median progression-free survival: 7.2 vs. 15.6 months; log-rank  p  = 0.018). Median progression-free survival was 15.6 months (95% CI, 8.2–23.1) in the low-SII group and 7.2 months (95% CI, 4.5–9.8) in the high-SII group (log-rank p = 0.018; Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13409485/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:50:36.785202+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "15.6",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "vs. 15.6 months; log-rank p = 0.018). Median progression-free survival was 15.6 months (95% CI, 8.2–23.1) in the low-SII group",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13409485",
+    "pmid": "42505209",
+    "journal": "Current oncology (Toronto, Ont.)",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "5df92b0077e94618a0b0fb8493bd589cf197ca4f3dd58ee141a0ca5978ac4807",
+  "image_file": "image.jpg"
+}

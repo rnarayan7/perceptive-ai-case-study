@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000110465926080356-cover",
+  "title": "8-K - FORM 8-K (2026-07-02) - Cover & Table of Contents",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000110465926080356/0001104659-26-080356-index.htm",
+  "published": "2026-07-02",
+  "retrieved_at": "2026-09-07T12:53:49.897394+00:00",
+  "metadata": {
+    "accession": "0001104659-26-080356",
+    "cik": 1689548,
+    "form": "8-K",
+    "primary_document": "tm2619331d1_8k.htm",
+    "primary_doc_description": "FORM 8-K",
+    "report_date": "2026-06-29",
+    "filing_date": "2026-07-02",
+    "items": "4.01,9.01",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000110465926080356/tm2619331d1_8k.htm",
+    "section": "Cover & Table of Contents",
+    "section_key": "cover"
+  },
+  "hash": "9f3262ec344aafb257180f777694efbf5fe4a09436ee7aea8f198052b6386edf"
+}

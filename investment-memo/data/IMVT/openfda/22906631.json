@@ -1,0 +1,25 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22906631",
+  "title": "FAERS report 22906631: Injection site urticaria, Injection site erythema, Injection site swelling",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22906631",
+  "published": "2023-10-23",
+  "retrieved_at": "2026-09-08T08:40:52.402258+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": false,
+    "reactions": [
+      "Injection site urticaria",
+      "Injection site erythema",
+      "Injection site swelling",
+      "Headache"
+    ],
+    "drugs": [
+      "RYSTIGGO"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "18586d17d45231d3b50422586ca1475ba49ce1c39df3b20f826705aac59123cb"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17633400",
+  "title": "FAERS report 17633400: Gastritis erosive",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17633400",
+  "published": "2020-04-09",
+  "retrieved_at": "2026-09-08T08:39:59.981493+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Gastritis erosive"
+    ],
+    "drugs": [
+      "MESALAZINE",
+      "IBUPROFEN.",
+      "ATENOLOL.",
+      "OZANIMOD.",
+      "ATENOLOL.",
+      "PREDNISONE."
+    ],
+    "occurcountry": "MX"
+  },
+  "hash": "28bc0ef3ec04cc0f0bedd3a3af6e848261eb8bbfbe66dcd8dee7b978bf9994c6"
+}

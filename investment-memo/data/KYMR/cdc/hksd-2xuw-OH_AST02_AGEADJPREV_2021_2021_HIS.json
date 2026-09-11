@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OH_AST02_AGEADJPREV_2021_2021_HIS",
+  "title": "Asthma - Ohio - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573984+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Ohio",
+    "location_abbr": "OH",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "9.8",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "1c25e9d2757c400ca56f44a34f3c65e793f0d9ca6a7cb72668a6d95fc275df5e"
+}

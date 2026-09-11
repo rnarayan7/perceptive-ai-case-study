@@ -1,0 +1,11 @@
+Title: A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy
+Status: COMPLETED
+Study type: OBSERVATIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: SCN2A-DEE, Epilepsy
+Enrollment: 5
+
+Summary: This prospective observational study is designed to assess the individualized baseline disease burden in pediatric participants aged 1 year to 16 years, with early-onset SCN2A-DEE by characterizing and quantifying changes in clinical features over a period of up to 12 months.
+
+Primary outcomes:
+- Assess disease burden and any variation in disease progression over time, as reflected by electrographic seizures, interictal epileptiform discharges (IEDs), and spectral features, as measured on at-home video electroencephalograms (vEEGs) (time frame: Up to 12 months)

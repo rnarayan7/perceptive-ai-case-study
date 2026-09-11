@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-UT_MEN02_CRDPREV_2022_2022_AGE65P",
+  "title": "Mental Health - Utah - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785358+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Utah",
+    "location_abbr": "UT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "16.5",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "73b02037339b2f9c54540748d0c7d45c366142f7c58f9a99804e6a7adde7dc2c"
+}

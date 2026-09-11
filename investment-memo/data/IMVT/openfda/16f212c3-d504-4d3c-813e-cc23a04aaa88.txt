@@ -1,0 +1,5 @@
+Drug: Drug label
+
+Indications: INDICATIONS AND USAGE Ephedrine Sulfate Injectionn, USP is indicated in the treatment of allergic disorders, such as bronchial asthma The drug has long been used as a pressor agent, particularly during spinal anesthesia when hypotensionn frequently ooccurs. In Stokes-Adams syndromeme with complete heart block, ephedrine has a value similar to that of epinephrine. It is indicated as a central nervous system stimulant in narcolepsy and depressive states. It is also used in myasthenia gravis.
+
+Contraindications: CONTRAINDICATIONS Allergic reactions to ephedrine sulfate are rare. The hypersensitivity, if known, is a specific contraindication. Patients hypersensitive to other sympathomimetics may also be hypersensitive to ephedrine sulfate.

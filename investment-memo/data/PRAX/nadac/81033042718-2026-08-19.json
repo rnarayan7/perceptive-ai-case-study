@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "81033042718-2026-08-19",
+  "title": "NADAC price: LACOSAMIDE 200 MG/20 ML CUP",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:33.681593+00:00",
+  "metadata": {
+    "ndc": "81033042718",
+    "ndc_description": "LACOSAMIDE 200 MG/20 ML CUP",
+    "nadac_per_unit": 0.08203,
+    "pricing_unit": "ML",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-19",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "lacosamide"
+  },
+  "hash": "5975dba47fcf80757c272942740de6ebe414eeb67463580df7b79034d577f124"
+}

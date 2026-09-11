@@ -1,0 +1,25 @@
+{
+  "company": "IMVT",
+  "source": "edgar",
+  "doc_type": "10-K",
+  "doc_id": "000176401326000064-pi-item1c",
+  "title": "Immunovant, Inc. 10-K (2026-05-20) - Cybersecurity",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000064/0001764013-26-000064-index.htm",
+  "published": "2026-05-20",
+  "retrieved_at": "2026-09-07T12:53:42.764114+00:00",
+  "metadata": {
+    "accession": "0001764013-26-000064",
+    "cik": 1764013,
+    "form": "10-K",
+    "primary_document": "imvt-20260331.htm",
+    "primary_doc_description": "10-K",
+    "report_date": "2026-03-31",
+    "filing_date": "2026-05-20",
+    "items": "",
+    "company_title": "Immunovant, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000064/imvt-20260331.htm",
+    "section": "Cybersecurity",
+    "section_key": "pi-item1c"
+  },
+  "hash": "7b1fda077531e20a41ba1fe4b92e13dc5234fe7e339e9b3093ed85954c0172f7"
+}

@@ -1,0 +1,133 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               FDA Figure 4: Study 20120215 EFS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+
+
+               FDA Table 7: Study 20120215 EFS Summary
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+               Abbreviations: HC3 = High-Risk Consolidation 3, CI = Confidence Interval, NE = not estimable, MRD = minimal residual
+               disease, HR = hazard ratio calculated based on Cox Proportional Hazard model.
+               Stratification factors used in log-rank test: age (1-9 years vs. other (<1 year and >9 years)), and marrow/MRD status (M1
+               with MRD level < 10-3 vs. M1 with MRD level ≥ 10-3 vs. M2).
+
+                                                                           71
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               treatment benefit of blinatumomab over HC3 in subjects who achieved MRD response,
+               which is supported by the deeper MRD response induced by blinatumomab (as discussed in
+               the next section). These results show that the MRD response induced by blinatumomab is
+               associated with improved EFS and support the prognostic value of MRD negativity at the
+               end of consolidation.
+
+               The FDA’s Assessment:
+
+               Per statistical analysis plan, EFS was the primary endpoint, defined and calculated as
+               follows: “EFS will be calculated from the time of randomization until the date of relapse or
+               M2 marrow after having achieved a CR (complete remission), failure to achieve a CR at the
+               end of treatment, second malignancy, or death due to any cause, whichever occurs first.”
+
+               FDA identified multiple issues assessing EFS: some bone marrow assessments were
+               unscheduled or undocumented, there were discrepancies between the actual bone marrow
+               assessment date and the nearest visit date. FDA re-adjudicated bone marrow assessments
+               and EFS outcomes.
+
+               The information submitted to the FDA did not provide adequate support for use of the MRD
+               data by flow cytometry. MRD baseline status by PCR, as re-adjudicated by the FDA, was
+               used instead. See Data Quality and Integrity section for additional details on outcome and
+               MRD-related issues.
+
+               FDA does not consider EFS, as defined per study protocol, to be clinically meaningful for the
+               intended indication, in part due to inclusion of the secondary malignancy as one of the
+               events. FDA considers Relapse-Free Survival (RFS) to be more clinically relevant endpoint.
+               See Additional Analyses Conducted on the Individual Trial section for FDA’s assessment of
+               RFS.
+
+               The results presented below are based on FDA’s re-adjudication of the EFS endpoint and
+               MRD status.
+
+               The study met its primary objective. FDA Figure 4 and FDA Table 7 summarize EFS results.
+               Hazard ratio is 0.35 (95% CI: 0.20, 0.62), demonstrating advantage of the blinatumomab
+               group. Median survival in the HC3 group is 25.7 (95% CI: 17.5, NE) months. Median survival
+               in the blinatumomab group is non-estimable due to few events.
+
+
+
+
+                                                                   70
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               Efficacy Results – Secondary and Other Relevant Endpoints
+
+               Data:
+
+               Overall Survival – Primary Analysis
+
+               At the primary analysis data cutoff date, the median follow-up time for OS was 19.5 months
+               (Table 6 of Module 2.7.3 [Summary of Clinical Efficacy]). The OS hazard ratio from a
+               stratified Cox proportional hazard model was 0.43 (95% CI: 0.18 to 1.01). The median OS
+               was not reached in either arm. The nominal p-value from the stratified log-rank test was
+               0.047. The 36-month Kaplan Meier estimate of OS was 55.8% (95% CI: 36.9% to 71.0%) in
+               the HC3 arm and 81.1% (95% CI: 65.5% to 90.2%) in the blinatumomab arm. Applicant
+               Figure 8 presents a Kaplan Meier plot comparing OS between treatment arms.
+
+               In the FAS, 13 subjects were randomized and treated with HC3, and then received
+               blinatumomab treatment. A sensitivity analysis was performed to estimate the treatment
+               effect adjusted for the HC3 subjects dropping into the blinatumomab arm (Branson and
+               Whitehead, 2002). This analysis produced a hazard ratio that was similar to that in the
+               primary analysis (0.35 [95% CI: 0.12 to 1.01]) (Table 14-4.2.2 of Study 20120215 Primary
+               Analysis CSR).
+
+               Applicant Figure 8. Kaplan-Meier for Overall Survival (Full Analysis Set) – Study 20120215
+               Primary Analysis
+                                          1.0    | | | ||                                                                                                                      Stratified Log Rank: p = 0.047
+                                                            |        || | || |
+                                          0.9                                    | | |||           | ||                                                                        Hazard ratio (95% CI) from stratified Cox regression: 0.43 (0.18, 1.01)
+                                                                                     |                 |
+                                          0.8                                              |                            |                 |   |       |    ||    | || | |      ||        | ||      ||        | | ||        ||             |            |
+                                                                                                      |
+                                          0.7                                                              |
+                                                                                                                    |            |
+
+
+
+
+                   Survival Probability
+                                                                                                                                     ||
+                                          0.6                                                                                                       | ||
+                                                                                                                                                                 |   ||              |    |                      |     |        ||            |   |
+                                          0.5
+                                          0.4
+                                          0.3
+                                          0.2
+                                        

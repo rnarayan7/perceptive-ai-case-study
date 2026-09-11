@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240412_180108_fig005",
+  "figure_type": "kaplan_meier",
+  "title": "odac_20240412_180108 figure 5",
+  "caption": "",
+  "context": "April 12, 2024\nOncologic Drugs Advisory Committee Meeting\n\n    Committee member mentioned that while durability is important to assess, there is concern\n    regarding the possibility of the burden for the patients being increased if researchers decide\n    to conduct more frequent and ongoing bone marrow biopsies for a long period of time in\n    order to add statistical power to a clinical trial. Another member commented that there\n    should be flexibility and the best timepoint should be likely based on the trial, therapy, and\n    setting. Please see the transcript for details of the Committee’s discussion.\n\n4. VOTE: Does the evidence support the use of MRD as an accelerated approval endpoint in\n   MM clinical trials?\n\n    Vote Result:       Yes: 12        No: 0         Abstain: 0\n\n    Committee Discussion: The Committee unanimously agreed that the evidence does support\n    the use of MRD as an accelerated approval endpoint in MM clinical trials. A few Committee\n    members acknowledged that MRD negativity may not correlate perfectly with clinical\n    efficacy and overall survival. However, members agreed that the use of MRD in MM clinical\n    trials to support accelerated approval is a reasonable approach. Other committee members\n    stated their confidence that the design of FDA’s Accelerated Approval Program will\n    safeguard patient safety if drugs are given accelerated approval based on MRD as an\n    endpoint. Please see the transcript for details of the Committee’s discussion.\n\nThe meeting was adjourned at approximately 3:20 p.m.\n\n\n\n\n                                              Page 6 of 6\n\f",
+  "url": "https://www.fda.gov/media/180108/download",
+  "image_url": "https://www.fda.gov/media/180108/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:01.286981+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240412_180108",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "44c3be26e38f9fa16099df9abe0cae2b890b9d302faf79983e3b0e7a2d665a51",
+  "image_file": "image.png"
+}

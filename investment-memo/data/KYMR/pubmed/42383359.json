@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "42383359",
+  "title": "Targeted degradation of MDM2 overcomes feedback regulation of p53 signaling in Merkel cell carcinoma models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42383359/",
+  "published": "2026",
+  "retrieved_at": "2026-09-07T08:26:55.627261+00:00",
+  "metadata": {
+    "journal": "The Journal of clinical investigation",
+    "year": "2026",
+    "pmid": "42383359"
+  },
+  "hash": "52c650cb2e188e202f8b1e958d8c1c5847e1a77d27cef29fcc85df0630423485"
+}

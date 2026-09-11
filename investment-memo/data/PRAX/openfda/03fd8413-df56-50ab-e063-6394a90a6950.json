@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "03fd8413-df56-50ab-e063-6394a90a6950",
+  "title": "Label: Lamotrigine (LAMOTRIGINE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=03fd8413-df56-50ab-e063-6394a90a6950",
+  "published": "2026-01-01",
+  "retrieved_at": "2026-09-08T08:40:39.642130+00:00",
+  "metadata": {
+    "brand_name": "Lamotrigine",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer": "Northwind Health Company, LLC",
+    "manufacturer_name": "Northwind Health Company, LLC",
+    "pharm_class_epc": "Anti-epileptic Agent [EPC]",
+    "pharm_class_moa": "Organic Cation Transporter 2 Inhibitors [MoA]",
+    "application_number": "ANDA077633",
+    "route": "ORAL"
+  },
+  "hash": "5d2900ef6941e266ac758be1dd6e18a82d0df7e9a10046b78fa5ee7d9f3ae570"
+}

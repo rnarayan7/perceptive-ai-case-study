@@ -1,0 +1,50 @@
+
+                 NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+                 teclistamab
+
+                 expression in the developing fetus could trigger inflammatory effects.
+
+                 The approval of BLA 761291 does not rely on product-specific published literature.
+
+                            5.5.5. Other Toxicology Studies
+
+                 The Applicant’s Position:
+                 In the in vitro tissue cross reactivity studies (non-GLP: monkey and human; GLP: human),
+                 teclistamab staining of mononuclear cells occurred very rarely to occasionally in most tissues.
+                 Teclistamab was compatible with human blood and serum at concentrations up to 10 mg/mL. In
+                 addition, in an in vitro assay using whole human blood, the cytokine release profile demonstrated
+                 teclistamab induced statistically significant but low-level release of IL-8, IFN-α, and TNF-α at
+                 concentrations ≥82 ng/mL compared with negative control.
+
+                 The FDA’s Assessment:
+                 We agree with the Applicant’s assessment of the GLP human tissue cross reactivity study,
+                 hemolytic potential and serum compatibility studies, and in vitro cytokine release assay.
+
+                 In the tissue cross-reactivity study, teclistamab stained mononuclear leukocytes in the peripheral
+                 blood smears, lymphoid tissues, and select non-lymphoid tissues (ovary, prostate, and skin).
+                 Teclistamab is expected to bind mononuclear leukocytes; no unanticipated cross-reactivity was
+                 observed.
+
+                 The in vitro cytokine release assay was conducted in the soluble format only. In addition to
+                 statistically significant increases in IL-8, IFN-γ, and TNF-α, lower level increases in IL-2 and IL-1β
+                 were observed. EC50 values were not provided for any cytokine.
+
+
+             X          X
+
+
+
+                 Michael Manning, PhD                            Brenda Gehrke, PhD
+                 Primary Reviewer                                Supervisor
+
+
+
+
+                 Version date: January 2020 (ALL NDA/ BLA reviews)                                                              46
+
+                 Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+                 Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+

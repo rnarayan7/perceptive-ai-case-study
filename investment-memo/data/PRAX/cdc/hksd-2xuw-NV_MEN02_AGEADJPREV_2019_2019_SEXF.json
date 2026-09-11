@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NV_MEN02_AGEADJPREV_2019_2019_SEXF",
+  "title": "Mental Health - Nevada - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784387+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Nevada",
+    "location_abbr": "NV",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "23.2",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "e7de2a0d1d541e65cc1956b8e74ca580b108afabab8d64ba21e2b06cc057b7df"
+}

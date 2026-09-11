@@ -1,0 +1,25 @@
+{
+  "company": "PRAX",
+  "source": "edgar",
+  "doc_type": "10-Q",
+  "doc_id": "000168954826000083-pii-item4",
+  "title": "Praxis Precision Medicines, Inc. 10-Q (2026-08-06) - Mine Safety Disclosures",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+  "published": "2026-08-06",
+  "retrieved_at": "2026-09-07T12:53:48.528503+00:00",
+  "metadata": {
+    "accession": "0001689548-26-000083",
+    "cik": 1689548,
+    "form": "10-Q",
+    "primary_document": "prax-20260630.htm",
+    "primary_doc_description": "10-Q",
+    "report_date": "2026-06-30",
+    "filing_date": "2026-08-06",
+    "items": "",
+    "company_title": "Praxis Precision Medicines, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/prax-20260630.htm",
+    "section": "Mine Safety Disclosures",
+    "section_key": "pii-item4"
+  },
+  "hash": "1f28d08f2d21dec3dd0ed767c7a0658112f19aecbcc7f56cd270f9feced84c18"
+}

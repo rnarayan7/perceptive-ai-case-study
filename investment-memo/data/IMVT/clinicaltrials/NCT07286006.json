@@ -1,0 +1,39 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07286006",
+  "title": "A Long-Term Extension Study of IMVT-1402 in Adult Participants With Graves' Disease (GD)",
+  "url": "https://clinicaltrials.gov/study/NCT07286006",
+  "published": "2025-12-16",
+  "retrieved_at": "2026-09-07T12:53:37.949178+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "ENROLLING_BY_INVITATION",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Graves' Disease"
+    ],
+    "interventions": [
+      {
+        "name": "IMVT-1402",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 372,
+    "start_date": "2026-01-26",
+    "primary_completion_date": "2030-03",
+    "completion_date": "2030-03",
+    "first_posted_date": "2025-12-16",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of Group A Participants who remain euthyroid, Off ATD, and Off IMVT-1402",
+        "timeFrame": "At Week 52"
+      }
+    ]
+  },
+  "hash": "2b3be347f11e8a6ecc9d4c55b16e3583f86a95cfceb1ac6954ad5e6cfd67d560"
+}

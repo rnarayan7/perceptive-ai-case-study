@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AL_AST01_NMBR_2020_2020_WHT",
+  "title": "Asthma - Alabama - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.002896+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Alabama",
+    "location_abbr": "AL",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": "31.0",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "White, non-Hispanic"
+  },
+  "hash": "38a7b561d7fa5e3c9180730042363a9f8642464eb619266081d5df59c08bc9f8"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380586_Fig3",
+  "figure_type": "pk_logscale",
+  "title": "QSP model for AAV-mediated antibody delivery in rat brain.",
+  "caption": "Calibration of the transgene (i.e., antibody) and target PBPK model.  (A)  Model simulated PK profile of a bolus dose of TargetX in rats.  (B)  Model simulated TargetX concentrations in plasma, ISF, and CSF at steady state prior to AAV dosing in rats.  (C)  Plasma PK upon IV administration of 3, 10, 30, and 100 mg/kg of anti-TargetX mAb in rats.  (D)  CSF PK after IV administration of 3, 10, 30, and 100 mg/kg of anti-TargetX mAb in rats.  (E)  Plasma and ISF PK after IV administration of 30 mg/kg of anti-TargetX mAb in rats.  (F)  Free TargetX concentrations in CSF in response to IV administration of 30 mg/kg anti-TargetX mAb in rats. Solid circles are observed data and solid lines are predicted typical profiles (A and B) or population fits (C, D, E, and F)",
+  "context": "Calibration of the transgene (i.e., antibody) and target PBPK model.  (A)  Model simulated PK profile of a bolus dose of TargetX in rats.  (B)  Model simulated TargetX concentrations in plasma, ISF, and CSF at steady state prior to AAV dosing in rats.  (C)  Plasma PK upon IV administration of 3, 10, 30, and 100 mg/kg of anti-TargetX mAb in rats.  (D)  CSF PK after IV administration of 3, 10, 30, and 100 mg/kg of anti-TargetX mAb in rats.  (E)  Plasma and ISF PK after IV administration of 30 mg/kg of anti-TargetX mAb in rats.  (F)  Free TargetX concentrations in CSF in response to IV administration of 30 mg/kg anti-TargetX mAb in rats. Solid circles are observed data and solid lines are predicted typical profiles (A and B) or population fits (C, D, E, and F)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380586/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-18",
+  "retrieved_at": "2026-09-07T13:12:24.046055+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13380586",
+    "pmid": "42471535",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 3"
+  },
+  "image_hash": "4d5db03724b9ce110aeebd3cb5a9120b6659c15294d8c59c35b77cf901fb0de2",
+  "image_file": "image.jpg"
+}

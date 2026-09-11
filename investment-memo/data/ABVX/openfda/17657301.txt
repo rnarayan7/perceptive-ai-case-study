@@ -1,0 +1,4 @@
+FAERS adverse-event report 17657301 (comparator: ozanimod)
+Serious: yes
+Reactions: Gastrointestinal stromal tumour
+Reported drugs: FLUTICASONE FUROATE, OZANIMOD., RUPATADINE, OLOPATADINE.

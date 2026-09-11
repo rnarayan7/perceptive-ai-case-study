@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13406367_F9",
+  "figure_type": "forest",
+  "title": "Survival benefit of concurrent beta-blocker use in cancer patients treated with radiotherapy: A systematic review and meta-analysis.",
+  "caption": "Forest plot for subgroup analysis of 5-year overall survival by cancer type (OPSCC vs NSCLC). CI = confidence interval, NSCLC = non-small cell lung cancer, OR = odds ratio, OPSCC = oropharyngeal squamous cell carcinoma.",
+  "context": "Forest plot for subgroup analysis of 5-year overall survival by cancer type (OPSCC vs NSCLC). CI = confidence interval, NSCLC = non-small cell lung cancer, OR = odds ratio, OPSCC = oropharyngeal squamous cell carcinoma.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13406367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:04:19.048013+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13406367",
+    "pmid": "42499029",
+    "journal": "Medicine",
+    "fig_label": "Figure 9."
+  },
+  "image_hash": "edb76204780dd145bd13b56e0b1d17b7221db9f03eb4dc5c013d3ec3b6bcfd2c",
+  "image_file": "image.jpg"
+}

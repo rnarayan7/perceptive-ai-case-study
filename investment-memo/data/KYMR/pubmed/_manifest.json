@@ -1,0 +1,329 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "started_at": "2026-09-08T10:06:39.378481+00:00",
+  "finished_at": "2026-09-08T13:31:29.492034+00:00",
+  "documents": [
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "37957373",
+      "title": "IRAK4 degrader in hidradenitis suppurativa and atopic dermatitis: a phase 1 trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37957373/",
+      "published": "2023-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.761332+00:00",
+      "metadata": {
+        "journal": "Nature medicine",
+        "year": "2023",
+        "pmid": "37957373"
+      },
+      "hash": "c3add716275e9ab2c573fc2593e8cda3ffb4a16e36815c2cee5a218dc4ba5909"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39648478",
+      "title": "KT-253, a Novel MDM2 Degrader and p53 Stabilizer, Has Superior Potency and Efficacy than MDM2 Small-Molecule Inhibitors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39648478/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.761832+00:00",
+      "metadata": {
+        "journal": "Molecular cancer therapeutics",
+        "year": "2025",
+        "pmid": "39648478"
+      },
+      "hash": "8a71d0f071d7ef3f46949e46d61deaf3438efb876f3f4f0ee5c98b57b18508f3"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39151120",
+      "title": "Discovery of KT-474\u2500a Potent, Selective, and Orally Bioavailable IRAK4 Degrader for the Treatment of Autoimmune Diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39151120/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.762259+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2024",
+        "pmid": "39151120"
+      },
+      "hash": "a3421777e9903e2ed873d466b80e056df40019f71f0a951028041fe79c6acca4"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39211137",
+      "title": "A STAT3 Degrader Demonstrates Pre-clinical Efficacy in Venetoclax resistant Acute Myeloid Leukemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39211137/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.762449+00:00",
+      "metadata": {
+        "journal": "bioRxiv : the preprint server for biology",
+        "year": "2024",
+        "pmid": "39211137"
+      },
+      "hash": "f06c641e59e1b1d0f19855080a306650700ffdf85bab972ba70f54ec2117b4c8"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40771916",
+      "title": "Degradation of IRAK4 for the treatment of lipopolysaccharide-induced acute lung injury in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40771916/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.762742+00:00",
+      "metadata": {
+        "journal": "Frontiers in pharmacology",
+        "year": "2025",
+        "pmid": "40771916"
+      },
+      "hash": "86aaa39a6d641205b878872eeac038ed106e040e0422da4db7c6a669f960e1d3"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "41385308",
+      "title": "Developmental toxicology profile of the IRAK4 degrader KT-474.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41385308/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.762952+00:00",
+      "metadata": {
+        "journal": "Toxicological sciences : an official journal of the Society of Toxicology",
+        "year": "2026",
+        "pmid": "41385308"
+      },
+      "hash": "e76cee1643478a7ce4fc5043c78c7fb7c053567418559239b4465242ac214572"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42422020",
+      "title": "PROTAC-mediated regulation of programmed cell death: From molecular mechanisms to therapeutic breakthroughs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422020/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.764607+00:00",
+      "metadata": {
+        "journal": "Innovation (Cambridge (Mass.))",
+        "year": "2026",
+        "pmid": "42422020"
+      },
+      "hash": "7016246c2fc8184d913d8946655b81ec1c07cfeecbc2c1dc653e1a68755eafad"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40055981",
+      "title": "Pharmacokinetics and Pharmacodynamics of KT-474, a Novel Selective Interleukin-1 Receptor-Associated Kinase 4 (IRAK4) Degrader, in Healthy Adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40055981/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.764866+00:00",
+      "metadata": {
+        "journal": "Clinical and translational science",
+        "year": "2025",
+        "pmid": "40055981"
+      },
+      "hash": "aeba7809fc9c65f01a8718e8a1d91f9953f2749562b577604caac2836ca11481"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39762193",
+      "title": "Interleukin-1 Receptor-Associated Kinase 4 (IRAK4) Degraders for Treating Inflammatory Diseases: Advances and Prospects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39762193/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.765017+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2025",
+        "pmid": "39762193"
+      },
+      "hash": "b9da4d05a25f8443474db6f3981ee9f87a1cff47a6b32d5db28a5a855a3f8559"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "41703028",
+      "title": "A STAT3 degrader demonstrates efficacy in venetoclax resistant acute myeloid leukemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41703028/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.765581+00:00",
+      "metadata": {
+        "journal": "Leukemia",
+        "year": "2026",
+        "pmid": "41703028"
+      },
+      "hash": "07e9c06513996c8013a5882488706fd83b39bf0842b93d90cd22f7a84a02434a"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42336816",
+      "title": "Structural basis for selective and potent degradation of IRAK4 by KT-474.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336816/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.766118+00:00",
+      "metadata": {
+        "journal": "Nature communications",
+        "year": "2026",
+        "pmid": "42336816"
+      },
+      "hash": "af90b6fe07d8e4059c62de730d74977b57710daaaae4fe4c439f064d7eaa2ef1"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42383359",
+      "title": "Targeted degradation of MDM2 overcomes feedback regulation of p53 signaling in Merkel cell carcinoma models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383359/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.766619+00:00",
+      "metadata": {
+        "journal": "The Journal of clinical investigation",
+        "year": "2026",
+        "pmid": "42383359"
+      },
+      "hash": "52c650cb2e188e202f8b1e958d8c1c5847e1a77d27cef29fcc85df0630423485"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40621493",
+      "title": "IRAK4 Targeting: A Breakthrough Approach to Combat Hidradenitis Suppurativa.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40621493/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.767339+00:00",
+      "metadata": {
+        "journal": "Biologics : targets & therapy",
+        "year": "2025",
+        "pmid": "40621493"
+      },
+      "hash": "a85ecf57418c48d4ff72da1dee61c7bc0c889d5edfeff0f3b9b91c74b995c719"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "42246396",
+      "title": "Selective Targeting of STAT6: Recent Advances and Future Perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42246396/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.767677+00:00",
+      "metadata": {
+        "journal": "Medicinal research reviews",
+        "year": "2026",
+        "pmid": "42246396"
+      },
+      "hash": "e87980cf659a8bb93222f0f523be1b708318a1b18258f4c102ca7d56aeed385d"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40045307",
+      "title": "Breakthroughs in treatment for hematological malignancies: latest updates on molecular glue, PROTACs and RNA degraders from ASH 2024.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40045307/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.767849+00:00",
+      "metadata": {
+        "journal": "Journal of hematology & oncology",
+        "year": "2025",
+        "pmid": "40045307"
+      },
+      "hash": "55cccfc8c6ac75c7cbbd417bf137b4efe63bf7865b4529c625e088a5c250c633"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "38920289",
+      "title": "Discovery of KT-413, a Targeted Protein Degrader of IRAK4 and IMiD Substrates Targeting MYD88 Mutant Diffuse Large B-Cell Lymphoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38920289/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.768086+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2024",
+        "pmid": "38920289"
+      },
+      "hash": "3e4ca7275867bf0a88aa4094ab7d46ae476a64d0624dffe4f4baa71a1bd22057"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39084489",
+      "title": "IRAK4 Is Overexpressed in Hidradenitis Suppurativa Skin and Correlates with Inflammatory Biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39084489/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.768283+00:00",
+      "metadata": {
+        "journal": "The Journal of investigative dermatology",
+        "year": "2025",
+        "pmid": "39084489"
+      },
+      "hash": "11a697012fc4c641dc727bf10dfda197a77856d205e7b2e36584a98165cfb614"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "39376047",
+      "title": "Discovery of the First Clinical Protein Degrader for the Treatment of Autoimmune Indications: Orally Bioavailable and Selective IRAK4 Degrader KT-474.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39376047/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.768408+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2024",
+        "pmid": "39376047"
+      },
+      "hash": "580dcc6501ff186009b891893b70bd9e1a478c043514fe3461d4c8b36e868052"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "41656671",
+      "title": "Design, Synthesis, and Evaluation of Nucleolin-Bridged, MDM2-Recruiting IRAK4 Degraders for the Treatment of Autoimmune Diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41656671/",
+      "published": "2026-01-01",
+      "retrieved_at": "2026-09-08T10:06:43.768520+00:00",
+      "metadata": {
+        "journal": "Journal of medicinal chemistry",
+        "year": "2026",
+        "pmid": "41656671"
+      },
+      "hash": "b6ae50d15aa891c21228f98f5404877d03c93cc7e8d0200d96379d18e0518af5"
+    },
+    {
+      "company": "KYMR",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "30389491",
+      "title": "Atopic Dermatitis in America Study: A\u00a0Cross-Sectional Study Examining the Prevalence\u00a0and Disease Burden of Atopic Dermatitis in the US Adult Population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30389491/",
+      "published": "2019-01-01",
+      "retrieved_at": "2026-09-08T13:31:29.489921+00:00",
+      "metadata": {
+        "journal": "The Journal of investigative dermatology",
+        "year": "2019",
+        "pmid": "30389491"
+      },
+      "hash": "47fb458f93f170485aa6f047540c7d53492ebeaa8d43c48d118de83dcb67de65"
+    }
+  ],
+  "errors": []
+}

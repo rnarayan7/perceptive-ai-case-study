@@ -1,0 +1,34 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "14850930",
+  "title": "FAERS report 14850930: Colitis ulcerative, Clostridium difficile infection, Lung disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:14850930",
+  "published": "2025-08-14",
+  "retrieved_at": "2026-09-08T08:40:09.335356+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Colitis ulcerative",
+      "Clostridium difficile infection",
+      "Lung disorder",
+      "Therapy non-responder"
+    ],
+    "drugs": [
+      "VEDOLIZUMAB",
+      "VEDOLIZUMAB",
+      "VEDOLIZUMAB",
+      "VEDOLIZUMAB",
+      "VEDOLIZUMAB",
+      "VITAMIN D",
+      "IRON",
+      "Nux vomica 6CH",
+      "PHOSPHORUS",
+      "RINVOQ"
+    ],
+    "occurcountry": "CA"
+  },
+  "hash": "aa47037ed8f97fac18f379e1ea70a46ff5cdf886a42929cf4121a236de345b71"
+}

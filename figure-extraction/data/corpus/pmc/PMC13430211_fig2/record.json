@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13430211_fig2",
+  "figure_type": "spider",
+  "title": "A Phase II Evaluation of the Efficacy and Safety of Sacituzumab Govitecan in Patients with Recurrent Uterine Cancer.",
+  "caption": "Waterfall plot (left) illustrating best percentage change from baseline in total sum of target lesion diameters and spider plot (right) of tumor response over time.",
+  "context": "Waterfall plot (left) illustrating best percentage change from baseline in total sum of target lesion diameters and spider plot (right) of tumor response over time.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430211/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T13:14:55.525164+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13430211",
+    "pmid": "42132892",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "b273911bd1ddc318ab4bdd8292bbba39e78f8c6164de0da93819c1e9f4898e43",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2932-point-prevalence-europe-8169d84f",
+  "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Europe) [ORPHA:2932]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:08.378522+00:00",
+  "metadata": {
+    "orphacode": 2932,
+    "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "3.7",
+    "geographic_area": "Europe",
+    "validation_status": "Not yet validated",
+    "source": "ORPHANET",
+    "source_pmids": [],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "8169d84fd0976f65fb19f674d2c2326bb653a57670b43db87a5287cecfc68105"
+}

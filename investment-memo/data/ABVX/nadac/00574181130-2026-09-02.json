@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "00574181130-2026-09-02",
+  "title": "NADAC price: TOFACITINIB ER 11 MG TABLET",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-09-02",
+  "retrieved_at": "2026-09-08T08:43:18.768252+00:00",
+  "metadata": {
+    "ndc": "00574181130",
+    "ndc_description": "TOFACITINIB ER 11 MG TABLET",
+    "nadac_per_unit": 2.19263,
+    "pricing_unit": "EA",
+    "effective_date": "2026-09-02",
+    "as_of_date": "2026-09-02",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "tofacitinib"
+  },
+  "hash": "4e96327059dfd098f3703bc8c3aad0d33a7bac8f5efcc1b70b6421167cfa5aa0"
+}

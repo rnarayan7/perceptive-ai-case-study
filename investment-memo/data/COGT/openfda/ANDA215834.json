@@ -1,0 +1,31 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA215834",
+  "title": "Drugs@FDA ANDA215834: MIDOSTAURIN",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A215834",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:41:03.274460+00:00",
+  "metadata": {
+    "manufacturer": "LOTUS PHARM CO LTD",
+    "brand_name": "MIDOSTAURIN",
+    "sponsor_name": "LOTUS PHARM CO LTD",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "MIDOSTAURIN"
+    ],
+    "active_ingredients": [
+      "MIDOSTAURIN"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "d7c7773a1242997b1d386e103e0223697bcc63e026fc0c37eefd5223a6adbb04"
+}

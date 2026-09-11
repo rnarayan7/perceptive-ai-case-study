@@ -1,0 +1,4 @@
+FAERS adverse-event report 17390493 (comparator: tezepelumab)
+Serious: yes
+Reactions: Pulmonary embolism, Bronchitis, Multiple allergies, Infusion related reaction, Product dose omission issue, Inappropriate schedule of product administration, Illness, Sinusitis, Influenza, Infusion site erythema
+Reported drugs: HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, HUMAN IMMUNOGLOBULIN G, LEVOTHYROXINE SODIUM, SYNTHROID, TEZSPIRE, ZYRTEC, AZELASTINE HYDROCHLORIDE, ALBUTEROL SULFATE, VITAMIN B, VITAMIN D3, ACETAMINOPHEN, DIPHENHYDRAMINE, EPINEPHRINE, Lmx, LEVOTHYROXINE SODIUM, PROZAC, VITAMIN C, MOMETASONE FUROATE, VITAMIN B12, BUDESONIDE, DIPHENHYDRAMINE HYDROCHLORIDE

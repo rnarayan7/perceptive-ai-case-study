@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13441931_f2",
+  "figure_type": "kaplan_meier",
+  "title": "Real-world treatment patterns and outcomes of chemo-immunotherapy with or without radiotherapy in extensive-stage small cell lung cancer: the durvalumab expanded access cohort.",
+  "caption": "(A)  Progression free survival (above) and  (B)  overall survival (bellow) of patients with ES-SCLC treated with first line chemo-immunotherapy and receiving either no or one of the radiotherapy options (cRT, consolidation radiotherapy; sRT, salvage radiotherapy; pRT, palliative radiotherapy).",
+  "context": "(A)  Progression free survival (above) and  (B)  overall survival (bellow) of patients with ES-SCLC treated with first line chemo-immunotherapy and receiving either no or one of the radiotherapy options (cRT, consolidation radiotherapy; sRT, salvage radiotherapy; pRT, palliative radiotherapy). Median PFS and OS survival curves are shown in Figures 1 and 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13441931/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:50:46.161449+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13441931",
+    "pmid": "42564214",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "480aa70cccdddd331da8cccb8a6bdfc65d6f20deb0e897532f9f0d692e8d6cdb",
+  "image_file": "image.jpg"
+}

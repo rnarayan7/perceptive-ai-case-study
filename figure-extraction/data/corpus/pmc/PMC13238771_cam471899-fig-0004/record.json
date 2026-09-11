@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13238771_cam471899-fig-0004",
+  "figure_type": "table",
+  "title": "Camrelizumab Plus Famitinib in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: A Phase 2 Study.",
+  "caption": "Subgroup analysis of Tumor response and survival ( N  = 20) (A) Objective response rate. (B) Duration of response. (C) Progression‐free survival.",
+  "context": "Subgroup analysis of Tumor response and survival ( N  = 20) (A) Objective response rate. (B) Duration of response. (C) Progression‐free survival. The PFS was 10.3 months (95% CI, 4.1 to not reached) in patients with PD‐L1 CPS ≥ 1 compared to 3.6 months (95% CI, 1.4–10.2) in those with PD‐L1 CPS < 1 (Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13238771/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-05-01",
+  "retrieved_at": "2026-09-07T13:25:28.610895+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13238771",
+    "pmid": "42165088",
+    "journal": "Cancer medicine",
+    "fig_label": "FIGURE 4"
+  },
+  "image_hash": "983de3c9fd7170c70c67ac497ba8b0a28dbf5dde6e2af3e1ca0c48eb694704aa",
+  "image_file": "image.jpg"
+}

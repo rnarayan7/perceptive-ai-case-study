@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0a273024-c2d2-4fae-90c3-b2f38a323f24",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0a273024-c2d2-4fae-90c3-b2f38a323f24",
+  "published": "2024-12-15",
+  "retrieved_at": "2026-09-08T08:40:34.885654+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Marlex Pharmaceuticals, Inc",
+    "manufacturer_name": "Marlex Pharmaceuticals, Inc",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA218014",
+    "route": "ORAL"
+  },
+  "hash": "ba7036c487735abea30a2329347bd2f1fa6e976dceda252991432806126e814d"
+}

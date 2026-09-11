@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OH_MEN02_CRDPREV_2022_2022_OVR",
+  "title": "Mental Health - Ohio - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784949+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Ohio",
+    "location_abbr": "OH",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "25.0",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "64706da3b884ebb8c3cbd36ae19259a54e3b3109ff6dcf6dce1eda5a19eaf410"
+}

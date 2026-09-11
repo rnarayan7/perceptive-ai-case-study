@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "NDA212839",
+  "title": "Drugs@FDA NDA212839: XCOPRI",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=212839",
+  "published": "2019-11-21",
+  "retrieved_at": "2026-09-08T08:40:32.689835+00:00",
+  "metadata": {
+    "manufacturer": "SK LIFE",
+    "brand_name": "XCOPRI",
+    "sponsor_name": "SK LIFE",
+    "application_type": "NDA",
+    "brand_names": [
+      "XCOPRI"
+    ],
+    "active_ingredients": [
+      "CENOBAMATE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2019-11-21",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 8
+  },
+  "hash": "335b775036fd12d976655d51b3ce0d3e08811ca6a9c476132bd0e54d8ac3d850"
+}

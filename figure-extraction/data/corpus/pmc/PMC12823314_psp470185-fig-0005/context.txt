@@ -1,0 +1,1 @@
+PBPK model‐predicted change from baseline clearance (CL) over time (red line) versus empirical popPK model of durvalumab with 95% confidence intervals (black points and bars). Figure 5 compares the change from baseline clearance predicted by the PBPK model to the change in clearance empirically estimated from clinical PK data in the popPK analysis of durvalumab [ 19 ].

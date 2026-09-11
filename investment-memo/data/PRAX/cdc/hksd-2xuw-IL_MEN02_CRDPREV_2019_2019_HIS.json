@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IL_MEN02_CRDPREV_2019_2019_HIS",
+  "title": "Mental Health - Illinois - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784685+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Illinois",
+    "location_abbr": "IL",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "14.0",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "d271067f51983116579fbc6782fad303fc37304e194384d38718af80edd2b824"
+}

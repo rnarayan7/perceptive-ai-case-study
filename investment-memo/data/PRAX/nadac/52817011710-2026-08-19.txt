@@ -1,0 +1,7 @@
+Drug: PRIMIDONE 125 MG TABLET
+NDC: 52817011710
+NADAC per unit: $1.37421
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

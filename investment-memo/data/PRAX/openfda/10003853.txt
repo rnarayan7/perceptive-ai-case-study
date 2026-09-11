@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003853 (comparator: lacosamide)
+Serious: yes
+Reactions: Cardiac arrest, Arrhythmia, Acidosis, Respiratory distress, Status epilepticus
+Reported drugs: SABRIL (FOR ORAL SOLUTION), ONFI, VIMPAT, DIAZEPAM, LAMICTAL, TOPAMAX, PHENOBARBITAL, FELBAMATE, PROPOFOL, KETAMINE, DEPAKOTE, PYRIDOXINE

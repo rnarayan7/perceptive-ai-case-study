@@ -1,0 +1,4 @@
+FAERS adverse-event report 17611975 (comparator: ozanimod)
+Serious: yes
+Reactions: Breast cancer
+Reported drugs: YARINA, OZANIMOD.

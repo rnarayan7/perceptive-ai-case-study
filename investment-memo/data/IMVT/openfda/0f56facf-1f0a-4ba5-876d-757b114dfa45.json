@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0f56facf-1f0a-4ba5-876d-757b114dfa45",
+  "title": "Label: Pyridostigmine Bromide (PYRIDOSTIGMINE BROMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0f56facf-1f0a-4ba5-876d-757b114dfa45",
+  "published": "2025-10-16",
+  "retrieved_at": "2026-09-08T08:40:55.167852+00:00",
+  "metadata": {
+    "brand_name": "Pyridostigmine Bromide",
+    "generic_name": "PYRIDOSTIGMINE BROMIDE",
+    "manufacturer": "Amneal Pharmaceuticals of New York LLC",
+    "manufacturer_name": "Amneal Pharmaceuticals of New York LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA040502",
+    "route": "ORAL"
+  },
+  "hash": "08293e76f14b1fbac7d9a49e13dc3f3f11c709e15d9de77ff8986fd597713576"
+}

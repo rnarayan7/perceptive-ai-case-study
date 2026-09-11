@@ -1,0 +1,13 @@
+Title: Study to Assess the Efficacy and Safety of IMVT-1402 in Participants With Mild to Severe Generalized Myasthenia Gravis
+Status: RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Generalized Myasthenia Gravis
+Interventions: IMVT-1402 (DRUG), IMVT-1402 (DRUG), Placebo (DRUG), IMVT-1402 (DRUG)
+Enrollment: 231
+
+Summary: The purpose of the study is to assess the efficacy, safety and tolerability of IMVT-1402 in adult participants with mild to severe generalized myasthenia gravis.
+
+Primary outcomes:
+- Change from Baseline in MG-ADL Score for Antibody-positive Participants (time frame: Baseline to Week 12)

@@ -1,0 +1,4 @@
+FAERS adverse-event report 10006266 (comparator: lacosamide)
+Serious: yes
+Reactions: Ataxia, Gait disturbance, Balance disorder, Status epilepticus
+Reported drugs: VIMPAT, VIMPAT, KEPPRA, AMLOR, ATACAND, IPERTEN, PLAVIX, NOVONORM, LYRICA, URBANYL, ZEBINIX, ZEBINIX, ZEBINIX

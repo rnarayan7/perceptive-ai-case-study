@@ -1,0 +1,60 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13263171_f0004",
+  "figure_type": "forest",
+  "title": "Post-Treatment Prognostic Nutritional Index Outperforms Baseline Index as an Independent Prognostic Biomarker in Advanced Hepatocellular Carcinoma Receiving Immune-Based Systemic Therapy.",
+  "caption": "Forest plot of subgroup analyses for PFS. The vertical dashed line represents HR = 1. HR < 1 indicates a favorable prognosis in the high PNI group. All interaction P values were > 0.05. Subgroup sample sizes: first-line (n = 80), second-line (n = 53); solitary (n = 31), multiple (n = 102); AFP < 400 (n = 72), AFP ≥ 400 (n = 61); BCLC B (n = 18), BCLC C (n = 115).",
+  "context": "Forest plot of subgroup analyses for PFS. The vertical dashed line represents HR = 1. HR < 1 indicates a favorable prognosis in the high PNI group. All interaction P values were > 0.05. Subgroup sample sizes: first-line (n = 80), second-line (n = 53); solitary (n = 31), multiple (n = 102); AFP < 400 (n = 72), AFP ≥ 400 (n = 61); BCLC B (n = 18), BCLC C (n = 115). Subgroup Analyses of Post-Treatment PNI Prognostic Value Subgroup analyses were conducted to evaluate the prognostic consistency of post‑treatment PNI across predefined clinical subgroups, with results presented as forest plots for overall survival (OS, Figure 3 ) and progression-free survival (PFS, Figure 4 ), respectively. For PFS, high post-treatment PNI was associated with significantly longer survival in the second-line therapy (HR = 0.48, 95% CI: 0.28–0.84, P = 0.009), solitary tumors (HR = 0.27, 95% CI: 0.08–0.94, P = 0.039), AFP < 400 ng/mL (HR = 0.38, 95% CI: 0.20–0.71, P = 0.002), and BCLC stage C subgroups (HR = 0.61, 95% CI: 0.39–0.95, P = 0.029; Figure 4 ). The association did not reach statistical significance in the first-line therapy, multiple tumors, AFP ≥ 400 ng/mL, or BCLC stage B subgroups (all P for interaction > 0.05; Figure 4 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263171/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-06-08",
+  "retrieved_at": "2026-09-07T13:08:19.971684+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.48 (95% CI 0.28-0.84)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "er survival in the second-line therapy (HR = 0.48, 95% CI: 0.28–0.84, P = 0.009), solitary tumors (HR = 0.27",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.27 (95% CI 0.08-0.94)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.28–0.84, P = 0.009), solitary tumors (HR = 0.27, 95% CI: 0.08–0.94, P = 0.039), AFP < 400 ng/mL (HR = 0.38",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.38 (95% CI 0.20-0.71)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "0.08–0.94, P = 0.039), AFP < 400 ng/mL (HR = 0.38, 95% CI: 0.20–0.71, P = 0.002), and BCLC stage C subgroups",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.61 (95% CI 0.39-0.95)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "P = 0.002), and BCLC stage C subgroups (HR = 0.61, 95% CI: 0.39–0.95, P = 0.029; Figure 4 ). The association",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13263171",
+    "pmid": "42293349",
+    "journal": "Journal of hepatocellular carcinoma",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "beae61021661ca9c8b83173bb00d53475d2c4182daffd7742c8a5cf9465831b0",
+  "image_file": "image.jpg"
+}

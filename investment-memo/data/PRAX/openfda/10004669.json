@@ -1,0 +1,30 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10004669",
+  "title": "FAERS report 10004669: Transfusion, Liver disorder, Rash",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10004669",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:41.209656+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Transfusion",
+      "Liver disorder",
+      "Rash",
+      "Contusion",
+      "Urticaria"
+    ],
+    "drugs": [
+      "LAMICTAL",
+      "SEROQUEL",
+      "WELLBUTRIN SR",
+      "VENTOLIN HFA",
+      "METFORMIN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "bca3d2dd05b349c0280059bc171dc0eb9a90114236ac08c598e99c0c410b8443"
+}

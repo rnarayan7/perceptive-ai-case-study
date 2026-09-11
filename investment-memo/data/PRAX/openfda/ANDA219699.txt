@@ -1,0 +1,9 @@
+Drugs@FDA application ANDA219699: LACOSAMIDE
+Sponsor: AJENAT PHARMS
+Active ingredient(s): LACOSAMIDE
+Brand name(s): LACOSAMIDE
+Application type: ANDA (generic)
+Original approval date: 2025-06-26
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 1

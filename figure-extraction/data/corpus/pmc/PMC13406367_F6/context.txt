@@ -1,0 +1,1 @@
+Forest plot for β-blockers and 2-year OS in radiotherapy-treated patients. CI = confidence interval, OR = odds ratio, OS = overall survival.

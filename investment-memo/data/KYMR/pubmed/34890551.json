@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "34890551",
+  "title": "Microenvironment drives cell state, plasticity, and drug response in pancreatic cancer.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34890551/",
+  "published": "2021",
+  "retrieved_at": "2026-09-07T08:25:52.524595+00:00",
+  "metadata": {
+    "journal": "Cell",
+    "year": "2021",
+    "pmid": "34890551"
+  },
+  "hash": "44b4d54b203ead7153a5f1972029f2ce7a5468549100e74ec9f189e3cefa5c55"
+}

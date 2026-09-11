@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13434598_Fig2",
+  "figure_type": "kaplan_meier",
+  "title": "Maintenance pemetrexed after platinum pemetrexed chemotherapy and survival outcomes in malignant pleural mesothelioma in a multicenter real world study.",
+  "caption": "Kaplan–Meier curves for progression-free survival according to maintenance pemetrexed therapy in patients with partial response ( A ) and stable disease ( B ) after first-line platinum–pemetrexed chemotherapy. mOS: median overall survival, mPFS: median progression-free survival.",
+  "context": "Kaplan–Meier curves for progression-free survival according to maintenance pemetrexed therapy in patients with partial response ( A ) and stable disease ( B ) after first-line platinum–pemetrexed chemotherapy. mOS: median overall survival, mPFS: median progression-free survival.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13434598/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-15",
+  "retrieved_at": "2026-09-07T12:54:05.529621+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13434598",
+    "pmid": "42457832",
+    "journal": "Scientific reports",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "9b21faa28e9b988804b2a3a4c257615eaf8dd3d18b2e8cd76e839602e03063c0",
+  "image_file": "image.jpg"
+}

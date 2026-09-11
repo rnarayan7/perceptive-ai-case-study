@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "024bca92-cac5-4832-a1ff-c1b3d5994ba0",
+  "title": "Label: Lacosamide (LACOSAMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=024bca92-cac5-4832-a1ff-c1b3d5994ba0",
+  "published": "2026-05-06",
+  "retrieved_at": "2026-09-08T08:40:34.883896+00:00",
+  "metadata": {
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Bryant Ranch Prepack",
+    "manufacturer_name": "Bryant Ranch Prepack",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA215379",
+    "route": "ORAL"
+  },
+  "hash": "21f0376a2cb6b0dc0163b9cbefab5d894929ff4b0fc66709cd2e368c008d9dd6"
+}

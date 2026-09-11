@@ -1,0 +1,7 @@
+Compound: PRAX-562
+PubChem CID: 147075611
+IUPAC name: 3-[ethoxy(difluoro)methyl]-6-[5-fluoro-6-(2,2,2-trifluoroethoxy)-3-pyridinyl]-[1,2,4]triazolo[4,3-a]pyrazine
+Molecular formula: C15H11F6N5O2
+Molecular weight: 407.27 g/mol
+SMILES: CCOC(C1=NN=C2N1C=C(N=C2)C3=CC(=C(N=C3)OCC(F)(F)F)F)(F)F
+Synonyms: PRAX-562, RefChem:1096584, Relutrigine, 2392951-29-8, 3-(Ethoxydifluoromethyl)-6-(5-fluoro-6-(2,2,2-trifluoroethoxy)pyridin-3-yl)-[1,2,4]triazolo[4,3-a]pyrazine, 3-[Ethoxy(difluoro)methyl]-6-[5-fluoro-6-(2,2,2-trifluoroethoxy)pyridin-3-yl]-[1,2,4]triazolo[4,3-a]pyrazine, Relutrigina, relutrigine [INN], AW5C5XHM4W, PRAX562, orb1739828, CHEMBL5314479, SCHEMBL23132181, GTPL12643, BFXBSYMVTNEFRF-UHFFFAOYSA-N

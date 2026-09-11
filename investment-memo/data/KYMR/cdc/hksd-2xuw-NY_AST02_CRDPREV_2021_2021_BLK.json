@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NY_AST02_CRDPREV_2021_2021_BLK",
+  "title": "Asthma - New York - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573853+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "New York",
+    "location_abbr": "NY",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "12.1",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Black, non-Hispanic"
+  },
+  "hash": "4fc3948060119c0d2bf377b50f91a3c999760cb519f331340d22ce9b7182707e"
+}

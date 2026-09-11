@@ -1,0 +1,3 @@
+Title: A weekly low-dose regimen of decitabine and venetoclax is efficacious and less myelotoxic in a racially diverse cohort.
+Journal: Blood
+Abstract: A metronomic, low-dose schedule of decitabine and venetoclax was safe and effective in myeloid malignancies with few dose reductions or interruptions in an older diverse population. Median overall survival for patients with acute myeloid leukemia and a TP53-mutation was 16.1 and 11.3 months, respectively. This trial was registered at www.clinicaltrials.gov as #NCT05184842.

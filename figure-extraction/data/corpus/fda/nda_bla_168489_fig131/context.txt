@@ -1,0 +1,53 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               and both with a lower predicted median and overlapping Gr2+ IMAEs than that for adults using
+               the approved N1I3 dosing regimen followed by nivolumab maintenance. Higher Gr2+ IMAEs
+               predicted for adult may be due to body weight being a significant predictor, with higher risk
+               associated with higher body weight and older age subjects. On the other hand, the effect of
+               both nivolumab and ipilimumab exposures when dosed in combination is relatively flat.
+               Therefore, the moderate exposure increase in adolescent subjects relative to adults is not
+               predicted to result in an increased risk of Gr2+ IMAEs for adolescents.
+               Data Supporting the Dose Recommendation for Nivolumab Monotherapy in Adolescent
+               Adjuvant Treatment of Melanoma
+               Adult flat dosing exposures were used as a reference. Results of the nivolumab simulations
+               indicate that for adolescents ≥ 40 kg with advanced solid tumors receiving the flat dosing of 240
+               mg Q2W, nivolumab steady state exposures were expected to exceed the adult exposure range,
+               resulting in up to 9.6%, 9.5% and 12.6% higher Cavgss, Cminss, and Cmaxss, respectively (Table
+               13). It should be noted that the upper range of the exposure difference is expected in only the
+               lowest body weight band (40 to 60 kg) in adolescents and supports the rationale to use body
+               weight based dosing for subjects < 40 kg. However, for adolescents ≥ 40 kg flat dosing is still
+               recommended despite the higher adolescent exposures versus adult exposures, since
+               adolescent exposures are still well below the exposures observed with the clinically tolerated
+               dose of nivolumab 10 mg/kg Q2W in adults. Similar findings were observed with the Q4W
+               regimens of 480 mg (Table 14).
+               The supporting E-R safety analysis predicted numerically lower median Gr2+ IMAEs with
+               overlapping 90% PIs for adolescents compared to adults when using the approved adult dosing
+               regimens (Table 15 and Table 16). Model-predicted Gr2+ IMAEs for adolescents receiving
+               nivolumab 3 mg/kg Q2W (< 40 kg), 240 mg (≥ 40 kg) Q2W or nivolumab 3 mg/kg Q2W with or
+               without a dose cap are similar and both lower than that for adults using the approved 240 mg
+               Q2W dosing regimen (Table 15). Similarly, model predicted Gr2+ IMAEs for adolescents
+               receiving nivolumab 6 mg/kg Q4W (< 40 kg), 480 mg (≥ 40 kg) Q4W or nivolumab 6 mg/kg Q4W
+               with or without a dose cap (Table 16) are similar and both lower than that for adults using the
+               approved 480 mg Q4W dosing regimen.
+
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s position.
+               The Applicant’s approach and assessment involving PK-based extrapolation from adults to
+               pediatric patients (12 years and older) with unresectable or metastatic melanoma and with
+               melanoma with lymph node involvement or metastatic disease that has been completely
+               resected was found acceptable based on
+               1) similarity of disease in adults versus in adolescent patients
+               2) comparable or <40% higher predicted nivolumab and ipilimumab exposures for pediatric
+                   patients with the approved adult dosing regimen. Higher exposures in pediatric patients (12
+
+                                                                 55
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+

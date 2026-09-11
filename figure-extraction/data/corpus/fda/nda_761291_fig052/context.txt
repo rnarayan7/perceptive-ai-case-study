@@ -1,0 +1,52 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                        correlated with teclistamab exposures at the RP2D dose.
+               •        An E-R trend was observed for ORR assessed by investigator based on IMWG 2011 criteria in
+                        SC subjects in Phase 1 (Phase 1 ORR) where ORR increased with teclistamab exposure across
+                        SC doses ranging from 0.08 to 3 mg/kg weekly, approaching plateau at the RP2D of
+                        1.5 mg/kg.
+               •        No apparent positive E-R trend was observed in the incidence of Grade ≥3 TEAEs of anemia,
+                        neutropenia, lymphopenia, thrombocytopenia, and infections across the predicted exposure
+                        quartiles in subjects who received teclistamab SC.
+
+             Pharmacodynamics
+               •        A rapid decrease in total sBCMA was observed in a majority of responders within the first
+                        month of treatment, and a greater reduction in sBCMA tended to occur in subjects with
+                        deeper responses to teclistamab at pivotal RP2D and in Phase 1. Responders to teclistamab
+                        also showed a trend of sBCMA reduction over time.
+               •        Cytokine induction was observed in subjects treated at the pivotal RP2D and in Phase 1, as
+                        demonstrated by increases in IL-6, IL-10, IL-2Rα, interferon-gamma (Phase 2 only), and tumor
+                        necrosis factor-alpha (Phase 2 only).
+               •        T-cell activation was induced following initial doses of teclistamab for subjects treated at
+                        RP2D in both Phase 1 and Phase 2, as evidenced by upregulation of CD25, CD38, PD1, human
+                        leukocyte antigen-DR isotype, lymphocyte activation gene-3, or T-cell immunoglobulin and
+                        mucin domain-containing protein 3 on CD8 and CD4 T cells.
+               •        T-cell redistribution was observed in subjects treated at RP2D in both Phase 1 and Phase 2,
+                        as demonstrated by reduction in peripheral CD4+ and CD8+ T cells after the initial doses of
+                        teclistamab.
+               •        Reduction of CD19+ B cells was observed in subjects treated at pivotal RP2D within the first
+                        cycle. Persistently decreased levels were noted at Cycle 3.
+
+             Immunogenicity
+               •    One of 82 subjects (1.2%) receiving teclistamab IV and 1 of 219 subjects (0.5%) receiving
+                    teclistamab SC developed ADAs. These ADAs were neutralizing antibodies to teclistamab.
+                    These ADAs had a low titer of 20 and seemed to have no impact on safety in these 2 subjects.
+                    Based on available PK data from the subject with IV administration, these ADAs did not seem
+                    to affect teclistamab PK.
+               •    None (0%) of the 173 subjects who were ADA evaluable for RP2D were identified as positive
+                    for antibodies to teclistamab. Overall, the incidence of antibodies to teclistamab was low in
+                    subjects treated with either teclistamab IV or SC.
+               The Applicant’s Position:
+               Clinical pharmacology findings support the registrational treatment dose of teclistamab:
+               1.5 mg/kg SC administered weekly, with the first treatment dose preceded by step-up doses of
+               0.06 and 0.3 mg/kg.
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              54
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13438214_fig2-17588359261469538",
+  "figure_type": "kaplan_meier",
+  "title": "Long-term comparative effectiveness of tepotinib versus standard of care for MET exon 14 skipping-mutated non-small cell lung cancer.",
+  "caption": "PFS (a) and OS (b) of the tepotinib and SoC groups after MAIC. CI, confidence interval; HR, hazard ratio; M, months; MAIC, matching-adjusted indirect comparison; OS, overall survival; PFS, progression-free survival; SoC, standard of care.",
+  "context": "PFS (a) and OS (b) of the tepotinib and SoC groups after MAIC. CI, confidence interval; HR, hazard ratio; M, months; MAIC, matching-adjusted indirect comparison; OS, overall survival; PFS, progression-free survival; SoC, standard of care. Consistent with before MAIC ( eSupplemental Result 2 ), the tepotinib arm showed significantly higher PFS than the SoC arm (median PFS (95% CI), 16.33 months (9.41–49.54 months) vs 4.77 months (3.19–5.92 months); p < 0.001) after MAIC ( Figure 2(a) ). Based on a Cox proportional hazard model ( eSupplemental Result 3.1 ; eFigures R3-1 and R3-2 ), tepotinib showed a significant PFS benefit over SoC after MAIC (HR (95% CI), 0.38 (0.22–0.63), p < 0.001; Figure 2(a) ). Median OS was not significantly different between the two groups (median OS (95% CI): tepotinib 32.80 months (16.33–NA months); SoC 26.7 months (19.4–NAmonths); log-rank p = 0.90; Figure 2(b) ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13438214/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-08-03",
+  "retrieved_at": "2026-09-07T12:53:58.188186+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13438214",
+    "pmid": "42558922",
+    "journal": "Therapeutic advances in medical oncology",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "a90bc842e20fc8da85a1de2cc02d9eff9797405cb3c0efb0d633038c4ee562c6",
+  "image_file": "image.jpg"
+}

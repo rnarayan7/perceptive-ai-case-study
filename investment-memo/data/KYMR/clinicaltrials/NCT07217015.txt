@@ -1,0 +1,13 @@
+Title: A Study of KT-621 Administered Orally to Participants With Moderate to Severe Atopic Dermatitis
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Atopic Dermatitis
+Interventions: KT-621 (DRUG), Placebo (OTHER)
+Enrollment: 200
+
+Summary: This phase 2b study is designed to evaluate the safety and efficacy of KT-621 in adult and adolescent participants with moderate-to-severe atopic dermatitis (AD), a common form of eczema. The main goals of this study are to learn how effective KT-621 is at reducing the severity and extent of AD, the safety and tolerability of KT-621, how KT-621 behaves in the body, and how the body responds to KT-621. This is a 16-week double-blind, placebo-controlled study with a 52-week open-label period.
+
+Primary outcomes:
+- Change from baseline in Eczema Area and Severity Index (EASI) score (time frame: From baseline through Week 16)

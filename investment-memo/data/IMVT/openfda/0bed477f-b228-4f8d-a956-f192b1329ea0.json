@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0bed477f-b228-4f8d-a956-f192b1329ea0",
+  "title": "Label: Pyridostigmine Bromide (PYRIDOSTIGMINE BROMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0bed477f-b228-4f8d-a956-f192b1329ea0",
+  "published": "2023-09-14",
+  "retrieved_at": "2026-09-08T08:40:55.167761+00:00",
+  "metadata": {
+    "brand_name": "Pyridostigmine Bromide",
+    "generic_name": "PYRIDOSTIGMINE BROMIDE",
+    "manufacturer": "Novadoz Pharmaceuticals LLC",
+    "manufacturer_name": "Novadoz Pharmaceuticals LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA216512",
+    "route": "ORAL"
+  },
+  "hash": "5ad4fbfcde1f70703783dd03c60a20230b6d401fdc8d0df9cf58b5e2dd3f199f"
+}

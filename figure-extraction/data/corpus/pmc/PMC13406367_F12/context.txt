@@ -1,0 +1,1 @@
+Forest plot for LRPFS in radiotherapy-treated patients. CI = confidence interval, LRPFS = locoregional progression-free survival, HR = hazard ratio.

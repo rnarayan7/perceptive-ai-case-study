@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0a114d99-e50b-49fe-9e0f-ccce279ffb4f",
+  "title": "Label: Pyridostigmine Bromide (PYRIDOSTIGMINE BROMIDE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0a114d99-e50b-49fe-9e0f-ccce279ffb4f",
+  "published": "2025-08-04",
+  "retrieved_at": "2026-09-08T08:40:55.167709+00:00",
+  "metadata": {
+    "brand_name": "Pyridostigmine Bromide",
+    "generic_name": "PYRIDOSTIGMINE BROMIDE",
+    "manufacturer": "ANI Pharmaceuticals, Inc.",
+    "manufacturer_name": "ANI Pharmaceuticals, Inc.",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA040512",
+    "route": "ORAL"
+  },
+  "hash": "c4726ed3b5764cc6a99d8408b5bab78823944d37418c36719f8bce3d5823a949"
+}

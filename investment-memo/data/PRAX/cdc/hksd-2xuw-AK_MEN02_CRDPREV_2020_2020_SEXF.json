@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AK_MEN02_CRDPREV_2020_2020_SEXF",
+  "title": "Mental Health - Alaska - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784126+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Alaska",
+    "location_abbr": "AK",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "23.0",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "3b573fa0bc1be949a07e5ce0f29ef013e39e3cc169eecec2e5b61d04a8a1d77e"
+}

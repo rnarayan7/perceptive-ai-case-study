@@ -1,0 +1,505 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our (1) unaudited condensed consolidated financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q (“Quarterly Report”), and (2) audited consolidated financial statements and the related notes thereto and management’s discussion and analysis of financial condition and results of operations for the fiscal year ended March 31, 2026, included in our Annual Report on Form 10-K (“Annual Report”), filed with the Securities and Exchange Commission (the “SEC”) on May 20, 2026. Unless the context requires otherwise, references in this Quarterly Report to “Immunovant,” the “Company,” “we,” “us,” and “our” refer to Immunovant, Inc. and its wholly-owned subsidiaries.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Quarterly Report contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These statements are often identified by the use of words such as “anticipate,” “believe,” “can,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “hope,” “intend,” “likely,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “to be,” “will,” “would,” or the negative or plural of these words, or similar expressions or variations, although not all forward-looking statements contain these words. We cannot assure you that the events and circumstances reflected in the forward-looking statements will be achieved or occur and actual results could differ materially from those expressed or implied by these forward-looking statements.
+
+Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled “Risk Factors” set forth in Part I, Item 1A. of our Annual Report and in our other filings with the SEC. These risks are not exhaustive. New risk factors emerge from time to time and it is not possible for our management to predict all risk factors, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. Except as required by applicable law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+
+Overview
+
+Immunovant, Inc. (“Immunovant,” “we” or the “Company”) is a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases. Our focus is on developing IMVT-1402 (imeroprubart), a potentially best-in-class inhibitor of the neonatal fragment crystallizable receptor (“FcRn”), to address autoimmune diseases driven by high levels of pathogenic immunoglobulin G (“IgG”) antibodies. FcRn is involved in preventing the degradation of IgG antibodies, and inhibition of FcRn has been shown to reduce levels of total IgG and pathogenic IgG antibodies.
+
+We believe that FcRn inhibition has broad therapeutic and commercial potential to address pathogenic IgG-mediated autoimmune diseases in several therapeutic areas, including, but not limited to, endocrinology, neurology, rheumatology and dermatology. Third-party estimates suggest over four million patients in the United States and Europe could benefit from anti-FcRn treatments across more than 20 indications that have been publicly announced for research and development by multiple companies, with two indications that are already approved and launched, quickly reaching multi-billions of dollars in global annual sales.
+
+Consistent evidence observed across the class in eight indications in Phase 2 and 3 trials with FcRn inhibitors has indicated that deeper IgG reductions correlate with meaningful improvements in clinical outcomes. This has also been validated with Immunovant’s own Phase 2 and 3 studies evaluating its first-generation anti-FcRn antibody, batoclimab, in Graves’ disease (“GD”), myasthenia gravis (“MG”) and chronic inflammatory demyelinating polyneuropathy (“CIDP”) which showed that IgG reductions of greater than or equal to 70% led to meaningfully better outcomes compared to reductions below 70% across a range of clinical measures.
+
+17
+
+Table of Contents
+
+In a Phase 1 clinical trial, healthy adults dosed with IMVT-1402 showed deep, dose-dependent IgG reductions. We expect to be able to reach approximately 80% IgG reductions with continued weekly dosing of 600 mg of IMVT-1402, offering deeper IgG reductions than observed with other competitor anti-FcRn programs, therefore representing a potential best-in-class opportunity. In the Phase 1 clinical trial, across all evaluated doses, IMVT-1402 demonstrated no or minimal reductions in albumin and no or minimal increases in LDL cholesterol levels, which are off-target effects observed in some anti-FcRn antibodies, including batoclimab. We believe IMVT-1402’s profile has the potential to offer best-in-class efficacy, in addition to its potentially favorable safety profile and convenient administration with a simple self-administered auto-injector expected at launch.
+
+We are currently progressing a broad set of programs for IMVT-1402 and have ongoing studies in six indications, including potentially registrational trials in GD, difficult-to-treat rheumatoid arthritis (“D2T RA”), MG, CIDP and Sjögren’s disease (“SjD”), and a proof-of-concept trial in cutaneous lupus erythematosus (“CLE”). Our primary focus is to execute these six indications first, with plans to assess new indications for IMVT-1402 in the future. All studies evaluating IMVT-1402 are being conducted using the intended commercial drug formulation and delivery device, the YpsoMate® autoinjector developed by Ypsomed AG, which is utilized for multiple approved products.
+
+IMVT-1402 and batoclimab are fully human monoclonal antibodies that target FcRn. These antibodies are the result of a multi-step, multi-year research program conducted in collaboration with HanAll to design highly potent anti-FcRn antibodies that may be optimized as a simple, subcutaneous injection with dosing that has been shown to deliver better efficacy at the high dose and similar efficacy at the low dose compared to standard FcRn inhibition by competitors.
+
+In April 2026, we announced top-line results from two Phase 3 clinical studies evaluating batoclimab as an investigational treatment for adults with active, moderate-to-severe thyroid eye disease (“TED”), neither of which met the primary endpoint. The safety profile observed in these studies was consistent with prior batoclimab studies, with no new safety signals identified. Following these results, we made a decision to discontinue further development of batoclimab across all indications to focus fully on IMVT-1402. Learnings from the batoclimab program, including clinical data, operational trial experience, and relationships with investigators, have been and continue to be leveraged to inform the development of IMVT-1402.
+
+In May 2026, we reported positive preliminary open-label Week 16 (Period 1) results from our potentially registrational trial in D2T RA, in which IMVT-1402 showed response rates of 72.7% ACR20, 54.5% ACR50, and 35.8% ACR70 in a heavily pretreated patient population - the first efficacy data for IMVT-1402 in patients. These results are described further under “Recent Developments in Our Clinical Programs” below.
+
+Recent Developments in Our Clinical Programs
+
+Endocrine Diseases
+
+IMVT-1402 Trials in GD
+
+In December 2024 and June 2025, we initiated two potentially registrational trials (NCT06727604 and NCT07018323, respectively) evaluating IMVT-1402 in adults with GD. We expect to report top-line results from these trials in calendar year 2027.
+
+Rheumatology Diseases
+
+IMVT-1402 Trial in D2T RA
+
+In December 2024, we initiated a potentially registrational trial (NCT06754462) evaluating IMVT-1402 in anti-citrullinated protein autoantibody (“ACPA”) positive D2T RA.
+
+The trial is currently ongoing and enrolled a total of 170 participants in Period 1. At the completion of Period 1, 165 of the 170 enrolled patients were evaluable for ACR20 response to determine eligibility to continue to Period 2 and the primary efficacy analysis for the study. The enrollment inclusion criteria described above resulted in a heavily pretreated population: 86.7% (143/165) had failed two prior mechanisms of advanced therapies (i.e., biologic or targeted synthetic DMARDs), and the mean time from disease diagnosis was 12.8 years. Baseline disease activity was high, with a mean of 24.2 tender joints, 16.7 swollen joints, and DAS28-CRP score of 6.1.
+
+18
+
+Table of Contents
+
+At Week 16, the ACR20, ACR50, and ACR70 response rates observed were 72.7%, 54.5%, and 35.8%, respectively; participants who discontinued prior to Week 16 were imputed as non-responders. Among the subset of participants who had failed at least a JAK inhibitor and an anti-TNF inhibitor (N=107), the ACR20, ACR50, and ACR70 response rates observed at Week 16 were 72.0%, 53.3%, and 37.4%, respectively. ACR20 response is defined as a ≥ 20% improvement from baseline in tender joint count and swollen joint count and a ≥ 20% improvement from baseline in at least 3 of 5 additional clinical parameters. Similarly, ACR50 and ACR70 responses are a calculation of 50% or 70% improvement, respectively, in the number of swollen and tender joints and 3 of 5 assessment parameters.
+
+Period 1 was conducted in an open-label setting, with joint assessments performed by independent assessors blinded to treatment status to control for the potential for assessor bias in the response measures. IMVT-1402 was observed to be safe and well-tolerated in Period 1, and no new drug-related safety signals were identified. Study participants meeting the criteria for an ACR20 response at Weeks 14 and 16 are eligible to advance to Period 2 of the trial, where the primary endpoint will be assessed at Week 28. Further updates on this program are expected in the second half of calendar year 2026.
+
+IMVT-1402 Trial in SjD
+
+In June 2025, we initiated a potentially registrational trial (NCT06979531) evaluating IMVT-1402 in SjD. We expect to report top-line results from this trial in calendar year 2028.
+
+Dermatology Diseases
+
+IMVT-1402 Proof-of-Concept Trial in CLE
+
+In February 2025, we initiated a proof-of-concept trial (NCT06980805) evaluating IMVT-1402 in CLE. The trial is fully enrolled and we expect to report top-line results from this trial in the second half of calendar year 2026.
+
+Neurological Diseases
+
+IMVT-1402 Trial in MG
+
+In March 2025, we initiated a potentially registrational trial (NCT07039916) evaluating IMVT-1402 in adults with MG. This trial is a randomized, placebo-controlled, 26-week trial. We expect to report top-line results from this trial in calendar year 2027.
+
+IMVT-1402 Trial in CIDP
+
+In March 2025, we initiated a potentially registrational trial (NCT07032662) evaluating IMVT-1402 in adults with CIDP. This trial is a randomized, placebo-controlled, 24-week trial in participants with active CIDP. We expect to report top-line results from this trial in calendar year 2028.
+
+Macroeconomic Considerations
+
+Unfavorable conditions in the economy in the U.S., Canada and abroad may negatively affect the growth of our business and our results of operations. For example, macroeconomic events, including changes in inflation and interest rates, changes in international trade policies and tariffs and geopolitical tensions, such as the Russia-Ukraine war and conflicts in the Middle East, including the recent hostilities involving Iran, have led to economic uncertainty globally. The effect of macroeconomic conditions may not be fully reflected in our results of operations until future periods. If, however, economic uncertainty increases or the global economy worsens, our business, financial condition and results of operations may be harmed.
+
+19
+
+Table of Contents
+
+Our Key Agreements
+
+License Agreement with HanAll (“HanAll Agreement”)
+
+We have commenced discussions with HanAll regarding the future disposition of batoclimab, including the potential return to HanAll of certain rights for batoclimab. In April 2026, we notified HanAll of our decision to indefinitely delay further development of batoclimab and focus our resources fully on IMVT-1402. Under the HanAll Agreement, we retain final decision-making authority over development and regulatory matters for licensed products in our Licensed Territory, and we believe we have satisfied our obligations under the HanAll Agreement, including with respect to batoclimab. HanAll may disagree with our interpretation of the agreement or our actions thereunder, and we may be unable to reach an agreement with HanAll regarding the future of batoclimab. This could result in a dispute with HanAll involving arbitration or litigation.
+
+For a description of our transactions under the HanAll Agreement, refer to “Note 3 – License Agreement”in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+
+Related Party Transactions
+
+For a description of our transactions under agreements with related parties, refer to “Note 5 – Related Party Transactions”in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+
+Financial Operations Overview
+
+Revenue
+
+We have not generated any revenue and have incurred significant operating losses since inception, and we do not expect to generate any revenue from the sale of any products unless or until we obtain regulatory approval of and commercialize IMVT-1402 or any future product candidates. Our ability to generate revenue sufficient to achieve profitability will depend completely on the successful development and eventual commercialization of IMVT-1402 and any other product candidates.
+
+Research and Development Expenses
+
+We have been primarily engaged in preparing for and conducting clinical trials. Research and development expenses include therapeutic area-specific costs, as well as unallocated costs, and are net of costs reimbursable to the Company pursuant to cost-sharing arrangements with third parties.
+
+Therapeutic area-specific costs include direct third-party costs, which include expenses incurred under agreements with contract research organizations and the cost of consultants who assist with the development of our product candidates with respect to a specific therapeutic area, investigator grants, sponsored research, and any other third-party expenses directly attributable to the development of the product candidates. Therapeutic area-specific costs also include contract manufacturing costs in connection with producing materials for use in conducting nonclinical and clinical studies to the extent they can be allocated to a specific therapeutic area.
+
+Unallocated costs include:
+
+•personnel-related expenses, such as salaries, stock-based compensation and benefits, for research and development personnel;
+
+•costs allocated to us under our services agreements with Roivant Sciences Ltd. (“RSL”) and Roivant Sciences GmbH (“RSG”) (the “Services Agreements”);
+
+•contractual costs related to discontinued batoclimab programs; and
+
+•other expenses, which include the cost of consultants and information technology related to our research and development but are not allocated to a specific therapeutic area.
+
+Research and development activities will continue to be central to our business model. We expect to incur research and development expenses with respect to our IMVT-1402 development activities and we have ongoing clinical trials evaluating IMVT-1402 in GD, D2T RA, MG, CIDP, SjD and CLE. We expect to continue to incur research and development expenses over the next several years as we execute IMVT-1402 trials, manufacture IMVT-1402 and prepare to seek regulatory approval. It is not possible to determine with certainty the duration and completion costs of any clinical trial we may conduct.
+
+20
+
+Table of Contents
+
+The duration, costs and timing of clinical trials of IMVT-1402 and any future product candidates will depend on a variety of factors that include, but are not limited to:
+
+•the number of trials required for approval;
+
+•the per patient trial costs;
+
+•the number of patients that participate in the trials;
+
+•the number of sites included in the trials;
+
+•the countries in which the trial is conducted;
+
+•the length of time required to enroll eligible patients;
+
+•the number of doses that patients receive;
+
+•the drop-out or discontinuation rates of patients;
+
+•the potential additional safety monitoring or other studies requested by regulatory authorities;
+
+•the duration of patient follow-up;
+
+•the timing and receipt of regulatory approvals;
+
+•the potential impact of macroeconomic events, including changes in inflation, interest rates and international trade policies and tariffs and geopolitical tensions, such as the Russia-Ukraine war and the conflicts in the Middle East, including the recent hostilities involving Iran;
+
+•the efficacy and safety profile of the product candidate; and
+
+•the cost of manufacturing.
+
+In addition, the probability of success for our product candidates will depend on numerous factors, including our product’s efficacy, safety, ease of use, competition, manufacturing capability and commercial viability.
+
+General and Administrative Expenses
+
+General and administrative expenses consist primarily of employee-related expenses, such as salaries, stock-based compensation and benefits for employees engaged in general and administrative activities, legal and accounting fees, consulting services, costs allocated under the Services Agreements and other operating costs relating to corporate matters and daily operations.
+
+We anticipate that our general and administrative expenses will continue to support our ongoing research and development activities. These expenses will likely include patent-related costs, including legal and professional fees for filing, prosecution and maintenance of patents and patent applications claiming our product candidates and fees to outside consultants for professional services. In addition, if IMVT-1402 or any other product candidate obtains regulatory approval, we expect that we would incur significant additional expenses associated with market research activities and building commercial teams.
+
+Results of Operations for the Three Months Ended June 30, 2026 and 2025
+
+The following table sets forth our results of operations for the three months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+Operating expenses:
+
+Research and development
+
+$
+
+142,631
+
+$
+
+101,200
+
+$
+
+41,431
+
+General and administrative
+
+17,692
+
+26,024
+
+(8,332)
+
+Total operating expenses
+
+160,323
+
+127,224
+
+33,099
+
+Interest income, net
+
+(7,095)
+
+(6,337)
+
+(758)
+
+Other income, net
+
+(4)
+
+(1,187)
+
+1,183
+
+Loss before provision for income taxes
+
+(153,224)
+
+(119,700)
+
+(33,524)
+
+Provision for income taxes
+
+—
+
+913
+
+(913)
+
+Net loss
+
+$
+
+(153,224)
+
+$
+
+(120,613)
+
+$
+
+(32,611)
+
+21
+
+Table of Contents
+
+Research and Development Expensesfor the Three Months Ended June 30, 2026 and 2025
+
+The following table summarizes the period-over-period changes in research and development expenses for the three months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+Therapeutic area-specific costs:
+
+Endocrine diseases
+
+$
+
+42,885
+
+$
+
+19,329
+
+$
+
+23,556
+
+Neurological diseases
+
+25,455
+
+20,937
+
+4,518
+
+Rheumatology diseases
+
+22,340
+
+8,209
+
+14,131
+
+Dermatology diseases
+
+7,542
+
+5,145
+
+2,397
+
+Other clinical and nonclinical
+
+2,609
+
+2,392
+
+217
+
+Total therapeutic area-specific costs
+
+100,831
+
+56,012
+
+44,819
+
+Unallocated costs:
+
+Personnel-related expenses including stock-based compensation
+
+33,497
+
+34,503
+
+(1,006)
+
+Other
+
+8,303
+
+10,685
+
+(2,382)
+
+Total research and development expenses
+
+$
+
+142,631
+
+$
+
+101,200
+
+$
+
+41,431
+
+For the three months ended June 30, 2026, research and development expenses increased $41.4 million as compared with the prior-year period.
+
+For the three months ended June 30, 2026, therapeutic area-specific research and development costs, including contract manufacturing costs, increased $44.8 million as compared with the prior-year period. Research and development costs related to endocrine diseases, which include GD and TED, increased $23.6 million. This increase was primarily due to our ongoing clinical trials of IMVT-1402 in GD, partially offset by lower costs related to the wind-down of our batoclimab clinical trials. Research and development costs related to neurological diseases, which include MG and CIDP, increased $4.5 million, primarily due to higher costs related to our clinical trials of IMVT-1402 in neurological diseases, partially offset by lower costs related to the wind-down of our batoclimab clinical trials. Research and development costs related to rheumatology diseases increased $14.1 million, reflecting higher expenses incurred with our ongoing clinical trials of IMVT-1402 in D2T RA and SjD. Research and development costs related to dermatology diseases increased $2.4 million, reflecting higher overall clinical trial costs for our proof-of-concept trial in CLE.
+
+For the three months ended June 30, 2026, unallocated research and development costs decreased $3.4 million as compared with the prior-year period. This decrease primarily reflected lower costs that were not allocated to specific therapeutic areas as a result of the Company’s focus on the development of IMVT-1402 of $2.4 million and a decrease in personnel-related expenses of $1.0 million aligned with a decrease in headcount.
+
+General and Administrative Expenses for the Three Months Ended June 30, 2026 and 2025
+
+For the three months ended June 30, 2026, general and administrative expenses decreased $8.3 million as compared with the prior-year period, primarily reflecting lower personnel-related expenses, driven by a one-time stock-based compensation charge in the prior-year period related to the retirement of our former chief executive officer, as well as lower professional fees, market research costs and information technology costs.
+
+Interest Income, net for the Three Months Ended June 30, 2026 and 2025
+
+For the three months ended June 30, 2026, interest income increased $0.8 million as compared with the prior-year period, primarily reflecting higher average money market fund balances, partially offset by lower average interest rates.
+
+22
+
+Table of Contents
+
+Liquidity and Capital Resources
+
+Sources of Liquidity
+
+We had cash and cash equivalents of $797.8 million and $902.1 million as of June 30, 2026 and March 31, 2026, respectively. For the three months ended June 30, 2026 and 2025, we had net losses of $153.2 million and $120.6 million, respectively. We expect to continue to incur significant expenses at least for the next several years. We have never generated any revenue and we do not expect to generate product revenue unless and until we successfully complete development and obtain regulatory approval for IMVT-1402 or any future product candidate.
+
+To date, we have financed our operations primarily from equity offerings. Until such time, if ever, as we can generate substantial product revenue from sales of IMVT-1402 or any other product candidate, we expect to finance our cash needs through a combination of equity offerings, debt financings and potential collaboration, license or development agreements. Our ability to raise additional capital may be adversely impacted by worsening global economic conditions and the continuing disruptions to, and volatility in, the credit and financial markets in the U.S. and worldwide, disruptions resulting from geopolitical tensions, including the ongoing military conflicts between Russia and Ukraine and in the Middle East, including the recent hostilities involving Iran, and changes in inflation, interest rates and international trade policies and tariffs.
+
+We do not currently have any committed external source of funds. Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends.
+
+We have a sales agreement with Leerink Partners LLC (“Leerink Partners”), as sales agent, pursuant to which we may offer and sell, from time to time, shares of our common stock (the “ATM Shares”), subject to certain conditions as specified in the sales agreement. We agreed to pay Leerink Partners up to 3% of the gross proceeds from each sale of ATM Shares sold through the sales agreement. The ATM Shares would be sold at prevailing market prices at the time of the sale and, as a result, prices may vary. The ATM Shares to be sold under the sales agreement, if any, would be issued and sold pursuant to an automatic shelf registration statement on Form S-3, which we filed with the SEC on November 9, 2023, along with a prospectus supplement relating to the offer and sale of up to $150.0 million of ATM Shares pursuant to the sales agreement. We have not issued or sold any ATM Shares pursuant to the ATM offering program.
+
+If we raise additional funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may be required to relinquish valuable rights to future revenue streams, research programs or product candidates or to grant licenses on terms that may not be favorable to us. Adequate additional funding may not be available to us on acceptable terms, or at all. If we are unable to raise capital in sufficient amounts or on terms acceptable to us, we may be required to delay, limit, reduce or terminate our drug development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves or potentially discontinue operations.
+
+Cash Flows
+
+The following table sets forth a summary of our cash flows for the three months ended June 30, 2026 and 2025 (in thousands):
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Net cash used in operating activities
+
+$
+
+(124,405)
+
+$
+
+(117,411)
+
+Net cash provided by financing activities
+
+20,097
+
+2,918
+
+23
+
+Table of Contents
+
+Operating Activities
+
+For the three months ended June 30, 2026, $124.4 million of cash was used in operating activities, primarily reflecting a net loss from operations for the period of $153.2 million, partially offset by non-cash charges of $13.9 million and a net change in operating assets and liabilities of $14.9 million. The non-cash charges consisted mainly of stock-based compensation of $13.8 million, reflecting the lower headcount and related incentive equity awards as compared with the prior year. The change in operating assets and liabilities reflected an increase in accrued expenses and other current liabilities of $10.1 million, primarily reflecting payments and services related to our ongoing clinical trials and contract manufacturing, partially offset by payments related to employee incentive compensation, a decrease in other assets of $6.8 million driven by the amortization of prepaid expenses related to certain contract manufacturing activities, and an increase in accounts payable of $2.6 million related to CRO clinical trial costs. These changes were partially offset by higher prepaid and other current assets of $5.0 million, primarily reflecting the timing of payments and services related to our ongoing clinical trials.
+
+For the three months ended June 30, 2025, $117.4 million of cash was used in operating activities, primarily reflecting a net loss from operations for the period of $120.6 million and a net change in operating assets and liabilities of $15.4 million, partially offset by non-cash charges of $18.6 million. The non-cash charges consisted mainly of stock-based compensation of $18.5 million, reflecting the higher headcount and incentive equity awards as compared with the prior year. The change in operating assets and liabilities reflected a decrease in accounts payable of $9.4 million, primarily related to payments to CROs for clinical trial costs. Accrued expenses and other current liabilities decreased $5.3 million, primarily reflecting payments related to employee incentive compensation, partially offset by the timing of payments and services related to our ongoing clinical trials.
+
+Financing Activities
+
+For the three months ended June 30, 2026 and 2025, cash provided by financing activities consisted of proceeds from the exercise of stock options, driven by exercises from our former executive officers and director.
+
+Material Cash Requirements
+
+Our primary uses of capital have been, and we expect will continue to be, for advancing our clinical and nonclinical development programs. We have based our estimates on assumptions that may prove to be wrong, and we may use our available capital resources sooner than we currently expect. Our net losses and operating cash flows may fluctuate significantly from quarter-to-quarter and year-to-year, depending on the timing of our planned clinical trials, timing of IMVT-1402 manufacturing, potential HanAll milestone payments and our expenditures on other research and development activities.
+
+Because of the numerous risks and uncertainties associated with the development and commercialization of product candidates, we are unable to estimate the amounts of increased capital outlays and operating expenditures necessary to complete the development of product candidates.
+
+Our short-term and long-term material cash requirements as of June 30, 2026 primarily consisted of those related to our clinical trials and clinical development activities, which we expect to fund primarily with our existing cash balance. Our most significant cash requirements are described below:
+
+Commitments
+
+As of June 30, 2026, we have non-cancelable contractual costs accrued as a result of the discontinuation of batoclimab of $42.5 million, which were recognized as research and development expenses in prior fiscal years.
+
+We enter into agreements with vendors in the ordinary course of business that include unconditional purchase obligations for manufacturing and other services. In April 2026, we entered into an agreement that includes provisions for minimum obligations for the contract manufacturing of IMVT-1402 drug substance. As of June 30, 2026, the minimum commitment was approximately $22.8 million, of which $4.2 million and $18.6 million are expected to be paid during the fiscal years ending March 31, 2027 and 2028, respectively. The agreement includes a variable component whereby service prices may be adjusted based on related commitments for raw materials and other costs, and annual inflationary changes in an applicable price index.
+
+24
+
+Table of Contents
+
+HanAll Agreement
+
+Potential future payments due under the HanAll Agreement are contingent upon future events. As of June 30, 2026, the aggregate maximum amount of milestone payments we could be required to make under the HanAll Agreement is $420.0 million (after an aggregate amount of $32.5 million paid for milestone events achieved as of June 30, 2026) upon the achievement of certain regulatory and sales milestone events. We have commenced discussions with HanAll regarding the future disposition of batoclimab, including the potential return to HanAll of certain rights for batoclimab, which could impact the aggregate amount (if any) of potential future payments under the HanAll Agreement. In April 2026, we notified HanAll of our decision to indefinitely delay further development of batoclimab and focus our resources fully on IMVT-1402. For additional considerations regarding associated risks, see Part I, Item 2—Key Agreements of this Quarterly Report on Form 10-Q.
+
+Outlook
+
+We currently expect that our existing cash and cash equivalents as of June 30, 2026 of $797.8 million will be sufficient to fund our operating expenses and capital expenditure requirements, based on our current operating plan, to the potential commercial launch of IMVT-1402 in GD.
+
+Following positive results from Period 1 in our D2T RA trial and continued strong execution across our pipeline, we are evaluating potential expansions of our development plans, including additional investment in late-stage development. Any such expansion is not reflected in our current operating plan, and we expect to provide updated cash runway guidance if and as we finalize these plans, following top-line results from Period 2 of our D2T RA and CLE trials later this year.
+
+Except as discussed above, we did not have any other ongoing material contractual obligations for which cash flows were fixed and determinable. We expect to enter into other commitments as the business further develops. In the normal course of business, we enter into agreements with CROs for clinical trials and with vendors for nonclinical studies, manufacturing and other services and products for operating purposes, which agreements are generally cancellable by us at any time, subject to payment of remaining obligations under binding purchase orders and, in certain cases, nominal early-termination fees. These commitments are not deemed significant. There are certain contracts wherein we have a minimum purchase commitment, however, most of it is due and payable within one year.
+
+We anticipate that our short-term and long-term future capital requirements will increase as we:
+
+•fund our clinical development programs;
+
+•launch any potential additional clinical trials of IMVT-1402 in current and additional indications;
+
+•increase manufacturing of IMVT-1402 drug substance and drug product to support clinical trials;
+
+•achieve milestones under our agreements with third parties, including the HanAll Agreement, that will require us to make substantial payments to those parties;
+
+•integrate acquired technologies into a comprehensive regulatory and product development strategy;
+
+•maintain, expand and protect our intellectual property portfolio;
+
+•hire scientific, clinical, quality control and administrative personnel;
+
+•add operational, financial and management information systems and personnel, including personnel to support our drug development efforts;
+
+•commence the number of clinical trials required for approval;
+
+•seek regulatory approvals for any product candidates that successfully complete clinical trials;
+
+•seek to identify, acquire, develop and commercialize additional product candidates;
+
+•ultimately establish a sales, marketing and distribution infrastructure and scale up external manufacturing capabilities to commercialize any drug candidates for which we may obtain regulatory approval; and
+
+•incur additional insurance, legal and other regulatory compliance expenses to operate as a public company.
+
+25
+
+Table of Contents
+
+Our primary use of cash is to fund our clinical trials, clinical development and manufacturing activities. Our current funds will not be sufficient to enable us to complete all necessary development and, if approved, commercially launch IMVT-1402 in all indications we are currently evaluating. We anticipate that we will continue to incur net losses for the foreseeable future.
+
+Critical Accounting Estimates
+
+Our management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities as of the date of the balance sheet, and the reported amounts of expenses during the reporting periods. In accordance with U.S. GAAP, we evaluate our estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+We define our critical accounting estimates as those under U.S. GAAP that require us to make subjective estimates and judgments about matters that are uncertain and are likely to have a material impact on our financial condition and results of operations, as well as the specific manner in which we apply those principles. During the three months ended June 30, 2026, there were no material changes to our critical accounting estimates from those disclosed in the audited consolidated financial statements for the year ended March 31, 2026 included in our Annual Report.
+
+Recent Accounting Pronouncements
+
+For information with respect to recently issued accounting standards and the impact of these standards on our unaudited condensed consolidated financial statements, refer to “Note 2 – Summary of Significant Accounting Policies” in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+
+26
+
+Table of Contents

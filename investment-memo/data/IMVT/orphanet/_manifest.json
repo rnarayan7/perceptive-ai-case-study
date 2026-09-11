@@ -1,0 +1,1090 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "started_at": "2026-09-08T10:07:10.665032+00:00",
+  "finished_at": "2026-09-08T10:07:14.341190+00:00",
+  "documents": [
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-united-states-6892a5af",
+      "title": "Myasthenia gravis - Annual incidence (United States) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506685+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.9",
+        "geographic_area": "United States",
+        "validation_status": "Validated",
+        "source": "8909435[PMID]",
+        "source_pmids": [
+          "8909435"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "6892a5af2ae5e8e058723742f00bb4c1d1c5c8a9db4356aff1fbe0f7e2b71edb"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-europe-a3a778d0",
+      "title": "Myasthenia gravis - Annual incidence (Europe) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506766+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.7",
+        "geographic_area": "Europe",
+        "validation_status": "Validated",
+        "source": "20130418[PMID]_[EXPERT]_ ORPHANET",
+        "source_pmids": [
+          "20130418"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "a3a778d0121dd443929d17c3bc89961c4278cc4e93c9ff8a1fbe18e763eefcaf"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-europe-2c870236",
+      "title": "Myasthenia gravis - Point prevalence (Europe) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506803+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "20.0",
+        "geographic_area": "Europe",
+        "validation_status": "Validated",
+        "source": "17986328[PMID]_[EXPERT]_European Medicines Agency 2018[OTHER]",
+        "source_pmids": [
+          "17986328"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "2c870236efcf7ef20e8739024e8581919174fb3f4ac0d33da59de035f0803ce3"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-worldwide-f8b0fb94",
+      "title": "Myasthenia gravis - Point prevalence (Worldwide) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506833+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "7.77",
+        "geographic_area": "Worldwide",
+        "validation_status": "Validated",
+        "source": "20565885[PMID]",
+        "source_pmids": [
+          "20565885"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "f8b0fb949f47de4450a04654c5d07291a9af3720781b89c72c90cd9747048d57"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-canada-c6f37c6e",
+      "title": "Myasthenia gravis - Point prevalence (Canada) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506860+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "20.0",
+        "geographic_area": "Canada",
+        "validation_status": "Validated",
+        "source": "14664466[PMID]",
+        "source_pmids": [
+          "14664466"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "c6f37c6eeca46a712db788d4be26b805c9e633e8150bc1170b37bea9f00a7d2e"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-spain-6494cb09",
+      "title": "Myasthenia gravis - Annual incidence (Spain) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506905+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "2.1",
+        "geographic_area": "Spain",
+        "validation_status": "Validated",
+        "source": "12654975[PMID]",
+        "source_pmids": [
+          "12654975"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "6494cb09566552147a02aa268f2d486c76b56d0bf7ebdba9c7ed2cee1baafbe6"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-lifetime-prevalence-united-kingdom-06d7a4a2",
+      "title": "Myasthenia gravis - Lifetime Prevalence (United Kingdom) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506936+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Lifetime Prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "40.0",
+        "geographic_area": "United Kingdom",
+        "validation_status": "Validated",
+        "source": "10733998[PMID]",
+        "source_pmids": [
+          "10733998"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "06d7a4a24a65954e8371fb5b2ba93a1b66b3bccc95dd2e70e8fa3498e13fff02"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-united-kingdom-aed4389b",
+      "title": "Myasthenia gravis - Annual incidence (United Kingdom) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506965+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.11",
+        "geographic_area": "United Kingdom",
+        "validation_status": "Validated",
+        "source": "9771771[PMID]",
+        "source_pmids": [
+          "9771771"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "aed4389bbde697a669f4a0a788e58be45f0268d54eae4aa23351425b1d0502a8"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-united-kingdom-163418ff",
+      "title": "Myasthenia gravis - Point prevalence (United Kingdom) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.506990+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "15.0",
+        "geographic_area": "United Kingdom",
+        "validation_status": "Validated",
+        "source": "9771771[PMID]",
+        "source_pmids": [
+          "9771771"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "163418ffd456e67ce4c3ae06f0cd60c5a839df561ab2c6145523a75302af2957"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-serbia-c2bcb9cd",
+      "title": "Myasthenia gravis - Annual incidence (Serbia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507015+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.33",
+        "geographic_area": "Serbia",
+        "validation_status": "Validated",
+        "source": "23363926[PMID]",
+        "source_pmids": [
+          "23363926"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "c2bcb9cd3f1a0e6899508743ca9c317d85566100c38f68a1cef6f43c215b15c1"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-united-states-30a91fa4",
+      "title": "Myasthenia gravis - Point prevalence (United States) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507040+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "17.0",
+        "geographic_area": "United States",
+        "validation_status": "Validated",
+        "source": "8909435[PMID]",
+        "source_pmids": [
+          "8909435"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "30a91fa4dac6666e953646a9db897683d15f7095fadb3a860d7c5939374e44b0"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-serbia-9ae3a127",
+      "title": "Myasthenia gravis - Point prevalence (Serbia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507066+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "31.8",
+        "geographic_area": "Serbia",
+        "validation_status": "Validated",
+        "source": "23363926[PMID]",
+        "source_pmids": [
+          "23363926"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "9ae3a127c37e85704c9baa470339168f36c377a15574caaae68c9bcaea767a57"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-italy-380693d9",
+      "title": "Myasthenia gravis - Annual incidence (Italy) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507092+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.94",
+        "geographic_area": "Italy",
+        "validation_status": "Validated",
+        "source": "21757957[PMID]_20623298[PMID]_ ORPHANET",
+        "source_pmids": [
+          "21757957",
+          "20623298"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "380693d9e2b78a158c8bdfc934ed35bca43c29a4d729f6cdfbe13463d35e5d75"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-austria-e129e099",
+      "title": "Myasthenia gravis - Point prevalence (Austria) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507119+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "15.7",
+        "geographic_area": "Austria",
+        "validation_status": "Validated",
+        "source": "23129486[PMID]",
+        "source_pmids": [
+          "23129486"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "e129e099f6e7cd240bb47ecec9aa973f9bb7a167ad58923091cb69fb9f7c67a3"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-australia-31b24bf9",
+      "title": "Myasthenia gravis - Annual incidence (Australia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507143+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "2.5",
+        "geographic_area": "Australia",
+        "validation_status": "Validated",
+        "source": "22469211[PMID]",
+        "source_pmids": [
+          "22469211"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "31b24bf98546479c7e7b3a9d0246253d22ff149e89e46f7eaaba8a3f898d1cfe"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-italy-59c20115",
+      "title": "Myasthenia gravis - Point prevalence (Italy) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507169+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "18.5",
+        "geographic_area": "Italy",
+        "validation_status": "Validated",
+        "source": "21757957[PMID]_ORPHANET",
+        "source_pmids": [
+          "21757957"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "59c2011572b8c82a7b498e48229f85c5cf1dda08d9a4ab589dd7d7cef3c8d3c8"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-taiwan-province-of-china-99f0302e",
+      "title": "Myasthenia gravis - Annual incidence (Taiwan, Province of China) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507197+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "2.1",
+        "geographic_area": "Taiwan, Province of China",
+        "validation_status": "Validated",
+        "source": "20523074[PMID]",
+        "source_pmids": [
+          "20523074"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "99f0302e9415d89562c976f39a3b553b60a99a92093ede95fff8e1cfd8419e2a"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-australia-93b2167c",
+      "title": "Myasthenia gravis - Point prevalence (Australia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507223+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "11.7",
+        "geographic_area": "Australia",
+        "validation_status": "Validated",
+        "source": "22469211[PMID]",
+        "source_pmids": [
+          "22469211"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "93b2167c0219f00bf5f91b6921dbe7df584079a9ad58e274743dc79fc489f7b6"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-greece-977a836e",
+      "title": "Myasthenia gravis - Annual incidence (Greece) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507247+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.74",
+        "geographic_area": "Greece",
+        "validation_status": "Validated",
+        "source": "11511710[PMID]",
+        "source_pmids": [
+          "11511710"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "977a836e1e3c37016a8ecb8aec7b86ce18a85bba918728f06d9817623b0def40"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-taiwan-province-of-china-e491279e",
+      "title": "Myasthenia gravis - Point prevalence (Taiwan, Province of China) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507273+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "14.0",
+        "geographic_area": "Taiwan, Province of China",
+        "validation_status": "Validated",
+        "source": "20523074[PMID]",
+        "source_pmids": [
+          "20523074"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "e491279e73fc5e07ae821223d85dad31fd40b96c1c2ccda67a227a2e5d53e9ba"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-croatia-a0bc04d6",
+      "title": "Myasthenia gravis - Annual incidence (Croatia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507299+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.65",
+        "geographic_area": "Croatia",
+        "validation_status": "Validated",
+        "source": "9705586[PMID]",
+        "source_pmids": [
+          "9705586"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "a0bc04d689e84e848232cdecb08051039c42d9fe7383059c31aba275d1f36c86"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-estonia-090449e6",
+      "title": "Myasthenia gravis - Point prevalence (Estonia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507324+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "7.8",
+        "geographic_area": "Estonia",
+        "validation_status": "Validated",
+        "source": "14638881[PMID]",
+        "source_pmids": [
+          "14638881"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "090449e6b41f2477b9cc3dd4b9637894bf4a99b87dff4338632b72cafe487762"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-greece-85de9b8c",
+      "title": "Myasthenia gravis - Point prevalence (Greece) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507350+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "7.1",
+        "geographic_area": "Greece",
+        "validation_status": "Validated",
+        "source": "11511710[PMID]",
+        "source_pmids": [
+          "11511710"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "85de9b8cb47b0f24e5d0bfa3fd33059bc3ec54ae815b37ba9dca1767bdd3a1e9"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-croatia-0e3e1971",
+      "title": "Myasthenia gravis - Point prevalence (Croatia) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507375+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "9.9",
+        "geographic_area": "Croatia",
+        "validation_status": "Validated",
+        "source": "9705586[PMID]",
+        "source_pmids": [
+          "9705586"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "0e3e1971a89a9ae0cd3f03c51f586832069d561d5464bd60793141ea27962f0a"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-point-prevalence-egypt-b6225f97",
+      "title": "Myasthenia gravis - Point prevalence (Egypt) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507400+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "3.2",
+        "geographic_area": "Egypt",
+        "validation_status": "Validated",
+        "source": "20948236[PMID]",
+        "source_pmids": [
+          "20948236"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "b6225f97efddc152b8de71b13166664e7949974dd6684ea99ba9e2dc8577e232"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha589-annual-incidence-worldwide-1c2a730e",
+      "title": "Myasthenia gravis - Annual incidence (Worldwide) [ORPHA:589]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:13.507426+00:00",
+      "metadata": {
+        "orphacode": 589,
+        "preferred_term": "Myasthenia gravis",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.53",
+        "geographic_area": "Worldwide",
+        "validation_status": "Validated",
+        "source": "20565885[PMID]",
+        "source_pmids": [
+          "20565885"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "1c2a730e15de7f81787d92f7f4de20e2ad7a6a4374353a9ecaaa9d9dbc18abd4"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-europe-8169d84f",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Europe) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323200+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "3.7",
+        "geographic_area": "Europe",
+        "validation_status": "Not yet validated",
+        "source": "ORPHANET",
+        "source_pmids": [],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "8169d84fd0976f65fb19f674d2c2326bb653a57670b43db87a5287cecfc68105"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-annual-incidence-italy-6ab1a4db",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Annual incidence (Italy) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323272+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.36",
+        "geographic_area": "Italy",
+        "validation_status": "Validated",
+        "source": "17494979[PMID]",
+        "source_pmids": [
+          "17494979"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "6ab1a4db1b51443e07933c44a6a34845531a7387b9d3f38b6a3a72252c6faee8"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-united-kingdom-884edb57",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (United Kingdom) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323306+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "2.6",
+        "geographic_area": "United Kingdom",
+        "validation_status": "Not yet validated",
+        "source": "23679015[PMID]_10209187[PMID]_19260065[PMID]",
+        "source_pmids": [
+          "23679015",
+          "10209187",
+          "19260065"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "884edb5790291e6e041eb2a8661fcb8e33801475b3f7cd1408120cba39dece34"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-italy-2683bdcd",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Italy) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323332+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "3.86",
+        "geographic_area": "Italy",
+        "validation_status": "Validated",
+        "source": "17494979[PMID]",
+        "source_pmids": [
+          "17494979"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "2683bdcd9529395e4d05b135eace722e670253f342f377dd29231eb80f7f9aeb"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-norway-ce07a08e",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Norway) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323357+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "7.7",
+        "geographic_area": "Norway",
+        "validation_status": "Validated",
+        "source": "11284994[PMID]",
+        "source_pmids": [
+          "11284994"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "ce07a08e93e58f65c941e4bf7f3ec17809dfe20cde81c6902f0f5536b06cade3"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-egypt-ae310222",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Egypt) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323382+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-5 / 10 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "12.0",
+        "geographic_area": "Egypt",
+        "validation_status": "Validated",
+        "source": "23146298[PMID]",
+        "source_pmids": [
+          "23146298"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "ae3102228727421a863c1823c1661487cb8a8d528c8d20de2a4731a9f51dcd31"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-annual-incidence-japan-d0e206a8",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Annual incidence (Japan) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323407+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.48",
+        "geographic_area": "Japan",
+        "validation_status": "Validated",
+        "source": "18223015[PMID]",
+        "source_pmids": [
+          "18223015"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "d0e206a860cb981db71d64d38ecc36ad4fd3dcf6fdb6e34edbe4c009847175eb"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-japan-3a231dd0",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Japan) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323433+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.61",
+        "geographic_area": "Japan",
+        "validation_status": "Validated",
+        "source": "18223015[PMID]",
+        "source_pmids": [
+          "18223015"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "3a231dd0d04530459e3f857906fc1ad83fde4806278e01eff07abb203e07254a"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-annual-incidence-australia-b913f20c",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Annual incidence (Australia) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323458+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Annual incidence",
+        "prevalence_class": "1-9 / 1 000 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "0.15",
+        "geographic_area": "Australia",
+        "validation_status": "Validated",
+        "source": "10589544[PMID]",
+        "source_pmids": [
+          "10589544"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "b913f20cbf5b7a87238af21683cd6768ea00e43a8536324e6fba7ea002fc37c2"
+    },
+    {
+      "company": "IMVT",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha2932-point-prevalence-australia-1a26ea60",
+      "title": "Chronic inflammatory demyelinating polyneuropathy - Point prevalence (Australia) [ORPHA:2932]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:07:14.323483+00:00",
+      "metadata": {
+        "orphacode": 2932,
+        "preferred_term": "Chronic inflammatory demyelinating polyneuropathy",
+        "disorder_group": "Disorder",
+        "typology": "Disease",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.9",
+        "geographic_area": "Australia",
+        "validation_status": "Validated",
+        "source": "10589544[PMID]",
+        "source_pmids": [
+          "10589544"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2932",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2932",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "1a26ea6002699fa5497665bb81af5112b60ce5ef47c0b00d59d1f0a4439f4d7b"
+    }
+  ],
+  "errors": []
+}

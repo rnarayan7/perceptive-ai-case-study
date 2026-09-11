@@ -1,0 +1,120 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+                Figure 10. Study KD025-213: Kaplan Meier Plot of Duration of Response per FDA Adjudication
+
+
+
+
+                                                      Source: Reviewer’s analysis.
+
+               Alternative Measure of Durability
+
+               For responses that began through Cycle 7 Day 1, Table 44 shows durability of response by dose
+               group: time from response to new systemic therapy or death, whichever occurs first. Median
+               durability of response is non-estimable in the 200 mg QD group. Durability of response was
+               longer than six months in 79% (95% CI: 64%, 88%) and longer than 12 months in 62% (95% CI:
+               46%, 74%) of patients in the 200 mg QD group. Figure 11 shows the Kaplan-Meier plot for the
+               durability of response Kaplan-Meier plot.
+
+               Reviewer’s Comment: Since median durability of response was not reached, percentage of patients
+               without an event is reported for 6- and 12-month timepoints, as these milestones provide context
+               when the median has not been reached. The description should not be misinterpreted as a measure of
+               clinical benefit.
+
+
+
+
+                                                                     175
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 42. Study KD025-213: ORR by Cycle 7 Day 1 per FDA Adjudication by Dose Group
+                                                                Belumosudil
+                    Response                           200 mg QD                               200 mg BID
+                                                           N=65                                    N=66
+                    ORR1                            49/65, 75% (63,85)                      46/66, 70% (57,80)
+                                     CR               4/65, 6% (2,15)                          1/66, 2% (0,8)
+                                     PR             45/65, 69% (57,80)                      45/66, 68% (56,79)
+               1
+                Responders/N, % (95% Confidence Interval, estimated using the Clopper-Pearson method)
+               Source: Reviewer’s analysis.
+
+               Efficacy Results – Secondary and Other Relevant Endpoints
+
+               For responses that began through Cycle 7 Day 1, Table 43 shows duration of response: time
+               from response to any organ progression from the last assessment, new systemic therapy, or
+               death, whichever occurs first. The median time to first response in the responders was 1.8
+               months (95% CI: 1.0, 1.9). Median duration of response is 1.9 (95% CI: 1.2, 2.9) months in 200
+               mg QD group.
+
+                            Table 43. Study KD025-213: Duration of Response per FDA Adjudication
+                                                                       Belumosudil
+                                                               200 mg QD      200 mg BID
+                                                                  N=49           N=46
+                                  Events, n (%)                 41 (84%)       35 (76%)
+                                  Median, months (95% CI)1    1.9 (1.2, 2.9) 1.8 (1.0, 4.6)
+               1
+                Median as estimated per Kaplan-Meier methodology, confidence interval estimated using the
+               Brookmeyer and Crowley method.
+               Source: Reviewer’s analysis.
+
+               Figure 10 shows the Kaplan-Meier plot for duration of response for responses that began
+               through Cycle 7 Day 1.
+
+
+
+
+                                                                     174
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+                              Table 44. Study KD025-213: Durability of Response per FDA Adjudication
+                                                                                Belumosudil
+                                                                      200 mg QD            200 mg BID
+                                                                         N=49                 N=46
+                        Events, n (%)                                  19 (39%)             17 (37%)
+                        Median, months (95% CI) 1
+                                                                     NE (10.5, NE)        NE (12.0, NE)
+               1
+                Median as estimated per Kaplan-Meier methodology, confidence interval estimated using the
+               Brookmeyer and Crowley method.
+               Source: Reviewer’s analysis.
+                          Figure 11. Study KD025-213: Kaplan Meier Plot of Durability of Response per FDA
+                                                           Adjudication
+
+
+
+
+                                                      Source: Reviewer’s analysis.
+               Subpopulations
+
+               Table 45 shows ORR by subgroup. Study KD025-213 was not designed to compare subgroups
+               and does not contain sufficient information on patients in each treatment group to determine if
+               subgroup outcomes differ.
+                                                             176
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+

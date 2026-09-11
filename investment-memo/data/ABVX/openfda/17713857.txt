@@ -1,0 +1,4 @@
+FAERS adverse-event report 17713857 (comparator: ozanimod)
+Serious: yes
+Reactions: Crohn^s disease
+Reported drugs: OZANIMOD.

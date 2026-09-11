@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12870864_fig2",
+  "figure_type": "spider",
+  "title": "Tislelizumab plus bevacizumab and XELOX as first-line treatment of MSS/pMMR RAS-mutant metastatic colorectal cancer (TACTIC CRC-02): a phase II study.",
+  "caption": "Treatment response and survival analysis.  (A) Waterfall plot for target lesion tumor size. The waterfall plot displays the depth of response (DpR) in target lesion size for each individual patient. Patients are color coded according to their best overall response: CR, PR, SD, PD. (B) Spider plot showing percentage change from baseline over evaluation cycles. Lines are color coded by response category (CR, PR, SD, PD) per RECIST v1.1 criteria. (C) Treatment outcomes and clinical course. This swimmer plot illustrates the treatment duration and clinical outcomes for each patient throughout the study period. Each horizontal bar represents an individual patient’s treatment course, with the length indicating the duration of treatment. Color coding indicates the treatment phase. Symbols denote specific clinical events. (D) Progression-free survival analysis. The Kaplan–Meier curve demonstrates PFS for the entire study population. The curve shows a median progression-free survival with a 12-month progression-free survival rate. The number of patients at risk at various time points is displayed below the survival curve. CR, complete response; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease.",
+  "context": "Treatment response and survival analysis.  (A) Waterfall plot for target lesion tumor size. The waterfall plot displays the depth of response (DpR) in target lesion size for each individual patient. Patients are color coded according to their best overall response: CR, PR, SD, PD. (B) Spider plot showing percentage change from baseline over evaluation cycles. Lines are color coded by response category (CR, PR, SD, PD) per RECIST v1.1 criteria. (C) Treatment outcomes and clinical course. This swimmer plot illustrates the treatment duration and clinical outcomes for each patient throughout the study period. Each horizontal bar represents an individual patient’s treatment course, with the length indicating the duration of treatment. Color coding indicates the treatment phase. Symbols denote specific clinical events. (D) Progression-free survival analysis. The Kaplan–Meier curve demonstrates PFS for the entire study population. The curve shows a median progression-free survival with a 12-month progression-free survival rate. The number of patients at risk at various time points is displayed below the survival curve. CR, complete response; PD, progressive disease; PFS, progression-free survival; PR, partial response; SD, stable disease. This resulted in an ORR of 73.1% (95% CI 61.1% to 85.1%) and a DCR of 98.1% (95% CI 89.5% to 100%) ( Figure 2 ). The median DpR was 41.6% (95% CI 32.1% to 49.3%), with a median time to maximum DpR of 3.3 months (95% CI 2.8-4.2 months) ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12870864/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-01-28",
+  "retrieved_at": "2026-09-07T13:17:02.894893+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "3.3",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "s 41.6% (95% CI 32.1% to 49.3%), with a median time to maximum DpR of 3.3 months (95% CI 2.8-4.2 months) ( Figure 2 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC12870864",
+    "pmid": "41610691",
+    "journal": "ESMO open",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "88a2181c308468faa26fe27fa1c194f59919d7c22c66b330eec04547c314bc09",
+  "image_file": "image.jpg"
+}

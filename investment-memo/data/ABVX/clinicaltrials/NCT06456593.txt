@@ -1,0 +1,29 @@
+Title: Efficacy and Safety of Obefazimod in Subjects With Moderately to Severely Active Crohn's Disease
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Moderately to Severely Active Crohn Disease
+Interventions: Obefazimod (DRUG), Placebo (OTHER)
+Enrollment: 212
+
+Summary: This study has 3 treatment phases, a 12-Week Induction Phase, a 40-Week Maintenance Phase, and a 48-Week Extension Phase.
+
+The objective is to evaluate the efficacy and safety of obefazimod compared to placebo as induction and maintenance therapy in subjects with moderately to severely active CD after inadequate response (no response, loss of response, or intolerance) to conventional therapies and/or advanced therapies.
+
+The primary objective for the 48-Week Extension Phase is to evaluate the safety and tolerability of obefazimod compared with placebo in subjects who are enrolled in the Extension Phase.
+
+Primary outcomes:
+- Induction and maintenance Phase Efficacy- Crohn's Disease Activity Index (CDAI) (time frame: Week 12 and week 52)
+- Maintenance Phase Efficacy - Simple Endoscopic Score for Crohn's disease (SES-CD) (time frame: Week 52)
+- Maintenance Phase Efficacy - Endoscopic response (time frame: Week 52)
+- Maintenance Phase Efficacy - SES-CD ulcer subscore > 1 (time frame: Week 52)
+- Maintenance Phase Efficacy - CDAI clinical remission (time frame: Week 52)
+- Maintenance Phase Efficacy - PRO-2 clinical remission (time frame: Week 52)
+- Maintenance Phase Efficacy - CDAI clinical response (time frame: Week 52)
+- Maintenance Phase Efficacy - PRO-2 clinical response (time frame: Week 52)
+- Maintenance Phase Efficacy - CDAI clinical response and endoscopic response (time frame: Week 52)
+- Maintenance Phase Efficacy - endoscopic remission (time frame: Week 52)
+- Extension Phase Safety- Adverse events (time frame: Weeks 64, 76, 88,100 and EOS)
+- Extension Phase Safety - Hematology and coagulation (time frame: Weeks 64, 76, 88,100 and EOS)
+- Extension Phase Safety - Biochemistry (time frame: Weeks 64, 76, 88,100 and EOS)

@@ -1,0 +1,1 @@
+Kaplan-Meier survival curves of 234 patients. ( A ) The progression-free survival curve among 234 patients. ( B ) The overall survival curve among 234 patients. The 1-year, 2-year and 3-year PFS rates were 72.7%, 69.4% and 69.4%, respectively, while the 1-year, 2-year and 3-year OS rates were 87.0%, 83.7% and 83.7%, respectively ( Figure 1 ).

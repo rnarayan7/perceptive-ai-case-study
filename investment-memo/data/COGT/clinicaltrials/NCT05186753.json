@@ -1,0 +1,62 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05186753",
+  "title": "(Summit) A Study to Evaluate the Efficacy and Safety of CGT9486 Versus Placebo in Patients With Indolent or Smoldering Systemic Mastocytosis",
+  "url": "https://clinicaltrials.gov/study/NCT05186753",
+  "published": "2022-01-11",
+  "retrieved_at": "2026-09-07T12:53:51.524267+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "SSM",
+      "Mastocytosis, Indolent",
+      "Mastocytosis, Systemic",
+      "Mastocytosis",
+      "ISM",
+      "BMM",
+      "Smoldering Systemic Mastocytosis",
+      "Bone Marrow Mastocytosis"
+    ],
+    "interventions": [
+      {
+        "name": "Bezuclastinib Tablets (Formulation A)",
+        "type": "DRUG"
+      },
+      {
+        "name": "Bezuclastinib Tablets (Formulation B)",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo Tablets",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 237,
+    "start_date": "2022-06-27",
+    "primary_completion_date": "2025-05-22",
+    "completion_date": "2030-04",
+    "first_posted_date": "2022-01-11",
+    "primary_outcomes": [
+      {
+        "measure": "Part 1: Determine recommended dose of bezuclastinib (CGT9486) in subjects with NonAdvSM",
+        "timeFrame": "3 months"
+      },
+      {
+        "measure": "Part 2: Efficacy of bezuclastinib at the selected dose versus placebo",
+        "timeFrame": "24 Weeks"
+      },
+      {
+        "measure": "Part 3: Safety and tolerability of bezuclastinib as assessed by number of adverse events",
+        "timeFrame": "Up to 5 years"
+      }
+    ]
+  },
+  "hash": "a937ad8c31f5596779a181d706ef1ae8a91fae2d7be1fb1bdc000c09d6e0d7b2"
+}

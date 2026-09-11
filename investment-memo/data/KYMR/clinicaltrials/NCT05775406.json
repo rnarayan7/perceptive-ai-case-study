@@ -1,0 +1,46 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05775406",
+  "title": "Safety and Clinical Activity of KT-253 in Adult Patients with High Grade Myeloid Malignancies, Acute Lymphocytic Leukemia, Lymphoma, Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT05775406",
+  "published": "2023-03-20",
+  "retrieved_at": "2026-09-07T06:57:16.413096+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Myeloid Malignancies",
+      "Acute Lymphocytic Leukemia",
+      "Lymphomas",
+      "Advanced Solid Tumors"
+    ],
+    "interventions": [
+      {
+        "name": "KT-253",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 52,
+    "start_date": "2023-05-15",
+    "primary_completion_date": "2024-12-18",
+    "completion_date": "2024-12-18",
+    "first_posted_date": "2023-03-20",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence and severity of adverse events",
+        "timeFrame": "From the time of signing ICF through 30 days after last dose of study drug or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "Maximum Tolerated Dose (MTD) and recommended Phase 2 dose (RP2D) in Patients",
+        "timeFrame": "From the time of the first dose of study drug through 30 days after the last dose of study drug or prior to start of a new anticancer therapy"
+      }
+    ]
+  },
+  "hash": "8ef88354721459adf0356a7699536d83e1f93bec3ccb87afd219bcd54797f251"
+}

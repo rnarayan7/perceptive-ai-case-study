@@ -1,0 +1,45 @@
+{
+  "company": "ABVX",
+  "source": "preprints",
+  "started_at": "2026-09-08T10:06:00.571901+00:00",
+  "finished_at": "2026-09-08T10:06:03.018680+00:00",
+  "documents": [
+    {
+      "company": "ABVX",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR531911",
+      "title": "Screening the Medicines for Malaria Pandemic Response Box chemical library on  <i>Caenorhabditis elegans</i>  identifies re-profiled candidate anthelmintic drug leads",
+      "url": "https://europepmc.org/article/PPR/PPR531911",
+      "published": "2022-08-13",
+      "retrieved_at": "2026-09-08T10:06:03.015956+00:00",
+      "metadata": {
+        "doi": "10.1101/2022.08.10.503491",
+        "epmc_id": "PPR531911",
+        "epmc_source": "PPR",
+        "authors": "Nick M, Partridge FA, Forman R, Bataille CJ, Else KJ, Russell AJ, Sattelle DB.",
+        "cited_by": 0
+      },
+      "hash": "10ac183eb24fd0c88a862c85866f21483b6b4b9458ccdae949e623e8ea74db18"
+    },
+    {
+      "company": "ABVX",
+      "source": "preprints",
+      "doc_type": "preprint",
+      "doc_id": "PPR105580",
+      "title": "Targeting the Long Non-Coding RNA LINC00599-205 splicing by novel candidate drug ABX464 to produce the anti-inflammatory microRNA miR-124",
+      "url": "https://europepmc.org/article/PPR/PPR105580",
+      "published": "2019-12-12",
+      "retrieved_at": "2026-09-08T10:06:03.016098+00:00",
+      "metadata": {
+        "doi": "10.1101/2019.12.11.871335",
+        "epmc_id": "PPR105580",
+        "epmc_source": "PPR",
+        "authors": "Manchon L, Vautrin A, Tazi J, Garcel A, Campos N.",
+        "cited_by": 0
+      },
+      "hash": "afbbc41c52d9f976199dc6bc120fc428333edeb9fc31e4decc51dab3cdedf1f6"
+    }
+  ],
+  "errors": []
+}

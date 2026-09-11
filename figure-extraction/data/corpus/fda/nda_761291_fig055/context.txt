@@ -1,0 +1,84 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               2-4 days between each dose with longer duration allowed if needed for resolution of toxicities).
+               FDA evaluated observed dosing intervals and time to onset of CRS for patients treated with the
+               recommended SC step-up dosing schedule to support labeling of the recommended schedule of
+               administration. Four patients scheduled to receive the recommended SC step-up dosing regimen
+               had repeat step-up doses before the first treatment dose and were excluded from this analysis.
+               Among the 161 patients treated with the recommended SC step-up dosing regimen as planned,
+               the median time between step-up dose 1 and step-up dose 2 was 2.9 days and the median time
+               between step-up dose 2 and the first treatment dose was 3.1 days. FDA Figure 3 shows the
+               distribution of dosing intervals (days to next dose) after step-up dose 1 and step-up dose 2 split
+               by whether the patient had CRS after the given dose. In general, patients who had CRS after a
+               dose tended to have a longer duration to the next dose compared with patients who did not
+               have CRS. Among patients with CRS after step-up dose 1, 82% received step-up dose 2 within
+               4 days and 100% received step-up dose 2 within 7 days. Among patients with CRS after step-up
+               dose 2, 82% received the first treatment dose within 4 days and 98% received the first treatment
+               dose within 7 days.
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              63
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               will also include recommendations for restarting therapy if dose delays of 8 days or longer occur.
+
+               Overall, the proposed SC step-up dosing schedule with adequate CRS prevention and monitoring
+               strategies (see Section 8.1.2 – Study Results) results in an acceptable safety profile with regards
+               to CRS incidence and severity.
+
+               Continued Treatment Dose: After completion of the step-up dosing schedule, treatment with
+               teclistamab continues indefinitely based on patient response. During this continued treatment
+               period, concerns include attainment and maintenance of response and chronic safety and
+               tolerability.
+
+               As described above, a positive relationship between teclistamab exposure and ORR was observed
+               in patients treated with various SC dosage regimens in Phase 1 of MajesTEC-1. This E-R analysis
+               supported selection of 1.5 mg/kg QW as the recommended SC treatment dosage for further
+               evaluation in Phase 2.
+
+               Small numbers of patients (5 to 12 per cohort) were treated at weekly SC treatment dose levels
+               other than the recommended SC treatment dose (1.5 mg/kg). During Phase 1, weekly SC
+               treatment dose levels ranged from 0.08 mg/kg to 6 mg/kg. The ORR and time to first response
+               are summarized in FDA Table 5 (per Investigator assessment). Responses were observed at all
+               weekly SC treatment dose levels and the median time to first response was similar regardless of
+               weekly SC treatment dose level.
+
+               FDA Table 5: Summary of ORR and Time to First Response by SC Treatment Dose Level
+
+                 Weekly SC Treatment Dose                       ORR; % (n/N)                   Time to First Response,
+                                                                                              months; median (min, max)
+                 0.08 mg/kg                                       50% (3/6)                         1.6 (1.0, 1.7)
+                 0.24 mg/kg                                       43% (3/7)                         1.9 (1.2, 5.1)
+                 0.72 mg/kg                                      60% (9/15)                         1.5 (0.9, 6.0)
+                 1.5 mg/kg                                     62% (102/165)                        1.2 (0.1, 5.4)
+                 3 mg/kg                                         100% (5/5)                         1.1 (1.0, 1.6)
+                 6 mg/kg                                         67% (8/12)                         1.1 (0.3, 1.6)
+               Source: Reviewer’s analysis
+
+               Due to the dose escalation design of MajesTEC-1, patients treated at lower dose levels had
+               longer potential duration of follow-up. In addition, intra-patient dose modifications, including
+               increasing the weekly SC treatment dose and reducing the frequency of treatment dose
+               administration (i.e., to every other week [Q2W] or every 4 weeks [Q4W]) was allowed. Both
+               issues confound assessment of DOR by weekly SC treatment dose level. However, multiple
+               patients treated with SC treatment dosages substantially below the recommended SC treatment
+               dosage (1.5 mg/kg QW) maintained responses for long durations. For example, 3 patients treated
+               initially in the two lowest treatment dose cohorts (0.08 mg/kg and 0.24 mg/kg) each remained in
+               CR for more than a year while receiving teclistamab 0.24 mg/kg SC Q2W (8% of the
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              65
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

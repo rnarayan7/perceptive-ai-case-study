@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MN_ART01_CRDPREV_2022_2022_ASN",
+  "title": "Arthritis - Minnesota - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.204942+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Minnesota",
+    "location_abbr": "MN",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.5",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Asian, non-Hispanic"
+  },
+  "hash": "4d281609e4988d7c58b2af694a7bf0b468ecde668b8d75edc2307ee8d30fdf0a"
+}

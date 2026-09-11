@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13316349_fig1",
+  "figure_type": "kaplan_meier",
+  "title": "Therapy and biomarker dependent progression-free survival in infant sonic hedgehog medulloblastoma: a multi-national retrospective cohort study.",
+  "caption": "A multi-national infant sonic hedgehog medulloblastoma (iMB SHH ) cohort: Upfront treatments, and outcomes.  (A) Flowchart demonstrating patient samples and data collected in the total cohort, survival cohort, and upfront treatment groups. (B) Kaplan–Meier plot of progression-free survival for iMB SHH  upfront treatment groups: CSI + CTx, Focal + CTx, HD-CTx only, IVT-MTX only and SD-CTx only. At-risk tables (number censored in parentheses) and p-values from log-rank tests are shown. ∗Indicates p-value < 0.05. Red = iMB SHH , RTx = Radiotherapy. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. IVT-MTX = Intraventricular methotrexate.",
+  "context": "A multi-national infant sonic hedgehog medulloblastoma (iMB SHH ) cohort: Upfront treatments, and outcomes.  (A) Flowchart demonstrating patient samples and data collected in the total cohort, survival cohort, and upfront treatment groups. (B) Kaplan–Meier plot of progression-free survival for iMB SHH  upfront treatment groups: CSI + CTx, Focal + CTx, HD-CTx only, IVT-MTX only and SD-CTx only. At-risk tables (number censored in parentheses) and p-values from log-rank tests are shown. ∗Indicates p-value < 0.05. Red = iMB SHH , RTx = Radiotherapy. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. IVT-MTX = Intraventricular methotrexate.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13316349/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T12:54:52.569357+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13316349",
+    "pmid": "42382416",
+    "journal": "EClinicalMedicine",
+    "fig_label": "Fig. 1"
+  },
+  "image_hash": "89e43765731413f6a1d52b08b407629b58ca2c217b964c2ce97bb4c2520821d8",
+  "image_file": "image.jpg"
+}

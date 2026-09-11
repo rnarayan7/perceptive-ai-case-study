@@ -1,0 +1,43 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07677059",
+  "title": "A Long-term Study of KT-621 Administered Orally to Participants With Asthma Previously Enrolled in a KT-621 Asthma Study",
+  "url": "https://clinicaltrials.gov/study/NCT07677059",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-07T06:57:16.410630+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Asthma (Diagnosis)"
+    ],
+    "interventions": [
+      {
+        "name": "KT-621",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 264,
+    "start_date": "2026-07",
+    "primary_completion_date": "2028-12",
+    "completion_date": "2028-12",
+    "first_posted_date": "2026-06-30",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence of treatment-emergent adverse events (TEAEs)",
+        "timeFrame": "From baseline through Week 52"
+      },
+      {
+        "measure": "Incidence of treatment-emergent serious adverse events (SAEs)",
+        "timeFrame": "From baseline through Week 52"
+      }
+    ]
+  },
+  "hash": "eed99089ce0e2b26753cac5ac371f4796219191565680108a8fe61ba49d98ea0"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13442641_f8",
+  "figure_type": "kaplan_meier",
+  "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+  "caption": "External multicenter validation of the FLIPI-SII model in 187 R-CHOP-treated patients with follicular lymphoma.  (A)  Overall survival.  (B)  Progression-free survival.",
+  "context": "External multicenter validation of the FLIPI-SII model in 187 R-CHOP-treated patients with follicular lymphoma.  (A)  Overall survival.  (B)  Progression-free survival. The log-rank test showed significant differences across FLIPI-SII risk groups for both OS and PFS (p=0.00031 for OS, and p=0.03 for PFS) ( Figure 8 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13442641/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:53:32.900741+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13442641",
+    "pmid": "42564252",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 8"
+  },
+  "image_hash": "66fc140b2837e99d572863d0706a338552d31d762a10bc6e1de7ab73def06267",
+  "image_file": "image.jpg"
+}

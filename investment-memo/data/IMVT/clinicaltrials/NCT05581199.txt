@@ -1,0 +1,13 @@
+Title: To Assess Efficacy and Safety of Batoclimab in Adult Participants With Active CIDP
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Chronic Inflammatory Demyelinating Polyneuropathy
+Interventions: Batoclimab 680 milligrams (mg) subcutaneous (SC) weekly (DRUG), Batoclimab 340 mg SC weekly (DRUG), Placebo (DRUG)
+Enrollment: 94
+
+Summary: This is a multi-center, randomized, quadruple-blind, placebo-controlled study to evaluate the efficacy and safety of batoclimab in adult participants with active CIDP. The study includes an up to 4-week Screening Period, an up to 12-week Washout Period, a 12-week Randomized Treatment Period (Period 1), an up to 24-week Randomized Withdrawal Period (Period 2), an up to 52-week Long-term Extension (LTE) Period (optional), and Safety Follow-up 4 weeks after the last dose of study treatment. The total study duration will be up to approximately 109 weeks. Eligible participants will be assigned to one of four cohorts based upon their baseline CIDP treatment (Cohorts A and D - immunoglobulin \[Ig\] or plasma exchange \[PLEX\]; Cohort B - corticosteroids; Cohort C - naive or untreated in previous 3-24 months) and whether they meet diagnosis according to the European Academy of Neurology/Peripheral Nerve Society (EAN/PNS) criteria (Cohorts A, B, and C) or clinical criteria only (Cohort D) at the time of screening.
+
+Primary outcomes:
+- Period 2, Cohort A: Proportion of participants who remain relapse-free at Week 36 (time frame: Week 36)

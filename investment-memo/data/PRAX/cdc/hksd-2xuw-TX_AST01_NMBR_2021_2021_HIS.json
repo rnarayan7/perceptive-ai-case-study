@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-TX_AST01_NMBR_2021_2021_HIS",
+  "title": "Asthma - Texas - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:06:46.565317+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Texas",
+    "location_abbr": "TX",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": "62.0",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "e023a79f371c8d813381c4df89046bb7b281eb9f08b0502cf29a27af688a3a0a"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10004576",
+  "title": "FAERS report 10004576: Intentional overdose, Sopor",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10004576",
+  "published": "2014-07-10",
+  "retrieved_at": "2026-09-08T08:40:41.208396+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Intentional overdose",
+      "Sopor"
+    ],
+    "drugs": [
+      "HALCION",
+      "LAMICTAL",
+      "EFFEXOR",
+      "LITHIUM",
+      "SEROQUEL",
+      "ENTUMIN"
+    ],
+    "occurcountry": "IT"
+  },
+  "hash": "a3651aef37b8b091ae640e9a21363bb2eff631bdcdc53884ef46a1405b3a8c8c"
+}

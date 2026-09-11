@@ -1,0 +1,9 @@
+Drugs@FDA application NDA207997: RYDAPT
+Sponsor: NOVARTIS
+Active ingredient(s): MIDOSTAURIN
+Brand name(s): RYDAPT
+Application type: NDA
+Original approval date: 2017-04-28
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 8

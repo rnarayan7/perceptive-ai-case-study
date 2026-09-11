@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CT_AST02_CRDPREV_2019_2019_OVR",
+  "title": "Asthma - Connecticut - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T10:05:54.163868+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Connecticut",
+    "location_abbr": "CT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "11.1",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "35fce2554b912958de9ff58888edfc24f2113ece9db2d65272e8f7aede39a170"
+}

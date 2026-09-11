@@ -1,0 +1,43 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05507203",
+  "title": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
+  "url": "https://clinicaltrials.gov/study/NCT05507203",
+  "published": "2022-08-18",
+  "retrieved_at": "2026-09-07T12:53:29.794639+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 639,
+    "start_date": "2022-10-10",
+    "primary_completion_date": "2025-06-24",
+    "completion_date": "2025-06-25",
+    "first_posted_date": "2022-08-18",
+    "primary_outcomes": [
+      {
+        "measure": "Proportion of subjects who achieve clinical remission per Modified Mayo Score at week 8",
+        "timeFrame": "8 weeks"
+      }
+    ]
+  },
+  "hash": "a71d6c3e3f1e38b50516f8ef1232372b430be6568e6354175c6194dbf9458416"
+}

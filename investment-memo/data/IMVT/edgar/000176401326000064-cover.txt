@@ -1,0 +1,365 @@
+0001764013falseFY2026100iso4217:USDxbrli:sharesiso4217:USDxbrli:sharesimvt:subsidiaryxbrli:pureimvt:segmentimvt:agreementimvt:floorimvt:vote00017640132025-04-012026-03-3100017640132025-09-3000017640132026-05-1400017640132026-03-3100017640132025-03-310001764013us-gaap:SeriesAPreferredStockMember2025-03-310001764013us-gaap:SeriesAPreferredStockMember2026-03-310001764013imvt:PreferredStockExcludingSeriesAPreferredStockMember2026-03-310001764013imvt:PreferredStockExcludingSeriesAPreferredStockMember2025-03-3100017640132024-04-012025-03-3100017640132023-04-012024-03-310001764013us-gaap:SeriesAPreferredStockMemberus-gaap:PreferredStockMember2023-03-310001764013us-gaap:CommonStockMember2023-03-310001764013us-gaap:AdditionalPaidInCapitalMember2023-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2023-03-310001764013us-gaap:RetainedEarningsMember2023-03-3100017640132023-03-310001764013us-gaap:CommonStockMember2023-04-012024-03-310001764013us-gaap:AdditionalPaidInCapitalMember2023-04-012024-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2023-04-012024-03-310001764013us-gaap:RetainedEarningsMember2023-04-012024-03-310001764013us-gaap:SeriesAPreferredStockMemberus-gaap:PreferredStockMember2024-03-310001764013us-gaap:CommonStockMember2024-03-310001764013us-gaap:AdditionalPaidInCapitalMember2024-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-03-310001764013us-gaap:RetainedEarningsMember2024-03-3100017640132024-03-310001764013us-gaap:CommonStockMember2024-04-012025-03-310001764013us-gaap:AdditionalPaidInCapitalMember2024-04-012025-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-04-012025-03-310001764013us-gaap:RetainedEarningsMember2024-04-012025-03-310001764013us-gaap:SeriesAPreferredStockMemberus-gaap:PreferredStockMember2025-03-310001764013us-gaap:CommonStockMember2025-03-310001764013us-gaap:AdditionalPaidInCapitalMember2025-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-310001764013us-gaap:RetainedEarningsMember2025-03-310001764013us-gaap:CommonStockMember2025-04-012026-03-310001764013us-gaap:AdditionalPaidInCapitalMember2025-04-012026-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012026-03-310001764013us-gaap:RetainedEarningsMember2025-04-012026-03-310001764013us-gaap:SeriesAPreferredStockMemberus-gaap:PreferredStockMember2026-03-310001764013us-gaap:CommonStockMember2026-03-310001764013us-gaap:AdditionalPaidInCapitalMember2026-03-310001764013us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-310001764013us-gaap:RetainedEarningsMember2026-03-3100017640132026-01-012026-01-310001764013us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Member2026-03-310001764013us-gaap:MoneyMarketFundsMemberus-gaap:FairValueInputsLevel1Member2025-03-310001764013us-gaap:ConvertiblePreferredStockMember2025-04-012026-03-310001764013us-gaap:ConvertiblePreferredStockMember2024-04-012025-03-310001764013us-gaap:ConvertiblePreferredStockMember2023-04-012024-03-310001764013us-gaap:EmployeeStockOptionMember2025-04-012026-03-310001764013us-gaap:EmployeeStockOptionMember2024-04-012025-03-310001764013us-gaap:EmployeeStockOptionMember2023-04-012024-03-310001764013us-gaap:RestrictedStockMember2025-04-012026-03-310001764013us-gaap:RestrictedStockMember2024-04-012025-03-310001764013us-gaap:RestrictedStockMember2023-04-012024-03-310001764013imvt:CappedValueAppreciationRightsMember2025-04-012026-03-310001764013imvt:CappedValueAppreciationRightsMember2024-04-012025-03-310001764013imvt:CappedValueAppreciationRightsMember2023-04-012024-03-3100017640132017-12-192017-12-190001764013srt:MaximumMember2017-12-190001764013srt:MaximumMemberimvt:UponAchievementOfDevelopmentRegulatoryAndSalesMilestonesMember2017-12-1900017640132018-12-072018-12-0700017640132023-07-012023-09-300001764013us-gaap:RelatedPartyMember2018-08-012018-08-310001764013us-gaap:RelatedPartyMember2020-06-300001764013us-gaap:RelatedPartyMember2023-04-012024-03-310001764013us-gaap:RelatedPartyMember2024-04-012025-03-310001764013country:US2025-04-012026-03-310001764013country:US2024-04-012025-03-310001764013country:US2023-04-012024-03-310001764013country:CH2025-04-012026-03-310001764013country:CH2024-04-012025-03-310001764013country:CH2023-04-012024-03-310001764013country:BM2025-04-012026-03-310001764013country:BM2024-04-012025-03-310001764013country:BM2023-04-012024-03-310001764013country:GB2025-04-012026-03-310001764013country:GB2024-04-012025-03-310001764013country:GB2023-04-012024-03-310001764013country:CH2025-04-012026-03-310001764013country:US2025-04-012026-03-310001764013country:CH2026-03-310001764013country:CH2025-03-310001764013country:US2026-03-310001764013country:US2025-03-310001764013imvt:FourDirectorsMemberus-gaap:SeriesAPreferredStockMember2026-03-310001764013us-gaap:SeriesAPreferredStockMemberimvt:ThreeDirectorsMembersrt:MinimumMember2026-03-310001764013us-gaap:SeriesAPreferredStockMemberimvt:ThreeDirectorsMembersrt:MaximumMember2026-03-310001764013us-gaap:SeriesAPreferredStockMemberimvt:TwoDirectorsMembersrt:MinimumMember2026-03-310001764013us-gaap:SeriesAPreferredStockMemberimvt:TwoDirectorsMembersrt:MaximumMember2026-03-310001764013srt:MaximumMemberus-gaap:SeriesAPreferredStockMember2026-03-310001764013imvt:UnderwrittenOfferingMember2025-12-012025-12-310001764013imvt:UnderwrittenOfferingMemberus-gaap:RelatedPartyMember2025-12-012025-12-310001764013imvt:UnderwrittenOfferingMember2025-12-310001764013us-gaap:PrivatePlacementMember2025-01-012025-01-3100017640132025-01-310001764013us-gaap:PrivatePlacementMemberus-gaap:RelatedPartyMember2025-01-012025-01-310001764013us-gaap:PrivatePlacementMember2025-01-310001764013imvt:PrivatePlacementSharesExcludingRelatedPartyMember2025-01-012025-01-3100017640132023-11-012023-11-300001764013imvt:UnderwrittenPublicOfferingMember2023-11-012023-11-300001764013imvt:PublicStockOfferingMember2023-10-012023-10-310001764013imvt:PublicStockOfferingMemberus-gaap:RelatedPartyMember2023-10-012023-10-310001764013us-gaap:OverAllotmentOptionMember2023-10-012023-10-3100017640132023-10-310001764013us-gaap:PrivatePlacementMember2023-10-012023-10-310001764013us-gaap:RestrictedStockUnitsRSUMember2026-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2025-03-310001764013imvt:CappedValueAppreciationRightMember2026-03-310001764013imvt:CappedValueAppreciationRightMember2025-03-310001764013imvt:StockOptionNotSettledMember2025-04-012026-03-310001764013imvt:RestrictedStockUnitsNotSettledMember2026-03-310001764013imvt:EquityInducementPlan2023Member2026-03-310001764013imvt:EquityIncentivePlan2019Member2019-12-310001764013imvt:EquityIncentivePlan2019Member2019-12-012019-12-310001764013imvt:EquityIncentivePlan2019Memberus-gaap:EmployeeStockOptionMember2019-12-012019-12-3100017640132024-04-010001764013imvt:EquityIncentivePlan2019Member2026-03-310001764013imvt:EquityIncentivePlan2019Memberus-gaap:RestrictedStockUnitsRSUMember2026-03-310001764013imvt:EquityIncentivePlan2018Member2026-03-310001764013imvt:EquityInducementPlan2023Member2023-02-010001764013imvt:EquityInducementPlan2023Member2025-04-012026-03-310001764013us-gaap:EmployeeStockOptionMember2026-03-310001764013us-gaap:EmployeeStockOptionMember2025-03-310001764013us-gaap:EmployeeStockOptionMember2024-03-310001764013us-gaap:EmployeeStockOptionMember2025-04-012026-03-310001764013us-gaap:EmployeeStockOptionMember2024-04-012025-03-310001764013us-gaap:EmployeeStockOptionMember2023-04-012024-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2025-04-012026-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2024-04-012025-03-310001764013us-gaap:RestrictedStockUnitsRSUMember2023-04-012024-03-310001764013us-gaap:PerformanceSharesMember2025-03-310001764013us-gaap:PerformanceSharesMember2025-04-012026-03-310001764013us-gaap:PerformanceSharesMember2026-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMember2025-04-012026-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMember2024-04-012025-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMember2023-04-012024-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMember2025-04-012026-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMember2024-04-012025-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMember2023-04-012024-03-310001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2025-04-012026-03-310001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2023-04-012024-03-310001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2026-03-310001764013us-gaap:RestrictedStockUnitsRSUMemberus-gaap:RelatedPartyMember2024-04-012025-03-310001764013imvt:EndocrineDiseasesMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:EndocrineDiseasesMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:EndocrineDiseasesMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:NeurologicalDiseasesMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:NeurologicalDiseasesMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:NeurologicalDiseasesMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:RheumatologyDiseasesMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:RheumatologyDiseasesMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:RheumatologyDiseasesMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:DermatologyDiseasesMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:DermatologyDiseasesMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:DermatologyDiseasesMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:OtherClinicalAndNonclinicalMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:OtherClinicalAndNonclinicalMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:OtherClinicalAndNonclinicalMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:OtherUnallocatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:OtherUnallocatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:OtherUnallocatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:ContractualCostsRelatedToBatoclimabProgramDiscontinuationMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:ContractualCostsRelatedToBatoclimabProgramDiscontinuationMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:ContractualCostsRelatedToBatoclimabProgramDiscontinuationMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:PersonnelRelatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:PersonnelRelatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:PersonnelRelatedResearchAndDevelopmentMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:ReportableSegmentMember2025-04-012026-03-310001764013imvt:ReportableSegmentMember2024-04-012025-03-310001764013imvt:ReportableSegmentMember2023-04-012024-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013us-gaap:ResearchAndDevelopmentExpenseMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMemberimvt:ReportableSegmentMember2025-04-012026-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMemberimvt:ReportableSegmentMember2024-04-012025-03-310001764013us-gaap:GeneralAndAdministrativeExpenseMemberimvt:ReportableSegmentMember2023-04-012024-03-310001764013imvt:ContractualCostsRelatedToBatoclimabProgramDiscontinuationMember2025-04-012026-03-310001764013us-gaap:SubsequentEventMember2026-05-2000017640132026-01-012026-03-31
+
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_____________________
+
+FORM 10-K
+
+_____________________
+
+(Mark One)
+
+☒
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended March 31, 2026
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _____ to _____
+
+Commission File Number: 001-38906
+
+_____________________
+
+IMMUNOVANT, INC.
+
+(Exact name of registrant as specified in its charter)
+
+_____________________
+
+Delaware
+
+83-2771572
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1000 Park Forty Plaza
+
+27713
+
+Durham,
+
+NC
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (917) 410-3120
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+IMVT
+
+The Nasdaq Stock Market LLC
+
+Securities registered pursuant to section 12(g) of the Act: None.
+
+_____________________
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☒    No  ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.    Yes  ☐    No  ☒
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒ No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.  ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes  ☐    No  ☒
+
+The aggregate market value of the registrant’s common stock held by non-affiliates of the registrant, based on the closing price of the registrant’s common stock on The Nasdaq Global Select Market as of September 30, 2025, the last business day of the registrant’s most recently completed second fiscal quarter, was approximately $1,252.1 million, based on the closing price of the registrant’s common stock on The Nasdaq Global Select Market of $16.12 per share.
+
+As of May 14, 2026, the registrant had 205,308,917 shares of common stock, $0.0001 par value per share, outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant’s Proxy Statement for its 2026 Annual Meeting of Stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K to the extent stated herein. Such Proxy Statement will be filed with the Securities and Exchange Commission within 120 days of the registrant’s fiscal year ended March 31, 2026.
+
+Table of Contents
+
+IMMUNOVANT, INC.
+
+ANNUAL REPORT ON FORM 10-K
+
+TABLE OF CONTENTS
+
+PART I
+
+ITEM 1. BUSINESS
+
+7
+
+ITEM 1A. RISK FACTORS
+
+49
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+101
+
+ITEM 1C. CYBERSECURITY
+
+101
+
+ITEM 2. PROPERTIES
+
+102
+
+ITEM 3. LEGAL PROCEEDINGS
+
+102
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+102
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+103
+
+ITEM 6. [RESERVED]
+
+104
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+105
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+116
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+117
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+142
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+142
+
+ITEM 9B. OTHER INFORMATION
+
+144
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+144
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+145
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+145
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+145
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+145
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+145
+
+PART IV
+
+ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+
+146
+
+ITEM 16. FORM 10-K SUMMARY
+
+148
+
+SIGNATURES
+
+149
+
+All trademarks, trade names, service marks, and copyrights appearing in this Annual Report on Form 10-K are the property of their respective owners.
+
+Table of Contents
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K for the fiscal year ended March 31, 2026 (this “Annual Report”) contains forward-looking statements that involve substantial risks and uncertainties. In some cases, you can identify forward-looking statements by the words “anticipate,” “believe,” “can,” “continue,” “could,” “design,” “estimate,” “expect,” “forecast,” “goal,” “hope,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will” and “would,” or the negative of these terms, or other comparable terminology intended to identify statements about the future. These statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. Although we believe that we have a reasonable basis for each forward-looking statement contained in this Annual Report, we caution you that these statements are based on a combination of facts and factors currently known by us and our expectations of the future, about which we cannot be certain. Forward-looking statements include statements about:
+
+•the timing, progress, costs and results of our clinical trials for our product candidates, including IMVT-1402 (also referred to as imeroprubart) and the costs related to the discontinuation of batoclimab, (formerly referred to as IMVT-1401);
+
+•the potential return of certain rights for batoclimab to, and the outcome of negotiations with, HanAll Biopharma Co., Ltd. (“HanAll”);
+
+•potential therapeutic benefits and risks in current and future indications and the ability to achieve regulatory approval in licensed jurisdictions;
+
+•future operating or financial results and cash position;
+
+•future acquisitions, business strategy and expected capital spending;
+
+•the timing of meetings with and feedback from regulatory authorities, including feedback on the registrational nature of our clinical studies, as well as any submission of filings for regulatory approval of our product candidates;
+
+•the potential advantages and differentiated profile of our product candidates compared to existing therapies for the applicable indications, including potential benefits of IMVT-1402’s product attributes and potential best-in-class profile;
+
+•our ability to successfully manufacture, or have manufactured, drug product for clinical trials and commercialization;
+
+•our ability to successfully commercialize our product candidates, if approved;
+
+•the rate and degree of market acceptance of our product candidates, if approved;
+
+•the effects of global factors, geopolitical tensions and adverse macroeconomic conditions, on our business, operations and supply chain, including the potential impact on our clinical trial plans and timelines, such as the enrollment, activation and initiation of additional clinical trial sites, and the results of our clinical trials;
+
+•our expectations regarding the size of the patient populations, opportunity and clinical utility of our product candidates, if approved for commercial use;
+
+•our estimates of our expenses, ongoing losses, future revenue, capital requirements and needs for, or ability to, obtain future financing to complete the clinical trials for and commercialize our product candidates;
+
+•our dependence on and plans to leverage third parties for research and development, clinical trials, manufacturing, and other activities;
+
+•our ability to maintain intellectual property protection for our product candidates;
+
+•our ability to identify, acquire or in-license and develop new product candidates;
+
+•our ability to identify, recruit and retain key personnel;
+
+Table of Contents
+
+•developments and projections relating to our competitors or industry; and
+
+•future payments of dividends and the availability of cash for payment of dividends.
+
+You should refer to “Item 1A. Risk Factors” and elsewhere in this document for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report will prove to be accurate. Furthermore, if our forward-looking statements prove to be inaccurate, the inaccuracy may be material.
+
+In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all.
+
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Annual Report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information.
+
+We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. We qualify all of our forward-looking statements by these cautionary statements.
+
+We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. In addition, investors and others should note that we may announce material business and financial information to our investors using our investor relations website (www.immunovant.com), filings we make with the Securities and Exchange Commission, webcasts, press releases, and conference calls. We use these mediums, including our website, to communicate with our stockholders and the public about our company, our product candidates, and other matters. It is possible that the information that we make available may be deemed to be material information. We therefore encourage investors and others interested in our company to review the information that we make available on our website. Information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K, and you should not consider information on our website to be part of this Annual Report on Form 10-K.
+
+Unless the context otherwise indicates, references in this report to the terms “Immunovant,” “the Company,” “we,” “our” and “us” refer to Immunovant, Inc. and its wholly owned subsidiaries.
+
+Industry and Market Data
+
+We obtained the industry and market data in this Annual Report on Form 10-K from our own research as well as from industry and general publications, surveys and studies conducted by third parties. Industry and general publications, studies and surveys generally state that the information contained therein has been obtained from sources believed to be reliable. These third parties may, in the future, alter the manner in which they conduct surveys and studies regarding the markets in which we operate our business. As a result, you should carefully consider the inherent risks and uncertainties associated with the industry and market data contained in this Annual Report on Form 10-K, including those discussed in Part I, Item 1A. “Risk Factors.”
+
+Table of Contents
+
+SUMMARY RISK FACTORS
+
+You should consider carefully the risks described under “Risk Factors” in Part I, Item 1A of this Annual Report on Form 10-K. A summary of the risks that could materially and adversely affect our business, financial condition, operating results and prospects includes the following:
+
+•Our business is dependent on the successful and timely development, regulatory approval and commercialization of our product candidates.
+
+•Clinical trials are very expensive, time-consuming, difficult to design and implement, and involve uncertain outcomes.
+
+•Enrollment and retention of patients in clinical trials is an expensive and time-consuming process and could be made more difficult or rendered impossible by multiple factors outside our control and we may not be able to enroll patients in our trials on our anticipated timelines.
+
+•The results of our preclinical studies and clinical trials may not support our proposed claims for our product candidates, or regulatory approval on a timely basis or at all, and the results of earlier studies and trials may not be predictive of future trial results.
+
+•Interim, “top-line” or preliminary data from our clinical trials that we announce or publish from time to time may change as more patient data become available and are subject to audit and verification procedures that could result in material changes in the final data.
+
+•Our product candidates may be associated with adverse events or cause undesirable side effects or have other properties that could delay or prevent their regulatory approval, cause us to suspend or discontinue clinical trials, cause us to abandon further development or limit the commercial viability of any approved label or market acceptance.
+
+•Roivant Sciences Ltd. (“RSL”) owns a significant percentage of shares of our common stock and may exert significant control over matters subject to stockholder approval.
+
+•Our business could be adversely affected by economic downturns, changes in inflation and interest rates, changes in international trade policies and tariffs, natural disasters, political crises, geopolitical events, such as the crises and conflicts in Ukraine and the Middle East, or other macroeconomic conditions, which may negatively impact our business and financial performance in the future.
+
+•We expect to incur significant losses for the foreseeable future and may never achieve or maintain profitability.
+
+•We rely on third parties to conduct, supervise and monitor our clinical trials and if those third parties perform in an unsatisfactory manner or fail to comply with applicable requirements or our quality management program fails to detect such events in a timely manner, it may harm our business.
+
+•We do not have our own manufacturing capabilities and rely on third parties to produce clinical supplies and commercial supplies of our product candidates. The manufacture of biologics is complex and we or our third-party manufacturers may encounter difficulties in production or our quality management program may fail to detect quality issues at our third-party manufacturers, which may delay or prevent our ability to obtain marketing approval or commercialize our product candidates if approved.
+
+•We have a limited operating history and have never generated any product revenue.
+
+•We will require additional capital to fund our operations. If we fail to obtain necessary financing, we may not be able to complete the development and commercialization of our product candidates.
+
+•Raising additional funds by issuing equity securities will cause dilution to existing stockholders. Raising additional funds through debt financings may involve restrictive covenants and raising funds through lending and licensing arrangements may restrict our operations or require us to relinquish proprietary rights.
+
+•Our intercompany arrangements depend on the application of the tax laws of various jurisdictions and on how we operate our business.
+
+Table of Contents
+
+•We rely on the license agreement with HanAll (the “HanAll Agreement”) to provide us rights to the core intellectual property relating to IMVT-1402 and batoclimab. Any termination or loss of significant rights under the HanAll Agreement could adversely affect our development or commercialization of IMVT-1402.
+
+•We face significant competition from other biotechnology and pharmaceutical companies targeting autoimmune disease indications. Our operating results will suffer if we fail to compete effectively.
+
+•International expansion of our business exposes us to business, legal, regulatory, political, operational, financial and economic risks associated with conducting business outside of the U.S.
+
+•We and the third parties with whom we work are subject to stringent and changing privacy, data protection and information security laws, contractual obligations, self-regulatory schemes, government regulation, industry standards and other obligations related to data privacy and security. The actual or perceived failure by us or the third parties with whom we work to comply with such obligations could result in harm to our reputation, regulatory investigations or actions, significant fines and liability, disruption of our clinical trials or other material adverse effects on our business.
+
+•If securities or industry analysts do not publish research or reports about our business or publish negative reports about our business, our share price and trading volume could decline and has declined in the past upon downgrades of our common stock.
+
+Table of Contents
+
+PART I

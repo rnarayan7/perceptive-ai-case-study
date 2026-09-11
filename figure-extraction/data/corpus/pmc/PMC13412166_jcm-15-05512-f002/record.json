@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13412166_jcm-15-05512-f002",
+  "figure_type": "kaplan_meier",
+  "title": "Platelet-to-Albumin Ratio and Clinical Outcomes in IDH-Wildtype Grade 4 Diffuse Glioma.",
+  "caption": "Discriminative performance of pretreatment inflammatory biomarkers for survival outcomes in IDH-Wildtype Grade 4 Diffuse Glioma. ( A ) 12 month overall survival; ( B ) inverse probability of censoring weighting (IPCW)-adjusted time-dependent ROC analysis for overall survival; ( C ) classical ROC analysis for 6-month progression-free survival; ( D ) IPCW-adjusted time-dependent ROC analysis for progression-free survival. Area under the curve values for classical ROC analyses are presented in the corresponding legends. Abbreviations: CAR, C-reactive protein-to-albumin ratio; IPCW, inverse probability of censoring weighting; LAR, lactate dehydrogenase-to-albumin ratio; NLR, neutrophil-to-lymphocyte ratio; PAR, platelet-to-albumin ratio; PIV, pan-immune-inflammation value; ROC, receiver operating characteristic; SII, systemic immune-inflammation index; SIRI, systemic inflammation response index.",
+  "context": "Discriminative performance of pretreatment inflammatory biomarkers for survival outcomes in IDH-Wildtype Grade 4 Diffuse Glioma. ( A ) 12 month overall survival; ( B ) inverse probability of censoring weighting (IPCW)-adjusted time-dependent ROC analysis for overall survival; ( C ) classical ROC analysis for 6-month progression-free survival; ( D ) IPCW-adjusted time-dependent ROC analysis for progression-free survival. Area under the curve values for classical ROC analyses are presented in the corresponding legends. Abbreviations: CAR, C-reactive protein-to-albumin ratio; IPCW, inverse probability of censoring weighting; LAR, lactate dehydrogenase-to-albumin ratio; NLR, neutrophil-to-lymphocyte ratio; PAR, platelet-to-albumin ratio; PIV, pan-immune-inflammation value; ROC, receiver operating characteristic; SII, systemic immune-inflammation index; SIRI, systemic inflammation response index. Diagnostic and Discriminative Performance of Pretreatment Inflammatory Biomarkers In the classical ROC analysis for 12-month overall survival, pretreatment PAR achieved the highest discriminative performance among the evaluated inflammatory biomarkers, with an AUC of 0.853 ( Figure 2 A). In IPCW-adjusted time-dependent ROC analyses for overall survival, PAR consistently demonstrated among the highest AUC values across evaluated landmark time points, including 0.863 at 12 months and 0.825 at 18 months ( Figure 2 B). The discriminative performance was generally lower for progression-free su",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13412166/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-14",
+  "retrieved_at": "2026-09-07T12:52:40.829392+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13412166",
+    "pmid": "42513426",
+    "journal": "Journal of clinical medicine",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "27b23831f9eeb539ef8606e75a6f8455b4e56f3edcabf8703aaa21e0f89eb83e",
+  "image_file": "image.jpg"
+}

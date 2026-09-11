@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "472da201-698e-4d2b-8c53-595461d85bb6",
+  "title": "Label: Phenobarbital Sodium (PHENOBARBITAL SODIUM)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=472da201-698e-4d2b-8c53-595461d85bb6",
+  "published": "2025-12-12",
+  "retrieved_at": "2026-09-08T08:40:44.129760+00:00",
+  "metadata": {
+    "brand_name": "Phenobarbital Sodium",
+    "generic_name": "PHENOBARBITAL SODIUM",
+    "manufacturer": "Nexus Pharmaceuticals, LLC",
+    "manufacturer_name": "Nexus Pharmaceuticals, LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": "INTRAMUSCULAR"
+  },
+  "hash": "78a6b1760fbfa3d0e9576d0e46ff6b836f89b161c1a04dd580eb423ff5fed6d7"
+}

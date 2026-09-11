@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA201791",
+  "title": "Drugs@FDA ANDA201791: LAMOTRIGINE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A201791",
+  "published": "2013-01-18",
+  "retrieved_at": "2026-09-08T08:40:42.258597+00:00",
+  "metadata": {
+    "manufacturer": "PH HEALTH",
+    "brand_name": "LAMOTRIGINE",
+    "sponsor_name": "PH HEALTH",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LAMOTRIGINE"
+    ],
+    "active_ingredients": [
+      "LAMOTRIGINE"
+    ],
+    "marketing_status": [
+      "Discontinued"
+    ],
+    "approval_date": "2013-01-18",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 8
+  },
+  "hash": "b430a71f38fbb0c88d33ab870d02dbc7b1199931e1537e11634db7ca0d8dfab4"
+}

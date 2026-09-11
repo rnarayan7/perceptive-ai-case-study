@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CO_ART01_CRDPREV_2019_2019_SEXM",
+  "title": "Arthritis - Colorado - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002403+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Colorado",
+    "location_abbr": "CO",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "19.1",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "ab4a1ee68b31fbb4400b9a9af23bb55c2d78520126f6765ee996cde9a0f155ee"
+}

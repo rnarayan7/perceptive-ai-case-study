@@ -1,0 +1,37 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "16675102",
+  "title": "FAERS report 16675102: Dehydration, Seizure, Abdominal pain upper",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:16675102",
+  "published": "2022-08-04",
+  "retrieved_at": "2026-09-08T08:40:31.666343+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Dehydration",
+      "Seizure",
+      "Abdominal pain upper",
+      "Ear infection",
+      "Product use in unapproved indication",
+      "Drug ineffective"
+    ],
+    "drugs": [
+      "DIACOMIT",
+      "DIACOMIT",
+      "DIACOMIT",
+      "DIACOMIT",
+      "DIACOMIT",
+      "ONFI",
+      "EPIDIOLEX",
+      "FELBATOL",
+      "CLORAZEPATE DIPOTASSIUM",
+      "XCOPRI",
+      "MIDAZOLAM"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "6bf22b537b3977e9962a92d6060e0ce0ba57bed3bc5479d516b96f8fb94e9861"
+}

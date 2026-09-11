@@ -1,0 +1,4 @@
+FAERS adverse-event report 17535808 (comparator: avapritinib)
+Serious: yes
+Reactions: Neoplasm, Crohn^s disease
+Reported drugs: AYVAKIT, AYVAKIT

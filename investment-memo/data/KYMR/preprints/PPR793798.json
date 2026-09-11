@@ -1,0 +1,18 @@
+{
+  "company": "KYMR",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR793798",
+  "title": "Degradome analysis to identify direct protein substrates of small-molecule degraders",
+  "url": "https://europepmc.org/article/PPR/PPR793798",
+  "published": "2024-01-28",
+  "retrieved_at": "2026-09-07T09:20:54.590422+00:00",
+  "metadata": {
+    "doi": "10.1101/2024.01.28.577572",
+    "epmc_id": "PPR793798",
+    "epmc_source": "PPR",
+    "authors": "Jochem M, Schrempf A, Wagner L, Cisneros J, Ng A, Winter GE, Krijgsveld J.",
+    "cited_by": 0
+  },
+  "hash": "263126dc2fac28f359e2e82a4c8f30ceba3007f4aeaf2f4f4cc9b3e2c7b8030b"
+}

@@ -1,0 +1,35 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "16875819",
+  "title": "FAERS report 16875819: Diarrhoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:16875819",
+  "published": "2023-06-30",
+  "retrieved_at": "2026-09-08T08:40:31.667738+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Diarrhoea"
+    ],
+    "drugs": [
+      "EPIDIOLEX",
+      "APTIOM",
+      "DEPAKOTE",
+      "DIAZEPAM",
+      "LYRICA",
+      "LORATADINE",
+      "IBUPROFEN",
+      "OXYCODONE",
+      "XCOPRI",
+      "PHENERGAN AND CHLORAL HYDRATE",
+      "TYLENOL",
+      "VITAMINS",
+      "TRAZODONE",
+      "ZOLOFT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "0c8ef2751b66a9d01b676ce3e370f34af375f85f5b93a9ee41ab95b955d3be1e"
+}

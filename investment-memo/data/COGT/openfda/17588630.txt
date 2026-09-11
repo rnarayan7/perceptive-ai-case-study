@@ -1,0 +1,4 @@
+FAERS adverse-event report 17588630 (comparator: avapritinib)
+Serious: no
+Reactions: Medical device implantation, Peripheral swelling, Decreased appetite, Swelling face, Nausea
+Reported drugs: AYVAKIT

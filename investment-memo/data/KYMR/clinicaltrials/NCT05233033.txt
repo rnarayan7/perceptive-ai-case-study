@@ -1,0 +1,18 @@
+Title: Safety, PK/PD, and Clinical Activity of KT-413 in Adult Patients with Relapsed or Refractory B-cell NHL
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Non Hodgkin Lymphoma, Diffuse Large B Cell Lymphoma, DLBCL, MYD88 Gene Mutation
+Interventions: KT-413 (DRUG)
+Enrollment: 7
+
+Summary: This Phase 1a/1b study will evaluate the safety, tolerability and the pharmacokinetics/ pharmacodynamics (PK/ PD) of KT-413 in patients with R/R NHL. The Phase 1a stage of the study will explore escalating doses of single-agent KT-413. The Phase 1b stage will be split into 2 expansion cohorts to further characterize the safety, tolerability and the pharmacokinetics/ pharmacodynamics (PK/ PD) of KT-413 in MYD88 mutant and MYD88 wild-type R/R DLBCL.
+
+Primary outcomes:
+- To establish the Maximum Tolerated Dose (MTD) (time frame: Within first 3 weeks of treatment)
+- Number of Participants with protocol specified Dose Limiting Toxicities (DLTs) (time frame: Within first 3 weeks of treatment)
+- Dose recommended for future studies (time frame: Within first 3 weeks of treatment)
+- Clinical Laboratory Abnormalities (time frame: Clinical laboratory abnormalities will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy)
+- Adverse Event Parameters (time frame: Adverse Event Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy)
+- ECG Parameters (time frame: ECG Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy)

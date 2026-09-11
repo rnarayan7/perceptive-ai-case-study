@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "39133921",
+  "title": "Genetic risk stratification and outcomes among treatment-naive patients with AML treated with venetoclax and azacitidine.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39133921/",
+  "published": "2024",
+  "retrieved_at": "2026-09-07T08:25:52.537637+00:00",
+  "metadata": {
+    "journal": "Blood",
+    "year": "2024",
+    "pmid": "39133921"
+  },
+  "hash": "39357a64363273bfcde36fe0816e6addad65b5a294be2eb39b3917afeb2db5f3"
+}

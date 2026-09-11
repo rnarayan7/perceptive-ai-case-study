@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13322060_F2",
+  "figure_type": "pk_logscale",
+  "title": "Development of a Plasma Spot Assay for Detection of Fluorophore-labeled Antibodies in Mouse Imaging Studies.",
+  "caption": "Fluorescence plasma spot analyses (FPSA) in NSG mice pre-dosed with human intravenous IV immunoglobulin (hIVIG). Example of FPS images from samples taken from individual mice 1 to 72 h after dosing with an antibody drug conjugate (ADC) labeled with AF750. Mice were pre-treated with the dose of hIVIG indicated (A). Mean (+SD) FPSA values from each group were plotted over time (B). Pharmacokinetic profile of ADC-fluorophore (F) clearance from each group of mice as determined using ELISA over 72 h (C). Linear regression of ADC-F FPSA vs. concentration as determined using each method (D).",
+  "context": "Fluorescence plasma spot analyses (FPSA) in NSG mice pre-dosed with human intravenous IV immunoglobulin (hIVIG). Example of FPS images from samples taken from individual mice 1 to 72 h after dosing with an antibody drug conjugate (ADC) labeled with AF750. Mice were pre-treated with the dose of hIVIG indicated (A). Mean (+SD) FPSA values from each group were plotted over time (B). Pharmacokinetic profile of ADC-fluorophore (F) clearance from each group of mice as determined using ELISA over 72 h (C). Linear regression of ADC-F FPSA vs. concentration as determined using each method (D). At time points ranging from 1-72 h post ADC2-F dosing, plasma samples were collected and analyzed by FPSA ( Figure 2 A). Plasma fluorescence in all ADC2-F injected mice declined over time, consistent with typical clearance upon IV dosing (Figure 2B). Quantitative analysis of matching plasma samples by ELISA produced concentration profiles that strongly correlated with results from the FPSA (Figure 2C and D; r=0.98; p <0.0001).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322060/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:09:46.046163+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13322060",
+    "pmid": "42379735",
+    "journal": "In vivo (Athens, Greece)",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "c368f22fff724d302cf61769dd76bc43e9114500958bf0b805d9e52651671b1c",
+  "image_file": "image.jpg"
+}

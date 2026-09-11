@@ -1,0 +1,88 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07629336",
+  "title": "SAR447971 First-in-human Study",
+  "url": "https://clinicaltrials.gov/study/NCT07629336",
+  "published": "2026-06-05",
+  "retrieved_at": "2026-09-07T06:57:16.411447+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Hidradenitis",
+      "Healthy Volunteers"
+    ],
+    "interventions": [
+      {
+        "name": "SAR447971",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Sanofi",
+    "enrollment": 114,
+    "start_date": "2026-05-26",
+    "primary_completion_date": "2028-02-16",
+    "completion_date": "2028-02-16",
+    "first_posted_date": "2026-06-05",
+    "primary_outcomes": [
+      {
+        "measure": "SAD20411: Incidence of treatment emergent adverse events (TEAEs)",
+        "timeFrame": "Day 1 to Day 15"
+      },
+      {
+        "measure": "SAD20411: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+        "timeFrame": "Day 1 to Day 15"
+      },
+      {
+        "measure": "SAD20411: Incidence of clinically significant abnormalities in vital signs",
+        "timeFrame": "Day 1 to Day 15"
+      },
+      {
+        "measure": "SAD20411: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+        "timeFrame": "Day 1 to Day 15"
+      },
+      {
+        "measure": "MAD20412: Incidence of treatment emergent adverse events (TEAEs)",
+        "timeFrame": "Day 1 to Dat 29"
+      },
+      {
+        "measure": "MAD20412: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+        "timeFrame": "Day 1 to Dat 29"
+      },
+      {
+        "measure": "MAD20412: Incidence of clinically significant abnormalities in vital signs",
+        "timeFrame": "Day 1 to Dat 29"
+      },
+      {
+        "measure": "MAD20412: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+        "timeFrame": "Day 1 to Dat 29"
+      },
+      {
+        "measure": "MAD24339: Incidence of treatment emergent adverse events (TEAEs)",
+        "timeFrame": "Day 1 to Day 42"
+      },
+      {
+        "measure": "MAD24339: Incidence of clinically significant abnormalities in clinical laboratory evaluations (hematology, biochemistry, coagulation, urinalysis)",
+        "timeFrame": "Day 1 to Day 42"
+      },
+      {
+        "measure": "MAD24339: Incidence of clinically significant abnormalities in vital signs",
+        "timeFrame": "Day 1 to Day 42"
+      },
+      {
+        "measure": "MAD24339: Incidence of clinically significant abnormalities in ECG (heart rate, PR, QRS, QT, QTcF)",
+        "timeFrame": "Day 1 to Day 42"
+      }
+    ]
+  },
+  "hash": "df4d0fc7a65f37429f1e856c824c9800a53853c84ecf83907251b460b00c8d0b"
+}

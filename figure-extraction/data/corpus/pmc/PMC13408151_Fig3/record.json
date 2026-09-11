@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13408151_Fig3",
+  "figure_type": "spider",
+  "title": "Cadonilimab plus chemotherapy as first-line treatment in PD-L1-negative advanced non-small cell lung cancer: a phase II clinical trial.",
+  "caption": "Anti-tumor activity and treatment duration. a  Waterfall plot of best percentage change from baseline of sum of target lesion diameters.  b  Spider plot of percentage change from baseline of sum of target lesion diameters.  c  Swimmer plot of treatment duration and best overall response. Source data are provided as a Source Data file. PR: partial response; SD: stable disease.",
+  "context": "Anti-tumor activity and treatment duration. a  Waterfall plot of best percentage change from baseline of sum of target lesion diameters.  b  Spider plot of percentage change from baseline of sum of target lesion diameters.  c  Swimmer plot of treatment duration and best overall response. Source data are provided as a Source Data file. PR: partial response; SD: stable disease.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13408151/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-12",
+  "retrieved_at": "2026-09-07T13:14:48.629233+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13408151",
+    "pmid": "42285994",
+    "journal": "Nature communications",
+    "fig_label": "Fig. 3"
+  },
+  "image_hash": "59dbbe23babc5446d8ba76684cd72e61b76bfbadb231529e4ee79b3afeb73df7",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10771926",
+  "title": "FAERS report 10771926: Thrombocytopenia, Hyperglycaemia, Acute kidney injury",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10771926",
+  "published": "2015-02-06",
+  "retrieved_at": "2026-09-08T08:41:01.864314+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Thrombocytopenia",
+      "Hyperglycaemia",
+      "Acute kidney injury",
+      "Hyponatraemia",
+      "Nausea",
+      "Anaemia",
+      "Gastric haemorrhage",
+      "Rash",
+      "Hypokalaemia",
+      "Electrocardiogram QT prolonged",
+      "Aspartate aminotransferase increased",
+      "Hyperbilirubinaemia",
+      "Ejection fraction decreased",
+      "Neutropenia",
+      "Infection",
+      "Hyperuricaemia",
+      "Vomiting",
+      "Thrombosis"
+    ],
+    "drugs": [
+      "VIDAZA",
+      "MIDOSTAURIN",
+      "MIDOSTAURIN",
+      "VIDAZA"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "a72700ff3da35f04025630c6994cb40093318f7b1b5bf97e6f635799d1a2fc3a"
+}

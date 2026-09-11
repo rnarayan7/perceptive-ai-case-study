@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-VA_ART01_AGEADJPREV_2019_2019_HIS",
+  "title": "Arthritis - Virginia - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002959+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Virginia",
+    "location_abbr": "VA",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "23.4",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Hispanic"
+  },
+  "hash": "95a23d7750fbb3d0b32398011268eaa5662528534dceca9424bd7ab282df3114"
+}

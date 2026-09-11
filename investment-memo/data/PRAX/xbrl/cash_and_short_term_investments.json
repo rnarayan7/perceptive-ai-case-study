@@ -1,0 +1,40 @@
+{
+  "company": "PRAX",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "cash_and_short_term_investments",
+  "title": "PRAXIS PRECISION MEDICINES, INC. - Cash, cash equivalents and short-term investments (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:35.405552+00:00",
+  "metadata": {
+    "cik": 1689548,
+    "entity_name": "PRAXIS PRECISION MEDICINES, INC.",
+    "concept": "cash_and_short_term_investments",
+    "label": "Cash, cash equivalents and short-term investments",
+    "value": 758551000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_type": "instant",
+    "derived": true,
+    "components": [
+      {
+        "concept": "cash_and_equivalents",
+        "taxonomy": "us-gaap",
+        "tag": "CashAndCashEquivalentsAtCarryingValue",
+        "value": 474761000.0,
+        "accession": "0001689548-26-000083"
+      },
+      {
+        "concept": "short_term_investments",
+        "taxonomy": "us-gaap",
+        "tag": "MarketableSecuritiesCurrent",
+        "value": 283790000.0,
+        "accession": "0001689548-26-000083"
+      }
+    ],
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001689548.json"
+  },
+  "hash": "c16f25a676754d5074465ecbbd1ec76f1c8330de9b0a5d6380717b1e8fda8f16"
+}

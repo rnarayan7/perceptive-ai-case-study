@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13250399_psp470284-fig-0001",
+  "figure_type": "pk_logscale",
+  "title": "Physiologically Based Pharmacokinetic Model to Predict Drug-Drug Interactions With the Antibody-Drug Conjugate Trastuzumab Deruxtecan.",
+  "caption": "Minimal PBPK model for ADCs including 2:1 binding to FcRn at pH 6.0 in the endosomal compartment linked to a full PBPK model for released DXd with a nested permeability limited liver model. P represents plasma protein; +ve and −ve represent the drug in an ionized form, that is, with and without a valence electron. Figure adapted from Jamei et al. [ 13 ] and Huang et al. [ 14 ]. ADC, antibody–drug conjugate; AP, acidic phospholipids; CL I , clearance of drug from interstitial to intracellular compartment; CL cat , catabolic clearance; CL T , clearance of drug from intracellular to interstitial compartment; FcRn, neonatal Fc receptor; FR, fraction of FcRn‐bound monoclonal antibody recycled; fu IW , fraction unbound in the intracellular water;  K \n D1 , equilibrium dissociation constant for 1:1 drug–FcRn complex;  K \n D2 , equilibrium dissociation constant for 2:1 drug–FcRn complex;  K \n rc1 , endosomal recycling rate for 1:1 drug–FcRn complex;  K \n rc2 , endosomal recycling rate for 2:1 drug–FcRn complex;  K \n up , endosomal uptake rate via fluid phase endocytosis; L, lymph flow rate; NL, neutral lipids; NP, neutral phospholipids; PBPK, physiologically based pharmacokinetic; PS s , permeability surface area product for small pores; PS l , permeability surface area product for large pores; PS I , permeability surface area product for tissue permeability of drug; Q, blood flow rate; T‐DXd, trastuzumab deruxtecan; σl, lymphatic reflection coefficient;  σ \n v,s , vascular reflection coefficient for vascular permeability through small pores;  σ \n v,l , vascular reflection coefficient for vascular permeability through large pores.",
+  "context": "Minimal PBPK model for ADCs including 2:1 binding to FcRn at pH 6.0 in the endosomal compartment linked to a full PBPK model for released DXd with a nested permeability limited liver model. P represents plasma protein; +ve and −ve represent the drug in an ionized form, that is, with and without a valence electron. Figure adapted from Jamei et al. [ 13 ] and Huang et al. [ 14 ]. ADC, antibody–drug conjugate; AP, acidic phospholipids; CL I , clearance of drug from interstitial to intracellular compartment; CL cat , catabolic clearance; CL T , clearance of drug from intracellular to interstitial compartment; FcRn, neonatal Fc receptor; FR, fraction of FcRn‐bound monoclonal antibody recycled; fu IW , fraction unbound in the intracellular water;  K \n D1 , equilibrium dissociation constant for 1:1 drug–FcRn complex;  K \n D2 , equilibrium dissociation constant for 2:1 drug–FcRn complex;  K \n rc1 , endosomal recycling rate for 1:1 drug–FcRn complex;  K \n rc2 , endosomal recycling rate for 2:1 drug–FcRn complex;  K \n up , endosomal uptake rate via fluid phase endocytosis; L, lymph flow rate; NL, neutral lipids; NP, neutral phospholipids; PBPK, physiologically based pharmacokinetic; PS s , permeability surface area product for small pores; PS l , permeability surface area product for large pores; PS I , permeability surface area product for tissue permeability of drug; Q, blood flow rate; T‐DXd, trastuzumab deruxtecan; σl, lymphatic reflection coefficient;  σ \n v,s , vascular reflectio",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13250399/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T13:12:39.187131+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13250399",
+    "pmid": "42265973",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "27eb3597734fca60febdec2f4f68ccc6bb8502083e7f707480ad6ab459b37251",
+  "image_file": "image.jpg"
+}

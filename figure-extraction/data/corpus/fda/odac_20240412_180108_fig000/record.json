@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240412_180108_fig000",
+  "figure_type": "unknown",
+  "title": "odac_20240412_180108 figure 0",
+  "caption": "",
+  "context": "                               Food and Drug Administration\n                          Center for Drug Evaluation and Research\n\n       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting\n                                    April 12, 2024\n\n\nLocation: FDA and invited participants attended the meeting at FDA White Oak Campus,\nBuilding 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,\nSilver Spring, Maryland. The public participated via an online teleconferencing and/or video\nconferencing platform, and the meeting presentations were heard, viewed, captioned, and\nrecorded through an online video conferencing platform.\n\nTopic: The Committee discussed the use of minimal residual disease (MRD) as an endpoint in\nmultiple myeloma clinical trials, including considerations regarding timing of assessment, patient\npopulations, and trial design for future studies that intend to use MRD to support accelerated\napproval of a new product or a new indication.\n\nThese summary minutes for the April 12, 2024 meeting of the Oncologic Drugs Advisory\nCommittee of the Food and Drug Administration were approved on July 2, 2024 .\n\nI certify that I attended the April 12, 2024 meeting of the Oncologic Drugs Advisory Committee\nof the Food and Drug Administration and that these minutes accurately reflect what transpired.\n\n\n\n\n_____________/s/_______________                  _______________/s/_____________\nTakyiah Stevenson, PharmD                        Grzegorz (Greg) S. Nowakowski, MD, FASCO\nActing Designated Federal Officer, ODAC          Acting Chairperson, ODAC\n\n\n\n\n                                           Page 1 of 6\n\f",
+  "url": "https://www.fda.gov/media/180108/download",
+  "image_url": "https://www.fda.gov/media/180108/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:01.285605+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240412_180108",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "3fe2d0f4547426a66338e8eccd50f507b11aaae8ea78d8c6eb80b8af1e76a5c2",
+  "image_file": "image.png"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13316349_fig2",
+  "figure_type": "kaplan_meier",
+  "title": "Therapy and biomarker dependent progression-free survival in infant sonic hedgehog medulloblastoma: a multi-national retrospective cohort study.",
+  "caption": "Molecular and clinical diversity within iMB SHH  and characteristics of its molecular subgroups.  (A) Proportion and incidence of histology variants, metastatic (M) status, molecular subgroup and age at diagnosis. (B) Oncoplot representing key clinico-pathological and molecular disease features in iMB SHH  subgroups. Residuals and p-values from chi-squared tests are shown (darker shades indicate stronger relationships). (C) Density plot showing incidence of iMB SHH  subgroups across age range 0.00–4.99 years. (D) Summary of chromosomal copy number changes in iMB SHH  subgroups. Red = copy number gain. Blue = copy number loss. (E) Kaplan–Meier plot of overall survival for iMB SHH  subgroups. At-risk table (number censored in parentheses) and p-values from log-rank tests. ∗Indicates p-value < 0.05. (F) Stacked bar charts showing proportions of histological subtypes,  PTCH1  mutation,  SUFU  mutation,  MYCN  amplification and  TP53  mutation across iMB SHH  subgroups. p-values from Chi-squared tests are shown. Dark grey bar = positive for feature. Light grey bar = negative for feature. RTx = Radiotherapy. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. IVT-MTX = Intraventricular methotrexate. CLA = Classic histology. LCA = Large-cell/anaplastic histology. MBEN = Medulloblastoma with extensive nodularity. DN = Desmoplastic nodular. GTR = Cross-total resection. M+ = Metastatic disease. M0 = Non-metastatic disease.",
+  "context": "Molecular and clinical diversity within iMB SHH  and characteristics of its molecular subgroups.  (A) Proportion and incidence of histology variants, metastatic (M) status, molecular subgroup and age at diagnosis. (B) Oncoplot representing key clinico-pathological and molecular disease features in iMB SHH  subgroups. Residuals and p-values from chi-squared tests are shown (darker shades indicate stronger relationships). (C) Density plot showing incidence of iMB SHH  subgroups across age range 0.00–4.99 years. (D) Summary of chromosomal copy number changes in iMB SHH  subgroups. Red = copy number gain. Blue = copy number loss. (E) Kaplan–Meier plot of overall survival for iMB SHH  subgroups. At-risk table (number censored in parentheses) and p-values from log-rank tests. ∗Indicates p-value < 0.05. (F) Stacked bar charts showing proportions of histological subtypes,  PTCH1  mutation,  SUFU  mutation,  MYCN  amplification and  TP53  mutation across iMB SHH  subgroups. p-values from Chi-squared tests are shown. Dark grey bar = positive for feature. Light grey bar = negative for feature. RTx = Radiotherapy. CTx = Chemotherapy. CSI = Craniospinal irradiation. SD = Standard-dose. HD = High-dose. IVT-MTX = Intraventricular methotrexate. CLA = Classic histology. LCA = Large-cell/anaplastic histology. MBEN = Medulloblastoma with extensive nodularity. DN = Desmoplastic nodular. GTR = Cross-total resection. M+ = Metastatic disease. M0 = Non-metastatic disease.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13316349/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T12:54:52.570654+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13316349",
+    "pmid": "42382416",
+    "journal": "EClinicalMedicine",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "570b33346bef41744b3e33864ea0c00877399a5daa8bee531fcfcae495b35a49",
+  "image_file": "image.jpg"
+}

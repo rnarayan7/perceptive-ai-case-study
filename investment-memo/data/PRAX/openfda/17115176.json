@@ -1,0 +1,39 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17115176",
+  "title": "FAERS report 17115176: Hypersomnia, Seizure, Lethargy",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17115176",
+  "published": "2022-07-14",
+  "retrieved_at": "2026-09-08T08:40:31.668567+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": false,
+    "reactions": [
+      "Hypersomnia",
+      "Seizure",
+      "Lethargy",
+      "Abdominal discomfort",
+      "Nausea",
+      "Somnolence",
+      "Diarrhoea"
+    ],
+    "drugs": [
+      "EPIDIOLEX",
+      "EPIDIOLEX",
+      "EPIDIOLEX",
+      "ONFI",
+      "ONFI",
+      "STIRIPENTOL",
+      "STIRIPENTOL",
+      "BRIVIACT",
+      "VITAMINS",
+      "XCOPRI",
+      "VITAMIN D3",
+      "KLONOPIN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "686101ccce180474e8f146c52ce6e286375ccfb0fd770bf9cd6f6e8af97486b5"
+}

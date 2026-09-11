@@ -1,0 +1,9 @@
+Drugs@FDA application NDA209899: ZEPOSIA
+Sponsor: BRISTOL
+Active ingredient(s): OZANIMOD HYDROCHLORIDE
+Brand name(s): ZEPOSIA
+Application type: NDA
+Original approval date: 2020-03-25
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 10

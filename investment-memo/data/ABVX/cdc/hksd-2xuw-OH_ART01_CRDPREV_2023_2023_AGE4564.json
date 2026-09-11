@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OH_ART01_CRDPREV_2023_2023_AGE4564",
+  "title": "Arthritis - Ohio - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003147+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Ohio",
+    "location_abbr": "OH",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "37.8",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "1a06a1581ca3f7ee797b0a159194f0e80bfbf5bd90375b50ca97d03b29eaa53c"
+}

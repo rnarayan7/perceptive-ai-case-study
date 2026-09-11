@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13436135_Fig2",
+  "figure_type": "spider",
+  "title": "Safety, pharmacokinetics, pharmacodynamics and antitumor activity of legubicin in patients with advanced solid tumors, including lung cancer: a phase 1 dose-escalation and expansion trial.",
+  "caption": "a  Swimmer plot of 35 enrolled patients in the dose expansion phase. Each swim lane represents one patient.  b  Spider plot showing changes in target lesion volume from 31 evaluable patients. Waterfall plot of the percent change from baseline in the sum of the longest tumor diameters of target lesions (RECIST v.1.1) of 31 evaluable patients ( c ), and 14 patients with lung cancer ( d ). Representative cases are shown in ( e ) to ( g ).  e  The metastatic lesion in the upper lobe of the left lung is shown on the left of a patient with soft tissue sarcoma who failed first line chemotherapy with dacarbazine plus pirarubicin and second line chemotherapy with ifosfamide and pirarubicin plus antiangiogenic therapy with anlotinib. The lesion was reduced in size (right) after treatment with legubicin 270 mg/m 2  Q3W.  f  The primary lesion in the lower lobe of the right lung was markedly reduced in size after 2 cycles of 7th line therapy with legubicin in a patient with lung adenocarcinoma with bilateral lung metastases, bone metastasis and pleural effusion. The patient failed prior chemotherapy, antiangiogenic therapy (bevacizumab, anlotinib), and immune therapy (camrelizumab).  g  The NUT carcinoma of the lung in a patient who was treated with 5th line legubicin was reduced by approximately 2/3 in size. The patient failed 4 prior lines of systemic therapy including combination therapy with sintilimab and anlotinib. NA, not assessed; NE, not evaluable; SD, stable disease; PD, progressive disease; PR, partial response",
+  "context": "a  Swimmer plot of 35 enrolled patients in the dose expansion phase. Each swim lane represents one patient.  b  Spider plot showing changes in target lesion volume from 31 evaluable patients. Waterfall plot of the percent change from baseline in the sum of the longest tumor diameters of target lesions (RECIST v.1.1) of 31 evaluable patients ( c ), and 14 patients with lung cancer ( d ). Representative cases are shown in ( e ) to ( g ).  e  The metastatic lesion in the upper lobe of the left lung is shown on the left of a patient with soft tissue sarcoma who failed first line chemotherapy with dacarbazine plus pirarubicin and second line chemotherapy with ifosfamide and pirarubicin plus antiangiogenic therapy with anlotinib. The lesion was reduced in size (right) after treatment with legubicin 270 mg/m 2  Q3W.  f  The primary lesion in the lower lobe of the right lung was markedly reduced in size after 2 cycles of 7th line therapy with legubicin in a patient with lung adenocarcinoma with bilateral lung metastases, bone metastasis and pleural effusion. The patient failed prior chemotherapy, antiangiogenic therapy (bevacizumab, anlotinib), and immune therapy (camrelizumab).  g  The NUT carcinoma of the lung in a patient who was treated with 5th line legubicin was reduced by approximately 2/3 in size. The patient failed 4 prior lines of systemic therapy including combination therapy with sintilimab and anlotinib. NA, not assessed; NE, not evaluable; SD, stable disease; PD, progressive disease; PR, partial response",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13436135/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-29",
+  "retrieved_at": "2026-09-07T13:15:44.774323+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13436135",
+    "pmid": "42215940",
+    "journal": "BMC cancer",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "c1ea93ee5413f49a8f81cea5db2efb4295bacf5aaf97656cffb6d65859d7aa87",
+  "image_file": "image.jpg"
+}

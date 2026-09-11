@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13070488_noaf258-F2",
+  "figure_type": "spider",
+  "title": "Phase II study of safusidenib erbumine in patients with chemotherapy- and radiotherapy-naïve isocitrate dehydrogenase 1-mutated WHO grade 2 gliomas.",
+  "caption": "Swimmer Plot of Treatment Duration (Central Assessment). A swimmer plot of treatment duration (months) for individual patients. Time of first MR, PR, CR, and PFS event, and whether treatment is ongoing at the time of the data cutoff, is displayed. Arrows indicate that treatment continues. The color of the bar depends on the best response as follows. Red: CR, Orange: PR, Green: MR, Blue: SD, Grey: PD. ⬤: PFS event, ◇: First CR, 0: First PR, △: First MR. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease.",
+  "context": "Swimmer Plot of Treatment Duration (Central Assessment). A swimmer plot of treatment duration (months) for individual patients. Time of first MR, PR, CR, and PFS event, and whether treatment is ongoing at the time of the data cutoff, is displayed. Arrows indicate that treatment continues. The color of the bar depends on the best response as follows. Red: CR, Orange: PR, Green: MR, Blue: SD, Grey: PD. ⬤: PFS event, ◇: First CR, 0: First PR, △: First MR. CR, Complete Response; MR, Minor Response; PR, Partial Response; PD, Progressive Disease; SD, Stable Disease. A swimmer’s plot of treatment duration is shown in Figure 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13070488/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-03-01",
+  "retrieved_at": "2026-09-07T13:14:40.313813+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13070488",
+    "pmid": "41206766",
+    "journal": "Neuro-oncology",
+    "fig_label": "Figure 2."
+  },
+  "image_hash": "1142fa8de0a2ceed5ee263a5d8c015f2039f362ec5ad6d87ba4c0f0ceaafea84",
+  "image_file": "image.jpg"
+}

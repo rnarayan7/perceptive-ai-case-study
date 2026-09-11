@@ -1,0 +1,96 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Table 107. Parameter estimates for the final PPK model of belumosudil
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+               The goodness-of-fit (GOF) plots are shown in Figure 16. The time-after-dose Visual Predictive
+               Check (VPC) plots stratified by disease status are shown in Figure 17.The time-after-dose VPC
+               plots are also stratified by study shown in Figure 18. The time-after-first dose VPCs are shown
+               in Figure 19.
+
+
+
+
+                                                                     298
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+                 Characteristic    Statistic   KD025-    KD025-   KD025-     KD025-    KD025-    KD025-    KD025-    All
+                                               101       102      103        106       107       208       213       Subjects
+                                               (n=48)    (n=24)   (n=6)      (n=23)    (n=73)    (n=54)    (n=124)   (n=352)
+                 Race: Native      N (%)       1         0 (0%)   0 (0%)     0 (0%)    0 (0%)    2         2         5
+                 American                      (2.08%)                                           (3.70%)   (1.61%)   (1.42%)
+                 Race: Other       N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    2         3         0 (0%)    5
+                                                                                       (2.74%)   (5.56%)             (1.42%)
+                 Race: Unknown     N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    0 (0%)    0 (0%)    8         8
+                                                                                                           (6.45%)   (2.27%)
+                 Healthy           N (%)       48        24       6          23        73        0 (0%)    0 (0%)    174
+                                               (100%)    (100%)   (100%)     (100%)    (100%)                        (49.4%)
+                 cGVHD Patients    N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    0 (0%)    54        124       178
+                                                                                                 (100%)    (100%)    (50.6%)
+                 Not Fasting       N (%)       0 (0%)    0 (0%)   0 (0%)     15        73        54        124       266
+                                                                             (65.2%)   (100%)    (100%)    (100%)    (75.6%)
+                 Fasting           N (%)       48        24       6          8         0 (0%)    0 (0%)    0 (0%)    86
+                                               (100%)    (100%)   (100%)     (34.8%)                                 (24.4%)
+                 Concomitant PPI   N (%)       0 (0%)    0 (0%)   0 (0%)     0 (0%)    70        36        62        168
+                                                                                       (95.9%)   (66.7%)   (50.0%)   (47.7%)
+                Concomitant         N (%)      0 (0%)   0 (0%)    0 (0%)     0 (0%)    35        29        73        137
+                3A4 Inhibitor                                                          (47.9%)   (53.7%)   (58.9%)   (38.9%)
+                Concomitant         N (%)      0 (0%)   0 (0%)    0 (0%)     0 (0%)    30        1         0 (0%)    31
+                3A4 Inducer                                                            (41.1%)   (1.85%)             (8.81%)
+               Source: Applicant’s population PK/PD report Appendix Table 13
+
+               The final model structure is a 2-comparment model with first order absorption and a lag time,
+               with a statistically significant effect of formulation on Ka and lag time (Figure 15). The
+               parameter estimates of the final model are shown in Table 107.
+               Figure 15. Belumosudil final PPK model structure
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+
+
+
+                                                                     297
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 16. Goodness of fit plots for the final PPK model for belumosudil
+
+
+
+
+               Source: Applicant’s population PK/PD report
+
+
+
+
+                                                                     299
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+Reference ID: 4827003
+

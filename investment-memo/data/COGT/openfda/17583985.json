@@ -1,0 +1,22 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17583985",
+  "title": "FAERS report 17583985: Acute kidney injury",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17583985",
+  "published": "2020-03-26",
+  "retrieved_at": "2026-09-08T08:40:57.628643+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Acute kidney injury"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "d1d4f74e03224ec6bee49bab201277de200d91026b535f13e18585a44889014b"
+}

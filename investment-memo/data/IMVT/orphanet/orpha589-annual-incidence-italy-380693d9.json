@@ -1,0 +1,31 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-annual-incidence-italy-380693d9",
+  "title": "Myasthenia gravis - Annual incidence (Italy) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576529+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "1.94",
+    "geographic_area": "Italy",
+    "validation_status": "Validated",
+    "source": "21757957[PMID]_20623298[PMID]_ ORPHANET",
+    "source_pmids": [
+      "21757957",
+      "20623298"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "380693d9e2b78a158c8bdfc934ed35bca43c29a4d729f6cdfbe13463d35e5d75"
+}

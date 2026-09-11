@@ -1,0 +1,7 @@
+Compound: PRAX-944
+PubChem CID: 44540045
+IUPAC name: N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide
+Molecular formula: C19H27ClFN3O2
+Molecular weight: 383.9 g/mol
+SMILES: CC(C)(C)NC(=O)CN1CCC(CC1)CNC(=O)C2=CC(=CC(=C2)Cl)F
+Synonyms: Z944, Z944 compound, RefChem:934477, 1199236-64-0, Ulixacaltamide, N-((1-(2-(tert-Butylamino)-2-oxoethyl)piperidin-4-yl)methyl)-3-chloro-5-fluorobenzamide, PRAX944, PRAX-944, Z 944, N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide, Ulixacaltamide [INN], Z-944, QT2PJH89C3, CHEMBL3934636, BDBM50192689

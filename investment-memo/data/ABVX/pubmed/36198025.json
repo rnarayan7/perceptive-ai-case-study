@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "36198025",
+  "title": "Demonstration of the Antitumor Activity of the iNKT Agonist ABX196, a Novel Enhancer of Cancer Immunotherapy, in Melanoma and Hepatocarcinoma Mouse Models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36198025/",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.568194+00:00",
+  "metadata": {
+    "journal": "Molecular cancer therapeutics",
+    "year": "2022",
+    "pmid": "36198025"
+  },
+  "hash": "fc29a17463fc5005098c5979a8a85870c2dd8636702d3b25547a5a05f841fa21"
+}

@@ -1,0 +1,147 @@
+false000181544200018154422026-06-252026-06-25
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 25, 2026
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39460
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+500 North Beacon Street, 4th Floor
+
+Watertown, Massachusetts02472
+
+(Address of principal executive offices, including zip code)
+
+(857)285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trade
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+KYMR
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01.
+
+Regulation FD Disclosure
+
+On June 25, 2026, Kymera Therapeutics, Inc. (the “Company”) issued a press release, a copy of which is furnished herewith as Exhibit 99.1.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+Item 8.01.
+
+Other Events
+
+On June 25, 2026, the Company announced that it has completed enrollment in the global BROADEN2 Phase 2b trial of KT-621, its first-in-class, oral STAT6 degrader, for the treatment of moderate to severe atopic dermatitis (“AD”). Enrollment was completed in advance of prior expectations, and the Company expects this development to accelerate the timing of its anticipated topline data readout to year-end 2026, representing a potential advancement of six months relative to its prior expectation of releasing the readout in mid-2027. Subject to discussions with regulators, the Company expects to initiate Phase 3 trials in AD by mid-2027.
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements about the Company’s expectations regarding strategy, business plans and objectives on the development of KT-621, including the therapeutic potential, clinical benefits and safety thereof, the initiation of Phase 3 trials of KT-621 in patients with AD by mid-2027, and anticipated Phase 2b topline data readout of KT-621 in patients with moderate to severe AD expected by year-end 2026. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “expect,” “estimate,” “seek,” “predict,” “future,” “project,” “potential,” “continue,” “target,” “upcoming” and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from any forward-looking statements contained in this Item 8.01, including, without limitation, risks associated with: uncertainties inherent in the initiation, timing and design of ongoing and future clinical trials, the availability and timing of data from ongoing and future clinical trials and the results of such trials, the ability to successfully demonstrate the safety and efficacy of drug candidates, the timing and outcome of planned interactions with and submissions to regulatory authorities, the availability of funding sufficient for the Company’s operating expenses and capital expenditure requirements and other factors. These risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Company’s most recent Quarterly Report on Form 10-Q and in subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company’s views only as of the date on which it was made and should not be relied upon as representing the Company’s views as of any subsequent date. The Company explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+99.1
+
+Press release issued by Kymera Therapeutics, Inc. on June 25, 2026.
+
+104
+
+Cover Page Interactive Data
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Kymera Therapeutics, Inc.
+
+Date: June 25, 2026
+
+By:
+
+/s/ Nello Mainolfi
+
+Nello Mainolfi, Ph.D.

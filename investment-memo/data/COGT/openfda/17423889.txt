@@ -1,0 +1,4 @@
+FAERS adverse-event report 17423889 (comparator: avapritinib)
+Serious: yes
+Reactions: Disease progression, Chest pain, Dyspnoea
+Reported drugs: AYVAKIT

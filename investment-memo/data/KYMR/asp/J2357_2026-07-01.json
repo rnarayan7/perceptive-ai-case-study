@@ -1,0 +1,28 @@
+{
+  "company": "KYMR",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J2357_2026-07-01",
+  "title": "Medicare Part B ASP: Omalizumab injection (J2357, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:11.898844+00:00",
+  "metadata": {
+    "hcpcs": "J2357",
+    "short_description": "Omalizumab injection",
+    "dosage": "5 MG",
+    "payment_limit": 46.588,
+    "asp_per_unit": 43.950943396226414,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "omalizumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "e3e3f3d0eed550d1a1820c1455759c40fd8bbb7c1989ed1ae3ed6739830ce500"
+}

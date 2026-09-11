@@ -1,0 +1,14 @@
+Title: (Apex) Bezuclastinib in Patients With Advanced Systemic Mastocytosis
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Advanced Systemic Mastocytosis (AdvSM), SM With an Associated Hematologic Neoplasm (SM-AHN), Mast Cell Leukemia (MCL), Aggressive Systemic Mastocytosis (ASM)
+Interventions: bezuclastinib (DRUG)
+Enrollment: 140
+
+Summary: This is an open-label, two-part Phase 2 study investigating CGT9486 for the treatment of patients with Advanced Systemic Mastocytosis (AdvSM), including patients with Aggressive SM (ASM), SM with Associated Hematologic Neoplasm (SM-AHN), and Mast Cell Leukemia (MCL).
+
+Primary outcomes:
+- Part I: Identify clinically active and tolerable exposures of bezuclastinib in patients with AdvSM (time frame: 18 months)
+- Part II: - Determine efficacy of bezuclastinib as measured by mIWG Objective Response Rate (ORR) - Confirm the exposure-response relationship of bezuclastinib (time frame: 18 months)

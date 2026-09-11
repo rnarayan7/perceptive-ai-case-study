@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "7741e9ab-54ea-4c7e-9d64-daff922704ba",
+  "title": "Label: Phenobarbital Sodium (PHENOBARBITAL SODIUM)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=7741e9ab-54ea-4c7e-9d64-daff922704ba",
+  "published": "2024-09-06",
+  "retrieved_at": "2026-09-08T08:40:44.130820+00:00",
+  "metadata": {
+    "brand_name": "Phenobarbital Sodium",
+    "generic_name": "PHENOBARBITAL SODIUM",
+    "manufacturer": "Bryant Ranch Prepack",
+    "manufacturer_name": "Bryant Ranch Prepack",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": "INTRAMUSCULAR"
+  },
+  "hash": "d4a17802f71a6e7483a9f34a16046204a8ee7cecb642ece7a53c369b9d2e9753"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13322112_F5",
+  "figure_type": "forest",
+  "title": "Impact of Local Treatment of the Primary Tumor on Overall Survival in &lt;i&gt;De Novo&lt;/i&gt; Metastatic Breast Cancer: A Systematic Review and Meta-analysis.",
+  "caption": "Forest plot of overall survival in HER2-positive patients. A random-effects model was used. No statistically significant difference in overall survival was observed between locoregional treatment and systemic therapy alone (HR=0.90, 95% CI=0.61–1.33).",
+  "context": "Forest plot of overall survival in HER2-positive patients. A random-effects model was used. No statistically significant difference in overall survival was observed between locoregional treatment and systemic therapy alone (HR=0.90, 95% CI=0.61–1.33). No survival advantage was observed in HER2-positive tumors (HR=0.90, 95% CI=0.61–1.33) ( Figure 5 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322112/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:03.339153+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.90 (95% CI 0.61-1.33)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "l treatment and systemic therapy alone (HR=0.90, 95% CI=0.61–1.33). No survival advantage was observed in",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.90 (95% CI 0.61-1.33)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "e was observed in HER2-positive tumors (HR=0.90, 95% CI=0.61–1.33) ( Figure 5 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13322112",
+    "pmid": "42388582",
+    "journal": "Cancer diagnosis & prognosis",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "f21595d7c825cfc34261ff0e5a28a28e4a37e87c735e229b442c2aaa3eebb500",
+  "image_file": "image.jpg"
+}

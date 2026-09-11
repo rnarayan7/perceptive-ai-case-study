@@ -1,0 +1,28 @@
+{
+  "company": "IMVT",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J1303_2026-07-01",
+  "title": "Medicare Part B ASP: Inj., ravulizumab-cwvz 10 mg (J1303, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:12.233461+00:00",
+  "metadata": {
+    "hcpcs": "J1303",
+    "short_description": "Inj., ravulizumab-cwvz 10 mg",
+    "dosage": "10 MG",
+    "payment_limit": 226.92,
+    "asp_per_unit": 214.07547169811318,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "ravulizumab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "98df5911ac9c0adfb3bcf2dfc759a7502978db3215c43f5d8ad25dd6c68f677a"
+}

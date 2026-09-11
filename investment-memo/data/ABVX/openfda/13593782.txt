@@ -1,0 +1,4 @@
+FAERS adverse-event report 13593782 (comparator: ozanimod)
+Serious: yes
+Reactions: Malignant melanoma in situ
+Reported drugs: AVONEX, BI-ARYL OXADIAZOLE OZANIMOD, BI-ARYL OXADIAZOLE OZANIMOD, BI-ARYL OXADIAZOLE OZANIMOD, BI-ARYL OXADIAZOLE OZANIMOD, IBUPROFEN.

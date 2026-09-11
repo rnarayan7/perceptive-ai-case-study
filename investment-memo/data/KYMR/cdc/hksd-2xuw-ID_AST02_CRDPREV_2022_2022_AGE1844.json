@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-ID_AST02_CRDPREV_2022_2022_AGE1844",
+  "title": "Asthma - Idaho - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573884+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Idaho",
+    "location_abbr": "ID",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "11.9",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "fbd88e97c81467162440610952ecfd24c29b85e72af025b7f7404f550405b57b"
+}

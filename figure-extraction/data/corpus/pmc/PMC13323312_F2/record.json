@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13323312_F2",
+  "figure_type": "spider",
+  "title": "Durable responses to long-term selumetinib in Chinese pediatric NF1 patients with inoperable plexiform neurofibromas.",
+  "caption": "(A)  Percent Change in Target PN Volume Over Time from Baseline Based on Investigator Assessment According to the REiNS Criteria - Pediatric Cohort Spider Plot.  (B)  Target lesions in a pediatric patient at baseline and after Cycle 24 of oral therapy.",
+  "context": "(A)  Percent Change in Target PN Volume Over Time from Baseline Based on Investigator Assessment According to the REiNS Criteria - Pediatric Cohort Spider Plot.  (B)  Target lesions in a pediatric patient at baseline and after Cycle 24 of oral therapy. Investigators selected one target PN per patient based on clinical relevance ( Supplementary Figure 2 ). Based on investigator assessment, at the latest DCO (with all target PN volume assessments standardized at Cycle 42), the median best percentage change in tumor volume from baseline was −47.3% (range, −20.1% to −66.3%) ( Figures 2A -B ). Based on investigator assessment, at the latest DCO (with all target PN volume assessments standardized at Cycle 42), the median best percentage change in tumor volume from baseline was −47.3% (range, −20.1% to −66.3%) ( Figures 2A–B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13323312/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-18",
+  "retrieved_at": "2026-09-07T13:13:20.382315+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13323312",
+    "pmid": "42394972",
+    "journal": "Frontiers in pharmacology",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "e3542ed6e631ec7e8927ba716d80134f50b556bf08fdd9f43ff3a5369fb1ce43",
+  "image_file": "image.jpg"
+}

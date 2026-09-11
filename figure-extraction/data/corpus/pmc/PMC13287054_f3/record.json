@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13287054_f3",
+  "figure_type": "forest",
+  "title": "Antibody-based regimens targeting PD-1/PD-L1 and VEGF/VEGFR in advanced or metastatic NSCLC: a meta-analysis of RCTs.",
+  "caption": "Forest plot of EGFR-related subgroup analyses for PFS.",
+  "context": "Forest plot of EGFR-related subgroup analyses for PFS. The relevant content is presented in Figure 3 . For PFS, the funnel plot appeared largely symmetrical, and Begg’s test did not detect significant publication bias (p=0.276), as shown in Supplementary Figure 3 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13287054/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-09",
+  "retrieved_at": "2026-09-07T13:06:45.860570+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13287054",
+    "pmid": "42344916",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "8e3db8eb5ac1c0fe33c954443700ce6bfeb7d445a35e0891db5b43e1900c6ecb",
+  "image_file": "image.jpg"
+}

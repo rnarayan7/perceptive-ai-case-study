@@ -1,0 +1,25 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10080824",
+  "title": "FAERS report 10080824: Electrocardiogram QT prolonged, Pulmonary toxicity",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10080824",
+  "published": "2014-06-09",
+  "retrieved_at": "2026-09-08T08:41:01.863147+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Electrocardiogram QT prolonged",
+      "Pulmonary toxicity"
+    ],
+    "drugs": [
+      "DACOGEN (DECITABINE) LYOPHILIZED POWDER",
+      "MIDOSTAURIN",
+      "CEPHALEXIN"
+    ],
+    "occurcountry": null
+  },
+  "hash": "c0ccaabdd5c80ea7bc80444f33d8a5939baa30f7916005e643bad13241f65616"
+}

@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-annual-incidence-spain-6494cb09",
+  "title": "Myasthenia gravis - Annual incidence (Spain) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576350+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "2.1",
+    "geographic_area": "Spain",
+    "validation_status": "Validated",
+    "source": "12654975[PMID]",
+    "source_pmids": [
+      "12654975"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "6494cb09566552147a02aa268f2d486c76b56d0bf7ebdba9c7ed2cee1baafbe6"
+}

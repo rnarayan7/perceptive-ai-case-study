@@ -1,0 +1,39 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05907668",
+  "title": "A Proof-of-Concept Study to Assess Batoclimab in Participants With Graves' Disease",
+  "url": "https://clinicaltrials.gov/study/NCT05907668",
+  "published": "2023-06-18",
+  "retrieved_at": "2026-09-07T12:53:37.947049+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Graves Disease"
+    ],
+    "interventions": [
+      {
+        "name": "IMVT-1401 (batoclimab)",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 32,
+    "start_date": "2023-05-15",
+    "primary_completion_date": "2025-07-25",
+    "completion_date": "2025-07-25",
+    "first_posted_date": "2023-06-18",
+    "primary_outcomes": [
+      {
+        "measure": "Percentage of Participants Who Achieved Normalization of Free Triiodothyronine (FT3) and Free Thyroxine (FT4), or Have FT3 and/or FT4 Below the Lower Limit of Normal (LLN) at Week 24 Without Increase in ATD Dose Compared to Baseline",
+        "timeFrame": "At Week 24"
+      }
+    ]
+  },
+  "hash": "a28012efe67dd80128ac0f58c639a2ea81b5e503ec87825a32741772588f4d41"
+}

@@ -1,0 +1,23 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17657093",
+  "title": "FAERS report 17657093: Diarrhoea",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17657093",
+  "published": "2020-07-16",
+  "retrieved_at": "2026-09-08T08:39:59.981644+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Diarrhoea"
+    ],
+    "drugs": [
+      "MESALAMINE.",
+      "OZANIMOD."
+    ],
+    "occurcountry": "IT"
+  },
+  "hash": "5846be05b5abcb5037cb448e0a27a3f82f432e8fae63f3edabce9cf689654f51"
+}

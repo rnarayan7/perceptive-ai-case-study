@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13319282_Fig2",
+  "figure_type": "spider",
+  "title": "Comparing immunotherapy re-challenge plus chemoradiotherapy versus chemoradiotherapy alone in metastatic esophageal squamous cell carcinoma after first-line immunotherapy failure.",
+  "caption": "Tumor response.  A  Waterfall plot showing the best percent change in the size of target lesions from baseline. The dashed lines at + 20% and − 30% indicate thresholds for PD and PR, respectively, according to RECIST v1.1.  B  Spider plot of tumor response in target lesions by month.  C  Swimming plot for the onset of response, duration of response, and outcome. CRT, chemoradiotherapy; IO, immunotherapy; PD, progressive disease; PR, partial response; SD, stable disease",
+  "context": "Tumor response.  A  Waterfall plot showing the best percent change in the size of target lesions from baseline. The dashed lines at + 20% and − 30% indicate thresholds for PD and PR, respectively, according to RECIST v1.1.  B  Spider plot of tumor response in target lesions by month.  C  Swimming plot for the onset of response, duration of response, and outcome. CRT, chemoradiotherapy; IO, immunotherapy; PD, progressive disease; PR, partial response; SD, stable disease",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13319282/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-05-07",
+  "retrieved_at": "2026-09-07T13:14:19.872918+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13319282",
+    "pmid": "42096133",
+    "journal": "Discover oncology",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "e041f41d94e5cf9af0dbe0c67fc43773bedc593c748af8e9bc8827c13a1d8ea4",
+  "image_file": "image.jpg"
+}

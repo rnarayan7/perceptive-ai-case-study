@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AR_AST02_CRDPREV_2021_2021_OVR",
+  "title": "Asthma - Arkansas - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.000545+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Arkansas",
+    "location_abbr": "AR",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "10.0",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "91da753ee649cd0bd72d62473ba9960201d3b71fee7e1fe026f07823f08ad325"
+}

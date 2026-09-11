@@ -1,0 +1,760 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q, the Quarterly Report. This discussion and analysis and other parts of this Quarterly Report contain forward-looking statements based upon current beliefs, plans and expectations that involve risks, uncertainties and assumptions, such as express or implied statements regarding our plans, objectives, expectations, intentions and projections. Our actual results and the timing of selected events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth under Part II, Item 1A, “Risk Factors” and elsewhere in this Quarterly Report. You should carefully read the “Risk Factors” section of this Quarterly Report to gain an understanding of the important factors that could cause actual results to differ materially from our forward-looking statements. Please also see the section entitled “Special Note Regarding Forward-Looking Statements.”
+
+Overview
+
+We are a clinical-stage biopharmaceutical company dedicated to reinventing the treatment of human disease through the development of innovative, highly differentiated oral medicines that address significant health problems and meaningfully improve patients’ lives. We are committed to advancing novel technologies to address targets that have known disease-causing biology, but which have not been drugged, or have been inadequately drugged, often based on limitations of existing technologies. Our approach is intended to discover and develop a new generation of medicines in a disease-agnostic manner.
+
+We are a leader in targeted protein degradation (TPD), a next-generation small molecule therapeutic modality that engages the body’s natural cellular recycling system to selectively eliminate disease-causing proteins. Our objective is to develop molecules that are both potent and highly selective, creating the unique potential to address diseases that are poorly served by current treatment options. To date, we have progressed multiple programs into clinical development and expect to advance at least one new molecular entity into clinical testing annually. We intend to leverage our drug development expertise to become a fully integrated biopharmaceutical company with an industry-leading pipeline of novel medicines.
+
+Our current discovery and development efforts are primarily directed at high-value targets in immunology. We believe there are more than 160 million patients in the United States, Europe and Japan that are diagnosed with some of the most prevalent immune-inflammatory diseases that our programs have the potential to address, nearly half of whom remain untreated. Of those treated, most patients are treated with therapies that do not treat the underlying diseases but mostly their symptoms. As a result, only a small percentage of patients, which we believe to be approximately 3% of the diagnosed population with moderate to severe inflammatory diseases, are currently treated with systemic advanced therapies, mostly injectable biologics. While generally efficacious, biologics have drawbacks. Biologics tend to be more expensive to manufacture, and the cost burden ultimately falls on patients and payors. Patient access to therapy can also be a challenge, as biologics can be more complex to prescribe and reimburse than small molecule medicines. Additionally, biologics are administered as injections - which may result in injection site reactions or pain - a less preferred route of administration as compared to oral medications, which offer greater flexibility for patients. We believe we have the potential to deliver a compelling value proposition to a significant underserved patient population: small molecule medicines with biologics-like activity through the convenience of a daily, oral pill.
+
+Our publicly disclosed oral immunology programs target STAT6, IRF5 and IRAK4, each of which addresses targets within validated pathways, providing the opportunity to treat a broad range of diseases. We are developing KT-621 as part of our STAT6 program, which is currently being evaluated in the BROADEN2 Phase 2b clinical trial in adult and adolescent patients with moderate to severe Atopic Dermatitis (AD) and the BREADTH Phase 2b clinical trial in adult patients with moderate to severe asthma. We are also developing KT-579 as part of our oral IRF5 degrader program, which is being evaluated in a Phase 1 clinical trial in healthy volunteers. We are collaborating with Sanofi S.A. (“Sanofi”) on the development of our IRAK4 degrader, KT-485/SAR447971, which is being evaluated in a Phase 1 clinical trial. We are also collaborating with Gilead Sciences, Inc. (“Gilead”) on the development of our oral CDK2 molecular glue degrader, KT-200, which is currently in IND-enabling studies. Our additional early undisclosed pipeline programs focus on addressing high impact targets that have been elusive to conventional modalities and that drive the pathogenesis of multiple serious diseases with significant unmet medical needs.
+
+In addition to our immunology focus, we also have research initiatives in other therapeutic areas. Additionally, we believe many of our key discovery and development capabilities have broad applicability, creating an opportunity for us to develop impactful therapies leveraging small-molecule modalities in addition to TPD.
+
+Since our inception in 2015, we have devoted substantially all our efforts to organizing and staffing our company, research and development activities, business planning, raising capital, building our intellectual property portfolio and providing general and administrative support for these operations. Through June 30, 2026, we have received gross proceeds of $2.75 billion from sales of our convertible preferred stock, the sale of common stock including our August 2020 initial public offering, or IPO, and concurrent private
+
+25
+
+placement, our subsequent follow-on offerings and private placement offering, our prior sales agreement with Cowen and through our corporate collaborations.
+
+We have incurred significant operating losses since inception. Our ability to generate product revenue sufficient to achieve profitability will depend heavily on the successful development and eventual commercialization of one or more of our current product candidates or any future product candidates. Our net losses were $311.4 million and $223.9 million for the years ended December 31, 2025 and 2024, respectively. We reported net losses of $61.2 million and $130.4 million for the three and six months ended June 30, 2026 respectively, and $76.6 million and $142.2 million for the three and six months ended June 30, 2025, respectively. In addition, as of June 30, 2026 and December 31, 2025, we had an accumulated deficit of $1,196 million and $1,066 million, respectively. We expect that our expense and capital requirements will increase substantially in connection with our ongoing activities, particularly if and as we:
+
+•
+initiate and complete preclinical studies and clinical trials for current or future product candidates;
+
+•
+prepare and submit Investigational New Drug applications, or INDs, with the U.S Food and Drug Administration, or FDA, for future product candidates;
+
+•
+develop and scale up our capabilities to support our ongoing preclinical activities and clinical trials for our product candidates and commercialization of any of our product candidates for which we may obtain marketing approval;
+
+•
+secure facilities to support continued growth in our research, development and commercialization efforts;
+
+•
+advance research and development related activities to expand our product pipeline;
+
+•
+expand and improve the capabilities of our drug discovery platform;
+
+•
+seek regulatory approval for our product candidates that successfully complete clinical development;
+
+•
+contract to manufacture our product candidates;
+
+•
+maintain, expand and protect our intellectual property portfolio;
+
+•
+hire additional staff, including clinical, scientific and management personnel; and
+
+•
+incur additional costs associated with continuing to operate as a public company.
+
+In addition, if we obtain marketing approval for any of our lead product candidates, we expect to incur significant commercialization expenses related to product manufacturing, marketing, sales and distribution. As a result, we will need substantial additional funding to support our continuing operations and pursue our growth strategy. Until such time as we can generate significant revenue from product sales, if ever, we expect to finance our operations through the sale of equity, debt financings, or other capital sources, which may include collaborations with other companies or other strategic transactions. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on favorable terms, or at all. If we fail to raise capital or enter into such agreements as and when needed, we may have to significantly delay, reduce or eliminate the development and commercialization of one or more of our product candidates.
+
+We will not generate revenue from product sales unless and until we successfully complete clinical development and obtain marketing approval for our drug candidates. The lengthy process of securing marketing approvals for new drugs requires the expenditure of substantial resources. Any delay or failure to obtain regulatory approvals would materially adversely affect our product candidate development efforts and our business overall. Because of the numerous risks and uncertainties associated with product development, we are unable to predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+
+As of June 30, 2026, we had cash, cash equivalents and marketable securities of $1,505 million. We believe the existing cash, cash equivalents and marketable securities on hand will be sufficient to fund our operations into 2029, beyond multiple clinical inflection points in our pipeline. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect. See “Liquidity and capital resources” below.
+
+26
+
+Components of Our Results of Operations
+
+Revenue
+
+To date, we have not generated any revenue from product sales and do not expect to generate any revenue from the sale of products in the foreseeable future. Our only revenues have been derived from research collaboration arrangements with Vertex, Sanofi, and Gilead. We expect that our revenue for the next several years will be derived primarily from our current collaboration agreements and any additional collaborations that we may enter into in the future. To date, we have not received any royalties under any of the collaboration agreements.
+
+Gilead Agreement
+
+On June 25, 2025, we entered into an exclusive option and license agreement (the “Gilead Agreement”) with Gilead Sciences, Inc. (“Gilead”), to collaborate on developing novel molecular glue degraders directed against cyclin-dependent kinase 2 (“CDK2”). Under the Gilead Agreement, the Company granted to Gilead an exclusive option, exercisable during a defined option period, to exercise an exclusive, worldwide license to develop, manufacture, and commercialize certain CDK2 degraders generated under the collaboration.
+
+Pursuant to the Gilead Agreement, the Company was responsible for all discovery and preclinical research activities through the delivery of a complete data package as defined in the agreement. After receiving the complete data package, Gilead exercised its option to license the program and now has global rights to develop, manufacture and commercialize all products resulting from the collaboration.
+
+Following option exercise, the Gilead Agreement will expire on a product-by-product and country-by-country basis upon the expiration of all royalty obligations under the agreement. Gilead may terminate the agreement for convenience upon advance written notice. Each party may also terminate the agreement for material breach, insolvency, and the agreement may be terminated for certain other customary reasons, including Gilead’s right to terminate certain provisions of the agreement following a change of control of our company.
+
+In consideration for the exclusive option and rights granted under the Gilead Agreement, we received a non-refundable upfront payment of $40.0 million. Further in April 2026, Gilead exercised its exclusive option to license KT-200,an oral CDK2 molecular glue degrader as a development candidate. As a result, we earned an option exercise payment of $45.0 million received and recognized as revenue in the second quarter of 2026. We remain eligible to receive up to an additional $665.0 million upon the achievement of certain development, regulatory and commercial milestones. We are also eligible to receive tiered royalties on net sales by Gilead ranging from high single-digit to mid-teen percentages, subject to customary reductions in certain circumstances.
+
+Sanofi Agreement
+
+On July 7, 2020, we entered into a collaboration agreement, or the Sanofi Agreement, with Sanofi to co-develop drug candidates directed to two biological targets. Under the Sanofi Agreement, we granted to Sanofi a worldwide exclusive license to develop, manufacture and commercialize certain lead compounds generated during the collaboration directed against IRAK4 and one additional undisclosed target in an undisclosed field of use. Such license is exercisable on a collaboration target-by-collaboration target basis only after a specified milestone. For compounds directed against IRAK4, the field of use includes diagnosis, treatment, cure, mitigation or prevention of any diseases, disorders or conditions, excluding oncology and immuno-oncology. We are responsible for discovery and preclinical research and conducting a phase 1 clinical trial for at least one degrader directed against IRAK4 plus up to three backup degraders. With respect to both targets, Sanofi is responsible for development, manufacturing, and commercialization of product candidates after a specified development milestone occurs with respect to each collaboration candidate.
+
+On November 15, 2022, we entered into an Amended and Restated Collaboration and License Agreement with Sanofi, or the Amended Sanofi Agreement, which amended the Original Sanofi Agreement to revise certain research terms and responsibilities set forth under the Original Sanofi Agreement. The Amended Sanofi Agreement also specifies details around the timing and number of Phase 2 trials required under the terms of the collaboration. The Amended Sanofi Agreement became effective on December 5, 2022.
+
+27
+
+We have an exclusive option, or Opt-In Right, exercisable on a collaboration-target-by-collaboration-target basis that will include the right to (i) to fund 50% of the United States development costs for collaboration products directed against such target in the applicable field of use and (ii) share equally in the net profits and net losses of commercializing collaboration products directed against such target in the applicable field of use in the United States. In addition, if we exercise the Opt-In Right, Sanofi will grant us an exclusive option, applicable to each collaboration target, which upon exercise will allow us to conduct certain co-promotion activities in the field in the United States.
+
+The Sanofi Agreement, unless earlier terminated, will expire on a product-by-product basis on the date of expiration of all payment obligations under the Sanofi Agreement with respect to such product. We or Sanofi may terminate the agreement upon the other party’s material breach or insolvency or for certain patent challenges. In addition, Sanofi may terminate the agreement for convenience or for a material safety event upon advance prior written notice, and we may terminate the agreement with respect to any collaboration candidate if, following Sanofi’s assumption of responsibility for the development, commercialization or manufacturing of collaboration candidates with respect to a particular target, Sanofi ceases to exploit any collaboration candidates directed to such target for a specified period.
+
+In consideration for the exclusive licenses granted to Sanofi under the Sanofi Agreement, Sanofi paid to us an upfront payment of $150.0 million. In addition to the upfront payment, under the agreement we were eligible to receive certain development milestone payments of up to $1.48 billion, and commercial milestone payments of up to $700.0 million, in the aggregate. We will further be eligible to receive tiered royalties on net sales ranging from the high single digits to high teens, subject to low-single digits upward adjustments in certain circumstances. As of June 30, 2026, we have achieved $95.0 million of milestones under the Sanofi Agreement related to certain IRAK4 clinical and preclinical milestones.
+
+Additionally with respect to Sanofi, on December 2, 2022, Sanofi provided us with written notice of its intention to advance the collaboration target 1 candidate, KT-474, into Phase 2 clinical trials for which we received milestone payments as further set forth in the Amended Sanofi Agreement. Phase 2 clinical trials of KT-474 are initially investigating its potential in HS and AD with the clinical trial for both indications having been initiated and commenced dosing in 2023.
+
+In June 2025, Sanofi communicated its decision to exercise its full participation election under the terms of the companies’ collaboration agreement, and to advance KT-485/SAR447971, into clinical testing. As a result, Sanofi stopped development of KT-474. In June 2026, Sanofi informed us that the first participant was dosed in the first-in-human Phase 1 clinical trial evaluating KT-485/SAR447971, resulting in the achievement of a $20 million milestone.
+
+In connection with the IRAK4 program, we remain eligible to receive up to an additional $955 million in development and commercial milestones upon the achievement of certain developmental or regulatory events and upon the achievement of certain net sales thresholds.
+
+In September 2023, we mutually agreed to cease activities related to the undisclosed second target and we are no longer eligible for the milestone and royalty payments associated with the second target.
+
+Operating expenses
+
+Our operating expenses since inception have consisted primarily of research and development expenses and general and administrative expenses.
+
+Research and development expenses
+
+Research and development expenses consist primarily of costs incurred in connection with the discovery and development of targeted protein degradation therapeutics. These research efforts and costs include external research costs, personnel costs, supplies, license fees and facility-related expenses. We expense research and development costs as incurred. These expenses include:
+
+•
+employee-related expenses, including salaries, related benefits and stock-based compensation expense, for employees engaged in research and development functions;
+
+•
+costs incurred under agreements with third parties, including contract research organizations, or CROs, and other third parties that conduct clinical trials and preclinical activities on our behalf;
+
+•
+contract manufacturing organizations, or CMOs, that are primarily engaged to provide drug substance and product for our preclinical research and development programs, nonclinical studies, clinical trials and other scientific development services;
+
+•
+the cost of acquiring and manufacturing clinical and nonclinical trial materials, including manufacturing registration and validation batches;
+
+28
+
+•
+facilities, depreciation and other expenses, which include direct and allocated expenses for rent and maintenance of facilities and insurance;
+
+•
+costs related to compliance with quality and regulatory requirements; and
+
+•
+payments made under third-party licensing agreements.
+
+Advance payments that we make for goods or services to be received in the future for use in research and development activities are recorded as prepaid expenses. Such amounts are recognized as an expense as the goods are delivered or the related services are performed, or until it is no longer expected that the goods will be delivered or the services rendered.
+
+Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect that our research and development expenses will increase substantially in connection with our planned clinical development activities in the near term and in the future. At this time, we cannot accurately estimate or know the nature, timing and costs of the efforts that will be necessary to complete the clinical development of any future product candidates.
+
+Our future clinical development costs may vary significantly based on factors such as:
+
+•
+per patient trial costs;
+
+•
+the number of trials required for approval;
+
+•
+the number of sites included in the trials;
+
+•
+the countries in which the trials are conducted;
+
+•
+the length of time required to enroll eligible patients;
+
+•
+the number of patients that participate in the trials;
+
+•
+the number of doses that patients receive;
+
+•
+the drop-out or discontinuation rates of patients;
+
+•
+potential additional safety monitoring requested by regulatory agencies;
+
+•
+the duration of patient participation in the trials and follow-up;
+
+•
+the cost and timing of manufacturing our product candidates;
+
+•
+the phase of development of our product candidates; and
+
+•
+the efficacy and safety profile of our product candidates.
+
+The successful development and commercialization of product candidates is highly uncertain. This is due to the numerous risks and uncertainties associated with product development and commercialization, including the following:
+
+•
+the timing and progress of nonclinical and clinical development activities;
+
+•
+the number and scope of nonclinical and clinical programs we decide to pursue;
+
+•
+the ability to raise necessary additional funds;
+
+•
+the progress of the development efforts of parties with whom we may enter into collaboration arrangements;
+
+•
+our ability to maintain our current development programs and to establish new ones;
+
+•
+our ability to establish new licensing or collaboration arrangements;
+
+•
+the successful initiation and completion of clinical trials with safety, tolerability and efficacy profiles that are satisfactory to the FDA or any comparable foreign regulatory authority;
+
+•
+the receipt and related terms of regulatory approvals from applicable regulatory authorities;
+
+•
+the availability of drug substance and drug product for use in production of our product candidates;
+
+•
+our ability to establish and maintain agreements with third-party manufacturers for clinical supply for our clinical trials and commercial manufacturing, if any of our product candidates are approved;
+
+29
+
+•
+our ability to obtain and maintain patents, trade secret protection and regulatory exclusivity, both in the United States and internationally;
+
+•
+our ability to protect our rights in our intellectual property portfolio;
+
+•
+our ability to obtain and maintain third-party insurance coverage and adequate reimbursement;
+
+•
+the acceptance of our product candidates, if approved, by patients, the medical community and third-party payors;
+
+•
+the impact of competition with other products;
+
+•
+the impact of any business interruptions to our operations, including the timing and enrollment of patients in our planned clinical trials, or to those of our manufacturers, suppliers, or other vendors resulting from a future pandemic or similar public health crisis; and
+
+•
+our ability to maintain a continued acceptable safety profile for our therapies following approval.
+
+A change in the outcome of any of these variables with respect to the development of our product candidates could significantly change the costs and timing associated with the development of that product candidate. We may never succeed in obtaining regulatory approval for any of our product candidates.
+
+General and administrative expenses
+
+General and administrative expenses consist primarily of salaries and related costs for personnel in executive, finance, corporate and business development, and administrative functions. General and administrative expenses also include legal fees relating to patent and corporate matters, professional fees for accounting, auditing, tax and administrative consulting services, insurance costs, administrative travel expenses, marketing expenses and other operating costs.
+
+We anticipate that our general and administrative expenses will increase in the future as we increase our headcount to support development of our product candidates and our continued research activities. We also anticipate that we will incur increased accounting, audit, legal, regulatory, compliance and director and officer insurance costs as well as legal, investor and public relations expenses associated with being a public company.
+
+Other Income (Expense)
+
+Interest and other income and expense, net
+
+Interest and other income and expense consists of interest earned on our invested cash balances and interest expense related to our financing leases.
+
+Results of Operations
+
+Comparison of three months ended June 30, 2026 and 2025
+
+The following table summarizes our results of operations for the three months ended June 30, 2026 and 2025:
+
+Three Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+(in thousands)
+
+Collaboration revenue
+
+$
+
+65,000
+
+$
+
+11,476
+
+$
+
+53,524
+
+Operating expenses:
+
+Research and development
+
+119,481
+
+78,388
+
+41,093
+
+General and administrative
+
+21,126
+
+17,645
+
+3,481
+
+Total operating expenses
+
+140,607
+
+96,033
+
+44,574
+
+Loss from operations
+
+(75,607
+
+)
+
+(84,557
+
+)
+
+8,950
+
+Other income, net
+
+14,396
+
+7,943
+
+6,453
+
+Net loss
+
+$
+
+(61,211
+
+)
+
+$
+
+(76,614
+
+)
+
+$
+
+15,403
+
+30
+
+Collaboration revenue
+
+We recognize revenue under our collaboration agreements based on our pattern of performance related to the respective identified performance obligations, which is the period over which we will perform research services under each of the respective agreements.
+
+Collaboration revenues were $65.0 million and $11.5 million for the three months ended June 30, 2026 and 2025, respectively. All of the revenue recognized for the three months ended June 30, 2026 is attributable to payments achieved under our collaboration agreements with Gilead and Sanofi. All of  the revenue recognized for the three months ended June 30, 2025 is attributable to our collaboration agreement with Sanofi.
+
+Research and development expenses
+
+The following table summarizes our research and development expenses for each period presented (program expenses are not disclosed prior to formal development candidate nomination):
+
+Three Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+(in thousands)
+
+External research and development costs:
+
+STAT6
+
+$
+
+45,672
+
+$
+
+22,193
+
+$
+
+23,479
+
+Other
+
+32,067
+
+23,339
+
+8,728
+
+Research and development compensation and related personnel expense
+
+27,901
+
+21,958
+
+5,943
+
+Research and development overhead and administrative costs
+
+13,841
+
+10,898
+
+2,943
+
+Total research and development expenses
+
+$
+
+119,481
+
+$
+
+78,388
+
+$
+
+41,093
+
+Research and development expenses were $119.5 million for the three months ended June 30, 2026, compared to $78.4 million for the three months ended June 30, 2025. The increase of $41.1 million was primarily due to a $23.5 million increase in costs related to our STAT6 program, a $8.9 million increase in personnel, equity-based compensation, occupancy, and other internal costs due to increased investment in employee talent and facilities in the research and development functions, and a $8.7 million increase in activities related to our non-STAT6 programs.
+
+General and administrative expenses
+
+General and administrative expenses were $21.1 million for the three months ended June 30, 2026, compared to $17.6 million for the three months ended June 30, 2025. This increase of $3.5 million was primarily due to an increase in legal and professional service fees, personnel, facility, occupancy, and other expenses to support our growth. Equity-based compensation expenses included in general and administrative expenses were $8.6 million and $7.4 million for the three months ended June 30, 2026 and 2025, respectively.
+
+Other Income, Net
+
+Other income, net was $14.4 million for the three months ended June 30, 2026, compared to $7.9 million for the three months ended June 30, 2025. The $6.5 million increase was primarily due to an increase in the cash, cash equivalents, and marketable securities balances resulting in higher interest income.
+
+31
+
+Comparison of six months ended June 30, 2026 and 2025
+
+The following table summarizes our results of operations for the six months ended June 30, 2026 and 2025:
+
+Six Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+(in thousands)
+
+Collaboration revenue
+
+$
+
+99,365
+
+$
+
+33,576
+
+$
+
+65,789
+
+Operating expenses:
+
+Research and development
+
+217,644
+
+158,643
+
+59,001
+
+General and administrative
+
+41,484
+
+33,916
+
+7,568
+
+Total operating expenses
+
+259,128
+
+192,559
+
+66,569
+
+Loss from operations
+
+(159,763
+
+)
+
+(158,983
+
+)
+
+(780
+
+)
+
+Other income, net
+
+29,318
+
+16,788
+
+12,530
+
+Net loss
+
+$
+
+(130,445
+
+)
+
+$
+
+(142,195
+
+)
+
+$
+
+11,750
+
+Collaboration revenue
+
+We recognize revenue under our collaboration agreements based on our pattern of performance related to the respective identified performance obligations, which is the period over which we will perform research services under each of the respective agreements.
+
+Collaboration revenues were $99.4 million and $33.6 million for the six months ended June 30, 2026 and 2025, respectively. The revenue recognized for the six months ended June 30, 2026 is attributable to our collaboration agreements with Gilead and Sanofi. All of  the revenue recognized for the six months ended June 30, 2025 is attributable to our collaboration agreement with Sanofi.
+
+Research and development expenses
+
+The following table summarizes our research and development expenses for each period presented (program expenses are not disclosed prior to formal development candidate nomination):
+
+Six Months Ended
+
+June 30,
+
+Change
+
+2026
+
+2025
+
+(in thousands)
+
+External research and development costs:
+
+STAT6
+
+$
+
+78,884
+
+$
+
+42,798
+
+$
+
+36,086
+
+Other
+
+57,028
+
+49,683
+
+7,345
+
+Research and development compensation and related personnel expense
+
+55,840
+
+44,007
+
+11,833
+
+Research and development overhead and administrative costs
+
+25,892
+
+22,155
+
+3,737
+
+Total research and development expenses
+
+$
+
+217,644
+
+$
+
+158,643
+
+$
+
+59,001
+
+Research and development expenses were $217.6 million for the six months ended June 30, 2026, compared to $158.6 million for the six months ended June 30, 2025. The increase of $59.0 million was primarily due to a $36.1 million increase in costs related to our STAT6 program, a $15.6 million increase in personnel, equity-based compensation, occupancy, and other internal costs due to increased investment in employee talent and facilities in the research and development functions, and a $7.3 million increase in activities related to our non-STAT6 programs.
+
+General and administrative expenses
+
+General and administrative expenses were $41.5 million for the six months ended June 30, 2026, compared to $33.9 million for the six months ended June 30, 2025. This increase of $7.6 million was primarily due to an increase in legal and professional service fees, personnel, facility, occupancy, and other expenses to support our growth. Equity-based compensation expenses included in general and administrative expenses were $16.0 million and $14.1 million for the six months ended June 30, 2026 and 2025, respectively.
+
+Other Income, Net
+
+Other income, net was $29.3 million for the six months ended June 30, 2026, compared to $16.8 million for the six months ended June 30, 2025. The $12.5 million increase was primarily due to an increase in the cash, cash equivalents, and marketable securities balances resulting in higher interest income.
+
+32
+
+Liquidity and capital resources
+
+We have not yet generated any revenue from any product sales, and we have incurred significant operating losses since our inception. We have not yet commercialized any products and we do not expect to generate revenue from sales of products for several years, if at all. Through June 30, 2026, we have received gross proceeds of $2.75 billion from sales of our convertible preferred stock, the sale of common stock including our August 2020 initial public offering, or IPO, and concurrent private placement, our follow-on offerings and private placement offering, our prior sales agreement with TD Securities (USA) LLC, or Cowen, and through our corporate collaborations. As of June 30, 2026, we had cash and cash equivalents and marketable securities of $1,505 million.
+
+In October 2021, we entered into a sales agreement, or Prior Cowen Sales Agreement, with Cowen, pursuant to which we were able to offer and sell shares of our common stock having aggregate gross proceeds of up to $250.0 million from time to time in “at-the-market” offerings through Cowen, as our sales agent. We agreed to pay Cowen a commission of up to 3.0% of the gross proceeds of any shares sold by Cowen under the Prior Cowen Sales Agreement. As of June 30, 2026, we have sold 1,519,453 shares of common stock under the Prior Cowen Sales Agreement resulting in gross proceeds of approximately $50 million. On October 30, 2024, Cowen acknowledged and accepted our prior written notice to terminate the Prior Cowen Sales Agreement, which termination was effective on October 30, 2024. As a result of such termination, we will not offer or sell any additional shares of common stock under the Prior Cowen Sales Agreement.
+
+On October 31, 2024, we entered into an Open Market Sale AgreementSM, or Jefferies Sales Agreement, with Jefferies LLC, or Jefferies, pursuant to which we were able to offer and sell shares of our common stock having aggregate gross proceeds of up to $300.0 million from time to time in “at-the-market” offerings through Jefferies, as our sales agent. We agreed to pay Jefferies a commission of up to 3.0% of the gross proceeds of any shares sold by Jefferies under the Sales Agreement. On February 26, 2026, Jefferies acknowledged and accepted our prior written notice to terminate the Jefferies Sales Agreement, which termination was effective on February 26, 2026. As a result of such termination, we will not offer or sell any additional shares of common stock under the Jefferies Sales Agreement and as of its termination, we had not sold any shares of its common stock under the Jefferies Sales Agreement.
+
+On February 26, 2026, we entered into a sales agreement, or Cowen Sales Agreement, with Cowen, pursuant to which we may offer and sell shares of our common stock having aggregate gross proceeds of up to $500.0 million from time to time in “at-the-market” offerings through Cowen, as our sales agent. We agreed to pay Cowen a commission of up to 3.0% of the gross proceeds of any shares sold by Cowen under the Cowen Sales Agreement. As of June 30, 2026, we have not sold any shares of common stock under the Cowen Sales Agreement.
+
+Cash flows
+
+The following table summarizes our sources and uses of cash for each of the periods presented:
+
+Six Months Ended
+
+June 30,
+
+2026
+
+2025
+
+(in thousands)
+
+Cash used in operating activities
+
+$
+
+(142,905
+
+)
+
+$
+
+(139,034
+
+)
+
+Cash provided by (used in) investing activities
+
+(122,795
+
+)
+
+108,636
+
+Cash provided by financing activities
+
+33,188
+
+245,984
+
+Net decrease in cash, cash equivalents and restricted cash
+
+$
+
+(232,512
+
+)
+
+$
+
+215,586
+
+Cash Flow used in Operating Activities
+
+During the six months ended June 30, 2026, cash used in operating activities was $142.9 million, primarily resulting from our net loss of $130.4 million during the period and a $46.4 million net decrease in other operating assets and liabilities primarily driven by changes in contract assets, deferred revenue, accounts payable, accrued expenses and operating lease liabilities. This was partially offset by adjustments for non-cash items of $33.9 million primarily consisting of stock-based compensation, depreciation & amortization and premiums & discounts on available-for sale-securities.
+
+During the six months ended June 30, 2025, cash used in operating activities was $139.0 million, primarily resulting from our net loss of $142.2 million during the period and  a $26.0 million net decrease in other operating assets and liabilities primarily driven by changes in contract assets, deferred revenue, accounts payable, accrued expenses and operating lease liabilities. This was partially offset by adjustments for non-cash items of $29.1 million (primarily consisting of stock-based compensation, depreciation & amortization and premiums & discounts on available-for-sale securities).
+
+33
+
+Cash Flow provided by Investing Activities
+
+During the six months ended June 30, 2026, cash used in investing activities was $122.8 million comprised of purchases of marketable securities of $390.9 million, partially offset by maturities of marketable securities of $269.0 million and purchases of property and equipment of $0.9 million.
+
+During the six months ended June 30, 2025, cash provided by investing activities was $108.6 million comprised of maturities of marketable securities of $251.7 million, partially offset by purchases of marketable securities of $141.9 million and purchases of property and equipment of $1.2 million.
+
+Cash Flow provided by Financing Activities
+
+During the six months ended June 30, 2026, net cash provided by financing activities was $33.2 million, consisting of $32.6 million in proceeds from the exercise of employee stock options and $1.5 million from issuance of shares under our employee stock purchase plan,  partially offset by finance lease payments of $0.9 million.
+
+During the six months ended June 30, 2025, net cash provided by financing activities was $246.0 million, consisting of $237.3 million in proceeds from the issuance of common stock and accompanying pre-funded warrants, net of offering costs, $8.2 million in proceeds from the exercise of employee stock options, $1.1 million of proceeds from our employee stock purchase plan, partially offset by finance lease payments of $0.7 million.
+
+Future funding requirements
+
+We expect our expenses to increase substantially in connection with our ongoing activities, particularly as we advance the later-stage clinical development of our product candidates. In addition, we expect to incur additional costs associated with operating as a public company.
+
+Because of the numerous risks and uncertainties associated with the development of our product candidates and programs and because the extent to which we may enter into collaborations with third parties for development of our product candidates is unknown, we are unable to estimate the timing and amounts of increased capital outlays and operating expenses associated with completing the research and development of our product candidates. The timing and amount of our operating expenditures will depend largely on:
+
+•
+the initiation, progress, timing, costs and results of nonclinical studies and clinical trials for our product candidates or any future product candidates we may develop;
+
+•
+our ability to maintain our relationships with key collaborators;
+
+•
+the outcome, timing and cost of seeking and obtaining regulatory approvals from the FDA and comparable foreign regulatory authorities, including the potential for such authorities to require that we perform more nonclinical studies or clinical trials than those that we currently expect or change their requirements on studies that had previously been agreed to;
+
+•
+the cost to establish, maintain, expand, enforce and defend the scope of our intellectual property portfolio, including the amount and timing of any payments we may be required to make, or that we may receive, in connection with licensing, preparing, filing, prosecuting, defending and enforcing any patents or other intellectual property rights;
+
+•
+the effect of competing technological and market developments;
+
+•
+the costs of continuing to grow our business, including hiring key personnel and maintaining or acquiring operating space;
+
+•
+the degree of market acceptance of any approved product candidates, including product pricing, as well as product coverage and the adequacy of reimbursement by third-party payors;
+
+•
+the cost of acquiring, licensing or investing in additional businesses, products, product candidates and technologies;
+
+•
+the cost and timing of selecting, auditing and potentially validating a manufacturing site for commercial-scale manufacturing;
+
+•
+the cost of establishing sales, marketing and distribution capabilities for any product candidates for which we may receive regulatory approval and that we determine to commercialize; and
+
+•
+our need to implement additional internal systems and infrastructure, including financial and reporting systems.
+
+34
+
+We believe the existing cash, cash equivalents and marketable securities of $1,505 million as of June 30, 2026, will enable us to fund our operating expenses and capital expenditure requirements into 2029. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect. We expect that we will require additional funding to continue the clinical development of our clinical programs, commercialize our product candidates if we receive regulatory approval, and pursue in-licenses or acquisitions of other product candidates. If we receive regulatory approval for any of our product candidates, we expect to incur significant commercialization expenses related to product manufacturing, sales, marketing and distribution, depending on where we choose to commercialize our product candidates.
+
+Identifying potential product candidates and conducting preclinical studies and clinical trials is a time consuming, expensive and uncertain process that takes years to complete, and we may never generate the necessary data or results required to obtain marketing approval and achieve product sales. In addition, our product candidates, if approved, may not achieve commercial success. Our commercial revenues, if any, will be derived from sales of products that we do not expect to be commercially available for many years, if ever. Accordingly, we will need to obtain substantial additional funds to achieve our business objectives.
+
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our cash needs through a combination of equity offerings, debt financings, collaborations, strategic alliances, and marketing, distribution or licensing arrangements with third parties. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. Market volatility resulting from macroeconomic factors could also adversely impact our ability to access capital as and when needed. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interests of our existing stockholders may be materially diluted, and the terms of such securities could include liquidation or other preferences that adversely affect the rights of our common stockholders. Debt financing and preferred equity financing, if available, may involve agreements that include restrictive covenants that limit our ability to take specified actions, such as incurring additional debt, making capital expenditures or declaring dividends. If we raise funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings or other arrangements when needed, we may be required to delay, reduce or eliminate our product development or future commercialization efforts, or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+
+As of June 30, 2026, we had outstanding pre-funded warrants to purchase 15,815,253 shares of common stock, each with an exercise price of $0.0001 per share. These warrants can be exercised at any time at the discretion of the holders, subject to certain ownership limitations. While the potential exercise of these pre-funded warrants would result in the issuance of additional shares, thus increasing the total shares outstanding, their nominal exercise price means they are already considered outstanding for purposes of calculating our weighted average common stock outstanding and earnings per share. Due to the minimal exercise price, we do not anticipate significant additional cash proceeds upon exercise and consequently does not expect the exercise of these warrants to materially affect its liquidity, capital resources, or overall financial condition.
+
+Contractual Obligations and Other Commitments
+
+There were no material changes to our contractual obligations and commitments described under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+
+Critical Accounting Policies and Estimates
+
+Our management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as the reported expenses incurred during the reporting periods. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. During the six months ended June 30, 2026, there were no material changes to our critical accounting policies from those described in our Annual Report Form 10-K filed with the SEC on February 26, 2026.
+
+35

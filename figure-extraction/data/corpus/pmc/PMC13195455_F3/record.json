@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13195455_F3",
+  "figure_type": "spider",
+  "title": "Lenvatinib in radioiodine-refractory differentiated thyroid cancer: a real-world institutional analysis.",
+  "caption": "Spider plot showing the percent change in maximum tumor diameter from baseline in all patients treated with lenvatinib ( n  = 44) Each line represents the best percentage change in the largest measurable tumor for an individual patient. Baseline tumor burden: median tumor size by RECIST, 45.0 mm (range, 26.4–124.0); median diameter of the single largest lesion, 26.1 mm (15.2–124.0). Best overall response: CR 1, PR 22, SD 19, PD 2; ORR 52.3%; DCR 95.5%. Median maximum tumor change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. The red triangles indicate the time points when treatment was switched from lenvatinib to BRAF/MEK inhibitors, and the blue triangles indicate when treatment was switched from BRAF/MEK inhibitors to lenvatinib. Abbreviations : CR, complete response; PR, partial response; SD, stable disease; PD, progressive disease; ORR, objective response rate; DCR, disease control rate; mos., months; LEN, lenvatinib; BRAF/MEK, BRAF/MEK inhibitor.",
+  "context": "Spider plot showing the percent change in maximum tumor diameter from baseline in all patients treated with lenvatinib ( n  = 44) Each line represents the best percentage change in the largest measurable tumor for an individual patient. Baseline tumor burden: median tumor size by RECIST, 45.0 mm (range, 26.4–124.0); median diameter of the single largest lesion, 26.1 mm (15.2–124.0). Best overall response: CR 1, PR 22, SD 19, PD 2; ORR 52.3%; DCR 95.5%. Median maximum tumor change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. The red triangles indicate the time points when treatment was switched from lenvatinib to BRAF/MEK inhibitors, and the blue triangles indicate when treatment was switched from BRAF/MEK inhibitors to lenvatinib. Abbreviations : CR, complete response; PR, partial response; SD, stable disease; PD, progressive disease; ORR, objective response rate; DCR, disease control rate; mos., months; LEN, lenvatinib; BRAF/MEK, BRAF/MEK inhibitor.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13195455/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-01-22",
+  "retrieved_at": "2026-09-07T13:15:19.984738+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "3",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "change: –28.8% (range, –100 to +335.8). Median time to first response: 3 months. The red triangles indicate the time po",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13195455",
+    "pmid": "41565294",
+    "journal": "Endocrine journal",
+    "fig_label": "Fig. 3"
+  },
+  "image_hash": "beebc7643431caef25304328f617433486fb256a222374e708919f54de05a0d9",
+  "image_file": "image.jpg"
+}

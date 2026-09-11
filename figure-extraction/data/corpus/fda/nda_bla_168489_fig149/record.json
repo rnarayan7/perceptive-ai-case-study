@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig149",
+  "figure_type": "unknown",
+  "title": "nda_bla_168489 figure 149",
+  "caption": "",
+  "context": "7. Sources of Clinical Data\n\f\n\f\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.078636+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "71931265cae92cd4ff0eb6a179c6b96b3ce3e63498470db24316193001ed3513",
+  "image_file": "image.png"
+}

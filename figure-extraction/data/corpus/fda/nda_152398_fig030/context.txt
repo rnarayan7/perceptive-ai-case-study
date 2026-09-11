@@ -1,0 +1,75 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 6                    Proposed Biotransformation Pathway for Belumosudil in Humans
+
+                                                                                                  Metabolism of KD025
+                                                                                                    CYP3A4/5 41.9%
+                                                                                                     CYP2D6 21.7%
+                                                                                                     CYP2C8 14.2%
+                                                                                                      CYP1A2 <5%
+                                                                                                     CYP2C19 <5%
+                                                                                                        UGT1A9
+
+
+
+                                                               H                                                           H                                                               H
+                                                               N                                                           N                                                               N
+                                                                   N                                                           N                                                               N
+                                          HN                                                                  HN                                                           HN                                          glucuronide
+
+                                               N                                                                   N                                                               N                   O
+                                                                   OH                                                          OH                                                              O
+                                           N                                                                   N                                                               N                           N
+                                                                                                                                                                                                           H
+                                                                           +SO3
+
+
+
+                       O-dealkylated belumosudil sulfate                                         O-dea kylated belumosudil                                           belumosudil glucuronide
+                  11.5% (plasma), 5.0% (urine), 34.7% (feces)*                                         <2% (plasma)                                               14.6% (plasma), 72.8% (urine)
+
+
+                                                                                                                                             (UGT)1A9
+
+
+                                                               +2O
+                                                   H                                                                   H                                                               H
+                                                   N                                                                   N                                                               N
+                                                       N                                                                   N                     CYP3A4/5                                  N
+                                                                                                                                                                                                           (UGT)1A1
+                                 HN                                                                      HN                                       CYP2C8                HN
+
+                                      N                         O                                             N                    O             CYP2C19                       N                   O
+                                                       O                                                                   O                                                               O
+                                  N                                    N                                  N                             N                                  N                           OH
+                                                                       H                                                                H
+
+
+
+                            dihydroxy belumosudil                                                  belumosudil (KD025)                                                     KD025m2
+                          7.8% (urine), 4.2% (feces)                                           64.2% (plasma), 29.6% (feces)                              11.5% (plasma), 5.0% (urine), 34.7% (feces)*
+
+
+
+                                                                                                                                                                  CYP3A4
+                                                                                                                                                                  CYP2C8
+
+                                           H                                                     H                                                    H
+                                                                                                 N                                                    N                                                        H
+                                           N                                                                                                                                                                   N
+                                               N                                                     N                                                    N                                                        N
+                            HN                                                        HN                                                    HN                                             HN
+
+                                 N                         O                               N              O                                      N            O                                    N                   O
+                                               O                                                     O                                                    O
+                                                                                       N                       N                             N                    N                                                O
+                 +O          N                                 N                                               H                                                                               N                           NH2
+                                                               H                                                                                                  H
+                                                                           +2O, +2H                                                +O
+
+
+
+                        monohydroxy belumosudil                                       belumosudil diol                                  monohydroxy belumosudil                         KD025m1
+              

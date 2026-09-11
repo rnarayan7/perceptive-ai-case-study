@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17588630",
+  "title": "FAERS report 17588630: Medical device implantation, Peripheral swelling, Decreased appetite",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17588630",
+  "published": "2020-04-30",
+  "retrieved_at": "2026-09-08T08:40:57.628743+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": false,
+    "reactions": [
+      "Medical device implantation",
+      "Peripheral swelling",
+      "Decreased appetite",
+      "Swelling face",
+      "Nausea"
+    ],
+    "drugs": [
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "8fc31444897e1fa23e0f7c5c70e75b9793e2f8fbeb6f587511e886190deb867b"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 17890512 (comparator: ripretinib)
+Serious: yes
+Reactions: Inappropriate schedule of product administration, Malaise, Death
+Reported drugs: QINLOCK

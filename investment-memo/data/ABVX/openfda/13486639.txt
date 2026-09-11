@@ -1,0 +1,4 @@
+FAERS adverse-event report 13486639 (comparator: upadacitinib)
+Serious: no
+Reactions: Nausea, Diarrhoea, Abdominal pain upper, Insulin-like growth factor abnormal, Fatigue, Nasopharyngitis, Infection
+Reported drugs: SOMAVERT, SOMAVERT, SOMAVERT, SOMAVERT, RINVOQ, LANREOTIDE

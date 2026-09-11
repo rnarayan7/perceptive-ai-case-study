@@ -1,0 +1,33 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05407727",
+  "title": "A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy",
+  "url": "https://clinicaltrials.gov/study/NCT05407727",
+  "published": "2022-06-07",
+  "retrieved_at": "2026-09-07T12:53:43.591117+00:00",
+  "metadata": {
+    "phases": [],
+    "overall_status": "COMPLETED",
+    "study_type": "OBSERVATIONAL",
+    "conditions": [
+      "SCN2A-DEE",
+      "Epilepsy"
+    ],
+    "interventions": [],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 5,
+    "start_date": "2022-04-15",
+    "primary_completion_date": "2023-03-31",
+    "completion_date": "2023-03-31",
+    "first_posted_date": "2022-06-07",
+    "primary_outcomes": [
+      {
+        "measure": "Assess disease burden and any variation in disease progression over time, as reflected by electrographic seizures, interictal epileptiform discharges (IEDs), and spectral features, as measured on at-home video electroencephalograms (vEEGs)",
+        "timeFrame": "Up to 12 months"
+      }
+    ]
+  },
+  "hash": "f5a37017eb7926b95de2f7bd67502b55c0b96bfbe60e39220a018618ef49c6e6"
+}

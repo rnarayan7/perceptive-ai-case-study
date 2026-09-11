@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13390668_f0001",
+  "figure_type": "kaplan_meier",
+  "title": "Survival Outcomes and Prognostic Factors in Patients with Metastatic Colorectal Cancer Treated First-Line mFOLFOXIRI Plus Bevacizumab: A Real-World Study in Vietnam.",
+  "caption": "Kaplan–Meier curves for survival outcomes in the study population. ( A ) Progression-free survival. ( B ) Overall survival. Tick marks indicate censored observations. Numbers at risk are presented below the x-axis.",
+  "context": "Kaplan–Meier curves for survival outcomes in the study population. ( A ) Progression-free survival. ( B ) Overall survival. Tick marks indicate censored observations. Numbers at risk are presented below the x-axis. Estimated PFS and OS are shown in Figure 1A and B , respectively.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13390668/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-18",
+  "retrieved_at": "2026-09-07T12:50:27.058939+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13390668",
+    "pmid": "42487982",
+    "journal": "OncoTargets and therapy",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "cc8a40ff0cf0cfdfafb30b454afd9b5df1c030da4a7d20d06cb56d176fb3fcb2",
+  "image_file": "image.jpg"
+}

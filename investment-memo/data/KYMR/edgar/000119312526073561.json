@@ -1,0 +1,23 @@
+{
+  "company": "KYMR",
+  "source": "edgar",
+  "doc_type": "8-K",
+  "doc_id": "000119312526073561",
+  "title": "Kymera Therapeutics, Inc. 8-K (2026-02-26)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526073561/0001193125-26-073561-index.htm",
+  "published": "2026-02-26",
+  "retrieved_at": "2026-09-08T10:06:18.100099+00:00",
+  "metadata": {
+    "accession": "0001193125-26-073561",
+    "cik": 1815442,
+    "form": "8-K",
+    "primary_document": "d114045d8k.htm",
+    "primary_doc_description": "8-K",
+    "report_date": "2026-02-26",
+    "filing_date": "2026-02-26",
+    "items": "1.01,1.02,8.01,9.01",
+    "company_title": "Kymera Therapeutics, Inc.",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526073561/d114045d8k.htm"
+  },
+  "hash": "c6d0bab89c564c61c67f5caa76df57e0b9b124f40ca7e4d6f524e806d1f6878e"
+}

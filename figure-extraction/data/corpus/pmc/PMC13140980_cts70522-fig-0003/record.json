@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13140980_cts70522-fig-0003",
+  "figure_type": "pk_logscale",
+  "title": "Population-Based Modeling to Predict Human PK/PD of TAK-500, an Anti-CCR2 Antibody-Drug Conjugate for First-in-Human Study in Cancer Patients.",
+  "caption": "TAK‐202 population PK‐RO model in human. (A) Observed serum concentration of the parental CCR2 antibody (TAK‐202) in human post intravenous administration. (B) The model structure represents the population PK‐RO model of the parental antibody (TAK‐202) linking the PK profiles with the CCR2 receptor occupancy on classical monocytes. (C–H) The plots represent overlay of observed versus model predicted PK profile in human population when administered intravenously for 1 h with TAK‐202, dosed at 0.1, 0.3, 1, 3, 6, 10 mg/kg. (I–N) The plots represent overlay of observed vs. model predicted unbound CCR2 receptors on the surface of monocytes in human population when administered with TAK‐202, dosed at 0.1, 0.3, 1, 3, 6, 10 mg/kg, given intravenously for 1 h. Prediction intervals (95% PI) are calculated from 1000 simulations. Ac, estimated amount of TAK‐202 in the central compartment; At, model estimated amount of TAK‐202 in the peripheral compartment; Cp, plasma concentration of TAK‐202;  E \n max , maximal receptor occupancy; IC 50 , concentration of anti‐CCR2 antibody driving 50% of receptor occupancy; IV, intravenous(ly); kel, central compartmental elimination rate constant; kin, rate constant representing the distribution of monocytes from plasma to tissue; Km, drug concentration at 50% of maximal elimination rate; kout, rate constant representing the distribution of monocytes from tissue to plasma; kpt, distribution rate constant from plasma to tissue; ktp, distribution rate constant from tissue to plasma; MESF, molecules of equivalent soluble fluorophore; RO 0 , baseline receptor occupancy; Vc, central volume of distribution;  V \n max , maximal elimination rate; Vt, peripheral volume of distribution.",
+  "context": "TAK‐202 population PK‐RO model in human. (A) Observed serum concentration of the parental CCR2 antibody (TAK‐202) in human post intravenous administration. (B) The model structure represents the population PK‐RO model of the parental antibody (TAK‐202) linking the PK profiles with the CCR2 receptor occupancy on classical monocytes. (C–H) The plots represent overlay of observed versus model predicted PK profile in human population when administered intravenously for 1 h with TAK‐202, dosed at 0.1, 0.3, 1, 3, 6, 10 mg/kg. (I–N) The plots represent overlay of observed vs. model predicted unbound CCR2 receptors on the surface of monocytes in human population when administered with TAK‐202, dosed at 0.1, 0.3, 1, 3, 6, 10 mg/kg, given intravenously for 1 h. Prediction intervals (95% PI) are calculated from 1000 simulations. Ac, estimated amount of TAK‐202 in the central compartment; At, model estimated amount of TAK‐202 in the peripheral compartment; Cp, plasma concentration of TAK‐202;  E \n max , maximal receptor occupancy; IC 50 , concentration of anti‐CCR2 antibody driving 50% of receptor occupancy; IV, intravenous(ly); kel, central compartmental elimination rate constant; kin, rate constant representing the distribution of monocytes from plasma to tissue; Km, drug concentration at 50% of maximal elimination rate; kout, rate constant representing the distribution of monocytes from tissue to plasma; kpt, distribution rate constant from plasma to tissue; ktp, distribution rate con",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13140980/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T13:11:54.225476+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13140980",
+    "pmid": "41888610",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "f232da8a1ee6c12020f10a0e7804b1b853b4b8c98ce9fc64e4e6a0d31851bfe8",
+  "image_file": "image.jpg"
+}

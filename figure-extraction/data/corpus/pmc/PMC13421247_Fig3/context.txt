@@ -1,0 +1,1 @@
+Overlay of model calibration (blue solid line) to the protein biodistribution raw data at different tissue sites (shown as red asterisks)

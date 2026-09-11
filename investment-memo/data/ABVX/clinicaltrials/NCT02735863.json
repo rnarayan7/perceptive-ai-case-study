@@ -1,0 +1,43 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02735863",
+  "title": "ABX464 in Fully Controlled HIV Infected Patients Treated With Boosted Protease Inhibitor Treatment",
+  "url": "https://clinicaltrials.gov/study/NCT02735863",
+  "published": "2016-04-13",
+  "retrieved_at": "2026-09-07T12:53:29.793591+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "HIV Infection"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 30,
+    "start_date": "2016-05",
+    "primary_completion_date": "2017-08-30",
+    "completion_date": "2018-01-11",
+    "first_posted_date": "2016-04-13",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Participants With Adverse Events",
+        "timeFrame": "Up to 4 months"
+      }
+    ]
+  },
+  "hash": "2ffb62b6c8cc6ba7f6a08efba597d943d12a5472cb10a74f99596c3e0f55a132"
+}

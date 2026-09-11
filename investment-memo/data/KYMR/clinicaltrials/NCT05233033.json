@@ -1,0 +1,62 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05233033",
+  "title": "Safety, PK/PD, and Clinical Activity of KT-413 in Adult Patients with Relapsed or Refractory B-cell NHL",
+  "url": "https://clinicaltrials.gov/study/NCT05233033",
+  "published": "2022-02-10",
+  "retrieved_at": "2026-09-07T06:57:16.413401+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Non Hodgkin Lymphoma",
+      "Diffuse Large B Cell Lymphoma",
+      "DLBCL",
+      "MYD88 Gene Mutation"
+    ],
+    "interventions": [
+      {
+        "name": "KT-413",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 7,
+    "start_date": "2022-06-13",
+    "primary_completion_date": "2023-07-28",
+    "completion_date": "2023-07-28",
+    "first_posted_date": "2022-02-10",
+    "primary_outcomes": [
+      {
+        "measure": "To establish the Maximum Tolerated Dose (MTD)",
+        "timeFrame": "Within first 3 weeks of treatment"
+      },
+      {
+        "measure": "Number of Participants with protocol specified Dose Limiting Toxicities (DLTs)",
+        "timeFrame": "Within first 3 weeks of treatment"
+      },
+      {
+        "measure": "Dose recommended for future studies",
+        "timeFrame": "Within first 3 weeks of treatment"
+      },
+      {
+        "measure": "Clinical Laboratory Abnormalities",
+        "timeFrame": "Clinical laboratory abnormalities will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "Adverse Event Parameters",
+        "timeFrame": "Adverse Event Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "ECG Parameters",
+        "timeFrame": "ECG Parameters will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      }
+    ]
+  },
+  "hash": "a9b696d22f59138ead6a375ad3f099bcc9aaad82758a61ed5fc0f3045691879c"
+}

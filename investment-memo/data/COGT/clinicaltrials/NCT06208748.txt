@@ -1,0 +1,13 @@
+Title: SARC044: A Phase II Trial of Bezuclastinib in Combination With Sunitinib in Patients With GIST
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Sarcoma Alliance for Research through Collaboration
+Conditions: Gastrointestinal Stromal Tumors, GIST
+Interventions: Bezuclastinib in combination with sunitinib (DRUG)
+Enrollment: 40
+
+Summary: This is an open label, single arm, phase 2 trial investigating bezuclastinib plus sunitinib in patients with GIST who have previously progressed on sunitinib.
+
+Primary outcomes:
+- To estimate the median progression free survival (mPFS) (time frame: From the time of first dose to the occurrence of disease progression (as accessed by mRECIST v1.1) or death due to any cause prior to documented disease progression, up to 2 years..)

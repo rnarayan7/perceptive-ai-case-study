@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13381212_f2",
+  "figure_type": "kaplan_meier",
+  "title": "The effects of brain radiotherapy combined with immunotherapy and chemotherapy for driver gene-negative non-small-cell lung cancer with brain metastases.",
+  "caption": "Kaplan–Meier curves for system therapy (RT+CT+ICI vs. RT+CT).  (A)  OS of the two groups;  (B)  IPFS of the two groups;  (C)  PFS of the two groups. RT, radiotherapy; CT, chemotherapy; ICI, Immune checkpoint inhibitor; IPFS, Intracranial progression-free survival; OS, Overall survival; PFS, Progression-free survival.",
+  "context": "Kaplan–Meier curves for system therapy (RT+CT+ICI vs. RT+CT).  (A)  OS of the two groups;  (B)  IPFS of the two groups;  (C)  PFS of the two groups. RT, radiotherapy; CT, chemotherapy; ICI, Immune checkpoint inhibitor; IPFS, Intracranial progression-free survival; OS, Overall survival; PFS, Progression-free survival. The mOS was 15.0 months (95% CI 13.43–19.41) for patients in the CT+RT group and 19.6 months (95% CI 17.31–30.00) for patients in the RT+CT+ICI group, showing a significant difference (HR 0.57, 95%CI 0.41–0.79, P < 0.001, Figure 2A ). The mIPFS was 8.17 months (95% CI 6.87–12.40) for patients in the CT+RT group and 11.17 months (95% CI 9.09–13.80) for patients in the RT+CT+ICI group (HR 0.73, 95%CI 0.53–1, P = 0.047, Figure 2B ). The mPFS in the CT+RT group was 6.87 months (95% CI 5.74–8.16), whereas in the RT+CT+ICI group, it was 8.73 months (95% CI 7.55–9.74) (HR 0.72, 95%CI 0.55–0.96, P = 0.022, Figure 2C ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13381212/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-06",
+  "retrieved_at": "2026-09-07T12:54:23.908003+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.57 (95% CI 0.41-0.79)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "roup, showing a significant difference (HR 0.57, 95%CI 0.41–0.79, P < 0.001, Figure 2A ). The mIPFS was",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.72 (95% CI 0.55-0.96)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "it was 8.73 months (95% CI 7.55–9.74) (HR 0.72, 95%CI 0.55–0.96, P = 0.022, Figure 2C ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13381212",
+    "pmid": "42518814",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "9017e29f890618cf3f0faa9b201df78d516a6c97048bcb2f772cc3269074295d",
+  "image_file": "image.jpg"
+}

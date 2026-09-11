@@ -1,0 +1,14 @@
+Title: First-in-human Study of Orally Administered KT-579 in Healthy Adult Participants
+Status: RECRUITING
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Healthy Participants
+Interventions: KT-579 (DRUG), Placebo (DRUG)
+Enrollment: 96
+
+Summary: This is a first-in-human study to evaluate safety and tolerability, pharmacokinetics, and pharmacodynamics of single and multiple dose levels of KT-579 in healthy male and female adult participants.
+
+Primary outcomes:
+- Incidence of adverse events (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))
+- Incidence of serious adverse events (time frame: From enrollment through the safety follow-up visit on either Day 14 (SAD) or Day 38 (MAD))

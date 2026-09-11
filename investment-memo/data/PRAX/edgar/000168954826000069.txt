@@ -1,0 +1,121 @@
+FALSE000168954800016895482026-06-292026-06-29
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 29, 2026
+
+PRAXIS PRECISION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-39620
+
+47-5195942
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+Praxis Precision Medicines, Inc.
+
+99 High Street, 30th Floor
+
+Boston, Massachusetts02110
+
+(Address of principal executive offices, including zip code)
+
+(617) 300-8460
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trade
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+PRAX
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01.  Other Events.
+
+On June 29, 2026, Praxis Precision Medicines, Inc. (the “Company”) announced that the U.S. Food and Drug Administration (the “FDA”) notified the Company that it has extended by three months the review period for its New Drug Application (“NDA”) for relutrigine for the treatment of SCN2A and SCN8A developmental and epileptic encephalopathies (“DEEs”), setting an updated PDUFA target action date from September 27, 2026 to December 27, 2026. The extension follows the Company’s submission of additional sensitivity analyses of existing clinical data, which the FDA has deemed a “major amendment,” allowing additional time for the FDA to review. No new clinical studies were requested, and the FDA did not cite any safety or manufacturing concerns. The review remains active and ongoing, and the Company is continuing its preparations to bring relutrigine to a patient community with significant unmet need. The Company remains confident in the strength of the relutrigine application and continues to collaborate with the FDA to support the completion of its review.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other federal securities laws, including statements regarding the anticipated timing of regulatory review and interactions and the commercial potential of the Company’s product candidates, including relutrigine. The forward-looking statements included in this Current Report on Form 8-K are subject to a number of risks, including, without limitation, uncertainties inherent in clinical trials and other risks as described in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 and other filings with the Securities and Exchange Commission. These statements are based only on facts currently known by the Company and speak only as of the date of this Current Report on Form 8-K. As a result, you are cautioned not to rely on these forward-looking statements and the Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PRAXIS PRECISION MEDICINES, INC.
+
+Date: June 29, 2026
+
+By:
+
+/s/ Marcio Souza
+
+Marcio Souza
+
+Chief Executive Officer

@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MT_AST01_NMBR_2019_2019_AGE65P",
+  "title": "Asthma - Montana - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T10:06:15.359802+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "Montana",
+    "location_abbr": "MT",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": null,
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "b0f6a85a11bb59c6cef5c49d1c412a0e4e84247dd408d3b0156c24b549efcf28"
+}

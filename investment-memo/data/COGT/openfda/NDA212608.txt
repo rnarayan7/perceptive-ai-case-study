@@ -1,0 +1,9 @@
+Drugs@FDA application NDA212608: AYVAKIT
+Sponsor: BLUEPRINT MEDICINES
+Active ingredient(s): AVAPRITINIB
+Brand name(s): AYVAKIT
+Application type: NDA
+Original approval date: 2020-01-09
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 6

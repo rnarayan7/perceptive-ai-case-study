@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NE_AST02_CRDPREV_2020_2020_MRC",
+  "title": "Asthma - Nebraska - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.574175+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Nebraska",
+    "location_abbr": "NE",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "19.7",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Multiracial, non-Hispanic"
+  },
+  "hash": "a7289c2094d4a7dacd50c006241e1c8d2df1cc22d5ad613cec2fe2d2b5667297"
+}

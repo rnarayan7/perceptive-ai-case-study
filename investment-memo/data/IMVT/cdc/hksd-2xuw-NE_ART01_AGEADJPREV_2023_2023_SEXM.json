@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NE_ART01_AGEADJPREV_2023_2023_SEXM",
+  "title": "Arthritis - Nebraska - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203900+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Nebraska",
+    "location_abbr": "NE",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "18.4",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "f8bcf7eef0f385b06cbd57cfd9c55aaf45c3a1ffdb6f4ad46323589cf1854243"
+}

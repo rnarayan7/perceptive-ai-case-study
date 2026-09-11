@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-LA_MEN02_CRDPREV_2021_2021_OVR",
+  "title": "Mental Health - Louisiana - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784861+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Louisiana",
+    "location_abbr": "LA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "24.5",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "9f7e4a52c45eedaaa9498e142373a693fb0e3f996dd4d48ad7f28d668159f6b0"
+}

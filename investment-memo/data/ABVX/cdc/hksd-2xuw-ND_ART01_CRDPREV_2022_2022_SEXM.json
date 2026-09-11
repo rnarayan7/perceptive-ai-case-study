@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-ND_ART01_CRDPREV_2022_2022_SEXM",
+  "title": "Arthritis - North Dakota - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002905+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "North Dakota",
+    "location_abbr": "ND",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "23.6",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "02527c351a3edebba86b098c187f04f76c706088cda56978c8ee965c6e06e8a6"
+}

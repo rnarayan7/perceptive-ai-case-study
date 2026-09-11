@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-US_AST01_AGEADJRATE_2021_2021_ASN",
+  "title": "Asthma - United States - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.853450+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "United States",
+    "location_abbr": "US",
+    "data_source": "NVSS",
+    "value_type": "Age-adjusted Rate",
+    "value_unit": "cases per 100,000",
+    "value": "0.7",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Asian, non-Hispanic"
+  },
+  "hash": "22615b2cdabf42688d589b25240db9d8934295b2c2a77855c1fabebd5ba37625"
+}

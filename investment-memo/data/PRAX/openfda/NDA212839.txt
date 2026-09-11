@@ -1,0 +1,9 @@
+Drugs@FDA application NDA212839: XCOPRI
+Sponsor: SK LIFE
+Active ingredient(s): CENOBAMATE
+Brand name(s): XCOPRI
+Application type: NDA
+Original approval date: 2019-11-21
+Review priority: STANDARD
+Marketing status: Prescription
+Submissions on record: 8

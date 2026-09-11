@@ -1,0 +1,73 @@
+Item 6. Exhibits.
+
+Exhibit
+
+Number
+
+Description
+
+10.1#
+
+Amended and Restated Non-Employee Director Compensation Policy dated June 24, 2026
+
+31.1
+
+Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+31.2
+
+Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+32.1*
+
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32.2*
+
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+101.INS
+
+Inline XBRL Instance Document
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema Document
+
+104
+
+Cover Page Interactive Data (formatted as Inline XBRL and contained in Exhibit 101)
+
+* This certification will not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section. Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, except to the extent specifically incorporated by reference into such filing.
+
+# Indicates a management contract or any compensatory plan, contract or arrangement.
+
+89
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Kymera Therapeutics, Inc.
+
+Date: August 5, 2026
+
+By:
+
+/s/ Nello Mainolfi, Ph.D.
+
+Nello Mainolfi, Ph.D.
+
+President and Chief Executive Officer
+
+Date: August 5, 2026
+
+By:
+
+/s/ Bruce Jacobs, CFA, MBA
+
+Bruce Jacobs, CFA, MBA
+
+Chief Financial Officer
+
+90

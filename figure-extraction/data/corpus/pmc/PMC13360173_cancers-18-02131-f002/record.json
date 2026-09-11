@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13360173_cancers-18-02131-f002",
+  "figure_type": "table",
+  "title": "Azacitidine Is Well-Tolerated and Is Associated with High Response Rate in Elderly Patients with Higher-Risk Myelodysplastic Syndromes: A Single Center Observational Study.",
+  "caption": "Response rates, represented in percentages, (%) to Azacitidine therapy in patients <75 and ≥75 years of age.",
+  "context": "Response rates, represented in percentages, (%) to Azacitidine therapy in patients <75 and ≥75 years of age. Efficacy Assessment Response rates and depth of response were comparable between the two subgroups, as shown in Figure 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13360173/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-07T13:29:40.119157+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13360173",
+    "pmid": "42449673",
+    "journal": "Cancers",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "a2c2c62aff8f443cc67603ef3fdc9acfd968d39be5147d990d2d70b1e30feb2b",
+  "image_file": "image.jpg"
+}

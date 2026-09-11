@@ -1,0 +1,7 @@
+Drug: MESALAMINE ER 0.375 GRAM CAP
+NDC: 50268057715
+NADAC per unit: $0.48654
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

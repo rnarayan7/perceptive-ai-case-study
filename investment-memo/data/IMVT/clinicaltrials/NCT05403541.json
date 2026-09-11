@@ -1,0 +1,51 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05403541",
+  "title": "Phase 3 Study to Assess the Efficacy and Safety of Batoclimab as Induction and Maintenance Therapy in Adult Participants With Generalized Myasthenia Gravis",
+  "url": "https://clinicaltrials.gov/study/NCT05403541",
+  "published": "2022-06-03",
+  "retrieved_at": "2026-09-07T12:53:37.941553+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Generalized Myasthenia Gravis"
+    ],
+    "interventions": [
+      {
+        "name": "Batoclimab 680 mg SC weekly",
+        "type": "DRUG"
+      },
+      {
+        "name": "Batoclimab 340 mg SC weekly",
+        "type": "DRUG"
+      },
+      {
+        "name": "Matching Placebo SC",
+        "type": "DRUG"
+      },
+      {
+        "name": "Batoclimab 340 mg SC bi-weekly",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 240,
+    "start_date": "2022-06-27",
+    "primary_completion_date": "2025-01-10",
+    "completion_date": "2027-02",
+    "first_posted_date": "2022-06-03",
+    "primary_outcomes": [
+      {
+        "measure": "Change from Baseline in Myasthenia Gravis Activities of Daily Living (MG-ADL) score in acetylcholine receptor (AChR) Ab seropositive (AChRAb+) participants",
+        "timeFrame": "Baseline (Day 1) to Week 12"
+      }
+    ]
+  },
+  "hash": "fc016e1f8aede069be59b84edd488a58c8107e8514b1b67fd15e999076b57abb"
+}

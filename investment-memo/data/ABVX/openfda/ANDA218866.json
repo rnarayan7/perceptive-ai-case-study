@@ -1,0 +1,31 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA218866",
+  "title": "Drugs@FDA ANDA218866: UPADACITINIB",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A218866",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:10.366705+00:00",
+  "metadata": {
+    "manufacturer": "AUROBINDO PHARMA LTD",
+    "brand_name": "UPADACITINIB",
+    "sponsor_name": "AUROBINDO PHARMA LTD",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "UPADACITINIB"
+    ],
+    "active_ingredients": [
+      "UPADACITINIB"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "e37c678930503f566ad511fecf70965cb01659be5193610eec39cc9d9d533a91"
+}

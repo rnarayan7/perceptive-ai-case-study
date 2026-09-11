@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13290652_cts70649-fig-0003",
+  "figure_type": "pk_logscale",
+  "title": "Model-Informed Development of a Subcutaneous Formulation of Tislelizumab: Phase 1 Pharmacokinetics in Patients With Cancer.",
+  "caption": "PCVPC of tislelizumab plasma concentration–time profiles with different administration routes: (a) subcutaneous abdomen, (b) subcutaneous thigh, and (c) intravenous. Points are observed concentrations, the solid red line represents the median observed value, and dashed red lines represent the 2.5th and 97.5th percentiles of the observed values. Pink shaded areas represent the spread of the median predicted values, and purple shaded areas represent the spread of the 2.5th and 97.5th predicted percentile concentrations. pcVPC, prediction‐corrected visual predictive check; TFDS, time after previous dose.",
+  "context": "PCVPC of tislelizumab plasma concentration–time profiles with different administration routes: (a) subcutaneous abdomen, (b) subcutaneous thigh, and (c) intravenous. Points are observed concentrations, the solid red line represents the median observed value, and dashed red lines represent the 2.5th and 97.5th percentiles of the observed values. Pink shaded areas represent the spread of the median predicted values, and purple shaded areas represent the spread of the 2.5th and 97.5th predicted percentile concentrations. pcVPC, prediction‐corrected visual predictive check; TFDS, time after previous dose. Across all administration routes—subcutaneous thigh, subcutaneous abdominal, and intravenous—the model adequately reproduced both the central tendency and variability of the observed plasma tislelizumab concentrations, demonstrating that the final PopPK model reliably captured the distribution of tislelizumab concentrations over time (Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290652/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:10:54.243158+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13290652",
+    "pmid": "42337921",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "1800325f8651462d74ce97f674f4e2088f213c00665c3d9c56787398c58ec9c0",
+  "image_file": "image.jpg"
+}

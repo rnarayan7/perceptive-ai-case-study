@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NV_AST02_CRDPREV_2021_2021_AGE1844",
+  "title": "Asthma - Nevada - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:07:08.002564+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Nevada",
+    "location_abbr": "NV",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.5",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "e1b6f2bde861e829c19f55754a492ac6ceb1e704a2a6f2685dc8db72bdcaf866"
+}

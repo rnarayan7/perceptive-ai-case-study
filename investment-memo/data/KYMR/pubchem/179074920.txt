@@ -1,0 +1,7 @@
+Compound: KT-621
+PubChem CID: 179074920
+IUPAC name: 4-[4-[4-[2-[1-(2,6-dioxopiperidin-3-yl)-3-methyl-2-oxobenzimidazol-4-yl]ethyl]piperazin-1-yl]-2-methoxyphenyl]-7-fluoro-6-[(3R,6R)-6-(hydroxymethyl)-1-[3-(triazol-1-yl)propanoyl]piperidin-3-yl]-N,N-dimethyl-1H-indole-2-carboxamide
+Molecular formula: C48H56FN11O7
+Molecular weight: 918.0 g/mol
+SMILES: CN1C2=C(C=CC=C2N(C1=O)C3CCC(=O)NC3=O)CCN4CCN(CC4)C5=CC(=C(C=C5)C6=CC(=C(C7=C6C=C(N7)C(=O)N(C)C)F)[C@H]8CC[C@@H](N(C8)C(=O)CCN9C=CN=N9)CO)OC
+Synonyms: EX-A17450, KT-621, 3077477-46-1

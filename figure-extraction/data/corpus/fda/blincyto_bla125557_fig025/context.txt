@@ -1,0 +1,151 @@
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+
+               FDA Table 10: Study 20120215 RFS Summary
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+               Abbreviations: HC3 = High-Risk Consolidation 3, CI = Confidence Interval, NE = not estimable, MRD = minimal residual
+               disease, HR = hazard ratio calculated based on Cox Proportional Hazard model.
+               Stratification factor: MRD status per PCR at baseline (< 10-3 vs. ≥ 10-3 vs. missing). Results for the subgroup with missing
+               MRD are not shown due to low sample size and events.
+
+
+
+               MRD Conversion
+
+               Using the MRD by PCR data, FDA categorized subjects using a cutpoint of 0.1% at baseline
+               and of 0.01% at the Day 29 assessment. There were 27 subjects with MRD > 0.1% at
+               baseline, 11 in the blinatumomab arm and 16 in the chemotherapy arm. An MRD < 0.01%
+               was observed at the Day 29 assessment for 10 (91%; 95% CI 59,99) in the blinatumomab
+               arm and in 2 (13%; 95% CI 2,38) in the chemotherapy arm.
+
+
+               8.1.2 Study AALL1331
+
+               Title: Risk-Stratified Randomized Phase III Testing of Blinatumomab (NSC#765986) in First
+               Relapse of Childhood B-Lymphoblastic Leukemia (B-ALL)
+
+               INVESTIGATIONAL PLAN
+
+               Trial Design
+
+               The Applicant’s Description:
+
+               Study AALL1331 is an ongoing, phase 3, open-label, randomized, parallel group study to
+               evaluate efficacy and safety of blinatumomab compared with standard combination
+               chemotherapy in treating pediatric subjects with B-cell precursor ALL in first relapse.
+
+               In the original study design, all subjects received 1 block of induction chemotherapy and
+               then were randomized to the blinatumomab or standard of care chemotherapy arms based
+
+                                                                            90
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               The Applicant’s Position:
+
+               N/A
+
+               The FDA’s Assessment:
+
+               Relapse-Free Survival
+
+               Relapse-free survival (RFS) is defined as the time from randomization until the date of
+               relapse or death due to any cause, whichever occurs first. FDA's analysis of RFS was
+               assessed based on FDA’s re-adjudication of bone marrow and MRD data.
+
+               FDA Figure 6 and FDA Table 10 summarize RFS results. Hazard ratio is 0.38 (95% CI: 0.22,
+               0.66), demonstrating RFS advantage of the blinatumomab group. Median RFS in the HC3
+               group is 7.8 (95% CI: 5.8, 13.4) months. Median RFS in the blinatumomab group is non-
+               estimable due to few events.
+
+
+               FDA Figure 6: Study 20120215 RFS Kaplan-Meier Plot
+
+
+
+
+               Data cutoff date: 20 September 2021
+               Source: FDA Analysis
+
+
+
+
+                                                                   89
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+
+               BLA Multidisciplinary Review and Evaluation
+               BLA 125557 S-023 and S-026
+               Blincyto (blinatumomab)
+
+               on level of risk. High-risk and intermediate-risk (HR/IR) subjects (including MRD-positive
+               subjects) were randomized to either a control arm with 2 additional blocks of
+               chemotherapy, or an experimental arm with 2 blocks of blinatumomab. Low-risk subjects
+               were randomized to either a control arm with 2 blocks of chemotherapy followed by
+               continuation and maintenance chemotherapy, or an experimental arm with 1 block of
+               chemotherapy, 2 blocks of blinatumomab, each followed by continuation and a third
+               additional block of blinatumomab followed by maintenance. In September 2019, Study
+               AALL1331 was closed to accrual for the HR/IR arms based on the recommendation of the
+               COG DSMC, due to a strong trend towards improved DFS and improved OS, markedly lower
+               rates of serious toxicity, and a higher rate of MRD clearance for blinatumomab compared to
+               chemotherapy. Further, the COG DSMC recommended that the AALL1331 low-risk group
+               continue to enroll and randomize subjects until enrollment goals were reached. The
+               low-risk treatment group has since completed enrollment.
+
+               The primary endpoint of this study is DFS. The secondary endpoint is OS (time from
+               randomization to death from any cause). An exploratory endpoint was rate of MRD
+               negativity (MRD < 10-4) after each course of randomized therapy. A post hoc endpoint was
+               the rate of proceeding to transplant. Adverse events were also assessed.
+
+               Primary analysis results for the HR/IR group are based on the publicly available dataset that
+               was reported in the Brown et al publication (Brown et al, 2021). The primary analysis data
+               cutoff date for the HR/IR group was 30 September 2020 and includes all subjects in the
+               HR/IR group that were enrolled up to 30 June 2019 (date of DSMC decision to modify study
+               conduct). Final analysis results including the low-risk subjects will be provided in a
+               subsequent CSR.
+
+
+               The FDA’s Assessment:
+               FDA agrees with the trial design overview, description of randomization, and endpoints. In
+               addition, the primary and secondary objectives are as follows:
+
+               Primary Objectives
+               • Compare disease-free survival (DFS) of HR/IR B-ALL patients who are randomized
+                   following Induction Block 1 chemotherapy to receive either two intensive chemotherapy
+                   blocks (Arm A) or two 5-week blocks of blinatumomab (Arm B) prior to allogeneic
+                   hematopoietic stem cell transplantation (allo-HSCT).
+               • Compare DFS of LR B-ALL patients who are randomized following Induction Block 1
+                   therapy to receive either chemotherapy alone (Arm C) or chemotherapy plus
+                   blinatumomab (Arm D).
+
+               Secondary Objectives
+               • Compare OS of HR/IR B-ALL patients who are randomized following Induction Block 1
+                  chemotherapy to receive either two intensive chemotherapy blocks (Arm A) or two 5-
+
+                                                                   91
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by
+               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in
+               gray.
+
+Reference ID: 5193267
+

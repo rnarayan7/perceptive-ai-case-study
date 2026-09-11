@@ -1,0 +1,24 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17535808",
+  "title": "FAERS report 17535808: Neoplasm, Crohn^s disease",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17535808",
+  "published": "2021-03-23",
+  "retrieved_at": "2026-09-08T08:40:57.628402+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Neoplasm",
+      "Crohn^s disease"
+    ],
+    "drugs": [
+      "AYVAKIT",
+      "AYVAKIT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "a3ecbafcba4a980dfc543341e84dbd3f7cdb7d524f52176540e6e537016a1190"
+}

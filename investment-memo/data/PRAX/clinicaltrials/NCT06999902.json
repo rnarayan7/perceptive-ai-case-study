@@ -1,0 +1,44 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06999902",
+  "title": "Double-blind, Randomized Trial of PRAX-628 in Adults With Focal Seizures to Evaluate Efficacy and Safety (POWER1)",
+  "url": "https://clinicaltrials.gov/study/NCT06999902",
+  "published": "2025-05-31",
+  "retrieved_at": "2026-09-07T12:53:43.592269+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Focal Seizure"
+    ],
+    "interventions": [
+      {
+        "name": "20mg/day PRAX-628 for 6 weeks then 30mg/day PRAX-628 for remaining 6 weeks",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 255,
+    "start_date": "2024-12-11",
+    "primary_completion_date": "2026-05-14",
+    "completion_date": "2026-05-14",
+    "first_posted_date": "2025-05-31",
+    "primary_outcomes": [
+      {
+        "measure": "To evaluate the efficacy of PRAX-628 compared to placebo on focal seizure frequency in adults currently taking 1 to 3 ASMs",
+        "timeFrame": "12 weeks"
+      }
+    ]
+  },
+  "hash": "ab6f1573b9c98da05ac2555679d711c359a63bf269f5807873aa6499449dfe18"
+}

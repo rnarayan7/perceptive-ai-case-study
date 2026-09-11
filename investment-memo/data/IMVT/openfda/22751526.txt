@@ -1,0 +1,4 @@
+FAERS adverse-event report 22751526 (comparator: rozanolixizumab)
+Serious: yes
+Reactions: Renal failure, Diabetes mellitus, Abdominal pain, Diarrhoea, Toothache, Urinary tract infection
+Reported drugs: ROZANOLIXIZUMAB, ROZANOLIXIZUMAB, AZATHIOPRINE

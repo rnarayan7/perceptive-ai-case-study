@@ -1,0 +1,25 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10313761",
+  "title": "FAERS report 10313761: Urinary tract infection, Candida infection, Mouth ulceration",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10313761",
+  "published": "2014-07-18",
+  "retrieved_at": "2026-09-08T08:40:13.660111+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Urinary tract infection",
+      "Candida infection",
+      "Mouth ulceration"
+    ],
+    "drugs": [
+      "ENTYVIO",
+      "PREDNISONE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "0ec9016740b9c8b73287b7a2ff2372f1552c33b2a52d057c39e3296b61933404"
+}

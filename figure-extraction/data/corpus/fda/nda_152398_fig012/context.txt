@@ -1,0 +1,137 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+               The absence of respiratory findings in the repeat study was not due to a lack of exposure and
+               the same rat strain was employed in both studies. Exposures to belumosudil at 350 mg/kg were
+               higher (3-5 fold in males and females) based on AUC compared to the previous study despite
+               the lack of any notable findings. The positive control increased tidal volume and decreased
+               respiration rate in both studies, which confirms the sensitivity of the assay. The studies were
+               conducted in two different CROs. The lack of findings may indicate a difference in assay
+               proficiency between CROs.
+
+               Cardiovascular
+               We note that the ECG examinations in the 1-month dog study were unremarkable; however,
+               assessments were estimated earlier than the Tmax post-dose; ECGs were assessed at 1-hour
+               post-dose while the Tmax was 4-9 hours post-dose. Thus, the ECG evaluation was conducted at
+               an inappropriate post-dose time.
+
+               Toxicokinetic Parameters in Dogs in One-Month Repeat Dose Study
+
+
+
+
+               (Excerpted from Applicant’s NDA)
+
+
+
+
+               5.4 ADME/PK
+               The Applicant’s Position:
+
+               Pharmacokinetics/Toxicokinetics
+
+               Nonclinical exposure data used for GLP safety pharmacology and GLP repeat-dose toxicokinetic
+               analyses were assessed using fully validated liquid chromatography with tandem mass
+               spectrometry (LC-MS/MS) bioanalytical methods that were comparable to the methods utilized
+               for human pharmacokinetics (PK) determination.
+               Following oral administration, the plasma t½ of belumosudil was variable across the nonclinical
+               studies with values of approximately 2 hours in mouse, 1-7 hours in rat and rabbit, and
+               1-5 hours in dog. Belumosudil and metabolite exposure generally increased in a dose or greater
+               than dose proportional manner, and accumulation increased with higher doses. Accumulation
+                                                                     44
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               In the dog cardiovascular safety pharmacology study, belumosudil demonstrated low
+               magnitude lowering of systolic blood pressure, diastolic blood pressure, and mean arterial
+               pressure in female dogs at 150 mg/kg. These cardiovascular effects were low magnitude at
+               exposures similar to those expected in human subjects at the recommended clinical dose and
+               no blood pressure effects have been observed clinically (Section 8.3.5).
+
+
+               The FDA’s Assessment:
+
+               We have noted some neurological, respiratory, and cardiovascular findings in the safety
+               pharmacology studies. The cardiovascular effect was evident in the in vitro hERG assay (see
+               above the Applicant’s assessment). While the in vivo cardiovascular study did not show an
+               apparent adverse finding, this might have been due to the study design. See below for
+               additional information.
+
+               Neurological
+
+               In the rat CNS safety pharmacology study (Study No.            -602031), at approximately 2 hours
+                                                                             (b) (4)
+
+
+               post-dose, there was a significant decrease in the total (↓53%) and ambulatory (↓69%) motor
+               activity counts for the males at 350 mg/kg. Lower total (↓41%) and ambulatory (↓50%) motor
+               activity counts were noted in the females at 350 mg/kg at the 1-hour post-dose interval (not
+               statistically significant). Statistically significant lower body temperature was observed for the
+               females at 350 mg/kg from 2 to 4 hours (up to 2.2 °C lower compared to pre-dose).
+
+               Respiratory
+
+               The Applicant conducted two GLP-compliant respiratory safety pharmacology studies, (GLP,
+                       602030 and GLP,             8289751). In both studies, belumosudil was administered once
+               (b) (4)                     (b) (4)
+
+
+               orally to male and female Sprague Dawley rats at 50, 175, and 350 mg/kg and the effects on
+               respiration rate, tidal volume and minute volume were evaluated.
+
+               In study     -602030, lower minute volume was observed at 175 mg/kg, and lower respiratory
+                         (b) (4)
+
+
+               frequency, lower tidal volume (in males only), and lower minute volume were observed in
+               males and females at 350 mg/kg when compared to vehicle controls. The respiratory effects
+               (e.g. minute volume and respiratory frequency decrease) at 350 mg/kg were more pronounced
+               for the males and were considered adverse. The safety margin at 350 mg/kg in males with
+               respiratory effects based on exposure (AUC0-24 29110 ng·h/mL) was approximately 1.3X the
+               human AUC at the recommended 200 mg dose.
+
+               A repeat (Study No.8289751) of the above respiratory safety pharmacology study failed to
+               reproduce and/or confirm the adverse respiratory findings observed in males at doses ≥ 175
+               mg/kg during a head-out plethysmography evaluation of rats following the administration of
+               belumosudil at doses ≤ 350 mg/kg.
+                                                            43
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               of belumosudil and metabolites was not observed in pregnant rats or rabbits. In rats, females
+               exhibited higher belumosudil plasma exposure compared to males. No apparent sex differences
+               were observed in dogs (mice and rabbits were not evaluated for sex differences).
+               Absorption
+
+               Belumosudil solubility decreased as pH increased between pH 2.0 and 6.8 (nonGLP,
+               Study ADME-KAD-200402-Kinetic Solubility).
+               In mice, belumosudil was found to be rapidly absorbed with maximum concentrations of
+               belumosudil and metabolites being reached within 1 hour after both single and repeat doses.
+               Rate of absorption appeared to be slower in rats and dogs with maximum exposure observed
+               predominantly between 2 and 8 hours for all analytes at every dose level following single or
+               repeat oral administrations; variations in peak exposure tended to occur in rats where Tmax was
+               observed up to 24 hours for all analytes. The extent of absorption was variable in mice and rats
+               with bioavailability (%F) of belumosudil at 12-85% between 10-150 mg free base/kg.
+               Distribution
+
+               In in vitro studies, belumosudil was > 99% bound to animal (mouse, rat, rabbit, dog) and human
+               plasma proteins (NonGLP, Study ADME-KAD-200410-PPB and KDM/06).
+               In vi

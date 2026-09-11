@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NJ_AST02_AGEADJPREV_2022_2022_MRC",
+  "title": "Asthma - New Jersey - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573822+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "New Jersey",
+    "location_abbr": "NJ",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "14.4",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Multiracial, non-Hispanic"
+  },
+  "hash": "c4dfb022f15352747e3ba1cde42f5df4f0288e632b09543b7e25ba105620596f"
+}

@@ -1,0 +1,4 @@
+FAERS adverse-event report 12042990 (comparator: dupilumab)
+Serious: yes
+Reactions: Asthma, Wheezing
+Reported drugs: ALLEGRA, FLUTICASONE FUROATE\VILANTEROL TRIFENATATE, MONTELUKAST SODIUM, NASONEX, PREDONINE, DUPILUMAB vs Placebo, INFLUENZA VIRUS VACCINE

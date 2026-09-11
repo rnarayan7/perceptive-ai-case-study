@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13442641_f7",
+  "figure_type": "kaplan_meier",
+  "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+  "caption": "Time-dependent ROC curves of the FLIPI-SII model for 1-8-year survival prediction.  (A)  ROC curves comparing prediction performance for OS.  (B)  ROC curves comparing prediction performance for PFS.",
+  "context": "Time-dependent ROC curves of the FLIPI-SII model for 1-8-year survival prediction.  (A)  ROC curves comparing prediction performance for OS.  (B)  ROC curves comparing prediction performance for PFS. Comparison of prognostic model performance Time-dependent ROC analysis demonstrated that the FLIPI-SII model achieved favorable predictive accuracy for PFS and OS ( Figure 7 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13442641/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:53:32.899506+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13442641",
+    "pmid": "42564252",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 7"
+  },
+  "image_hash": "e756ef77886750806e56e020033f36ea5f1d2b3fb86b8074d38f61cb5b45c923",
+  "image_file": "image.jpg"
+}

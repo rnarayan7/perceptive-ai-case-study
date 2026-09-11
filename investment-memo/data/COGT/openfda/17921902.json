@@ -1,0 +1,32 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17921902",
+  "title": "FAERS report 17921902: Sepsis, Hypotension, Dizziness",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17921902",
+  "published": "2026-03-10",
+  "retrieved_at": "2026-09-08T08:41:06.398912+00:00",
+  "metadata": {
+    "term": "ripretinib",
+    "serious": true,
+    "reactions": [
+      "Sepsis",
+      "Hypotension",
+      "Dizziness",
+      "Bacteraemia",
+      "Urinary tract infection",
+      "Body temperature increased",
+      "Nausea",
+      "Decreased appetite",
+      "Hyperaesthesia",
+      "Pain in extremity",
+      "Palmar-plantar erythrodysaesthesia syndrome"
+    ],
+    "drugs": [
+      "QINLOCK"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "2fb562af05397655860493ac9a7473e875b1d3a38a3412da5f80d4ebbb7ca2e7"
+}

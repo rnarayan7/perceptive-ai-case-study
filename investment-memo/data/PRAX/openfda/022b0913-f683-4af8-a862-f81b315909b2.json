@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "022b0913-f683-4af8-a862-f81b315909b2",
+  "title": "Label: SUBVENITE (LAMOTRIGINE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=022b0913-f683-4af8-a862-f81b315909b2",
+  "published": "2026-06-04",
+  "retrieved_at": "2026-09-08T08:40:39.640293+00:00",
+  "metadata": {
+    "brand_name": "SUBVENITE",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer": "OWP Pharmaceuticals, Inc.",
+    "manufacturer_name": "OWP Pharmaceuticals, Inc.",
+    "pharm_class_epc": "Anti-epileptic Agent [EPC]",
+    "pharm_class_moa": "Organic Cation Transporter 2 Inhibitors [MoA]",
+    "application_number": "NDA218879",
+    "route": "ORAL"
+  },
+  "hash": "4c950b35b281e361203d2e6e5a01de961bc301f88cc1ade02aa39cd4b4844bb3"
+}

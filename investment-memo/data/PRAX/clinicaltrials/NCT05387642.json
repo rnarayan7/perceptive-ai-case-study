@@ -1,0 +1,47 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05387642",
+  "title": "A Clinical Trial of PRAX-114 in Participants With Essential Tremor",
+  "url": "https://clinicaltrials.gov/study/NCT05387642",
+  "published": "2022-05-24",
+  "retrieved_at": "2026-09-07T12:53:43.592436+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "WITHDRAWN",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Essential Tremor"
+    ],
+    "interventions": [
+      {
+        "name": "10 mg PRAX-114, 20 mg PRAX-114, and Placebo",
+        "type": "DRUG"
+      },
+      {
+        "name": "10 mg PRAX-114 or 20 mg PRAX-114",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 0,
+    "start_date": "2022-04-05",
+    "primary_completion_date": "2022-06-30",
+    "completion_date": "2022-06-30",
+    "first_posted_date": "2022-05-24",
+    "primary_outcomes": [
+      {
+        "measure": "Part A: Incidence and severity of Adverse Events (AE)",
+        "timeFrame": "12 days"
+      },
+      {
+        "measure": "Part B: Incidence and severity of AEs",
+        "timeFrame": "35 days"
+      }
+    ]
+  },
+  "hash": "53a22b2dfcba5e0a83db3d7bb2ba5a27c88a8c32c3571e61c5cca586ff28efdc"
+}

@@ -1,0 +1,1 @@
+Forest plots of treatment-related adverse events.  (A)  Random-effects model forest plot of any-grade TRAEs.  (B)  Random-effects model forest plot of grade ≥3 TRAEs. The combined RR was 1.02 (95% CI 1.00–1.04, P = 0.08, random-effects model), indicating no significant difference ( Figure 5A ). Moderate between-study inconsistency was observed (I² = 60%, P = 0.04) ( Figure 5B ).

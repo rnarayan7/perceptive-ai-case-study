@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NM_MEN02_CRDPREV_2023_2023_SEXM",
+  "title": "Mental Health - New Mexico - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784480+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "New Mexico",
+    "location_abbr": "NM",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "17.9",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "c68c7c79b1af0983829250ab7e89689ae8c0bb6aeceaccfee1e45ec953b368bc"
+}

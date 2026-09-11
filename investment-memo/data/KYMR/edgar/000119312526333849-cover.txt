@@ -1,0 +1,360 @@
+0001815442Q2--12-31falsehttp://fasb.org/us-gaap/2026#RelatedPartyMemberhttp://fasb.org/us-gaap/2026#RelatedPartyMemberhttp://fasb.org/us-gaap/2026#RelatedPartyMemberhttp://fasb.org/us-gaap/2026#RelatedPartyMember2023-12-312023-12-310001815442us-gaap:CorporateBondSecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:CommercialPaperMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442srt:MinimumMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-03-3100018154422025-03-310001815442us-gaap:FairValueInputsLevel2Memberus-gaap:CommercialPaperMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:CommonStockMember2025-01-012025-06-300001815442us-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-04-012026-06-300001815442us-gaap:RetainedEarningsMember2025-03-310001815442us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:USGovernmentAgenciesDebtSecuritiesMember2026-06-300001815442us-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442kymr:GeneralAndAdministrativeExpensesMember2025-01-012025-06-300001815442kymr:WatertownMassachusettsMemberkymr:TwoThousandTwentyOneLeaseMemberkymr:NoncancelableFacilityLeaseAgreementMemberus-gaap:LetterOfCreditMemberkymr:RestrictedCashMember2026-06-300001815442us-gaap:RetainedEarningsMember2026-06-300001815442kymr:TwoThousandAndTwentyPlanMember2026-01-012026-06-300001815442us-gaap:ResearchAndDevelopmentExpense2025-04-012025-06-300001815442us-gaap:EmployeeStockOptionMemberus-gaap:ResearchAndDevelopmentArrangementMember2026-01-012026-06-300001815442us-gaap:CommonStockMember2025-12-310001815442us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember2025-12-310001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2026-06-3000018154422025-12-310001815442us-gaap:RestrictedStockMemberkymr:TwoThousandEighteenStockOptionAndGrantPlanMember2025-12-310001815442kymr:WatertownMassachusettsMemberkymr:TwoThousandTwentyOneLeaseMemberus-gaap:LetterOfCreditMemberkymr:NoncancelableFacilityLeaseAgreementMemberkymr:RestrictedCashMember2025-12-310001815442us-gaap:CommonStockMember2025-06-300001815442kymr:WatertownMassachusettsMember2021-12-202021-12-200001815442kymr:WatertownMassachusettsMemberus-gaap:LetterOfCreditMemberkymr:NoncancelableFacilityLeaseAgreementMemberkymr:RestrictedCashMemberkymr:TwoThousandNineteenLeaseMember2025-12-310001815442us-gaap:OverAllotmentOptionMember2025-12-102025-12-100001815442us-gaap:CommercialPaperMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-01-012025-06-300001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMembersrt:MaximumMember2026-06-300001815442us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:EmployeeStockOptionMemberkymr:GeneralAndAdministrativeMember2025-01-012025-06-300001815442kymr:TwoThousandAndTwentyPlanMember2025-01-012025-12-310001815442us-gaap:CommonStockMember2025-03-310001815442kymr:PreFundedWarrantsMember2026-01-012026-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-03-310001815442kymr:ResearchAndDevelopmentExpensesMember2025-04-012025-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2026-04-012026-06-300001815442us-gaap:EmployeeStockOptionMember2026-06-300001815442us-gaap:RetainedEarningsMember2025-04-012025-06-300001815442kymr:DeferredRevenueGileadMember2025-12-310001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-01-012025-06-300001815442us-gaap:FairValueMeasurementsRecurringMemberus-gaap:USGovernmentAgenciesDebtSecuritiesMember2026-06-300001815442kymr:GileadAgreementMember2026-04-012026-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-06-300001815442kymr:CollaborationTargetTwoMemberkymr:SanofiCollaborationArrangementMember2020-07-072020-07-070001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001815442us-gaap:PerformanceSharesMembersrt:ExecutiveOfficerMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-01-012025-06-300001815442kymr:PreFundedWarrantsMember2025-04-012025-06-300001815442us-gaap:CommonStockMember2025-04-012025-06-300001815442kymr:MilestoneTwoMember2023-12-310001815442us-gaap:CommonStockMember2026-06-300001815442us-gaap:PerformanceSharesMembersrt:MinimumMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-03-310001815442us-gaap:RetainedEarningsMember2026-04-012026-06-300001815442us-gaap:LandBuildingsAndImprovementsMember2026-01-012026-06-3000018154422024-12-310001815442us-gaap:RestrictedStockMemberus-gaap:ResearchAndDevelopmentArrangementMember2025-01-012025-06-300001815442kymr:DeferredRevenueGileadMember2026-01-012026-06-300001815442kymr:MilestoneTwoMember2025-04-012025-06-300001815442us-gaap:GeneralAndAdministrativeExpense2026-01-012026-06-300001815442kymr:SanofiCollaborationArrangementMembersrt:MaximumMember2020-07-072020-07-070001815442us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001815442kymr:TwoThousandTwentyEmployeeStockPurchasePlanMember2026-06-300001815442kymr:TwoThousandTwentyEmployeeStockPurchasePlanMember2026-01-012026-06-300001815442us-gaap:USTreasurySecuritiesMember2025-12-310001815442us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442kymr:ResearchAndDevelopmentExpensesMember2026-01-012026-06-300001815442us-gaap:CommonStockMemberkymr:PreFundedWarrantsMember2026-06-300001815442us-gaap:RestrictedStockMember2026-01-012026-06-300001815442kymr:WatertownMassachusettsMemberkymr:NoncancelableFacilityLeaseAgreementMember2019-10-012019-10-310001815442us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember2026-06-300001815442kymr:LabEquipmentMember2025-12-310001815442srt:MinimumMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-06-300001815442us-gaap:AdditionalPaidInCapitalMember2025-03-310001815442us-gaap:FairValueInputsLevel1Memberus-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442kymr:STAT6ProgramsMember2025-01-012025-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-01-012026-06-300001815442kymr:BilledReceivablesSanofiMember2026-01-012026-06-300001815442us-gaap:PerformanceSharesMember2026-01-012026-06-300001815442kymr:WatertownMassachusettsMemberkymr:NoncancelableFacilityLeaseAgreementMember2019-10-310001815442us-gaap:EmployeeStockOptionMemberkymr:GeneralAndAdministrativeMember2025-04-012025-06-300001815442kymr:WatertownMassachusettsMemberus-gaap:LetterOfCreditMemberkymr:NoncancelableFacilityLeaseAgreementMemberkymr:RestrictedCashMemberkymr:TwoThousandNineteenLeaseMember2026-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMember2025-12-102025-12-100001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-310001815442us-gaap:IndemnificationGuaranteeMember2025-12-310001815442us-gaap:FairValueInputsLevel1Memberus-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442kymr:JefferiesSalesAgreementOrJefferiesLlcMember2024-10-312024-10-3100018154422026-06-300001815442us-gaap:LandBuildingsAndImprovementsMember2026-06-300001815442us-gaap:CommonStockMember2026-01-012026-06-300001815442us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:RetainedEarningsMember2025-06-300001815442us-gaap:RestrictedStockMemberkymr:GeneralAndAdministrativeMember2026-01-012026-06-300001815442us-gaap:RestrictedStockMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-04-012026-06-300001815442us-gaap:EmployeeStockOptionMemberus-gaap:ResearchAndDevelopmentArrangementMember2026-04-012026-06-300001815442us-gaap:RetainedEarningsMember2025-12-310001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMembersrt:MaximumMember2026-06-300001815442kymr:WatertownMassachusettsMemberkymr:NoncancelableFacilityLeaseAgreementMember2021-12-202021-12-200001815442us-gaap:RestrictedStockMemberus-gaap:ResearchAndDevelopmentArrangementMember2026-04-012026-06-300001815442us-gaap:RestrictedStockMember2025-01-012025-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMember2025-06-302025-06-300001815442us-gaap:FairValueMeasurementsRecurringMemberus-gaap:USGovernmentAgenciesDebtSecuritiesMember2025-12-310001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2025-04-012025-06-300001815442kymr:LabAndOfficeEquipmentMember2026-06-300001815442us-gaap:CommonStockMember2026-03-310001815442us-gaap:CommonStockMember2026-04-012026-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMemberus-gaap:CommonStockMemberkymr:PreFundedWarrantsMember2025-06-300001815442us-gaap:ComputerEquipmentMember2025-12-310001815442us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:GeneralAndAdministrativeExpense2025-04-012025-06-300001815442us-gaap:USTreasurySecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442kymr:STAT6ProgramsMember2026-04-012026-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-04-012025-06-300001815442kymr:WatertownMassachusettsMemberkymr:FacilitySubleaseAgreementMember2021-12-202021-12-200001815442kymr:TwoThousandTwentyEmployeeStockPurchasePlanMember2020-08-200001815442us-gaap:AdditionalPaidInCapitalMember2026-03-310001815442srt:MinimumMemberkymr:SanofiCollaborationArrangementMember2025-06-012025-06-300001815442us-gaap:FairValueInputsLevel2Memberus-gaap:CorporateBondSecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:ResearchAndDevelopmentExpense2026-01-012026-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-01-012025-06-300001815442us-gaap:FairValueInputsLevel1Memberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-04-012025-06-300001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMembersrt:MaximumMember2026-03-310001815442kymr:PreFundedWarrantsMember2025-06-300001815442us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMemberkymr:PreFundedWarrantsMember2025-06-300001815442us-gaap:ResearchAndDevelopmentExpense2025-01-012025-06-300001815442us-gaap:PerformanceSharesMembersrt:MinimumMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-06-300001815442kymr:MilestoneTwoMemberkymr:SanofiCollaborationArrangementMember2023-07-012023-09-300001815442kymr:GeneralAndAdministrativeExpensesMember2026-01-012026-06-300001815442kymr:PreFundedWarrantsMember2026-04-012026-06-300001815442kymr:PreFundedWarrantsMember2025-01-012025-06-300001815442us-gaap:RestrictedStockMember2026-04-012026-06-300001815442kymr:GeneralAndAdministrativeExpensesMember2025-04-012025-06-300001815442us-gaap:EmployeeStockOptionMemberkymr:GeneralAndAdministrativeMember2026-01-012026-06-300001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-03-310001815442us-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:IndemnificationGuaranteeMember2026-06-300001815442us-gaap:GeneralAndAdministrativeExpense2026-04-012026-06-300001815442us-gaap:RestrictedStockMemberkymr:GeneralAndAdministrativeMember2026-04-012026-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2020-08-200001815442kymr:DeferredRevenueGileadMember2026-06-300001815442us-gaap:RetainedEarningsMember2025-01-012025-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2025-01-012025-06-300001815442kymr:MilestoneTwoMember2025-01-012025-06-300001815442kymr:STAT6ProgramsMember2026-01-012026-06-300001815442kymr:ResearchAndDevelopmentExpensesMember2025-01-012025-06-300001815442kymr:SanofiCollaborationArrangementMembersrt:MaximumMember2025-06-012025-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMember2025-06-300001815442us-gaap:ResearchAndDevelopmentExpense2026-04-012026-06-300001815442kymr:WatertownMassachusettsMemberkymr:NoncancelableFacilityLeaseAgreementMember2021-12-200001815442us-gaap:FurnitureAndFixturesMember2025-12-310001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMember2025-07-012025-07-310001815442us-gaap:CommercialPaperMember2026-06-300001815442us-gaap:CorporateBondSecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:RestrictedStockMemberus-gaap:ResearchAndDevelopmentArrangementMember2026-01-012026-06-300001815442us-gaap:RestrictedStockMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-01-012026-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2020-07-072020-07-070001815442us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001815442us-gaap:AdditionalPaidInCapitalMember2025-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-12-3100018154422026-04-012026-06-300001815442kymr:SanofiCollaborationArrangementMember2025-03-310001815442us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2026-01-012026-06-300001815442kymr:PreFundedWarrantsMember2026-06-300001815442us-gaap:AdditionalPaidInCapitalMember2025-12-310001815442us-gaap:RestrictedStockMemberkymr:GeneralAndAdministrativeMember2025-04-012025-06-300001815442kymr:TwoThousandTwentyEmployeeStockPurchasePlanMemberkymr:LesserOfPotentialOutcomeOneMember2026-01-012026-06-300001815442kymr:BilledReceivablesGileadMember2026-01-012026-06-300001815442us-gaap:RestrictedStockMemberus-gaap:ResearchAndDevelopmentArrangementMember2025-04-012025-06-300001815442us-gaap:RestrictedStockMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-04-012025-06-300001815442kymr:MilestoneOneMemberkymr:SanofiCollaborationArrangementMember2023-07-012023-09-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-04-012026-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMembersrt:MaximumMember2025-03-310001815442kymr:LabEquipmentMember2026-06-300001815442us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001815442us-gaap:RetainedEarningsMember2024-12-310001815442kymr:BilledReceivablesSanofiMember2025-12-310001815442kymr:ResearchAndDevelopmentExpensesMember2026-04-012026-06-300001815442us-gaap:RestrictedStockMemberkymr:TwoThousandEighteenStockOptionAndGrantPlanMember2026-01-012026-06-300001815442us-gaap:EmployeeStockOptionMemberus-gaap:ResearchAndDevelopmentArrangementMember2025-04-012025-06-300001815442kymr:CollaborationTargetOneMemberkymr:SanofiCollaborationArrangementMember2025-12-310001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-12-310001815442kymr:JuneTwoThousandTwentyFiveMember2026-01-012026-06-300001815442srt:MinimumMember2026-01-012026-01-010001815442us-gaap:CommonStockMember2026-01-012026-03-310001815442us-gaap:RestrictedStockMemberkymr:GeneralAndAdministrativeMember2025-01-012025-06-300001815442us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-310001815442us-gaap:FurnitureAndFixturesMember2026-06-300001815442us-gaap:GeneralAndAdministrativeExpense2025-01-012025-06-300001815442us-gaap:PerformanceSharesMembersrt:ExecutiveOfficerMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-04-012025-06-300001815442srt:MaximumMember2026-01-012026-01-010001815442us-gaap:LeaseholdImprovementsMember2025-12-310001815442kymr:TwoThousandAndTwentyPlanMember2026-06-300001815442kymr:GeneralAndAdministrativeExpensesMember2026-04-012026-06-300001815442us-gaap:RetainedEarningsMember2026-03-310001815442us-gaap:AdditionalPaidInCapitalMember2026-01-012026-06-300001815442us-gaap:FairValueInputsLevel2Memberus-gaap:CommercialPaperMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-3000018154422025-06-300001815442us-gaap:CorporateDebtSecuritiesMember2025-12-310001815442kymr:STAT6ProgramsMember2025-04-012025-06-300001815442kymr:SanofiCollaborationArrangementMember2020-07-072020-07-070001815442kymr:GileadAgreementMember2025-06-252025-06-250001815442us-gaap:RestrictedStockMember2026-06-300001815442us-gaap:OverAllotmentOptionMember2025-07-012025-07-310001815442us-gaap:AdditionalPaidInCapitalMember2024-12-310001815442us-gaap:FairValueInputsLevel2Memberus-gaap:CorporateBondSecuritiesMemberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442kymr:BilledReceivablesGileadMember2025-12-310001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-03-310001815442us-gaap:AdditionalPaidInCapitalMember2026-06-300001815442kymr:TwoThousandAndTwentyPlanMember2025-12-3100018154422025-01-012025-06-300001815442us-gaap:RestrictedStockMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2025-01-012025-06-300001815442us-gaap:EmployeeStockOptionMemberkymr:GeneralAndAdministrativeMember2026-04-012026-06-300001815442us-gaap:CommercialPaperMember2025-12-310001815442us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMember2025-12-310001815442us-gaap:ComputerEquipmentMember2026-06-300001815442us-gaap:FairValueInputsLevel2Memberus-gaap:FairValueMeasurementsRecurringMemberus-gaap:USGovernmentAgenciesDebtSecuritiesMember2025-12-310001815442us-gaap:RestrictedStockMember2026-01-012026-06-300001815442kymr:LandlordMember2026-06-300001815442kymr:BilledReceivablesGileadMember2026-06-300001815442us-gaap:CorporateDebtSecuritiesMember2026-06-300001815442us-gaap:RestrictedStockMember2025-04-012025-06-3000018154422025-01-012025-12-310001815442us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001815442kymr:BilledReceivablesSanofiMember2026-06-300001815442kymr:LabAndOfficeEquipmentMember2025-12-3100018154422026-07-3100018154422026-03-310001815442us-gaap:RestrictedStockMemberkymr:TwoThousandEighteenStockOptionAndGrantPlanMember2026-06-3000018154422026-01-012026-06-300001815442us-gaap:LeaseholdImprovementsMember2026-06-300001815442us-gaap:AdditionalPaidInCapitalMember2025-01-012025-06-300001815442kymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-01-012026-06-300001815442us-gaap:EmployeeStockOptionMemberus-gaap:ResearchAndDevelopmentArrangementMember2025-01-012025-06-300001815442srt:MaximumMemberkymr:GileadAgreementMember2025-06-252025-06-250001815442kymr:GileadAgreementMember2025-01-012025-12-310001815442us-gaap:RestrictedStockMember2025-01-012025-06-3000018154422025-04-012025-06-300001815442us-gaap:RetainedEarningsMember2026-01-012026-06-300001815442us-gaap:CommonStockMember2024-12-310001815442us-gaap:USTreasurySecuritiesMember2026-06-300001815442us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001815442kymr:GileadAgreementMember2026-01-012026-06-300001815442kymr:TwoThousandTwentyFiveFollowOnPublicOfferingMember2025-12-100001815442us-gaap:MoneyMarketFundsMemberus-gaap:FairValueMeasurementsRecurringMember2026-06-300001815442kymr:JefferiesSalesAgreementOrJefferiesLlcMemberus-gaap:CommonStockMember2024-10-312024-10-310001815442us-gaap:PerformanceSharesMemberkymr:TwoThousandTwentyStockOptionAndIncentivePlanMember2026-01-012026-06-30iso4217:USDxbrli:sharesxbrli:pureutr:sqftxbrli:shareskymr:Segmentkymr:Securityiso4217:USD
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 10-Q
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2026
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ___________________ to ___________________
+
+Commission File Number: 001-39460
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+Delaware
+
+81-2992166
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(I.R.S. Employer
+
+Identification No.)
+
+500 North Beacon Street, 4th Floor
+
+Watertown, Massachusetts
+
+02472
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (857) 285-5300
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.0001 per share
+
+KYMR
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  ☐    No  ☒
+
+As of July 31, 2026, the registrant had83,150,618 shares of common stock, $0.0001 par value per share, outstanding.
+
+Summary of the Material and Other Risks Associated with Our Business
+
+•
+We are a clinical stage company and that may make it difficult for our stockholders to evaluate the success of our business to date and to assess our future viability.
+
+•
+We have incurred significant operating losses since our inception and anticipate that we will incur continued losses for the foreseeable future.
+
+•
+We will need to raise substantial additional funding. If we are unable to raise capital when needed or on attractive terms, we would be forced to delay, scale back or discontinue some of our product candidate development programs or future commercialization efforts.
+
+•
+We are very early in our development efforts and our product candidates, whether conducted by us or our collaborators, are in early clinical development. If we are unable to advance them through the clinic for safety or efficacy reasons or commercialize our product candidates or experience significant delays in doing so, our business will be materially harmed.
+
+•
+Our approach to the discovery and development of product candidates is novel and unproven, which makes it difficult to predict the time, cost of development and likelihood of successfully developing any products.
+
+•
+We may not be successful in our efforts to identify or discover additional product candidates, or we may expend our limited resources to pursue a particular product candidate or indication and fail to capitalize on product candidates or indications that may be more profitable or for which there is a greater likelihood of success.
+
+•
+If we experience delays or difficulties in the initiation or enrollment of patients in clinical trials, our receipt of necessary regulatory approvals could be delayed or prevented.
+
+•
+Positive results from early preclinical studies and clinical trials of our current or future product candidates are not necessarily predictive of the results of later preclinical studies and clinical trials of our current or future product candidates. If we cannot replicate the positive results from our preclinical studies of our current or future product candidates in our future clinical trials, we may be unable to successfully develop, obtain regulatory approval for and commercialize our current or future product candidates.
+
+•
+A pandemic, epidemic, or outbreak of an infectious disease may materially and adversely affect our business and our financial results and could cause a disruption to the development of our product candidates.
+
+•
+Our current or future product candidates may cause adverse or other undesirable side effects that could delay or prevent their regulatory approval, limit the commercial profile of an approved label, or result in significant negative consequences following marketing approval, if any.
+
+•
+Even if we receive regulatory approval for any of our current or future product candidates, we will be subject to ongoing obligations and continued regulatory review, which may result in significant additional expense. Additionally, our current or future product candidates, if approved, could be subject to labeling and other restrictions and market withdrawal and we may be subject to penalties if we fail to comply with regulatory requirements or experience unanticipated problems with our product candidates when and if any of them are approved.
+
+•
+We rely, and expect to continue to rely, on third parties to conduct our ongoing and planned preclinical studies and clinical trials for our current and future product candidates. If these third parties do not successfully carry out their contractual duties, comply with regulatory requirements or meet expected deadlines, we may not be able to obtain marketing approval for or commercialize our current and potential future product candidates and our business could be substantially harmed.
+
+•
+If we are unable to obtain and maintain patent and other intellectual property protection for our technology and product candidates or if the scope of the intellectual property protection obtained is not sufficiently broad, our competitors could develop and commercialize technology and drugs similar or identical to ours, and our ability to successfully commercialize our technology and drugs may be impaired, and we may not be able to compete effectively in our market.
+
+•
+Unstable global economic and geopolitical conditions may have serious adverse consequences on our business, financial condition, stock price and results of operations.
+
+i
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q, or Quarterly Report, contains forward-looking statements which are made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical facts contained in this Quarterly Report are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may”, “will”, “should”, “expects”, “intends”, “plans”, “anticipates”, “believes”, “estimates”, “predicts”, “potential”, “continue” or the negative of these terms or other comparable terminology. These statements are not guarantees of future results or performance and involve substantial risks and uncertainties. Forward-looking statements in this Quarterly Report include, but are not limited to, express or implied statements about:
+
+•
+the initiation, timing, progress, results, and cost of our research and development programs, and our current and future preclinical and clinical studies, including statements regarding the timing of initiation and completion of studies or trials and related preparatory work, the period during which the results of the trials will become available, and our research and development programs;
+
+•
+our ability to continue to enable a rational and effective drug discovery and development engine;
+
+•
+the timing and the success of development efforts under the collaborations for our IRAK4 and CDK2 programs and clinical studies for our STAT6 and IRF5 programs;
+
+•
+our plans to submit investigational new drug applications (INDs) to the U.S. Food and Drug Administration, or FDA for current and future product candidates;
+
+•
+the subsequent initiation of planned clinical trials;
+
+•
+our ability to identify research priorities and apply a risk-mitigated strategy to efficiently discover and develop product candidates, including by applying learnings from one program to other programs and from one modality to our other modalities;
+
+•
+our potential ability to manufacture our drug substances, delivery vehicles, and product candidates for preclinical use, for clinical trials and on a larger scale for commercial use, if approved;
+
+•
+the ability and willingness of our third-party strategic collaborators to continue research and development activities relating to our development candidates and product candidates;
+
+•
+our ability to obtain funding for our operations necessary to complete further development and commercialization of our product candidates;
+
+•
+our ability to obtain and maintain regulatory approval of our product candidates;
+
+•
+our ability to commercialize our products, if approved;
+
+•
+the pricing and reimbursement of our product candidates, if approved;
+
+•
+the implementation of our business model, and strategic plans for our business, product candidates, and technology;
+
+•
+the scope of protection we are able to establish and maintain for intellectual property rights covering our product candidates and technology;
+
+•
+estimates of our future expenses, revenues, capital requirements, and our needs for additional financing;
+
+•
+the potential benefits of strategic collaboration agreements, our ability to enter into strategic collaborations or arrangements, and our ability to attract collaborators with development, regulatory and commercialization expertise;
+
+•
+future agreements with third parties in connection with the commercialization of product candidates and any other approved product;
+
+•
+the size and growth potential of the markets for our product candidates, and our ability to serve those markets;
+
+•
+our financial performance;
+
+•
+the rate and degree of market acceptance of our product candidates;
+
+•
+regulatory developments in the United States and foreign countries;
+
+•
+our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately;
+
+•
+our ability to produce our products or product candidates with advantages in turnaround times or manufacturing cost;
+
+ii
+
+•
+the success of competing therapies that are or may become available;
+
+•
+our ability to attract and retain key scientific or management personnel;
+
+•
+the impact of laws and regulations;
+
+•
+developments relating to our competitors and our industry;
+
+•
+the effect of any pandemics, geopolitical conflicts or new or increased international tariffs, including mitigation efforts and economic effects, on any of the foregoing or other aspects of our business operations, including but not limited to our preclinical studies and future clinical trials; and
+
+•
+other risks and uncertainties, including those listed under the caption “Risk Factors.”
+
+Any forward-looking statements in this Quarterly Report reflect our current views with respect to future events and with respect to our future financial performance, and involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. Factors that may cause actual results to differ materially from current expectations include, among other things, those described under Part II, Item 1A, “Risk Factors” and elsewhere in this Quarterly Report. Given these uncertainties, you should not place undue reliance on these forward-looking statements. Except as required by law, we assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future.
+
+All of our forward-looking statements are as of the date of this Quarterly Report only. In each case, actual results may differ materially from such forward-looking information. We can give no assurance that such expectations or forward-looking statements will prove to be correct. An occurrence of or any material adverse change in one or more of the risk factors or risks and uncertainties referred to in this Quarterly Report or included in our other public disclosures or our other periodic reports or other documents or filings filed with or furnished to the Securities and Exchange Commission, or the SEC, could materially and adversely affect our business, prospects, financial condition and results of operations. Except as required by law, we do not undertake or plan to update or revise any such forward-looking statements to reflect actual results, changes in plans, assumptions, estimates or projections or other circumstances affecting such forward-looking statements occurring after the date of this Quarterly Report, even if such results, changes or circumstances make it clear that any forward-looking information will not be realized. Any public statements or disclosures by us following this Quarterly Report that modify or impact any of the forward-looking statements contained in this Quarterly Report will be deemed to modify or supersede such statements in this Quarterly Report.
+
+We may from time to time provide estimates, projections and other information concerning our industry, the general business environment, and the markets for certain diseases, including estimates regarding the potential size of those markets and the estimated incidence and prevalence of certain medical conditions. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties, and actual events, circumstances or numbers, including actual disease prevalence rates and market size, may differ materially from the information reflected in this Quarterly Report. Unless otherwise expressly stated, we obtained this industry, business information, market data, prevalence information and other data from reports, research surveys, studies and similar data prepared by market research firms and other third parties, industry, medical and general publications, government data, and similar sources, in some cases applying our own assumptions and analysis that may, in the future, prove not to have been accurate.
+
+iii
+
+Table of Contents
+
+Page
+
+PART I.
+
+FINANCIAL INFORMATION
+
+1
+
+Item 1.
+
+Financial Statements (Unaudited)
+
+1
+
+Condensed Consolidated Balance Sheets
+
+1
+
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+
+2
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+3
+
+Condensed Consolidated Statements of Cash Flows
+
+5
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+6
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+25
+
+Item 3.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+36
+
+Item 4.
+
+Controls and Procedures
+
+36
+
+PART II.
+
+OTHER INFORMATION
+
+37
+
+Item 1.
+
+Legal Proceedings
+
+37
+
+Item 1A.
+
+Risk Factors
+
+37
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+88
+
+Item 3.
+
+Defaults Upon Senior Securities
+
+88
+
+Item 4.
+
+Mine Safety Disclosures
+
+88
+
+Item 5.
+
+Other Information
+
+88
+
+Item 6.
+
+Exhibits
+
+89
+
+Signatures
+
+90
+
+iv
+
+PART I—FINANCIAL INFORMATION

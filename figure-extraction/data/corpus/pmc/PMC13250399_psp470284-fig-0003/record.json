@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13250399_psp470284-fig-0003",
+  "figure_type": "pk_logscale",
+  "title": "Physiologically Based Pharmacokinetic Model to Predict Drug-Drug Interactions With the Antibody-Drug Conjugate Trastuzumab Deruxtecan.",
+  "caption": "Sensitivity analysis for the contribution of different elimination routes to interaction with itraconazole and ritonavir. Panels (a–d) represent the simulated DXd  C \n max  (a, c) and AUC (b, d) geometric mean ratios following administration of T‐DXd in the presence and absence of ritonavir (a, b) or itraconazole (c, d) with differing contributions of the elimination routes for DXd clearance. Blue, gray, orange, and yellow lines represent the impact of up to 10‐fold increases or decreases in CYP3A4 metabolism, efflux clearance, uptake clearance, and renal clearance parameters, respectively. AUC, area under the curve;  C \n max , maximum plasma concentration; CYP, cytochrome P450; T‐DXd, trastuzumab deruxtecan.",
+  "context": "Sensitivity analysis for the contribution of different elimination routes to interaction with itraconazole and ritonavir. Panels (a–d) represent the simulated DXd  C \n max  (a, c) and AUC (b, d) geometric mean ratios following administration of T‐DXd in the presence and absence of ritonavir (a, b) or itraconazole (c, d) with differing contributions of the elimination routes for DXd clearance. Blue, gray, orange, and yellow lines represent the impact of up to 10‐fold increases or decreases in CYP3A4 metabolism, efflux clearance, uptake clearance, and renal clearance parameters, respectively. AUC, area under the curve;  C \n max , maximum plasma concentration; CYP, cytochrome P450; T‐DXd, trastuzumab deruxtecan. Accounting for Risk of Uncertainty in DXd DDI Predictions Sensitivity analyses of DXd clearance pathways with GMRs for DXd from DDI simulations following administration of T‐DXd 5.4 mg/kg every 21 days in the presence and absence of ritonavir or itraconazole are shown in Figure 3 , Table S6 (ritonavir), and Table S7 (itraconazole). To evaluate the impact of the estimated contribution of DXd clearance pathways on predicted DDIs with ritonavir and itraconazole, sensitivity analyses of each clearance parameter were conducted (Figure 3 , Tables S6 and S7 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13250399/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-06-01",
+  "retrieved_at": "2026-09-07T13:12:39.191723+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13250399",
+    "pmid": "42265973",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 3"
+  },
+  "image_hash": "ce0ffd8afa59aab2895e7740784ee4d144dd616d1686493336fef5f9425039db",
+  "image_file": "image.jpg"
+}

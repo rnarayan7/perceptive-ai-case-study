@@ -1,0 +1,53 @@
+September 26, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+labeling for approved checkpoint inhibitors in this indication reflect broad approvals in the intent
+to treat patient populations agnostic of programmed death cell ligand-1 (PD-L1) expression.
+Cumulative data has shown that PD-L1 expression appears to be a predictive biomarker of
+treatment efficacy in this patient population; however, clinical trials have used different
+approaches to assess PD-L1 expression and different thresholds to define PD-L1 positivity. FDA
+would like the Committee’s opinion on the:
+     • adequacy of PD-L1 expression as a predictive biomarker for patient selection in this
+         patient population,
+     • differing risk-benefit assessments in different subpopulations defined by PD-L1
+         expression, and
+     • adequacy of the cumulative data to restrict the approvals of immune checkpoint inhibitors
+         based on PD-L1 expression.
+The Committee discussed the existing sBLAs which were approved for patients with previously
+untreated unresectable or metastatic esophageal squamous cell carcinoma:
+     • sBLA 125514/S-096 for KEYTRUDA (pembrolizumab) injection, submitted by Merck
+         Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc.;
+     • sBLAs 125554/S-105 and S-106 for OPDIVO (nivolumab) injection, submitted by
+         Bristol Myers-Squibb Co.; and
+     • sBLA 125377/S-122 for YERVOY (ipilimumab) injection, submitted by Bristol Myers-
+         Squibb Co.
+The Committee also discussed the new BLA 761380 for tislelizumab, submitted by BeiGene
+USA, Inc., for the same proposed indication.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): William J. Gradishar,
+MD; Ravi A. Madan, MD; Daniel Spratt, MD; Neil Vasan, MD, PhD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Toni K. Choueiri,
+MD; Mark R. Conaway, PhD; Pamela L. Kunz, MD
+
+Oncologic Drugs Advisory Committee Member Not Present (Non-Voting): Tara L. Frenkl,
+MD, MPH (Industry Representative)
+
+Temporary Members (Voting): Dana Deighton (Patient Representative; Afternoon Session
+Only); Lori Dodd, PhD; Michael K. Gibson, MD, PhD FACP; Randy W. Hawkins MD (Acting
+Consumer Representative); James Randolph Hillard, MD (Patient Representative; Morning
+Session Only); Christopher Lieu, MD (Acting Chairperson); Heidi McKean, MD; Jeffrey A.
+Meyerhardt, MD, MPH; Hanna Sanoff, MD, MPH; Katherine Van Loon, MD, MPH (via video
+conferencing platform)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Paul Kluetz, MD; Steven Lemery, MD,
+MHS; Sandra Casak, MD; Vaibhav Kumar, MD, MS (Morning Session Only); Geetika
+Srivastava MD, MSPH (Afternoon Session Only); Yiming Zhang, PhD (Morning Session Only);
+Zhou Feng, PhD (Afternoon Session Only)
+
+Acting Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+
+                                             Page 4 of 9
+

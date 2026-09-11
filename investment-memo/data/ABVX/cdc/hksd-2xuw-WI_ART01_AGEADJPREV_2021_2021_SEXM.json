@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-WI_ART01_AGEADJPREV_2021_2021_SEXM",
+  "title": "Arthritis - Wisconsin - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002512+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Wisconsin",
+    "location_abbr": "WI",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "21.5",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "d91c22c4664f15a24df08c95090f23d008ba69873b7951433cc98c61cce175a7"
+}

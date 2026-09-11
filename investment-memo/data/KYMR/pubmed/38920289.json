@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "38920289",
+  "title": "Discovery of KT-413, a Targeted Protein Degrader of IRAK4 and IMiD Substrates Targeting MYD88 Mutant Diffuse Large B-Cell Lymphoma.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38920289/",
+  "published": "2024",
+  "retrieved_at": "2026-09-07T08:26:55.635028+00:00",
+  "metadata": {
+    "journal": "Journal of medicinal chemistry",
+    "year": "2024",
+    "pmid": "38920289"
+  },
+  "hash": "3e4ca7275867bf0a88aa4094ab7d46ae476a64d0624dffe4f4baa71a1bd22057"
+}

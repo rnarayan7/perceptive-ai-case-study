@@ -1,0 +1,31 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA219236",
+  "title": "Drugs@FDA ANDA219236: OZANIMOD",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A219236",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:01.078628+00:00",
+  "metadata": {
+    "manufacturer": "SYNTHON BV",
+    "brand_name": "OZANIMOD",
+    "sponsor_name": "SYNTHON BV",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "OZANIMOD"
+    ],
+    "active_ingredients": [
+      "OZANIMOD"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "f0b74662170129b57d46ae32e3a6fde03eec67119d77d054d016b2636daf4636"
+}

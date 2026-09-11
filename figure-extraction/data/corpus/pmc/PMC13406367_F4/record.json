@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13406367_F4",
+  "figure_type": "forest",
+  "title": "Survival benefit of concurrent beta-blocker use in cancer patients treated with radiotherapy: A systematic review and meta-analysis.",
+  "caption": "Forest plot for β-Blockers and 1-year OS in radiotherapy-treated patients. CI = confidence interval.",
+  "context": "Forest plot for β-Blockers and 1-year OS in radiotherapy-treated patients. CI = confidence interval. The pooled results from the random‑effects model showed a statistically significant improvement in 1-year OS in the beta-blocker group (adjusted OR = 2.39, 95% CI: 1.00–5.696, P < .0001), as shown in Figure 4 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13406367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:04:19.040122+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13406367",
+    "pmid": "42499029",
+    "journal": "Medicine",
+    "fig_label": "Figure 4."
+  },
+  "image_hash": "a98d4d9eef0b0b088e9da114f16972ca1376391ceb01c37ffae757f013bb2b24",
+  "image_file": "image.jpg"
+}

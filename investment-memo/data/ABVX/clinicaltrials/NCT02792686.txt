@@ -1,0 +1,13 @@
+Title: ABX464 First in Man Study
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Healthy Volunteers
+Interventions: ABX464 (DRUG)
+Enrollment: 24
+
+Summary: This study is an open label, parallel group, single ascending dose, exploratory study performed in a single site (Centre Cap, Montpellier, France).
+
+Primary outcomes:
+- Percentage of patients experiencing at least one Adverse Event (time frame: Up to 45 days post dosing)

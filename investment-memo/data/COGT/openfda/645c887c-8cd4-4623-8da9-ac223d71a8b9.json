@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "645c887c-8cd4-4623-8da9-ac223d71a8b9",
+  "title": "Label: Ayvakit (AVAPRITINIB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-08T08:40:56.536776+00:00",
+  "metadata": {
+    "brand_name": "Ayvakit",
+    "generic_name": "AVAPRITINIB",
+    "manufacturer": "Blueprint Medicines Corporation",
+    "manufacturer_name": "Blueprint Medicines Corporation",
+    "pharm_class_epc": "Kinase Inhibitor [EPC]",
+    "pharm_class_moa": "Tyrosine Kinase Inhibitors [MoA]",
+    "application_number": "NDA212608",
+    "route": "ORAL"
+  },
+  "hash": "18f1f6c2a5929005fc9d65a500de66bd71e10f73d5ba9b181b9b155a7ab69bc9"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12823314_psp470185-fig-0001",
+  "figure_type": "pk_logscale",
+  "title": "Albumin Levels Are Predictive of Cachexia-Induced Time-Dependent Clearance of Therapeutic Antibodies: A Physiologically Based Pharmacokinetic Model of Durvalumab.",
+  "caption": "Organ‐level structure of the whole body PBPK model (A), and internal compartments comprising each organ (B). (A) Boxes represent tissue compartments. Solid arrows represent the direction of blood flow between compartments. Dotted arrows represent the direction of lymph flow. (B) Ab, antibody; Q, blood flow; J, lymph flow; CL up , pinocytosis uptake clearance;  k \n deg , degradation rate constant;  k \n on , association rate constant;  k \n off , dissociation rate constant. FcRn, neonatal Fc receptor; fr, fraction recycled to the plasma compartment; CL TP,L , extravasation clearance via large pores; CL TP,S , extravasation clearance via small pores.",
+  "context": "Organ‐level structure of the whole body PBPK model (A), and internal compartments comprising each organ (B). (A) Boxes represent tissue compartments. Solid arrows represent the direction of blood flow between compartments. Dotted arrows represent the direction of lymph flow. (B) Ab, antibody; Q, blood flow; J, lymph flow; CL up , pinocytosis uptake clearance;  k \n deg , degradation rate constant;  k \n on , association rate constant;  k \n off , dissociation rate constant. FcRn, neonatal Fc receptor; fr, fraction recycled to the plasma compartment; CL TP,L , extravasation clearance via large pores; CL TP,S , extravasation clearance via small pores. Briefly, the PBPK model characterizes PK of biologics of varying size including monoclonal antibodies, Fc‐fusion proteins, albumin, albumin conjugates, and albumin‐binding proteins using a whole‐body structure (Figure 1A ). Protein catabolism was modeled by uptake and degradation in lysosomes within endothelial cells and recycling via the neonatal Fc receptor (FcRn) (Figure 1B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823314/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-02-01",
+  "retrieved_at": "2026-09-07T13:12:04.415856+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC12823314",
+    "pmid": "41543435",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "b277c5f9de9d0ba1923a0bc384236ce7bae21549ec4ff43ced80650bde697055",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "00203a7b-e774-45f7-ac6b-48db6d32a48a",
+  "title": "Label: LACOSAMIDE",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=00203a7b-e774-45f7-ac6b-48db6d32a48a",
+  "published": "2024-10-16",
+  "retrieved_at": "2026-09-08T08:40:34.883224+00:00",
+  "metadata": {
+    "brand_name": "LACOSAMIDE",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Somerset Therapeutics, LLC",
+    "manufacturer_name": "Somerset Therapeutics, LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA214960",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "a9533f4a616ca7953896c3be54773c7846af6b665391b5d6639779ca6675d438"
+}

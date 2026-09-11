@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "38295619",
+  "title": "Structure-activity relationship and target investigation of 2-aryl quinolines with nematocidal activity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38295619/",
+  "published": "2024-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.554990+00:00",
+  "metadata": {
+    "journal": "International journal for parasitology. Drugs and drug resistance",
+    "year": "2024",
+    "pmid": "38295619"
+  },
+  "hash": "aebffacc17d8e2f2554a7899ce71c3fedc73713251e55159d666a24281b774d1"
+}

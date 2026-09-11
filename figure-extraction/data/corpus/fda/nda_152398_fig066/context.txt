@@ -1,0 +1,96 @@
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Figure 13     Forest Plot of Overall Response Rate by Subgroup – 200 mg QD dose, mITT
+               Population, Phase 2 Analysis Group
+
+
+
+
+                                                                     188
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+               Secondary and exploratory endpoint analyses supported the primary analysis. Corticosteroid
+               dose reductions and discontinuations were demonstrated among both responders and non-
+               responders.
+
+               Subpopulations
+
+
+                        Data:
+
+               Evaluation of ORR was performed for the following pre-specified subgroups: age group, gender,
+               race, number of organs involved at baseline, severe cGVHD, number of prior lines of therapy,
+               prior use of ibrutinib, prior use of ruxolitinib, refractory to prior line of cGVHD treatment,
+               duration of cGVHD before enrollment, and baseline glomerular filtration rate (GFR).
+               Overall Response Rate
+               Among subjects in the 200 mg QD group, there were numerical differences in ORR in the
+               subgroups analyses of age group and number of prior lines of therapy.
+               With respect to the subgroup analysis of age group, the ORR for subjects ≥ 65 years of age
+               (N = 17) was 53% (95% CI: 28, 77). Although the lower bound of this CI crosses 30%, the point
+               estimate is meaningful, and the CI is wide given the number of subjects. For subjects < 65 years
+               of age (N = 66), ORR was 76% (95% CI: 64, 86).
+               With respect to the subgroup analysis of number of lines of prior therapy, robust responses
+               were observed in subjects who had received < 4 and ≥ 4 lines of prior therapy. When pooled
+               across number of lines (i.e., combining 1 line with 2 or 3 lines) and compared with subjects with
+               ≥ 4 lines of prior therapy, no meaningful differences in ORR were observed with belumosudil.
+               Pooled across all dose levels, the ORR in subjects who had 1 prior line of therapy (n=16) was
+               63% (95% CI: 35, 85). Subjects in the combined 200 mg QD and 200 mg BID group (n=9) had an
+               ORR of 67% (95% CI: 30, 93).
+               Among all subjects, there were no meaningful differences in ORR to belumosudil across
+               subgroups based on age, gender, race, number of organs involved at baseline, severe cGVHD,
+               prior use of ibrutinib, prior use of ruxolitinib, refractory to prior line of cGVHD treatment,
+               duration of cGVHD before enrollment, and baseline GFR.
+               A forest plot of the ORR to treatment with belumosudil by subgroup for subjects in the 200 mg
+               QD group (mITT-P2AG) is presented in Figure 13.
+
+
+
+
+                                                                     187
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+
+               NDA Multidisciplinary Review and Evaluation
+               NDA 214783
+               Rezurock (belumosudil)
+
+
+
+
+               Abbreviations: BID = twice daily; C1D1 = Cycle 1 Day 1; cGVHD = chronic graft versus host disease; mITT = modified
+               intent-to-treat; QD = once daily.
+               Notes: CIs were calculated using the Clopper-Pearson interval (exact) method. The vertical bar references 30%,
+               which was considered clinically meaningful in an unmet need population. The data cutoff date was
+               19 February 2020.
+               Source: ISE Figure 3.1A1.
+
+                        The Applicant’s Position:
+
+               Among subjects in the 200 mg QD group, there were significant differences in ORR in the
+               subgroups analyses of age group and number of prior lines of therapy. As demonstrated by the
+               forest plots, the 95% CIs for each comparison are inclusive of 30%, indicating statistically
+               significant differences in ORR in these observed subgroups.
+
+                                                                      189
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.
+
+
+Reference ID: 4827003
+

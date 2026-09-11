@@ -1,0 +1,47 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07383506",
+  "title": "A Study of Mutant Selective-Inhibitor (CGT6297), in Patients With Advanced Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT07383506",
+  "published": "2026-02-03",
+  "retrieved_at": "2026-09-07T12:53:51.529628+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "PIK3CA Mutations",
+      "Advanced Solid Tumors, Adult",
+      "Endometrial Cancer",
+      "HR Positive/HER-2 Negative Breast Cancer",
+      "HER2-low Breast Cancer"
+    ],
+    "interventions": [
+      {
+        "name": "CGT6297",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 90,
+    "start_date": "2026-07-23",
+    "primary_completion_date": "2029-07",
+    "completion_date": "2029-08",
+    "first_posted_date": "2026-02-03",
+    "primary_outcomes": [
+      {
+        "measure": "Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Phase 1a]",
+        "timeFrame": "Approximately 12 months"
+      },
+      {
+        "measure": "Overall Response Rate [Phase 1b]",
+        "timeFrame": "Approximately 8 months"
+      }
+    ]
+  },
+  "hash": "4bf9529b4f86c601c3945102af74b8e59a01569e20ea1703f8ee940035db0acf"
+}

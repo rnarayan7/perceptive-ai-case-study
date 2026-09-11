@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13199703_fig1-17588359261446799",
+  "figure_type": "kaplan_meier",
+  "title": "The impact of APC mutation on the efficacy of anti-EGFR therapy in metastatic colorectal cancer with RAS wild type: a retrospective analysis.",
+  "caption": "Kaplan–Meier curve of progression-free survival according to APC mutation status.",
+  "context": "Kaplan–Meier curve of progression-free survival according to APC mutation status. The median PFS was 20.9 months (95% CI, 14.5–NA) in patients with APC mutation and 11.0 months (95% CI, 8.7–NA) with APC wild type ( Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199703/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-05-23",
+  "retrieved_at": "2026-09-07T12:53:02.106048+00:00",
+  "ground_truth": [
+    {
+      "quantity": "median (candidate)",
+      "value": "20.9",
+      "unit": "months",
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "l according to APC mutation status. The median PFS was 20.9 months (95% CI, 14.5–NA) in patients with APC",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13199703",
+    "pmid": "42199488",
+    "journal": "Therapeutic advances in medical oncology",
+    "fig_label": "Figure 1."
+  },
+  "image_hash": "f54e6c1b66eae8d8b412bc0d874a7b2d0ec7a26feee24c2f30d1791d9a706115",
+  "image_file": "image.jpg"
+}

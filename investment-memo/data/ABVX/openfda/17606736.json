@@ -1,0 +1,49 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17606736",
+  "title": "FAERS report 17606736: Proteinuria",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17606736",
+  "published": "2020-05-06",
+  "retrieved_at": "2026-09-08T08:39:59.980474+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Proteinuria"
+    ],
+    "drugs": [
+      "PIRAMIL",
+      "POLPRAZOL",
+      "DIUVER",
+      "PANPRAZOX ? PANTOPRAZOLUM",
+      "PIRAMIL",
+      "VITAMINUM C COMLEX",
+      "ATRAM",
+      "CLOPIDOGREL",
+      "BETOZK",
+      "BIOTRAXON?CEFTRIAKSON",
+      "PLAVIX",
+      "ACARD",
+      "BETO ZK 50",
+      "VENTOLIN",
+      "NEUROPHEN",
+      "PIRAMIL",
+      "SORTIS",
+      "THEOSPIREX RETARD",
+      "OZANIMOD.",
+      "FLUCONAZOLUM",
+      "MULTILAC",
+      "PARACETAMOL",
+      "PULMICORT TURBUHALER",
+      "DIUVER",
+      "ATROVENT",
+      "BETO ZK 50",
+      "DITROPAN",
+      "ROZEX CREAM"
+    ],
+    "occurcountry": "PL"
+  },
+  "hash": "fd61e8eb46cc80dcedaeab8143318d4ae1d86fa8667fec4d1b30274abb658c83"
+}

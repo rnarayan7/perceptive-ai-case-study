@@ -1,0 +1,33 @@
+{
+  "company": "PRAX",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "net_income_loss",
+  "title": "PRAXIS PRECISION MEDICINES, INC. - Net income (loss) (2026-06-30)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+  "published": "2026-06-30",
+  "retrieved_at": "2026-09-08T08:46:35.405533+00:00",
+  "metadata": {
+    "cik": 1689548,
+    "entity_name": "PRAXIS PRECISION MEDICINES, INC.",
+    "concept": "net_income_loss",
+    "label": "Net income (loss)",
+    "taxonomy": "us-gaap",
+    "tag": "NetIncomeLoss",
+    "value": -176281000.0,
+    "unit": "USD",
+    "reporting_currency": "USD",
+    "period_end": "2026-06-30",
+    "period_start": "2026-01-01",
+    "period_type": "duration",
+    "accession": "0001689548-26-000083",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-06",
+    "frame": null,
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001689548.json",
+    "derived": false
+  },
+  "hash": "fe2c05aa03b14922a79036cb20f0be0dcfa9864977c522eb372eacd27f6a5293"
+}

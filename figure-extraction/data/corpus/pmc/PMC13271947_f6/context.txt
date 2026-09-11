@@ -1,0 +1,1 @@
+Forest plot of statin use versus no statin use on breast cancer–specific survival using a random-effects model. Heterogeneity among the included studies was minimal (Tau² = 0.00; Chi² = 3.06; df = 3; P = 0.38; I² = 2%), suggesting high consistency of results across studies ( Figure 6 ).

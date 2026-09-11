@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "01162e2f-967b-4596-8188-c0d9889c3814",
+  "title": "Label: LACOSAMIDE",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=01162e2f-967b-4596-8188-c0d9889c3814",
+  "published": "2026-01-23",
+  "retrieved_at": "2026-09-08T08:40:34.883568+00:00",
+  "metadata": {
+    "brand_name": "LACOSAMIDE",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer": "Virtus Pharmaceuticals, LLC",
+    "manufacturer_name": "Virtus Pharmaceuticals, LLC",
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": "ANDA215628",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "541230b1326047b718f5e6b3eb3287deb8e7727301df5dce391af1a6712c3405"
+}

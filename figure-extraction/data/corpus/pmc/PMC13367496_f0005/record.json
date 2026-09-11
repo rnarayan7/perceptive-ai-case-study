@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13367496_f0005",
+  "figure_type": "kaplan_meier",
+  "title": "A Novel Prognostic Model Based on Prognostic Nutritional Index and Systemic Immune-Inflammation Index for Cancer Patients Treated with Immune Checkpoint Inhibitors.",
+  "caption": "Prognostic significance of PNI-SII score in the subgroup analysis based on age. ( A  and  B ) Kaplan–Meier curves for the association of PNI-SII score with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in patients aged over 70 years old. ( C  and  D ) Kaplan–Meier curves for the association of PNI-SII score with OS ( C ) and PFS ( D ) in patients aged below 70 years old.",
+  "context": "Prognostic significance of PNI-SII score in the subgroup analysis based on age. ( A  and  B ) Kaplan–Meier curves for the association of PNI-SII score with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in patients aged over 70 years old. ( C  and  D ) Kaplan–Meier curves for the association of PNI-SII score with OS ( C ) and PFS ( D ) in patients aged below 70 years old. In patients aged over 70 years old (n=138), patients with high PNI-SII score had a significantly worse OS (p<0.001, Figure 5A ) and PFS (p=0.013, Figure 5B ) compared with those with low PNI-SII score. The same result was observed in patients aged below 70 years old (n=212, OS, p<0.001, Figure 5C ; PFS, p<0.001, Figure 5D ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13367496/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:52:04.129178+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13367496",
+    "pmid": "42453699",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "61414677a6598e517b32f10150acad0835905cab681d3b65e70345b8ec281bf5",
+  "image_file": "image.jpg"
+}

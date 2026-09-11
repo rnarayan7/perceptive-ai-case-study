@@ -1,0 +1,39 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07188844",
+  "title": "An Open-Label Extension Study of Batoclimab in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+  "url": "https://clinicaltrials.gov/study/NCT07188844",
+  "published": "2025-09-23",
+  "retrieved_at": "2026-09-07T12:53:37.942893+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Chronic Inflammatory Demyelinating Polyneuropathy"
+    ],
+    "interventions": [
+      {
+        "name": "Batoclimab",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 26,
+    "start_date": "2025-08-28",
+    "primary_completion_date": "2026-07-16",
+    "completion_date": "2026-07-16",
+    "first_posted_date": "2025-09-23",
+    "primary_outcomes": [
+      {
+        "measure": "Proportion of Participants with Treatment-Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and TEAEs Leading to Treatment Discontinuation",
+        "timeFrame": "Up to 52 weeks"
+      }
+    ]
+  },
+  "hash": "141271dc5fba9a6d66a8d98dc8d5a2989c25ef71d0b6d033a16328d764e68d2f"
+}

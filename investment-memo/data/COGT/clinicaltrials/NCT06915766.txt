@@ -1,0 +1,8 @@
+Title: Expanded Access to Bezuclastinib for Patients With NonAdvanced Systemic Mastocytosis or Advanced Systemic Mastocytosis
+Status: AVAILABLE
+Study type: EXPANDED_ACCESS
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Systemic Mastocytoses, Indolent, Systemic Mastocytoses, Aggressive
+Interventions: Bezuclastinib (DRUG)
+
+Summary: The purpose of this expanded access program (EAP) protocol is to provide investigational bezuclastinib to patients with a diagnosis of nonadvanced systemic mastocytosis (NonAdvSM) or advanced systemic mastocytosis (AdvSM) who have received and failed or been intolerant to at least one standard approved therapy and/or have no comparable or satisfactory alternative therapy options.

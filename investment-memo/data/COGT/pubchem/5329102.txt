@@ -1,0 +1,7 @@
+Compound: sunitinib
+PubChem CID: 5329102
+IUPAC name: N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide
+Molecular formula: C22H27FN4O2
+Molecular weight: 398.5 g/mol
+SMILES: CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C
+Synonyms: Sunitinib, 557795-19-4, SU11248, sunitinibum, SU-11248, Su-011248, NSC-750690, N-[2-(diethylamino)ethyl]-5-{[(3Z)-5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-ylidene]methyl}-2,4-dimethyl-1H-pyrrole-3-carboxamide, SU011248, N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide, NSC-736511, V99T50803M, n-(2-(diethylamino)ethyl)-5-((z)-(5-fluoro-1,2-dihydro-2-oxo-3h-indol-3-ylidene)methyl)-2,4-dimethyl-1h-pyrrole-3-carboxamide, DTXSID1041134, CHEBI:38940

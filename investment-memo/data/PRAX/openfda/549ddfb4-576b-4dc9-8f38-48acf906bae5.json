@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "549ddfb4-576b-4dc9-8f38-48acf906bae5",
+  "title": "Label: Drug label",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=549ddfb4-576b-4dc9-8f38-48acf906bae5",
+  "published": "2026-08-05",
+  "retrieved_at": "2026-09-08T08:40:44.130290+00:00",
+  "metadata": {
+    "brand_name": null,
+    "generic_name": null,
+    "manufacturer": null,
+    "manufacturer_name": null,
+    "pharm_class_epc": null,
+    "pharm_class_moa": null,
+    "application_number": null,
+    "route": null
+  },
+  "hash": "8b97b159468ac96e5f4cd19d759647b733e0e461baa1ed3b00a5768694ac51ac"
+}

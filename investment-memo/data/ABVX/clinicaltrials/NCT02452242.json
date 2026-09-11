@@ -1,0 +1,43 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02452242",
+  "title": "Safety, PK and PD Study of ABX464 in Untreated HIV Patients",
+  "url": "https://clinicaltrials.gov/study/NCT02452242",
+  "published": "2015-05-22",
+  "retrieved_at": "2026-09-07T12:53:29.799142+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Human Immunodeficiency Virus Infections"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "OTHER"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 70,
+    "start_date": "2015-01",
+    "primary_completion_date": "2015-12",
+    "completion_date": "2016-05",
+    "first_posted_date": "2015-05-22",
+    "primary_outcomes": [
+      {
+        "measure": "Safety and tolerability profile of ABX464 as assessed by the change from baseline in laboratory values, in vital signs and ECG parameters at week 3 and by the number of patients with adverse events.",
+        "timeFrame": "Week 3"
+      }
+    ]
+  },
+  "hash": "1b3904085b7b5ee19ccfc212698e9d1db4a56806241e327d142bdbccef0c6164"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13117838_f0004",
+  "figure_type": "spider",
+  "title": "Camrelizumab Plus Apatinib in Advanced Unresectable Alveolar Soft Part Sarcoma and Undifferentiated Pleomorphic Sarcoma Patients: A Single-Center, Exploratory Case Series.",
+  "caption": "Swimmer plot depicting the treatment duration and follow-up for each patient. Horizontal bars represent individual patients, with colored segments denoting the treatment duration (light-red segments) and follow-up period (green segments).",
+  "context": "Swimmer plot depicting the treatment duration and follow-up for each patient. Horizontal bars represent individual patients, with colored segments denoting the treatment duration (light-red segments) and follow-up period (green segments). Further short-term efficacy and long-term outcome data of individual patients are presented in Table 2 and Figures 2–4 . Figures 3 and 4 depict the three patients with the longest ongoing PFS during treatment-free follow-up; these patients may have achieved a clinical complete response.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13117838/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-04-23",
+  "retrieved_at": "2026-09-07T13:16:07.047090+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13117838",
+    "pmid": "42051923",
+    "journal": "Therapeutics and clinical risk management",
+    "fig_label": "Figure 4"
+  },
+  "image_hash": "235977b3c17aaf1a1d4722644c83153c4f755de18419d09192eb26271e42a8a3",
+  "image_file": "image.jpg"
+}

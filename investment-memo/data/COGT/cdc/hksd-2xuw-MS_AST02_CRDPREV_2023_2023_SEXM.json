@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-MS_AST02_CRDPREV_2023_2023_SEXM",
+  "title": "Asthma - Mississippi - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.853659+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Mississippi",
+    "location_abbr": "MS",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "5.0",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "bc5172ec02c1c8c35b4731a2f3a15861e9eff1a412109ce81a3f92521edb0897"
+}

@@ -1,0 +1,41 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "15543106",
+  "title": "FAERS report 15543106: Anaphylactic reaction, Pulmonary congestion, Chest discomfort",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:15543106",
+  "published": "2023-09-15",
+  "retrieved_at": "2026-09-08T08:40:57.627975+00:00",
+  "metadata": {
+    "term": "avapritinib",
+    "serious": true,
+    "reactions": [
+      "Anaphylactic reaction",
+      "Pulmonary congestion",
+      "Chest discomfort",
+      "Dyspnoea",
+      "Flushing",
+      "Dizziness",
+      "Nausea",
+      "Syncope",
+      "Vomiting",
+      "Diarrhoea",
+      "Hypotension"
+    ],
+    "drugs": [
+      "OSIMERTINIB",
+      "OSIMERTINIB",
+      "OSIMERTINIB",
+      "OSIMERTINIB",
+      "PREDNISONE",
+      "OMALIZUMAB",
+      "MIDOSTAURIN",
+      "AVAPRITINIB",
+      "AVAPRITINIB",
+      "AVAPRITINIB"
+    ],
+    "occurcountry": null
+  },
+  "hash": "d1517e7ce048a323013acecf94d1d3c2244cd1c4bad6830545629f1f5367861d"
+}

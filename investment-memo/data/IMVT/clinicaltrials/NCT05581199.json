@@ -1,0 +1,47 @@
+{
+  "company": "IMVT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05581199",
+  "title": "To Assess Efficacy and Safety of Batoclimab in Adult Participants With Active CIDP",
+  "url": "https://clinicaltrials.gov/study/NCT05581199",
+  "published": "2022-10-14",
+  "retrieved_at": "2026-09-07T12:53:37.948810+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Chronic Inflammatory Demyelinating Polyneuropathy"
+    ],
+    "interventions": [
+      {
+        "name": "Batoclimab 680 milligrams (mg) subcutaneous (SC) weekly",
+        "type": "DRUG"
+      },
+      {
+        "name": "Batoclimab 340 mg SC weekly",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Immunovant Sciences GmbH",
+    "enrollment": 94,
+    "start_date": "2022-12-15",
+    "primary_completion_date": "2026-07-20",
+    "completion_date": "2026-07-20",
+    "first_posted_date": "2022-10-14",
+    "primary_outcomes": [
+      {
+        "measure": "Period 2, Cohort A: Proportion of participants who remain relapse-free at Week 36",
+        "timeFrame": "Week 36"
+      }
+    ]
+  },
+  "hash": "453f52e1d25a7f5cfc7db71a95a7c8d3caaec651165d629e88158f123449cfdc"
+}

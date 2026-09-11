@@ -1,0 +1,44 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10294256",
+  "title": "FAERS report 10294256: Stomatitis, Rectal abscess",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10294256",
+  "published": "2019-05-27",
+  "retrieved_at": "2026-09-08T08:40:13.659996+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Stomatitis",
+      "Rectal abscess"
+    ],
+    "drugs": [
+      "GATTEX",
+      "IMODIUM",
+      "RIFAXIMIN.",
+      "BUDESONIDE.",
+      "TACROLIMUS.",
+      "CERTOLIZUMAB PEGOL",
+      "VITAMIN B12",
+      "FOLIC ACID.",
+      "PHENERGAN",
+      "METHOTREXATE.",
+      "RECLAST",
+      "SODIUM BICARBONATE.",
+      "BACTRIM DS",
+      "SULFASALAZINE.",
+      "FLEXERIL",
+      "MYCOPHENOLATE",
+      "PREDNISONE.",
+      "VEDOLIZUMAB",
+      "POTASSIUM",
+      "6-MP",
+      "CYCLOSPORINE.",
+      "SULFASALAZINE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "5e5e5dc57eb1d48dd6c3cc6f0ca15cf97547566593ea1ddce652d1b53a9d60b6"
+}

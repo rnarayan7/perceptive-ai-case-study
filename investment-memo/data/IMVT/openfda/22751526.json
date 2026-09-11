@@ -1,0 +1,29 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "22751526",
+  "title": "FAERS report 22751526: Renal failure, Diabetes mellitus, Abdominal pain",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:22751526",
+  "published": "2023-10-19",
+  "retrieved_at": "2026-09-08T08:40:52.400695+00:00",
+  "metadata": {
+    "term": "rozanolixizumab",
+    "serious": true,
+    "reactions": [
+      "Renal failure",
+      "Diabetes mellitus",
+      "Abdominal pain",
+      "Diarrhoea",
+      "Toothache",
+      "Urinary tract infection"
+    ],
+    "drugs": [
+      "ROZANOLIXIZUMAB",
+      "ROZANOLIXIZUMAB",
+      "AZATHIOPRINE"
+    ],
+    "occurcountry": "FR"
+  },
+  "hash": "2860c5bcb7157cf0ea4556233d688a5e6bdfaea958bb1b222bdd80ad892f4286"
+}

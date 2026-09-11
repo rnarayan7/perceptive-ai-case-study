@@ -1,0 +1,36 @@
+{
+  "company": "COGT",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "75593308",
+  "title": "4,5-dimethyl-N-(2-phenyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazole-3-carboxamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/75593308",
+  "published": null,
+  "retrieved_at": "2026-09-08T10:07:32.211196+00:00",
+  "metadata": {
+    "cid": 75593308,
+    "query_name": "CGT9486",
+    "molecular_formula": "C19H17N5O",
+    "molecular_weight": "331.4",
+    "smiles": "CC1=C(NN=C1C(=O)NC2=CN=C3C(=C2)C=C(N3)C4=CC=CC=C4)C",
+    "iupac_name": "4,5-dimethyl-N-(2-phenyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazole-3-carboxamide",
+    "synonyms": [
+      "Bezuclastinib",
+      "1616385-51-3",
+      "CGT9486",
+      "4,5-dimethyl-N-(2-phenyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazole-3-carboxamide",
+      "PLX-9486",
+      "PLX9486",
+      "2ROQ545LAG",
+      "CGT-9486",
+      "PLX 9486 [WHO-DD]",
+      "BEZUCLASTINIB [INN]",
+      "3,4-Dimethyl-N-(2-phenyl-1H-pyrrolo(2,3-b)pyridin-5-yl)-1H-pyrazole-5-carboxamide",
+      "3,4-dimethyl-N-(2-phenyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazole-5-carboxamide",
+      "4,5-dimethyl-N-(2-phenyl-1H-pyrrolo(2,3-b)pyridin-5-yl)-1H-pyrazole-3-carboxamide",
+      "RefChem:119584",
+      "c-Kit Inhibitor PLX9486"
+    ]
+  },
+  "hash": "0f7b51210942dc22b2e7a118c2fce7391d268ac17ace955fb7c96c9b35b2f972"
+}

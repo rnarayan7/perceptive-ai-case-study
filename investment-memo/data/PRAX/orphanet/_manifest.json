@@ -1,0 +1,97 @@
+{
+  "company": "PRAX",
+  "source": "orphanet",
+  "started_at": "2026-09-08T10:06:49.397094+00:00",
+  "finished_at": "2026-09-08T10:06:51.829977+00:00",
+  "documents": [
+    {
+      "company": "PRAX",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha1934-prevalence-at-birth-japan-9f142910",
+      "title": "Early infantile developmental and epileptic encephalopathy - Prevalence at birth (Japan) [ORPHA:1934]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:06:50.400863+00:00",
+      "metadata": {
+        "orphacode": 1934,
+        "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+        "disorder_group": "Disorder",
+        "typology": "Clinical syndrome",
+        "prevalence_type": "Prevalence at birth",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "1.0",
+        "geographic_area": "Japan",
+        "validation_status": "Validated",
+        "source": "19828294[PMID]",
+        "source_pmids": [
+          "19828294"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "9f1429103f14222f7a90a768f8e24fbbfea154581fc39521c069942806edab8f"
+    },
+    {
+      "company": "PRAX",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha1934-prevalence-at-birth-united-kingdom-e887d0eb",
+      "title": "Early infantile developmental and epileptic encephalopathy - Prevalence at birth (United Kingdom) [ORPHA:1934]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:06:50.400950+00:00",
+      "metadata": {
+        "orphacode": 1934,
+        "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+        "disorder_group": "Disorder",
+        "typology": "Clinical syndrome",
+        "prevalence_type": "Prevalence at birth",
+        "prevalence_class": "1-9 / 100 000",
+        "prevalence_qualification": "Value and class",
+        "value_average": "2.0",
+        "geographic_area": "United Kingdom",
+        "validation_status": "Validated",
+        "source": "23252366[PMID]_[EXPERT]",
+        "source_pmids": [
+          "23252366"
+        ],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "e887d0ebbca6ad588c0aa7b89773d58725c3733c6ba329faee57ee029917896a"
+    },
+    {
+      "company": "PRAX",
+      "source": "orphanet",
+      "doc_type": "prevalence",
+      "doc_id": "orpha1934-point-prevalence-europe-ae49fd5d",
+      "title": "Early infantile developmental and epileptic encephalopathy - Point prevalence (Europe) [ORPHA:1934]",
+      "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+      "published": "2026-06-23",
+      "retrieved_at": "2026-09-08T10:06:50.400982+00:00",
+      "metadata": {
+        "orphacode": 1934,
+        "preferred_term": "Early infantile developmental and epileptic encephalopathy",
+        "disorder_group": "Disorder",
+        "typology": "Clinical syndrome",
+        "prevalence_type": "Point prevalence",
+        "prevalence_class": "Unknown",
+        "prevalence_qualification": "Class only",
+        "value_average": "0.0",
+        "geographic_area": "Europe",
+        "validation_status": "Not yet validated",
+        "source": "ORPHANET",
+        "source_pmids": [],
+        "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=1934",
+        "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/1934",
+        "annotation_date": "2026-06-23 07:57:58"
+      },
+      "hash": "ae49fd5d9654534d4c8a570d42f8f8b4380c6ca1a7b48b948af7b361d36c74fd"
+    }
+  ],
+  "errors": []
+}

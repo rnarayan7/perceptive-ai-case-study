@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NC_MEN02_CRDPREV_2020_2020_SEXM",
+  "title": "Mental Health - North Carolina - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784323+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "North Carolina",
+    "location_abbr": "NC",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "15.2",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "7ed6d0306fc388ba8b256442bd324f2c7e7195ab73cff7c8ad191d62f914ac5e"
+}

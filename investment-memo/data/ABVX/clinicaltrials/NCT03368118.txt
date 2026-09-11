@@ -1,0 +1,13 @@
+Title: Study Evaluating the Long-term Safety and Efficacy of ABX464 in Active Ulcerative Colitis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 (DRUG)
+Enrollment: 22
+
+Summary: This study is an open-label study aiming at evaluating the long-term safety and the efficacy profile of ABX464 given once a day (o.d) at 50 mg in subjects who have been previously enrolled in the ABX464-101 clinical study (induction study) and who are willing to continue their treatment.
+
+Primary outcomes:
+- Number of Treatment-emergent Adverse Events (time frame: Through subject study treatment, up to 48 months)

@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "002f9748-b0e8-4b6e-a38b-56930a839491",
+  "title": "Label: BKEMV (ECULIZUMAB-AEEB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=002f9748-b0e8-4b6e-a38b-56930a839491",
+  "published": "2026-07-02",
+  "retrieved_at": "2026-09-08T08:40:55.167513+00:00",
+  "metadata": {
+    "brand_name": "BKEMV",
+    "generic_name": "ECULIZUMAB-AEEB",
+    "manufacturer": "Amgen Inc",
+    "manufacturer_name": "Amgen Inc",
+    "pharm_class_epc": "Complement Inhibitor [EPC]",
+    "pharm_class_moa": "Complement Inhibitors [MoA]",
+    "application_number": "BLA761333",
+    "route": "INTRAVENOUS"
+  },
+  "hash": "b480bd336944177d404d669990800b579216e628766cf62fef936aeedb289696"
+}

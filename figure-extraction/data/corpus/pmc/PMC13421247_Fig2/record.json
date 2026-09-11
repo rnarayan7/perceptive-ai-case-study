@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig2",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Overlay of model calibration (blue solid lines) to mRNA biodistribution raw data at different tissue sites (shown as asterisks)",
+  "context": "Overlay of model calibration (blue solid lines) to mRNA biodistribution raw data at different tissue sites (shown as asterisks)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.765426+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 2"
+  },
+  "image_hash": "20ca760c0d9e6a4187da24477a0b5e30d7871dc0b89a7e45cdb2ce917af33576",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,98 @@
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               populations from MajesTEC-1.
+
+
+               Figure 1: Analysis Populations; MajesTEC-1
+
+
+
+
+               CCO=clinical cutoff; IV=intravenous(ly); RP2D=recommended Phase 2 dose, SC=subcutaneous(ly)
+                     Subjects treated at RP2D in Phase 1 are presented in both pivotal RP2D data and Phase 1 (dose escalation/dose expansion) data.
+                    A subject must have received the first dose of teclistamab on or before this date to be included in the indicated population.
+                     One subject in the 6 mg/kg SC cohort who received their first step-up dose on 17 March 2021 was excluded from the efficacy analyses
+                     for Phase 1 (dose escalation/dose expansion) because the cohort was incomplete at the time of the data cutoff for inclusion in efficacy
+                     analysis and the only subject enrolled in it had not yet received a treatment dose.
+                   All subjects treated with teclistamab IV received their first dose prior to 18 March 2021.
+                     As described in this section, subjects evaluated in Stage 1 of the analysis for Cohort C were included in the efficacy analysis, all of whom
+                     received at least 1 dose of teclistamab on or before 23 March 2021.
+
+               Clinical Cutoff Dates
+
+               Per protocol for MajesTEC-1, the primary analysis for the BLA is based on a clinical cutoff of
+               07 September 2021. A subset of key efficacy data were also analyzed based on a clinical cutoff of
+               09 November 2021 to assess these parameters with longer follow-up. Specifically, analyses
+               reflecting longer follow-up are provided for the pivotal RP2D primary efficacy endpoint of ORR
+               (subjects with PR or better) by IRC assessment, as well as for selected secondary and exploratory
+               efficacy endpoints. These data are presented in addenda to the CSR, SCE, and CO. Table 6
+               summarizes the clinical cutoffs for each type of data presented in this Assessment Aid, which is
+               aligned with data reported in the proposed USPI.
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                                               82
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               Institutional Review Board. Subjects provided their written consent to participate in the study
+               after having been informed about the nature and purpose of the study, participation/termination
+               conditions, and risks and benefits of treatment.
+
+               The Applicant’s Position:
+               This study was conducted in accordance with the CFR governing the protection of human subjects
+               (21 CFR part 50), Institutional Review Boards (21 CFR part 56), and the obligation of clinical
+               investigators to GCP (21 CFR 312.50 to 312.70).
+               The FDA’s Assessment:
+               FDA agrees with the Applicant’s position. The MajesTEC-1 trial was compliant with Good Clinical
+               Practices and no issues were identified that indicate a significant risk to the data quality.
+
+               Financial Disclosure
+
+               Data:
+               The 1362 principal investigators and subinvestigators participating in MajesTEC-1 were assessed
+               for financial disclosures as defined in 21 CFR Part 54, and none had disclosable financial interests.
+               Further details of financial disclosure are provided in Section 19.2.
+
+               The Applicant’s Position:
+               The Applicant has adequately assessed clinical investigators                             for    any    financial
+               interest/arrangements and no disclosable financial interests were found.
+
+               The FDA’s Assessment:
+               FDA reviewed the submitted financial disclosure form 3454 and agrees with the Applicant’s
+               position.
+
+               Patient Disposition
+
+               Data:
+               Analysis Populations
+
+               The Applicant proposes an initial BLA to be based on data in which teclistamab is administered
+               as monotherapy in adult patients with relapsed or refractory multiple myeloma. These data are
+               derived from the Phase 1/2 Study 64007957MMY1001 (MajesTEC-1).
+
+               The primary efficacy analyses presented in this section are based on the Efficacy Analysis Set,
+               which is defined as all subjects who received at least 1 dose of teclistamab on or before 18
+               March 2021. The primary safety analyses presented in Section 8.2.1 are based on the All Treated
+               Analysis Set, which is defined as all subjects who received at least 1 dose of teclistamab on or
+               before 07 September 2021. Pivotal data are from subjects treated at RP2D in either Phase 1 or
+               Cohort A in Phase 2. The same rules to determine analysis sets were applied to supportive data
+               from subjects treated in Phase 1 (dose escalation/dose expansion) and subjects treated in Cohort
+               C, except that the Efficacy Analysis Set for Cohort A consisted of subjects included in Stage 1 of the
+               Simon’s 2-stage analysis. Figure 1 summarizes the pivotal and supportive efficacy and safety
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              81
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+

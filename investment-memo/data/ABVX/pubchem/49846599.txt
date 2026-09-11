@@ -1,0 +1,7 @@
+Compound: ABX464
+PubChem CID: 49846599
+IUPAC name: 8-chloro-N-[4-(trifluoromethoxy)phenyl]quinolin-2-amine
+Molecular formula: C16H10ClF3N2O
+Molecular weight: 338.71 g/mol
+SMILES: C1=CC2=C(C(=C1)Cl)N=C(C=C2)NC3=CC=C(C=C3)OC(F)(F)F
+Synonyms: 1258453-75-6, obefazimod, ABX464, ABX-464, 8-chloro-N-[4-(trifluoromethoxy)phenyl]quinolin-2-amine, 8-Chloro-N-(4-(trifluoromethoxy)phenyl)quinolin-2-amine, SPL-464, 26RU378B9V, Abx 464, 2-Quinolinamine, 8-chloro-N-(4-(trifluoromethoxy)phenyl)-, RefChem:167336, Rev Inhibitor ABX-464, CBC 80/20 Binder ABX-464, Cap Binding Complex 80/20 Binder ABX-464, 824-937-7

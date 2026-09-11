@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA204839",
+  "title": "Drugs@FDA ANDA204839: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A204839",
+  "published": "2024-03-27",
+  "retrieved_at": "2026-09-08T08:40:37.245567+00:00",
+  "metadata": {
+    "manufacturer": "AMNEAL PHARMS",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "AMNEAL PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Discontinued"
+    ],
+    "approval_date": "2024-03-27",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "20b04285326beabe6970beeac0f47f879dfba4b2fe647b7c81acf32630edca7c"
+}

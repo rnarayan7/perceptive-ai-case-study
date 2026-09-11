@@ -1,0 +1,36 @@
+{
+  "company": "ABVX",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "42630569",
+  "title": "N-[(2S,3S,4R)-1-[(2S,3R,4S,5R,6R)-6-(acetamidomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3,4-dihydroxyoctadecan-2-yl]tetracosanamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/42630569",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:27.741807+00:00",
+  "metadata": {
+    "cid": 42630569,
+    "query_name": "ABX196",
+    "molecular_formula": "C50H98N2O9",
+    "molecular_weight": "871.3",
+    "smiles": "CCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CNC(=O)C)O)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O",
+    "iupac_name": "N-[(2S,3S,4R)-1-[(2S,3R,4S,5R,6R)-6-(acetamidomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3,4-dihydroxyoctadecan-2-yl]tetracosanamide",
+    "synonyms": [
+      "ABX196",
+      "ABX-196",
+      "SOI87F7GN2",
+      "PBS 96",
+      "PBS96",
+      "1161877-58-2",
+      "ABX 196",
+      "N-((1S,2S,3R)-1-(((6-(Acetylamino)-6-deoxy-alpha-D-galactopyranosyl)oxy)methyl)-2,3-dihydroxyheptadecyl)tetracosanamide",
+      "Tetracosanamide, N-((1S,2S,3R)-1-(((6-(acetylamino)-6-deoxy-alpha-D-galactopyranosyl)oxy)methyl)-2,3-dihydroxyheptadecyl)-",
+      "RefChem:108586",
+      "iNKT Cell Agonist ABX196",
+      "Invariant NKT Cell Agonist ABX196",
+      "UNII-SOI87F7GN2",
+      "orb2567124",
+      "ABX 196 [WHO-DD]"
+    ]
+  },
+  "hash": "50a61d662095bc04b4665df2afd1d07661a30571c05979d7b4ff21d1356d3a42"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "IMVT",
+  "source": "asp",
+  "doc_type": "asp_price",
+  "doc_id": "J9311_2026-07-01",
+  "title": "Medicare Part B ASP: Inj rituximab, hyaluronidase (J9311, 2026 Q3)",
+  "url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-08T08:59:12.233648+00:00",
+  "metadata": {
+    "hcpcs": "J9311",
+    "short_description": "Inj rituximab, hyaluronidase",
+    "dosage": "10 mg",
+    "payment_limit": 36.389,
+    "asp_per_unit": 34.32924528301887,
+    "asp_markup": 1.06,
+    "coinsurance_percentage": 20.0,
+    "effective_start": "2026-07-01",
+    "effective_end": "2026-09-30",
+    "quarter": "2026 Q3",
+    "asp_data_note": "1Q26",
+    "drug_query": "rituximab",
+    "source_file": "july-2026-medicare-part-b-payment-limit-files.zip",
+    "source_url": "https://www.cms.gov/files/zip/july-2026-medicare-part-b-payment-limit-files.zip",
+    "pricing_basis": "Medicare Part B ASP (payment limit / 1.06)"
+  },
+  "hash": "deb03d1df1ab8380670c9bf938d2a409d0a16f5359debc5b570b85dd41c63842"
+}

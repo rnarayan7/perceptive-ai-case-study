@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "33387693",
+  "title": "Specific and selective induction of miR-124 in immune cells by the quinoline ABX464: a transformative therapy for inflammatory diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33387693/",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.558157+00:00",
+  "metadata": {
+    "journal": "Drug discovery today",
+    "year": "2021",
+    "pmid": "33387693"
+  },
+  "hash": "225f4cf5669af8ee5d55dbac14193c8ea582b53ff68879eca77e0c09dce0b44b"
+}

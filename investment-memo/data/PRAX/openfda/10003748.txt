@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003748 (comparator: lamotrigine)
+Serious: yes
+Reactions: Bone marrow failure, Bone marrow failure, Neutrophil count decreased
+Reported drugs: DEPAKOTE, LAMICTAL, QUETIAPINE, CLONAZEPAM, ALPRAZOLAM

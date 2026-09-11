@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_bla_168489_fig151",
+  "figure_type": "table",
+  "title": "nda_bla_168489 figure 151",
+  "caption": "",
+  "context": "\f\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377\n               OPDIVO (nivolumab) and Yervoy (ipilimumab)\n               The Applicant’s Position:\n               Data from the pivotal CA209070 study conducted in pediatric and young adult subjects with\n               solid tumors or lymphomas are presented to support the use of nivolumab alone or in\n               combination with ipilimumab in pediatric patients. The application is further supported by\n               Study CA209067 conducted in adult subjects with unresectable or metastatic melanoma, Study\n               CA209915 in adolescent (≥ 12 years) and adult subjects with completely resected Stage IIIb/c/d\n               or Stage IV melanoma, and Study CA209238 in adult subjects with completely resected Stage\n               IIIb/c or Stage IV melanoma (Table 17).\n               Limited clinical data are available in adolescent melanoma subjects, ie, 1 adolescent subject\n               with advanced melanoma treated with nivolumab in Study CA209070 and 3 adolescent subjects\n               (2 subjects who received nivo mono and 1 subject who received nivo+ipi) in CA209915.\n\n               The FDA’s Assessment:\n               FDA agrees with the Applicant’s summary of the studies submitted to support the use of\n               nivolumab as a single agent or in combination with ipilimumab, and ipilimumab in combination\n               with nivolumab in pediatric patients 12 years and older with melanoma.\n\n               8 Statistical and Clinical Evaluation\n\n                          Review of Relevant Individual Trials Used to Support Efficacy\n\n                                   CA209070\n\n               Trial Design\n               The CA209070 Interim CSR reports results from Parts A-D only. Unless otherwise stated,\n               CA209070 efficacy and safety results reported in this Assessment Aid reflect Parts A-D (results\n               for the now closed Part E are described in a COG Progress Report [13-Jul-2020] 43 and are briefly\n               summarized in Section 8.1.1.1 and Section 8.2.5.\n               Trial Design\n               Figure 5: Applicant - Study Design\n               Parts A and B:\n               Cycle:\n                          Day 1                  Day 15                           Day 28 (Evaluation*)\n               Parts C, D and E:\n\n               Cycle\n               1-4 :      Day 1                                                                   Day 21 (Evaluation)\n               Cycle\n               5+ :       Day 1                  Day 15                           Day 28 (Evaluation*)\n                        Nivolumab       Ipilimumab\n\n                                                                 79\n                                           Version date: June 2022 (ALL NDA/ BLA reviews)\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\n\nReference ID: 5127294\n\f",
+  "url": "https://www.fda.gov/media/168489/download",
+  "image_url": "https://www.fda.gov/media/168489/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:56.078971+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_bla_168489",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "d37c2e5440aabfb5dd636f69086dee71dcb0f4f5c5b3e84441301709c8e6e31b",
+  "image_file": "image.png"
+}

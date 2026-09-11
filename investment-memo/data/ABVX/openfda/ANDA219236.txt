@@ -1,0 +1,8 @@
+Drugs@FDA application ANDA219236: OZANIMOD
+Sponsor: SYNTHON BV
+Active ingredient(s): OZANIMOD
+Brand name(s): OZANIMOD
+Application type: ANDA (generic)
+Review priority: STANDARD
+Marketing status: None (Tentative Approval)
+Submissions on record: 1

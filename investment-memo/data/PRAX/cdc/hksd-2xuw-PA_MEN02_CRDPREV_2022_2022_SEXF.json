@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-PA_MEN02_CRDPREV_2022_2022_SEXF",
+  "title": "Mental Health - Pennsylvania - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785159+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Pennsylvania",
+    "location_abbr": "PA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "28.3",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "503f555e50bad8792a0caf0cedc60aaf498b3148a48753e2a37e617e139bff39"
+}

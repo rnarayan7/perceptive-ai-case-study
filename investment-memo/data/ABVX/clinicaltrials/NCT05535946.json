@@ -1,0 +1,55 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05535946",
+  "title": "ABTECT - Maintenance",
+  "url": "https://clinicaltrials.gov/study/NCT05535946",
+  "published": "2022-09-10",
+  "retrieved_at": "2026-09-07T12:53:29.800520+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 1116,
+    "start_date": "2023-01-16",
+    "primary_completion_date": "2026-04-28",
+    "completion_date": "2030-05",
+    "first_posted_date": "2022-09-10",
+    "primary_outcomes": [
+      {
+        "measure": "Rate of subjects in clinical remission at Week 44",
+        "timeFrame": "Week 44"
+      },
+      {
+        "measure": "Number and percentage of all treatment-emergent adverse events (TEAEs)",
+        "timeFrame": "Week 44"
+      },
+      {
+        "measure": "Number and percentage of all serious adverse events (SAEs)",
+        "timeFrame": "Week 44"
+      },
+      {
+        "measure": "Number and percentage of all causally related TEAEs/SAEs",
+        "timeFrame": "Week 44"
+      }
+    ]
+  },
+  "hash": "0b376a0025cf64476ba87f51c8eecd1cbf2b2d81f0535170fd1bc4770cabace1"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13406367_F11",
+  "figure_type": "forest",
+  "title": "Survival benefit of concurrent beta-blocker use in cancer patients treated with radiotherapy: A systematic review and meta-analysis.",
+  "caption": "Forest plot for DMFS in radiotherapy-treated patients. CI = confidence interval, DMFS = distant metastasis-free survival, HR = hazard ratio.",
+  "context": "Forest plot for DMFS in radiotherapy-treated patients. CI = confidence interval, DMFS = distant metastasis-free survival, HR = hazard ratio.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13406367/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:04:19.050469+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13406367",
+    "pmid": "42499029",
+    "journal": "Medicine",
+    "fig_label": "Figure 11."
+  },
+  "image_hash": "257df442047aaff24687ee8b8d95477cfb0d21fa659e4ad6776b23d111237656",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,13 @@
+Title: Double-blind, Randomized Trial of PRAX-628 in Adults With Focal Seizures to Evaluate Efficacy and Safety (POWER1)
+Status: COMPLETED
+Phase: PHASE2, PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Praxis Precision Medicines
+Conditions: Focal Seizure
+Interventions: 20mg/day PRAX-628 for 6 weeks then 30mg/day PRAX-628 for remaining 6 weeks (DRUG), Placebo (DRUG)
+Enrollment: 255
+
+Summary: A Double-Blind, Randomized, Multicenter, Trial Evaluating the Efficacy and Safety of PRAX-628 in Adults With Focal Seizures (POWER1)
+
+Primary outcomes:
+- To evaluate the efficacy of PRAX-628 compared to placebo on focal seizure frequency in adults currently taking 1 to 3 ASMs (time frame: 12 weeks)

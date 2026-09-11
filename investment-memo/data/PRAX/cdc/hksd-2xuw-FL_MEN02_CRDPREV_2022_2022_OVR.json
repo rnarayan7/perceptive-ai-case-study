@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-FL_MEN02_CRDPREV_2022_2022_OVR",
+  "title": "Mental Health - Florida - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784919+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Florida",
+    "location_abbr": "FL",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "17.8",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "a905e08019792cc0d439a08c7e2fb68d761e348f344a6df5d88159925ca3e729"
+}

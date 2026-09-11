@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-WI_MEN02_CRDPREV_2023_2023_OVR",
+  "title": "Mental Health - Wisconsin - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785246+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Wisconsin",
+    "location_abbr": "WI",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "22.6",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "3f94297ab22a20e96c045ea9cebf478ccc10ebe856c2c84c9eb2b1e798e35804"
+}

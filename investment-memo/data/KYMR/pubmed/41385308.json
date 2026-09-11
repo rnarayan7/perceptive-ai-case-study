@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "41385308",
+  "title": "Developmental toxicology profile of the IRAK4 degrader KT-474.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41385308/",
+  "published": "2026",
+  "retrieved_at": "2026-09-07T08:26:55.622193+00:00",
+  "metadata": {
+    "journal": "Toxicological sciences : an official journal of the Society of Toxicology",
+    "year": "2026",
+    "pmid": "41385308"
+  },
+  "hash": "e76cee1643478a7ce4fc5043c78c7fb7c053567418559239b4465242ac214572"
+}

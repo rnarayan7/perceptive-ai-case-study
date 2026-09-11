@@ -1,0 +1,36 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13961694",
+  "title": "FAERS report 13961694: Intentional product use issue, Intervertebral disc protrusion, Disease recurrence",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13961694",
+  "published": "2023-11-20",
+  "retrieved_at": "2026-09-08T08:40:09.309645+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": false,
+    "reactions": [
+      "Intentional product use issue",
+      "Intervertebral disc protrusion",
+      "Disease recurrence",
+      "Peroneal nerve palsy",
+      "Influenza",
+      "Ear infection",
+      "Herpes zoster",
+      "Fatigue"
+    ],
+    "drugs": [
+      "XELJANZ",
+      "XELJANZ",
+      "XELJANZ",
+      "XELJANZ",
+      "XELJANZ",
+      "XELJANZ",
+      "XELJANZ",
+      "RINVOQ"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "51cc6e3c7f4912e590cd80790eb86ce23e238a18bd51fe297342686c0efc033b"
+}

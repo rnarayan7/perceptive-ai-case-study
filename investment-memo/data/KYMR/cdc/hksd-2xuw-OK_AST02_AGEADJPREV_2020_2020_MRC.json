@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-OK_AST02_AGEADJPREV_2020_2020_MRC",
+  "title": "Asthma - Oklahoma - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.574303+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Oklahoma",
+    "location_abbr": "OK",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "18.6",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Multiracial, non-Hispanic"
+  },
+  "hash": "09c88e8645382bb28dfb76f7005f94c8c1b94b35103e98ecc20194da08a5bca2"
+}

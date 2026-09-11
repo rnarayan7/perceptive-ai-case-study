@@ -1,0 +1,1 @@
+Subgroup forest plot of the pooled HR for OS according to pathological stage. In addition, for OS the pooled effect was stronger in studies including all stages (I–IV; HR = 3.29, 95% CI 2.14–5.04; I² = 64.7%) than in early-stage (I–III) cohorts (HR = 1.80, 95% CI 1.32–2.46; I² = 48.2%), with a significant interaction by stage ( p = 0.015; Figure 5 ).

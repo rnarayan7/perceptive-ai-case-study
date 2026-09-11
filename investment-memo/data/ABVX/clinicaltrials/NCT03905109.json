@@ -1,0 +1,48 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03905109",
+  "title": "Phase 2b/3 Study of ABX464 in Moderate to Severe Active Crohn's Disease Patients",
+  "url": "https://clinicaltrials.gov/study/NCT03905109",
+  "published": "2019-04-05",
+  "retrieved_at": "2026-09-07T12:53:29.802368+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "overall_status": "WITHDRAWN",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Crohn Disease"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 0,
+    "start_date": "2022-09-19",
+    "primary_completion_date": "2022-09-19",
+    "completion_date": "2022-09-19",
+    "first_posted_date": "2019-04-05",
+    "primary_outcomes": [
+      {
+        "measure": "The co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of",
+        "timeFrame": "from baseline, at Week 12"
+      },
+      {
+        "measure": "Co-primary objectives of the study are to determine the efficacy of ABX464 in inducing clinical remission and endoscopic improvement after 12 weeks of study treatment in patients with moderate to severe active CD who have inadequate response, loss of",
+        "timeFrame": "from baseline, at Week 12"
+      }
+    ]
+  },
+  "hash": "b7202125863f59ff7d077c91c0abcaabf4bec13f0667409cc1ecc91db477379a"
+}

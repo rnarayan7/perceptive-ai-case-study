@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240926_184929_fig008",
+  "figure_type": "unknown",
+  "title": "odac_20240926_184929 figure 8",
+  "caption": "",
+  "context": "September 26, 2024\nOncologic Drugs Advisory Committee Meeting\n\n       Those who voted “No”, commented on the negative data that was seen in PDL <1 cohort\n       and that cutoff appeared to be at least reasonable. There was variability in where\n       Committee members believe that the cut off should lie. The one Committee member who\n       voted to abstain stated that their reasoning for voting this way was due to the\n       insufficiency of data presented. Please see the transcript for details of the Committee’s\n       discussion.\n\nAfternoon session\n\n   1. DISCUSSION: FDA would like the committee to discuss the risk and benefits of the\n      treatment with anti PD-1 antibodies for the first line treatment of patients with metastatic\n      or unresectable esophageal squamous cell carcinoma with PD-L1 expression <1.\n\n       Committee Discussion: Although the committee generally agreed that the favorable risk-\n       benefit of PD-1 inhibitors was limited to patients with PD-L1 greater than 1, concerns\n       regarding the review of the data included the sample sizes of the subgroup analyses.\n       Please see the transcript for details of the Committee’s discussion.\n\n\n   2. VOTE: Is the risk: benefit assessment favorable for the use of anti-PD-1 antibodies in\n      first line unresectable or metastatic esophageal squamous cell carcinoma with PD-L1\n      expression <1?\n\n       Vote Result: Yes: 1             No: 11               Abstain: 1\n\n       Committee Discussion: The majority of the panel agreed that the benefit assessment is\n       not favorable for the use of anti-PD-1 antibodies in first line unresectable or metastatic\n       esophageal squamous cell carcinoma with PD-L1 expression <1. Although committee\n       members noted the small sample sizes of the PD-L1 negative subgroups, overall the\n       committee felt that patients with tumors that were PD-L1 of 1 or greater benefited from\n       treatment with a PD-1 inhibitor; however, the totality of data in patients with PD-L1\n       expression of less than one did not support a favorable risk-benefit assessment. Please\n       see the transcript for details of the Committee’s discussion.\n\n\nThe meeting was adjourned at approximately 4:30 p.m.\n\n\n\n\n                                             Page 9 of 9\n\f",
+  "url": "https://www.fda.gov/media/184929/download",
+  "image_url": "https://www.fda.gov/media/184929/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:58.773255+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240926_184929",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "9eb6ff23d4a3d5872bec5a3c404f52569d95b1ff2d7a33c05ee3a61d3fa6e2ca",
+  "image_file": "image.png"
+}

@@ -1,0 +1,51 @@
+
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+
+
+                6.3.2.        Clinical Pharmacology Questions
+                  6.3.2.1.        Does the clinical pharmacology program provide supportive evidence of
+                                  effectiveness?
+               Data:
+               Teclistamab treatment doses ranging from 0.08 to 6 mg/kg SC were evaluated in MajesTEC1, and
+               the registrational treatment dose of 1.5 mg/kg SC weekly was selected based on the PK,
+               pharmacodynamic, safety, and efficacy data in MajesTEC1. Following teclistamab treatment dose
+               of 1.5 mg/kg SC weekly, mean trough concentrations of teclistamab were maintained above the
+               maximum EC90 value identified in the ex vivo cytotoxicity assay and set as a target exposure for
+               sustained clinical activity. A positive E-R relationship was observed for ORR assessed by
+               investigator based on IMWG 2011 criteria in Phase 1 across the teclistamab exposure range
+               associated with SC doses from 0.08 to 3 mg/kg weekly, and the response at the concentration
+               range of RP2D is approaching the ORR plateau (ie, maximum response). Additionally, no apparent
+               positive E-R trend was observed in the incidence of Grade ≥3 TEAEs of anemia, neutropenia,
+               lymphopenia, thrombocytopenia, and infections across the predicted exposure quartiles in
+               subjects who received teclistamab SC. None of the subjects who received teclistamab at RP2D
+               developed antidrug antibodies against teclistamab.
+
+               The Applicant’s Position:
+               The clinical pharmacology findings, including PPK and E-R analyses, provide the scientific and
+               quantitative justification for the selected dose of teclistamab SC in treatment of relapsed or
+               refractory multiple myeloma.
+
+               The FDA’s Assessment:
+               The FDA agrees that the clinical pharmacology program provides supportive evidence of
+               effectiveness. The primary evidence of effectiveness is the ORR of 61.8% in the primary efficacy
+               analysis set (refer to Section 8.1.2 – Study Results). Supportive evidence of effectiveness from
+               the clinical pharmacology program is summarized below.
+
+               E-R for Efficacy: Among 72 patients treated with SC dosage regimens (treatment dose range
+               0.08 to 3 mg/kg QW) during Phase 1 of MajesTEC-1, there was a positive relationship between
+               the teclistamab average concentration after the first treatment dose (Cave,1stdose) and ORR
+               (assessed by investigator based on IMWG 2011 criteria; FDA Figure 2).
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              57
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

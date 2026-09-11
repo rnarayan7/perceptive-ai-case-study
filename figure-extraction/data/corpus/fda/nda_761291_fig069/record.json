@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig069",
+  "figure_type": "forest",
+  "title": "nda_761291 figure 69",
+  "caption": "",
+  "context": "               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n             Figure 3: Forest Plot of Subgroup Analyses on Overall Response Rate Based on Independent Review Committee\n             (IRC) Assessment; Efficacy Analysis Set (Study 64007957MMY1001; Pivotal RP2D)\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              95\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n\n                Figure 3:      Forest Plot of Subgroup Analyses on Overall Response Rate Based on Independent Review\n                               Committee (IRC) Assessment; Efficacy Analysis Set (Study 64007957MMY1001; Pivotal RP2D)\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              96\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.850930+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1737,
+    "image_height": 1951,
+    "extraction": "embedded"
+  },
+  "image_hash": "013360c068c269b67de3a00645b269d2c08f06588903df8881fbeb3387e1c9c4",
+  "image_file": "image.png"
+}

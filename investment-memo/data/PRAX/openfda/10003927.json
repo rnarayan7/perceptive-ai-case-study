@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003927",
+  "title": "FAERS report 10003927: Headache, Nausea, Pyrexia",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003927",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:41.206443+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": true,
+    "reactions": [
+      "Headache",
+      "Nausea",
+      "Pyrexia",
+      "Rash",
+      "Myalgia",
+      "Muscular weakness",
+      "Gait disturbance",
+      "Tremor"
+    ],
+    "drugs": [
+      "DEPAKOTE",
+      "LAMOTRIGINE",
+      "LITHIUM"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "cdc4bf77d0f3ea7fa742d0061d051b47c6a8d1dd11a8204b39f1d7be1e3029ea"
+}

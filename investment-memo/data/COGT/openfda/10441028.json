@@ -1,0 +1,29 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10441028",
+  "title": "FAERS report 10441028: Acute myeloid leukaemia, Neutrophil count decreased",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10441028",
+  "published": "2014-09-09",
+  "retrieved_at": "2026-09-08T08:41:01.863611+00:00",
+  "metadata": {
+    "term": "midostaurin",
+    "serious": true,
+    "reactions": [
+      "Acute myeloid leukaemia",
+      "Neutrophil count decreased"
+    ],
+    "drugs": [
+      "MIDOSTAURIN",
+      "ALLOPURINOL.",
+      "ACYCLOVIR.",
+      "VIDAZA",
+      "LISINOPRIL.",
+      "CIPROFLOXACIN.",
+      "FLUCONAZOLE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "0267d0eba72b82021f8e969433871ed96959a51cf2f7813c0224361827bdd0fa"
+}

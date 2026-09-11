@@ -1,0 +1,36 @@
+{
+  "company": "PRAX",
+  "source": "pubchem",
+  "doc_type": "compound",
+  "doc_id": "44540045",
+  "title": "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/compound/44540045",
+  "published": null,
+  "retrieved_at": "2026-09-08T10:06:56.531227+00:00",
+  "metadata": {
+    "cid": 44540045,
+    "query_name": "PRAX-944",
+    "molecular_formula": "C19H27ClFN3O2",
+    "molecular_weight": "383.9",
+    "smiles": "CC(C)(C)NC(=O)CN1CCC(CC1)CNC(=O)C2=CC(=CC(=C2)Cl)F",
+    "iupac_name": "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+    "synonyms": [
+      "Z944",
+      "Z944 compound",
+      "RefChem:934477",
+      "1199236-64-0",
+      "Ulixacaltamide",
+      "N-((1-(2-(tert-Butylamino)-2-oxoethyl)piperidin-4-yl)methyl)-3-chloro-5-fluorobenzamide",
+      "PRAX944",
+      "PRAX-944",
+      "Z 944",
+      "N-[[1-[2-(tert-butylamino)-2-oxoethyl]piperidin-4-yl]methyl]-3-chloro-5-fluorobenzamide",
+      "Ulixacaltamide [INN]",
+      "Z-944",
+      "QT2PJH89C3",
+      "CHEMBL3934636",
+      "BDBM50192689"
+    ]
+  },
+  "hash": "e6fbe0dbfe64299dda76dfec04eb4f7341804f6c1510dcaad90e356420a60fd9"
+}

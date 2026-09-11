@@ -1,0 +1,13 @@
+Title: Phase 3 Study to Assess the Efficacy and Safety of Batoclimab as Induction and Maintenance Therapy in Adult Participants With Generalized Myasthenia Gravis
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE3
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Generalized Myasthenia Gravis
+Interventions: Batoclimab 680 mg SC weekly (DRUG), Batoclimab 340 mg SC weekly (DRUG), Matching Placebo SC (DRUG), Batoclimab 340 mg SC bi-weekly (DRUG)
+Enrollment: 240
+
+Summary: The purpose of this 4-period study is to confirm the efficacy and safety of batoclimab in participants with gMG. In Period 1, participants will be randomized 1:1:1 to receive batoclimab 680 milligrams (mg) subcutaneously (SC) once a week (QW) or 340 mg SC QW or placebo. The primary efficacy endpoint will be assessed by change in the myasthenia gravis activities of daily living (MG- ADL) score in acetylcholine receptor antibody seropositive (AChRAb+) participants. In Period 2, participants previously treated with batoclimab will be re-randomized to stay on batoclimab (340 mg SC QW or 340 mg SC every two weeks) or receive placebo treatment. The secondary endpoint of maintenance of efficacy will be assessed by change in the MG- ADL score in AChRAb+ participants. Participants demonstrating a response to batoclimab during either Period 1 or 2 may enter the long-term extension (Period 3). Participants who complete Period 3 are eligible to participate in Period 4 (Optional Long-Term extension) according to their treatment assignment in Period 3.
+
+Primary outcomes:
+- Change from Baseline in Myasthenia Gravis Activities of Daily Living (MG-ADL) score in acetylcholine receptor (AChR) Ab seropositive (AChRAb+) participants (time frame: Baseline (Day 1) to Week 12)

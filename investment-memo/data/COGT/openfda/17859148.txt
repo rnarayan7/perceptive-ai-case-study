@@ -1,0 +1,4 @@
+FAERS adverse-event report 17859148 (comparator: ripretinib)
+Serious: yes
+Reactions: Large intestine perforation, General physical health deterioration
+Reported drugs: QINLOCK, METOCLOPRAMIDE., LEVAXIN (LEVOTHYROXINE SODIUM), MAGNESIUM SULFATE., VITAMIN B12, ONDANSETRON HYDROCHLORIDE., MORPHINE (MORPHINE HYDROCHLORIDE), DUPHALAC, QINLOCK, LAXOBERAL (SODIUM PICOSULFATE)

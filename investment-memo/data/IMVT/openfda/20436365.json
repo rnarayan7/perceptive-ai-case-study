@@ -1,0 +1,22 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "20436365",
+  "title": "FAERS report 20436365: Death",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:20436365",
+  "published": "2022-02-07",
+  "retrieved_at": "2026-09-08T08:40:48.091957+00:00",
+  "metadata": {
+    "term": "efgartigimod",
+    "serious": true,
+    "reactions": [
+      "Death"
+    ],
+    "drugs": [
+      "VYVGART"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "7fa5931b10b4a1da502ac6806caee5619dce1d72e9c023d2494f86366273dbe6"
+}

@@ -1,0 +1,7 @@
+Drug: LAMOTRIGINE 150 MG TABLET
+NDC: 68382000905
+NADAC per unit: $0.07068
+Pricing unit: EA
+Effective date: 2026-08-19
+Rate-setting classification: G
+OTC: N

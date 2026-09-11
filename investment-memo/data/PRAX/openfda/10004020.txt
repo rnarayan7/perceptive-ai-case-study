@@ -1,0 +1,4 @@
+FAERS adverse-event report 10004020 (comparator: lacosamide)
+Serious: no
+Reactions: Tremor
+Reported drugs: DEPAKOTE, VIMPAT, DILANTIN

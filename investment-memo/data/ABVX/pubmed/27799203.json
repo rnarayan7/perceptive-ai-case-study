@@ -1,0 +1,16 @@
+{
+  "company": "ABVX",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "27799203",
+  "title": "Randomized Trial of Food Effect on Pharmacokinetic Parameters of ABX464 Administered Orally to Healthy Male Subjects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27799203/",
+  "published": "2017-01-01",
+  "retrieved_at": "2026-09-07T12:53:32.560134+00:00",
+  "metadata": {
+    "journal": "Antimicrobial agents and chemotherapy",
+    "year": "2017",
+    "pmid": "27799203"
+  },
+  "hash": "40f3ef4a23a6e92e04c3ddb53d02132cb57048d738b04307e8234241c5815c2a"
+}

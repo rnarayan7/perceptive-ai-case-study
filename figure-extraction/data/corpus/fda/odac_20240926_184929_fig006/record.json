@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240926_184929_fig006",
+  "figure_type": "unknown",
+  "title": "odac_20240926_184929 figure 6",
+  "caption": "",
+  "context": "September 26, 2024\nOncologic Drugs Advisory Committee Meeting\n\nCall to Order and Introduction of Committee    Christopher Lieu, MD\n                                               Acting Chairperson, ODAC\n\nConflict of Interest Statement                 Joyce Frimpong, PharmD\n                                               Acting Designated Federal Officer, ODAC\n\nFDA Introductory Remarks                       Sandra Casak, MD\n                                               Clinical Team Leader (Acting)\n                                               Gastrointestinal Malignancies\n                                               DO3, OOD, OND, CDER, FDA\n\nAPPLICANT PRESENTATIONS                        Merck Sharp & Dohme LLC,\n                                               a subsidiary of Merck & Co., Inc.\n\nOverview of Pembrolizumab and PD-L1            M. Catherine Pietanza, MD\n22C3 PharmDx\n\nKEYNOTE-590 Results in Esophageal              Pooja Bhagia, MD\nCancer\n\nClinical Management of Esophageal Cancer       Peter Enzinger, MD\n                                               Gastrointestinal Oncologist\n                                               Dana-Farber Cancer Institute\n\nConcluding Remarks                             M. Catherine Pietanza, MD\n\nBREAK\n\nAPPLICANT PRESENTATIONS                        Bristol-Myers Squibb Co.\n\nIntroduction                                   Ian Waxman, MD\n\nBenefit Risk Profile in PD-L1 Subgroups        Dana Walker, MD, MSCE\n\nClinical Perspective                           Ronan J. Kelly, MBBCh, MBA, FASCO\n                                               Charles A. Sammons Cancer Center\n                                               Baylor University Medical Center\n\nConclusion                                     Ian Waxman, MD\n\nBREAK\n\nAPPLICANT PRESENTATIONS                        BeiGene USA, Inc.\n\nRationale-306 Results                          Mark Lanasa, MD, PhD\n\nPD-L1 Subgroup Analyses                        Mark Lanasa, MD, PhD\n\nClinical Perspective                           Nataliya Uboha, MD, PhD\n\nFDA PRESENTATIONS\n\n\n                                              Page 7 of 9\n\f",
+  "url": "https://www.fda.gov/media/184929/download",
+  "image_url": "https://www.fda.gov/media/184929/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:58.772668+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240926_184929",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "de086d63c944b77d389a9a4bc543945f898c64692f8c8a8f51bc7eeba8f6aa6e",
+  "image_file": "image.png"
+}

@@ -1,0 +1,44 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT07019922",
+  "title": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+  "url": "https://clinicaltrials.gov/study/NCT07019922",
+  "published": "2025-06-13",
+  "retrieved_at": "2026-09-07T12:53:43.593798+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Epileptic Encephalopathy",
+      "SCN2A Encephalopathy"
+    ],
+    "interventions": [
+      {
+        "name": "1mg elsunersen",
+        "type": "DRUG"
+      },
+      {
+        "name": "0.5mg elsunersen",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 40,
+    "start_date": "2025-08-13",
+    "primary_completion_date": "2026-12",
+    "completion_date": "2028-12",
+    "first_posted_date": "2025-06-13",
+    "primary_outcomes": [
+      {
+        "measure": "To assess the efficacy of elsunersen on seizure frequency in participants with early-onset SCN2A DEE",
+        "timeFrame": "24 weeks"
+      }
+    ]
+  },
+  "hash": "ec65a2a1d7803511d95139795b46b8d1eefdbd367fcb1b4c6e462b2625b19c06"
+}

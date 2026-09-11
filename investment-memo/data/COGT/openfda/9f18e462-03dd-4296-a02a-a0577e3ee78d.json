@@ -1,0 +1,21 @@
+{
+  "company": "COGT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "9f18e462-03dd-4296-a02a-a0577e3ee78d",
+  "title": "Label: QINLOCK (RIPRETINIB)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=9f18e462-03dd-4296-a02a-a0577e3ee78d",
+  "published": "2025-05-12",
+  "retrieved_at": "2026-09-08T08:41:04.860043+00:00",
+  "metadata": {
+    "brand_name": "QINLOCK",
+    "generic_name": "RIPRETINIB",
+    "manufacturer": "Deciphera Pharmaceuticals, LLC",
+    "manufacturer_name": "Deciphera Pharmaceuticals, LLC",
+    "pharm_class_epc": "Kinase Inhibitor [EPC]",
+    "pharm_class_moa": "Stem Cell Factor (KIT) Receptor Inhibitors [MoA]",
+    "application_number": "NDA213973",
+    "route": "ORAL"
+  },
+  "hash": "b9f2a9681d6f87235c3a8cbffe87ca461aa1baae810ae910a58110e60bde0538"
+}

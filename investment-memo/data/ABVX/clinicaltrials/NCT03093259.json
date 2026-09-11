@@ -1,0 +1,43 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03093259",
+  "title": "ABX464 in Subjects With Moderate to Severe Active Ulcerative Colitis",
+  "url": "https://clinicaltrials.gov/study/NCT03093259",
+  "published": "2017-03-28",
+  "retrieved_at": "2026-09-07T12:53:29.802181+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo oral capsule",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 32,
+    "start_date": "2017-11-16",
+    "primary_completion_date": "2018-07-25",
+    "completion_date": "2019-02-04",
+    "first_posted_date": "2017-03-28",
+    "primary_outcomes": [
+      {
+        "measure": "Number of Subjects With Treatment-emergent Adverse Events",
+        "timeFrame": "Week 8"
+      }
+    ]
+  },
+  "hash": "ade112a61e121638153ff5671d64f4ccd33b4960f7892d80be80bb4bdee1e7a1"
+}

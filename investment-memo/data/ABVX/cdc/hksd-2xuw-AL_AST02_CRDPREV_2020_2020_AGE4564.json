@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-AL_AST02_CRDPREV_2020_2020_AGE4564",
+  "title": "Asthma - Alabama - 2020",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2020-01-01",
+  "retrieved_at": "2026-09-08T10:05:54.164128+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "Alabama",
+    "location_abbr": "AL",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "10.0",
+    "year_start": "2020",
+    "year_end": "2020",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "0c3854a3c5127ae7523bad988a332df1980e22c7e69f387e274730c62eecd505"
+}

@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "33711272",
+  "title": "Tumor and immune reprogramming during immunotherapy in advanced renal cell carcinoma.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33711272/",
+  "published": "2021",
+  "retrieved_at": "2026-09-07T08:25:52.527979+00:00",
+  "metadata": {
+    "journal": "Cancer cell",
+    "year": "2021",
+    "pmid": "33711272"
+  },
+  "hash": "1ac1055a4beb9ee3c590c8f25a9330e2269e0df7210f38e30226443da17ba34a"
+}

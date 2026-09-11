@@ -1,0 +1,30 @@
+{
+  "company": "IMVT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha589-point-prevalence-europe-2c870236",
+  "title": "Myasthenia gravis - Point prevalence (Europe) [ORPHA:589]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T08:59:07.576270+00:00",
+  "metadata": {
+    "orphacode": 589,
+    "preferred_term": "Myasthenia gravis",
+    "disorder_group": "Disorder",
+    "typology": "Disease",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-5 / 10 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "20.0",
+    "geographic_area": "Europe",
+    "validation_status": "Validated",
+    "source": "17986328[PMID]_[EXPERT]_European Medicines Agency 2018[OTHER]",
+    "source_pmids": [
+      "17986328"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=589",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/589",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "2c870236efcf7ef20e8739024e8581919174fb3f4ac0d33da59de035f0803ce3"
+}

@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10205058",
+  "title": "FAERS report 10205058: Basal cell carcinoma, Nausea, Dysuria",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10205058",
+  "published": "2014-08-22",
+  "retrieved_at": "2026-09-08T08:40:13.658793+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Basal cell carcinoma",
+      "Nausea",
+      "Dysuria",
+      "Vomiting"
+    ],
+    "drugs": [
+      "PROBIOTIC",
+      "VEDOLIZUMAB",
+      "IMODIUM",
+      "VEDOLIZUMAB",
+      "LACTAID",
+      "VITAMIN D                          /00107901/",
+      "MULTIVITAMIN                       /01229101/",
+      "TYLENOL",
+      "LACTAID"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "c8caa39e4531e9107689177cc789690fe4908d7b989b46a69289226fc2c68eaf"
+}

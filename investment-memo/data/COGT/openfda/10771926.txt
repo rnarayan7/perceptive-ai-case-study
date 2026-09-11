@@ -1,0 +1,4 @@
+FAERS adverse-event report 10771926 (comparator: midostaurin)
+Serious: yes
+Reactions: Thrombocytopenia, Hyperglycaemia, Acute kidney injury, Hyponatraemia, Nausea, Anaemia, Gastric haemorrhage, Rash, Hypokalaemia, Electrocardiogram QT prolonged, Aspartate aminotransferase increased, Hyperbilirubinaemia, Ejection fraction decreased, Neutropenia, Infection, Hyperuricaemia, Vomiting, Thrombosis
+Reported drugs: VIDAZA, MIDOSTAURIN, MIDOSTAURIN, VIDAZA

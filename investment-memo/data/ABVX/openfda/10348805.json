@@ -1,0 +1,28 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10348805",
+  "title": "FAERS report 10348805: Pseudomonas aeruginosa meningitis",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10348805",
+  "published": "2014-08-07",
+  "retrieved_at": "2026-09-08T08:40:13.661060+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Pseudomonas aeruginosa meningitis"
+    ],
+    "drugs": [
+      "ENTYVIO",
+      "AZATHIOPRINE.",
+      "IMURAN",
+      "SOLU-MEDROL",
+      "PREDNISONE.",
+      "PREDNISONE.",
+      "IMURAN"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "a53140bc67e9f56fcfb69fc25793a5165902469e1b4eac9bd042aa569f62232f"
+}

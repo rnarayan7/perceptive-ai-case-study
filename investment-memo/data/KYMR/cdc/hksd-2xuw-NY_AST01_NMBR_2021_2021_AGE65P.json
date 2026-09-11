@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NY_AST01_NMBR_2021_2021_AGE65P",
+  "title": "Asthma - New York - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T10:06:15.358433+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Asthma mortality among all people, underlying cause",
+    "location": "New York",
+    "location_abbr": "NY",
+    "data_source": "NVSS",
+    "value_type": "Number",
+    "value_unit": "Number",
+    "value": "105.0",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "a3a0116b3b5e9a01a75d08765e9bd5a05cac01dc7edf9d78035631ec18826299"
+}

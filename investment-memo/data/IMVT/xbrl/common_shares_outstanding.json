@@ -1,0 +1,33 @@
+{
+  "company": "IMVT",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "common_shares_outstanding",
+  "title": "IMMUNOVANT, INC. - Common shares outstanding (2026-08-03)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000101/0001764013-26-000101-index.htm",
+  "published": "2026-08-03",
+  "retrieved_at": "2026-09-08T08:46:36.376813+00:00",
+  "metadata": {
+    "cik": 1764013,
+    "entity_name": "IMMUNOVANT, INC.",
+    "concept": "common_shares_outstanding",
+    "label": "Common shares outstanding",
+    "taxonomy": "dei",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "value": 206552682.0,
+    "unit": "shares",
+    "reporting_currency": "",
+    "period_end": "2026-08-03",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001764013-26-000101",
+    "form": "10-Q",
+    "fiscal_year": 2027,
+    "fiscal_period": "Q1",
+    "filed": "2026-08-06",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001764013.json",
+    "derived": false
+  },
+  "hash": "2ae6238181b29633075aff7f37898d713fd6969dc071d988c6bfbb5d9f9efd6d"
+}

@@ -1,0 +1,55 @@
+
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+
+               Glossary
+               ADA                       antidrug antibody
+               ADC                       antibody drug conjugate
+               ADME                      absorption, distribution, metabolism, excretion
+               ADR                       adverse drug reaction
+               AE                        adverse event
+               AOM                       application orientation meeting
+               ASTCT                     American Society for Transplantation and Cellular Therapy
+               AUC                       area under the concentration-time curve
+               AUCtau                    area under the concentration-time curve during a dosing interval
+               BCMA                      B cell maturation antigen
+               BLA                       Biologics License Application
+               BMPC                      bone marrow plasma cells
+               bsAb                      bispecific antibody
+               CAR                       chimeric antigen receptor
+               Cave                      average plasma concentration
+               CD3                       cluster of differentiation 3
+               CD38                      cluster of differentiation 38
+               CFR                       Code of Federal Regulations
+               CI                        confidence interval
+               Cmax                      maximum plasma concentration
+               CNS                       central nervous system
+               COVID-19                  coronavirus disease 2019
+               CR                        complete response
+               CRS                       cytokine release syndrome
+               CSR                       clinical study report
+               Ctrough                   trough serum concentration
+               CV                        coefficient of variation
+               CYP                       cytochrome P450
+               DOR                       duration of response
+               EC90                      90% maximal effective concentration
+               EC50                      50% maximal effective concentration
+               ECG                       electrocardiogram
+               E-R                       exposure-response
+               EORTC QLQ-C30             European Organization for Research and Treatment of Cancer Quality of
+                                         Life Questionnaire Core 30 item
+               EQ-5D-5L                  EuroQol Five Dimension Five Level Questionnaire
+               ETASU                     Elements to Assure Safe Use
+               FDA                       Food and Drug Administration
+               GCP                       Good Clinical Practice
+               GLP                       Good Laboratory Practice
+               ICANS                     Immune effector cell-associated neurotoxicity syndrome
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              16
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

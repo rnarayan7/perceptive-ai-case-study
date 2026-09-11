@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-RI_ART01_CRDPREV_2021_2021_AGE1844",
+  "title": "Arthritis - Rhode Island - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.203650+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Rhode Island",
+    "location_abbr": "RI",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.7",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "246187ce13dae6abd3bb9fca879d02e0d14560ba4577a1e69cd662f53db07c27"
+}

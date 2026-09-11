@@ -1,0 +1,16 @@
+{
+  "company": "KYMR",
+  "source": "pubmed",
+  "doc_type": "article",
+  "doc_id": "39211137",
+  "title": "A STAT3 Degrader Demonstrates Pre-clinical Efficacy in Venetoclax resistant Acute Myeloid Leukemia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39211137/",
+  "published": "2024",
+  "retrieved_at": "2026-09-07T08:26:55.621024+00:00",
+  "metadata": {
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2024",
+    "pmid": "39211137"
+  },
+  "hash": "f06c641e59e1b1d0f19855080a306650700ffdf85bab972ba70f54ec2117b4c8"
+}

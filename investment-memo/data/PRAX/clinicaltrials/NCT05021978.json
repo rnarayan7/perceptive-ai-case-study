@@ -1,0 +1,59 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05021978",
+  "title": "A Clinical Trial of PRAX-944 in Participants With Essential Tremor",
+  "url": "https://clinicaltrials.gov/study/NCT05021978",
+  "published": "2021-08-26",
+  "retrieved_at": "2026-09-07T12:53:43.590780+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Essential Tremor"
+    ],
+    "interventions": [
+      {
+        "name": "Part A: 20 and 40 mg PRAX-944",
+        "type": "DRUG"
+      },
+      {
+        "name": "Part B: 120 mg PRAX-944",
+        "type": "DRUG"
+      },
+      {
+        "name": "Part B: 120 mg PRAX-944 and Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 24,
+    "start_date": "2020-03-03",
+    "primary_completion_date": "2022-03-24",
+    "completion_date": "2022-03-24",
+    "first_posted_date": "2021-08-26",
+    "primary_outcomes": [
+      {
+        "measure": "Part A: Change From Baseline in Essential Tremor Rating Assessment Scale (TETRAS) Upper Limb Score",
+        "timeFrame": "Baseline (Day 0), Days 7 and 14"
+      },
+      {
+        "measure": "Part B: Number of Participants With Adverse Events (AE), Related AE, and AE Leading to Treatment Discontinuation",
+        "timeFrame": "Up to Day 70"
+      },
+      {
+        "measure": "Part B: Number of Participants With Clinically Significant Abnormalities in Vital Signs, Laboratory Values and Electrocardiogram Parameters",
+        "timeFrame": "Up to Day 70"
+      },
+      {
+        "measure": "Part B: Number of Participants With Suicidal Ideation or Behavior Assessed Using Columbia Suicide Severity Rating Scale (C-SSRS)",
+        "timeFrame": "Up to Day 70"
+      }
+    ]
+  },
+  "hash": "c31062b015aae9a545b677ef73c69659fb56567734feccd353850b2fb6e0490e"
+}

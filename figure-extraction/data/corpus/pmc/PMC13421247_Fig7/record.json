@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13421247_Fig7",
+  "figure_type": "pk_logscale",
+  "title": "Construction of a translational whole-body physiologically based pharmacokinetic model to investigate the biodistribution of lipid nanoparticle-based mRNA therapeutics for intracellular protein targets.",
+  "caption": "Exploration of key model parameters. Liver protein AUC under three different doses (0.5, 1 and 2 mg/kg) was plotted by varying ( A ) liver mRNA degradation rate, ( B ) mRNA escape rate, and ( C ) liver endosomal degradation rate. Infusion time is fixed to 10 min",
+  "context": "Exploration of key model parameters. Liver protein AUC under three different doses (0.5, 1 and 2 mg/kg) was plotted by varying ( A ) liver mRNA degradation rate, ( B ) mRNA escape rate, and ( C ) liver endosomal degradation rate. Infusion time is fixed to 10 min",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421247/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-29",
+  "retrieved_at": "2026-09-07T13:09:32.777410+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13421247",
+    "pmid": "42527729",
+    "journal": "Journal of pharmacokinetics and pharmacodynamics",
+    "fig_label": "Fig. 7"
+  },
+  "image_hash": "ad44f4e85d8fb506e47c86fb5bb337ec4c258a264aad66eca818d7c0b5c88d1e",
+  "image_file": "image.jpg"
+}

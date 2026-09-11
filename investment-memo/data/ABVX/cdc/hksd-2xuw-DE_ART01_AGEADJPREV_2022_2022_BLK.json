@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-DE_ART01_AGEADJPREV_2022_2022_BLK",
+  "title": "Arthritis - Delaware - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.002984+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Delaware",
+    "location_abbr": "DE",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "22.7",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Black, non-Hispanic"
+  },
+  "hash": "475979fc90d4d37a949ea8e74a0912d5314e3ce78d2ffcb9db2a339b0f60882c"
+}

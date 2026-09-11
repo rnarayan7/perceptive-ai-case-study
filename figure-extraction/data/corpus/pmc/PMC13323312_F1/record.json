@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13323312_F1",
+  "figure_type": "spider",
+  "title": "Durable responses to long-term selumetinib in Chinese pediatric NF1 patients with inoperable plexiform neurofibromas.",
+  "caption": "Percent Change in Target PN Volume Over Time from Baseline Based on  (A)  Investigator and  (B)  ICR Assessment According to the REiNS Criteria - Pediatric Cohort Spider Plot. PD was defined as a 20% or more increase in target PN volume relative to baseline or relative to the BOR (maximum tumor shrinkage) recorded after documenting a PR. Patient Response Profiles of Pediatric Cohort–Swimmer Plots, Based on  (C)  Investigator and  (D)  ICR Assessment According to REiNS  (E)  Latest DCO Assessment Based on REiNS and  (F)  The investigator-assessed PFS. Each bar represents one patient in study.",
+  "context": "Percent Change in Target PN Volume Over Time from Baseline Based on  (A)  Investigator and  (B)  ICR Assessment According to the REiNS Criteria - Pediatric Cohort Spider Plot. PD was defined as a 20% or more increase in target PN volume relative to baseline or relative to the BOR (maximum tumor shrinkage) recorded after documenting a PR. Patient Response Profiles of Pediatric Cohort–Swimmer Plots, Based on  (C)  Investigator and  (D)  ICR Assessment According to REiNS  (E)  Latest DCO Assessment Based on REiNS and  (F)  The investigator-assessed PFS. Each bar represents one patient in study. Study design and patients This single-center, open-label, phase I trial enrolled pediatric patients with NF1 and inoperable PN ( Supplementary Figures 1A-C ). Efficacy The target PN volume of the patients generally decreased over time up to Cycle16, then remained consistent with minor fluctuations, except for 2 patients per investigator and 3 patients per ICR ( Figures 1A–B ). No CR was observed ( Figures 1C–D ). Three patients with prior PD subsequently achieved renewed response following continued treatment ( Figures 1E -F ). Three patients with prior PD subsequently achieved renewed response following continued treatment ( Figures 1E–F ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13323312/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-18",
+  "retrieved_at": "2026-09-07T13:13:20.380956+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13323312",
+    "pmid": "42394972",
+    "journal": "Frontiers in pharmacology",
+    "fig_label": "FIGURE 1"
+  },
+  "image_hash": "89e0d453e91f36334cadc52bdd810466f6247355b092537c31f5e977e52ab491",
+  "image_file": "image.jpg"
+}

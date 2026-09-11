@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13290997_f3",
+  "figure_type": "forest",
+  "title": "Survival benefit of extended lymphadenectomy in endometrial cancer: a meta-analysis with risk-stratified subgroup analysis.",
+  "caption": "Forest plot for OS benefit of PPaLND versus control (adjusted variables).",
+  "context": "Forest plot for OS benefit of PPaLND versus control (adjusted variables). The forest plot for the adjusted analysis is shown in Figure 3 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290997/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-10",
+  "retrieved_at": "2026-09-07T13:03:41.004324+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13290997",
+    "pmid": "42358536",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "562a663570ab24b5305ea8d45ef6b96a759f89b3df0456dc1701f8de5fd238d9",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,14 @@
+Title: A Study of Mutant Selective-Inhibitor (CGT6297), in Patients With Advanced Solid Tumors
+Status: RECRUITING
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: PIK3CA Mutations, Advanced Solid Tumors, Adult, Endometrial Cancer, HR Positive/HER-2 Negative Breast Cancer, HER2-low Breast Cancer
+Interventions: CGT6297 (DRUG)
+Enrollment: 90
+
+Summary: This is a Phase 1, two-part, open-label, nonrandomized, dose-escalation and signal-seeking study of CGT6297, evaluating the safety, tolerability, PK, pharmacodynamic (what the drug does to the body), and antitumor activity of CGT6297 in adult participants with advanced solid tumors harboring PIK3CA mutations
+
+Primary outcomes:
+- Incidence and grade of Adverse Events (AEs) and Serious Adverse Events (SAEs) [Phase 1a] (time frame: Approximately 12 months)
+- Overall Response Rate [Phase 1b] (time frame: Approximately 8 months)

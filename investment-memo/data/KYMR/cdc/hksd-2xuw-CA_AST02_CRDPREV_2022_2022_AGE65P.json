@@ -1,0 +1,26 @@
+{
+  "company": "KYMR",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-CA_AST02_CRDPREV_2022_2022_AGE65P",
+  "title": "Asthma - California - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:21.573790+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "California",
+    "location_abbr": "CA",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "9.5",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Age",
+    "stratification": "Age >=65"
+  },
+  "hash": "e76f70c479ab6d36351b54b1c8fb6e51ee66a27e64de64ef91880f8246fc006e"
+}

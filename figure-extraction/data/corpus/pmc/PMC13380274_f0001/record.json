@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380274_f0001",
+  "figure_type": "kaplan_meier",
+  "title": "Limited Survival Benefit of Preoperative Conization Before Radical Surgery in Stage IB Cervical Cancer: An IPTW-Adjusted Retrospective Cohort Study.",
+  "caption": "Weighted Kaplan–Meier curves of overall survival and progression-free survival among the four groups after IPTW adjustment. ( A ) Overall survival. ( B ) Progression-free survival.",
+  "context": "Weighted Kaplan–Meier curves of overall survival and progression-free survival among the four groups after IPTW adjustment. ( A ) Overall survival. ( B ) Progression-free survival. Residual imbalances persisted for certain variables, including FIGO stage (SMD = 0.239), depth of stromal invasion (SMD = 0.143), neoadjuvant chemotherapy (SMD = 0.207), and tumor differentiation grade (SMD = 0.313) ( Supplementary Figure 1 ). Weighted Kaplan-Meier analysis revealed no statistically significant differences in overall survival or progression-free survival among the four treatment groups ( Figure 1 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380274/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-14",
+  "retrieved_at": "2026-09-07T12:50:16.469588+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13380274",
+    "pmid": "42472258",
+    "journal": "International journal of women's health",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "812a873bbe24694a15d273a718472ae2bc8642aacb06b7d8c8d007c4cfb75e03",
+  "image_file": "image.jpg"
+}

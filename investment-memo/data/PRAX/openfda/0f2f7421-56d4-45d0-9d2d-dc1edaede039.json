@@ -1,0 +1,21 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "0f2f7421-56d4-45d0-9d2d-dc1edaede039",
+  "title": "Label: Lamotrigine (LAMOTRIGINE)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=0f2f7421-56d4-45d0-9d2d-dc1edaede039",
+  "published": "2025-10-04",
+  "retrieved_at": "2026-09-08T08:40:39.646241+00:00",
+  "metadata": {
+    "brand_name": "Lamotrigine",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer": "Zydus Lifesciences Limited",
+    "manufacturer_name": "Zydus Lifesciences Limited",
+    "pharm_class_epc": "Anti-epileptic Agent [EPC]",
+    "pharm_class_moa": "Organic Cation Transporter 2 Inhibitors [MoA]",
+    "application_number": "ANDA077633",
+    "route": "ORAL"
+  },
+  "hash": "c45187abe4568c9d75ffa3ab30c87cef926dec2f9826594f1bacd9cf68c9b359"
+}

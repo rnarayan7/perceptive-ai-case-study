@@ -1,0 +1,28 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2467-point-prevalence-worldwide-3c317fdd",
+  "title": "Systemic mastocytosis - Point prevalence (Worldwide) [ORPHA:2467]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T13:31:34.382593+00:00",
+  "metadata": {
+    "orphacode": 2467,
+    "preferred_term": "Systemic mastocytosis",
+    "disorder_group": "Group of disorders",
+    "typology": "Clinical group",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-5 / 10 000",
+    "prevalence_qualification": "Class only",
+    "value_average": "0.0",
+    "geographic_area": "Worldwide",
+    "validation_status": "Validated",
+    "source": "[EXPERT]_ORPHANET",
+    "source_pmids": [],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "3c317fdd84b63a2a6ee091feb0ab2a848672a2da75dc1a6e79173512d1f76517"
+}

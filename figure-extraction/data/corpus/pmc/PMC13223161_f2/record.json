@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13223161_f2",
+  "figure_type": "forest",
+  "title": "Circulating tumor DNA and prognosis in gastric cancer patients undergoing surgery: meta-analysis and trial sequential analysis.",
+  "caption": "Forest plot of the pooled HR for OS.",
+  "context": "Forest plot of the pooled HR for OS. As shown in Figure 2 , ctDNA positivity was significantly associated with an increased risk of mortality.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223161/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-18",
+  "retrieved_at": "2026-09-07T13:05:29.539643+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13223161",
+    "pmid": "42232546",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "f6af0eda6bdb5313cbb2770e43cc884d1f066021aa738cb598e03d0d25b8360b",
+  "image_file": "image.jpg"
+}

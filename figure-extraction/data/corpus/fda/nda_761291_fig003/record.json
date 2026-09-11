@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_761291_fig003",
+  "figure_type": "unknown",
+  "title": "nda_761291 figure 3",
+  "caption": "",
+  "context": "\f\n               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}\n               teclistamab\n               of teclistamab in the step-up doing schedule, and for the next dose of teclistamab following\n               specified events of CRS or neurologic toxicity. In addition, a risk evaluation and mitigation\n               strategy (REMS) with elements to assure safe use (ETASU) will be in place to ensure these risks\n               can be adequately managed in the post-market setting. The REMS with ETASU for teclistamab\n               will require certification of prescribers and dispensing pharmacies to verify that prescribers are\n               certified, to ensure prescribers are educated on these risks and understand the importance of\n               monitoring patients for signs and symptoms of CRS and neurologic toxicity, including ICANS.\n\n               A post-marketing requirement (PMR) will be issued to conduct a randomized trial in patients with\n               RRMM to verify the clinical benefit of teclistamab. A PMR will also be issued to conduct a clinical\n               trial to further characterize and determine the incidence of neurologic toxicities in patients\n               receiving teclistamab. A post-marketing commitment (PMC) will be issued to obtain additional\n               data from the MajesTEC-1 trial with longer follow-up to further assess durability of response.\n\n\n\n\n               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              21\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA.\n\nReference ID: 5065872\n\f\n\f",
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:44:19.842996+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_761291",
+    "image_width": 1584,
+    "image_height": 1224,
+    "extraction": "embedded"
+  },
+  "image_hash": "3e015afb4c67fdbbd1a4b5f18763859098f8d21de8e6d24be02981e182c04ad2",
+  "image_file": "image.png"
+}

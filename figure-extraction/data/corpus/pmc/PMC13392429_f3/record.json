@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13392429_f3",
+  "figure_type": "kaplan_meier",
+  "title": "Risk stratification model based on estimated dose of radiation to immune cells and radiotherapy-related nadir lymphocyte count for predicting the efficacy of consolidation immunotherapy in stage III non-small cell lung cancer.",
+  "caption": "Kaplan–Meier Survival Curves Stratified by RT-NLC.  (A)  OS;  (B)  PFS;  (C)  LRFS;  (D)  DMFS.",
+  "context": "Kaplan–Meier Survival Curves Stratified by RT-NLC.  (A)  OS;  (B)  PFS;  (C)  LRFS;  (D)  DMFS. However, no significant differences were observed in OS, PFS, or LRFS between the groups ( Figures 3A–D ). Notably, within the concurrent chemoradiotherapy (cCRT) subgroup, improved survival outcomes were observed in the high ALC group compared with the low ALC group ( P < 0.05) ( Supplementary Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13392429/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-09",
+  "retrieved_at": "2026-09-07T12:51:20.644138+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13392429",
+    "pmid": "42495622",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "0885b3e4ff6306749094a7c01d8354cea64b51e50a63c393edc1ff1905ddffa9",
+  "image_file": "image.jpg"
+}

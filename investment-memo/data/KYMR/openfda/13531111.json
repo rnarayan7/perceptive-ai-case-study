@@ -1,0 +1,22 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "13531111",
+  "title": "FAERS report 13531111: Headache",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:13531111",
+  "published": "2017-05-09",
+  "retrieved_at": "2026-09-08T08:40:20.466378+00:00",
+  "metadata": {
+    "term": "dupilumab",
+    "serious": false,
+    "reactions": [
+      "Headache"
+    ],
+    "drugs": [
+      "DUPIXENT"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "aca55d82c35b978b4b723ecc0e0b3b765869bbd51b07cb6be82b1fdbfce7bd51"
+}

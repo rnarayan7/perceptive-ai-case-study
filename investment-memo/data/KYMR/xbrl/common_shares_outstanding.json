@@ -1,0 +1,33 @@
+{
+  "company": "KYMR",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "common_shares_outstanding",
+  "title": "KYMERA THERAPEUTICS, INC. - Common shares outstanding (2026-07-31)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526333849/0001193125-26-333849-index.htm",
+  "published": "2026-07-31",
+  "retrieved_at": "2026-09-08T08:46:34.394034+00:00",
+  "metadata": {
+    "cik": 1815442,
+    "entity_name": "KYMERA THERAPEUTICS, INC.",
+    "concept": "common_shares_outstanding",
+    "label": "Common shares outstanding",
+    "taxonomy": "dei",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "value": 83150618.0,
+    "unit": "shares",
+    "reporting_currency": "",
+    "period_end": "2026-07-31",
+    "period_start": null,
+    "period_type": "instant",
+    "accession": "0001193125-26-333849",
+    "form": "10-Q",
+    "fiscal_year": 2026,
+    "fiscal_period": "Q2",
+    "filed": "2026-08-05",
+    "frame": "CY2026Q2I",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001815442.json",
+    "derived": false
+  },
+  "hash": "a43dd77aac61486acc88d5ec5063228a6527a0f2110794a8d29c7f4f0a69e30c"
+}

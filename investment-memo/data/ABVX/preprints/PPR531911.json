@@ -1,0 +1,18 @@
+{
+  "company": "ABVX",
+  "source": "preprints",
+  "doc_type": "preprint",
+  "doc_id": "PPR531911",
+  "title": "Screening the Medicines for Malaria Pandemic Response Box chemical library on  <i>Caenorhabditis elegans</i>  identifies re-profiled candidate anthelmintic drug leads",
+  "url": "https://europepmc.org/article/PPR/PPR531911",
+  "published": "2022-08-13",
+  "retrieved_at": "2026-09-07T12:53:33.637719+00:00",
+  "metadata": {
+    "doi": "10.1101/2022.08.10.503491",
+    "epmc_id": "PPR531911",
+    "epmc_source": "PPR",
+    "authors": "Nick M, Partridge FA, Forman R, Bataille CJ, Else KJ, Russell AJ, Sattelle DB.",
+    "cited_by": 0
+  },
+  "hash": "10ac183eb24fd0c88a862c85866f21483b6b4b9458ccdae949e623e8ea74db18"
+}

@@ -1,0 +1,13 @@
+Title: A Study to Assess the Efficacy, Safety, and Tolerability of IMVT-1402 as Treatment for Adult Participants With Graves' Disease
+Status: RECRUITING
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Immunovant Sciences GmbH
+Conditions: Graves' Disease
+Interventions: IMVT-1402 (DRUG), IMVT-1402 (DRUG), Placebo (DRUG)
+Enrollment: 210
+
+Summary: This is a multi-center, global, randomized, double-blind, placebo-controlled Phase 2b study to assess the efficacy, safety, and tolerability of IMVT-1402 in adult participants with Graves' disease (GD) who are hyperthyroid despite antithyroid drug (ATD) treatment.
+
+Primary outcomes:
+- Percentage of participants who are euthyroid and off ATD at Week 26 (Dose 1) (time frame: Week 26)

@@ -1,0 +1,34 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10007857",
+  "title": "FAERS report 10007857: Nephrolithiasis, Gastric ulcer, Gout",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10007857",
+  "published": "2014-03-27",
+  "retrieved_at": "2026-09-08T08:40:36.205354+00:00",
+  "metadata": {
+    "term": "lacosamide",
+    "serious": true,
+    "reactions": [
+      "Nephrolithiasis",
+      "Gastric ulcer",
+      "Gout",
+      "Chromaturia"
+    ],
+    "drugs": [
+      "XYREM",
+      "XYREM",
+      "ALLOPURINOL (ALLOPURINOL)",
+      "PULMOZYME (DORNASE ALFA)",
+      "SODIUM CHLORIDE (SODIUM CHLORIDE)",
+      "CAYSTON (AZTREONAM LYSINE)",
+      "DRONABINOL (DRONABINOL)",
+      "FIBER (POLYCARBOPHIL CALCIUM)",
+      "VIMPAT (LACOSAMIDE)",
+      "IBUPROFEN (IBUPROFEN)"
+    ],
+    "occurcountry": null
+  },
+  "hash": "d4bdd296b4380f8fd28cb8c00f548b044089cf04431bb155d53b6814714498f2"
+}

@@ -1,0 +1,61 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05737784",
+  "title": "A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy",
+  "url": "https://clinicaltrials.gov/study/NCT05737784",
+  "published": "2023-02-21",
+  "retrieved_at": "2026-09-07T12:53:43.591953+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "SCN2A-DEE",
+      "Epilepsy"
+    ],
+    "interventions": [
+      {
+        "name": "PRAX-222 - Initial Dose",
+        "type": "DRUG"
+      },
+      {
+        "name": "PRAX-222 - Initial Ascending Doses",
+        "type": "DRUG"
+      },
+      {
+        "name": "PRAX-222 - Optional Ascending Doses",
+        "type": "DRUG"
+      },
+      {
+        "name": "PRAX-222 - Fixed Doses",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "PROCEDURE"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 60,
+    "start_date": "2023-04-13",
+    "primary_completion_date": "2026-04-01",
+    "completion_date": "2028-02",
+    "first_posted_date": "2023-02-21",
+    "primary_outcomes": [
+      {
+        "measure": "Number of participants with treatment-emergent adverse events (Preliminary Safety, Dose Escalation)",
+        "timeFrame": "Screening (-8 weeks) through up to 92 weeks"
+      },
+      {
+        "measure": "Seizure frequency (Confirmatory Phase)",
+        "timeFrame": "36 to 40 weeks"
+      }
+    ]
+  },
+  "hash": "6e71d94578663ba37ffebaeefe119fde6101b3172920aaba8c0feb79448d84bd"
+}

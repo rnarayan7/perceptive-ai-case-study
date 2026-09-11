@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NH_MEN02_CRDPREV_2021_2021_SEXF",
+  "title": "Mental Health - New Hampshire - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784291+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "New Hampshire",
+    "location_abbr": "NH",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "29.5",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Sex",
+    "stratification": "Female"
+  },
+  "hash": "0588be4f36a93d9ac46841455fdac7696d203cbca7087dd30f597dbcae15c7bd"
+}

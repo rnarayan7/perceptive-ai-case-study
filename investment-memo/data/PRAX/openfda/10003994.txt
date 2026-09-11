@@ -1,0 +1,4 @@
+FAERS adverse-event report 10003994 (comparator: lamotrigine)
+Serious: yes
+Reactions: Convulsion, Tongue injury, Hallucination, Anticonvulsant drug level below therapeutic, Injury
+Reported drugs: DEPAKOTE, ZONISAMIDE, LAMICTAL

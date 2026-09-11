@@ -1,0 +1,93 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                Figure 3:         Forest Plot of Subgroup Analyses on Overall Response Rate Based on Independent Review
+                                  Committee (IRC) Assessment; Efficacy Analysis Set (Study 64007957MMY1001; Pivotal RP2D)
+                Key: ECOG = Eastern Cooperative Oncology Group; CI = confidence interval; RP2D = recommended Phase 2 dose;
+                BCMA = B-cell maturation antigen; IRC = independent review committee; IMWG = international myeloma working
+                group; ISS = international staging system; R-ISS = revised international staging system; ORR = Overall Response Rate
+                Note: Refractory includes last line of prior therapy, PI+IMiD, Triple (PI+IMiD+anti-CD38 antibody), Penta (at least 2
+                PIs + at least 2 IMiDs + 1 anti-CD38 antibody).
+                Note: Baseline ISS is derived based on the combination of serum β2-microglobulin and albumin.
+                Note: Baseline R-ISS is derived based on the combination of serum β2-microglobulin and albumin, genetic risk, and
+                level of lactate dehydrogenase level (LDH).
+                Note: High risk is defined by participants having t (4; 14); t (14; 16) and/or 17p deletion.
+                Note: Response was assessed by IRC, based on IMWG consensus criteria (2016).
+                Note: Race Other includes Asian (3 subjects), Multiple (1 subjects), Other (2 subjects) and Not Reported (4 subjects).
+                Note: Percentages are calculated with the number of subjects in each subgroup as denominator.
+                Note: Exact 95% confidence intervals are provided.
+                Note: The median for baseline tumor BCMA expression is 67.2% (range: 23.2%, 99.7%) in the efficacy analysis set.
+                                                                                                            [GEFRESP02ARP2D.RTF] [JNJ-
+                   64007957\MMY1001_P3\DBR_EFFICACY_ADDENDUM\RE_EFFICACY_ADDENDUM\PROD\GEFRESP02ARP2D.SAS]
+                                                                                                                     19DEC2021, 20:59
+
+
+               The Applicant’s Position:
+               Teclistamab administered at RP2D led to a compelling efficacy profile for subjects who had
+               received at least 3 prior therapies, including a PI, an IMiD, and an anti-CD38 monoclonal antibody,
+               with ORR of 62.7% (95% CI: 54.4% to 70.4%) that was robust across multiple pre-specified
+               sensitivity analyses and consistent across subgroups. With a substantial follow-up in responders
+               (median: 9.9 months), a majority of responders (75 of 94) maintained response and many
+               subjects deepened response over time, suggesting a robust and durable effect. Compelling
+               efficacy, as measured by ORR, was observed in subjects regardless of the number of prior lines
+               of therapy, refractoriness to the prior therapy, and the presence of standard-risk or high-risk
+               cytogenetics at baseline.
+
+               The FDA’s Assessment:
+               The FDA does not agree with the Applicant’s use of the Efficacy Analysis Set to evaluate the
+               primary efficacy endpoint. Refer to FDA’s Assessment of the Statistical Analysis Plan and
+               Amendments.
+
+               The primary efficacy result based on the patients from phase 2 Cohort A presented in Table 10
+               above can be reproduced by the statistical reviewer. As of the clinical cut-off of November 9th,
+               2021, the ORR by IRC estimate was 61.8% with the lower bound of its 95% CI of 52.1% which
+               could exclude the pre-specified null hypothesis rate of 30%. Therefore, the study met its pre-
+               specified primary objective.
+
+               Sensitivity analyses for the primary endpoint were based on investigator assessment and
+               computerized algorithm. Based on the Applicant’s results, the ORR by investigator assessment
+               was 60.9% (95% CI: 51.1%, 70.1%), which was the same as the ORR by computerized algorithm.
+               Therefore, the sensitivity analysis results indicated that the results were consistent with those
+               based on IRC assessment.
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                         98
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               data to further clarify how the final response was determined and the reasons for the discrepant
+               response assessments. The Applicant confirmed that the final IRC response was based on the
+               assessment agreed upon by at least 2 of the 3 IRC members and no other factors were used to
+               select the final IRC response. However, the reasons for discrepancy were not collected. FDA
+               review of the response assessments did not find any major disagreements that would affect the
+               ORR results.
+               Data Quality and Integrity
+
+               Data:
+               Not applicable.
+
+               The Applicant’s Position:
+               No data integrity concerns were reported following completion of study center/site monitoring
+               and/or audits.
+
+               The FDA’s Assessment:
+               No issues were identified with the data quality or integrity from the study which could
+               affect the efficacy results. The submitted datasets are generally consistent, and variables are
+               clearly labeled and/or explained.
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              100
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

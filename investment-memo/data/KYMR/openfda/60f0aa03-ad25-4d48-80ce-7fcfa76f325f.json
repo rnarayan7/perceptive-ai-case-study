@@ -1,0 +1,21 @@
+{
+  "company": "KYMR",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "60f0aa03-ad25-4d48-80ce-7fcfa76f325f",
+  "title": "Label: TEZSPIRE (TEZEPELUMAB-EKKO)",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=60f0aa03-ad25-4d48-80ce-7fcfa76f325f",
+  "published": "2025-10-17",
+  "retrieved_at": "2026-09-08T08:40:22.775796+00:00",
+  "metadata": {
+    "brand_name": "TEZSPIRE",
+    "generic_name": "TEZEPELUMAB-EKKO",
+    "manufacturer": "Amgen Inc",
+    "manufacturer_name": "Amgen Inc",
+    "pharm_class_epc": "Thymic Stromal Lymphopoietin Blocker [EPC]",
+    "pharm_class_moa": "Thymic Stromal Lymphopoietin Blockers [MoA]",
+    "application_number": "BLA761224",
+    "route": "SUBCUTANEOUS"
+  },
+  "hash": "ab073f1a2ec74c7256b5ad8b9e9a97b2a3015096e14041c8b56f25fbbc37894a"
+}

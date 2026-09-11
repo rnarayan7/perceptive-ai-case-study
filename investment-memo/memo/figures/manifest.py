@@ -10,7 +10,7 @@ small JSON **manifest** that anyone can hand-seed:
       "figures": [
         {
           "figure_id": "kt621-stat6-pd",
-          "image": "samples/kymr_kt621_pd.png",   // relative to the manifest file
+          "image": "kt621_stat6_pd.png",          // relative to the manifest file
           "caption": "KT-621 drives dose-dependent STAT6 degradation ...",
           "source_url": "https://investors.kymeratx.com/...",
           "keywords": ["KT-621", "STAT6", "degradation", "biomarker"],
@@ -36,9 +36,6 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 from memo.figures.annotate import Annotation
-
-# Bundled sample manifests + images live alongside this module.
-SAMPLES_DIR = Path(__file__).resolve().parent / "samples"
 
 
 @dataclass
@@ -126,22 +123,13 @@ def load_manifest(path: Path) -> FigureManifest:
 
 
 def resolve_manifest(company: str, storage: Any = None) -> Optional[FigureManifest]:
-    """Find a figure manifest for ``company``, preferring a seeded one over the samples.
+    """Find a seeded figure manifest for ``company`` under the data root, or ``None``.
 
-    Lookup order:
-
-    1. ``<storage.root>/<company>/figures/manifest.json`` (a hand-seeded manifest that a
-       future deck-ingestion step could also write), when ``storage`` is given.
-    2. The bundled ``samples/<COMPANY>.json``.
-
-    Returns ``None`` when neither exists, so callers can degrade to "no figures".
+    Looks for ``<storage.root>/<company>/figures/manifest.json`` (the manifest a
+    figure-ingestion step writes). Returns ``None`` when it does not exist, so callers
+    degrade to "no figures".
     """
-    candidates: List[Path] = []
-    if storage is not None and getattr(storage, "root", None) is not None:
-        candidates.append(Path(storage.root) / company / "figures" / "manifest.json")
-    candidates.append(SAMPLES_DIR / f"{company}.json")
-
-    for candidate in candidates:
-        if candidate.exists():
-            return load_manifest(candidate)
-    return None
+    if storage is None or getattr(storage, "root", None) is None:
+        return None
+    path = Path(storage.root) / company / "figures" / "manifest.json"
+    return load_manifest(path) if path.exists() else None

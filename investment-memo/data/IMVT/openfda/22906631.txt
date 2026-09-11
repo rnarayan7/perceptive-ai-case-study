@@ -1,0 +1,4 @@
+FAERS adverse-event report 22906631 (comparator: rozanolixizumab)
+Serious: no
+Reactions: Injection site urticaria, Injection site erythema, Injection site swelling, Headache
+Reported drugs: RYSTIGGO

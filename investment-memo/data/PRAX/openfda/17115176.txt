@@ -1,0 +1,4 @@
+FAERS adverse-event report 17115176 (comparator: cenobamate)
+Serious: no
+Reactions: Hypersomnia, Seizure, Lethargy, Abdominal discomfort, Nausea, Somnolence, Diarrhoea
+Reported drugs: EPIDIOLEX, EPIDIOLEX, EPIDIOLEX, ONFI, ONFI, STIRIPENTOL, STIRIPENTOL, BRIVIACT, VITAMINS, XCOPRI, VITAMIN D3, KLONOPIN

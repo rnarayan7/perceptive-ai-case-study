@@ -1,0 +1,110 @@
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               Pooled E-R Safety Analysis Supporting Nivolumab Monotherapy in Adjuvant and Advanced
+               Melanoma and Nivo + Ipi in Advanced Melanoma
+
+               Figure 4: Applicant - Estimated Covariate Effects of the Exposure-Response of Gr2+ IMAEs
+               (Full Model)
+
+
+
+
+               Note 1: Continuous covariate effects (95% CI) at the 5th/95th percentiles of the covariate are represented by
+               horizontal width of boxes (horizontal lines). Open/shaded width of boxes represents the range of covariate effects
+               from the median to the 5th/95th percentile of the covariate.
+               Note 2: Reference subject: male who had median value of LDH (normalized) = 1, body weight = 75 kg, age = 60 yr,
+               performance score = 0, with 1st line advanced melanoma, tumor cell PD-L1 < 5%, and white.
+               Note 3: The dataset includes a much larger number of adult subjects compared to adolescent and young pediatric
+               subjects. Therefore, the 5th to 95th percentile for age is from 19.1 to 78 years.
+               Analysis-Directory: /global/pkms/data/CA/209/adjmel-ped/prd/er-safety/final/
+               Program Source: Analysis-Directory/R/scripts/2-model-tv-imae-dev-final.Rmd
+               Source: Analysis-Directory/R/scripts/2-model-tv-imae-dev-final.html
+
+
+                                                                 68
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+                   B) Covariate Effects on CLSS/CL0 and VC
+
+
+
+
+               Program Source: Analysis-Directory/R/scripts/ 2-model-dev.Rmd
+               Source: Analysis-Directory/R/plots/ggcoveff-full5-cl.png, ggcoveff-full5-emax-vc.png
+               Note 1: Categorical covariate effects (95% CI) are represented by open symbols (horizontal lines).
+               Note 2: Continuous covariate effects (95% CI) at the 5th/95th percentiles of the covariate are represented by the
+               end of horizontal boxes (horizontal lines). Open/shaded area of boxes represents the range of covariate effects
+               from the median to the 5th/95th percentile of the covariate.
+               Note 3: Reference subject is a 60-year old male, white/other race, WTB = 75 kg, LBM = 55 kg, PS = 0, baseline eGFR
+               = 90 mL/min/1.73 m2, received nivo mono, and with melanoma. Parameter estimate in a reference subject is
+               considered as 100% (vertical solid line), and dashed vertical lines are at 80% and 125% of this value.
+               Note 4: The effect of WTB and LBM was also added on Q and VP, respectively, and their estimates were fixed to be
+               similar to that CL and VC, respectively.
+               Note 5: CLss/CL0 = eEMAX
+
+
+                                                                 67
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+
+Reference ID: 5127294
+
+               NDA/BLA Multi-disciplinary Review and Evaluation - Supplemental BLAs 125554 and 125377
+               OPDIVO (nivolumab) and Yervoy (ipilimumab)
+               The Applicant’s Position:
+               Adolescent PK was characterized using a population PK (PPK) approach for nivo mono and in
+               combination with ipilimumab and for ipili mono and in combination with nivolumab to support
+               the dosing recommendations for adolescents in advanced melanoma for nivo mono and in
+               combination with ipilimumab, respectively and referred to as advanced PPK analyses
+               (AdvPPK).27 Adolescent PK was also characterized for nivo mono in the adjuvant setting to
+               support the dosing recommmendation for adolescents treated in the adjuvant melanoma
+               setting, referred to as adjuvant PPK analysis (AdjPPK).35
+               Advanced Melanoma PPK Analysis- Nivolumab (Covariate Effect Plot Figure 1)
+               Nivolumab PK data from Study CA209070 (young pediatric, adolescent, and young adult with
+               multiple recurrent or refractory cancers) were pooled with data from 12 other studies in adult
+               and pediatric subjects with advanced melanoma and other advanced solid tumors (including
+               CNS tumors), and hematological malignancies treated with nivo mono or nivo+ipi combination
+               therapy. The dataset was robust, with nivolumab PK data from 2325 subjects including 2050 APPEARS THIS
+               adult subjects and 275 pediatric subjects (n=1 advanced melanoma pediatric subject).Error!        WAY ON
+               Bookmark not defined.
+                                     Pediatric PK characterization in the current analysis extended the previous ORIGINAL
+               pediatric PK analysis for the nivolumab+relatlimab FDC by i) including pediatric subjects across
+               studies and indications, ii) investigating which body size parameters (lean body mass, body
+               surface area and body weight) best characterized the pediatric effect on CL and VC, iii)
+               evaluating numerical and categorical effects of age on CL and VC, and iv) evaluating PK
+               differences across pediatric indications (model development details in PK report).27
+               The PK of nivolumab is adequately characterized by a 2-compartment, zero-order IV infusion PK
+               model with time-varying CL for advanced melanoma and solid tumor, and with stationary CL for
+               adjuvant treatment of melanoma.
+               Effects of covariates on nivolumab CL:
+               • Adult adjuvant treatment of melanoma (35% lower), adolescent adjuvant treatment of
+                   melanoma (47% lower), young pediatric subjects (1 to < 12 years) with advanced solid
+                   tumor (43% lower), adolescent subjects (≥ 12 to < 18 years) with advanced solid tumor (19%
+                   lower) have lower baseline CL than that of adult advanced melanoma subjects.
+               • Adolescent adjuvant treatment of melanoma subjects have lower CL (19% lower) compared
+                   with adult adjuvant treatment of melanoma.
+               • The effects of eGFR, PS, and sex on nivolumab baseline CL are statistically significant,
+                   however they are not considered clinically relevant (< 20%).
+               • Race (Asian vs White; African American vs White) does not have a significant effect on
+                   nivolumab CL.
+               • There is a covariate effect of baseline body weight on CL (19% lower CL at 5th percentile of
+                   body weight than median body weight).
+               • Coadministration with ipilimumab 3 mg/kg Q3W is associated with ≈39% higher nivolumab
+                   CL than nivo mono. However, coadministration with ipilimumab 1 mg/kg Q3W has no
+
+                                                                 69
+                                           Version date: June 2022 (ALL NDA/ BLA reviews)
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the po

@@ -1,0 +1,112 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                         5.3 Referenced NDAs, BLAs, DMFs
+
+               The Applicant’s Position:
+               There are no referenced NDAs, BLA, or Drug Master Files related to nonclinical pharmacology or
+               toxicology for teclistamab.
+
+               The FDA’s Assessment:
+               We agree that no other applications are being referenced to support the approval of BLA
+               761291.
+
+                         5.4 ADME/PK
+
+               The Applicant’s Position:
+               The nonclinical PK program characterized the linearity, dose proportionality, and immunogenicity
+               of teclistamab in cynomolgus monkeys, the pharmacologically relevant species (see Section 5.3).
+
+               •        In repeat-dose IV toxicity studies dosed for up to 5 weeks, most cynomolgus monkeys
+                        administered teclistamab weekly demonstrated continuous exposure at concentrations
+                        expected to be pharmacologic based on in vitro assays.
+
+               •        At doses >0.1 mg/kg/week, systemic exposure increased in a dose-proportional manner,
+                        with no apparent sex-related differences and minimal accumulation (approximately 2-fold)
+                        in the study.
+
+               •        Among the 30 cynomolgus monkeys dosed with teclistamab in the IV 5-week study, 21 tested
+                        positive for the presence of ADA. Seven of the 21 ADA-positive animals had lower exposure
+                        compared with other animals in the same group. The total of 7 animals includes 1, 2, and 2
+                        animals in the 1, 10, and 30 mg/kg/week groups, respectively, during the Day 22 dosing
+                        period and 1 animal each in the 1 and 10 mg/kg/week groups on Day 29.
+
+               •        Conventional distribution, metabolism, and excretion studies were not conducted for
+                        teclistamab since it is an IgG-based bispecific antibody with a molecular weight of
+                        approximately 146,000 kD.
+
+               The FDA’s Assessment:
+               Teclistamab TK parameters from the 5-week repeat-dose toxicology study in cynomolgus
+               monkeys are described in FDA Table 1; this study evaluated the IV route of administration,
+               whereas the clinical route of administration is SC. The local tolerance study in New Zealand
+               White rabbits did not evaluate teclistamab TK parameters.
+
+               TK data from general toxicology studies
+
+               JNJ-64007957 (BCMAxCD3): A 5-Week, Intravenous Repeat-dose GLP Toxicity Study in
+               Cynomolgus Monkeys with a 8-Week Recovery Period / T-2016-030
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              41
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               reactivity of teclistamab to cynomolgus monkey relative to humans. The no-observed-effect level
+               for 5 weekly IV doses of teclistamab-treated monkeys was 30 mg/kg , the highest dose tested,
+               with corresponding AUCDay22-29 and Day 22 Cmax mean values of 3549 µg·day/mL and 1084 µg/mL,
+               respectively. All doses were expected to be pharmacologically active, as mean serum
+               concentrations of teclistamab throughout the treatment periods were higher than the EC50 (0.09
+               to 0.48 ug/mL) for cytotoxicity with cynomolgus monkey T cells against cBCMA-expressing target
+               cells.
+
+               No evidence of immunotoxicity in cynomolgus monkeys was observed following IV weekly dosing
+               in any of the above toxicity studies. While ADAs were detected in a number of animals in the
+               toxicology studies, the relationship between immunogenicity in animals and human is not well
+               established, and results in animals are not expected to be predictive of the human immunogenic
+               response (Bugelski 2004).
+
+               A 3-month toxicity study in cynomolgus monkeys was not conducted due to the absence of
+               pharmacologic or toxicologic effects, the high incidence of ADAs in the 5-week study that
+               impacted exposure in some animals, and the restricted expression of BCMA to the B cell lineage
+               that limits the potential for toxicity on other normal cells and tissues. In accordance with the
+               above, the FDA provided feedback via written responses only and agreed a 3-month animal
+               toxicology study is not warranted.
+
+               A SC local tolerance GLP study demonstrated teclistamab was well tolerated at injection sites in
+               New Zealand rabbits administered a single dose of 20 mg (2.0 mL dose volume) in formulation
+               buffer. Because rabbits are not a pharmacologically relevant species, this study only tested the
+               local tolerance of the formulation at an antibody protein concentration of 10 mg/mL. The
+               formulation buffer contains the same components as the drug product. Additionally, there were
+               no adverse injection site findings following repeat-dose IV administration in cynomolgus
+               monkeys administered doses of 1, 10, or 30 mg/kg/week.
+
+               The FDA’s Assessment:
+               We agree with the Applicant’s assessment of the 5-week repeat-dose toxicity study in
+               cynomolgus monkeys; a detailed review of this study is provided below. Lack of PD activity or
+               teclistamab-related adverse effects at dose levels expected to be pharmacologically active may
+               be attributed to the relatively low binding affinity of teclistamab to cynomolgus monkey BCMA,
+               the paucity of BCMA-expressing target cells, and the decreased teclistamab systemic exposure in
+               animals affected by ADAs. A longer-duration repeat-dose toxicity study would not provide
+               meaningful information and is not warranted. The cynomolgus monkey is a pharmacologically-
+               relevant nonclinical species to assess the toxicology of teclistamab and general toxicology studies
+               in other species are not warranted.
+
+               We agree with the Applicant’s assessment of the local tolerance study in New Zealand White
+               rabbits.
+
+               Study title / Study number: JNJ-64007957 (BCMAxCD3): A 5-Week, Intravenous Repeat-dose GLP
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              43
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

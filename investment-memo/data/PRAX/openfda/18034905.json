@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "18034905",
+  "title": "FAERS report 18034905: Behcet^s syndrome",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:18034905",
+  "published": "2021-02-06",
+  "retrieved_at": "2026-09-08T08:40:31.673096+00:00",
+  "metadata": {
+    "term": "cenobamate",
+    "serious": true,
+    "reactions": [
+      "Behcet^s syndrome"
+    ],
+    "drugs": [
+      "BRIVIACT",
+      "VIMPAT",
+      "CLOBETASOL",
+      "CLONAZEPAM.",
+      "XCOPRI",
+      "OTEZLA",
+      "CHLORHEXIDINE GLUCONATE.",
+      "LAMOTRIGINE.",
+      "KETAMINE",
+      "COLCHICINE."
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "11e993f89e3490d2a99bb75ca3cefa087d8052f4e28c828e70daab087a1a62da"
+}

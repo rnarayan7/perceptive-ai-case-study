@@ -1,0 +1,23 @@
+{
+  "company": "PRAX",
+  "source": "nadac",
+  "doc_type": "nadac_price",
+  "doc_id": "72205003474-2026-08-19",
+  "title": "NADAC price: LACOSAMIDE 10 MG/ML SOLUTION",
+  "url": "https://data.medicaid.gov/dataset/fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+  "published": "2026-08-19",
+  "retrieved_at": "2026-09-08T08:43:33.681254+00:00",
+  "metadata": {
+    "ndc": "72205003474",
+    "ndc_description": "LACOSAMIDE 10 MG/ML SOLUTION",
+    "nadac_per_unit": 0.08203,
+    "pricing_unit": "ML",
+    "effective_date": "2026-08-19",
+    "as_of_date": "2026-08-26",
+    "otc": "N",
+    "classification_for_rate_setting": "G",
+    "dataset_id": "fbb83258-11c7-47f5-8b18-5f8e79f7e704",
+    "drug_query": "lacosamide"
+  },
+  "hash": "13e12feb96b2f18ada1cd1f9d86e42b2de116153b25ce10a6b87ac9ee9a7bce2"
+}

@@ -1,0 +1,26 @@
+{
+  "company": "COGT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-NJ_AST02_CRDPREV_2022_2022_AGE1844",
+  "title": "Asthma - New Jersey - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T10:07:22.853513+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Asthma",
+    "question": "Current asthma among adults",
+    "location": "New Jersey",
+    "location_abbr": "NJ",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "8.6",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Age",
+    "stratification": "Age 18-44"
+  },
+  "hash": "757df0b5f3f451700fc277b635d4c0b1ddc8f9516f7fca87642c50a6a917cd5f"
+}

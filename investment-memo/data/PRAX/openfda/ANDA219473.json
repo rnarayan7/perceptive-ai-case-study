@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA219473",
+  "title": "Drugs@FDA ANDA219473: CENOBAMATE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A219473",
+  "published": null,
+  "retrieved_at": "2026-09-08T08:40:32.689983+00:00",
+  "metadata": {
+    "manufacturer": "AUROBINDO PHARMA LIMITED",
+    "brand_name": "CENOBAMATE",
+    "sponsor_name": "AUROBINDO PHARMA LIMITED",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "CENOBAMATE"
+    ],
+    "active_ingredients": [
+      "CENOBAMATE"
+    ],
+    "marketing_status": [
+      "None (Tentative Approval)"
+    ],
+    "approval_date": null,
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "8c68266a138eafdc74518baeebde477251863b8ed2ee6fc4dab25a117e005623"
+}

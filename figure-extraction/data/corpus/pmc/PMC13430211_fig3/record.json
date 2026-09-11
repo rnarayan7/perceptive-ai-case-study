@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13430211_fig3",
+  "figure_type": "waterfall",
+  "title": "A Phase II Evaluation of the Efficacy and Safety of Sacituzumab Govitecan in Patients with Recurrent Uterine Cancer.",
+  "caption": "IHC characteristics and response ( n  = 43). Archival tumor was stained with the anti–Trop-2  EPR20043  antibody. Membrane H-score versus best response (top) or tumor volume change at best response (middle). Kaplan–Meier estimates of PFS by median H-score (bottom).",
+  "context": "IHC characteristics and response ( n  = 43). Archival tumor was stained with the anti–Trop-2  EPR20043  antibody. Membrane H-score versus best response (top) or tumor volume change at best response (middle). Kaplan–Meier estimates of PFS by median H-score (bottom).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430211/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-08-01",
+  "retrieved_at": "2026-09-07T13:01:13.418141+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13430211",
+    "pmid": "42132892",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "fig_label": "Figure 3."
+  },
+  "image_hash": "a501a97116a6d14bdc082e07d31e9c87838a6619155367dc60c9c080e3703aa9",
+  "image_file": "image.jpg"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT04023396",
+  "title": "Efficacy and Safety Study of ABX464 as Maintenance Therapy in Patients With Moderate to Severe Ulcerative Colitis",
+  "url": "https://clinicaltrials.gov/study/NCT04023396",
+  "published": "2019-07-17",
+  "retrieved_at": "2026-09-07T12:53:29.798736+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 217,
+    "start_date": "2020-01-13",
+    "primary_completion_date": "2023-02-23",
+    "completion_date": "2023-02-23",
+    "first_posted_date": "2019-07-17",
+    "primary_outcomes": [
+      {
+        "measure": "Proportion of Patients With Clinical Remission at Week 48 Compared to Baseline of Induction Study (ABX464-103)",
+        "timeFrame": "week 48"
+      }
+    ]
+  },
+  "hash": "8c070c573b829e24a72d8f7390d8739db86f1545b9f5b74fdffbe05af7ba314a"
+}

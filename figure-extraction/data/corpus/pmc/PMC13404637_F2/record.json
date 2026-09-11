@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13404637_F2",
+  "figure_type": "table",
+  "title": "Randomized phase II trial of nivolumab and ipilimumab with or without stereotactic body radiation therapy in patients with metastatic castration-resistant prostate cancer: the CheckPRO, CA209-8TY trial.",
+  "caption": "(A) The PSA response rate for arm A, 8/37, 21.6%, 95% CI 9.8% to 38.2% and the PSA response rate for arm B, 9/44, 20.5%, 95% CI 9.8% to 35.3%. The red bars represent patients in arm A, and the turquoise bars represent patients treated in arm B. The PSA response rate for patients in arms A and B was 21%. (B) The objective response rate (ORR) for arm A, 4/24, 16.7%, 95% CI 4.7% to 37.4% and the ORR for arm B, 8/36, 22.2%, 95% CI 10.1% to 39.2%. The red bars represent patients in arm A, and the turquoise bars represent patients treated in arm B. The ORR for patients in arms A and B was 20%. (C) The best overall response (BOR) for arm A, 4/24, 16.7%, 95% CI 4.7% to 37.4% and the BOR for arm B, 8/36, 22.2%, 95% CI 10.1% to 39.2%. The blue bars represent patients with partial response (PR), the green bars represent patients with stable disease (SD), and the red bars represent patients with progressive disease (PD). C1D1, cycle 1 day 1; PCWG, Prostate Cancer Working Group; PSA, prostate-specific antigen; SBRT, stereotactic body radiation therapy; SOD, sum of diameter.",
+  "context": "(A) The PSA response rate for arm A, 8/37, 21.6%, 95% CI 9.8% to 38.2% and the PSA response rate for arm B, 9/44, 20.5%, 95% CI 9.8% to 35.3%. The red bars represent patients in arm A, and the turquoise bars represent patients treated in arm B. The PSA response rate for patients in arms A and B was 21%. (B) The objective response rate (ORR) for arm A, 4/24, 16.7%, 95% CI 4.7% to 37.4% and the ORR for arm B, 8/36, 22.2%, 95% CI 10.1% to 39.2%. The red bars represent patients in arm A, and the turquoise bars represent patients treated in arm B. The ORR for patients in arms A and B was 20%. (C) The best overall response (BOR) for arm A, 4/24, 16.7%, 95% CI 4.7% to 37.4% and the BOR for arm B, 8/36, 22.2%, 95% CI 10.1% to 39.2%. The blue bars represent patients with partial response (PR), the green bars represent patients with stable disease (SD), and the red bars represent patients with progressive disease (PD). C1D1, cycle 1 day 1; PCWG, Prostate Cancer Working Group; PSA, prostate-specific antigen; SBRT, stereotactic body radiation therapy; SOD, sum of diameter. The ORR for the entire cohort was 20% (see figure 2 and online supplemental figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13404637/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T13:27:09.464593+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13404637",
+    "pmid": "42493213",
+    "journal": "Journal for immunotherapy of cancer",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "4466760bb7381ab72328346a1011abe26a67cae08f52179428d16e215ae3a63b",
+  "image_file": "image.jpg"
+}

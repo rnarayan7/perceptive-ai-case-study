@@ -1,0 +1,43 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06840925",
+  "title": "A Clinical Trial to Evaluate the Relative Bioavailability of PRAX-628",
+  "url": "https://clinicaltrials.gov/study/NCT06840925",
+  "published": "2025-02-21",
+  "retrieved_at": "2026-09-07T12:53:43.593081+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      {
+        "name": "PRAX-628",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 16,
+    "start_date": "2025-04-28",
+    "primary_completion_date": "2025-06-05",
+    "completion_date": "2025-06-05",
+    "first_posted_date": "2025-02-21",
+    "primary_outcomes": [
+      {
+        "measure": "To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules",
+        "timeFrame": "28 days"
+      },
+      {
+        "measure": "To assess the relative bioavailability of single 40 mg oral doses of PRAX-628 tablet as compared to PRAX-628 capsules",
+        "timeFrame": "28 days"
+      }
+    ]
+  },
+  "hash": "501f2b87d398146e6f3fb6d24e075a15ca48147d0df4e67aa8d90f5877ceb0d6"
+}

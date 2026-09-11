@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA205237",
+  "title": "Drugs@FDA ANDA205237: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A205237",
+  "published": "2022-03-17",
+  "retrieved_at": "2026-09-08T08:40:37.247522+00:00",
+  "metadata": {
+    "manufacturer": "SCIEGEN PHARMS",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "SCIEGEN PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2022-03-17",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 3
+  },
+  "hash": "ddbd3d7c447f3e3c2489a868b768adb2fecc2e3ae542ef9a5d5a1c9ec3459c56"
+}

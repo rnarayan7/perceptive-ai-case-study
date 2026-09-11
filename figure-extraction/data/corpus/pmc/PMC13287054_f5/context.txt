@@ -1,0 +1,1 @@
+Forest plot of EGFR-related subgroup analyses for OS.meta-analysis. The relevant content is presented in Figure 5 . For OS, the funnel plot appeared largely symmetrical, and Begg’s test did not detect significant publication bias (p=0.072), as shown in Supplementary Figure 5 .

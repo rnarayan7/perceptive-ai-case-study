@@ -1,0 +1,25 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10363235",
+  "title": "FAERS report 10363235: Transaminases increased, Abdominal pain",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10363235",
+  "published": "2014-08-08",
+  "retrieved_at": "2026-09-08T08:40:13.661978+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": false,
+    "reactions": [
+      "Transaminases increased",
+      "Abdominal pain"
+    ],
+    "drugs": [
+      "ENTYVIO",
+      "ENTYVIO",
+      "ENTYVIO"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "5a5ad8dc05e2fdec65e66c2f873f54d64aa351576ccb6c37831360c88f13301e"
+}

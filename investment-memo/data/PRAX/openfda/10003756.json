@@ -1,0 +1,51 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10003756",
+  "title": "FAERS report 10003756: Activities of daily living impaired, Crying, Drug ineffective",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10003756",
+  "published": "2014-03-12",
+  "retrieved_at": "2026-09-08T08:40:41.205642+00:00",
+  "metadata": {
+    "term": "lamotrigine",
+    "serious": false,
+    "reactions": [
+      "Activities of daily living impaired",
+      "Crying",
+      "Drug ineffective",
+      "Depression"
+    ],
+    "drugs": [
+      "DEPAKOTE",
+      "LITHIUM",
+      "LEXAPRO FILM-COATED TABLETS",
+      "LUVOX",
+      "PRISTIQ",
+      "PRISTIQ",
+      "PRISTIQ",
+      "PRISTIQ",
+      "ZOLOFT",
+      "PROZAC",
+      "LAMICTAL",
+      "PAXIL",
+      "VALIUM",
+      "KLONOPIN",
+      "TOPAMAX",
+      "ABILIFY",
+      "WELLBUTRIN",
+      "CELEXA",
+      "CYMBALTA",
+      "ANAFRANIL",
+      "IMIPRAMINE",
+      "TEGRETOL",
+      "SEROQUEL",
+      "SEROQUEL XR",
+      "XANAX",
+      "ADDERALL",
+      "UNSPECIFIED MEDICATION"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "dda3867018e44fcc3a7d3d0035007aa83edbc68c4ab05db05aad02f6d21824e7"
+}

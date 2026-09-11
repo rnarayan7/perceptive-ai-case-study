@@ -1,0 +1,31 @@
+{
+  "company": "PRAX",
+  "source": "openfda",
+  "doc_type": "drugsfda",
+  "doc_id": "ANDA219699",
+  "title": "Drugs@FDA ANDA219699: LACOSAMIDE",
+  "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=A219699",
+  "published": "2025-06-26",
+  "retrieved_at": "2026-09-08T08:40:37.245959+00:00",
+  "metadata": {
+    "manufacturer": "AJENAT PHARMS",
+    "brand_name": "LACOSAMIDE",
+    "sponsor_name": "AJENAT PHARMS",
+    "application_type": "ANDA (generic)",
+    "brand_names": [
+      "LACOSAMIDE"
+    ],
+    "active_ingredients": [
+      "LACOSAMIDE"
+    ],
+    "marketing_status": [
+      "Prescription"
+    ],
+    "approval_date": "2025-06-26",
+    "review_priority": [
+      "STANDARD"
+    ],
+    "submission_count": 1
+  },
+  "hash": "f65d613bfdf834f159269d031adde4db6c2bbf51793183973c73702984ccc53d"
+}

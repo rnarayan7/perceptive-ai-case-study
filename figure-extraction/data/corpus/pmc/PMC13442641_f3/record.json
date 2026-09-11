@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13442641_f3",
+  "figure_type": "kaplan_meier",
+  "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+  "caption": "Kaplan–Meier survival curves of OS and PFS stratified by SII in the training and validation cohorts. In the training cohort, significant differences in OS (P = 0.015) and PFS (P = 0.028) were observed between the high-SII (> 580) and low-SII (≤ 580) groups  (A, B) . Independent validation confirmed consistent prognostic differences for OS (P = 0.047) and PFS (P = 0.049) in the validation cohort  (C, D) . The numbers at risk are listed below each panel.",
+  "context": "Kaplan–Meier survival curves of OS and PFS stratified by SII in the training and validation cohorts. In the training cohort, significant differences in OS (P = 0.015) and PFS (P = 0.028) were observed between the high-SII (> 580) and low-SII (≤ 580) groups  (A, B) . Independent validation confirmed consistent prognostic differences for OS (P = 0.047) and PFS (P = 0.049) in the validation cohort  (C, D) . The numbers at risk are listed below each panel. Prognostic significance of SII in training and validation cohorts In the training cohort, patients with high SII exhibited significantly inferior OS (log-rank P = 0.015; Wilcoxon P = 0.018) and PFS (log-rank P = 0.028; Wilcoxon P = 0.026) compared with those with low SII ( Figures 3A, B ). These findings were validated in the independent validation cohort: high SII was associated with shorter OS (log-rank P = 0.047; Wilcoxon P = 0.046) and PFS (log-rank P = 0.049; Wilcoxon P = 0.054) ( Figures 3C, D ). These findings support the inclusion of SII as an additional 1-point adverse factor in the FLIPI-SII model, while maintaining the simplicity and clinical applicability of the original FLIPI framework ( Supplementary Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13442641/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:53:32.895309+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13442641",
+    "pmid": "42564252",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "e970f28b45764c517671c6d54f4a9cf0c91dfcc0980533230a3ad83fa9c6128c",
+  "image_file": "image.jpg"
+}

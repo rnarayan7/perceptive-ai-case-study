@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13380284_f0001",
+  "figure_type": "kaplan_meier",
+  "title": "Pretreatment Prognostic Nutritional Index Predicts Progression-Free Survival in BCLC Stage C Hepatocellular Carcinoma Treated with Sorafenib.",
+  "caption": "Kaplan–Meier curves for progression-free survival (PFS) stratified by the Modified Glasgow Prognostic Score (mGPS). Patients with an mGPS of 0 demonstrated longer PFS compared with those with mGPS scores of 1 and 2. Detailed survival data are provided in  Table 3 .",
+  "context": "Kaplan–Meier curves for progression-free survival (PFS) stratified by the Modified Glasgow Prognostic Score (mGPS). Patients with an mGPS of 0 demonstrated longer PFS compared with those with mGPS scores of 1 and 2. Detailed survival data are provided in  Table 3 . Kaplan–Meier curves for mGPS, PI, PNI, and ALBI grade are shown in Figures 1–4 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380284/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-14",
+  "retrieved_at": "2026-09-07T12:51:01.222124+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13380284",
+    "pmid": "42471988",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "09a311ebac698544294c0d76fcea547c13927d2134304998e2a35047ce20865e",
+  "image_file": "image.jpg"
+}

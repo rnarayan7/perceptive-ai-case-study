@@ -1,0 +1,4 @@
+FAERS adverse-event report 10363235 (comparator: vedolizumab)
+Serious: no
+Reactions: Transaminases increased, Abdominal pain
+Reported drugs: ENTYVIO, ENTYVIO, ENTYVIO

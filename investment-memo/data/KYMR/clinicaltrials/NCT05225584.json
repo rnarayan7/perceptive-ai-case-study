@@ -1,0 +1,60 @@
+{
+  "company": "KYMR",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT05225584",
+  "title": "Safety, PK, PD, Clinical Activity of KT-333 in Adult Patients With Refractory Lymphoma, Large Granular Lymphocytic Leukemia, Solid Tumors",
+  "url": "https://clinicaltrials.gov/study/NCT05225584",
+  "published": "2022-02-04",
+  "retrieved_at": "2026-09-07T06:57:16.412369+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Non Hodgkin Lymphoma (NHL)",
+      "Peripheral T-cell Lymphoma (PTCL)",
+      "Cutaneous T-Cell Lymphoma (CTCL)",
+      "Large Granular Lymphocytic Leukemia (LGL-L)",
+      "T-cell Prolymphocytic Leukemia (T-PLL)",
+      "Solid Tumors"
+    ],
+    "interventions": [
+      {
+        "name": "KT-333",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Kymera Therapeutics, Inc.",
+    "enrollment": 56,
+    "start_date": "2022-05-19",
+    "primary_completion_date": "2025-03-03",
+    "completion_date": "2025-03-03",
+    "first_posted_date": "2022-02-04",
+    "primary_outcomes": [
+      {
+        "measure": "Safety",
+        "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "Safety",
+        "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "Safety",
+        "timeFrame": "Safety will be assessed from the time ICF signature through 30 days post dose or prior to start of a new anticancer therapy"
+      },
+      {
+        "measure": "Maximum Tolerated Dose (MTD)",
+        "timeFrame": "Within the first 28 days of treatment"
+      },
+      {
+        "measure": "Dose Limiting Toxicities (DLTs)",
+        "timeFrame": "Within the first 28days of treatment"
+      }
+    ]
+  },
+  "hash": "f6aac2c80bf57509df0d79f4d25673221a5a31786f1c589ae4948d2f9b6204ff"
+}

@@ -1,0 +1,52 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "15042922",
+  "title": "FAERS report 15042922: Rib fracture, Pneumothorax, Blood pressure decreased",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:15042922",
+  "published": "2024-10-21",
+  "retrieved_at": "2026-09-08T08:40:09.335563+00:00",
+  "metadata": {
+    "term": "upadacitinib",
+    "serious": true,
+    "reactions": [
+      "Rib fracture",
+      "Pneumothorax",
+      "Blood pressure decreased",
+      "Arthralgia",
+      "Orthostatic hypotension",
+      "Fall",
+      "Cervical vertebral fracture",
+      "Spinal column injury",
+      "Fall",
+      "Sciatica",
+      "Fall"
+    ],
+    "drugs": [
+      "ESBRIET",
+      "ESBRIET",
+      "ESBRIET",
+      "WARFARIN SODIUM",
+      "SYNTHROID",
+      "SIMVASTATIN",
+      "SINGULAIR",
+      "ALBUTEROL SULFATE",
+      "LIPITOR",
+      "BUSPAR",
+      "ZYRTEC",
+      "VITAMIN D3",
+      "CYANOCOBALAMIN",
+      "CYMBALTA",
+      "FLONASE",
+      "NEURONTIN",
+      "PROAMATINE",
+      "PRILOSEC",
+      "DESYREL",
+      "RINVOQ",
+      "TYMLOS"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "7fafd963884268b9f724af5c55155615b7091f2c5fb8f6a51e5ff834a6cc22b7"
+}

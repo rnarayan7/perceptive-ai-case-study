@@ -1,0 +1,65 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               populations from MajesTEC-1.
+
+
+               Figure 1: Analysis Populations; MajesTEC-1
+
+
+
+
+               CCO=clinical cutoff; IV=intravenous(ly); RP2D=recommended Phase 2 dose, SC=subcutaneous(ly)
+                     Subjects treated at RP2D in Phase 1 are presented in both pivotal RP2D data and Phase 1 (dose escalation/dose expansion) data.
+                    A subject must have received the first dose of teclistamab on or before this date to be included in the indicated population.
+                     One subject in the 6 mg/kg SC cohort who received their first step-up dose on 17 March 2021 was excluded from the efficacy analyses
+                     for Phase 1 (dose escalation/dose expansion) because the cohort was incomplete at the time of the data cutoff for inclusion in efficacy
+                     analysis and the only subject enrolled in it had not yet received a treatment dose.
+                   All subjects treated with teclistamab IV received their first dose prior to 18 March 2021.
+                     As described in this section, subjects evaluated in Stage 1 of the analysis for Cohort C were included in the efficacy analysis, all of whom
+                     received at least 1 dose of teclistamab on or before 23 March 2021.
+
+               Clinical Cutoff Dates
+
+               Per protocol for MajesTEC-1, the primary analysis for the BLA is based on a clinical cutoff of
+               07 September 2021. A subset of key efficacy data were also analyzed based on a clinical cutoff of
+               09 November 2021 to assess these parameters with longer follow-up. Specifically, analyses
+               reflecting longer follow-up are provided for the pivotal RP2D primary efficacy endpoint of ORR
+               (subjects with PR or better) by IRC assessment, as well as for selected secondary and exploratory
+               efficacy endpoints. These data are presented in addenda to the CSR, SCE, and CO. Table 6
+               summarizes the clinical cutoffs for each type of data presented in this Assessment Aid, which is
+               aligned with data reported in the proposed USPI.
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                                                               82
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                a Subject refused further treatment includes 'Withdrawal by subject' from Phase 1 RP2D.
+
+                            [TSIDS02RP2D.RTF] [JNJ-64007957\MMY1001_P3\DBR_CSR\RE_CSR\PROD\TSIDS02RP2D.SAS] 07OCT2021, 21:43
+
+
+
+
+                                                      APPEARS THIS WAY ON ORIGINAL
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              84
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

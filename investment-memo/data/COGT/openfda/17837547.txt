@@ -1,0 +1,4 @@
+FAERS adverse-event report 17837547 (comparator: ripretinib)
+Serious: yes
+Reactions: Atrial fibrillation
+Reported drugs: ACETYLSALICYLIC ACID, BISOPROLOL., QINLOCK, RAMIPRIL., QINLOCK, HYDROCHLOROTHIAZIDE., SIMVASTATIN.

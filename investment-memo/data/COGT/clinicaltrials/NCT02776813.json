@@ -1,0 +1,59 @@
+{
+  "company": "COGT",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02776813",
+  "title": "Study of ACTR087 in Subjects With Relapsed or Refractory B-cell Lymphoma",
+  "url": "https://clinicaltrials.gov/study/NCT02776813",
+  "published": "2016-05-18",
+  "retrieved_at": "2026-09-07T12:53:51.530095+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Lymphoma"
+    ],
+    "interventions": [
+      {
+        "name": "ACTR087",
+        "type": "BIOLOGICAL"
+      },
+      {
+        "name": "rituximab",
+        "type": "BIOLOGICAL"
+      }
+    ],
+    "lead_sponsor": "Cogent Biosciences, Inc.",
+    "enrollment": 34,
+    "start_date": "2016-08",
+    "primary_completion_date": "2020-02-12",
+    "completion_date": "2020-02-12",
+    "first_posted_date": "2016-05-18",
+    "primary_outcomes": [
+      {
+        "measure": "Safety as assessed by dose limiting toxicities (DLTs)",
+        "timeFrame": "28 days"
+      },
+      {
+        "measure": "Safety as assessed by determination of the maximum tolerated dose (MTD)",
+        "timeFrame": "24 months"
+      },
+      {
+        "measure": "Safety as assessed by determination of the recommended phase 2 dose (RP2D)",
+        "timeFrame": "24 months"
+      },
+      {
+        "measure": "Safety as assessed by and adverse events, laboratory assessments and physical examinations",
+        "timeFrame": "24 months"
+      },
+      {
+        "measure": "Safety as assessed by mini-mental state examination (MMSE)",
+        "timeFrame": "24 months"
+      }
+    ]
+  },
+  "hash": "b42cdd3c659b1fab692c5df5761fafc4cde728b81eef9176f398c827b0514dbe"
+}

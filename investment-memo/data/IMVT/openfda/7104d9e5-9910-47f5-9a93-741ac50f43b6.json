@@ -1,0 +1,21 @@
+{
+  "company": "IMVT",
+  "source": "openfda",
+  "doc_type": "label",
+  "doc_id": "7104d9e5-9910-47f5-9a93-741ac50f43b6",
+  "title": "Label: VYVGART Hytrulo (EFGARTIGIMOD ALFA AND HYALURONIDASE (HUMAN RECOMBINANT))",
+  "url": "https://labels.fda.gov/getSPLDetail.cfm?setid=7104d9e5-9910-47f5-9a93-741ac50f43b6",
+  "published": "2026-07-15",
+  "retrieved_at": "2026-09-08T08:40:45.477278+00:00",
+  "metadata": {
+    "brand_name": "VYVGART Hytrulo",
+    "generic_name": "EFGARTIGIMOD ALFA AND HYALURONIDASE (HUMAN RECOMBINANT)",
+    "manufacturer": "argenx US",
+    "manufacturer_name": "argenx US",
+    "pharm_class_epc": "Endoglycosidase [EPC]",
+    "pharm_class_moa": "Neonatal Fc Receptor Blockers [MoA]",
+    "application_number": "BLA761304",
+    "route": "SUBCUTANEOUS"
+  },
+  "hash": "3e3f8260944d21f084a0827033b4a05ad9a7c69efdbcdad1653667fd3e4962f8"
+}

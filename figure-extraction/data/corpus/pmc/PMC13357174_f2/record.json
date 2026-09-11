@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13357174_f2",
+  "figure_type": "forest",
+  "title": "Impact of metastatic pattern and histologic subtype on PD-(L)1 inhibitor efficacy in HER2-negative advanced gastric and gastroesophageal cancer: a meta-analysis.",
+  "caption": "Forest plot analysis of overall survival in all GC/GEJ patients. Pooled hazard ratios for overall survival comparing PD- (L) 1 inhibitor plus chemotherapy versus chemotherapy alone in HER2-negative advanced GC/GEJ.",
+  "context": "Forest plot analysis of overall survival in all GC/GEJ patients. Pooled hazard ratios for overall survival comparing PD- (L) 1 inhibitor plus chemotherapy versus chemotherapy alone in HER2-negative advanced GC/GEJ. Chemo-immunotherapy was associated with a significant improvement in OS (pooled HR 0.79, 95% CI 0.75–0.84; p < 0.0001) with no detectable between-study heterogeneity demonstrating a consistent treatment effect across studies ( Figure 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13357174/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-06-29",
+  "retrieved_at": "2026-09-07T13:04:59.421234+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.79 (95% CI 0.75-0.84)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "a significant improvement in OS (pooled HR 0.79, 95% CI 0.75–0.84; p < 0.0001) with no detectable between",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13357174",
+    "pmid": "42444824",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "f0a4a72ba59313413a7239e83e4d78d8c9d92d7ba8a3b7ce42b6aa741c1f10cd",
+  "image_file": "image.jpg"
+}

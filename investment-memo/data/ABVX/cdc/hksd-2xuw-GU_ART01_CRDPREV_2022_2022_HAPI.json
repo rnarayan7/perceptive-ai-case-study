@@ -1,0 +1,26 @@
+{
+  "company": "ABVX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-GU_ART01_CRDPREV_2022_2022_HAPI",
+  "title": "Arthritis - Guam - 2022",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2022-01-01",
+  "retrieved_at": "2026-09-08T08:43:35.003417+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "Guam",
+    "location_abbr": "GU",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "23.7",
+    "year_start": "2022",
+    "year_end": "2022",
+    "stratification_category": "Race/Ethnicity",
+    "stratification": "Native Hawaiian or Other Pacific Islander, non-Hispanic"
+  },
+  "hash": "399e4bb4f3adc067e15713063afb97244768d2db58adc01b080ecbe4cd77c2ac"
+}

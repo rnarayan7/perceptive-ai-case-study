@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC12676224_f1",
+  "figure_type": "spider",
+  "title": "Efficacy and safety of anlotinib hydrochloride combined with concurrent radiotherapy in the treatment of locally advanced cervical cancer: a single-arm, single-center, exploratory, phase II clinical study.",
+  "caption": "PP population efficacy assessment.  (A)  Spider plot of tumor diameter sum over time in the PP population.  (B)  Waterfall plot of treatment efficacy evaluation in the PP population.  (C)  PFS survival analysis in the PP population.",
+  "context": "PP population efficacy assessment.  (A)  Spider plot of tumor diameter sum over time in the PP population.  (B)  Waterfall plot of treatment efficacy evaluation in the PP population.  (C)  PFS survival analysis in the PP population. Patient selection flow is detailed in Supplementary Figure 1 . A comprehensive visualization of efficacy evaluation for all PP population patients is presented in Figure 1 . The spider plot ( Figure 1A ) clearly demonstrates the therapeutic response dynamics of each patient over time. The waterfall plot analysis of PP population ( Figure 1B ) revealed, three confirmed CR cases, one patient achieved 100% disappearance of target lesions but failed to maintain this response for ≥4 weeks (classified as PR), three SD cases showed >30% reduction in target lesions without sustaining for 4 weeks, nine patients met PD criteria with >20% increase in target lesions. PFS outcomes for the PP population are shown in Figure 1C .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12676224/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2025-11-20",
+  "retrieved_at": "2026-09-07T13:13:26.822143+00:00",
+  "ground_truth": [
+    {
+      "quantity": "PFS 95% CI",
+      "value": "60.440-74.205 weeks",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    },
+    {
+      "quantity": "PFS landmark (weeks 0-90)",
+      "value": "~65% at 90 weeks",
+      "unit": null,
+      "population_n": null,
+      "method": "manual",
+      "source_text": null,
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC12676224",
+    "pmid": "41357588",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "e7f280428d4415256d305d953d7ff4f9d6a696f56bd3095a064b13665eed999a",
+  "image_file": "image.jpg"
+}

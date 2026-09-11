@@ -1,0 +1,33 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13199703_fig3-17588359261446799",
+  "figure_type": "kaplan_meier",
+  "title": "The impact of APC mutation on the efficacy of anti-EGFR therapy in metastatic colorectal cancer with RAS wild type: a retrospective analysis.",
+  "caption": "Kaplan–Meier curves of progression-free survival and overall survival in patients with hepatic metastasis.",
+  "context": "Kaplan–Meier curves of progression-free survival and overall survival in patients with hepatic metastasis. Similarly, there was no significant difference in overall survival between the two groups in this subgroup (HR 0.91, 95% CI 0.26–3.19, p = 0.88; Figure 3 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199703/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-05-23",
+  "retrieved_at": "2026-09-07T12:53:02.107920+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.91 (95% CI 0.26-3.19)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "etween the two groups in this subgroup (HR 0.91, 95% CI 0.26–3.19, p = 0.88; Figure 3 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13199703",
+    "pmid": "42199488",
+    "journal": "Therapeutic advances in medical oncology",
+    "fig_label": "Figure 3."
+  },
+  "image_hash": "b3e6d4972fdd8cdad75a9b53b0e2f549222512e72a641f606cb079adecf6a062",
+  "image_file": "image.jpg"
+}

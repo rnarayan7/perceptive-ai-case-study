@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-IN_MEN02_AGEADJPREV_2021_2021_SEXM",
+  "title": "Mental Health - Indiana - 2021",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2021-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.784448+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Indiana",
+    "location_abbr": "IN",
+    "data_source": "BRFSS",
+    "value_type": "Age-adjusted Prevalence",
+    "value_unit": "%",
+    "value": "16.4",
+    "year_start": "2021",
+    "year_end": "2021",
+    "stratification_category": "Sex",
+    "stratification": "Male"
+  },
+  "hash": "4ce235088a55af58933743c586a8362331790a8b091d9664ee5e09d33089f409"
+}

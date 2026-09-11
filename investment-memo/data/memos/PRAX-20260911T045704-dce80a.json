@@ -1,0 +1,1517 @@
+{
+  "memo_id": "PRAX-20260911T045704-dce80a",
+  "company": "PRAX",
+  "title": "PRAX Investment Memo",
+  "recommendation": "Neutral; price bakes in more portfolio success than the rNPV or blended PoS support.",
+  "thesis": "rNPV of $1.5B (unadjusted $3.3B at 0.45 pos) covers only ~15% of the $9.82B market cap, even though it already embeds ulixacaltamide's disclosed 0.75 probability of success and 3M-patient ET epidemiology base. The gap implies the market is pricing in relutrigine, elsunersen, and PRAX-222 optionality beyond the single-asset model. Balance sheet is clean ($1.4B cash, no debt, runway into 2028), but the vormatrigine POWER1 miss and PRAX-114 withdrawal argue for caution on read-through across the sodium-channel platform.",
+  "variant_view": "At $9.82B market cap against a $1.5B lead-asset rNPV, the price implies the market is treating most of the sodium-channel/epilepsy pipeline (relutrigine, elsunersen, PRAX-222) as high-probability wins layered on top of ulixacaltamide, not just crediting the single ET asset. Our evidence instead shows a blended pos of 0.45 used in the valuation versus the 0.75 probability of success disclosed specifically for ulixacaltamide [8][9] \u2014 a ~30-point gap driven by vormatrigine's POWER1 primary-endpoint miss [3] and the PRAX-114 program withdrawal, both signaling inconsistent clinical translation across the platform. If portfolio-wide pos is closer to 0.75 like the single-asset figure, rNPV would scale materially higher and the market cap could be justified; if it stays near 0.45, the stock is priced for outcomes the epilepsy assets haven't yet earned. The relutrigine PDUFA date of December 27, 2026 [2] and the ulixacaltamide NDA decision are the near-term events that resolve which pos assumption is correct.",
+  "status": "complete",
+  "sections": [
+    {
+      "section_id": "thesis",
+      "title": "Executive Summary & Thesis",
+      "takeaway": "Neutral; price bakes in more portfolio success than the rNPV or blended PoS support.",
+      "prose": "rNPV of $1.5B (unadjusted $3.3B at 0.45 pos) covers only ~15% of the $9.82B market cap, even though it already embeds ulixacaltamide's disclosed 0.75 probability of success and 3M-patient ET epidemiology base. The gap implies the market is pricing in relutrigine, elsunersen, and PRAX-222 optionality beyond the single-asset model. Balance sheet is clean ($1.4B cash, no debt, runway into 2028), but the vormatrigine POWER1 miss and PRAX-114 withdrawal argue for caution on read-through across the sodium-channel platform.\n\nWhere our view departs: At $9.82B market cap against a $1.5B lead-asset rNPV, the price implies the market is treating most of the sodium-channel/epilepsy pipeline (relutrigine, elsunersen, PRAX-222) as high-probability wins layered on top of ulixacaltamide, not just crediting the single ET asset. Our evidence instead shows a blended pos of 0.45 used in the valuation versus the 0.75 probability of success disclosed specifically for ulixacaltamide [8][9] \u2014 a ~30-point gap driven by vormatrigine's POWER1 primary-endpoint miss [3] and the PRAX-114 program withdrawal, both signaling inconsistent clinical translation across the platform. If portfolio-wide pos is closer to 0.75 like the single-asset figure, rNPV would scale materially higher and the market cap could be justified; if it stays near 0.45, the stock is priced for outcomes the epilepsy assets haven't yet earned. The relutrigine PDUFA date of December 27, 2026 [2] and the ulixacaltamide NDA decision are the near-term events that resolve which pos assumption is correct.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_fe468b4d146a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_272eff941e26",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_39cd64b151b9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_4372e6be3e59",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_734f31c05b7b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_84cc844c9eb6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_f3526f45819d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_9c18c6afd540",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_bbf149cc46d9",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_984d1450e5b9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+          "label": "pubmed 20175185"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_ef435c8b2d9a",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+          "label": "pubmed 34277141"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_29ef715690ee",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_4d5650f23932",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "overview",
+      "title": "Company & Pipeline Overview",
+      "takeaway": "PRAX's lead asset relutrigine has an accepted, priority-review NDA with a PDUFA date of December 27, 2026 and no major safety/efficacy flags from FDA's mid-cycle review to date.",
+      "prose": "Lead candidate relutrigine (PRAX-562), a preferential persistent sodium current inhibitor [3][4][5] with an improved protective index versus standard-of-care sodium channel blockers preclinically [11], has an NDA under FDA priority review for SCN2A-DEE and SCN8A-DEE based on positive EMBOLD registrational cohort data [1]; PDUFA date is December 27, 2026, and the mid-cycle review has flagged no major safety or efficacy concerns to date [2][6]. The broader-population EMERALD study has completed enrollment, with topline data expected Q4 2026 [7]. Pipeline also includes PRAX-222, in Phase 1/2 pediatric SCN2A-DEE testing [8], and PRAX-944, a T-type calcium channel blocker for essential tremor with a completed Phase 2 trial [9][10]; a separate essential tremor program, PRAX-114, was withdrawn with zero enrollment [13]. Cash position is not disclosed in the provided claims.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_fe468b4d146a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_272eff941e26",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_ed130a535b61",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42651828/",
+          "label": "pubmed 42651828"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_7366c62d46be",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_330e6d4094a9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_09090467dab4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_5494c892aa72",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_fc1cb2b2a6cc",
+          "url": "https://clinicaltrials.gov/study/NCT05737784",
+          "label": "NCT05737784"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_8eeb53a272d7",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_6ea724c07f4b",
+          "url": "https://clinicaltrials.gov/study/NCT05021978",
+          "label": "NCT05021978"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_1a8d28c675dc",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_8d74c5466cc9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_4ac8087fb893",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "moa",
+      "title": "Mechanism of Action",
+      "takeaway": "Relutrigine's differentiated persistent-sodium-current mechanism has translated into a positive registrational readout and an NDA now under FDA priority review (PDUFA December 27, 2026), the pipeline's central near-term catalyst.",
+      "prose": "Relutrigine (PRAX-562) is a preferential inhibitor of persistent (vs. peak/tonic) sodium current [1][2][3], a mechanism preclinically linked to an improved protective index versus standard-of-care sodium channel blockers [4]. This mechanism underpins the lead program: an NDA for SCN2A- and SCN8A-DEE was submitted based on positive EMBOLD registrational cohort results [5], accepted for priority review with a PDUFA date of December 27, 2026 [6], and the FDA's mid-cycle review has flagged no major safety or efficacy concerns to date [7]. A broader-population readout (EMERALD) is expected Q4 2026 [8]. Pipeline diversification includes PRAX-628 (focal seizures) [9], PRAX-222 (SCN2A gain-of-function, orphan designation, Phase 1/2 ongoing) [10][11], and PRAX-944, a T-type calcium channel blocker for essential tremor with positive preclinical tremor reduction [12][13] and a completed Phase 2 [14]. PRAX-114's essential tremor trial was withdrawn with zero enrollment [15].",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_ed130a535b61",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42651828/",
+          "label": "pubmed 42651828"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_7366c62d46be",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_330e6d4094a9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_1a8d28c675dc",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_fe468b4d146a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_272eff941e26",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_09090467dab4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_5494c892aa72",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_d0273bbf3eeb",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39008349/",
+          "label": "pubmed 39008349"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_2f8b01d60041",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_fc1cb2b2a6cc",
+          "url": "https://clinicaltrials.gov/study/NCT05737784",
+          "label": "NCT05737784"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_8eeb53a272d7",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_8d74c5466cc9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[14]",
+          "evidence_id": "ev_6ea724c07f4b",
+          "url": "https://clinicaltrials.gov/study/NCT05021978",
+          "label": "NCT05021978"
+        },
+        {
+          "marker": "[15]",
+          "evidence_id": "ev_4ac8087fb893",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[16]",
+          "evidence_id": "ev_de691437d466",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37381161/",
+          "label": "pubmed 37381161"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "pos",
+      "title": "Probability of Success",
+      "takeaway": "PRAX pipeline PoS is 35-55%, a wide band reflecting clean lead-asset regulatory signals offset by a Phase 3 failure and a discontinued program elsewhere in the portfolio.",
+      "prose": "Overall PoS: 35-55% [1][2][3][4][5][6][7]. Support: ulixacaltamide's Essential 3 (n=1000, randomized, placebo-controlled, randomized-withdrawal design) [10] and relutrigine's Phase 3 DEE trial (n=160, randomized, double-blind, placebo-controlled) [11] are both rigorous designs, and both NDAs are under active FDA review, with a joint BIMO inspection completed with no Form 483 [15][16]. Relutrigine also has supportive preclinical mechanism data (improved protective index vs. carbamazepine/lamotrigine) [8][9]. Offsetting this: vormatrigine's Phase 3 POWER1 missed its primary endpoint [12], despite an earlier positive but uncontrolled open-label Phase 2 (RADIANT) [13]; and PRAX-114 in essential tremor was withdrawn with zero enrollment [14]. This mix of clean regulatory conduct for lead assets against a hard efficacy miss and a discontinued program justifies a moderate, wide band rather than a point estimate.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_88314afd3ac0",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_14c910c40e00",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_b8bfb72bc344",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_f771e1b21aaf",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_bd37b7fa217d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_d6258bbbf906",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_cc458d1b00e0",
+          "url": "https://clinicaltrials.gov/study/NCT06840925",
+          "label": "NCT06840925"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_4df0eb4ec1d9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_75cbffb163c3",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_4372e6be3e59",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_ae569006239d",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_39cd64b151b9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_065c09d5556f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[14]",
+          "evidence_id": "ev_cf2544b04308",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[15]",
+          "evidence_id": "ev_806d8e62fa25",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[16]",
+          "evidence_id": "ev_3cde1c22224f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[17]",
+          "evidence_id": "ev_a1f47849201a",
+          "url": "https://clinicaltrials.gov/study/NCT06840925",
+          "label": "NCT06840925"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "regulatory",
+      "title": "Regulatory Path",
+      "takeaway": "Relutrigine is the near-term catalyst: NDA under priority review with PDUFA pushed to December 27, 2026 after a three-month extension, mid-cycle review clean and no advisory committee planned [1][2][3][4][5][6].",
+      "prose": "- Relutrigine: NDA submitted and accepted for priority review based on EMBOLD registrational cohort in SCN2A/SCN8A-DEE [1][2][7]; original PDUFA September 27, 2026, extended three months to December 27, 2026 [3][4]; mid-cycle review completed with no major safety/efficacy concerns and no advisory committee planned [5][6]; joint BIMO inspection with ulixacaltamide completed, no Form 483 [12]; separate EMERALD study (broad DEE) has completed recruitment, topline expected Q4 2026 [31]; Phase 3 trial NCT07010471 active, not recruiting, primary endpoint seizure frequency reduction at 16 weeks [28].\n- Ulixacaltamide: NDA submitted and accepted for review after positive Phase 3 Essential3 program in essential tremor [10]; no PDUFA date disclosed [11]; no advisory committee planned, pre-launch activities underway [13].\n- Elsunersen: FDA breakthrough therapy designation for SCN2A gain-of-function DEE seizures [14]; Phase 3 EMBRAVE3 registrational study ongoing, topline expected 2027 [15][16]; no filing or PDUFA date disclosed [17].\n- PRAX-222: orphan drug designation for SCN2A gain-of-function epilepsy [18]; specific clinical phase beyond \"clinical trials\" not disclosed [19].\n- Vormatrigine: Phase 2 RADIANT positive, but Phase 3 POWER1 missed primary endpoint at 12 weeks [20][21]; POWER2 enrollment paused for program reassessment, with plans to restart POWER2 and initiate POWER3 [22][23]; no designation or filing timeline disclosed [24][26].\n- Preclinical ASOs (PRAX-080/090/100): targeting PCDH19, SYNGAP1, SCN2A-LoF; no designations disclosed [34][35].\n- Open question: whether relutrigine's NDA review follows accelerated versus full approval pathway is not disclosed in the filing [8][9].",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_734f31c05b7b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_84cc844c9eb6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_f3526f45819d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_74b37ded2aff",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_c832cf46681a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_b50145036ddf",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_72cfa18796d7",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_2b76051b1d09",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_b96f2b1fc73d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_5d9b46acb0c8",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_3176c9faf664",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_d31610a8bb7c",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_9d693d9410ad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[14]",
+          "evidence_id": "ev_6daf69257f62",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[15]",
+          "evidence_id": "ev_85369659eee4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[16]",
+          "evidence_id": "ev_61369c66c83d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[17]",
+          "evidence_id": "ev_bf97d50c9c20",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[18]",
+          "evidence_id": "ev_707f9328e300",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[19]",
+          "evidence_id": "ev_c5e0063e88a8",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[20]",
+          "evidence_id": "ev_7ba9f50fdb0b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[21]",
+          "evidence_id": "ev_59374dc66685",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[22]",
+          "evidence_id": "ev_fb1c883f0dd1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[23]",
+          "evidence_id": "ev_bcdc06f99686",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[24]",
+          "evidence_id": "ev_3177cd112014",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[25]",
+          "evidence_id": "ev_3483fbeb1ade",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[26]",
+          "evidence_id": "ev_a9134271ea41",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[27]",
+          "evidence_id": "ev_406161c9584e",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[28]",
+          "evidence_id": "ev_f19a740d3e8c",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[29]",
+          "evidence_id": "ev_e3649ed04333",
+          "url": "https://clinicaltrials.gov/study/NCT06999902",
+          "label": "NCT06999902"
+        },
+        {
+          "marker": "[30]",
+          "evidence_id": "ev_e49394d4f0b7",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[31]",
+          "evidence_id": "ev_2be3492b8bad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[32]",
+          "evidence_id": "ev_0e4f4d355f5f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[33]",
+          "evidence_id": "ev_497e82fd96be",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[34]",
+          "evidence_id": "ev_61199f5bd98f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[35]",
+          "evidence_id": "ev_af65a5758205",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "peak_sales",
+      "title": "Commercial Opportunity",
+      "takeaway": "Illustrative gross peak sales for ulixacaltamide in essential tremor span $1.7-3.9B, with a $2.70B base case ($2.02B risk-adjusted), but these rest entirely on assumed penetration and pricing, not disclosed guidance.",
+      "prose": "No public epidemiology or pricing exists for this pre-commercial asset; the range below is illustrative, not a forecast. US essential tremor prevalence estimates (~0.9-1.3% of population) support an epidemiology base of ~3,000,000 patients [1][2], from which a modeled treatable population of 900,000 and 135,000 patients on drug generate gross peak sales of $2.70B, with a sensitivity range of $1.7-3.9B on penetration and price assumptions [5][6][7][8]. Probability of success is estimated at 0.75, reflecting a completed positive Phase 3 program (Essential3) and FDA acceptance of the NDA [3][4], yielding a risk-adjusted base of $2.02B [5][6][7][8]. Treat all figures as order-of-magnitude, parameter-driven estimates rather than point forecasts.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_984d1450e5b9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+          "label": "pubmed 20175185"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_ef435c8b2d9a",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+          "label": "pubmed 34277141"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_9c18c6afd540",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_bbf149cc46d9",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_1785ad285a9a",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+          "label": "pubmed 20175185"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_41a90450aa78",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+          "label": "pubmed 34277141"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_a4bde29000a9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_58d7e7af2fe4",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "valuation",
+      "title": "Valuation & Price vs Thesis",
+      "takeaway": "Lead-asset rNPV of ~$1.5B covers only about 15% of PRAX's $9.82B market cap, implying the market is pricing in substantial pipeline/optionality value well beyond the modeled asset.",
+      "prose": "Our deterministic rNPV for the lead asset is ~$1.5B (unadjusted NPV $3.3B at 45% probability of success), an order-of-magnitude figure, not a target price. Against the current market cap of $9.82B (price $351.81), this rNPV covers roughly one-sixth of the equity value \u2014 a coverage ratio, not an upside case, since the model captures only one asset while the market is pricing the whole company. The balance sheet is clean: $1.4 billion in cash, cash equivalents and marketable securities as of June 30, 2026 [2][3], no long-term debt [16], and management guidance of runway into 2028 (with explicit caveats that this could shorten) [18][19]. That liquidity supports execution but does not itself explain the gap between lead-asset rNPV and market cap. Our read: the market is ascribing meaningful value to pipeline assets and optionality outside our current rNPV scope \u2014 a departure we flag rather than endorse without further asset-level modeling.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_29ef715690ee",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_858726726ff2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_7716f925d250",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_d499d9301093",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "xbrl cash_and_short_term_investments"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_4d5650f23932",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_2d4ae2bfa8e9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_acdaae31b6bd",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_3a0f2d21f5fe",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_8b9cd082b5f8",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_ef967b2a61ad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_f8d070c2c395",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_8e534271b7c6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_37cf0b2d999b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[14]",
+          "evidence_id": "ev_1be5470482ec",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[15]",
+          "evidence_id": "ev_93c2d75b43db",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[16]",
+          "evidence_id": "ev_7a55d8ae3323",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[17]",
+          "evidence_id": "ev_76107ac5a0aa",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[18]",
+          "evidence_id": "ev_2e7cf4e29484",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[19]",
+          "evidence_id": "ev_dd2fb6cf2709",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "risks",
+      "title": "Risks",
+      "takeaway": "Runway to 2028 rests on management's own cash-sufficiency estimate, with no clinical or commercial data in evidence to underwrite it.",
+      "prose": "- Profitability gap: filings note PRAX has not generated product sales and flags that failure to become profitable could force it to reduce operations, underscoring reliance on the balance sheet rather than revenue [3][10].\n- Runway estimate: the 2028 sufficiency guidance is management's own projection, not a guaranteed outcome, and depends on spending assumptions not detailed in these claims [10].\n- Cash composition: only $474.8 million is in cash and equivalents; the $1.4 billion total includes $283.8 million short-term and $615.3 million long-term marketable securities, which carry liquidity and valuation timing considerations not addressed here [1][3][4].\n- Dilution overhang: 1,905,404 outstanding stock options were excluded from diluted EPS as anti-dilutive, a share-count risk if conditions change [8][9].",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_29ef715690ee",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_4d5650f23932",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_858726726ff2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_7716f925d250",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_d499d9301093",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "xbrl cash_and_short_term_investments"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_1be5470482ec",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_93c2d75b43db",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_8e534271b7c6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_37cf0b2d999b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_2e7cf4e29484",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "catalysts",
+      "title": "Catalysts",
+      "takeaway": "The claims name no dated clinical, regulatory, or corporate catalyst; the only forward-looking marker is a cash runway guided into 2028.",
+      "prose": "- Cash runway: management states cash, cash equivalents and marketable securities as of June 30, 2026 are expected to fund operations into 2028, with no specific milestone or date tied to this guidance [10].\n- No dated readouts, filings, or decisions are identified in the evidence; all other claims describe balance-sheet items (cash of $474.8M [1], total cash/investments of ~$1.4B [3][4], cash plus short-term investments of $758.6M [5], share counts [2][6][7], and anti-dilutive stock options [8][9]) as of June 30, 2026, not forward catalysts.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_29ef715690ee",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_4d5650f23932",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_858726726ff2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_7716f925d250",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_d499d9301093",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "xbrl cash_and_short_term_investments"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_1be5470482ec",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_93c2d75b43db",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_8e534271b7c6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_37cf0b2d999b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_2e7cf4e29484",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        }
+      ],
+      "figures": []
+    },
+    {
+      "section_id": "sources",
+      "title": "Sources",
+      "takeaway": "",
+      "prose": "Evidence appendix. This memo rests on 95 cited sources; each is linked below and referenced by its marker where it appears in the memo.",
+      "citations": [
+        {
+          "marker": "[1]",
+          "evidence_id": "ev_ed130a535b61",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42651828/",
+          "label": "pubmed 42651828"
+        },
+        {
+          "marker": "[2]",
+          "evidence_id": "ev_7366c62d46be",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[3]",
+          "evidence_id": "ev_330e6d4094a9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[4]",
+          "evidence_id": "ev_1a8d28c675dc",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[5]",
+          "evidence_id": "ev_fe468b4d146a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[6]",
+          "evidence_id": "ev_272eff941e26",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[7]",
+          "evidence_id": "ev_09090467dab4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[8]",
+          "evidence_id": "ev_5494c892aa72",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[9]",
+          "evidence_id": "ev_d0273bbf3eeb",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39008349/",
+          "label": "pubmed 39008349"
+        },
+        {
+          "marker": "[10]",
+          "evidence_id": "ev_2f8b01d60041",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[11]",
+          "evidence_id": "ev_fc1cb2b2a6cc",
+          "url": "https://clinicaltrials.gov/study/NCT05737784",
+          "label": "NCT05737784"
+        },
+        {
+          "marker": "[12]",
+          "evidence_id": "ev_8eeb53a272d7",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[13]",
+          "evidence_id": "ev_8d74c5466cc9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35257414/",
+          "label": "pubmed 35257414"
+        },
+        {
+          "marker": "[14]",
+          "evidence_id": "ev_6ea724c07f4b",
+          "url": "https://clinicaltrials.gov/study/NCT05021978",
+          "label": "NCT05021978"
+        },
+        {
+          "marker": "[15]",
+          "evidence_id": "ev_4ac8087fb893",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[16]",
+          "evidence_id": "ev_de691437d466",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37381161/",
+          "label": "pubmed 37381161"
+        },
+        {
+          "marker": "[17]",
+          "evidence_id": "ev_88314afd3ac0",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[18]",
+          "evidence_id": "ev_14c910c40e00",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[19]",
+          "evidence_id": "ev_b8bfb72bc344",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[20]",
+          "evidence_id": "ev_f771e1b21aaf",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[21]",
+          "evidence_id": "ev_bd37b7fa217d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[22]",
+          "evidence_id": "ev_d6258bbbf906",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[23]",
+          "evidence_id": "ev_cc458d1b00e0",
+          "url": "https://clinicaltrials.gov/study/NCT06840925",
+          "label": "NCT06840925"
+        },
+        {
+          "marker": "[24]",
+          "evidence_id": "ev_4df0eb4ec1d9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[25]",
+          "evidence_id": "ev_75cbffb163c3",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35037706/",
+          "label": "pubmed 35037706"
+        },
+        {
+          "marker": "[26]",
+          "evidence_id": "ev_4372e6be3e59",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[27]",
+          "evidence_id": "ev_ae569006239d",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[28]",
+          "evidence_id": "ev_39cd64b151b9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[29]",
+          "evidence_id": "ev_065c09d5556f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[30]",
+          "evidence_id": "ev_cf2544b04308",
+          "url": "https://clinicaltrials.gov/study/NCT05387642",
+          "label": "NCT05387642"
+        },
+        {
+          "marker": "[31]",
+          "evidence_id": "ev_806d8e62fa25",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[32]",
+          "evidence_id": "ev_3cde1c22224f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[33]",
+          "evidence_id": "ev_a1f47849201a",
+          "url": "https://clinicaltrials.gov/study/NCT06840925",
+          "label": "NCT06840925"
+        },
+        {
+          "marker": "[34]",
+          "evidence_id": "ev_734f31c05b7b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[35]",
+          "evidence_id": "ev_84cc844c9eb6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[36]",
+          "evidence_id": "ev_f3526f45819d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[37]",
+          "evidence_id": "ev_74b37ded2aff",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[38]",
+          "evidence_id": "ev_c832cf46681a",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[39]",
+          "evidence_id": "ev_b50145036ddf",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[40]",
+          "evidence_id": "ev_72cfa18796d7",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[41]",
+          "evidence_id": "ev_2b76051b1d09",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[42]",
+          "evidence_id": "ev_b96f2b1fc73d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[43]",
+          "evidence_id": "ev_5d9b46acb0c8",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[44]",
+          "evidence_id": "ev_3176c9faf664",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[45]",
+          "evidence_id": "ev_d31610a8bb7c",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[46]",
+          "evidence_id": "ev_9d693d9410ad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[47]",
+          "evidence_id": "ev_6daf69257f62",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[48]",
+          "evidence_id": "ev_85369659eee4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[49]",
+          "evidence_id": "ev_61369c66c83d",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[50]",
+          "evidence_id": "ev_bf97d50c9c20",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[51]",
+          "evidence_id": "ev_707f9328e300",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[52]",
+          "evidence_id": "ev_c5e0063e88a8",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40808385/",
+          "label": "pubmed 40808385"
+        },
+        {
+          "marker": "[53]",
+          "evidence_id": "ev_7ba9f50fdb0b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[54]",
+          "evidence_id": "ev_59374dc66685",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[55]",
+          "evidence_id": "ev_fb1c883f0dd1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[56]",
+          "evidence_id": "ev_bcdc06f99686",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[57]",
+          "evidence_id": "ev_3177cd112014",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[58]",
+          "evidence_id": "ev_3483fbeb1ade",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[59]",
+          "evidence_id": "ev_a9134271ea41",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[60]",
+          "evidence_id": "ev_406161c9584e",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[61]",
+          "evidence_id": "ev_f19a740d3e8c",
+          "url": "https://clinicaltrials.gov/study/NCT07010471",
+          "label": "NCT07010471"
+        },
+        {
+          "marker": "[62]",
+          "evidence_id": "ev_e3649ed04333",
+          "url": "https://clinicaltrials.gov/study/NCT06999902",
+          "label": "NCT06999902"
+        },
+        {
+          "marker": "[63]",
+          "evidence_id": "ev_e49394d4f0b7",
+          "url": "https://clinicaltrials.gov/study/NCT07505004",
+          "label": "NCT07505004"
+        },
+        {
+          "marker": "[64]",
+          "evidence_id": "ev_2be3492b8bad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[65]",
+          "evidence_id": "ev_0e4f4d355f5f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[66]",
+          "evidence_id": "ev_497e82fd96be",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[67]",
+          "evidence_id": "ev_61199f5bd98f",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[68]",
+          "evidence_id": "ev_af65a5758205",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[69]",
+          "evidence_id": "ev_984d1450e5b9",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+          "label": "pubmed 20175185"
+        },
+        {
+          "marker": "[70]",
+          "evidence_id": "ev_ef435c8b2d9a",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+          "label": "pubmed 34277141"
+        },
+        {
+          "marker": "[71]",
+          "evidence_id": "ev_9c18c6afd540",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[72]",
+          "evidence_id": "ev_bbf149cc46d9",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[73]",
+          "evidence_id": "ev_1785ad285a9a",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20175185/",
+          "label": "pubmed 20175185"
+        },
+        {
+          "marker": "[74]",
+          "evidence_id": "ev_41a90450aa78",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34277141/",
+          "label": "pubmed 34277141"
+        },
+        {
+          "marker": "[75]",
+          "evidence_id": "ev_a4bde29000a9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[76]",
+          "evidence_id": "ev_58d7e7af2fe4",
+          "url": "https://clinicaltrials.gov/study/NCT06087276",
+          "label": "NCT06087276"
+        },
+        {
+          "marker": "[77]",
+          "evidence_id": "ev_29ef715690ee",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[78]",
+          "evidence_id": "ev_858726726ff2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[79]",
+          "evidence_id": "ev_7716f925d250",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[80]",
+          "evidence_id": "ev_d499d9301093",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "xbrl cash_and_short_term_investments"
+        },
+        {
+          "marker": "[81]",
+          "evidence_id": "ev_4d5650f23932",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[82]",
+          "evidence_id": "ev_2d4ae2bfa8e9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[83]",
+          "evidence_id": "ev_acdaae31b6bd",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[84]",
+          "evidence_id": "ev_3a0f2d21f5fe",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[85]",
+          "evidence_id": "ev_8b9cd082b5f8",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[86]",
+          "evidence_id": "ev_ef967b2a61ad",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[87]",
+          "evidence_id": "ev_f8d070c2c395",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[88]",
+          "evidence_id": "ev_8e534271b7c6",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[89]",
+          "evidence_id": "ev_37cf0b2d999b",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[90]",
+          "evidence_id": "ev_1be5470482ec",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[91]",
+          "evidence_id": "ev_93c2d75b43db",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[92]",
+          "evidence_id": "ev_7a55d8ae3323",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[93]",
+          "evidence_id": "ev_76107ac5a0aa",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item1"
+        },
+        {
+          "marker": "[94]",
+          "evidence_id": "ev_2e7cf4e29484",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        },
+        {
+          "marker": "[95]",
+          "evidence_id": "ev_dd2fb6cf2709",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/0001689548-26-000083-index.htm",
+          "label": "edgar 000168954826000083-pi-item2"
+        }
+      ],
+      "figures": []
+    }
+  ]
+}

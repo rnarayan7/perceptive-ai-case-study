@@ -1,0 +1,57 @@
+{
+  "company": "COGT",
+  "source": "pubmed",
+  "started_at": "2026-09-08T10:07:35.452726+00:00",
+  "finished_at": "2026-09-08T10:07:37.493492+00:00",
+  "documents": [
+    {
+      "company": "COGT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "37898374",
+      "title": "Results from a Phase 1 Study of ACTR707 in Combination with Rituximab in Patients with Relapsed or Refractory CD20+ B Cell Lymphoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37898374/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:07:37.488188+00:00",
+      "metadata": {
+        "journal": "Transplantation and cellular therapy",
+        "year": "2024",
+        "pmid": "37898374"
+      },
+      "hash": "fb70468ed6156c57997a788e5b19f8cdc61cf5e3e19787b07962c4212d551f88"
+    },
+    {
+      "company": "COGT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "40119598",
+      "title": "Anaphylaxis to a blood feeding leech.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40119598/",
+      "published": "2025-01-01",
+      "retrieved_at": "2026-09-08T10:07:37.488837+00:00",
+      "metadata": {
+        "journal": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+        "year": "2025",
+        "pmid": "40119598"
+      },
+      "hash": "373b8e6f8978b2306092cb2e9d7cd1012504629793c4201f69a860bfdcbc44d2"
+    },
+    {
+      "company": "COGT",
+      "source": "pubmed",
+      "doc_type": "article",
+      "doc_id": "38593217",
+      "title": "Serum chemistry profiling and prognostication in systemic mastocytosis: a registry-based study of the ECNM and GREM.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38593217/",
+      "published": "2024-01-01",
+      "retrieved_at": "2026-09-08T10:07:37.490356+00:00",
+      "metadata": {
+        "journal": "Blood advances",
+        "year": "2024",
+        "pmid": "38593217"
+      },
+      "hash": "8fcc7d127a3b935b3b09f79a2fc296b8718b347478a976edd8e3f4883b52908c"
+    }
+  ],
+  "errors": []
+}

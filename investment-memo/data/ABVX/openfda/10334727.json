@@ -1,0 +1,31 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "10334727",
+  "title": "FAERS report 10334727: Bone pain, Blindness unilateral, Headache",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:10334727",
+  "published": "2014-09-12",
+  "retrieved_at": "2026-09-08T08:40:13.660838+00:00",
+  "metadata": {
+    "term": "vedolizumab",
+    "serious": true,
+    "reactions": [
+      "Bone pain",
+      "Blindness unilateral",
+      "Headache",
+      "Hypoaesthesia"
+    ],
+    "drugs": [
+      "ENTYVIO",
+      "ZOFRAN                             /00955301/",
+      "AMBIEN",
+      "LORAZEPAM.",
+      "PREDNISONE.",
+      "OMEPRAZOLE.",
+      "FIORICET"
+    ],
+    "occurcountry": "US"
+  },
+  "hash": "221637d4922e2e1dda81afddafc60aa9b84cae2f4d7b30bf59c0ffec8b88d8ec"
+}

@@ -1,0 +1,77 @@
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               of MajesTEC-1 (30 September 2021).
+
+               Analysis of efficacy endpoints was based on the Efficacy Analysis Set. The primary efficacy
+               variable (ORR) was based on response assessment performed by an IRC. The primary efficacy
+               measure (ORR) and its 2-sided 95% exact CI for each cohort were presented. Subjects with no
+               postbaseline data were considered as non-responders. Response after the start of subsequent
+               therapy was not considered. Sensitivity analyses of ORR was performed using disease response
+               based on computerized algorithm and investigator assessment according to IMWG criteria. The
+               kappa statistics and 95% CI were calculated for assessing agreement between IRC assessment
+               and computerized algorithm assessment for response (response of PR or better versus. no
+               response). The key secondary efficacy endpoints are noted above. DOR was calculated for each
+               subject in the Efficacy Analysis Set who achieved a response (PR or better) based on disease
+               progression or death due to any cause for the purposes of this Assessment Aid. The distribution
+               of DOR was estimated using the Kaplan-Meier method. For VGPR or better rate, CR or better rate,
+               sCR rate, and ORR in subjects with high risk, the rate and its 2-sided 95% exact CI will be
+               presented. The MRD-negative rate and its 2-sided 95% exact CI were presented; the threshold
+               value of 10-5 was used for the primary MRD-negativity analysis. TTR was analyzed for subjects
+               who achieved a response (PR or better) and descriptive statistics are provided. The Kaplan-Meier
+               method was used to estimate the distribution of overall PFS and OS and the medians with 95%
+               CI were provided.
+
+               The FDA’s Assessment:
+               The FDA does not agree with basing the primary efficacy analysis on the Efficacy Analysis Set.
+               According to the statistical analysis plan (SAP), the Efficacy Analysis Set included all treated
+               patients who received the first dose of study intervention on or before 18 March 2021 in phase 1
+               at the RP2D and in phase 2 Cohort A. However, the FDA considered the primary efficacy results
+               for phase 1 and phase 2 separately. Phase 1 was designed as a dose finding study with the
+               primary objective to determine the RP2D and evaluate safety and tolerability. Heterogeneity may
+               be introduced in combining data from the two phases with different primary objectives.
+               Therefore, FDA’s primary efficacy analysis was based on the 110 patients from phase 2 Cohort A
+               only.
+
+               According to the SAP, the primary hypothesis test was comparison of the null hypothesis (H0) of
+               ORR ≤30% against the alternative hypothesis (H1) of ORR >30% (45% was used for the sample
+               size calculation). To demonstrate efficacy of the product, the study planned to enroll at least 100
+               patients to achieve >85% power to reject H0 at a 2-sided significance level of 0.05. The FDA
+               noticed that the justification for the historical 30% reference rate was not documented in the
+               BLA submission. In February 2022, the Agency sent an information request to the Applicant
+               requesting justification for the historical reference rates. The Applicant responded that the ORR
+               threshold of 30% established for Cohort A was based on the published results at the time for
+               approved therapies. Specifically, these included belantamab mafodotin from the DREAMM-2 trial
+               (ORR 31%; 97.5% CI: 20.8% to 42.6%; Lonial 2020) and selinexor from the STORM trial (ORR 26%;
+               95% CI: 19% to 35%; Chari 2019).
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              76
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+                 Amendment 6          • To investigate an SC administration method of teclistamab, which would reduce study
+                 12 March 2019          drug administration duration and was hypothesized to reduce the risk of CRS, compared
+                                        with IV dosing
+                                      • To clarify the SET could recommend alternative dosing schedules that gradually
+                                        extended the dosing interval from weekly dosing to Q2W dosing
+                 Amendment 7          •   To add Time and Events Schedules to support twice-weekly dosing, and to update rules
+                 23 May 2019              for dose escalation in the standard titration phase based on the safety and
+                                          pharmacodynamic profile
+
+
+
+
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              78
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

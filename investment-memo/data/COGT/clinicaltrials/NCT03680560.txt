@@ -1,0 +1,14 @@
+Title: Study of ACTR T Cell Product in Combination With Trastuzumab in Subjects With HER2-Positive Advanced Solid Tumor Cancers
+Status: TERMINATED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Solid Tumor, HER-2 Protein Overexpression
+Interventions: ACTR T Cell Product (BIOLOGICAL), Trastuzumab (DRUG)
+Enrollment: 6
+
+Summary: This is a Phase 1, open-label, multi-center study to assess safety and determine the recommended phase 2 dose (RP2D) of ACTR T cell product (ACTR707 or ACTR087) in combination with trastuzumab, following lymphodepleting chemotherapy in subjects with HER2-positive advanced malignancies.
+
+Primary outcomes:
+- Safety and tolerability of ACTR T cell product with trastuzumab as assessed by committee review of dose limiting toxicities (DLTs), incidence and severity of adverse events (AEs) and clinically significant abnormalities of laboratory values (time frame: 42 days)
+- Determination of recommended phase 2 dose (RP2D) regimen (time frame: 42 days)

@@ -1,0 +1,47 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT02731885",
+  "title": "Food Effect on Pharmacokinetic Parameters of ABX464",
+  "url": "https://clinicaltrials.gov/study/NCT02731885",
+  "published": "2016-04-08",
+  "retrieved_at": "2026-09-07T12:53:29.797119+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE1"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Healthy Volunteers"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464 Single dose",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 Repeated dose",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 48,
+    "start_date": "2014-09",
+    "primary_completion_date": "2015-06",
+    "completion_date": "2015-06",
+    "first_posted_date": "2016-04-08",
+    "primary_outcomes": [
+      {
+        "measure": "Area under the plasma concentration versus time curve (AUC) of single oral dose of 50mg of ABX464 in fed or fasted condition.",
+        "timeFrame": "45 days"
+      },
+      {
+        "measure": "Peak Plasma Concentration (Cmax) of single oral dose of 50mg of ABX464 in fed or fasted condition.",
+        "timeFrame": "45 days"
+      }
+    ]
+  },
+  "hash": "73ffa0848592c17a09cc097ce1b50abf047a8dfae5250cc43b6fff12c2f126da"
+}

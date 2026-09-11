@@ -1,0 +1,22 @@
+{
+  "company": "ABVX",
+  "source": "openfda",
+  "doc_type": "adverse_event",
+  "doc_id": "17713857",
+  "title": "FAERS report 17713857: Crohn^s disease",
+  "url": "https://api.fda.gov/drug/event.json?search=safetyreportid:17713857",
+  "published": "2020-04-28",
+  "retrieved_at": "2026-09-08T08:39:59.981892+00:00",
+  "metadata": {
+    "term": "ozanimod",
+    "serious": true,
+    "reactions": [
+      "Crohn^s disease"
+    ],
+    "drugs": [
+      "OZANIMOD."
+    ],
+    "occurcountry": "PL"
+  },
+  "hash": "e3b3320671fd3be6bcb87b5b982abee3b6d684a50bebf9a4d88b79589be97934"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "blincyto_bla125557_fig037",
+  "figure_type": "kaplan_meier",
+  "title": "blincyto_bla125557 figure 37",
+  "caption": "",
+  "context": "               BLA Multidisciplinary Review and Evaluation\n               BLA 125557 S-023 and S-026\n               Blincyto (blinatumomab)\n\n               FDA Figure 9: Study AALL1331 LR OS Kaplan-Meier Plot\n\n\n\n\n               Data cutoff date: 31 December 2020\n               Source: FDA Analysis\n\n\n               FDA Table 19: Study AALL1331 LR OS Summary\n\n\n\n\n               Data cutoff date: 31 December 2020\n               Source: FDA Analysis\n               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model\n               (unstratified).\n\n\n               Subpopulations\n\n               Data:\n\n               N/A\n\n                                                                         113\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by\n               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in\n               gray.\n\nReference ID: 5193267\n\f\n               BLA Multidisciplinary Review and Evaluation\n               BLA 125557 S-023 and S-026\n               Blincyto (blinatumomab)\n\n\n               FDA Figure 8: Study AALL1331 HR/IR OS Kaplan-Meier Plot\n\n\n\n\n               Data cutoff date: 30 September 2020\n               Source: FDA Analysis\n\n\n\n               FDA Table 18: Study AALL1331 HR/IR OS Summary\n\n\n\n\n               Data cutoff date: 30 September 2020\n               Source: FDA Analysis\n               Abbreviations: CI = Confidence Interval, MRD = minimal residual disease, HR = hazard ratio calculated based on Cox\n               Proportional Hazard model (unstratified).\n\n\n\n\n                                                                         112\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by\n               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in\n               gray.\n\nReference ID: 5193267\n\f\n               BLA Multidisciplinary Review and Evaluation\n               BLA 125557 S-023 and S-026\n               Blincyto (blinatumomab)\n\n               The FDA’s Assessment:\n\n               No definitive conclusions can be drawn based on MRD positive and negative subgroups due\n               to limited number of observed events.\n\n               FDA Table 20 and FDA Table 21 summarize OS results by subgroups. FDA Table 21 shows\n               results for HR/IR population only because few events were observed in the LR population.\n\n               FDA Table 20: Study AALL1331 OS by Age Subgroups\n\n\n\n\n               Data cutoff date: 31 December 2020 (LR), 30 September 2020 (HR/IR)\n               Source: FDA Analysis\n               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model\n               (unstratified).\n\n\n               FDA Table 21: Study AALL1331 OS by Subgroups\n\n\n\n\n               Data cutoff date: 30 September 2020 (HR/IR)\n               Source: FDA Analysis\n               Abbreviations: CI = Confidence Interval, HR = hazard ratio calculated based on Cox Proportional Hazard model\n               (unstratified).\n\n\n               In general, the subgroup analyses support the efficacy of blinatumomab.\n\n                                                                         114\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by\n               the Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in\n               gray.\n\nReference ID: 5193267\n\f",
+  "url": "https://www.fda.gov/media/172617/download",
+  "image_url": "https://www.fda.gov/media/172617/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:22.954362+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "blincyto_bla125557",
+    "image_width": 480,
+    "image_height": 480,
+    "extraction": "embedded"
+  },
+  "image_hash": "9984c7ca7c176dc67d0d13a4315a54f47fe4ec9893494c3ade0311db8da91632",
+  "image_file": "image.png"
+}

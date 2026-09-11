@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "nda_152398_fig082",
+  "figure_type": "table",
+  "title": "nda_152398 figure 82",
+  "caption": "",
+  "context": "               NDA Multidisciplinary Review and Evaluation\n               NDA 214783\n               Rezurock (belumosudil)\n\n               Figure 16. Goodness of fit plots for the final PPK model for belumosudil\n\n\n\n\n               Source: Applicant’s population PK/PD report\n\n\n\n\n                                                                     299\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.\n\nReference ID: 4827003\n\f\n               NDA Multidisciplinary Review and Evaluation\n               NDA 214783\n               Rezurock (belumosudil)\n\n               Table 107. Parameter estimates for the final PPK model of belumosudil\n\n\n\n\n               Source: Applicant’s population PK/PD report\n\n               The goodness-of-fit (GOF) plots are shown in Figure 16. The time-after-dose Visual Predictive\n               Check (VPC) plots stratified by disease status are shown in Figure 17.The time-after-dose VPC\n               plots are also stratified by study shown in Figure 18. The time-after-first dose VPCs are shown\n               in Figure 19.\n\n\n\n\n                                                                     298\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.\n\nReference ID: 4827003\n\f\n               NDA Multidisciplinary Review and Evaluation\n               NDA 214783\n               Rezurock (belumosudil)\n\n               Figure 17. VPCs by time after dose and GVHD status for the final PPK model for belumosudil\n\n\n\n\n               0=Healthy-subjects; 1=cGVHD subjects\n               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,\n               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model\n               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed\n               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model\n               simulated data. The lower and upper blue areas represent the 95% CI of the 2.5th percentile and 97.5th percentile\n               of the model simulated data, respectively.\n               Source: Applicant’s population PK/PD report\n\n               Figure 18. VPC by time after dose (hours) for Studies KD025-208 and KD025-213 for the final\n               PPK model for belumosudil\n\n\n\n\n               The red and black solid lines represent the median (50th percentile) of the observed data and model simulations,\n               respectively. The lower red and black dashed lines represent the 2.5th percentile of the observed and model\n               simulations, respectively. The upper red and black dashed lines represent the 97.5th percentile of the observed\n               and model simulations, respectively. The red shaded area represents the 95% CI of the median of the model\n                                                                     300\n\n               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the\n               Applicant and do not necessarily reflect the positions of the FDA. The FDA's position is highlighted in gray.\n\nReference ID: 4827003\n\f",
+  "url": "https://www.fda.gov/media/152398/download",
+  "image_url": "https://www.fda.gov/media/152398/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:45.991529+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "nda_152398",
+    "image_width": 704,
+    "image_height": 664,
+    "extraction": "embedded"
+  },
+  "image_hash": "80c26470865452fa79cad202970a724a0fb42b4de79fd3e5c08bf1097b904a2e",
+  "image_file": "image.png"
+}

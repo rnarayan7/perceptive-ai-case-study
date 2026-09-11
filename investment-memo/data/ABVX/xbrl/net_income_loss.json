@@ -1,0 +1,33 @@
+{
+  "company": "ABVX",
+  "source": "xbrl",
+  "doc_type": "xbrl_fact",
+  "doc_id": "net_income_loss",
+  "title": "Abivax S.A. - Net income (loss) (2025-12-31)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1956827/000195682726000012/0001956827-26-000012-index.htm",
+  "published": "2025-12-31",
+  "retrieved_at": "2026-09-08T08:46:33.901914+00:00",
+  "metadata": {
+    "cik": 1956827,
+    "entity_name": "Abivax S.A.",
+    "concept": "net_income_loss",
+    "label": "Net income (loss)",
+    "taxonomy": "ifrs-full",
+    "tag": "ProfitLoss",
+    "value": -336102000.0,
+    "unit": "EUR",
+    "reporting_currency": "EUR",
+    "period_end": "2025-12-31",
+    "period_start": "2025-01-01",
+    "period_type": "duration",
+    "accession": "0001956827-26-000012",
+    "form": "20-F",
+    "fiscal_year": 2025,
+    "fiscal_period": "FY",
+    "filed": "2026-03-23",
+    "frame": "CY2025",
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001956827.json",
+    "derived": false
+  },
+  "hash": "c6eb9fe91b8badc90d0f76e31129c10b385a0c9bcf3941509b92980442c5aaef"
+}

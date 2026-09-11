@@ -1,0 +1,14 @@
+Title: A Single and Multiple Ascending Dose Trial of KT-474 in Healthy Adult Volunteers and Patients With Atopic Dermatitis (AD) or Hidradenitis Suppurativa (HS)
+Status: COMPLETED
+Phase: PHASE1
+Study type: INTERVENTIONAL
+Lead sponsor: Kymera Therapeutics, Inc.
+Conditions: Healthy Volunteer, Atopic Dermatitis, Hidradenitis Suppurativa
+Interventions: KT-474/Placebo (DRUG), KT-474 (DRUG)
+Enrollment: 154
+
+Summary: KT-474 is an oral heterobifunctional small molecule IRAK4 degrader being developed for the treatment of interleukin-1 receptor (IL-1R)/toll-like receptor (TLR)-driven immune-inflammatory diseases. This first-in-human (FIH) study will characterize the safety, tolerability and the pharmacokinetics/pharmacodynamics (PK/PD) of a single ascending dose and multiple ascending doses of KT-474 in healthy volunteers and patients with atopic dermatitis (AD) or hidradenitis suppurativa (HS). The effects of food on the absorption of KT-474 will also be evaluated in healthy volunteers.
+
+Primary outcomes:
+- Incidence and severity of treatment emergent Adverse Events (time frame: up to 28 days)
+- Incidence and frequency of use of concomitant medication (time frame: up to 28 days)

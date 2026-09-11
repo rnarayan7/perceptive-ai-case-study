@@ -1,0 +1,51 @@
+{
+  "company": "ABVX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT03760003",
+  "title": "Dose-Ranging Phase 2b Study of ABX464 in Moderate to Severe Ulcerative Colitis",
+  "url": "https://clinicaltrials.gov/study/NCT03760003",
+  "published": "2018-11-30",
+  "retrieved_at": "2026-09-07T12:53:29.792165+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE2"
+    ],
+    "overall_status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Ulcerative Colitis"
+    ],
+    "interventions": [
+      {
+        "name": "ABX464 100 mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 50 mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "ABX464 25 mg",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Abivax S.A.",
+    "enrollment": 355,
+    "start_date": "2019-08-13",
+    "primary_completion_date": "2021-04-01",
+    "completion_date": "2021-04-16",
+    "first_posted_date": "2018-11-30",
+    "primary_outcomes": [
+      {
+        "measure": "Reduction From Baseline in Modified Mayo Score (MMS) at Week 8",
+        "timeFrame": "Week 8"
+      }
+    ]
+  },
+  "hash": "2b5c7dc1adc712e6cca7ad94b5f024f04ca25bef90c4e6357fa73e74948cff3c"
+}

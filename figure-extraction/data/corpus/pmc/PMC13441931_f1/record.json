@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13441931_f1",
+  "figure_type": "kaplan_meier",
+  "title": "Real-world treatment patterns and outcomes of chemo-immunotherapy with or without radiotherapy in extensive-stage small cell lung cancer: the durvalumab expanded access cohort.",
+  "caption": "(A)  Kaplan-Meier curves of progression free survival (left) and  (B)  overall survival (right) of the entire cohort of treated patients. Broader lines are showing 95% confidence intervals. mPFS, median progression free survival; mOS, median overall survival; CI, confidence intervals.",
+  "context": "(A)  Kaplan-Meier curves of progression free survival (left) and  (B)  overall survival (right) of the entire cohort of treated patients. Broader lines are showing 95% confidence intervals. mPFS, median progression free survival; mOS, median overall survival; CI, confidence intervals. Patients who received radiotherapy while continuing durvalumab beyond progression demonstrated a statistically significant improvement in survival compared with those who did not receive radiotherapy (p = 0.024; Supplementary Figure 1 ). Median PFS and OS survival curves are shown in Figures 1 and 2 .",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13441931/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-23",
+  "retrieved_at": "2026-09-07T12:50:46.160172+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13441931",
+    "pmid": "42564214",
+    "journal": "Frontiers in oncology",
+    "fig_label": "Figure 1"
+  },
+  "image_hash": "20b5063589cc9acca463288a8d22f8631bf0952f4ac00c70601de5f3c6404efc",
+  "image_file": "image.jpg"
+}

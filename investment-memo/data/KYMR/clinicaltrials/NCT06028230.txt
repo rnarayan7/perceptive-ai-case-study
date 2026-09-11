@@ -1,0 +1,21 @@
+Title: A Phase 2 Study to Evaluate the Efficacy and Safety of SAR444656 Compared With Placebo in Adult Participants With Moderate to Severe Hidradenitis Suppurativa
+Status: TERMINATED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Sanofi
+Conditions: Hidradenitis Suppurativa
+Interventions: SAR444656 (KT-474) (DRUG), Placebo (DRUG)
+Enrollment: 70
+
+Summary: This is a parallel, Phase 2, 3-arm study to evaluate the efficacy, safety, PK, and biological effects of SAR444656 compared with placebo in adult participants with moderate to severe HS aged ≥18 to 70 years.
+
+Study details include:
+
+* Screening period: up to 4 weeks (30 days)
+* Treatment duration: up to 16 weeks
+* Follow-up period: up to 4 weeks
+* Total study duration: up to 24 weeks
+* Number of visits: 14
+
+Primary outcomes:
+- Percent change from baseline in total abscess and inflammatory nodule (AN) count (time frame: Week 16)

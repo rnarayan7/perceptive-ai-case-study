@@ -1,0 +1,13 @@
+Title: Efficacy and Safety Study of ABX464 as Maintenance Therapy in Patients With Moderate to Severe Ulcerative Colitis
+Status: COMPLETED
+Phase: PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Abivax S.A.
+Conditions: Ulcerative Colitis
+Interventions: ABX464 (DRUG)
+Enrollment: 217
+
+Summary: A phase 2b study to evaluate the long-term efficacy and safety study of ABX464 50mg as maintenance therapy in patients with moderate to severe Ulcerative Colitis.
+
+Primary outcomes:
+- Proportion of Patients With Clinical Remission at Week 48 Compared to Baseline of Induction Study (ABX464-103) (time frame: week 48)

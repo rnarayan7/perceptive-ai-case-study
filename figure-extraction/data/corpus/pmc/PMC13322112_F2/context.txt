@@ -1,0 +1,1 @@
+Forest plot showing the pooled hazard ratio for overall survival comparing local treatment of the primary tumor versus systemic therapy alone in patients with de novo metastatic breast cancer. Overall, local treatment was associated with a 38% reduction in the risk of death compared with systemic therapy alone (pooled HR=0.62, 95% CI=0.52–0.75, p <0.0001; Figure 2 ).

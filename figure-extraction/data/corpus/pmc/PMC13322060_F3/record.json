@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13322060_F3",
+  "figure_type": "pk_logscale",
+  "title": "Development of a Plasma Spot Assay for Detection of Fluorophore-labeled Antibodies in Mouse Imaging Studies.",
+  "caption": "Fluorescence plasma spot analyses (FPSA) in samples taken from mice injected with antibodies (Abs) and antibody drug conjugates (ADCs) by different routes. Mean (+SD) FPSA values from each group were plotted over time (A). Pharmacokinetic profile of ADC-fluorophore (F) clearance from each group of mice as determined using ELISA over 168 h (B). Linear regression of ADC-F FPSA vs. concentration as determined using each method (C). ADC3 is Ab3 conjugated with camptothecin, both target human Sialyl-Thomsen-nouveau (non-mouse cross reactive). IV: Intravenous administration; IP: intraperitoneal administration.",
+  "context": "Fluorescence plasma spot analyses (FPSA) in samples taken from mice injected with antibodies (Abs) and antibody drug conjugates (ADCs) by different routes. Mean (+SD) FPSA values from each group were plotted over time (A). Pharmacokinetic profile of ADC-fluorophore (F) clearance from each group of mice as determined using ELISA over 168 h (B). Linear regression of ADC-F FPSA vs. concentration as determined using each method (C). ADC3 is Ab3 conjugated with camptothecin, both target human Sialyl-Thomsen-nouveau (non-mouse cross reactive). IV: Intravenous administration; IP: intraperitoneal administration. The standardized FPSA maximum fluorescence intensities were higher for the IV versus IP dosed groups and the cumulative fluorescence intensities were higher for the Ab3-F versus ADC3-F dosed groups ( Figure 3 A). Quantitative analysis of matching plasma samples using ELISA confirmed that the maximum observed concentrations (C max ) for the IV dosed groups were higher than the IP dosed groups and the area under curve (AUC) was higher for Ab3-F versus ADC3-F dosed groups (Figure 3B). The standardized FPSA and ELISA results were strongly correlated across groups (Figure 3C; r=0.96, p <0.0001).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322060/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:09:46.048428+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13322060",
+    "pmid": "42379735",
+    "journal": "In vivo (Athens, Greece)",
+    "fig_label": "Figure 3"
+  },
+  "image_hash": "cd464b068f5b938e7dc2bac2c1c311c44c4e886d7c7fd58976094b445d3170d7",
+  "image_file": "image.jpg"
+}

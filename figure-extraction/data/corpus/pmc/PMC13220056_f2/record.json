@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13220056_f2",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of immune checkpoint inhibitors combined with tyrosine kinase inhibitors in patients with metastatic renal cell carcinoma: a risk-stratified systematic review and meta-analysis.",
+  "caption": "Forest plots of progression-free survival.  (A)  Random-effects model forest plot of the overall pooled analysis comparing first-line immune checkpoint inhibitor plus tyrosine kinase inhibitor (ICI-TKI) combination therapy versus sunitinib.  (B)  Fixed-effects model forest plots of PFS stratified by IMDC risk criteria (favorable, intermediate, and poor risk). The test for subgroup differences is reported below the plots.  (C)  Fixed-effects model forest plot of PFS stratified by tumor PD-L1 expression status (≥1% vs. <1%).",
+  "context": "Forest plots of progression-free survival.  (A)  Random-effects model forest plot of the overall pooled analysis comparing first-line immune checkpoint inhibitor plus tyrosine kinase inhibitor (ICI-TKI) combination therapy versus sunitinib.  (B)  Fixed-effects model forest plots of PFS stratified by IMDC risk criteria (favorable, intermediate, and poor risk). The test for subgroup differences is reported below the plots.  (C)  Fixed-effects model forest plot of PFS stratified by tumor PD-L1 expression status (≥1% vs. <1%). The forest plot ( Figure 2A ) showed that the point estimates and 95% CIs for all five trials were located entirely to the left of the line of no effect (HR = 1), indicating a consistent treatment benefit favoring ICI-TKI therapy across studies. Progression-free survival according to subgroups To account for observed heterogeneity, we undertook subgroup analyses prespecified according to IMDC risk classification ( Figure 2B ). We further analyzed PFS stratified by tumor PD-L1 expression level ( Figure 2C ). Excluding these two trials reduced the I² statistic to 9% ( Supplementary Figure 2 ), suggesting that differences in the specific tyrosine kinase inhibitors used and in response assessment criteria were the primary drivers of the observed variability.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13220056/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-05-15",
+  "retrieved_at": "2026-09-07T13:06:55.287708+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13220056",
+    "pmid": "42220544",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 2"
+  },
+  "image_hash": "bf3895c4874a3659d0c9e3b7fe3e9838cc315c4ed362408f680725d8dae076a5",
+  "image_file": "image.jpg"
+}

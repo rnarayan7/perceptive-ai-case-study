@@ -1,0 +1,4 @@
+FAERS adverse-event report 17921902 (comparator: ripretinib)
+Serious: yes
+Reactions: Sepsis, Hypotension, Dizziness, Bacteraemia, Urinary tract infection, Body temperature increased, Nausea, Decreased appetite, Hyperaesthesia, Pain in extremity, Palmar-plantar erythrodysaesthesia syndrome
+Reported drugs: QINLOCK

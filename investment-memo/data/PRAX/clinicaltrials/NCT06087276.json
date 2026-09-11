@@ -1,0 +1,51 @@
+{
+  "company": "PRAX",
+  "source": "clinicaltrials",
+  "doc_type": "study",
+  "doc_id": "NCT06087276",
+  "title": "Essential 3 - Decentralized, Phase 3 Study Evaluating the Safety and Efficacy of Ulixacaltamide in Essential Tremor (ET)",
+  "url": "https://clinicaltrials.gov/study/NCT06087276",
+  "published": "2023-10-17",
+  "retrieved_at": "2026-09-07T12:53:43.593659+00:00",
+  "metadata": {
+    "phases": [
+      "PHASE3"
+    ],
+    "overall_status": "ACTIVE_NOT_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Essential Tremor"
+    ],
+    "interventions": [
+      {
+        "name": "60 mg ulixacaltamide",
+        "type": "DRUG"
+      },
+      {
+        "name": "Placebo",
+        "type": "DRUG"
+      }
+    ],
+    "lead_sponsor": "Praxis Precision Medicines",
+    "enrollment": 1000,
+    "start_date": "2023-11-02",
+    "primary_completion_date": "2025-10-10",
+    "completion_date": "2028-07",
+    "first_posted_date": "2023-10-17",
+    "primary_outcomes": [
+      {
+        "measure": "Parallel Design: Change from Baseline (CFB) to Week 8 (Day 56) on mADL11 score",
+        "timeFrame": "8 weeks (56 days)"
+      },
+      {
+        "measure": "Randomized Withdrawal: The proportion of participants that maintain response, as defined by change in mADL11 score, following randomized withdrawal",
+        "timeFrame": "12 weeks (84 days)"
+      },
+      {
+        "measure": "Long-term Safety Study: Number of participants with Adverse Events (AE) and their severity.",
+        "timeFrame": "Up to 3 years"
+      }
+    ]
+  },
+  "hash": "81826b4f9eb9e3657160ad1c223f655151c71be8b09a84f3f88c5eb1601e4d49"
+}

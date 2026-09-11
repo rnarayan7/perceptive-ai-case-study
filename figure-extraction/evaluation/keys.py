@@ -47,9 +47,9 @@ FIGURE_REQUESTS: Dict[str, List[QuantitySpec]] = {
                      "PFS probability at 6 months, control arm"),
     ],
     FIG_WATERFALL: [
-        QuantitySpec("psa50_proportion.ge2mg", Family.PROPORTION, None, None,
+        QuantitySpec("psa50_proportion.ge2mg", Family.PROPORTION, None, 2,
                      "proportion of >=2mg subgroup with >=50% PSA reduction"),
-        QuantitySpec("psa90_proportion.ge2mg", Family.PROPORTION, None, None,
+        QuantitySpec("psa90_proportion.ge2mg", Family.PROPORTION, None, 2,
                      "proportion of >=2mg subgroup with >=90% PSA reduction"),
         QuantitySpec("deepest_bar_depth", Family.CONTINUOUS, "percent", 5.0,
                      "depth of the deepest PSA bar"),
@@ -57,7 +57,7 @@ FIGURE_REQUESTS: Dict[str, List[QuantitySpec]] = {
                      "height of the leftmost PSA bar"),
         QuantitySpec("recist_n_plotted", Family.CONTINUOUS, "count", 2.0,
                      "number of patients plotted in the RECIST panel"),
-        QuantitySpec("recist_beyond_30_proportion", Family.PROPORTION, None, None,
+        QuantitySpec("recist_beyond_30_proportion", Family.PROPORTION, None, 2,
                      "proportion of RECIST bars beyond the -30% line"),
     ],
     FIG_PK: [

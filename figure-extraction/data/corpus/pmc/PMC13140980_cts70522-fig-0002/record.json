@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13140980_cts70522-fig-0002",
+  "figure_type": "pk_logscale",
+  "title": "Population-Based Modeling to Predict Human PK/PD of TAK-500, an Anti-CCR2 Antibody-Drug Conjugate for First-in-Human Study in Cancer Patients.",
+  "caption": "Overlay between TAK‐202 simulations and observed TAK‐500 total antibody profiles in cynomolgus monkeys. (A) Observed serum concentration of the parental CCR2 antibody (TAK‐202) in cynomolgus monkeys post intravenous bolus administration. (B) The model structure represents the population PK model of the parental antibody (TAK‐202). (C–E) The plots represent the overlay between the TAK‐202 simulation and the observed TAK‐500 total antibody profiles. The TAK‐202 prediction interval (95% PI) was computed from 1000 simulations. Ac, estimated amount of TAK‐202 in the central compartment; At, model estimated amount of TAK‐202 in the peripheral compartment; Cp, plasma concentration of TAK‐202; IV, intravenous; kel, central compartmental elimination rate constant; Km, drug concentration at 50% of maximal elimination rate; kpt, distribution rate constant from plasma to tissue; ktp, distribution rate constant from tissue to plasma; Vc, central volume of distribution;  V \n max , maximal elimination rate; Vt, peripheral volume of distribution.",
+  "context": "Overlay between TAK‐202 simulations and observed TAK‐500 total antibody profiles in cynomolgus monkeys. (A) Observed serum concentration of the parental CCR2 antibody (TAK‐202) in cynomolgus monkeys post intravenous bolus administration. (B) The model structure represents the population PK model of the parental antibody (TAK‐202). (C–E) The plots represent the overlay between the TAK‐202 simulation and the observed TAK‐500 total antibody profiles. The TAK‐202 prediction interval (95% PI) was computed from 1000 simulations. Ac, estimated amount of TAK‐202 in the central compartment; At, model estimated amount of TAK‐202 in the peripheral compartment; Cp, plasma concentration of TAK‐202; IV, intravenous; kel, central compartmental elimination rate constant; Km, drug concentration at 50% of maximal elimination rate; kpt, distribution rate constant from plasma to tissue; ktp, distribution rate constant from tissue to plasma; Vc, central volume of distribution;  V \n max , maximal elimination rate; Vt, peripheral volume of distribution. The exponent “ r ” was used to capture the impact of monocyte cell surface RO on kin (Figure 2 , Equations (10) , (11) , (12) ). The 2‐compartment Michaelis–Menten population PK model was developed to describe the TAK‐202 PK profiles in cynomolgus monkeys (Figure 2A ). The population model captured the observed PK profile within the 5th and 95th percentiles of the simulations and closely overlayed with the median profile of the simulations (Figure 2",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13140980/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc-nd",
+  "published": "2026-04-01",
+  "retrieved_at": "2026-09-07T13:11:54.222809+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13140980",
+    "pmid": "41888610",
+    "journal": "Clinical and translational science",
+    "fig_label": "FIGURE 2"
+  },
+  "image_hash": "ae19582335dc91b316d878b563433878886569b23c6f89c011ce1b75ed3428f8",
+  "image_file": "image.jpg"
+}

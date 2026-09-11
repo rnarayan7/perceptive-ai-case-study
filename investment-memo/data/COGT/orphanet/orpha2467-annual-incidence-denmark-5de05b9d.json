@@ -1,0 +1,30 @@
+{
+  "company": "COGT",
+  "source": "orphanet",
+  "doc_type": "prevalence",
+  "doc_id": "orpha2467-annual-incidence-denmark-5de05b9d",
+  "title": "Systemic mastocytosis - Annual incidence (Denmark) [ORPHA:2467]",
+  "url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+  "published": "2026-06-23",
+  "retrieved_at": "2026-09-08T13:31:34.382636+00:00",
+  "metadata": {
+    "orphacode": 2467,
+    "preferred_term": "Systemic mastocytosis",
+    "disorder_group": "Group of disorders",
+    "typology": "Clinical group",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "prevalence_qualification": "Value and class",
+    "value_average": "0.9",
+    "geographic_area": "Denmark",
+    "validation_status": "Validated",
+    "source": "24761987[PMID]",
+    "source_pmids": [
+      "24761987"
+    ],
+    "orphanet_url": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=2467",
+    "api_url": "https://api.orphadata.com/rd-epidemiology/orphacodes/2467",
+    "annotation_date": "2026-06-23 07:57:58"
+  },
+  "hash": "5de05b9d90ca32a751822b5c7b5c5a52d346c675f072e4584c2b0af01f8bd63c"
+}

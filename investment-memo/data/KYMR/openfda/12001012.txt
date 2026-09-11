@@ -1,0 +1,4 @@
+FAERS adverse-event report 12001012 (comparator: dupilumab)
+Serious: yes
+Reactions: Drug abuse, Constipation, Colitis, Headache
+Reported drugs: DUPILUMAB, ALBUTEROL., VICODIN, VICODIN, IMITREX, EXCEDRIN MIGRAINE, ATARAX, BUPRENORPHINE., IBUPROFEN., SERAX, DUPILUMAB, TOPAMAX, AMBIEN, PULMICORT TURBUHALER

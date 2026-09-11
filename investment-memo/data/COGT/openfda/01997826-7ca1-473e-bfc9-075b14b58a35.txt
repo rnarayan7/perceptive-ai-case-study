@@ -1,0 +1,11 @@
+Drug: CIMETIDINE
+
+Manufacturer: Chartwell RX, LLC
+
+Established pharmacologic class: Histamine-2 Receptor Antagonist [EPC]
+
+Mechanism class: Histamine H2 Receptor Antagonists [MoA]
+
+Indications: INDICATIONS AND USAGE Cimetidine tablets are indicated in: 1. Short-term treatment of active duodenal ulcer. Most patients heal within 4 weeks and there is rarely reason to use cimetidine tablets at full dosage for longer than 6 to 8 weeks (see DOSAGE AND ADMINISTRATION: Duodenal Ulcer ). Concomitant antacids should be given as needed for relief of pain. However, simultaneous administration of cimetidine tablets and antacids is not recommended, since antacids have been reported to interfere with the absorption of cimetidine. 2. Maintenance therapy for duodenal ulcer patients at reduced dosage after healing of active ulcer. Patients have been maintained on continued treatment with cimetidine tablets 400 mg at bedtime for periods of up to 5 years. 3. Short-term treatment of active benign gastric ulcer. There is no information concerning usefulness of treatment periods of longer than 8 weeks. 4. Erosive gastroesophageal reflux (GERD). Erosive esophagitis diagnosed by endoscopy. Treatment is indicated for 12 weeks for healing of lesions and control of symptoms. The use of cimetidine tablets beyond 12 weeks has not been established (see DOSAGE AND ADMINISTRATION: GERD ). 5. The treatment of pathological hypersecretory conditions (i.e., Zollinger-Ellison Syndrome, systemic mastocytosis, multiple endocrine adenomas).
+
+Contraindications: CONTRAINDICATIONS Cimetidine tablets are contraindicated for patients known to have hypersensitivity to the product.

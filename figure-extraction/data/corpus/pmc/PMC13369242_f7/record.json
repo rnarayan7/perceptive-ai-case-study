@@ -1,0 +1,42 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13369242_f7",
+  "figure_type": "forest",
+  "title": "Efficacy and safety of first-line chemoimmunotherapy versus chemotherapy alone for advanced pulmonary lymphoepithelioma-like carcinoma: a systematic review and real-world cohort study.",
+  "caption": "Updated meta-analysis: forest plot of hazard ratios for PFS  (A)  and OS  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma-like carcinoma;PFS, Progression-Free Survival;OS, overall survival.",
+  "context": "Updated meta-analysis: forest plot of hazard ratios for PFS  (A)  and OS  (B)  in patients with PLELC receiving first-line chemo-immunotherapy versus chemotherapy alone. PLELC, pulmonary lymphoepithelioma-like carcinoma;PFS, Progression-Free Survival;OS, overall survival. A kernel density plot ( Supplementary Figure 7 ) confirmed adequate common support between the two arms, primarily within the 0.1 to 0.6 PS range, fulfilling the core assumption for weighting. The updated pooled HR indicated a 58% reduction in the risk of disease progression (pooled HR = 0.42, 95% CI: 0.35–0.52, P < 0.001) and a 49% reduction in mortality risk (pooled HR = 0.51, 95% CI: 0.40–0.65, P < 0.001) ( Figure 7 , Table 2 ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13369242/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by",
+  "published": "2026-07-01",
+  "retrieved_at": "2026-09-07T13:06:27.087612+00:00",
+  "ground_truth": [
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.42 (95% CI 0.35-0.52)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "the risk of disease progression (pooled HR = 0.42, 95% CI: 0.35–0.52, P < 0.001) and a 49% reduction in mort",
+      "verified": false
+    },
+    {
+      "quantity": "hazard ratio (candidate)",
+      "value": "0.51 (95% CI 0.40-0.65)",
+      "unit": null,
+      "population_n": null,
+      "method": "regex_candidate",
+      "source_text": "49% reduction in mortality risk (pooled HR = 0.51, 95% CI: 0.40–0.65, P < 0.001) ( Figure 7 , Table 2 ).",
+      "verified": false
+    }
+  ],
+  "metadata": {
+    "pmcid": "PMC13369242",
+    "pmid": "42459654",
+    "journal": "Frontiers in immunology",
+    "fig_label": "Figure 7"
+  },
+  "image_hash": "95d04ec6227d56bb7ff0c086922dca13fb63d2d71265276aed2a93856d48c657",
+  "image_file": "image.jpg"
+}

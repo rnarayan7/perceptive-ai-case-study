@@ -1,0 +1,26 @@
+{
+  "company": "PRAX",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-VT_MEN02_CRDPREV_2023_2023_OVR",
+  "title": "Mental Health - Vermont - 2023",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2023-01-01",
+  "retrieved_at": "2026-09-08T08:43:22.785386+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Mental Health",
+    "question": "Depression among adults",
+    "location": "Vermont",
+    "location_abbr": "VT",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "25.8",
+    "year_start": "2023",
+    "year_end": "2023",
+    "stratification_category": "Overall",
+    "stratification": "Overall"
+  },
+  "hash": "7bb92bd2d56b9fce259e6de8a544094c6b6629f3f0d12740d4edb52131d8b4a2"
+}

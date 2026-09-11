@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13386059_F5",
+  "figure_type": "spider",
+  "title": "Safety and efficacy of fecal microbiota transplantation in solid cancers resistant to immune checkpoint inhibitors: results of the MITRIC trial.",
+  "caption": "Serum cytokine changes during treatment and associations with clinical outcome. ( A ) Paired comparison of serum cytokine levels between pretreatment and week-5 samples, shown as log₂ fold change. Each point represents an individual patient. P values were computed using paired Wilcoxon signed-rank test. Cytokines with significant changes (p<0.05) are indicated with an asterisk. ( B–C ) Cox proportional hazards regression evaluating baseline cytokine concentrations and their association with ( B ) progression-free survival and ( C ) OS. HRs with 95% CIs are shown. HR >1 indicates increased risk, while HR <1 indicates reduced risk. Statistically significant associations (p<0.05) are annotated with an asterisk. n=11. PFS, progression-free survival; OS, overall survival.",
+  "context": "Serum cytokine changes during treatment and associations with clinical outcome. ( A ) Paired comparison of serum cytokine levels between pretreatment and week-5 samples, shown as log₂ fold change. Each point represents an individual patient. P values were computed using paired Wilcoxon signed-rank test. Cytokines with significant changes (p<0.05) are indicated with an asterisk. ( B–C ) Cox proportional hazards regression evaluating baseline cytokine concentrations and their association with ( B ) progression-free survival and ( C ) OS. HRs with 95% CIs are shown. HR >1 indicates increased risk, while HR <1 indicates reduced risk. Statistically significant associations (p<0.05) are annotated with an asterisk. n=11. PFS, progression-free survival; OS, overall survival. The results showed an increase in most cytokines during the first 4 weeks, with IL-8 exhibiting the most significant increase followed by interferon-gamma-induced protein 10 (IP-10) ( figure 5A ). In general, higher baseline cytokine levels tended to be associated with prolonged OS and PFS (OS: HR <1 for 18/19 cytokines; PFS: HR <1 for 16/19 cytokines) ( figure 5B,C ). RANTES and IL-4 were significantly associated with improved OS (unadjusted p values; figure 5C ), while basic fibroblast growth factor (FGF basic) was borderline significant (p=0.06). None of the cytokines showed a significant association with PFS ( figure 5B ), or with the incidence of irAEs ( online supplemental figure S8A ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13386059/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-20",
+  "retrieved_at": "2026-09-07T13:17:12.074136+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13386059",
+    "pmid": "42476727",
+    "journal": "Journal for immunotherapy of cancer",
+    "fig_label": "Figure 5"
+  },
+  "image_hash": "c58123102c4afa3412b377a796c257ccc9713df3de8e4af77ec362a663ea634a",
+  "image_file": "image.jpg"
+}

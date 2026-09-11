@@ -1,0 +1,16 @@
+Title: A Study of an FGFR2/3 Inhibitor (CGT4859) in Patients With Cholangiocarcinoma and Other Advanced Solid Tumors
+Status: ACTIVE_NOT_RECRUITING
+Phase: PHASE1, PHASE2
+Study type: INTERVENTIONAL
+Lead sponsor: Cogent Biosciences, Inc.
+Conditions: Intrahepatic Cholangiocarcinoma (Icc), Cholangiocarcinoma, Other Solid Tumors, Adult, FGFR2 Gene Fusion/Rearrangement, FGFR2 Gene Amplification, FGFR2 Gene Short Variants, FGFR3 Gene Fusion/Rearrangement, FGFR3 Gene Amplification, FGFR3 Gene Short Variants, FGFR2 Genetic Alterations, FGFR3 Genetic Alterations, Advanced Solid Tumors
+Interventions: CGT4859 (DRUG)
+Enrollment: 110
+
+Summary: This is an open-label, phase 1/2 study evaluating the safety, tolerability, pharmacokinetic (what the body does to the drug), pharmacodynamic (what the drug does to the body), and antitumor activity of CGT4859 in adult participants with intrahepatic cholangiocarcinoma (iCCA) or other advanced solid tumors with FGFR2 and/or FGFR3 genetic alternations.
+
+Primary outcomes:
+- Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - AEs (time frame: Approximately 12 months)
+- Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - Laboratory results (time frame: Approximately 12 months)
+- Phase 1: Determine the maximum tolerated dose (MTD) and RP2D of CGT4859 - ECG results (time frame: Approximately 12 months)
+- Phase 2: Evaluate antitumor activity of CGT4859 - Objective Response Rate (ORR) (time frame: Approximately 8 months)

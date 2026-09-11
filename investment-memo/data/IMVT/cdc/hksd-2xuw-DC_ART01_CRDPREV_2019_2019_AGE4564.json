@@ -1,0 +1,26 @@
+{
+  "company": "IMVT",
+  "source": "cdc",
+  "doc_type": "epi",
+  "doc_id": "hksd-2xuw-DC_ART01_CRDPREV_2019_2019_AGE4564",
+  "title": "Arthritis - District of Columbia - 2019",
+  "url": "https://data.cdc.gov/d/hksd-2xuw",
+  "published": "2019-01-01",
+  "retrieved_at": "2026-09-08T08:43:36.204292+00:00",
+  "metadata": {
+    "dataset": "hksd-2xuw",
+    "topic": "Arthritis",
+    "question": "Arthritis among adults",
+    "location": "District of Columbia",
+    "location_abbr": "DC",
+    "data_source": "BRFSS",
+    "value_type": "Crude Prevalence",
+    "value_unit": "%",
+    "value": "23.4",
+    "year_start": "2019",
+    "year_end": "2019",
+    "stratification_category": "Age",
+    "stratification": "Age 45-64"
+  },
+  "hash": "367db2a99171737822fdbda3130da7d07d2c2acab1b2514293fad6d3285edbf2"
+}

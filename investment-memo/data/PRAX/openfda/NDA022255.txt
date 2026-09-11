@@ -1,0 +1,9 @@
+Drugs@FDA application NDA022255: VIMPAT
+Sponsor: UCB INC
+Active ingredient(s): LACOSAMIDE
+Brand name(s): VIMPAT
+Application type: NDA
+Original approval date: 2010-04-20
+Review priority: N/A, STANDARD, UNKNOWN
+Marketing status: Prescription
+Submissions on record: 28

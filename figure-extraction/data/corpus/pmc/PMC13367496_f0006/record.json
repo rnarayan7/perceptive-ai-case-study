@@ -1,0 +1,23 @@
+{
+  "source": "pmc",
+  "figure_id": "PMC13367496_f0006",
+  "figure_type": "kaplan_meier",
+  "title": "A Novel Prognostic Model Based on Prognostic Nutritional Index and Systemic Immune-Inflammation Index for Cancer Patients Treated with Immune Checkpoint Inhibitors.",
+  "caption": "Prognostic significance of PNI-SII score in the subgroup analysis based on smoking history. ( A  and  B ) Kaplan–Meier curves for the association of PNI-SII score with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in patients current or former smoking. ( C  and  D ) Kaplan–Meier curves for the association of PNI-SII score with OS ( C ) and PFS ( D ) in patients never smoking.",
+  "context": "Prognostic significance of PNI-SII score in the subgroup analysis based on smoking history. ( A  and  B ) Kaplan–Meier curves for the association of PNI-SII score with overall survival (OS) ( A ) and progression-free survival (PFS) ( B ) in patients current or former smoking. ( C  and  D ) Kaplan–Meier curves for the association of PNI-SII score with OS ( C ) and PFS ( D ) in patients never smoking. Stratified by smoking status, the association between the PNI–SII score and outcomes remained significant in patients with a smoking history (n=127) (OS, p<0.001, Figure 6A ; PFS, p=0.006, Figure 6B ). For patients without smoking history (n=223), this correlation still reached statistical significance in OS (p<0.001, Figure 6C ) and PFS (p=0.002, Figure 6D ). As illustrated in Supplementary Figure 6 , the PNI-SII score effectively discriminated survival outcomes in this subset, with significant differences in both OS (p < 0.001, Figure S6A ) and PFS (p < 0.001, Figure S6B ).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13367496/",
+  "image_url": "",
+  "image_ext": "jpg",
+  "license": "cc by-nc",
+  "published": "2026-07-10",
+  "retrieved_at": "2026-09-07T12:52:04.130678+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "pmcid": "PMC13367496",
+    "pmid": "42453699",
+    "journal": "Cancer management and research",
+    "fig_label": "Figure 6"
+  },
+  "image_hash": "bf8c5192294af24496cc7ab0f0e31e155a90c701e865ac94b8516025ef9df666",
+  "image_file": "image.jpg"
+}

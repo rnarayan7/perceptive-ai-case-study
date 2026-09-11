@@ -1,0 +1,9 @@
+Drugs@FDA application NDA213973: QINLOCK
+Sponsor: DECIPHERA PHARMS
+Active ingredient(s): RIPRETINIB
+Brand name(s): QINLOCK
+Application type: NDA
+Original approval date: 2020-05-15
+Review priority: PRIORITY, STANDARD
+Marketing status: Prescription
+Submissions on record: 6

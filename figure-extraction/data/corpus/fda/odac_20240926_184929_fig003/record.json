@@ -1,0 +1,23 @@
+{
+  "source": "fda",
+  "figure_id": "odac_20240926_184929_fig003",
+  "figure_type": "unknown",
+  "title": "odac_20240926_184929 figure 3",
+  "caption": "",
+  "context": "September 26, 2024\nOncologic Drugs Advisory Committee Meeting\n\nlabeling for approved checkpoint inhibitors in this indication reflect broad approvals in the intent\nto treat patient populations agnostic of programmed death cell ligand-1 (PD-L1) expression.\nCumulative data has shown that PD-L1 expression appears to be a predictive biomarker of\ntreatment efficacy in this patient population; however, clinical trials have used different\napproaches to assess PD-L1 expression and different thresholds to define PD-L1 positivity. FDA\nwould like the Committee’s opinion on the:\n     • adequacy of PD-L1 expression as a predictive biomarker for patient selection in this\n         patient population,\n     • differing risk-benefit assessments in different subpopulations defined by PD-L1\n         expression, and\n     • adequacy of the cumulative data to restrict the approvals of immune checkpoint inhibitors\n         based on PD-L1 expression.\nThe Committee discussed the existing sBLAs which were approved for patients with previously\nuntreated unresectable or metastatic esophageal squamous cell carcinoma:\n     • sBLA 125514/S-096 for KEYTRUDA (pembrolizumab) injection, submitted by Merck\n         Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc.;\n     • sBLAs 125554/S-105 and S-106 for OPDIVO (nivolumab) injection, submitted by\n         Bristol Myers-Squibb Co.; and\n     • sBLA 125377/S-122 for YERVOY (ipilimumab) injection, submitted by Bristol Myers-\n         Squibb Co.\nThe Committee also discussed the new BLA 761380 for tislelizumab, submitted by BeiGene\nUSA, Inc., for the same proposed indication.\n\nAttendance:\nOncologic Drugs Advisory Committee Members Present (Voting): William J. Gradishar,\nMD; Ravi A. Madan, MD; Daniel Spratt, MD; Neil Vasan, MD, PhD\n\nOncologic Drugs Advisory Committee Members Not Present (Voting): Toni K. Choueiri,\nMD; Mark R. Conaway, PhD; Pamela L. Kunz, MD\n\nOncologic Drugs Advisory Committee Member Not Present (Non-Voting): Tara L. Frenkl,\nMD, MPH (Industry Representative)\n\nTemporary Members (Voting): Dana Deighton (Patient Representative; Afternoon Session\nOnly); Lori Dodd, PhD; Michael K. Gibson, MD, PhD FACP; Randy W. Hawkins MD (Acting\nConsumer Representative); James Randolph Hillard, MD (Patient Representative; Morning\nSession Only); Christopher Lieu, MD (Acting Chairperson); Heidi McKean, MD; Jeffrey A.\nMeyerhardt, MD, MPH; Hanna Sanoff, MD, MPH; Katherine Van Loon, MD, MPH (via video\nconferencing platform)\n\nFDA Participants (Non-Voting): Richard Pazdur, MD; Paul Kluetz, MD; Steven Lemery, MD,\nMHS; Sandra Casak, MD; Vaibhav Kumar, MD, MS (Morning Session Only); Geetika\nSrivastava MD, MSPH (Afternoon Session Only); Yiming Zhang, PhD (Morning Session Only);\nZhou Feng, PhD (Afternoon Session Only)\n\nActing Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD\n\n\n                                             Page 4 of 9\n\f",
+  "url": "https://www.fda.gov/media/184929/download",
+  "image_url": "https://www.fda.gov/media/184929/download",
+  "image_ext": "png",
+  "license": null,
+  "published": null,
+  "retrieved_at": "2026-09-07T12:43:58.771835+00:00",
+  "ground_truth": [],
+  "metadata": {
+    "doc_label": "odac_20240926_184929",
+    "image_width": 1275,
+    "image_height": 1650,
+    "extraction": "embedded"
+  },
+  "image_hash": "42a68875f69f339509326781ad7d5f5741157ad2622a74943284f0c8663a5f63",
+  "image_file": "image.png"
+}

@@ -1,0 +1,55 @@
+
+
+               NDA/BLA Multi-disciplinary Review and Evaluation {BLA 761291}
+               teclistamab
+
+               bioavailability following teclistamab SC weekly administration for the treatment dose was 69%
+               (see also Section 6.3.1).
+               The observed teclistamab serum concentration-time data following IV and SC administration
+               were adequately described by a 2-compartment model with first-order absorption and parallel
+               time-independent and time-dependent (decrease over time) elimination pathways. The final PPK
+               model included effects of body weight on time-independent clearance (CL1), volume of
+               distribution of the central compartment (V1), and volume of distribution of the peripheral
+               compartment (V2), the effect of ISS on CL1, and the effect of type of myeloma (IgG versus non-IgG)
+               on CL1 and clearance associated with time-dependent clearance (CL2; see also Section 6.3.1).
+               E-R analyses indicated a trend toward increased ORR (assessed by investigator based on IMWG
+               2011 criteria) with increased teclistamab exposure in a wide range of SC doses (0.08 to 3 mg/kg
+               weekly), approaching plateau at the RP2D of 1.5 mg/kg. Responders and non-responders
+               (assessed by IRC based on IMWG 2016 criteria), who received teclistamab at RP2D in Phase 1 and
+               in Cohort A of Phase 2, had comparable and overlapping exposure range. No apparent positive
+               E-R trend was observed in the incidence of Grade ≥3 TEAEs of anemia, neutropenia, lymphopenia,
+               thrombocytopenia, and infections across the predicted exposure quartiles in subjects who
+               received teclistamab SC (see also Section 6.3.1).
+
+               The Applicant’s Position:
+               The clinical pharmacology findings in this application, including PPK and E-R analyses, are consistent
+               with the observed clinical benefit of the recommended dose of teclistamab (1.5 mg/kg administered
+               weekly [SC], with the first treatment dose preceded by step-up doses of 0.06 and
+               0.3 mg/kg), with clinically manageable side effects. Overall, the clinical pharmacology findings
+               support the above proposed registrational dose of teclistamab in adults with relapsed or
+               refractory multiple myeloma.
+
+               The FDA’s Assessment:
+               The FDA agrees with the Applicant’s summary of pharmacology and clinical pharmacokinetics with
+               the following exceptions or clarifications:
+               • Teclistamab PK parameters after IV administration are not reported in labeling given that only
+                   the SC route of administration is recommended.
+               • At the recommended SC dosage regimen, the median (range) Tmax of teclistamab after the first
+                   treatment dose was 139 (19 to 168) hours.
+               • Based on the PPK model for teclistamab, approximately 100% steady state exposure is
+                   achieved after the 24th treatment dose at the recommended SC dosage regimen. Ninety
+                   percent of steady state exposure is achieved after 12 weekly treatment doses. Therefore, FDA
+                   revised all reported PK parameters (including accumulation ratios and bioavailability) based on
+                   the 13th treatment dose (see Section 6.3.1 – General Pharmacology and Pharmacokinetic
+                   Characteristics).
+               • The E-R analysis for ORR (assessed by investigator based on IMWG 2011 criteria) included
+                   72 patients treated with various SC dosage regimens during the Phase 1 portion of MajesTEC-1.
+               • The E-R analyses for safety included 199 patients treated with various SC dosage regimens in
+                   the Phase 1 portion of MajesTEC-1 or Phase 2 Cohort A of MajesTEC-1.
+               Version date: January 2020 (ALL NDA/ BLA reviews)                                                              49
+
+               Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the
+               Applicant and do not necessarily reflect the positions of the FDA.
+
+Reference ID: 5065872
+

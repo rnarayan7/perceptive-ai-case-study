@@ -1,0 +1,219 @@
+{
+  "source": "fda",
+  "started_at": "2026-09-07T12:44:01.359389+00:00",
+  "query": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf",
+  "finished_at": "2026-09-07T12:44:19.866642+00:00",
+  "figures": [
+    {
+      "figure_id": "nda_761291_fig000",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 0",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig001",
+      "figure_type": "pk_logscale",
+      "title": "nda_761291 figure 1",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig002",
+      "figure_type": "pk_logscale",
+      "title": "nda_761291 figure 2",
+      "ground_truth_count": 1,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig003",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 3",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig004",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 4",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig005",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 5",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig006",
+      "figure_type": "spider",
+      "title": "nda_761291 figure 6",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig043",
+      "figure_type": "table",
+      "title": "nda_761291 figure 43",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig044",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 44",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig046",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 46",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig048",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 48",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig049",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 49",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig050",
+      "figure_type": "pk_logscale",
+      "title": "nda_761291 figure 50",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig051",
+      "figure_type": "pk_logscale",
+      "title": "nda_761291 figure 51",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig052",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 52",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig053",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 53",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig054",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 54",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig055",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 55",
+      "ground_truth_count": 6,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig056",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 56",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig057",
+      "figure_type": "kaplan_meier",
+      "title": "nda_761291 figure 57",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig058",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 58",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig059",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 59",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig066",
+      "figure_type": "unknown",
+      "title": "nda_761291 figure 66",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig067",
+      "figure_type": "table",
+      "title": "nda_761291 figure 67",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig068",
+      "figure_type": "table",
+      "title": "nda_761291 figure 68",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig069",
+      "figure_type": "forest",
+      "title": "nda_761291 figure 69",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig071",
+      "figure_type": "forest",
+      "title": "nda_761291 figure 71",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig073",
+      "figure_type": "forest",
+      "title": "nda_761291 figure 73",
+      "ground_truth_count": 1,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig075",
+      "figure_type": "forest",
+      "title": "nda_761291 figure 75",
+      "ground_truth_count": 1,
+      "verified_ground_truth": 0
+    },
+    {
+      "figure_id": "nda_761291_fig076",
+      "figure_type": "kaplan_meier",
+      "title": "nda_761291 figure 76",
+      "ground_truth_count": 0,
+      "verified_ground_truth": 0
+    }
+  ],
+  "errors": []
+}
