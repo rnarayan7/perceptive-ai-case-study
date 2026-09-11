@@ -2,6 +2,8 @@
 # Generate a fresh investment memo for one company. Makes real, paid model calls.
 # Usage: scripts/memo.sh <TICKER> [model]   e.g. scripts/memo.sh ABVX
 # Requires ANTHROPIC_API_KEY (in investment-memo/.env or the environment).
+# Defaults to claude-sonnet-5 (cheaper, faster, ~$0.40/run); pass a second arg to override.
+# The memo CLI's own default (no --model) is opus; this wrapper picks sonnet deliberately.
 set -euo pipefail
 company="${1:?usage: scripts/memo.sh <TICKER> [model]  (e.g. ABVX KYMR PRAX IMVT COGT)}"
 model="${2:-claude-sonnet-5}"

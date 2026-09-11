@@ -57,7 +57,7 @@ def _load_dotenv(path: str = ".env") -> None:
 
 
 @click.group()
-@click.version_option(package_name="memo", message="%(version)s")
+@click.version_option(version="0.1.0", message="%(version)s")
 def cli() -> None:
     """Investment memo system tooling."""
     _load_dotenv()
