@@ -230,4 +230,9 @@ images/
 # Eval results (generated)
 investment-memo/evals/results/
 
+# Frontend source: the Python `lib/` rule above matches frontend/lib at any
+# depth, which would drop the app's api/types modules. Keep the source tracked.
+!frontend/lib/
+!frontend/lib/**
+
 .DS_Store
