@@ -93,20 +93,11 @@ export default async function CompanyPage({
         )}
 
         {/* KPIs */}
-        <section className="grid grid-cols-4 gap-4">
+        <section className="grid grid-cols-3 gap-4">
           <Kpi label="Market price" value={detail.kpis.market_price ? usd(detail.kpis.market_price) : "—"} sub={detail.kpis.market_price ? "per share" : undefined} />
           <Kpi label="Market cap" value={usd(detail.kpis.market_cap)} />
           <Kpi label="Lead-asset rNPV" value={usd(detail.kpis.fair_value_usd)} sub="risk-adjusted, lead indication only" />
-          <Kpi label="Lead-asset coverage" value={fmtCoverage(detail.kpis.fair_value_usd, detail.kpis.market_cap)} sub="share of market cap (a floor)" />
         </section>
-        {detail.kpis.fair_value_usd != null && detail.kpis.market_cap != null && (
-          <p className="-mt-2 text-[11px] text-tertiary">
-            How much of the market cap the lead asset&apos;s risk-adjusted value accounts for. The rest
-            is cash, the drug&apos;s other indications, the pipeline, and the higher success odds the
-            market prices in. It&apos;s a floor on value, not a price target, so under 100% is normal
-            and not bearish.
-          </p>
-        )}
 
         {/* Metric panels: the four questions, key findings as bullets + sources */}
         <section className="grid grid-cols-2 gap-4">
@@ -217,11 +208,6 @@ function Kpi({ label, value, sub, valueClass }: { label: string; value: string; 
       {sub && <div className="text-[11px] text-tertiary">{sub}</div>}
     </div>
   );
-}
-
-function fmtCoverage(fv: number | null, mc: number | null): string {
-  if (fv == null || !mc) return "—";
-  return `${((fv / mc) * 100).toFixed(1)}%`;
 }
 
 function AuditPanel({ audit }: { audit: AuditPayload }) {
