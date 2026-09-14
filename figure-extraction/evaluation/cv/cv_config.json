@@ -4,13 +4,23 @@
     "panels": [
       {
         "name": "best_psa_reduction",
-        "bar_color": [49, 82, 126],
+        "bar_color": [
+          49,
+          82,
+          126
+        ],
         "tol": 3,
         "min_run_px": 2,
         "max_gap_px": 0,
         "baseline_py": 305,
-        "x_range": [111, 572],
-        "y_range": [216, 477],
+        "x_range": [
+          111,
+          572
+        ],
+        "y_range": [
+          216,
+          477
+        ],
         "y_axis": {
           "type": "linear",
           "px1": 179.6,
@@ -39,20 +49,283 @@
       },
       {
         "name": "recist_response",
-        "bar_color": [49, 82, 126],
+        "bar_color": [
+          49,
+          82,
+          126
+        ],
         "tol": 20,
         "min_run_px": 2,
         "max_gap_px": 1,
         "baseline_band": 8,
         "baseline_tol": 50,
         "baseline_py": 305,
-        "x_range": [725, 1188],
-        "y_range": [165, 490],
-        "y_axis": {"type": "linear", "px1": 179.6, "val1": 75, "px2": 388.5, "val2": -50},
+        "x_range": [
+          725,
+          1188
+        ],
+        "y_range": [
+          165,
+          490
+        ],
+        "y_axis": {
+          "type": "linear",
+          "px1": 179.6,
+          "val1": 75,
+          "px2": 388.5,
+          "val2": -50
+        },
         "quantities": {
-          "recist_n_plotted": {"metric": "count"},
-          "recist_beyond_30_proportion": {"metric": "proportion_beyond", "threshold": -30, "below": true}
+          "recist_n_plotted": {
+            "metric": "count"
+          },
+          "recist_beyond_30_proportion": {
+            "metric": "proportion_beyond",
+            "threshold": -30,
+            "below": true
+          }
         }
+      }
+    ]
+  },
+  "fig04_forest": {
+    "figure_type": "forest",
+    "x_axis": {
+      "type": "linear",
+      "px1": 347,
+      "val1": 0,
+      "px2": 747,
+      "val2": 2
+    },
+    "x_range": [
+      340,
+      860
+    ],
+    "marker_color": [
+      36,
+      60,
+      84
+    ],
+    "tol": 45,
+    "marker_frac": 0.5,
+    "rows": [
+      {
+        "label": "idh_wildtype",
+        "y0": 139,
+        "y1": 155
+      },
+      {
+        "label": "idh mutant",
+        "y0": 159,
+        "y1": 175
+      },
+      {
+        "label": "prior treatment yes",
+        "y0": 179,
+        "y1": 195
+      },
+      {
+        "label": "prior treatment no",
+        "y0": 198,
+        "y1": 214
+      },
+      {
+        "label": "histological grade 2",
+        "y0": 218,
+        "y1": 234
+      },
+      {
+        "label": "histological grade 3",
+        "y0": 238,
+        "y1": 254
+      },
+      {
+        "label": "metastatic",
+        "y0": 257,
+        "y1": 273
+      },
+      {
+        "label": "nonmetastatic unresectable",
+        "y0": 277,
+        "y1": 293
+      },
+      {
+        "label": "us",
+        "y0": 297,
+        "y1": 313
+      },
+      {
+        "label": "outside of us",
+        "y0": 317,
+        "y1": 333
+      },
+      {
+        "label": "age under 65",
+        "y0": 336,
+        "y1": 352
+      },
+      {
+        "label": "age over 65",
+        "y0": 356,
+        "y1": 372
+      },
+      {
+        "label": "male",
+        "y0": 376,
+        "y1": 392
+      },
+      {
+        "label": "female",
+        "y0": 396,
+        "y1": 412
+      },
+      {
+        "label": "white",
+        "y0": 415,
+        "y1": 431
+      },
+      {
+        "label": "other",
+        "y0": 435,
+        "y1": 451
+      },
+      {
+        "label": "bmi under 30",
+        "y0": 455,
+        "y1": 471
+      },
+      {
+        "label": "bmi over 30",
+        "y0": 475,
+        "y1": 491
+      },
+      {
+        "label": "ecog_ps_0",
+        "y0": 494,
+        "y1": 510
+      },
+      {
+        "label": "ecog ps 1",
+        "y0": 514,
+        "y1": 530
+      }
+    ],
+    "quantities": {
+      "hazard_ratio.idh_wildtype": {
+        "metric": "hazard_ratio",
+        "row": "idh_wildtype"
+      },
+      "hazard_ratio.ecog_ps_0": {
+        "metric": "hazard_ratio",
+        "row": "ecog_ps_0"
+      },
+      "crosses_one.set": {
+        "metric": "crosses_one"
+      }
+    }
+  },
+  "fig01_km": {
+    "figure_type": "kaplan_meier",
+    "x_axis": {
+      "type": "linear",
+      "px1": 138.5,
+      "val1": 0,
+      "px2": 1150,
+      "val2": 35
+    },
+    "y_axis": {
+      "type": "linear",
+      "px1": 118,
+      "val1": 1.0,
+      "px2": 411,
+      "val2": 0.0
+    },
+    "x_range": [
+      138,
+      1160
+    ],
+    "y_range": [
+      110,
+      415
+    ],
+    "landmark_month": 6,
+    "curves": [
+      {
+        "arm_key_suffix": "ozekibart",
+        "curve_color": [
+          96,
+          132,
+          12
+        ],
+        "tol": 45
+      },
+      {
+        "arm_key_suffix": "placebo",
+        "curve_color": [
+          108,
+          120,
+          132
+        ],
+        "tol": 40
+      }
+    ]
+  },
+  "fig03_pk": {
+    "figure_type": "pk",
+    "x_axis": {
+      "type": "linear",
+      "px1": 249,
+      "val1": 0,
+      "px2": 863,
+      "val2": 14
+    },
+    "y_axis": {
+      "type": "log",
+      "px1": 284,
+      "val1": 100,
+      "px2": 729,
+      "val2": 0.01
+    },
+    "x_range": [
+      249,
+      870
+    ],
+    "y_range": [
+      255,
+      840
+    ],
+    "threshold_conc": 0.02,
+    "curves": [
+      {
+        "curve_key_suffix": "dose_003",
+        "curve_color": [
+          0,
+          192,
+          0
+        ],
+        "tol": 60,
+        "concentration_days": [
+          14
+        ]
+      },
+      {
+        "curve_key_suffix": "dose_01",
+        "curve_color": [
+          252,
+          0,
+          0
+        ],
+        "tol": 60
+      },
+      {
+        "curve_key_suffix": "dose_03",
+        "curve_color": [
+          0,
+          0,
+          252
+        ],
+        "tol": 60,
+        "peak_day": 0
       }
     ]
   }

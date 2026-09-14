@@ -1,0 +1,79 @@
+{
+  "_note": "Ground truth rebuilt from the source papers rather than from eyeball counts. Every value carries provenance: 'paper_stated' is quoted from the article text/tables and is the answer key; 'paper_derived' maps a reported clinical endpoint onto the figure's threshold (RECIST PR = bars beyond -30%, PD = bars beyond +20%); 'eyeball_unverified' has no published equivalent and must never be treated as truth. Hand labels made by counting thin bars on low-resolution JPEGs were the previous key and are recorded here where they disagree.",
+
+  "PMC13280062_Fig2": {
+    "figure": "PSA waterfall, 3 subgroups",
+    "values": {
+      "n_plotted": {"value": 186, "provenance": "paper_stated",
+                    "quote": "PSA response and PSA-PFS could be assessed for 186/191 patients (97.4%)",
+                    "prior_hand_label": 185},
+      "psa50_count": {"value": 64, "denominator": 186, "provenance": "paper_stated",
+                      "quote": "PSA 50% decline 64/186 = 34.4% (95% CI 27.6-41.7%)",
+                      "prior_hand_label": 54,
+                      "note": "Subgroups 62/157 + 2/17 + 0/12 sum exactly to 64/186, and match the figure's three bar colours."},
+      "psa30_count": {"value": null, "provenance": "eyeball_unverified",
+                      "prior_hand_label": 81, "note": "Not stated anywhere in the paper."},
+      "psa90_count": {"value": null, "provenance": "eyeball_unverified",
+                      "prior_hand_label": 28, "note": "Not stated anywhere in the paper."},
+      "leftmost": {"value": null, "provenance": "eyeball_unverified", "prior_hand_label": 100},
+      "deepest": {"value": null, "provenance": "eyeball_unverified", "prior_hand_label": -98}
+    }
+  },
+
+  "PMC13222604_f0004": {
+    "figure": "two waterfall panels, anlotinib plus ICIs vs single-agent chemotherapy",
+    "values": {
+      "n_anlotinib": {"value": 54, "provenance": "paper_stated",
+                      "quote": "The x-axis represents individual patients, with 54 patients in each group."},
+      "n_chemo": {"value": 54, "provenance": "paper_stated",
+                  "quote": "The x-axis represents individual patients, with 54 patients in each group."},
+      "beyond_minus30_anlotinib": {"value": 20, "provenance": "paper_derived",
+                                   "quote": "No CR were observed, 20 PR was detected, 27 SD was noted, 7 PD was found ... in OG",
+                                   "note": "RECIST PR requires a >=30% decrease, so PR count = bars beyond -30%. Confirms the hand label of 20."},
+      "beyond_minus30_chemo": {"value": 9, "provenance": "paper_derived",
+                               "quote": "9 PR was observed, 24 SD was reported, 21 PD was detected ... in CG",
+                               "note": "Confirms the hand label of 9."},
+      "beyond_plus20_anlotinib": {"value": 7, "provenance": "paper_derived",
+                                  "quote": "7 PD was found ... in OG",
+                                  "note": "RECIST PD requires a >=20% increase, so PD count = bars beyond +20%. Confirms the hand label of 7."},
+      "beyond_plus20_chemo": {"value": 21, "provenance": "paper_derived",
+                              "quote": "21 PD was detected ... in CG",
+                              "note": "Confirms the hand label of 21."},
+      "orr_anlotinib": {"value": "33.9%", "provenance": "paper_stated"},
+      "orr_chemo": {"value": "15.0%", "provenance": "paper_stated"},
+      "_caveat": "PR/PD counts are reported over the full cohorts (OG n=59, CG n=60) while the figure plots 54 per arm, so the mapping is close but not guaranteed exact."
+    }
+  },
+
+  "PMC13117838_f0002": {
+    "figure": "waterfall of best tumour change, ASPS and UPS",
+    "values": {
+      "n_plotted": {"value": 9, "provenance": "paper_stated",
+                    "quote": "Nine patients with histologically confirmed advanced sarcomas were enrolled"},
+      "beyond_minus30": {"value": 8, "denominator": 9, "provenance": "paper_derived",
+                         "quote": "Both the overall ORR and DCR were 88.9% (8/9).",
+                         "note": "ORR 8/9 means 8 patients reached PR (>=30% decrease). Confirms the hand label of 8."},
+      "deepest": {"value": -100.0, "provenance": "paper_stated",
+                  "quote": "6 24/F Abdominal wall 9.0 1 pCR -100.0% 12+ 12+",
+                  "prior_hand_label": -98},
+      "leftmost": {"value": 30.6, "provenance": "paper_stated",
+                   "quote": "8 62/M Lung 8.0 3 PD +30.6% 2 6",
+                   "prior_hand_label": 30}
+    }
+  },
+
+  "PMC12930161_fig1": {
+    "figure": "waterfall panel B, ICI rechallenge vs reintroduction",
+    "values": {
+      "n_rechallenge_measurable": {"value": 5, "provenance": "paper_stated",
+                                   "quote": "Waterfall plots for five patients with measurable lesions are shown in Figure 1B."},
+      "orr_rechallenge": {"value": "0%", "provenance": "paper_stated",
+                          "quote": "Two patients achieved SD during rechallenge, with an ORR of 0% and a DCR of 33%"},
+      "n_plotted_total": {"value": null, "provenance": "eyeball_unverified",
+                          "prior_hand_label": 7,
+                          "note": "Paper states 5 measurable-lesion patients for rechallenge; the combined panel total is not stated."},
+      "leftmost": {"value": null, "provenance": "eyeball_unverified", "prior_hand_label": 48},
+      "deepest": {"value": null, "provenance": "eyeball_unverified", "prior_hand_label": -30}
+    }
+  }
+}

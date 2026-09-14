@@ -125,6 +125,46 @@ def _build_extractor(args) -> Extractor:
     return StubExtractor(noise=args.noise, seed=args.seed)
 
 
+def _score_rubrics(figures, extractor, gold_path) -> dict:
+    """Score the free-text answers against the criteria the brief requires.
+
+    Interpretive values carry no number, so they were excluded from scoring
+    entirely and most of the reasoning on the spider figure was invisible to the
+    metric. The brief says exactly what each of those answers has to contain, so
+    the criteria are lifted from its wording and a judge decides only whether the
+    required content is present. No number is ever graded this way.
+    """
+    import json as _json
+
+    from evaluation.llm import AnthropicClient
+    from evaluation.rubric import score_rubric
+
+    gold = _json.loads(Path(gold_path).read_text())
+    client = AnthropicClient()
+    out: Dict[str, object] = {}
+    met = total = 0
+    for fig in figures:
+        truths = gold.get(fig.figure_id, {}).get("truths", {})
+        keyed = {k: v for k, v in truths.items() if isinstance(v, dict) and v.get("rubric")}
+        if not keyed:
+            continue
+        preds = {p.quantity_key: p.value_raw for p in extractor.extract(fig)}
+        for key, truth in keyed.items():
+            res = score_rubric(key, truth.get("description", ""), preds.get(key, ""),
+                               truth["rubric"], client)
+            if res is None:
+                continue
+            out[f"{fig.figure_id}.{key}"] = {
+                "score": round(res.score, 3), "met": res.met, "missed": res.missed}
+            met += len(res.met)
+            total += len(res.met) + len(res.missed)
+            print(f"  rubric {key}: {len(res.met)}/{len(res.met) + len(res.missed)}"
+                  + (f"  missing: {'; '.join(res.missed)}" if res.missed else ""))
+    out["_total"] = {"met": met, "of": total,
+                     "rate": round(met / total, 3) if total else None}
+    return out
+
+
 def _router_accuracy(figures: List[GoldFigure], routed: Dict[str, str]) -> Dict[str, object]:
     correct = sum(1 for f in figures if routed.get(f.figure_id) == f.figure_type)
     total = len([f for f in figures if f.figure_id in routed])
@@ -168,6 +208,9 @@ def main(argv: Optional[List[str]] = None) -> int:
     parser.add_argument("--seed", type=int, default=7)
     parser.add_argument("--out", type=Path, default=Path("data/eval_report.json"))
     parser.add_argument("--json", action="store_true", help="print the raw report JSON")
+    parser.add_argument("--rubric", action="store_true",
+                        help="also score free-text answers against the criteria the "
+                             "brief states they must contain (needs ANTHROPIC_API_KEY)")
     args = parser.parse_args(argv)
 
     figures = load_gold(args.gold, verified_only=args.verified_only)
@@ -184,6 +227,9 @@ def main(argv: Optional[List[str]] = None) -> int:
     cost = _run_cost(extractor)
     if cost and cost["input_tokens"]:
         report["cost"] = cost
+
+    if args.rubric:
+        report["rubric"] = _score_rubrics(figures, extractor, args.gold)
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(report, indent=2))

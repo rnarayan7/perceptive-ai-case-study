@@ -1,34 +1,34 @@
 {
   "counts": {
-    "total": 27,
-    "scored": 22,
-    "interpretive": 5,
+    "total": 30,
+    "scored": 26,
+    "interpretive": 4,
     "missed": 0
   },
   "by_figure_type": {
     "forest": {
       "n": 3,
-      "mae": 0.3667,
-      "median_error": 0.1,
-      "within_tolerance_rate": 0.3333
+      "mae": 0.01,
+      "median_error": 0.0,
+      "within_tolerance_rate": 1.0
     },
     "kaplan_meier": {
       "n": 4,
-      "mae": 0.1,
-      "median_error": 0.09,
+      "mae": 0.035,
+      "median_error": 0.03,
       "within_tolerance_rate": 1.0
     },
     "pk_logscale": {
       "n": 4,
-      "mae": 62.75,
-      "median_error": 0.5,
+      "mae": 391.2487,
+      "median_error": 0.5474,
       "within_tolerance_rate": 0.75
     },
     "spider": {
-      "n": 1,
-      "mae": 64.2,
-      "median_error": 64.2,
-      "within_tolerance_rate": 0.0
+      "n": 5,
+      "mae": 0.0675,
+      "median_error": 0.06,
+      "within_tolerance_rate": 1.0
     },
     "table": {
       "n": 4,
@@ -38,50 +38,50 @@
     },
     "waterfall": {
       "n": 6,
-      "mae": 2.6667,
-      "median_error": 3.0,
-      "within_tolerance_rate": 0.3333
+      "mae": 2.3333,
+      "median_error": 1.0,
+      "within_tolerance_rate": 0.8333
     }
   },
   "by_family": {
     "categorical_set": {
       "n": 2,
-      "mae": 1.0,
-      "median_error": 1.0,
-      "within_tolerance_rate": 0.0
+      "mae": 0.5,
+      "median_error": 0.5,
+      "within_tolerance_rate": 0.5
     },
     "continuous": {
-      "n": 10,
-      "mae": 7.26,
-      "median_error": 0.09,
-      "within_tolerance_rate": 0.8
+      "n": 14,
+      "mae": 0.9546,
+      "median_error": 0.06,
+      "within_tolerance_rate": 0.9286
     },
     "fold_multiple": {
       "n": 1,
-      "mae": 250.0,
-      "median_error": 250.0,
+      "mae": 1563.9,
+      "median_error": 1563.9,
       "within_tolerance_rate": 1.0
     },
     "log_scale": {
       "n": 2,
-      "mae": 0.0,
-      "median_error": 0.0,
+      "mae": 0.0474,
+      "median_error": 0.0474,
       "within_tolerance_rate": 1.0
     },
     "proportion": {
       "n": 5,
-      "mae": 0.0,
+      "mae": 0.4,
       "median_error": 0.0,
-      "within_tolerance_rate": 0.4
+      "within_tolerance_rate": 1.0
     },
     "ratio_ci": {
       "n": 2,
-      "mae": 0.05,
-      "median_error": 0.05,
-      "within_tolerance_rate": 0.5
+      "mae": 0.015,
+      "median_error": 0.015,
+      "within_tolerance_rate": 1.0
     }
   },
-  "coverage": 0.8333,
+  "coverage": 1.0,
   "calibration": {
     "bins": [
       {
@@ -89,35 +89,35 @@
           0.0,
           0.5
         ],
-        "n": 5,
-        "mean_confidence": 0.38,
-        "accuracy": 0.0
+        "n": 8,
+        "mean_confidence": 0.272,
+        "accuracy": 1.0
       },
       {
         "range": [
           0.5,
           0.7
         ],
-        "n": 7,
-        "mean_confidence": 0.564,
-        "accuracy": 0.714
+        "n": 4,
+        "mean_confidence": 0.602,
+        "accuracy": 1.0
       },
       {
         "range": [
           0.7,
           0.85
         ],
-        "n": 3,
-        "mean_confidence": 0.717,
-        "accuracy": 0.667
+        "n": 7,
+        "mean_confidence": 0.741,
+        "accuracy": 0.714
       },
       {
         "range": [
           0.85,
           0.95
         ],
-        "n": 3,
-        "mean_confidence": 0.867,
+        "n": 2,
+        "mean_confidence": 0.877,
         "accuracy": 1.0
       },
       {
@@ -125,23 +125,21 @@
           0.95,
           1.01
         ],
-        "n": 4,
-        "mean_confidence": 0.958,
+        "n": 5,
+        "mean_confidence": 0.956,
         "accuracy": 1.0
       }
     ],
-    "ece": 0.167,
-    "n": 22
+    "ece": 0.31,
+    "n": 26
   },
   "agreement_vs_error": {
-    "pearson_r": 0.968,
-    "n": 15
+    "pearson_r": 0.999,
+    "n": 19
   },
   "error_categories": {
-    "missing_denominator": 3,
-    "value_error": 2,
-    "set_mismatch": 2,
-    "ci_error": 1
+    "value_error": 1,
+    "set_mismatch": 1
   },
   "router": {
     "correct": 5,
@@ -157,15 +155,15 @@
     }
   },
   "cost": {
-    "total_usd": 0.1586,
-    "input_tokens": 25183,
-    "output_tokens": 11567,
+    "total_usd": 0.2569,
+    "input_tokens": 25841,
+    "output_tokens": 21257,
     "by_model": [
       {
         "model": "claude-sonnet-5",
-        "input_tokens": 17956,
-        "output_tokens": 11533,
-        "usd": 0.1512
+        "input_tokens": 18614,
+        "output_tokens": 21223,
+        "usd": 0.2495
       },
       {
         "model": "claude-haiku-4-5",

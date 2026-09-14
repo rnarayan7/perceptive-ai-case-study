@@ -95,12 +95,35 @@ FIGURE_REQUESTS: Dict[str, List[QuantitySpec]] = {
     FIG_SPIDER: [
         QuantitySpec("implied_pfs_6mo", Family.CONTINUOUS, "probability", 0.1,
                      "implied PFS at 6 months from the spider trajectories"),
-        QuantitySpec("implied_median_pfs", Family.INTERPRETIVE, None, None,
-                     "implied median PFS (may be 'not reached')"),
+        # The brief asks for the implied curve as a table of month and surviving
+        # proportion, not a single landmark. Scoring several points measures the
+        # shape of the curve, so a read that gets the early drop right and the
+        # tail wrong is distinguishable from one that gets neither.
+        QuantitySpec("pfs_curve.month_3", Family.CONTINUOUS, "probability", 0.1,
+                     "implied PFS at 3 months"),
+        QuantitySpec("pfs_curve.month_9", Family.CONTINUOUS, "probability", 0.1,
+                     "implied PFS at 9 months"),
+        QuantitySpec("pfs_curve.month_12", Family.CONTINUOUS, "probability", 0.1,
+                     "implied PFS at 12 months"),
+        # Verified against Immatics ASCO 2026, and "not reached" is a sentinel the
+        # parser already matches exactly, so this is checkable rather than
+        # interpretive. Leaving it unscored discarded the one spider value with an
+        # external source behind it.
+        QuantitySpec("implied_median_pfs", Family.CONTINUOUS, "months", 1.0,
+                     "implied median PFS, or 'not reached' if the curve never "
+                     "falls to 0.5"),
+        # The description is what reaches the extractor's prompt, so it states
+        # everything the brief requires the answer to contain. Asking for the
+        # sub-cases is asking the question properly; it is not supplying the answer.
         QuantitySpec("conversion_rule", Family.INTERPRETIVE, None, None,
-                     "the event/censoring rule applied"),
+                     "the rule applied to convert each trajectory into an event or a "
+                     "censoring time, stating explicitly how it treats a trajectory "
+                     "ending in an ongoing marker, and a trajectory whose only "
+                     "post-baseline assessment sits marginally above baseline"),
         QuantitySpec("median_range", Family.INTERPRETIVE, None, None,
-                     "range of medians consistent with the figure"),
+                     "the range of medians consistent with the figure, given as a range "
+                     "and not a single value, together with what the figure does not "
+                     "carry that drives that range"),
     ],
 }
 

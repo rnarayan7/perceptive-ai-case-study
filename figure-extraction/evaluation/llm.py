@@ -1,7 +1,13 @@
-"""Minimal vision-capable model client (stdlib only).
+"""Vision-capable model client, on the official Anthropic SDK.
 
-Wraps the Anthropic Messages API over raw HTTP so a fresh clone needs no SDK
-install. Credentials come from the environment at run time (``ANTHROPIC_API_KEY``),
+Wraps the Anthropic Messages API through the ``anthropic`` SDK. The SDK supplies
+the machinery this module used to hand-roll over raw HTTP (retries with backoff,
+timeouts, error typing) and, more importantly, **forced tool use**: a schema-bound
+call whose reply is guaranteed to be schema-conforming JSON. That is what
+:meth:`AnthropicClient.complete_json` uses, so structured reads (the figure layout
+parse) never depend on the model formatting its braces correctly.
+
+Credentials come from the environment at run time (``ANTHROPIC_API_KEY``),
 matching the case-study execution model. The client is injected into the VLM
 extractor and the judge matcher, so both are testable with a fake client offline.
 
@@ -24,13 +30,14 @@ from __future__ import annotations
 import base64
 import json
 import os
-import socket
-import time
-import urllib.error
-import urllib.request
-from typing import List, Optional, Protocol
+from typing import Any, Dict, List, Optional, Protocol
 
-ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+try:
+    import anthropic
+except ImportError as exc:  # pragma: no cover - environment problem, not logic
+    raise ImportError(
+        "The 'anthropic' SDK is required. Install it with: pip install anthropic"
+    ) from exc
 
 # Per-role model defaults. All current Claude models are vision-capable; these
 # trade capability against cost per role. Pricing (input/output per 1M tokens):
@@ -59,30 +66,43 @@ class VisionClient(Protocol):
 
 
 class AnthropicClient:
-    """Calls the Anthropic Messages API. Raises if no API key is configured."""
+    """Calls the Anthropic Messages API via the SDK. Raises if no key is set."""
 
     def __init__(self, model: str = DEFAULT_MODEL, api_key: Optional[str] = None,
                  timeout: float = 300.0, max_retries: int = 3) -> None:
         self.model = model
         self.api_key = api_key or os.environ.get("ANTHROPIC_API_KEY", "")
         # Adaptive thinking on a dense figure read can run a couple of minutes,
-        # so the read timeout is generous.
+        # so the read timeout is generous. The SDK retries with backoff on
+        # timeouts, 429s and 5xx, and surfaces 4xx immediately.
         self.timeout = timeout
         self.max_retries = max_retries
         self.input_tokens = 0   # accumulated across calls, for cost reporting
         self.output_tokens = 0
+        self._client: Optional["anthropic.Anthropic"] = None
 
     @staticmethod
     def available() -> bool:
         return bool(os.environ.get("ANTHROPIC_API_KEY"))
 
-    def complete(self, prompt: str, image: Optional[bytes] = None,
-                 media_type: str = "image/png", max_tokens: int = 1024) -> str:
-        if not self.api_key:
-            raise RuntimeError(
-                "ANTHROPIC_API_KEY is not set. Provide credentials at run time "
-                "or inject a different VisionClient."
+    @property
+    def client(self) -> "anthropic.Anthropic":
+        if self._client is None:
+            if not self.api_key:
+                raise RuntimeError(
+                    "ANTHROPIC_API_KEY is not set. Provide credentials at run time "
+                    "or inject a different VisionClient."
+                )
+            self._client = anthropic.Anthropic(
+                api_key=self.api_key, timeout=self.timeout,
+                max_retries=self.max_retries,
             )
+        return self._client
+
+    # -- requests ----------------------------------------------------------
+
+    def _content(self, prompt: str, image: Optional[bytes],
+                 media_type: str) -> List[dict]:
         content: List[dict] = []
         if image is not None:
             content.append({
@@ -94,14 +114,59 @@ class AnthropicClient:
                 },
             })
         content.append({"type": "text", "text": prompt})
-        body = json.dumps({
-            "model": self.model,
-            "max_tokens": max_tokens,
-            "messages": [{"role": "user", "content": content}],
-        }).encode("utf-8")
-        payload = self._post(body)
-        parts = payload.get("content") or []
-        return "".join(p.get("text", "") for p in parts if p.get("type") == "text")
+        return content
+
+    def _record(self, message: Any) -> None:
+        usage = getattr(message, "usage", None)
+        if usage is not None:
+            self.input_tokens += int(getattr(usage, "input_tokens", 0) or 0)
+            self.output_tokens += int(getattr(usage, "output_tokens", 0) or 0)
+
+    def complete(self, prompt: str, image: Optional[bytes] = None,
+                 media_type: str = "image/png", max_tokens: int = 1024) -> str:
+        message = self.client.messages.create(
+            model=self.model,
+            max_tokens=max_tokens,
+            messages=[{"role": "user",
+                       "content": self._content(prompt, image, media_type)}],
+        )
+        self._record(message)
+        return "".join(block.text for block in message.content
+                       if getattr(block, "type", None) == "text")
+
+    def complete_json(self, prompt: str, schema: Dict[str, Any],
+                      image: Optional[bytes] = None,
+                      media_type: str = "image/png",
+                      max_tokens: int = 1024,
+                      tool_name: str = "emit_result") -> Optional[dict]:
+        """Schema-bound structured read: the reply is guaranteed valid JSON.
+
+        Uses forced tool use, so the model must answer by calling a tool whose
+        ``input_schema`` is ``schema``. The SDK returns that input already parsed,
+        which removes the whole class of malformed-JSON failures that prompting
+        for "strict JSON" cannot rule out. Returns ``None`` only if the model
+        somehow emitted no tool call.
+        """
+        message = self.client.messages.create(
+            model=self.model,
+            max_tokens=max_tokens,
+            # Note: `temperature` is deprecated on current models, so run-to-run
+            # variation in a structured read is handled downstream instead, by
+            # the layout sanity filter and the calibration self-check.
+            messages=[{"role": "user",
+                       "content": self._content(prompt, image, media_type)}],
+            tools=[{
+                "name": tool_name,
+                "description": "Return the extracted result.",
+                "input_schema": schema,
+            }],
+            tool_choice={"type": "tool", "name": tool_name},
+        )
+        self._record(message)
+        for block in message.content:
+            if getattr(block, "type", None) == "tool_use":
+                return dict(block.input)
+        return None
 
     def cost(self) -> dict:
         """Accumulated token usage and USD cost for this client's model."""
@@ -109,42 +174,6 @@ class AnthropicClient:
         usd = self.input_tokens / 1e6 * cin + self.output_tokens / 1e6 * cout
         return {"model": self.model, "input_tokens": self.input_tokens,
                 "output_tokens": self.output_tokens, "usd": round(usd, 4)}
-
-    def _post(self, body: bytes) -> dict:
-        """POST with retries on timeouts, rate limits, and 5xx.
-
-        ``socket.timeout`` is caught explicitly: on Python 3.9 it is not a
-        subclass of ``TimeoutError`` (that unification landed in 3.10), so a bare
-        ``except TimeoutError`` would miss a read timeout and crash the run.
-        """
-        req = urllib.request.Request(
-            ANTHROPIC_URL, data=body, method="POST",
-            headers={
-                "x-api-key": self.api_key,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-        )
-        last_error: Optional[Exception] = None
-        for attempt in range(1, self.max_retries + 1):
-            try:
-                with urllib.request.urlopen(req, timeout=self.timeout) as resp:
-                    payload = json.loads(resp.read())
-                usage = payload.get("usage") or {}
-                self.input_tokens += int(usage.get("input_tokens") or 0)
-                self.output_tokens += int(usage.get("output_tokens") or 0)
-                return payload
-            except urllib.error.HTTPError as exc:
-                # 4xx (except 429) will not improve on retry; surface immediately.
-                if exc.code != 429 and 400 <= exc.code < 500:
-                    detail = exc.read().decode("utf-8", "replace")[:300]
-                    raise RuntimeError(f"Anthropic API {exc.code}: {detail}") from exc
-                last_error = exc
-            except (socket.timeout, TimeoutError, urllib.error.URLError, ConnectionError) as exc:
-                last_error = exc
-            if attempt < self.max_retries:
-                time.sleep(min(2.0 ** attempt, 20.0))
-        raise RuntimeError(f"Anthropic API call failed after {self.max_retries} attempts: {last_error}")
 
 
 def total_cost(*clients) -> dict:
@@ -159,7 +188,11 @@ def total_cost(*clients) -> dict:
 
 
 def extract_json(text: str) -> Optional[object]:
-    """Pull the first JSON object/array out of a model reply (tolerating fences)."""
+    """Pull the first JSON object/array out of a model reply (tolerating fences).
+
+    Still used for free-text replies; structured reads should prefer
+    :meth:`AnthropicClient.complete_json`, which cannot return malformed JSON.
+    """
     if not text:
         return None
     cleaned = text.strip()

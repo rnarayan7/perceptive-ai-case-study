@@ -76,9 +76,19 @@ def parse_value(raw: str, unit: Optional[str] = None, family: Optional[str] = No
     m = _SCALAR.match(text)
     if m:
         parsed_unit = m.group("unit") or (unit if unit not in ("probability", "count") else None)
+        value = float(m.group("val"))
+        # A quantity whose expected unit is a probability may be answered either
+        # as 0.47 or as "47%". Both are correct readings of the same landmark, so
+        # the percent form is converted rather than scored against a decimal:
+        # comparing 47 with 0.47 otherwise reports an error of 46 for an answer
+        # that was right. Only an explicit percent sign triggers this, so a
+        # genuine decimal is left alone.
+        if unit == "probability" and "%" in text and value > 1.0:
+            value /= 100.0
+            parsed_unit = "probability"
         return ParsedValue(
             kind=ValueKind.SCALAR, raw=raw,
-            scalar=float(m.group("val")), unit=parsed_unit,
+            scalar=value, unit=parsed_unit,
         )
 
     return ParsedValue(kind=ValueKind.UNKNOWN, raw=raw, unit=unit)

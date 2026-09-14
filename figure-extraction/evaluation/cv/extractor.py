@@ -154,7 +154,7 @@ class CvExtractor:
         crossers = fo.crosses_one(forest_rows)
         if forest_rows:
             predictions.append(self._pred(
-                figure, "ci_crosses_one",
+                figure, "crosses_one.set",
                 ", ".join(crossers) if crossers else "none",
                 confidence=0.7,
             ))
@@ -182,7 +182,7 @@ class CvExtractor:
                 conc = pk.concentration_at(curve, x_axis, y_axis, day)
                 if conc is not None:
                     predictions.append(self._pred(
-                        figure, f"conc_day{day}.{suffix}", f"{conc:.3g} nM",
+                        figure, f"concentration_day{day}.{suffix}", f"{conc:.3g} nM",
                         confidence=_fold_conf(y_fold)))
             for pair in curve_cfg.get("fold_pairs", []):
                 fold = pk.fold_multiple(curve, x_axis, y_axis, pair[0], pair[1])
@@ -195,7 +195,7 @@ class CvExtractor:
                 tf = pk.threshold_fold(peak, threshold) if peak is not None else None
                 if tf is not None:
                     predictions.append(self._pred(
-                        figure, f"threshold_fold.{suffix}", f"{tf:.1f}x",
+                        figure, f"fold_multiple.{suffix}_peak", f"{tf:.1f}x",
                         confidence=_fold_conf(y_fold)))
         return predictions
 
