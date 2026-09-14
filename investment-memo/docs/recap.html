@@ -249,12 +249,18 @@
       </div>
     </div>
 
-    <p class="col note" style="margin-top: var(--s3)">Given those characteristics, I have architected the platform below. This is three days of work and a demo of what is possible at a firm like Perceptive, not a finished system. The known gaps are covered further down.</p>
+    <ul class="col note" style="margin-top: var(--s3); border-left: 2px solid var(--rule-strong); padding-left: var(--s3); list-style-position: outside">
+      <li>Given those characteristics, I have architected the platform below.</li>
+      <li>This is three days of work and a demo of what is possible at a firm like Perceptive. The known gaps are covered further down.</li>
+    </ul>
   </section>
 
   <section>
     <div class="head col"><span class="eyebrow">Architecture</span><h2>The pipeline</h2></div>
-    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">The model reads the evidence and writes the memo; code does the arithmetic. Evaluation is a separate pass, below. Five stages:</p>
+    <ul class="col" style="margin-bottom: var(--s3)">
+      <li>The model reads the evidence and writes the memo. Code does the arithmetic.</li>
+      <li>Evaluation is a separate pass, covered below.</li>
+    </ul>
     <div class="pipe col" style="max-width: 64ch">
       <div class="step"><span class="i">01</span><span class="t"><span class="b">Ingestion.</span> Filings, trials, labels, epidemiology, pricing, and literature from public APIs into a per-company corpus.</span></div>
       <div class="step"><span class="i">02</span><span class="t"><span class="b">Retrieve (RAG).</span> A BM25 index over that corpus; several queries per question return a small labeled evidence set.</span></div>
@@ -286,7 +292,10 @@
 
   <section>
     <div class="head col"><span class="eyebrow">Evaluation</span><h2>Grading the memo against its sources</h2></div>
-    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">Every claim is checked against the evidence it cites. Numbers are graded by code; a model judges only where the call is about language, never a number.</p>
+    <ul class="col" style="margin-bottom: var(--s3)">
+      <li>Every claim is checked against the evidence it cites.</li>
+      <li>Numbers are graded by code. A model judges only where the call is about language, and never grades a number.</li>
+    </ul>
 
     <div class="tbl-wrap col">
       <table>
@@ -311,13 +320,18 @@
         <li><strong>Calibration</strong> compares the judge's verdicts to a human's and reports the agreement as a number.</li>
         <li><strong>A case the checks caught:</strong> a population cited to a real source, but the prevalence of the wrong indication that read cleaner nearby. The epi check now adds a plausibility band and an over-aggregation detector, so a real-but-wrong number gets flagged.</li>
       </ul>
-      <p class="note" style="margin-top: var(--s3)">Limit: there is no free public feed of analyst consensus, so the claim the brief cares about most, where the view departs from the market, is argued from evidence, not scored against a number.</p>
+      <ul class="note" style="margin-top: var(--s3); border-left: 2px solid var(--rule-strong); padding-left: var(--s3)">
+        <li>Limit: there is no free public feed of analyst consensus. The claim the brief cares about most, where the view departs from the market, is argued from evidence rather than scored against a number.</li>
+      </ul>
     </div>
   </section>
 
   <section>
-    <div class="head col"><span class="eyebrow">Follow-ups</span><h2>The valuation math is the gap</h2></div>
-    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">The arithmetic is deterministic and repeats; the inputs and the modeling are what need work. Retrieval and grounding are not what is holding this back; the modeling is.</p>
+    <div class="head col"><span class="eyebrow">Follow-ups</span><h2>The valuation math is an area we would invest more into</h2></div>
+    <ul class="col" style="margin-bottom: var(--s3)">
+      <li>The arithmetic is deterministic and repeats. The inputs and the modeling are what need work.</li>
+      <li>Retrieval and grounding are not what is holding this back; the modeling is.</li>
+    </ul>
     <ul class="col">
       <li><strong>Two peak-sales inputs are guesses.</strong> Penetration and net price are the two biggest multipliers and both are assumed, so the result swings on them.</li>
       <li><strong>The data to fix one is already ingested.</strong> CMS ASP and Medicaid NADAC are in the corpus but not read into net price, and there is no list-to-net bridge.</li>
@@ -339,6 +353,7 @@
   </section>
 
   <footer class="page">
+    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/investment-memo">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>investment-memo/</code>. Retrieval and grounding in <code>memo/rag/</code>, the evaluation harness in <code>evals/</code>.<br>
     Reference run KYMR (KT-621, oral STAT6 degrader in atopic dermatitis): neutral-to-constructive into a 2026 Phase 2b readout. Tooling: Python, a hosted language model API for reading and drafting; public sources only (SEC EDGAR, ClinicalTrials.gov, PubMed, Europe PMC, openFDA, Orphanet, CDC, CMS). About $0.40 a run.
   </footer>
 

@@ -329,15 +329,44 @@
 
   <section>
     <div class="head col">
-      <span class="eyebrow">Approach</span>
-      <h2>General model first, specialization only where it fails</h2>
+      <span class="eyebrow">Architecture</span>
+      <h2>The model recognises, geometry measures</h2>
     </div>
 
-    <div class="col stack">
-      <p>I put infrastructure around a general vision model first and held the specialized parts in reserve, rather than build a bespoke reader per chart type before knowing which needed one. It read the raster table perfectly and did well on the Kaplan-Meier and PK curves. On the waterfall, forest and spider it scored 2 of 6, 1 of 3 and 0 of 1: reliable when the number is printed, unreliable when it has to be measured.</p>
-
-      <p>So the specialized path uses the model only for the panels, the legend, what each reference line marks, the printed patient count. I locate those lines in the pixels, pair them with its values, and convert each bar tip through the resulting axis. That half is arithmetic, which is what makes a number traceable.</p>
+    <div class="two col" style="max-width: none">
+      <div class="stack">
+        <h3>What the vision model does</h3>
+        <ul class="plain">
+          <li>Classifies the figure so the right reader runs. 5 of 6 correct; it sends the spider plot to the waterfall reader.</li>
+          <li>Finds structure: panels, legend, which series is which arm or dose.</li>
+          <li>Reads printed text: axis labels and the value each carries, what a reference line marks, the patient count in the caption.</li>
+          <li><strong>Never returns a magnitude it had to measure.</strong> Its numbers are labels, not readings.</li>
+        </ul>
+      </div>
+      <div class="stack">
+        <h3>What deterministic CV does</h3>
+        <ul class="plain">
+          <li>Locates rules, ticks and plot edges as pixel rows and columns.</li>
+          <li>Traces each series by colour, finding bar tips, marker centres and whisker ends.</li>
+          <li>Converts pixel positions through the axis, linear or log, into values.</li>
+          <li><strong>Never decides what a position means.</strong> It cannot tell a tick from a letter stem.</li>
+        </ul>
+      </div>
     </div>
+
+    <div class="pipe col" style="margin-top: var(--s4); max-width: 64ch">
+      <div class="step"><span class="i">01</span><div><strong>Route.</strong> Figure type from the image, by a smaller model.<span class="who">model</span></div></div>
+      <div class="step"><span class="i">02</span><div><strong>Read structure.</strong> Panels, legend, series names, what each reference line marks, the printed N, the axis labels and the values they carry.<span class="who">model</span></div></div>
+      <div class="step"><span class="i">03</span><div><strong>Calibrate.</strong> Two labelled positions become an axis. Candidates enumerated by geometry, chosen by the model, accepted or rejected by invariants.<span class="who">both, in a loop</span></div></div>
+      <div class="step"><span class="i">04</span><div><strong>Measure.</strong> Bar tips, curve heights, marker centres and whisker ends, converted through that axis.<span class="who">geometry</span></div></div>
+      <div class="step"><span class="i">05</span><div><strong>Verify.</strong> Structural invariants accept the reading or decline the figure.<span class="who">geometry</span></div></div>
+    </div>
+
+    <ul class="plain col" style="margin-top: var(--s4)">
+      <li><strong>Why split it there.</strong> Asked to read values directly, the model scored 1.00 on the printed table and 2 of 6, 1 of 3 and 0 of 1 on the waterfall, forest and spider. Reliable on text, unreliable on magnitude.</li>
+      <li><strong>Geometry is exact and repeats, but it cannot recognise.</strong> Nothing in the pixels says the rule at column 546 is the null line.</li>
+      <li>Each half only does the thing it cannot fail at, and when either one is wrong it shows up as a violated invariant rather than a plausible number.</li>
+    </ul>
   </section>
 
   <section>
@@ -368,26 +397,23 @@
       </table>
     </div>
 
-    <p class="col note" style="margin-top: var(--s3)">The scored set grew from 22 values to 26, so the evaluation got harder, not easier. Five hand-calibrated runs: 0.877 mean, router 5 of 6, interval coverage 1.0, calibration error 0.305, $0.2997 per run.</p>
+    <ul class="plain col" style="margin-top: var(--s3)">
+      <li>Five hand-calibrated runs: 0.877 mean within tolerance, router 5 of 6, interval coverage 1.0, calibration error 0.305.</li>
+      <li>$0.2997 per suite run, plus $0.0294 once to calibrate.</li>
+    </ul>
   </section>
 
   <section>
     <div class="head col">
-      <span class="eyebrow">The evaluation</span>
-      <h2>Most of what I fixed was the harness, not the readers</h2>
+      <span class="eyebrow">Evaluation set</span>
+      <h2>Annotating more figures</h2>
     </div>
 
-    <div class="col stack">
-      <p>Almost none of the gain came from changing how anything is measured. It came from finding correct answers thrown away before scoring.</p>
-
-      <p><strong>Correct measurements discarded on a key mismatch.</strong> The forest reader produced 0.50 against a published 0.50 and it was dropped, because it emitted <code>hazard_ratio.idh wild type</code> while the key said <code>hazard_ratio.idh_wildtype</code>. Nothing errored; the matcher scored the weaker read instead. A one-line assertion that every emitted key exists in the contract would catch it, and still does not exist.</p>
-
-      <p><strong>A unit conversion nobody had written.</strong> "70%" was scored against a stored 0.80 as an error of 69 rather than 0.10. Fixing it took interval coverage from 0.5 to 1.0, a jump I had logged as a measurement regression.</p>
-
-      <p><strong>Answers never scored at all.</strong> Three of four spider quantities were marked interpretive and excluded, so most of the work there was invisible. Scored against criteria taken verbatim from the brief, I was failing two of five.</p>
-
-      <p><strong>Single runs do not mean what they look like.</strong> Spread inside one configuration, 0.19 by hand and 0.15 automated, exceeds the 0.085 between them. That caught me out: a forest improvement reported off one sample did not survive three repeats.</p>
-    </div>
+    <ul class="plain col">
+      <li>Annotated additional real figures harvested from the PMC Open Access corpus, rather than scoring only against the six supplied ones.</li>
+      <li>Every gold value carries provenance: taken from the source paper, derived from it, or an unverified read.</li>
+      <li>The scored set grew from 22 values to 26, so the evaluation got harder while the score rose.</li>
+    </ul>
   </section>
 
   <section>
@@ -396,9 +422,10 @@
       <h2>Automated calibration matches hand everywhere but forest</h2>
     </div>
 
-    <div class="col stack">
-      <p>Every reader is pointed at its figure by a calibration: which pixel row is probability 1.0, which column is hazard ratio 1. Those were typed by hand, so the readers carried over to a new deck and the calibration did not. Kaplan-Meier, forest and PK now derive their own, for $0.0294.</p>
-    </div>
+    <ul class="plain col">
+      <li>Every reader is pointed at its figure by a calibration: which pixel row is probability 1.0, which column is hazard ratio 1. Those were typed by hand, so the readers carried over to a new deck and the calibration did not.</li>
+      <li>Kaplan-Meier, forest and PK now derive their own, for $0.0294 total.</li>
+    </ul>
 
     <div class="tbl-wrap col" style="margin-top: var(--s3)">
       <table>
@@ -413,12 +440,19 @@
     </div>
 
     <div class="col stack" style="margin-top: var(--s4)">
-      <p>The whole gap is 11 values out of 130 and forest is exactly 11. Not a measurement problem: the builder labelled rows positionally, row0 through row21, while the key uses the printed subgroup names, so every computed forest value was thrown away. The calibration is sound. It read 0.46 (0.27-0.73) where the key says 0.50 (0.32-0.74), placing the axis at 362 and 730 pixels against hand values of 347 and 747. Same silent key drift as above, now twice.</p>
-
-      <p>The loop: deterministic measurement enumerates candidate axis positions and series colours, the vision step picks which carries which value, the choice is measured, and structural checks accept or reject. A rejection is fed back. The system is told what to look for, since the contract names the subgroups and landmarks. It is not told the answers.</p>
+      <ul class="plain">
+        <li><strong>The gap is 11 values out of 130, and forest is all 11.</strong> Not a measurement problem: the builder labelled rows positionally, row0 through row21, while the key uses the printed subgroup names, so every computed forest value was discarded.</li>
+        <li><strong>The forest calibration itself is sound.</strong> It read 0.46 (0.27-0.73) where the key says 0.50 (0.32-0.74), placing the axis at 362 and 730 pixels against hand values of 347 and 747. Same silent key drift as the earlier one, now twice.</li>
+        <li><strong>The loop.</strong> Geometry enumerates candidate axis positions and series colours, the model picks which carries which value, the choice is measured, invariants accept or reject, and a rejection is fed back so the next attempt avoids it.</li>
+        <li><strong>It is told what to look for, not what the answers are.</strong> The contract names which subgroups and landmarks to extract.</li>
+      </ul>
 
       <h3>Checks that earn their place</h3>
-      <p>A hazard ratio interval cannot reach zero: the wrong calibration emitted <code>0.57 (-0.00-0.87)</code> and was accepted twice, because the value is a formatted string and only its leading number was ever parsed. An axis spans its own plotted data, measured independently of anything the vision step nominated, which caught a proposal putting the horizontal axis across 21 pixels of a figure whose curves run 600. A survival curve starts at 1.0, probabilities stay in [0,1], concentrations are positive.</p>
+      <ul class="plain">
+        <li><strong>A hazard ratio interval cannot reach zero.</strong> The wrong calibration emitted <code>0.57 (-0.00-0.87)</code> and was accepted twice, because the value is a formatted string and only its leading number was ever parsed.</li>
+        <li><strong>An axis spans its own plotted data</strong>, measured independently of anything the model nominated. This caught a proposal putting the horizontal axis across 21 pixels of a figure whose curves run 600.</li>
+        <li><strong>A survival curve starts at 1.0</strong>, probabilities stay in [0,1], concentrations are positive.</li>
+      </ul>
 
       <h3>Three checks I built and then deleted</h3>
       <p>Each rejected correct answers, the more useful half of the exercise.</p>
@@ -450,7 +484,10 @@
       </table>
     </div>
 
-    <p class="col note" style="margin-top: var(--s3)">Intended routing, not a measured property. It rests on disagreement between two reads predicting error, and across two runs that correlation came out r = 0.968 then r = &minus;0.093. Validating that trigger is the biggest gap between this and something deployable.</p>
+    <ul class="plain col" style="margin-top: var(--s3)">
+      <li>Intended routing, not a measured property.</li>
+      <li>It rests on disagreement between two reads predicting error. Across two runs that correlation came out r = 0.968 then r = &minus;0.093, so validating the trigger is the biggest gap between this and something deployable.</li>
+    </ul>
   </section>
 
   <section>
@@ -474,6 +511,7 @@
           <li><strong>Half the key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never published, so those scores measure agreement with me.</li>
           <li><strong>Six figures is not evidence of generality.</strong> A held-out set matters more than another point of accuracy.</li>
           <li><strong>Confidence drifts the wrong way.</strong> Calibration error rose to 0.305 as accuracy improved, because low-confidence answers keep turning out correct.</li>
+          <li><strong>Single runs are noise.</strong> Spread inside one configuration, 0.19 by hand and 0.15 automated, exceeds the 0.085 between them. A forest improvement reported off one sample did not survive three repeats.</li>
         </ul>
       </div>
     </div>
@@ -485,12 +523,16 @@
       <h2>What I would build first</h2>
     </div>
 
-    <div class="col stack">
-      <p>The key-contract assertion, a few lines that should close the 11-value gap. Then repeat counts on everything I report, since one run tells you nothing. Then a held-out set, because every parameter so far was tuned while watching six outputs. Not off-the-shelf chart models: a chart-to-table model returned all zeros on a nine-bar figure and truncated to 18 rows on a 186-bar one, and an open-vocabulary detector returned no boxes at all.</p>
-    </div>
+    <ul class="plain col">
+      <li><strong>The key-contract assertion.</strong> A few lines that should close the 11-value gap.</li>
+      <li><strong>Repeat counts on everything reported</strong>, since one run tells you nothing.</li>
+      <li><strong>A held-out set</strong>, because every parameter so far was tuned while watching six outputs.</li>
+      <li><strong>Not off-the-shelf chart models.</strong> A chart-to-table model returned all zeros on a nine-bar figure and truncated to 18 rows on a 186-bar one; an open-vocabulary detector returned no boxes at all.</li>
+    </ul>
   </section>
 
   <footer class="page">
+    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/figure-extraction">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>figure-extraction/</code>. The readers and invariants are in <code>evaluation/cv/</code>; <code>cv_config_auto.json</code> holds the derived calibrations.<br>
     Tooling: Python, a hosted vision model for extraction and a smaller one for routing, pixel measurement in the standard library with no third-party dependencies. Public sources only, traced to source papers where stated and flagged unverified where not.
   </footer>
 
