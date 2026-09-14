@@ -211,6 +211,18 @@
         "unit": "probability",
         "verified": false,
         "source": "derived from the plotted trajectories under the stated conversion rule; 2 events at ~1.5mo (+20% crossings), 1 documented clinical progression at 6mo per the slide footnote, all other lines censored at their last assessment. Cross-checks: median not reached (matches Immatics ASCO 2026), curve runs to 11.8mo (matches 'longest ongoing response at 12 months')."
+      },
+      "pfs_curve_table": {
+        "value": "month 0.0: 1.00 | 1.5: 0.89 | 2.8: 0.89 | 4.3: 0.89 | 6.0: 0.80 | 7.5: 0.80 | 8.7: 0.80 | 11.8: 0.80",
+        "verified": false,
+        "source": "derived from the plotted trajectories under the stated conversion rule: 2 events at ~1.5mo (+20% crossings), 1 documented clinical progression at 6mo per the slide footnote, all other lines censored at last assessment. Cross-checks: median not reached (matches Immatics ASCO 2026), curve runs to 11.8mo (matches 'longest ongoing response at 12 months').",
+        "rubric": [
+          "Presents the curve as a table with a row per timepoint, giving a month and a surviving proportion.",
+          "Begins at a surviving proportion of 1.0 at month 0.",
+          "The surviving proportion never increases as the month increases.",
+          "Covers the observation window shown in the figure rather than stopping early."
+        ],
+        "rubric_source": "Brief, Figure 6 item (a), plus the structural properties of a survival curve"
       }
     }
   }

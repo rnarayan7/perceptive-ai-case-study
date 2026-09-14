@@ -93,6 +93,14 @@ FIGURE_REQUESTS: Dict[str, List[QuantitySpec]] = {
                      "both estimators for SunRISe-1 12M DOR; which is comparable"),
     ],
     FIG_SPIDER: [
+        # Brief item (a): the curve itself, as a table. The landmark values below
+        # score whether the numbers are right; this scores whether the deliverable
+        # was produced at all and has the shape a survival curve must have.
+        QuantitySpec("pfs_curve_table", Family.INTERPRETIVE, None, None,
+                     "the progression-free survival curve implied by the figure for "
+                     "the cohort shown, presented as a table with one row per "
+                     "timepoint giving the month and the surviving proportion, "
+                     "beginning at month 0"),
         QuantitySpec("implied_pfs_6mo", Family.CONTINUOUS, "probability", 0.1,
                      "implied PFS at 6 months from the spider trajectories"),
         # The brief asks for the implied curve as a table of month and surviving
