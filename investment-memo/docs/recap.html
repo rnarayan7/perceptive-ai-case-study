@@ -222,7 +222,7 @@
       <div class="metric"><span class="n">5 / 5</span><span class="k">memos written end to end, no human step</span></div>
       <div class="metric"><span class="n">0</span><span class="k">cited sources that do not resolve to a passage</span></div>
       <div class="metric"><span class="n">8</span><span class="k">checks, from retrieval hits to the judge itself</span></div>
-      <div class="metric"><span class="n">BM25</span><span class="k">retrieval, embeddings deferred until an eval asked for them</span></div>
+      <div class="metric"><span class="n">BM25</span><span class="k">retrieval over a per-company corpus</span></div>
     </div>
   </header>
 
@@ -268,7 +268,7 @@
       <ul>
         <li><strong>Deployed on Render</strong> as two services: a FastAPI read API and a Next.js web app.</li>
         <li><strong>Committed data snapshot</strong> (corpus, ledger, one memo per company), so the API and app run from a clone with no key. A key is only needed to write a new memo.</li>
-        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The only things off the shelf are the model API and <code>click</code>. I skipped the vector database and the orchestration frameworks for v1, partly because the first eval showed no recall problem to solve, and partly because each one is another dependency to dig through when a citation fails to resolve.</li>
+        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The only things off the shelf are the model API and <code>click</code>. Everything in the retrieval and grounding path is code I can step through when a citation fails to resolve.</li>
       </ul>
     </div>
   </section>
@@ -280,7 +280,7 @@
       <li>The tokenizer keeps drug codes like <code>KT-621</code> whole, so an asset query matches the passages that name it instead of splitting on the hyphen.</li>
       <li>Several queries per question return a labeled evidence set, <span class="k">at most 14 passages</span>, for the model to read.</li>
       <li>The model may cite only IDs in that set, and every one of them resolves to a real passage. If a citation does not resolve, the claim does not ship.</li>
-      <li><strong>Getting the right document back was not what broke first.</strong> The opening retrieval eval scored hit@8 = 1.00 on KYMR, so I ran on BM25 plus structured lookup and left dense embeddings out. A later eval scoring hit@1 instead of hit@8 changed that. It turned up paraphrase cases where a mechanism term pulls the wrong asset's trial, which is a vocabulary mismatch and the one thing BM25 cannot do much about. Embeddings and a reranker are now worth adding. The interfaces for both are in place and neither is written.</li>
+      <li><strong>Getting the right document back is mostly solved; picking the right line off it is not.</strong> A filing page will list several revenue figures or several trials, and the harder job is choosing the one the question is actually about. A later eval scoring hit@1 turned up cases where a mechanism term pulls up the wrong asset's trial, which is the sharpest version of that problem.</li>
     </ul>
   </section>
 
