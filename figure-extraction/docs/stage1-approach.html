@@ -282,19 +282,19 @@
     <div class="metrics">
       <div class="metric">
         <span class="n">0.877</span>
-        <span class="k">within tolerance, hand calibration, mean of five runs</span>
+        <span class="k">of values within tolerance, mean of five runs</span>
       </div>
       <div class="metric">
-        <span class="n">0.792</span>
-        <span class="k">automated calibration, same five runs</span>
+        <span class="n">0.64 to 0.92</span>
+        <span class="k">what adding measurement bought on one run</span>
       </div>
       <div class="metric">
-        <span class="n">11/130</span>
-        <span class="k">the entire gap between them, all of it forest</span>
+        <span class="n">5/6</span>
+        <span class="k">figures routed to the right reader</span>
       </div>
       <div class="metric">
-        <span class="n">0</span>
-        <span class="k">hand-typed figure constants left</span>
+        <span class="n">$0.30</span>
+        <span class="k">per suite run, every model call included</span>
       </div>
     </div>
   </header>
@@ -333,14 +333,16 @@
       <h2>The model is never asked to measure anything</h2>
     </div>
 
+    <p class="col" style="color: var(--ink-soft); margin-bottom: var(--s4)">We use a vision model for the initial classification and deterministic CV for the exact reads, and the CV half can only run once the chart type and the structure of the chart are known.</p>
+
     <div class="two col" style="max-width: none">
       <div class="stack">
         <h3>What the vision model does</h3>
         <ul class="plain">
-          <li>Classifies the figure so the right reader runs. 5 of 6 correct; it sends the spider plot to the waterfall reader.</li>
-          <li>Finds structure: panels, legend, which series is which arm or dose.</li>
-          <li>Reads printed text: axis labels and the value each carries, what a reference line marks, the patient count in the caption.</li>
-          <li><strong>Never returns a magnitude it had to measure.</strong> Everything it gives back is printed somewhere on the figure.</li>
+          <li>Classifies the figure.</li>
+          <li>Finds structure: panels, legend, series.</li>
+          <li>Reads printed text: axis labels, reference lines, patient counts.</li>
+          <li>Never returns a magnitude it had to measure.</li>
         </ul>
       </div>
       <div class="stack">
@@ -399,7 +401,7 @@
 
     <ul class="plain col" style="margin-top: var(--s3)">
       <li>Five hand-calibrated runs: 0.877 mean within tolerance, router 5 of 6, interval coverage 1.0, calibration error 0.305.</li>
-      <li>$0.2997 per suite run, plus $0.0294 once to calibrate.</li>
+      <li>$0.2997 per suite run, every model call included.</li>
     </ul>
   </section>
 
@@ -414,40 +416,6 @@
       <li>Every gold value carries provenance: taken from the source paper, derived from it, or an unverified read.</li>
       <li>The scored set grew from 22 values to 26, so the evaluation got harder while the score rose.</li>
     </ul>
-  </section>
-
-  <section>
-    <div class="head col">
-      <span class="eyebrow">Calibration</span>
-      <h2>Automated calibration matches hand everywhere but forest</h2>
-    </div>
-
-    <ul class="plain col">
-      <li>Every reader is pointed at its figure by a calibration: which pixel row is probability 1.0, which column is hazard ratio 1. Those were typed by hand, so the readers carried over to a new deck and the calibration did not.</li>
-      <li>Kaplan-Meier, forest and PK now derive their own, for $0.0294 total.</li>
-    </ul>
-
-    <div class="tbl-wrap col" style="margin-top: var(--s3)">
-      <table>
-        <thead>
-          <tr><th>Calibration</th><th class="num">Within tolerance</th><th class="num">Range</th><th class="num">Forest</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>By hand</td><td class="num">0.877</td><td class="num">0.731 to 0.923</td><td class="num">15/15</td></tr>
-          <tr><td>Automated</td><td class="num">0.792</td><td class="num">0.692 to 0.846</td><td class="num">4/15</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="col stack" style="margin-top: var(--s4)">
-      <ul class="plain">
-        <li><strong>The gap is 11 values out of 130, and forest is all 11.</strong> Not a measurement problem: the builder labelled rows positionally, row0 through row21, while the key uses the printed subgroup names, so every computed forest value was discarded.</li>
-        <li><strong>The forest calibration itself is sound.</strong> It read 0.46 (0.27-0.73) where the key says 0.50 (0.32-0.74), placing the axis at 362 and 730 pixels against hand values of 347 and 747. Same silent key drift as the earlier one, now twice.</li>
-        <li><strong>The loop.</strong> Geometry enumerates candidate axis positions and series colours, the model picks which carries which value, the choice is measured, invariants accept or reject, and a rejection is fed back so the next attempt avoids it.</li>
-        <li><strong>It is told what to look for, not what the answers are.</strong> The contract names which subgroups and landmarks to extract.</li>
-      </ul>
-
-    </div>
   </section>
 
   <section>
@@ -486,7 +454,7 @@
         <h3>In the system</h3>
         <ul class="plain">
           <li><strong>Left edge truncation</strong> gives bad leftmost values and a 4% undercount, since sorting puts the deepest bars at the clipped edge.</li>
-          <li><strong>Runs are not reproducible.</strong> Five hand-calibrated runs ranged 0.731 to 0.923, because the reader intermittently emits nothing for the table, once dropping eight values.</li>
+          <li><strong>Runs are not reproducible.</strong> Five runs of the same configuration ranged 0.731 to 0.923, because the reader intermittently emits nothing for the table, once dropping eight values.</li>
           <li><strong>Density ceiling.</strong> At 186 bars the count is short by seven. Below about 60, counts land exactly.</li>
         </ul>
       </div>
@@ -496,10 +464,22 @@
           <li><strong>Half the key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never published, so those scores measure agreement with a manual read rather than with a source.</li>
           <li><strong>Six figures is not evidence of generality.</strong> A held-out set matters more than another point of accuracy.</li>
           <li><strong>Confidence drifts the wrong way.</strong> Calibration error rose to 0.305 as accuracy improved, because low-confidence answers keep turning out correct.</li>
-          <li><strong>Single runs are noise.</strong> Spread inside one configuration, 0.19 by hand and 0.15 automated, exceeds the 0.085 between them. A forest improvement reported off one sample did not survive three repeats.</li>
+          <li><strong>Single runs are noise.</strong> A forest improvement reported off one sample did not survive three repeats, so any figure quoted from one run needs repeating before it means anything.</li>
         </ul>
       </div>
     </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Areas of investment</span>
+      <h2>Where more time would go</h2>
+    </div>
+
+    <ul class="plain col">
+      <li><strong>Annotate more images.</strong> Six figures is not enough to tell a working system from a curve fit.</li>
+      <li><strong>Train chart-specific CV calibration.</strong> Learn the axis and structure conventions per chart type instead of deriving them from scratch on every figure.</li>
+    </ul>
   </section>
 
   <footer class="page">
