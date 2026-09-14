@@ -1,0 +1,266 @@
+<title>Perceptive AI Case Study</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=Newsreader:opsz,wght@6..72,500&display=swap">
+<style>
+  :root {
+    --ground: #F5F6F4;
+    --surface: #FFFFFF;
+    --ink: #16201C;
+    --ink-soft: #35423C;
+    --muted: #5C6862;
+    --rule: #D8DCD7;
+    --accent: #0F6E4F;
+    --accent-soft: #E4EFE8;
+
+    --serif: "Newsreader", Georgia, "Times New Roman", serif;
+    --sans: "IBM Plex Sans", system-ui, -apple-system, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #101714;
+      --surface: #16201C;
+      --ink: #E8EDE9;
+      --ink-soft: #C3CDC7;
+      --muted: #8D9A93;
+      --rule: #2A3631;
+      --accent: #5FBF93;
+      --accent-soft: #1B2F27;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground: #101714;
+    --surface: #16201C;
+    --ink: #E8EDE9;
+    --ink-soft: #C3CDC7;
+    --muted: #8D9A93;
+    --rule: #2A3631;
+    --accent: #5FBF93;
+    --accent-soft: #1B2F27;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--sans);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 62rem;
+    margin: 0 auto;
+    padding: clamp(2.5rem, 6vw, 5rem) clamp(1.25rem, 5vw, 2.5rem) 4rem;
+  }
+
+  /* Header */
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 1rem;
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: clamp(2.1rem, 5.5vw, 3.1rem);
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    color: var(--ink);
+    margin: 0 0 1.1rem;
+    max-width: 20ch;
+  }
+
+  .lede {
+    font-size: 1.075rem;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 60ch;
+  }
+
+  .lede strong {
+    font-weight: 500;
+    color: var(--ink);
+  }
+
+  .tickers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tickers li {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0.2rem 0.5rem;
+  }
+
+  /* Divider between header and destinations */
+  .sep {
+    border: 0;
+    border-top: 1px solid var(--rule);
+    margin: clamp(2.25rem, 5vw, 3.25rem) 0 1.5rem;
+  }
+
+  .section-label {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 1.25rem;
+  }
+
+  /* Destination cards */
+  .card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: clamp(1.4rem, 3vw, 1.9rem);
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+  }
+
+  .card:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+
+  .card-eyebrow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 0.75rem;
+  }
+
+  .card-eyebrow .arrow {
+    color: var(--muted);
+    transition: transform 0.15s ease, color 0.15s ease;
+  }
+
+  .card:hover .card-eyebrow .arrow {
+    color: var(--accent);
+    transform: translate(2px, -2px);
+  }
+
+  .card-title {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    color: var(--ink);
+    margin: 0 0 0.5rem;
+  }
+
+  .card-copy {
+    font-size: 0.94rem;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 54ch;
+  }
+
+  .card-note {
+    font-size: 0.82rem;
+    color: var(--muted);
+    margin: 0.7rem 0 0;
+    max-width: 54ch;
+  }
+
+  /* Lead (web app) card */
+  .card--lead {
+    background: var(--accent-soft);
+    border-color: transparent;
+    margin-bottom: 1rem;
+  }
+
+  .card--lead .card-title {
+    font-size: clamp(1.6rem, 3.5vw, 2rem);
+  }
+
+  .card--lead:hover {
+    border-color: var(--accent);
+  }
+
+  .card--lead .card-copy {
+    color: var(--ink-soft);
+    font-size: 1rem;
+  }
+
+  /* Two write-up cards */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1rem;
+  }
+
+  footer {
+    margin-top: 3rem;
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+
+<main class="wrap">
+  <header>
+    <h1>Perceptive AI Case Study</h1>
+  </header>
+
+  <hr class="sep">
+
+  <a class="card card--lead" href="https://perceptive-frontend.onrender.com">
+    <p class="card-eyebrow"><span>Web app · live</span><span class="arrow" aria-hidden="true">↗</span></p>
+    <h2 class="card-title">Open the running research app</h2>
+  </a>
+
+  <div class="grid">
+    <a class="card" href="https://claude.ai/code/artifact/30746547-1797-4e5d-a5db-558811a1fdc8">
+      <p class="card-eyebrow"><span>Stage 1</span><span class="arrow" aria-hidden="true">↗</span></p>
+      <h2 class="card-title">Figure extraction</h2>
+    </a>
+
+    <a class="card" href="https://claude.ai/code/artifact/4ee266e2-2e5f-4c6a-b411-03023cbdfde8">
+      <p class="card-eyebrow"><span>Stage 2</span><span class="arrow" aria-hidden="true">↗</span></p>
+      <h2 class="card-title">Investment memo</h2>
+    </a>
+  </div>
+
+</main>

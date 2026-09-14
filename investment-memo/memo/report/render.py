@@ -1,9 +1,9 @@
 """The rendered-section contract and a reference Markdown renderer.
 
-A ``RenderedSection`` is what the assembler produces per section and what the web app
-consumes: prose plus the citations it references (by evidence id) plus any attached
-figures. The Markdown renderer here is a minimal reference so the contract is concrete;
-the full assembler (and an HTML renderer for the app) come in a later wave.
+A ``RenderedSection`` is what the assembler (``memo.compose.engine``) produces per section
+and what the web app consumes: prose plus the citations it references (by evidence id) plus
+any attached figures. The Markdown renderer here is the reference renderer for that
+contract; the web stack renders the same sections as HTML.
 """
 
 from __future__ import annotations
