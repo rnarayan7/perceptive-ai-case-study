@@ -311,7 +311,7 @@
         <ul class="plain">
           <li>Measure 186 bars off a waterfall and count how many clear a threshold.</li>
           <li>Read every figure in a paper the day it posts, for about thirty cents.</li>
-          <li>Re-measure everything when the key changes. That is how I found most apparent measurement error was the harness discarding correct values.</li>
+          <li>Re-measure everything when the key changes. That is how most of what looked like measurement error turned out to be the harness discarding correct values.</li>
         </ul>
       </div>
       <div class="stack">
@@ -324,13 +324,13 @@
       </div>
     </div>
 
-    <p class="col note" style="margin-top: var(--s4)">A few days of work against six figures. It shows the shape of the thing, not something I would put in front of an analyst tomorrow.</p>
+    <p class="col note" style="margin-top: var(--s4)">A few days of work against six figures. It shows the shape of the thing, and is not ready to put in front of an analyst tomorrow.</p>
   </section>
 
   <section>
     <div class="head col">
       <span class="eyebrow">Architecture</span>
-      <h2>The model recognises, geometry measures</h2>
+      <h2>The model is never asked to measure anything</h2>
     </div>
 
     <div class="two col" style="max-width: none">
@@ -340,7 +340,7 @@
           <li>Classifies the figure so the right reader runs. 5 of 6 correct; it sends the spider plot to the waterfall reader.</li>
           <li>Finds structure: panels, legend, which series is which arm or dose.</li>
           <li>Reads printed text: axis labels and the value each carries, what a reference line marks, the patient count in the caption.</li>
-          <li><strong>Never returns a magnitude it had to measure.</strong> Its numbers are labels, not readings.</li>
+          <li><strong>Never returns a magnitude it had to measure.</strong> Everything it gives back is printed somewhere on the figure.</li>
         </ul>
       </div>
       <div class="stack">
@@ -365,7 +365,7 @@
     <ul class="plain col" style="margin-top: var(--s4)">
       <li><strong>Why split it there.</strong> Asked to read values directly, the model scored 1.00 on the printed table and 2 of 6, 1 of 3 and 0 of 1 on the waterfall, forest and spider. Reliable on text, unreliable on magnitude.</li>
       <li><strong>Geometry is exact and repeats, but it cannot recognise.</strong> Nothing in the pixels says the rule at column 546 is the null line.</li>
-      <li>Each half only does the thing it cannot fail at, and when either one is wrong it shows up as a violated invariant rather than a plausible number.</li>
+      <li>Because each half is only asked for what it can actually do, a mistake in either one trips an invariant instead of coming back as a plausible number.</li>
     </ul>
   </section>
 
@@ -447,21 +447,6 @@
         <li><strong>It is told what to look for, not what the answers are.</strong> The contract names which subgroups and landmarks to extract.</li>
       </ul>
 
-      <h3>Checks that earn their place</h3>
-      <ul class="plain">
-        <li><strong>A hazard ratio interval cannot reach zero.</strong> The wrong calibration emitted <code>0.57 (-0.00-0.87)</code> and was accepted twice, because the value is a formatted string and only its leading number was ever parsed.</li>
-        <li><strong>An axis spans its own plotted data</strong>, measured independently of anything the model nominated. This caught a proposal putting the horizontal axis across 21 pixels of a figure whose curves run 600.</li>
-        <li><strong>A survival curve starts at 1.0</strong>, probabilities stay in [0,1], concentrations are positive.</li>
-      </ul>
-
-      <h3>Three checks I built and then deleted</h3>
-      <p>Each rejected correct answers, the more useful half of the exercise.</p>
-      <ul class="plain">
-        <li>A curve-start check searching from the top of the page found grey title text matching a placebo arm, rejected a correct calibration, then steered the next two attempts away from the answer.</li>
-        <li>A check counting subgroups sharing an interval endpoint, on the theory that ties mean whiskers hitting a window edge. Ties at two decimals are ordinary across twenty rows, so it fired on the known-good calibration too.</li>
-        <li>A rule capping the vertical axis span at twice the data span. It cleared the known-good calibration by 26%, against 70% and 75% for the others.</li>
-      </ul>
-      <p class="note">A wrong check is worse than a missing one, because its verdict is fed back and steers the search away from the answer. Every check is now tested against a known-good calibration first. Two others, designed to be non-circular, turned out silent instead: both needed ticks found independently, and the detector finds plot frames and banners, not ticks.</p>
     </div>
   </section>
 
@@ -508,27 +493,13 @@
       <div class="stack">
         <h3>In the evaluation</h3>
         <ul class="plain">
-          <li><strong>Half the key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never published, so those scores measure agreement with me.</li>
+          <li><strong>Half the key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never published, so those scores measure agreement with a manual read rather than with a source.</li>
           <li><strong>Six figures is not evidence of generality.</strong> A held-out set matters more than another point of accuracy.</li>
           <li><strong>Confidence drifts the wrong way.</strong> Calibration error rose to 0.305 as accuracy improved, because low-confidence answers keep turning out correct.</li>
           <li><strong>Single runs are noise.</strong> Spread inside one configuration, 0.19 by hand and 0.15 automated, exceeds the 0.085 between them. A forest improvement reported off one sample did not survive three repeats.</li>
         </ul>
       </div>
     </div>
-  </section>
-
-  <section>
-    <div class="head col">
-      <span class="eyebrow">Next</span>
-      <h2>What I would build first</h2>
-    </div>
-
-    <ul class="plain col">
-      <li><strong>The key-contract assertion.</strong> A few lines that should close the 11-value gap.</li>
-      <li><strong>Repeat counts on everything reported</strong>, since one run tells you nothing.</li>
-      <li><strong>A held-out set</strong>, because every parameter so far was tuned while watching six outputs.</li>
-      <li><strong>Not off-the-shelf chart models.</strong> A chart-to-table model returned all zeros on a nine-bar figure and truncated to 18 rows on a 186-bar one; an open-vocabulary detector returned no boxes at all.</li>
-    </ul>
   </section>
 
   <footer class="page">
