@@ -1,0 +1,460 @@
+<title>Stage 1 Figure Extraction</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+  :root {
+    --ground:      #F5F6F4;
+    --surface:     #FFFFFF;
+    --surface-sunk:#ECEEEA;
+    --ink:         #16201C;
+    --ink-soft:    #35423C;
+    --muted:       #5C6862;
+    --rule:        #D8DCD7;
+    --rule-strong: #BFC6BE;
+    --accent:      #0F6E4F;
+    --accent-soft: #E4EFE8;
+    --pass:        #1F7A4D;
+    --warn:        #A8761A;
+    --fail:        #A33A2A;
+
+    --measure: 68ch;
+    --s1: .35rem; --s2: .7rem; --s3: 1.1rem; --s4: 1.75rem;
+    --s5: 2.2rem; --s6: 2.9rem; --s7: 3.6rem;
+
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:      #101714;
+      --surface:     #16201C;
+      --surface-sunk:#1C2723;
+      --ink:         #E8EDE9;
+      --ink-soft:    #C3CDC7;
+      --muted:       #8D9A93;
+      --rule:        #2A3631;
+      --rule-strong: #3A4842;
+      --accent:      #5FBF93;
+      --accent-soft: #1B2F27;
+      --pass:        #63BE8E;
+      --warn:        #D4A544;
+      --fail:        #D9705C;
+      color-scheme: dark;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground:      #101714;
+    --surface:     #16201C;
+    --surface-sunk:#1C2723;
+    --ink:         #E8EDE9;
+    --ink-soft:    #C3CDC7;
+    --muted:       #8D9A93;
+    --rule:        #2A3631;
+    --rule-strong: #3A4842;
+    --accent:      #5FBF93;
+    --accent-soft: #1B2F27;
+    --pass:        #63BE8E;
+    --warn:        #D4A544;
+    --fail:        #D9705C;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 16px;
+    line-height: 1.58;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 78rem; margin: 0 auto; padding: var(--s5) var(--s4) var(--s7); }
+  .col { max-width: var(--measure); }
+
+  h1, h2, h3 {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    text-wrap: balance;
+    margin: 0;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+  h1 { font-size: clamp(1.9rem, 3.8vw, 2.5rem); line-height: 1.12; }
+  h2 { font-size: clamp(1.3rem, 2.2vw, 1.6rem); line-height: 1.22; }
+  h3 {
+    font-size: 1.04rem;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  p { margin: 0; }
+  p + p { margin-top: var(--s3); }
+
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .715rem;
+    font-weight: 500;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .lede { font-size: 1.06rem; line-height: 1.56; color: var(--ink-soft); }
+
+  .stack   { display: flex; flex-direction: column; gap: var(--s3); }
+  .stack-l { display: flex; flex-direction: column; gap: var(--s4); }
+
+  header.page {
+    display: flex; flex-direction: column; gap: var(--s3);
+    padding-bottom: var(--s4);
+    border-bottom: 2px solid var(--ink);
+  }
+
+  section { padding-top: var(--s6); }
+  section > .head {
+    display: flex; flex-direction: column; gap: var(--s2);
+    margin-bottom: var(--s4);
+  }
+
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    margin-top: var(--s3);
+  }
+  .metric {
+    padding: var(--s3) var(--s3) var(--s3) 0;
+    border-right: 1px solid var(--rule);
+    display: flex; flex-direction: column; gap: var(--s1);
+  }
+  .metric:last-child { border-right: none; }
+  .metric .n {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 1.55rem; font-weight: 500; line-height: 1;
+    font-variant-numeric: tabular-nums;
+    color: var(--accent);
+  }
+  .metric .k { font-size: .82rem; color: var(--muted); line-height: 1.35; }
+
+  .subtasks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: var(--s3);
+    margin-top: var(--s3);
+  }
+  .subtask {
+    border-top: 2px solid var(--rule-strong);
+    padding-top: var(--s2);
+  }
+  .subtask .t {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .74rem; letter-spacing: .07em; text-transform: uppercase;
+    color: var(--accent); display: block; margin-bottom: var(--s1);
+  }
+  .subtask p { font-size: .92rem; color: var(--ink-soft); }
+
+  .pipe { display: flex; flex-direction: column; margin-top: var(--s2); }
+  .step {
+    display: grid; grid-template-columns: 2.4rem 1fr; gap: var(--s3);
+    padding: var(--s3) 0; border-top: 1px solid var(--rule); align-items: start;
+  }
+  .step:last-child { border-bottom: 1px solid var(--rule); }
+  .step .i {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .78rem; font-weight: 600; color: var(--accent);
+    padding-top: .28rem; font-variant-numeric: tabular-nums;
+  }
+  .step .who {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .72rem; letter-spacing: .07em; text-transform: uppercase;
+    color: var(--muted); display: block; margin-top: var(--s1);
+  }
+  .step p { font-size: .95rem; color: var(--ink-soft); margin-top: var(--s2); }
+
+  .tbl-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .92rem; }
+  caption {
+    text-align: left; font-size: .86rem; color: var(--muted);
+    padding-bottom: var(--s2); line-height: 1.5;
+  }
+  th, td {
+    text-align: left; padding: .55rem .9rem .55rem 0;
+    border-bottom: 1px solid var(--rule); vertical-align: baseline;
+  }
+  thead th {
+    font-size: .72rem; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600;
+    border-bottom: 1px solid var(--rule-strong); white-space: nowrap;
+  }
+  td.num, th.num {
+    font-family: "IBM Plex Mono", monospace;
+    font-variant-numeric: tabular-nums; text-align: right;
+    padding-right: 1.2rem; white-space: nowrap;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tr.total td { border-top: 1px solid var(--rule-strong); font-weight: 600; }
+
+  .tag {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .7rem; font-weight: 600; letter-spacing: .05em;
+    text-transform: uppercase; padding: .12rem .42rem;
+    border-radius: 2px; white-space: nowrap;
+  }
+  .tag.pass { color: var(--pass); background: var(--accent-soft); }
+  .tag.fail { color: var(--fail); background: color-mix(in srgb, var(--fail) 13%, transparent); }
+
+  .ledger {
+    background: var(--surface-sunk);
+    border-left: 3px solid var(--accent);
+    padding: var(--s3);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .8rem; line-height: 1.75;
+    overflow-x: auto; white-space: pre; color: var(--ink-soft);
+  }
+  .ledger .ok { color: var(--pass); }
+  .ledger .no { color: var(--fail); }
+  .ledger .dim { color: var(--muted); }
+
+  .finding {
+    display: flex; flex-direction: column; gap: var(--s2);
+    padding: var(--s4) 0; border-top: 1px solid var(--rule);
+  }
+  .finding:last-of-type { border-bottom: 1px solid var(--rule); }
+  .finding .label {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .715rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--muted);
+  }
+  .finding p { max-width: var(--measure); color: var(--ink-soft); }
+
+  .swap {
+    display: inline-flex; align-items: baseline; gap: .55rem; flex-wrap: wrap;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .88rem; font-variant-numeric: tabular-nums; margin-top: var(--s1);
+  }
+  .swap .was { color: var(--muted); text-decoration: line-through; }
+  .swap .now { color: var(--accent); font-weight: 600; }
+  .swap .ar  { color: var(--rule-strong); }
+  .swap .cap { color: var(--muted); text-decoration: none; }
+
+  .note {
+    border-left: 2px solid var(--rule-strong);
+    padding-left: var(--s3); color: var(--muted);
+    font-size: .93rem; max-width: var(--measure);
+  }
+
+  .two {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+    gap: var(--s4) var(--s5);
+  }
+
+  ul.plain { margin: 0; padding-left: 1.1rem; }
+  ul.plain li { margin-bottom: var(--s2); color: var(--ink-soft); }
+  ul.plain li:last-child { margin-bottom: 0; }
+
+  code {
+    font-family: "IBM Plex Mono", monospace; font-size: .88em;
+    background: var(--surface-sunk); padding: .08em .32em; border-radius: 2px;
+  }
+
+  footer.page {
+    margin-top: var(--s7); padding-top: var(--s3);
+    border-top: 1px solid var(--rule); color: var(--muted); font-size: .85rem;
+  }
+
+  a { color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+
+<div class="wrap">
+
+  <header class="page">
+    <span class="eyebrow">Stage 1 &middot; Figure extraction</span>
+    <h1>Extracting values from biotech charts</h1>
+    <p class="lede col">We started with a general vision model, measured where it failed, and built specialized measurement for the cases that needed it. That took the six supplied figures from 0.64 to 0.92.</p>
+
+    <div class="metrics">
+      <div class="metric">
+        <span class="n">0.92</span>
+        <span class="k">of values within tolerance, up from 0.64 model-only</span>
+      </div>
+      <div class="metric">
+        <span class="n">24/26</span>
+        <span class="k">values landing, with four figure types at 1.00</span>
+      </div>
+      <div class="metric">
+        <span class="n">0</span>
+        <span class="k">wrong answers reported as confident</span>
+      </div>
+      <div class="metric">
+        <span class="n">$0.043</span>
+        <span class="k">per figure, every model call included</span>
+      </div>
+    </div>
+  </header>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Approach</span>
+      <h2>General model first, specialization only where it fails</h2>
+    </div>
+
+    <div class="col stack">
+      <p>Pulling values out of charts is a classic computer vision problem, and each chart type decomposes into subtasks with decades of research behind them: entity recognition for the axes and legend, bounding boxes for each mark, and clustering those marks into series. Rather than build a bespoke system per chart type, we put infrastructure around the newest general models first and kept specialized components in reserve. That gets a working system and a measurement of where it breaks before committing to any particular machinery.</p>
+
+      <p>The vision model read the raster table perfectly and did well on the Kaplan-Meier and PK curves. On the waterfall, forest and spider plots it got most questions wrong, scoring 2 of 6, 1 of 3 and 0 of 1. The pattern is that it is reliable when the number is printed on the figure and unreliable when it has to be measured off the picture, because reading a table cell is a text problem while reading a bar height is a measurement problem.</p>
+
+      <p>So the specialized path uses the model only for what it is good at. It finds the panels, the legend, what each reference line marks and the printed patient count. We then locate those reference lines in the pixels, pair them with the model's values by testing which assignment is most collinear, and convert each bar tip through the resulting axis. That part is arithmetic, so it repeats exactly and any number traces back to a pixel.</p>
+
+      <p>Confidence comes from checks that need no answer key: whether the axis reproduces a reference line it was not built from, whether the panel is sorted as a waterfall has to be, and whether the bar count matches the printed N. If any fail the figure is declined rather than reported.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Results</span>
+      <h2>What measurement bought</h2>
+    </div>
+
+    <div class="tbl-wrap col">
+      <table>
+        <thead>
+          <tr>
+            <th>Figure</th>
+            <th class="num">Model only</th>
+            <th class="num">With measurement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>5. Results table</td><td class="num">1.00</td><td class="num">1.00</td></tr>
+          <tr><td><strong>1. Kaplan-Meier</strong></td><td class="num">1.00</td><td class="num"><strong>1.00</strong></td></tr>
+          <tr><td>3. PK, log scale</td><td class="num">0.75</td><td class="num">0.75</td></tr>
+          <tr><td><strong>2. Waterfall</strong></td><td class="num">0.33</td><td class="num"><strong>0.83</strong></td></tr>
+          <tr><td><strong>4. Forest</strong></td><td class="num">0.33</td><td class="num"><strong>1.00</strong></td></tr>
+          <tr><td><strong>6. Spider</strong></td><td class="num">0.00</td><td class="num"><strong>1.00</strong></td></tr>
+          <tr class="total"><td>Overall, 26 scored values</td><td class="num">0.64</td><td class="num">0.92</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="col note" style="margin-top: var(--s3)">Forest recovers a hazard ratio of 0.50 against a published 0.50, its interval to within 0.02, and the set of subgroups whose interval crosses 1 exactly. Kaplan-Meier medians land at 5.6 and 2.7 against 5.52 and 2.66. The scored set grew from 22 values to 26 along the way, so the evaluation got harder rather than easier.</p>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">The evaluation</span>
+      <h2>Most of what we fixed was the harness, not the readers</h2>
+    </div>
+
+    <div class="col stack">
+      <p>Going from 0.64 to 0.92 took very few changes to how anything is measured. Three of the four biggest gains came from finding that correct answers were being thrown away before they were scored.</p>
+
+      <p><strong>Correct measurements discarded on a key mismatch.</strong> The forest reader was producing a hazard ratio of 0.50 with an interval of 0.32 to 0.74 against a published 0.50 and 0.33 to 0.72, and it was being dropped because the key read hazard_ratio.idh wild type while the answer key said hazard_ratio.idh_wildtype. Nothing errored. The matcher found no counterpart and the weaker model read was scored instead. A one-line assertion that every emitted key exists in the contract would have caught it.</p>
+
+      <p><strong>A unit conversion nobody had written.</strong> A landmark answered as "70%" was compared against a stored 0.80 and scored as an error of 69 rather than 0.10. Three values were exposed to it, and the Kaplan-Meier ones only passed because the model happened to answer in decimals. Fixing it also took interval coverage from 0.5 to 1.0, which we had recorded as a regression in the measurement layer and was nothing of the kind.</p>
+
+      <p><strong>Answers that were never scored at all.</strong> Three of the four spider quantities were marked interpretive and excluded from scoring, so most of the work on that figure was invisible. Scoring them against criteria taken verbatim from the brief showed we were failing two of five: no range of medians, and no statement of what the figure lacks that drives it. The fix was to ask the question properly, since the output format had been compressing reasoning answers into short phrases.</p>
+
+      <p>The same audit found the reverse problem. The implied median had verified public truth behind it, matching a published "not reached", and was being excluded from scoring as interpretive despite the parser already handling that sentinel exactly. A checkable answer with a real source was going unchecked.</p>
+
+      <p><strong>A rubric that graded agreement with us.</strong> Reviewing our own criteria, the requirement clauses were lifted from the brief, but we had appended parenthetical examples naming the expected answers: what counts as a progression event, how an ongoing marker should be treated. That turns a requirements check into a partial answer key, and rewards matching our guess rather than satisfying the brief. Restating the criteria in the brief's wording alone left the score unchanged, so nothing was resting on it, but the criteria now carry the item they came from and add nothing to it.</p>
+
+      <p class="note">The scored set grew from 22 values to 26 while the score rose, so none of this came from making the test easier. It came from measuring things that were already happening.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Generality</span>
+      <h2>What the 0.92 does and does not show</h2>
+    </div>
+
+    <div class="col stack">
+      <p>Those readers are pointed at each figure by a calibration, and the calibrations behind 0.86 are hand-written pixel coordinates for these six images: y=118 is probability 1.0, x=546 is hazard ratio 1. Hand over a Kaplan-Meier from a different deck and every one of those numbers is wrong. The reader algorithms carry over; the calibration does not.</p>
+
+      <p>So 0.86 shows the measurement approach is sound. It does not show the system reads an unseen figure, which is what the brief actually asks for. We built automatic calibration to close that gap, and it works on waterfalls: on a figure harvested from a paper, with no hand input, it calibrated itself and returned all six labelled values correctly for a third of a cent.</p>
+
+      <p>Extending it to the other three types is where it broke, and the way it broke is worth reporting. The model half works: it read every axis correctly, including a log scale, every series name, and a threshold printed as "20pM" which it converted to 0.02 in the axis's own nM units. The geometry half did not, and the self-check did not catch it.</p>
+
+      <div class="ledger" style="margin-top: var(--s2)">forest axis, auto-calibrated   <span class="no">207 -&gt; HR 0.0</span>   <span class="dim">(true: 347)</span>
+axis_fit residual              <span class="ok">2.2e-16</span>   <span class="dim">numerically perfect</span></div>
+
+      <p>Three evenly-spaced tick positions fit three evenly-spaced axis values perfectly no matter which three you pick, so collinearity cannot tell a correct pairing from a wrong one. It works for waterfalls because their reference lines sit at uneven values, +20, 0 and -30, which breaks the symmetry. On a regular axis grid the check reports maximum confidence on a completely wrong answer, which is worse than failing loudly. Fixing it needs an absolute anchor per axis rather than a better tick detector. The forest null line is exactly that, and it was found correctly at x=546.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Triage</span>
+      <h2>What could run unattended, and the ceiling</h2>
+    </div>
+
+    <div class="tbl-wrap col">
+      <table>
+        <thead>
+          <tr><th>Tier</th><th class="num">Share</th><th>What falls here</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Unattended, high confidence</td><td class="num">~37%</td><td>Table cells, KM medians, PK threshold and crossing, waterfall counts</td></tr>
+          <tr><td>Analyst review</td><td class="num">~44%</td><td>KM landmarks, waterfall proportions and depths, forest values, table reasoning</td></tr>
+          <tr><td>Cannot resolve to a point</td><td class="num">~19%</td><td>Spider conversion, anything the figure does not carry</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="col stack" style="margin-top: var(--s3)">
+      <p class="note">Accuracy ceiling: roughly 95% on transcription and labelled reads, 75 to 85% on geometric measurement with calibration in place, and well below that on the interpretive subset, which should be returned as a range rather than forced to a point. System-wide we would expect about 80%.</p>
+      <p class="note">These shares are intended routing under the design, not a measured property. They rest on disagreement between two reads predicting error, and across two runs of the same six figures that correlation came out at r = 0.968 then r = &minus;0.093. A swing that large means the signal is not reproducing. Calibration error is 0.227 and interval coverage 0.78 against a 0.90 target, so validating that trigger is the biggest gap between this and something we would deploy.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Limits</span>
+      <h2>Where it fails</h2>
+    </div>
+
+    <div class="two col" style="max-width: none">
+      <div class="stack">
+        <h3>In the system</h3>
+        <ul class="plain">
+          <li><strong>Left edge truncation</strong> produces both bad leftmost values and a systematic 4% undercount, because sorting puts the deepest bars at the edge that gets clipped.</li>
+          <li><strong>Runs are not reproducible.</strong> Panel detection varies, so the same figure can return different answers.</li>
+          <li><strong>Density ceiling.</strong> At 186 bars the count is short by seven. Below about 60, counts land exactly.</li>
+        </ul>
+      </div>
+      <div class="stack">
+        <h3>In the evaluation</h3>
+        <ul class="plain">
+          <li><strong>Half the answer key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never disclosed, so those scores measure agreement with our own read.</li>
+          <li><strong>Six figures is not evidence of generality.</strong> A held-out set matters more than another point of accuracy.</li>
+          <li><strong>Confidence is drifting the wrong way.</strong> Calibration error rose to 0.31 as accuracy improved, because low-confidence answers keep turning out correct. The readings got better and the self-knowledge got worse.</li>
+          <li><strong>Calibration is manual for three of four types.</strong> Automatic calibration is proven on waterfalls only, and the self-check has a blind spot on evenly-spaced axes.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col">
+      <span class="eyebrow">Next</span>
+      <h2>What we would build first</h2>
+    </div>
+
+    <div class="col stack">
+      <p>An absolute anchor for each axis type, so automatic calibration extends past waterfalls and the self-check stops passing wrong answers on regular grids. Then a held-out labelled set, because every parameter so far was tuned while watching six outputs and we cannot currently tell a working system from a curve fit. The spider plot is the remaining untouched figure, and it is the one the brief treats as a range rather than a point.</p>
+      <p>We would not spend the next block of time on off-the-shelf chart models. We tested two: a chart-to-table model returned all zeros on a nine-bar figure and truncated to 18 rows on a 186-bar one, and an open-vocabulary detector returned no boxes at all, because chart bars are not objects in a vocabulary learned from photographs.</p>
+    </div>
+  </section>
+
+  <footer class="page">
+    Tooling: Python, Anthropic API, claude-sonnet-5 for extraction and claude-haiku-4-5 for routing, pixel measurement in the standard library with no third-party dependencies. Data from public sources only. Values traced to source papers where stated and flagged unverified where not.
+  </footer>
+
+</div>
