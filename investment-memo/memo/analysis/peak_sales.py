@@ -26,19 +26,11 @@ from memo.analysis.context import AnalysisContext
 from memo.rag.structured import PriceRecord
 from memo.rag.types import Chunk
 
-# A price record is per dosage/pricing unit, but the model's net-price parameter is per
-# patient per year. Converting between them needs a dosing schedule the corpus does not
-# supply, so rather than invent a plausible-looking one (false precision) we annualize
-# with an explicit, deliberately trivial factor of one unit per patient-year and surface
-# that assumption in the claim rationale and the result notes. Raise this only when a
-# grounded dosing figure is available.
-_ASSUMED_ANNUAL_DOSING_UNITS = 1.0
-# Grounding annual net price on a CMS/NADAC per-UNIT cost is unsound without a dosing
-# schedule (units/patient/year), which the corpus does not provide. Doing so produced a
-# spurious ~$0.14/patient/year figure that zeroed peak sales and rNPV. Until an annual
-# net-price basis exists, keep net price as the flagged assumed default rather than a
-# false "grounded" number. Flip to True only alongside a real annual-price source.
-_GROUND_NET_PRICE_ON_PER_UNIT = False
+# Net price is never grounded on a per-unit comparator cost: annualizing it needs a
+# dosing schedule (units/patient/year) the corpus lacks, and doing so once produced a
+# spurious ~$0.14/patient/year that zeroed peak sales and rNPV. The best available
+# comparator anchor is surfaced as a note instead (see analyze); net price stays a
+# flagged assumption unless the model cites a real annual figure.
 
 # Ordered spec of the parameters the arithmetic needs: name -> (default, unit).
 # Defaults are deliberately conservative and are only used (and flagged assumed) when the
@@ -567,11 +559,11 @@ class PeakSalesModule(AnalysisModule):
         # back to the model-assumed parameter (the common case until comparators exist).
         groundable_prices = [r for r in (price_records or []) if r.price_per_unit > 0]
 
-        # Even while annualized grounding is disabled, surface the best comparator anchor
-        # and its basis so the lower-bound-vs-net distinction is visible: a NADAC generic
-        # floor is a lower bound, a CMS/ASP figure is a net-price reference. The per-unit
-        # price is not annualized into the value (that needs a dosing schedule).
-        if groundable_prices and not _GROUND_NET_PRICE_ON_PER_UNIT:
+        # Surface the best comparator anchor and its basis so the lower-bound-vs-net
+        # distinction is visible: a NADAC generic floor is a lower bound, a CMS/ASP figure
+        # is a net-price reference. The per-unit price is not annualized into the value
+        # (that needs a dosing schedule), so it informs the reader without setting net price.
+        if groundable_prices:
             ref = self._best_price_record(groundable_prices)
             ref_basis, ref_tier = _SOURCE_BASIS.get(ref.source, (ref.source, "proxy"))
             kind = "lower-bound floor" if ref_tier == "proxy" else "net-price reference"
@@ -596,18 +588,6 @@ class PeakSalesModule(AnalysisModule):
         missing_names: List[str] = []
 
         for name in _PARAM_NAMES:
-            # Net price: grounding on a per-unit comparator price is disabled (see
-            # _GROUND_NET_PRICE_ON_PER_UNIT) because per-unit costs can't be annualized
-            # without a dosing schedule; net price stays a flagged assumption instead.
-            if name == "annual_net_price" and groundable_prices and _GROUND_NET_PRICE_ON_PER_UNIT:
-                value, claim, evidence, note = self._grounded_net_price(groundable_prices)
-                values[name] = value
-                param_evidence[name] = evidence
-                all_evidence.extend(evidence)
-                notes.append(note)
-                claims.append(claim)
-                continue
-
             raw = raw_by_name.get(name)
             if raw is None:
                 # Model omitted it entirely: fall back to a flagged default assumption.
@@ -781,64 +761,6 @@ class PeakSalesModule(AnalysisModule):
             notes=notes,
             usage=response.usage,
         )
-
-    def _grounded_net_price(
-        self, prices: List[PriceRecord]
-    ) -> Tuple[float, Claim, List[Evidence], str]:
-        """Build a GROUNDED annual_net_price claim from a real comparator price record.
-
-        Picks the most defensible record (CMS near-net price preferred over NADAC
-        acquisition cost, then the most recent period), cites its source document, and
-        annualizes with the explicit ``_ASSUMED_ANNUAL_DOSING_UNITS`` factor. The price
-        itself is sourced; only the per-unit -> per-year conversion is assumed, and that
-        assumption is stated in both the rationale and the returned note.
-        """
-        record = self._best_price_record(prices)
-        unit_price = float(record.price_per_unit)
-        value = unit_price * _ASSUMED_ANNUAL_DOSING_UNITS
-        unit = _UNITS["annual_net_price"]
-
-        origin = record.drug + (f" ({record.generic})" if record.generic else "")
-        period = f", {record.period}" if record.period else ""
-        quote = (
-            f"{origin}: {record.source.upper()} net price ${unit_price:,.5g} per "
-            f"{record.unit}{period}."
-        )
-        evidence = [
-            Evidence(
-                doc_id=record.doc_id,
-                source=record.source,
-                doc_type=record.doc_type,
-                url=record.url,
-                quote=quote,
-                date=record.period,
-            )
-        ]
-        rationale = (
-            f"Grounded on the {record.source.upper()} net price for comparator {origin} "
-            f"(${unit_price:,.5g} per {record.unit}{period}). Annualized as "
-            f"{_ASSUMED_ANNUAL_DOSING_UNITS:g} {record.unit}(s) per patient/year, an "
-            "explicit assumption (no grounded dosing schedule); the per-unit price is "
-            "cited, the annual conversion is not."
-        )
-        net_basis, net_tier = _SOURCE_BASIS.get(record.source, (record.source, "proxy"))
-        claim = Claim(
-            statement=(
-                f"annual_net_price = {value} {unit} (GROUNDED on {record.source} price) "
-                f"{_basis_tag(net_basis, net_tier)}"
-            ),
-            confidence=0.5,
-            rationale=rationale,
-            evidence=evidence,
-            value=f"{value} {unit}",
-        )
-        note = (
-            f"parameter 'annual_net_price' grounded on {record.source} comparator price "
-            f"${unit_price:,.5g} per {record.unit} ({record.url}); annualized with an "
-            f"explicit assumed {_ASSUMED_ANNUAL_DOSING_UNITS:g} {record.unit}(s)/patient/"
-            "year (price sourced, conversion assumed)"
-        )
-        return value, claim, evidence, note
 
     @staticmethod
     def _best_price_record(prices: List[PriceRecord]) -> PriceRecord:

@@ -1,0 +1,345 @@
+<title>Stage 2 Investment Memo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+  :root {
+    --ground:      #F5F6F4;
+    --surface:     #FFFFFF;
+    --surface-sunk:#ECEEEA;
+    --ink:         #16201C;
+    --ink-soft:    #35423C;
+    --muted:       #5C6862;
+    --rule:        #D8DCD7;
+    --rule-strong: #BFC6BE;
+    --accent:      #0F6E4F;
+    --accent-soft: #E4EFE8;
+    --pass:        #1F7A4D;
+    --warn:        #A8761A;
+    --fail:        #A33A2A;
+
+    --measure: 72ch;
+    --s1: .35rem; --s2: .7rem; --s3: 1.1rem; --s4: 1.75rem;
+    --s5: 2.2rem; --s6: 2.6rem; --s7: 3.6rem;
+
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:      #101714;
+      --surface:     #16201C;
+      --surface-sunk:#1C2723;
+      --ink:         #E8EDE9;
+      --ink-soft:    #C3CDC7;
+      --muted:       #8D9A93;
+      --rule:        #2A3631;
+      --rule-strong: #3A4842;
+      --accent:      #5FBF93;
+      --accent-soft: #1B2F27;
+      --pass:        #63BE8E;
+      --warn:        #D4A544;
+      --fail:        #D9705C;
+      color-scheme: dark;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground:      #101714;
+    --surface:     #16201C;
+    --surface-sunk:#1C2723;
+    --ink:         #E8EDE9;
+    --ink-soft:    #C3CDC7;
+    --muted:       #8D9A93;
+    --rule:        #2A3631;
+    --rule-strong: #3A4842;
+    --accent:      #5FBF93;
+    --accent-soft: #1B2F27;
+    --pass:        #63BE8E;
+    --warn:        #D4A544;
+    --fail:        #D9705C;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 15.5px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 60rem; margin: 0 auto; padding: var(--s5) var(--s4) var(--s6); }
+  .col { max-width: var(--measure); }
+
+  h1, h2, h3 {
+    font-family: Newsreader, ui-serif, Georgia, serif;
+    text-wrap: balance;
+    margin: 0;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+  h1 { font-size: clamp(1.75rem, 3.4vw, 2.2rem); line-height: 1.12; }
+  h2 { font-size: clamp(1.2rem, 2vw, 1.45rem); line-height: 1.22; }
+  h3 {
+    font-size: .98rem;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  p { margin: 0; }
+  p + p { margin-top: var(--s2); }
+
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .7rem;
+    font-weight: 500;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .lede { font-size: 1.02rem; line-height: 1.5; color: var(--ink-soft); }
+
+  .stack { display: flex; flex-direction: column; gap: var(--s2); }
+
+  header.page {
+    display: flex; flex-direction: column; gap: var(--s3);
+    padding-bottom: var(--s4);
+    border-bottom: 2px solid var(--ink);
+  }
+
+  section { padding-top: var(--s5); }
+  section > .head {
+    display: flex; flex-direction: column; gap: var(--s1);
+    margin-bottom: var(--s3);
+  }
+
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    margin-top: var(--s2);
+  }
+  .metric {
+    padding: var(--s3) var(--s3) var(--s3) 0;
+    border-right: 1px solid var(--rule);
+    display: flex; flex-direction: column; gap: var(--s1);
+  }
+  .metric:last-child { border-right: none; }
+  .metric .n {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 1.5rem; font-weight: 500; line-height: 1;
+    font-variant-numeric: tabular-nums;
+    color: var(--accent);
+  }
+  .metric .k { font-size: .8rem; color: var(--muted); line-height: 1.35; }
+
+  .pipe { display: flex; flex-direction: column; margin: 0; }
+  .step {
+    display: grid; grid-template-columns: 1.9rem 1fr; gap: var(--s3);
+    padding: var(--s2) 0; border-top: 1px solid var(--rule); align-items: baseline;
+  }
+  .step:last-child { border-bottom: 1px solid var(--rule); }
+  .step .i {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .74rem; font-weight: 600; color: var(--accent);
+    font-variant-numeric: tabular-nums;
+  }
+  .step .b { font-weight: 600; }
+  .step .t { color: var(--ink-soft); font-size: .92rem; }
+
+  .tbl-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+  th, td {
+    text-align: left; padding: .5rem .9rem .5rem 0;
+    border-bottom: 1px solid var(--rule); vertical-align: baseline;
+  }
+  thead th {
+    font-size: .7rem; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600;
+    border-bottom: 1px solid var(--rule-strong); white-space: nowrap;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+
+  .tag {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .68rem; font-weight: 600; letter-spacing: .05em;
+    text-transform: uppercase; padding: .1rem .4rem;
+    border-radius: 2px; white-space: nowrap;
+  }
+  .tag.code  { color: var(--pass); background: var(--accent-soft); }
+  .tag.judge { color: var(--warn); background: color-mix(in srgb, var(--warn) 15%, transparent); }
+
+  .note {
+    border-left: 2px solid var(--rule-strong);
+    padding-left: var(--s3); color: var(--muted);
+    font-size: .9rem; max-width: var(--measure);
+  }
+
+  ul { margin: 0; padding-left: 1.15rem; }
+  li { margin-bottom: .45rem; color: var(--ink-soft); max-width: var(--measure); }
+  li:last-child { margin-bottom: 0; }
+  li strong, li b { color: var(--ink); font-weight: 600; }
+  li .k { color: var(--accent); font-family: "IBM Plex Mono", monospace; font-size: .82em; }
+
+  code {
+    font-family: "IBM Plex Mono", monospace; font-size: .88em;
+    background: var(--surface-sunk); padding: .08em .32em; border-radius: 2px;
+  }
+
+  footer.page {
+    margin-top: var(--s6); padding-top: var(--s3);
+    border-top: 1px solid var(--rule); color: var(--muted); font-size: .82rem;
+    max-width: var(--measure);
+  }
+
+  a { color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+  @media print {
+    .wrap { max-width: none; padding: .6rem 1rem; }
+    body { font-size: 10.5px; }
+    header.page, section, .metrics, table, .pipe, ul { break-inside: avoid; }
+    section { padding-top: 1.1rem; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="page">
+    <span class="eyebrow">Stage 2 &middot; Investment memo</span>
+    <h1>Building a real-time investment analysis engine</h1>
+    <p class="lede col">Building an investment platform that powers a biotech hedge fund as successful as Perceptive is a real challenge. It has to provide enough value, and be designed well enough, that investors use it as part of their research process rather than play with it as a fancy demo. This writes an investment memo on a drug company from public filings with no human step. Reference run: KYMR.</p>
+
+    <div class="metrics">
+      <div class="metric"><span class="n">5 / 5</span><span class="k">memos written end to end, no human step</span></div>
+      <div class="metric"><span class="n">0</span><span class="k">cited sources that do not resolve to a passage</span></div>
+      <div class="metric"><span class="n">8</span><span class="k">checks, from retrieval hits to the judge itself</span></div>
+      <div class="metric"><span class="n">BM25</span><span class="k">retrieval over a per-company corpus</span></div>
+    </div>
+  </header>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Why it is valuable</span><h2>The two things that make it a product rather than a toy</h2></div>
+
+    <div class="col stack" style="gap: var(--s3)">
+      <div>
+        <h3>It does things humans cannot</h3>
+        <ul style="margin-top: var(--s1)">
+          <li>Scrapes the open internet for information analysts do not uncover through standard searching.</li>
+          <li>Evaluates newly available information every day. A new trial registration or filing gets parsed the moment it posts, rather than waiting for someone to read it.</li>
+          <li>Stress-tests theses against new data instantly, rather than requiring a human to reason through every scenario and update the memos by hand.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>It is auditable and understandable</h3>
+        <ul style="margin-top: var(--s1)">
+          <li>If Perceptive prides itself on being an impartial, value-focused investor, the technology should not introduce a bias of its own.</li>
+          <li>Every argument, dataset and estimate, retrieved or generated, traces back to its source material, so we know exactly what fed a decision.</li>
+          <li>If a regulator asks what went into the research process, there is a stack to show them.</li>
+          <li>We can change how the models behave to trial different research hypotheses, so we know how we reached a conclusion rather than just what it was.</li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="col note" style="margin-top: var(--s3)">Given those characteristics, I have architected the platform below. This is three days of work and a demo of what is possible at a firm like Perceptive, not a finished system. The known gaps are covered further down.</p>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Architecture</span><h2>The pipeline</h2></div>
+    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">The model reads the evidence and writes the memo; code does the arithmetic. Evaluation is a separate pass, below. Five stages:</p>
+    <div class="pipe col" style="max-width: 64ch">
+      <div class="step"><span class="i">01</span><span class="t"><span class="b">Ingestion.</span> Filings, trials, labels, epidemiology, pricing, and literature from public APIs into a per-company corpus.</span></div>
+      <div class="step"><span class="i">02</span><span class="t"><span class="b">Retrieve (RAG).</span> A BM25 index over that corpus; several queries per question return a small labeled evidence set.</span></div>
+      <div class="step"><span class="i">03</span><span class="t"><span class="b">Compute.</span> The model pulls the cited parameters from that evidence, and code does the arithmetic (peak sales, NPV).</span></div>
+      <div class="step"><span class="i">04</span><span class="t"><span class="b">Generate memo.</span> Compose the cited memo from the analysis, or refuse if a required section has no grounded claim.</span></div>
+      <div class="step"><span class="i">05</span><span class="t"><span class="b">Serve.</span> A SQLite ledger records every memo, claim, and run; a read API and web app expose it.</span></div>
+    </div>
+
+    <div class="col" style="margin-top: var(--s3)">
+      <h3>Deployment</h3>
+      <ul>
+        <li><strong>Deployed on Render</strong> as two services: a FastAPI read API and a Next.js web app.</li>
+        <li><strong>Committed data snapshot</strong> (corpus, ledger, one memo per company), so the API and app run from a clone with no key. A key is only needed to write a new memo.</li>
+        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The only things off the shelf are the model API and <code>click</code>. Everything in the retrieval and grounding path is code I can step through when a citation fails to resolve.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Retrieval &middot; RAG</span><h2>Pulling the evidence</h2></div>
+    <ul class="col">
+      <li>BM25 over the ingested corpus: filings, trials, labels, epidemiology, pricing, literature.</li>
+      <li>The tokenizer keeps drug codes like <code>KT-621</code> whole, so an asset query matches the passages that name it instead of splitting on the hyphen.</li>
+      <li>Several queries per question return a labeled evidence set, <span class="k">at most 14 passages</span>, for the model to read.</li>
+      <li>The model may cite only IDs in that set, and every one of them resolves to a real passage. If a citation does not resolve, the claim does not ship.</li>
+      <li><strong>Getting the right document back is mostly solved; picking the right line off it is not.</strong> A filing page will list several revenue figures or several trials, and the harder job is choosing the one the question is actually about. A later eval scoring hit@1 turned up cases where a mechanism term pulls up the wrong asset's trial, which is the sharpest version of that problem.</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Evaluation</span><h2>Grading the memo against its sources</h2></div>
+    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">Every claim is checked against the evidence it cites. Numbers are graded by code; a model judges only where the call is about language, never a number.</p>
+
+    <div class="tbl-wrap col">
+      <table>
+        <thead><tr><th>Check</th><th>What it asks</th><th>By</th></tr></thead>
+        <tbody>
+          <tr><td>Retrieval</td><td>Does the right passage come back for a query</td><td><span class="tag code">code</span></td></tr>
+          <tr><td>Epidemiology grounding</td><td>Is the population cited to a real source and in a sane range</td><td><span class="tag code">code</span></td></tr>
+          <tr><td>Faithfulness</td><td>Is each claim actually supported by what it cites</td><td><span class="tag judge">judge</span></td></tr>
+          <tr><td>Judge probes</td><td>Does the judge get known-answer cases right</td><td><span class="tag judge">judge</span></td></tr>
+          <tr><td>Known-bad</td><td>Does a memo with shuffled evidence score far worse</td><td><span class="tag judge">judge</span></td></tr>
+          <tr><td>Calibration</td><td>Does the judge agree with a human</td><td><span class="tag judge">judge</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="col" style="margin-top: var(--s4)">
+      <h3>The judge is tested before its scores count</h3>
+      <ul>
+        <li>Faithfulness uses a model to read a model, so on its own it can flatter what it grades.</li>
+        <li><strong>Known-answer probes</strong> check whether the judge gets clear cases right.</li>
+        <li><strong>Known-bad</strong> feeds it a memo with the evidence shuffled and requires the score to drop by a clear margin. If a scrambled memo scores as well as a real one, the judge measures nothing, so this runs first.</li>
+        <li><strong>Calibration</strong> compares the judge's verdicts to a human's and reports the agreement as a number.</li>
+        <li><strong>A case the checks caught:</strong> a population cited to a real source, but the prevalence of the wrong indication that read cleaner nearby. The epi check now adds a plausibility band and an over-aggregation detector, so a real-but-wrong number gets flagged.</li>
+      </ul>
+      <p class="note" style="margin-top: var(--s3)">Limit: there is no free public feed of analyst consensus, so the claim the brief cares about most, where the view departs from the market, is argued from evidence, not scored against a number.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Follow-ups</span><h2>The valuation math is the gap</h2></div>
+    <p class="col" style="color: var(--ink-soft); font-size: .95rem; margin-bottom: var(--s3)">The arithmetic is deterministic and repeats; the inputs and the modeling are what need work. Retrieval and grounding are not what is holding this back; the modeling is.</p>
+    <ul class="col">
+      <li><strong>Two peak-sales inputs are guesses.</strong> Penetration and net price are the two biggest multipliers and both are assumed, so the result swings on them.</li>
+      <li><strong>The data to fix one is already ingested.</strong> CMS ASP and Medicaid NADAC are in the corpus but not read into net price, and there is no list-to-net bridge.</li>
+      <li><strong>Success probability is coarse.</strong> Applied once in the NPV, which is right, but the modeling behind it is thin.</li>
+      <li><strong>The NPV covers the lead asset only,</strong> so it understates the company. Treat it as a floor.</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Long-term vision</span><h2>Where this goes</h2></div>
+    <ul class="col">
+      <li><strong>From one memo to live coverage.</strong> Re-run on each new filing or readout so the memo updates itself and flags exactly what changed and why.</li>
+      <li><strong>Coverage across a universe.</strong> Rank and compare many companies at once, surfacing where the model's view diverges most from the market's.</li>
+      <li><strong>A valuation you can defend.</strong> Gross-to-net pricing, penetration drawn from real analog launches, and a sum-of-parts across the pipeline, so the number is something you could take into an IC meeting and argue.</li>
+      <li><strong>Figures inside the argument.</strong> Insert and annotate the actual chart a claim rests on, wiring Stage 1 into the memo.</li>
+      <li><strong>An evaluation you trust.</strong> A held-out labeled set and standing human calibration. Right now a good score mostly tells you the harness ran.</li>
+      <li><strong>The analyst in the loop.</strong> Turn the comment and feedback trail into signal for where the memo is wrong, and feed it back.</li>
+    </ul>
+  </section>
+
+  <footer class="page">
+    Reference run KYMR (KT-621, oral STAT6 degrader in atopic dermatitis): neutral-to-constructive into a 2026 Phase 2b readout. Tooling: Python, a hosted language model API for reading and drafting; public sources only (SEC EDGAR, ClinicalTrials.gov, PubMed, Europe PMC, openFDA, Orphanet, CDC, CMS). About $0.40 a run.
+  </footer>
+
+</div>

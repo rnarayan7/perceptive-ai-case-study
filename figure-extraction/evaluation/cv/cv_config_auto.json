@@ -1,0 +1,329 @@
+{
+  "fig02_waterfall": {
+    "figure_type": "waterfall",
+    "panels": [
+      {
+        "name": "best_psa_reduction",
+        "bar_color": [
+          49,
+          82,
+          126
+        ],
+        "tol": 3,
+        "min_run_px": 2,
+        "max_gap_px": 0,
+        "baseline_py": 305,
+        "x_range": [
+          111,
+          572
+        ],
+        "y_range": [
+          216,
+          477
+        ],
+        "y_axis": {
+          "type": "linear",
+          "px1": 179.6,
+          "val1": 75,
+          "px2": 388.5,
+          "val2": -50
+        },
+        "quantities": {
+          "psa50_proportion.ge2mg": {
+            "metric": "proportion_beyond",
+            "threshold": -50,
+            "below": true
+          },
+          "psa90_proportion.ge2mg": {
+            "metric": "proportion_beyond",
+            "threshold": -90,
+            "below": true
+          },
+          "deepest_bar_depth": {
+            "metric": "deepest"
+          },
+          "leftmost_bar_height": {
+            "metric": "leftmost"
+          }
+        }
+      },
+      {
+        "name": "recist_response",
+        "bar_color": [
+          49,
+          82,
+          126
+        ],
+        "tol": 20,
+        "min_run_px": 2,
+        "max_gap_px": 1,
+        "baseline_band": 8,
+        "baseline_tol": 50,
+        "baseline_py": 305,
+        "x_range": [
+          725,
+          1188
+        ],
+        "y_range": [
+          165,
+          490
+        ],
+        "y_axis": {
+          "type": "linear",
+          "px1": 179.6,
+          "val1": 75,
+          "px2": 388.5,
+          "val2": -50
+        },
+        "quantities": {
+          "recist_n_plotted": {
+            "metric": "count"
+          },
+          "recist_beyond_30_proportion": {
+            "metric": "proportion_beyond",
+            "threshold": -30,
+            "below": true
+          }
+        }
+      }
+    ]
+  },
+  "fig04_forest": {
+    "figure_type": "forest",
+    "x_axis": {
+      "type": "linear",
+      "px1": 362,
+      "val1": 0,
+      "px2": 730,
+      "val2": 2
+    },
+    "x_range": [
+      342,
+      750
+    ],
+    "marker_color": [
+      36,
+      60,
+      84
+    ],
+    "tol": 45,
+    "marker_frac": 0.5,
+    "rows": [
+      {
+        "label": "row0",
+        "y0": 76,
+        "y1": 96
+      },
+      {
+        "label": "row1",
+        "y0": 97,
+        "y1": 117
+      },
+      {
+        "label": "row2",
+        "y0": 137,
+        "y1": 157
+      },
+      {
+        "label": "row3",
+        "y0": 157,
+        "y1": 177
+      },
+      {
+        "label": "row4",
+        "y0": 177,
+        "y1": 197
+      },
+      {
+        "label": "row5",
+        "y0": 196,
+        "y1": 216
+      },
+      {
+        "label": "row6",
+        "y0": 216,
+        "y1": 236
+      },
+      {
+        "label": "row7",
+        "y0": 236,
+        "y1": 256
+      },
+      {
+        "label": "row8",
+        "y0": 255,
+        "y1": 275
+      },
+      {
+        "label": "row9",
+        "y0": 275,
+        "y1": 295
+      },
+      {
+        "label": "row10",
+        "y0": 295,
+        "y1": 315
+      },
+      {
+        "label": "row11",
+        "y0": 315,
+        "y1": 335
+      },
+      {
+        "label": "row12",
+        "y0": 334,
+        "y1": 354
+      },
+      {
+        "label": "row13",
+        "y0": 354,
+        "y1": 374
+      },
+      {
+        "label": "row14",
+        "y0": 374,
+        "y1": 394
+      },
+      {
+        "label": "row15",
+        "y0": 394,
+        "y1": 414
+      },
+      {
+        "label": "row16",
+        "y0": 413,
+        "y1": 433
+      },
+      {
+        "label": "row17",
+        "y0": 433,
+        "y1": 453
+      },
+      {
+        "label": "row18",
+        "y0": 453,
+        "y1": 473
+      },
+      {
+        "label": "row19",
+        "y0": 473,
+        "y1": 493
+      },
+      {
+        "label": "row20",
+        "y0": 492,
+        "y1": 512
+      },
+      {
+        "label": "row21",
+        "y0": 512,
+        "y1": 532
+      }
+    ]
+  },
+  "fig01_km": {
+    "figure_type": "kaplan_meier",
+    "x_axis": {
+      "type": "linear",
+      "px1": 152,
+      "val1": 0,
+      "px2": 1152,
+      "val2": 35
+    },
+    "y_axis": {
+      "type": "linear",
+      "px1": 117,
+      "val1": 1.0,
+      "px2": 410,
+      "val2": 0.0
+    },
+    "x_range": [
+      152,
+      1162
+    ],
+    "y_range": [
+      107,
+      414
+    ],
+    "landmark_month": 6,
+    "curves": [
+      {
+        "arm_key_suffix": "ozekibart",
+        "curve_color": [
+          96,
+          132,
+          12
+        ],
+        "tol": 45
+      },
+      {
+        "arm_key_suffix": "placebo",
+        "curve_color": [
+          108,
+          120,
+          132
+        ],
+        "tol": 45
+      }
+    ]
+  },
+  "fig03_pk": {
+    "figure_type": "pk",
+    "x_axis": {
+      "type": "linear",
+      "px1": 246,
+      "val1": 0,
+      "px2": 862,
+      "val2": 14
+    },
+    "y_axis": {
+      "type": "log",
+      "px1": 247,
+      "val1": 100,
+      "px2": 813,
+      "val2": 0.001
+    },
+    "x_range": [
+      246,
+      870
+    ],
+    "y_range": [
+      239,
+      821
+    ],
+    "threshold_conc": 0.02,
+    "curves": [
+      {
+        "curve_key_suffix": "dose_03",
+        "curve_color": [
+          0,
+          0,
+          252
+        ],
+        "tol": 60,
+        "peak_day": 0
+      },
+      {
+        "curve_key_suffix": "dose_01",
+        "curve_color": [
+          252,
+          0,
+          0
+        ],
+        "tol": 60
+      },
+      {
+        "curve_key_suffix": "dose_003",
+        "curve_color": [
+          0,
+          192,
+          0
+        ],
+        "tol": 60,
+        "concentration_days": [
+          14
+        ]
+      }
+    ]
+  }
+}
