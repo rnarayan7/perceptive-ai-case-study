@@ -104,6 +104,16 @@ class VlmExtractor:
             "interval_low/high are your uncertainty bounds on the value. "
             "confidence is how sure you are. Requested quantities:",
         ]
+        if any(spec.family == Family.INTERPRETIVE for spec in specs):
+            # "value: <string with unit>" reads as a request for a short scalar,
+            # which silently truncates answers that are meant to be reasoning: a
+            # quantity asking for a rule plus its edge cases came back as a bare
+            # range. Interpretive quantities need the whole answer in the field.
+            lines.append(
+                "Some quantities below ask for a rule, a justification, or a range "
+                "with the reason behind it. For those, put the complete answer in "
+                "\"value\" as prose and address every part of what is asked. Do not "
+                "compress them to a short phrase.")
         for spec in specs:
             unit = f" [{spec.unit}]" if spec.unit else ""
             lines.append(f'  - {spec.key}{unit}: {spec.description}')
