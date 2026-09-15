@@ -1,6 +1,6 @@
 # Stage 1 Extractions
 
-Draft. Each requested quantity with the value read, the method that produced it, and a confidence.
+Each requested quantity with the value read, the method that produced it, and a confidence.
 
 Confidence is mechanical: high means a label/table read or a public number confirms it; medium means a measured or corrected read; low means an eyeball or log-axis interpolation the figure cannot pin down. Figures 1, 2, 5, 6 have public ground truth. Figures 3 and 4 name real programs but their specific requested numbers are not publicly disclosed and appear constructed for the exercise, so those reads can only be scored against a manual read, not a public source.
 

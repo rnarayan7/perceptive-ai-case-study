@@ -6,7 +6,7 @@ softer question "is this good analysis" against a documented rubric: is it groun
 specific, well-calibrated, does it cover the key question, and is it internally
 consistent. A judge model scores each rubric dimension 1-5 with a short justification.
 
-The rubric lives in ``evals/rubrics/analysis_quality.md`` and is a DRAFT pending analyst
+The rubric dimensions are defined in this module and are a DRAFT pending analyst
 sign-off. Same honesty caveats as faithfulness apply, and then some:
 
 - **Uncalibrated.** ``calibrated=False`` in params. Until the judge's 1-5 scores are
@@ -29,8 +29,7 @@ from memo.analysis.model import ModelClient
 from memo.eval.base import Evaluator
 from memo.eval.types import CaseResult, EvalReport, mean
 
-# The scored rubric dimensions. Names and anchors are documented in
-# evals/rubrics/analysis_quality.md; keep the two in sync.
+# The scored rubric dimensions. Names and anchors are defined in this module.
 _DIMENSIONS: Tuple[str, ...] = (
     "evidence_grounding",
     "specificity",
@@ -142,7 +141,7 @@ class QualityEvaluator(Evaluator):
             params={
                 "module": self.analysis.module,
                 "dimensions": len(case_results),
-                "rubric": "evals/rubrics/analysis_quality.md (DRAFT)",
+                "rubric": "analysis_quality (DRAFT)",
                 "overall_comment": comment,
                 "judge_input_tokens": usage.get("input_tokens", 0),
                 "judge_output_tokens": usage.get("output_tokens", 0),

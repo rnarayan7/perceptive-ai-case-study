@@ -25,7 +25,7 @@ cd frontend && npm install && cd ..
 echo "ANTHROPIC_API_KEY=sk-ant-..." >> investment-memo/.env
 # echo "ALPHAVANTAGE_API_KEY=..."    >> investment-memo/.env   # optional
 
-# Stage 1 is pure Python standard library — no install needed.
+# Stage 1 model-free path needs no install; `pip install anthropic` for the vision extractors.
 ```
 
 ## Run
@@ -59,7 +59,7 @@ One full memo run is ~$0.40 on `claude-sonnet-5` (the default in `scripts/memo.s
 | `docs/` | design spec + the case-study briefs |
 
 ## Design & limitations
-- Stage 2 architecture: `investment-memo/docs/investment-memo-architecture.md`
-- Web app build spec: `docs/webapp-build-spec.md`
-- Stage 1 design: `figure-extraction/docs/stage1-design.md`
+- Per-stage run guides: `figure-extraction/README.md`, `investment-memo/README.md`
+- Stage 1 approach and results: `figure-extraction/docs/stage1-approach.html`
+- Stage 2 approach and recap: `investment-memo/docs/stage2-approach.html`
 - Deferred work / known limitations / where it's unreliable: `investment-memo/docs/follow-ups.md`
