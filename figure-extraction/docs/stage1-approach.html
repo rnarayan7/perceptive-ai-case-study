@@ -277,7 +277,7 @@
   <header class="page">
     <span class="eyebrow">Stage 1 &middot; Figure extraction</span>
     <h1>Extracting values from biotech charts</h1>
-    <p class="lede col">Every number that matters in a readout is locked inside a picture. Median PFS, hazard ratios by subgroup, how many patients shrank past 30 percent: published as a chart, not as data. An analyst reads those by eye, one at a time. This measures them instead, and says when it should not be trusted.</p>
+    <p class="lede col">We are given multiple biotech chart types, each with different data. We aim to design a system that automatically pulls the correct values out of these clinical trial charts without human intervention.</p>
 
     <div class="metrics">
       <div class="metric">
@@ -302,7 +302,7 @@
   <section>
     <div class="head col">
       <span class="eyebrow">Why build it</span>
-      <h2>What would make this worth using rather than a demo</h2>
+      <h2>What makes technology valuable in a biotech hedge fund</h2>
     </div>
 
     <div class="two col" style="max-width: none">
@@ -324,16 +324,14 @@
       </div>
     </div>
 
-    <p class="col note" style="margin-top: var(--s4)">A few days of work against six figures. It shows the shape of the thing, and is not ready to put in front of an analyst tomorrow.</p>
+    <p class="col note" style="margin-top: var(--s4)">This demo is a work-in-progress, and is simply meant to show the art of the possible rather than function as a fully fledged system.</p>
   </section>
 
   <section>
     <div class="head col">
       <span class="eyebrow">Architecture</span>
-      <h2>The model is never asked to measure anything</h2>
+      <h2>Utilizing VLMs and deterministic computer vision algorithms to classify images</h2>
     </div>
-
-    <p class="col" style="color: var(--ink-soft); margin-bottom: var(--s4)">We use a vision model for the initial classification and deterministic CV for the exact reads, and the CV half can only run once the chart type and the structure of the chart are known.</p>
 
     <div class="two col" style="max-width: none">
       <div class="stack">
@@ -364,17 +362,12 @@
       <div class="step"><span class="i">05</span><div><strong>Verify.</strong> Structural invariants accept the reading or decline the figure.<span class="who">geometry</span></div></div>
     </div>
 
-    <ul class="plain col" style="margin-top: var(--s4)">
-      <li><strong>Why split it there.</strong> Asked to read values directly, the model scored 1.00 on the printed table and 2 of 6, 1 of 3 and 0 of 1 on the waterfall, forest and spider. Reliable on text, unreliable on magnitude.</li>
-      <li><strong>Geometry is exact and repeats, but it cannot recognise.</strong> Nothing in the pixels says the rule at column 546 is the null line.</li>
-      <li>Because each half is only asked for what it can actually do, a mistake in either one trips an invariant instead of coming back as a plausible number.</li>
-    </ul>
   </section>
 
   <section>
     <div class="head col">
       <span class="eyebrow">Results</span>
-      <h2>What measurement bought</h2>
+      <h2>Performance</h2>
     </div>
 
     <div class="tbl-wrap col">
@@ -384,7 +377,7 @@
           <tr>
             <th>Figure</th>
             <th class="num">Model only</th>
-            <th class="num">With measurement</th>
+            <th class="num">Model + CV</th>
           </tr>
         </thead>
         <tbody>
@@ -408,10 +401,11 @@
   <section>
     <div class="head col">
       <span class="eyebrow">Evaluation set</span>
-      <h2>Annotating more figures</h2>
+      <h2>Building our eval suite</h2>
     </div>
 
     <ul class="plain col">
+      <li>We started with the images provided in the case study prompt.</li>
       <li>Annotated additional real figures harvested from the PMC Open Access corpus, rather than scoring only against the six supplied ones.</li>
       <li>Every gold value carries provenance: taken from the source paper, derived from it, or an unverified read.</li>
       <li>The scored set grew from 22 values to 26, so the evaluation got harder while the score rose.</li>
@@ -472,6 +466,22 @@
 
   <section>
     <div class="head col">
+      <span class="eyebrow">Dead ends</span>
+      <h2>Other approaches trialed</h2>
+    </div>
+
+    <ul class="plain col">
+      <li><strong>Circular anchor check.</strong> It verified the model's anchor against the model's own value, so it accepted a 2x error.</li>
+      <li><strong>Containment check.</strong> It rejected a correct Kaplan-Meier axis that was fifteen pixels off.</li>
+      <li><strong>Interval-endpoint tie counter.</strong> It fired on the known-good calibration as readily as the wrong one.</li>
+      <li><strong>Chart-to-table model.</strong> All zeros on a nine-bar figure, and a 186-bar figure truncated to eighteen rows.</li>
+      <li><strong>Open-vocabulary object detector.</strong> Zero boxes at every prompt and threshold; chart bars are not objects in a photo-trained vocabulary.</li>
+      <li><strong>Connected-component segmentation for counting.</strong> Found 1 and 389 bars where a plain grid scan found 52 and 179.</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="head col">
       <span class="eyebrow">Areas of investment</span>
       <h2>Long-term vision</h2>
     </div>
@@ -483,7 +493,7 @@
   </section>
 
   <footer class="page">
-    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/figure-extraction">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>figure-extraction/</code>. The readers and invariants are in <code>evaluation/cv/</code>; <code>cv_config_auto.json</code> holds the derived calibrations.<br>
+    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/figure-extraction">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>figure-extraction/</code>. See <a href="https://github.com/rnarayan7/perceptive-ai-case-study/blob/main/QUICKSTART.md">QUICKSTART.md</a> for how to get started.<br>
     Tooling: Python, a hosted vision model for extraction and a smaller one for routing, pixel measurement in the standard library with no third-party dependencies. Public sources only, traced to source papers where stated and flagged unverified where not.
   </footer>
 
