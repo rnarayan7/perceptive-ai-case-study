@@ -29,7 +29,7 @@ echo "ANTHROPIC_API_KEY=sk-ant-..." >> investment-memo/.env
 ```
 
 ## Run
-Exact, copy-pasteable steps for running from a fresh clone are in [`RUNNING.md`](RUNNING.md).
+Exact, copy-pasteable steps for running from a fresh clone are in [`QUICKSTART.md`](QUICKSTART.md).
 
 ```bash
 scripts/backend.sh          # read API on http://127.0.0.1:8001 (serves the committed data)
