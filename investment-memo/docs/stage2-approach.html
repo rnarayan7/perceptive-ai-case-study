@@ -216,12 +216,12 @@
   <header class="page">
     <span class="eyebrow">Stage 2 &middot; Investment memo</span>
     <h1>Building a real-time investment analysis engine</h1>
-    <p class="lede col">Building an investment platform that powers a biotech hedge fund as successful as Perceptive is a real challenge. It has to provide enough value, and be designed well enough, that investors use it as part of their research process rather than play with it as a fancy demo. This writes an investment memo on a drug company from public filings with no human step. Reference run: KYMR.</p>
+    <p class="lede col">Building an investment platform that powers a biotech hedge fund as successful as Perceptive is a real challenge. It has to provide enough value, and be designed well enough, that investors use it as part of their research process rather than play with it as a fancy demo. It writes an investment memo on a drug company from public filings, with no human step. Reference run: KYMR.</p>
 
     <div class="metrics">
       <div class="metric"><span class="n">5 / 5</span><span class="k">memos written end to end, no human step</span></div>
       <div class="metric"><span class="n">0</span><span class="k">cited sources that do not resolve to a passage</span></div>
-      <div class="metric"><span class="n">8</span><span class="k">checks, from retrieval hits to the judge itself</span></div>
+      <div class="metric"><span class="n">6</span><span class="k">checks, from retrieval hits to the judge itself</span></div>
       <div class="metric"><span class="n">BM25</span><span class="k">retrieval over a per-company corpus</span></div>
     </div>
   </header>
@@ -235,14 +235,14 @@
         <ul style="margin-top: var(--s1)">
           <li>Scrapes the open internet for information analysts do not uncover through standard searching.</li>
           <li>Evaluates newly available information every day. A new trial registration or filing gets parsed the moment it posts, rather than waiting for someone to read it.</li>
-          <li>Stress-tests theses against new data instantly, rather than requiring a human to reason through every scenario and update the memos by hand.</li>
+          <li>Checks a thesis against new data as it arrives, instead of a human working through each scenario and updating memos by hand.</li>
         </ul>
       </div>
       <div>
         <h3>It is auditable and understandable</h3>
         <ul style="margin-top: var(--s1)">
           <li>If Perceptive prides itself on being an impartial, value-focused investor, the technology should not introduce a bias of its own.</li>
-          <li>Every argument, dataset and estimate, retrieved or generated, traces back to its source material, so we know exactly what fed a decision.</li>
+          <li>Every argument, dataset and estimate, retrieved or generated, links back to its source, so we can see what fed a decision.</li>
           <li>If a regulator asks what went into the research process, there is a stack to show them.</li>
           <li>We can change how the models behave to trial different research hypotheses, so we know how we reached a conclusion rather than just what it was.</li>
         </ul>
@@ -274,7 +274,7 @@
       <ul>
         <li><strong>Deployed on Render</strong> as two services: a FastAPI read API and a Next.js web app.</li>
         <li><strong>Committed data snapshot</strong> (corpus, ledger, one memo per company), so the API and app run from a clone with no key. A key is only needed to write a new memo.</li>
-        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The only things off the shelf are the model API and <code>click</code>. Everything in the retrieval and grounding path is code that can be stepped through when a citation fails to resolve.</li>
+        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The memo engine's only off-the-shelf Python dependency is <code>click</code>; the read API and web app use FastAPI and Next.js. Everything in the retrieval and grounding path is code that can be stepped through when a citation fails to resolve.</li>
       </ul>
     </div>
   </section>
@@ -286,7 +286,8 @@
       <li>The tokenizer keeps drug codes like <code>KT-621</code> whole, so an asset query matches the passages that name it instead of splitting on the hyphen.</li>
       <li>Several queries per question return a labeled evidence set, <span class="k">at most 14 passages</span>, for the model to read.</li>
       <li>The model may cite only IDs in that set, and every one of them resolves to a real passage. If a citation does not resolve, the claim does not ship.</li>
-      <li><strong>Getting the right document back is mostly solved; picking the right line off it is not.</strong> A filing page will list several revenue figures or several trials, and the harder job is choosing the one the question is actually about. A later eval scoring hit@1 turned up cases where a mechanism term pulls up the wrong asset's trial, which is the sharpest version of that problem.</li>
+      <li><strong>Retrieval usually returns the right document. The open problem is picking the right line off it.</strong> A filing page lists several revenue figures or several trials, and the model has to choose the one the question is about. An eval scoring hit@1 found cases where a mechanism term pulls up the wrong asset's trial.</li>
+      <li>The retriever is hybrid-capable (dense embeddings and a reranker are wired in), but v1 ships lexical BM25 only.</li>
     </ul>
   </section>
 
@@ -316,7 +317,7 @@
       <ul>
         <li>Faithfulness uses a model to read a model, so on its own it can flatter what it grades.</li>
         <li><strong>Known-answer probes</strong> check whether the judge gets clear cases right.</li>
-        <li><strong>Known-bad</strong> feeds it a memo with the evidence shuffled and requires the score to drop by a clear margin. If a scrambled memo scores as well as a real one, the judge measures nothing, so this runs first.</li>
+        <li><strong>Known-bad</strong> feeds it a memo with the evidence shuffled and requires the score to drop by a clear margin. A scrambled memo that still scored well would mean the judge measures nothing, so this check runs first to make sure we are reducing the rate of generating false-positive memos.</li>
         <li><strong>Calibration</strong> compares the judge's verdicts to a human's and reports the agreement as a number.</li>
         <li><strong>A case the checks caught:</strong> a population cited to a real source, but the prevalence of the wrong indication that read cleaner nearby. The epi check now adds a plausibility band and an over-aggregation detector, so a real-but-wrong number gets flagged.</li>
       </ul>
@@ -330,30 +331,29 @@
     <div class="head col"><span class="eyebrow">Follow-ups</span><h2>The valuation math is an area we would invest more into</h2></div>
     <ul class="col" style="margin-bottom: var(--s3)">
       <li>The arithmetic is deterministic and repeats. The inputs and the modeling are what need work.</li>
-      <li>Retrieval and grounding are not what is holding this back; the modeling is.</li>
     </ul>
     <ul class="col">
       <li><strong>Two peak-sales inputs are guesses.</strong> Penetration and net price are the two biggest multipliers and both are assumed, so the result swings on them.</li>
       <li><strong>The data to fix one is already ingested.</strong> CMS ASP and Medicaid NADAC are in the corpus but not read into net price, and there is no list-to-net bridge.</li>
       <li><strong>Success probability is coarse.</strong> Applied once in the NPV, which is right, but the modeling behind it is thin.</li>
-      <li><strong>The NPV covers the lead asset only,</strong> so it understates the company. Treat it as a floor.</li>
+      <li><strong>The NPV covers the lead asset only,</strong> so it understates the company and should be read as a floor.</li>
     </ul>
   </section>
 
   <section>
     <div class="head col"><span class="eyebrow">Long-term vision</span><h2>Where this goes</h2></div>
     <ul class="col">
-      <li><strong>From one memo to live coverage.</strong> Re-run on each new filing or readout so the memo updates itself and flags exactly what changed and why.</li>
-      <li><strong>Coverage across a universe.</strong> Rank and compare many companies at once, surfacing where the model's view diverges most from the market's.</li>
-      <li><strong>A valuation you can defend.</strong> Gross-to-net pricing, penetration drawn from real analog launches, and a sum-of-parts across the pipeline, so the number is something you could take into an IC meeting and argue.</li>
-      <li><strong>Figures inside the argument.</strong> Insert and annotate the actual chart a claim rests on, wiring Stage 1 into the memo.</li>
-      <li><strong>An evaluation you trust.</strong> A held-out labeled set and standing human calibration. Right now a good score mostly tells you the harness ran.</li>
-      <li><strong>The analyst in the loop.</strong> Turn the comment and feedback trail into signal for where the memo is wrong, and feed it back.</li>
+      <li><strong>Update on every filing.</strong> Re-run when a new filing or readout posts, so the memo refreshes and flags what changed.</li>
+      <li><strong>Cover a whole universe.</strong> Rank and compare many companies at once, and surface where the model's view diverges most from the market's.</li>
+      <li><strong>Better valuation inputs.</strong> Gross-to-net pricing, penetration drawn from real analog launches, and a sum-of-parts across the pipeline, so the number holds up in an IC meeting.</li>
+      <li><strong>Wire in the figures.</strong> Pull the actual chart a claim rests on into the memo, using Stage 1.</li>
+      <li><strong>A held-out eval set.</strong> Plus standing human calibration. Today's scores mostly confirm the harness ran; they do not yet measure whether the memo is right.</li>
+      <li><strong>Use analyst feedback.</strong> Turn the comment and feedback trail into corrections, and feed those back in.</li>
     </ul>
   </section>
 
   <footer class="page">
-    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/investment-memo">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>investment-memo/</code>. Retrieval and grounding in <code>memo/rag/</code>, the evaluation harness in <code>evals/</code>.<br>
+    Code: <a href="https://github.com/rnarayan7/perceptive-ai-case-study/tree/main/investment-memo">github.com/rnarayan7/perceptive-ai-case-study</a>, under <code>investment-memo/</code>. Retrieval and grounding in <code>memo/rag/</code>, the eval harness in <code>memo/eval/</code>, labeled eval sets in <code>evals/</code>.<br>
     Reference run KYMR (KT-621, oral STAT6 degrader in atopic dermatitis): neutral-to-constructive into a 2026 Phase 2b readout. Tooling: Python, a hosted language model API for reading and drafting; public sources only (SEC EDGAR, ClinicalTrials.gov, PubMed, Europe PMC, openFDA, Orphanet, CDC, CMS). About $0.40 a run.
   </footer>
 
