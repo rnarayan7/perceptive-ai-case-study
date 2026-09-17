@@ -76,49 +76,37 @@
   .wrap { max-width: 78rem; margin: 0 auto; padding: var(--s5) var(--s4) var(--s7); }
   .col { max-width: var(--measure); }
 
-  h1, h2, h3 {
+  h1 {
     font-family: Newsreader, ui-serif, Georgia, serif;
-    text-wrap: balance;
-    margin: 0;
-    font-weight: 500;
-    letter-spacing: -0.01em;
+    text-wrap: balance; margin: 0; font-weight: 500; letter-spacing: -0.01em;
+    font-size: clamp(1.9rem, 3.8vw, 2.5rem); line-height: 1.12;
   }
-  h1 { font-size: clamp(1.9rem, 3.8vw, 2.5rem); line-height: 1.12; }
-  h2 { font-size: clamp(1.3rem, 2.2vw, 1.6rem); line-height: 1.22; }
   h3 {
-    font-size: 1.04rem;
     font-family: "IBM Plex Sans", sans-serif;
-    font-weight: 600;
-    letter-spacing: 0;
+    margin: 0; font-weight: 600; font-size: 1.04rem;
   }
   p { margin: 0; }
   p + p { margin-top: var(--s3); }
 
   .eyebrow {
     font-family: "IBM Plex Mono", ui-monospace, monospace;
-    font-size: .715rem;
-    font-weight: 500;
-    letter-spacing: .13em;
-    text-transform: uppercase;
-    color: var(--accent);
+    font-size: .715rem; font-weight: 500; letter-spacing: .13em;
+    text-transform: uppercase; color: var(--accent);
   }
 
   .lede { font-size: 1.06rem; line-height: 1.56; color: var(--ink-soft); }
 
   .stack   { display: flex; flex-direction: column; gap: var(--s3); }
   .stack-l { display: flex; flex-direction: column; gap: var(--s4); }
+  p, li { color: var(--ink-soft); }
 
   header.page {
     display: flex; flex-direction: column; gap: var(--s3);
-    padding-bottom: var(--s4);
-    border-bottom: 2px solid var(--ink);
+    padding-bottom: var(--s4); border-bottom: 2px solid var(--ink);
   }
 
   section { padding-top: var(--s6); }
-  section > .head {
-    display: flex; flex-direction: column; gap: var(--s2);
-    margin-bottom: var(--s4);
-  }
+  section > .head { margin-bottom: var(--s3); }
 
   .metrics {
     display: grid;
@@ -136,27 +124,9 @@
   .metric .n {
     font-family: "IBM Plex Mono", monospace;
     font-size: 1.55rem; font-weight: 500; line-height: 1;
-    font-variant-numeric: tabular-nums;
-    color: var(--accent);
+    font-variant-numeric: tabular-nums; color: var(--accent);
   }
   .metric .k { font-size: .82rem; color: var(--muted); line-height: 1.35; }
-
-  .subtasks {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
-    gap: var(--s3);
-    margin-top: var(--s3);
-  }
-  .subtask {
-    border-top: 2px solid var(--rule-strong);
-    padding-top: var(--s2);
-  }
-  .subtask .t {
-    font-family: "IBM Plex Mono", monospace;
-    font-size: .74rem; letter-spacing: .07em; text-transform: uppercase;
-    color: var(--accent); display: block; margin-bottom: var(--s1);
-  }
-  .subtask p { font-size: .92rem; color: var(--ink-soft); }
 
   .pipe { display: flex; flex-direction: column; margin-top: var(--s2); }
   .step {
@@ -167,14 +137,15 @@
   .step .i {
     font-family: "IBM Plex Mono", monospace;
     font-size: .78rem; font-weight: 600; color: var(--accent);
-    padding-top: .28rem; font-variant-numeric: tabular-nums;
+    padding-top: .18rem; font-variant-numeric: tabular-nums;
   }
   .step .who {
     font-family: "IBM Plex Mono", monospace;
     font-size: .72rem; letter-spacing: .07em; text-transform: uppercase;
     color: var(--muted); display: block; margin-top: var(--s1);
   }
-  .step p { font-size: .95rem; color: var(--ink-soft); margin-top: var(--s2); }
+  .step .b { color: var(--ink); font-weight: 600; }
+  .step div { font-size: .95rem; color: var(--ink-soft); }
 
   .tbl-wrap { overflow-x: auto; }
   table { width: 100%; border-collapse: collapse; font-size: .92rem; }
@@ -196,57 +167,9 @@
     font-variant-numeric: tabular-nums; text-align: right;
     padding-right: 1.2rem; white-space: nowrap;
   }
+  td { color: var(--ink-soft); }
   tbody tr:last-child td { border-bottom: none; }
-  tr.total td { border-top: 1px solid var(--rule-strong); font-weight: 600; }
-
-  .tag {
-    font-family: "IBM Plex Mono", monospace;
-    font-size: .7rem; font-weight: 600; letter-spacing: .05em;
-    text-transform: uppercase; padding: .12rem .42rem;
-    border-radius: 2px; white-space: nowrap;
-  }
-  .tag.pass { color: var(--pass); background: var(--accent-soft); }
-  .tag.fail { color: var(--fail); background: color-mix(in srgb, var(--fail) 13%, transparent); }
-
-  .ledger {
-    background: var(--surface-sunk);
-    border-left: 3px solid var(--accent);
-    padding: var(--s3);
-    font-family: "IBM Plex Mono", monospace;
-    font-size: .8rem; line-height: 1.75;
-    overflow-x: auto; white-space: pre; color: var(--ink-soft);
-  }
-  .ledger .ok { color: var(--pass); }
-  .ledger .no { color: var(--fail); }
-  .ledger .dim { color: var(--muted); }
-
-  .finding {
-    display: flex; flex-direction: column; gap: var(--s2);
-    padding: var(--s4) 0; border-top: 1px solid var(--rule);
-  }
-  .finding:last-of-type { border-bottom: 1px solid var(--rule); }
-  .finding .label {
-    font-family: "IBM Plex Mono", monospace;
-    font-size: .715rem; letter-spacing: .1em; text-transform: uppercase;
-    color: var(--muted);
-  }
-  .finding p { max-width: var(--measure); color: var(--ink-soft); }
-
-  .swap {
-    display: inline-flex; align-items: baseline; gap: .55rem; flex-wrap: wrap;
-    font-family: "IBM Plex Mono", monospace;
-    font-size: .88rem; font-variant-numeric: tabular-nums; margin-top: var(--s1);
-  }
-  .swap .was { color: var(--muted); text-decoration: line-through; }
-  .swap .now { color: var(--accent); font-weight: 600; }
-  .swap .ar  { color: var(--rule-strong); }
-  .swap .cap { color: var(--muted); text-decoration: none; }
-
-  .note {
-    border-left: 2px solid var(--rule-strong);
-    padding-left: var(--s3); color: var(--muted);
-    font-size: .93rem; max-width: var(--measure);
-  }
+  tr.total td { border-top: 1px solid var(--rule-strong); font-weight: 600; color: var(--ink); }
 
   .two {
     display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
@@ -254,8 +177,22 @@
   }
 
   ul.plain { margin: 0; padding-left: 1.1rem; }
-  ul.plain li { margin-bottom: var(--s2); color: var(--ink-soft); }
+  ul.plain li { margin-bottom: var(--s2); }
   ul.plain li:last-child { margin-bottom: 0; }
+
+  ol.ideas { margin: 0; padding-left: 1.4rem; }
+  ol.ideas > li { margin-bottom: var(--s3); color: var(--ink); font-weight: 600; }
+  ol.ideas > li:last-child { margin-bottom: 0; }
+  ol.ideas > li::marker { color: var(--accent); font-family: "IBM Plex Mono", monospace; }
+  ol.ideas ul { margin: var(--s1) 0 0; padding-left: 1.05rem; list-style: none; }
+  ol.ideas ul li {
+    font-weight: 400; color: var(--ink-soft); margin-bottom: var(--s1);
+    position: relative; padding-left: .95rem;
+  }
+  ol.ideas ul li::before {
+    content: "\2014"; position: absolute; left: 0; color: var(--rule-strong);
+  }
+  ol.ideas ul ul { margin-top: var(--s1); }
 
   code {
     font-family: "IBM Plex Mono", monospace; font-size: .88em;
@@ -277,7 +214,7 @@
   <header class="page">
     <span class="eyebrow">Stage 1 &middot; Figure extraction</span>
     <h1>Extracting values from biotech charts</h1>
-    <p class="lede col">We are given multiple biotech chart types, each with different data. We aim to design a system that automatically pulls the correct values out of these clinical trial charts without human intervention.</p>
+    <p class="lede col">This problem focuses on extraction of values for different biotech chart types.</p>
 
     <div class="metrics">
       <div class="metric">
@@ -285,12 +222,12 @@
         <span class="k">of values within tolerance, mean of five runs</span>
       </div>
       <div class="metric">
-        <span class="n">0.64 to 0.92</span>
-        <span class="k">what adding measurement bought on one run</span>
+        <span class="n">5/6</span>
+        <span class="k">figures classified to the right chart type</span>
       </div>
       <div class="metric">
-        <span class="n">5/6</span>
-        <span class="k">figures routed to the right reader</span>
+        <span class="n">6</span>
+        <span class="k">biotech chart types read</span>
       </div>
       <div class="metric">
         <span class="n">$0.30</span>
@@ -300,79 +237,34 @@
   </header>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Why build it</span>
-      <h2>What makes technology valuable in a biotech hedge fund</h2>
+    <div class="head col"><span class="eyebrow">Approach</span></div>
+    <div class="col stack">
+      <p>A challenge like this is a classic problem in computer vision. There have been countless studies and packages that focus on classification of each individual chart type listed in the problem statement. If one were to break each classification task into different subtasks, the subtasks would be: entity recognition, bounded box highlighting, and graph point clustering. Each one of these subtasks has a rich history of research focused on it in classical machine learning.</p>
+      <p>However, rather than diving into research and building bespoke classification systems for each image type, my general approach is to build infrastructure to utilize the latest models to classify the images, and later focus on building bespoke, specialized systems when necessary.</p>
+      <p>There are two key components to building a strong generalized classification system: models used for classification, and an evaluation dataset.</p>
     </div>
-
-    <div class="two col" style="max-width: none">
-      <div class="stack">
-        <h3>It does things an analyst cannot do by hand</h3>
-        <ul class="plain">
-          <li>Measure 186 bars off a waterfall and count how many clear a threshold.</li>
-          <li>Read every figure in a paper the day it posts, for about thirty cents.</li>
-          <li>Re-measure everything when the key changes. Most of what first looked like measurement error was the harness discarding correct values.</li>
-        </ul>
-      </div>
-      <div class="stack">
-        <h3>It is auditable</h3>
-        <ul class="plain">
-          <li>Each number comes from a pixel position and an axis. The conversion is arithmetic, so it repeats exactly.</li>
-          <li>Confidence comes from structural checks that need no answer key, so the system can decline instead of guessing.</li>
-          <li>Each value records where it came from: read from the paper, derived from it, or an unverified read. 13 of the 27 are unverified, and this says so.</li>
-        </ul>
-      </div>
-    </div>
-
-    <p class="col note" style="margin-top: var(--s4)">This demo is a work-in-progress, and is simply meant to show the art of the possible rather than function as a fully fledged system.</p>
   </section>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Architecture</span>
-      <h2>Utilizing VLMs and deterministic computer vision algorithms to classify images</h2>
-    </div>
-
-    <div class="two col" style="max-width: none">
-      <div class="stack">
-        <h3>What the vision model does</h3>
-        <ul class="plain">
-          <li>Classifies the figure.</li>
-          <li>Finds structure: panels, legend, series.</li>
-          <li>Reads printed text: axis labels, reference lines, patient counts.</li>
-          <li>Never returns a magnitude it had to measure.</li>
-        </ul>
-      </div>
-      <div class="stack">
-        <h3>What deterministic CV does</h3>
-        <ul class="plain">
-          <li>Locates rules, ticks and plot edges as pixel rows and columns.</li>
-          <li>Traces each series by colour, finding bar tips, marker centres and whisker ends.</li>
-          <li>Converts pixel positions through the axis, linear or log, into values.</li>
-          <li><strong>Never decides what a position means.</strong> It cannot tell a tick from a letter stem.</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="pipe col" style="margin-top: var(--s4); max-width: 64ch">
-      <div class="step"><span class="i">01</span><div><strong>Route.</strong> Figure type from the image, by a smaller model.<span class="who">model</span></div></div>
-      <div class="step"><span class="i">02</span><div><strong>Read structure.</strong> Panels, legend, series names, what each reference line marks, the printed N, the axis labels and the values they carry.<span class="who">model</span></div></div>
-      <div class="step"><span class="i">03</span><div><strong>Calibrate.</strong> Two labelled positions become an axis. Candidates enumerated by geometry, chosen by the model, accepted or rejected by invariants.<span class="who">both, in a loop</span></div></div>
-      <div class="step"><span class="i">04</span><div><strong>Measure.</strong> Bar tips, curve heights, marker centres and whisker ends, converted through that axis.<span class="who">geometry</span></div></div>
-      <div class="step"><span class="i">05</span><div><strong>Verify.</strong> Structural invariants accept the reading or decline the figure.<span class="who">geometry</span></div></div>
-    </div>
-
+    <div class="head col"><span class="eyebrow">Eval dataset</span></div>
+    <p class="col">Starting with the evaluation dataset, for this, we utilized the images given, as well as added some more annotated images to round out our dataset. The images were fetched from public datasets and are linked in the appendix.</p>
   </section>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Results</span>
-      <h2>Performance</h2>
+    <div class="head col"><span class="eyebrow">Models</span></div>
+    <div class="col stack">
+      <p>For selecting models, in most cases the likely correct answer is to throw it at a vision-language model provided by one of the model providers (Claude, ChatGPT). Vision-language models, like large language models, are actually an example of deep learning rather than classical machine learning. Internally, they chunk up images into small &ldquo;tokens&rdquo; and use them to understand the image passed to them, as well as generate new images. Since they can be used along with large-language models, they are the most versatile of models to start with.</p>
+      <p>Classic computer vision algorithms focus much more on tightly bounded problems like edge detection, bounded box highlighting, and so on. These can be valuable to us if used in the correct way. Not to mention, classic computer vision uncovered a number of necessary steps for improving classification accuracy like image preprocessing, pixel expansion, and so on.</p>
     </div>
+  </section>
 
-    <div class="tbl-wrap col">
+  <section>
+    <div class="head col"><span class="eyebrow">Initial results</span></div>
+    <p class="col">In terms of initial results. The VLM on its own performed well on some cases and badly on others. It correctly parsed Figure 5 (the results table) and performed well on Figure 1 (the Kaplan-Meier curve) and reasonably well on Figure 3 (the drug concentration plot). However, for Figures 2, 4, and 6, which all had bar charts and plots, the VLM struggled, correctly answering only about a third of the values on the waterfall and forest and none on the spider. Knowing this, we had to build a more specialized solution for these charts.</p>
+
+    <div class="tbl-wrap col" style="margin-top: var(--s4)">
       <table>
-        <caption>One run each. Read the five-run means below, not this column.</caption>
+        <caption>Values within tolerance, one run each. The mean across five runs is 0.877.</caption>
         <thead>
           <tr>
             <th>Figure</th>
@@ -382,113 +274,116 @@
         </thead>
         <tbody>
           <tr><td>5. Results table</td><td class="num">1.00</td><td class="num">1.00</td></tr>
-          <tr><td><strong>1. Kaplan-Meier</strong></td><td class="num">1.00</td><td class="num"><strong>1.00</strong></td></tr>
+          <tr><td>1. Kaplan-Meier</td><td class="num">1.00</td><td class="num">1.00</td></tr>
           <tr><td>3. PK, log scale</td><td class="num">0.75</td><td class="num">0.75</td></tr>
-          <tr><td><strong>2. Waterfall</strong></td><td class="num">0.33</td><td class="num"><strong>0.83</strong></td></tr>
-          <tr><td><strong>4. Forest</strong></td><td class="num">0.33</td><td class="num"><strong>1.00</strong></td></tr>
-          <tr><td><strong>6. Spider</strong></td><td class="num">0.00</td><td class="num"><strong>1.00</strong></td></tr>
+          <tr><td>2. Waterfall</td><td class="num">0.33</td><td class="num">0.83</td></tr>
+          <tr><td>4. Forest</td><td class="num">0.33</td><td class="num">1.00</td></tr>
+          <tr><td>6. Spider</td><td class="num">0.00</td><td class="num">1.00</td></tr>
           <tr class="total"><td>This run, 26 scored values</td><td class="num">0.64</td><td class="num">0.92</td></tr>
         </tbody>
       </table>
     </div>
+  </section>
 
-    <ul class="plain col" style="margin-top: var(--s3)">
-      <li>Five hand-calibrated runs: 0.877 mean within tolerance, router 5 of 6, interval coverage 1.0, calibration error 0.305.</li>
-      <li>$0.2997 per suite run, every model call included.</li>
+  <section>
+    <div class="head col"><span class="eyebrow">Architecture</span></div>
+    <p class="col">I ended up trialing a number of approaches but ended up settling on a two-step architecture utilizing VLMs + deterministic computer vision.</p>
+
+    <p class="col" style="margin-top: var(--s3)">The process looked like the following:</p>
+    <div class="pipe col" style="max-width: 66ch">
+      <div class="step"><span class="i">01</span><div>VLM reads the image and extracts text/numbers out of it, which it does well</div></div>
+      <div class="step"><span class="i">02</span><div>VLM provides context on understanding of chart type to do calibration of axis</div></div>
+      <div class="step"><span class="i">03</span><div>Model passes calibration from VLM to deterministic computer vision model</div></div>
+      <div class="step"><span class="i">04</span><div>Deterministic computer vision model extracts bar lengths from image and reports numbers</div></div>
+      <div class="step"><span class="i">05</span><div>Both results are verified against final dataset, one with just VLM, one with VLM + deterministic CV</div></div>
+    </div>
+
+    <p class="col" style="margin-top: var(--s4)">VLM + deterministic CV was the better approach, yet we have a long way to go before it&rsquo;s a truly generalizable system.</p>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Challenges</span></div>
+    <p class="col">There are a number of specific challenges that we ran into that still caused issues. Here are some of them:</p>
+    <ul class="plain col" style="margin-top: var(--s2)">
+      <li>Some images were too sparsely pixelated for the model to clearly see the difference between two bars</li>
+      <li>Some bars were too densely packed for the model to be able to identify the start of one versus the end of another</li>
+      <li>Some bars had different colors that were not explained by the chart legend, which made it difficult for the model (and even human) to interpret the correct answer</li>
     </ul>
   </section>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Evaluation set</span>
-      <h2>Building our eval suite</h2>
-    </div>
+    <div class="head col"><span class="eyebrow">Improving the system</span></div>
 
-    <ul class="plain col">
-      <li>We started with the images provided in the case study prompt.</li>
-      <li>Annotated additional real figures harvested from the PMC Open Access corpus, rather than scoring only against the six supplied ones.</li>
-      <li>Every gold value carries provenance: taken from the source paper, derived from it, or an unverified read.</li>
-      <li>The scored set grew from 22 values to 26, so the evaluation got harder while the score rose.</li>
-    </ul>
-  </section>
-
-  <section>
-    <div class="head col">
-      <span class="eyebrow">Triage</span>
-      <h2>What could run unattended</h2>
-    </div>
-
-    <div class="tbl-wrap col">
-      <table>
-        <thead>
-          <tr><th>Tier</th><th class="num">Share</th><th>What falls here</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>Unattended, high confidence</td><td class="num">~37%</td><td>Table cells, KM medians, PK threshold and crossing, waterfall counts</td></tr>
-          <tr><td>Analyst review</td><td class="num">~44%</td><td>KM landmarks, waterfall proportions and depths, forest values, table reasoning</td></tr>
-          <tr><td>Cannot resolve to a point</td><td class="num">~19%</td><td>Spider conversion, anything the figure does not carry</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <ul class="plain col" style="margin-top: var(--s3)">
-      <li>Intended routing, not a measured property.</li>
-      <li>It rests on disagreement between two reads predicting error. Across two runs that correlation came out r = 0.968 then r = &minus;0.093, so validating the trigger is the biggest gap between this and something deployable.</li>
-    </ul>
-  </section>
-
-  <section>
-    <div class="head col">
-      <span class="eyebrow">Limits</span>
-      <h2>Where it fails</h2>
-    </div>
-
-    <div class="two col" style="max-width: none">
+    <div class="col stack-l">
       <div class="stack">
-        <h3>In the system</h3>
+        <p>Given these challenges, if we endeavor to improve the system, this is how we should go about it. There are two fundamental components to further improving our classification:</p>
         <ul class="plain">
-          <li><strong>Left edge truncation</strong> gives bad leftmost values and a 4% undercount, since sorting puts the deepest bars at the clipped edge.</li>
-          <li><strong>Runs are not reproducible.</strong> Five runs of the same configuration ranged 0.731 to 0.923, because the reader intermittently emits nothing for the table, once dropping eight values.</li>
-          <li><strong>Density ceiling.</strong> At 186 bars the count is short by seven. Below about 60, counts land exactly.</li>
+          <li>Eval datasets</li>
+          <li>Different architectures</li>
         </ul>
       </div>
+
       <div class="stack">
-        <h3>In the evaluation</h3>
-        <ul class="plain">
-          <li><strong>Half the key is a manual read.</strong> 14 of 27 values come from public sources. The other 13, including all three forest values, were never published, so those scores measure agreement with a manual read rather than with a source.</li>
-          <li><strong>Six figures is not evidence of generality.</strong> A held-out set would tell us more than another point of accuracy on these six.</li>
-          <li><strong>Confidence drifts the wrong way.</strong> Calibration error rose to 0.305 as accuracy improved, because low-confidence answers keep turning out correct.</li>
-          <li><strong>Single runs are noise.</strong> A forest improvement reported off one sample did not survive three repeats, so any figure quoted from one run needs repeating before it means anything.</li>
-        </ul>
+        <h3>Eval datasets</h3>
+        <p>Eval datasets are necessary for fundamentally improving this system over time. The main way we can improve our eval datasets is performing some human data labelling of images and adding more to our corpus of data. This way we can trial multiple approaches and confirm their performance on a wide set of images. This is a time-intensive, and admittedly boring first step to improving the performance of our system. We could take advantage of systems like Mechanical Turk (powered by Amazon) or Scale AI to acquire vast sets of correctly labeled images, but to a certain extent, the developer training this system will have to do some amount of manual verification to improve the amount of images in our corpus. However, with a full corpus, we have a ton of flexibility to attempt a number of interesting ideas, which I&rsquo;ll cover in the next section.</p>
+      </div>
+
+      <div class="stack">
+        <h3>Different architectures</h3>
+        <p>For different architectural approaches, there are a lot of things that we haven&rsquo;t yet tried due to a lack of time. I will list out the ideas I&rsquo;ve had so far:</p>
+        <ol class="ideas">
+          <li>Loop engineering
+            <ul>
+              <li>Give the model some general context on the image and allow it to execute tool calls itself in a long loop</li>
+              <li>Give the model a sandbox and allow it to write its own code for classification of the image</li>
+            </ul>
+          </li>
+          <li>Multi-agent verification
+            <ul>
+              <li>Right now, we have a single agent produce one response, but nothing to verify. We could set up another agent to continually verify output from the first agent.</li>
+              <li>This can be repeated from a number of different vectors. One agent for value verification, one agent for validating that we matched the correct CV calibration to the correct image type. By ensuring that each of these agents have limited information in their context window, each of their &ldquo;judgment&rdquo; is clearer.</li>
+            </ul>
+          </li>
+          <li>Specialized ML models
+            <ul>
+              <li>Most of what we have done has been LLM calls + some deterministic CV code. We haven&rsquo;t used any specialized models trained on charts and graphs. The reason for this is that this is an expensive build from an engineering standpoint and requires significantly more compute to run. However, this can potentially yield better results if we, for example, used a model from HuggingFace&rsquo;s open repository of CV models.</li>
+            </ul>
+          </li>
+          <li>Image preprocessing
+            <ul>
+              <li>We tried some rudimentary image expansion, but nothing to the full level of what we could accomplish.</li>
+              <li>Some other things we could try:
+                <ul>
+                  <li>Pass image to a model with specific goal of sharpening image pixels and read only from the result</li>
+                  <li>Try different image codecs when passing into the VLM</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>CV templates
+            <ul>
+              <li>One other approach that I found quite effective midway through the project was utilizing pre-processed CV calibrations for each bar chart type. This had great performance until I realized that it was only going to work for these type of charts. In the real world with a broader set of chart formats, this sort of approach would fail.</li>
+              <li>However, if we managed to create a relatively exhaustive repository of CV calibrations to cover most of the chart types, we could have a model identify the calibration type from our list that we provide to it and match the image with the appropriate one. This could yield much better performance than trying to derive axes and other calibration details from scratch.</li>
+            </ul>
+          </li>
+        </ol>
       </div>
     </div>
   </section>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Dead ends</span>
-      <h2>Other approaches trialed</h2>
-    </div>
-
-    <ul class="plain col">
-      <li><strong>Circular anchor check.</strong> It verified the model's anchor against the model's own value, so it accepted a 2x error.</li>
-      <li><strong>Containment check.</strong> It rejected a correct Kaplan-Meier axis that was fifteen pixels off.</li>
-      <li><strong>Interval-endpoint tie counter.</strong> It fired on the known-good calibration as readily as the wrong one.</li>
-      <li><strong>Chart-to-table model.</strong> All zeros on a nine-bar figure, and a 186-bar figure truncated to eighteen rows.</li>
-      <li><strong>Open-vocabulary object detector.</strong> Zero boxes at every prompt and threshold; chart bars are not objects in a photo-trained vocabulary.</li>
-      <li><strong>Connected-component segmentation for counting.</strong> Found 1 and 389 bars where a plain grid scan found 52 and 179.</li>
-    </ul>
+    <div class="head col"><span class="eyebrow">Takeaway</span></div>
+    <p class="col">Overall, you can clearly see that there are a wealth of approaches to be tried to improve our system and build a truly generalizable image classification service for biotech charts. However, the key takeaway here is that we need to invest in a good foundation of evals to open the doors for us to try a number of approaches, and really help us nail down which are the most effective for this use case.</p>
   </section>
 
   <section>
-    <div class="head col">
-      <span class="eyebrow">Areas of investment</span>
-      <h2>Long-term vision</h2>
-    </div>
-
-    <ul class="plain col">
-      <li><strong>Annotate more images.</strong> Six figures is not enough to tell a working system from a curve fit.</li>
-      <li><strong>Train chart-specific CV calibration.</strong> Learn the axis and structure conventions per chart type instead of deriving them from scratch on every figure.</li>
+    <div class="head col"><span class="eyebrow">Appendix</span></div>
+    <p class="col">Annotated figures added to the eval set, pulled from the PMC Open Access corpus:</p>
+    <ul class="plain col" style="margin-top: var(--s2)">
+      <li><strong>PSA waterfall, three subgroups.</strong> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13280062/">PMC13280062</a></li>
+      <li><strong>Two waterfall panels, anlotinib plus ICIs vs single-agent chemotherapy.</strong> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13222604/">PMC13222604</a></li>
+      <li><strong>Waterfall of best tumour change, ASPS and UPS.</strong> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13117838/">PMC13117838</a></li>
+      <li><strong>Waterfall panel B, ICI rechallenge vs reintroduction.</strong> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12930161/">PMC12930161</a></li>
     </ul>
   </section>
 
