@@ -140,6 +140,45 @@
   }
   .metric .k { font-size: .8rem; color: var(--muted); line-height: 1.35; }
 
+  /* architecture diagram */
+  .arch { margin-top: var(--s2); }
+  .arch-sources {
+    font-family: "IBM Plex Mono", monospace; font-size: .72rem; color: var(--muted);
+    border: 1px dashed var(--rule-strong); border-radius: 5px;
+    padding: var(--s2) var(--s3); text-align: center; line-height: 1.6;
+  }
+  .arch-caret { text-align: center; color: var(--rule-strong); line-height: 1; margin: .3rem 0; }
+  .arch-flow { display: flex; align-items: stretch; gap: var(--s2); }
+  .arch-node {
+    flex: 1; min-width: 8rem; background: var(--surface);
+    border: 1px solid var(--rule); border-top: 3px solid var(--accent);
+    border-radius: 5px; padding: var(--s3);
+    display: flex; flex-direction: column; gap: var(--s1);
+  }
+  .arch-node .nt { font-weight: 600; color: var(--ink); font-size: .9rem; }
+  .arch-node .nd { font-size: .76rem; color: var(--muted); line-height: 1.4; }
+  .arch-arrow { align-self: center; color: var(--accent); font-weight: 600; }
+  .arch-eval {
+    margin-top: var(--s2); font-family: "IBM Plex Mono", monospace; font-size: .72rem;
+    color: var(--accent); background: var(--accent-soft); border-radius: 5px;
+    padding: var(--s2) var(--s3); text-align: center; line-height: 1.5;
+  }
+  @media (max-width: 32rem) {
+    .arch-flow { flex-direction: column; }
+    .arch-arrow { transform: rotate(90deg); }
+  }
+
+  /* source list */
+  .sources {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+    gap: 0 var(--s4); margin: var(--s3) 0 0; padding: 0; list-style: none;
+  }
+  .sources li {
+    margin: 0; padding: .38rem 0; border-bottom: 1px solid var(--rule);
+    max-width: none; font-size: .86rem; color: var(--ink-soft);
+  }
+  .sources li b { color: var(--ink); font-weight: 600; }
+
   .pipe { display: flex; flex-direction: column; margin: 0; }
   .step {
     display: grid; grid-template-columns: 1.9rem 1fr; gap: var(--s3);
@@ -153,6 +192,20 @@
   }
   .step .b { font-weight: 600; }
   .step .t { color: var(--ink-soft); font-size: .92rem; }
+
+  /* numbered RAG steps with sub-points */
+  ol.steps { margin: var(--s2) 0 0; padding-left: 1.4rem; }
+  ol.steps > li { margin-bottom: var(--s3); color: var(--ink); font-weight: 600; }
+  ol.steps > li:last-child { margin-bottom: 0; }
+  ol.steps > li::marker { color: var(--accent); font-family: "IBM Plex Mono", monospace; }
+  ol.steps ul { margin: var(--s1) 0 0; padding-left: 1rem; list-style: none; }
+  ol.steps ul li {
+    font-weight: 400; color: var(--ink-soft); margin-bottom: var(--s1);
+    position: relative; padding-left: .9rem; max-width: var(--measure);
+  }
+  ol.steps ul li::before { content: "\00B7"; position: absolute; left: .05rem; color: var(--accent); font-weight: 700; }
+  ol.steps ul li.fix { color: var(--muted); font-style: italic; }
+  ol.steps ul li.fix::before { color: var(--rule-strong); }
 
   .tbl-wrap { overflow-x: auto; }
   table { width: 100%; border-collapse: collapse; font-size: .9rem; }
@@ -182,9 +235,17 @@
     font-size: .9rem; max-width: var(--measure);
   }
 
+  .result { display: flex; flex-direction: column; gap: var(--s2); max-width: var(--measure); }
+  .result-row { display: grid; grid-template-columns: 12rem 1fr; gap: var(--s3); padding: var(--s2) 0; border-top: 1px solid var(--rule); }
+  .result-row:last-child { border-bottom: 1px solid var(--rule); }
+  .result-row .lbl { font-size: .82rem; color: var(--muted); }
+  .result-row .val { font-weight: 600; color: var(--ink); }
+
   ul { margin: 0; padding-left: 1.15rem; }
   li { margin-bottom: .45rem; color: var(--ink-soft); max-width: var(--measure); }
   li:last-child { margin-bottom: 0; }
+  .longform li { margin-bottom: var(--s3); }
+  .longform li:last-child { margin-bottom: 0; }
   li strong, li b { color: var(--ink); font-weight: 600; }
   li .k { color: var(--accent); font-family: "IBM Plex Mono", monospace; font-size: .82em; }
 
@@ -206,7 +267,7 @@
   @media print {
     .wrap { max-width: none; padding: .6rem 1rem; }
     body { font-size: 10.5px; }
-    header.page, section, .metrics, table, .pipe, ul { break-inside: avoid; }
+    header.page, section, .metrics, table, .pipe, ul, .arch { break-inside: avoid; }
     section { padding-top: 1.1rem; }
   }
 </style>
@@ -216,7 +277,7 @@
   <header class="page">
     <span class="eyebrow">Stage 2 &middot; Investment memo</span>
     <h1>Building a real-time investment analysis engine</h1>
-    <p class="lede col">Building an investment platform that powers a biotech hedge fund as successful as Perceptive is a real challenge. It has to provide enough value, and be designed well enough, that investors use it as part of their research process rather than play with it as a fancy demo. It writes an investment memo on a drug company from public filings, with no human step. Reference run: KYMR.</p>
+    <p class="lede col">Building an investment platform that powers a biotech hedge fund as successful as Perceptive is a real challenge. The platform needs to provide enough value and be well-designed enough so that investors utilize it as part of their research process rather than play around with it as a fancy demo.</p>
 
     <div class="metrics">
       <div class="metric"><span class="n">5 / 5</span><span class="k">memos written end to end, no human step</span></div>
@@ -227,68 +288,138 @@
   </header>
 
   <section>
-    <div class="head col"><span class="eyebrow">Why it is valuable</span><h2>The two things that make it a product rather than a toy</h2></div>
+    <div class="head col"><span class="eyebrow">Why it is valuable</span></div>
+
+    <p class="col" style="margin-bottom: var(--s3)">The key parts of the product that make it valuable are as follows:</p>
 
     <div class="col stack" style="gap: var(--s3)">
       <div>
-        <h3>It does things humans cannot</h3>
+        <h3>It does things humans can&rsquo;t</h3>
         <ul style="margin-top: var(--s1)">
-          <li>Scrapes the open internet for information analysts do not uncover through standard searching.</li>
-          <li>Evaluates newly available information every day. A new trial registration or filing gets parsed the moment it posts, rather than waiting for someone to read it.</li>
-          <li>Checks a thesis against new data as it arrives, instead of a human working through each scenario and updating memos by hand.</li>
+          <li>Scraping the open internet, getting information that analysts don&rsquo;t uncover with standard Google searching</li>
+          <li>Evaluating new available information every day, for ex. parsing a new clinical FDA trial instantly rather than requiring a human to manually go through to read it and understand it</li>
+          <li>Stress-testing numerous theses against new data instantly, rather than requiring a human to reason through all scenarios and update existing investment memos</li>
         </ul>
       </div>
       <div>
         <h3>It is auditable and understandable</h3>
         <ul style="margin-top: var(--s1)">
-          <li>If Perceptive prides itself on being an impartial, value-focused investor, the technology should not introduce a bias of its own.</li>
-          <li>Every argument, dataset and estimate, retrieved or generated, links back to its source, so we can see what fed a decision.</li>
-          <li>If a regulator asks what went into the research process, there is a stack to show them.</li>
-          <li>We can change how the models behave to trial different research hypotheses, so we know how we reached a conclusion rather than just what it was.</li>
+          <li>If Perceptive prides itself on being an impartial, value-focused investor, the technology we use should not introduce its own bias</li>
+          <li>Every argument/dataset/estimate that is either retrieved or generated should be traceable to its source material, so we can understand exactly what contributes to our eventual investment decision making</li>
+          <li>If a regulator comes and accuses us of using MNPI, we have an auditable stack to show what we&rsquo;ve used as part of our research process</li>
+          <li>We can modify our tools (GenAI models) behaviors to trial out different research hypotheses, so we clearly know how we come to the right conclusions</li>
         </ul>
       </div>
     </div>
 
     <ul class="col note" style="margin-top: var(--s3); border-left: 2px solid var(--rule-strong); padding-left: var(--s3); list-style-position: outside">
-      <li>Given those characteristics, I have architected the platform below.</li>
-      <li>This is three days of work and a demo of what is possible at a firm like Perceptive. The known gaps are covered further down.</li>
+      <li>Given these characteristics, I have architected the following platform. Keep in mind this is only 3 days of work and is merely a demo that shows what is the art of the possible within a firm like Perceptive. There are known gaps which are covered later in the report detailing where we can improve upon the existing systems.</li>
     </ul>
   </section>
 
   <section>
-    <div class="head col"><span class="eyebrow">Architecture</span><h2>The pipeline</h2></div>
-    <ul class="col" style="margin-bottom: var(--s3)">
-      <li>The model reads the evidence and writes the memo. Code does the arithmetic.</li>
-      <li>Evaluation is a separate pass, covered below.</li>
-    </ul>
-    <div class="pipe col" style="max-width: 64ch">
-      <div class="step"><span class="i">01</span><span class="t"><span class="b">Ingestion.</span> Filings, trials, labels, epidemiology, pricing, and literature from public APIs into a per-company corpus.</span></div>
-      <div class="step"><span class="i">02</span><span class="t"><span class="b">Retrieve (RAG).</span> A BM25 index over that corpus; several queries per question return a small labeled evidence set.</span></div>
-      <div class="step"><span class="i">03</span><span class="t"><span class="b">Compute.</span> The model pulls the cited parameters from that evidence, and code does the arithmetic (peak sales, NPV).</span></div>
-      <div class="step"><span class="i">04</span><span class="t"><span class="b">Generate memo.</span> Compose the cited memo from the analysis, or refuse if a required section has no grounded claim.</span></div>
-      <div class="step"><span class="i">05</span><span class="t"><span class="b">Serve.</span> A SQLite ledger records every memo, claim, and run; a read API and web app expose it.</span></div>
+    <div class="head col"><span class="eyebrow">Architecture</span><h2>The key components</h2></div>
+
+    <div class="arch col" style="max-width: none">
+      <div class="arch-sources">12 public sources &middot; SEC EDGAR &middot; ClinicalTrials.gov &middot; openFDA &middot; PubMed &middot; CMS &middot; NADAC &middot; &hellip;</div>
+      <div class="arch-caret">&#9660;</div>
+      <div class="arch-flow">
+        <div class="arch-node"><span class="nt">Ingestion</span><span class="nd">daily poll, normalize to documents</span></div>
+        <div class="arch-arrow">&#9656;</div>
+        <div class="arch-node"><span class="nt">Retrieval &middot; RAG</span><span class="nd">BM25 index, top passages</span></div>
+        <div class="arch-arrow">&#9656;</div>
+        <div class="arch-node"><span class="nt">Compute</span><span class="nd">peak sales, rNPV in Python</span></div>
+        <div class="arch-arrow">&#9656;</div>
+        <div class="arch-node"><span class="nt">Serve</span><span class="nd">API + web app, ledger</span></div>
+      </div>
+      <div class="arch-eval">Evaluation runs across the pipeline &middot; retrieval &middot; epi-grounding &middot; faithfulness &middot; known-bad &middot; calibration</div>
     </div>
 
-    <div class="col" style="margin-top: var(--s3)">
+    <div class="col" style="margin-top: var(--s4)">
       <h3>Deployment</h3>
       <ul>
         <li><strong>Deployed on Render</strong> as two services: a FastAPI read API and a Next.js web app.</li>
         <li><strong>Committed data snapshot</strong> (corpus, ledger, one memo per company), so the API and app run from a clone with no key. A key is only needed to write a new memo.</li>
-        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The memo engine's only off-the-shelf Python dependency is <code>click</code>; the read API and web app use FastAPI and Next.js. Everything in the retrieval and grounding path is code that can be stepped through when a citation fails to resolve.</li>
+        <li><strong>Built in-house:</strong> the BM25 retriever, the grounding and evaluation harness, and the ledger. The memo engine's only off-the-shelf Python dependency is <code>click</code>; the read API and web app use FastAPI and Next.js.</li>
+        <li><strong>Highlight and comment.</strong> In the web app an analyst can highlight any passage of a memo and leave a comment on it. A short intake agent captures the note and writes it to the ledger, so every piece of feedback is recorded and traceable.</li>
       </ul>
     </div>
   </section>
 
   <section>
-    <div class="head col"><span class="eyebrow">Retrieval &middot; RAG</span><h2>Pulling the evidence</h2></div>
-    <ul class="col">
-      <li>BM25 over the ingested corpus: filings, trials, labels, epidemiology, pricing, literature.</li>
-      <li>The tokenizer keeps drug codes like <code>KT-621</code> whole, so an asset query matches the passages that name it instead of splitting on the hyphen.</li>
-      <li>Several queries per question return a labeled evidence set, <span class="k">at most 14 passages</span>, for the model to read.</li>
-      <li>The model may cite only IDs in that set, and every one of them resolves to a real passage. If a citation does not resolve, the claim does not ship.</li>
-      <li><strong>Retrieval usually returns the right document. The open problem is picking the right line off it.</strong> A filing page lists several revenue figures or several trials, and the model has to choose the one the question is about. An eval scoring hit@1 found cases where a mechanism term pulls up the wrong asset's trial.</li>
-      <li>The retriever is hybrid-capable (dense embeddings and a reranker are wired in), but v1 ships lexical BM25 only.</li>
+    <div class="head col"><span class="eyebrow">Ingestion</span></div>
+    <p class="col">In order to keep Perceptive at the forefront of investing, I wanted to explore the possibility of building a system that can answer questions about the companies we&rsquo;re interested in based on the most recent information in the world. For example, a new FDA trial comes out, we may ask &ldquo;how does that affect our existing investments?&rdquo; If a portfolio company published their financials, we ask &ldquo;how can we compare this to their previous performance?&rdquo; In order to do this, we need to consistently be pulling the latest information from the open internet from a number of sources. This demo pulls information from:</p>
+
+    <ul class="sources col" style="max-width: none">
+      <li><b>SEC EDGAR</b> &mdash; company filings (10-K, 10-Q, 8-K, etc.)</li>
+      <li><b>SEC EDGAR XBRL</b> (companyfacts API) &mdash; structured numeric financials</li>
+      <li><b>ClinicalTrials.gov</b> (v2 API) &mdash; trial registrations and results</li>
+      <li><b>openFDA</b> &mdash; drug labels, FAERS adverse events, Drugs@FDA</li>
+      <li><b>PubMed</b> (NCBI E-utilities) &mdash; published literature</li>
+      <li><b>Europe PMC</b> &mdash; preprints (bioRxiv/medRxiv)</li>
+      <li><b>PubChem</b> (PUG-REST) &mdash; compound/chemistry data</li>
+      <li><b>CDC</b> (data.cdc.gov) &mdash; common-disease epidemiology</li>
+      <li><b>Orphanet / Orphadata</b> &mdash; rare-disease prevalence</li>
+      <li><b>CMS Medicare Part D</b> &mdash; Spending by Drug</li>
+      <li><b>CMS Medicare Part B ASP</b> &mdash; Average Sales Price pricing</li>
+      <li><b>Medicaid NADAC</b> &mdash; National Average Drug Acquisition Cost</li>
     </ul>
+
+    <p class="col" style="margin-top: var(--s3)">To do this, this demo uses an ingestion script that polls these sources and ingests the latest entries via an API endpoint. Currently, it&rsquo;s driven by a CLI command, but we&rsquo;d want to set this up as a cron-job that runs every day automatically.</p>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Retrieval-augmented generation</span></div>
+    <div class="col stack">
+      <p>Ingestion helps us solve the problem of getting all of the data we need. But now we need to utilize it as part of our investment process. How can we get an analyst to see the information they need? If we utilize LLMs like Claude and ChatGPT to build theses of an investment memo, how can we get them to work with the latest information we have?</p>
+      <p>The system that helps us build this is called retrieval-augmented generation (RAG). It&rsquo;s fairly self-explanatory, we augment the generation that the large-language model does by retrieving certain information.</p>
+      <p>Retrieval-augmented generation is actually a simple system. It goes through the following steps:</p>
+    </div>
+
+    <ol class="steps col">
+      <li>Indexing
+        <ul>
+          <li>We grab all of the information that we have in our corpus (EDGAR, Clinical Trials, &hellip;) and build a searchable index over it.</li>
+          <li>The standard approach is to generate &ldquo;embeddings&rdquo;, a vectorized representation of the underlying data, and index those.</li>
+          <li>For this demo I used a simpler lexical index, Best Match 25 (BM25), instead of embeddings. Either way, indexing lets us search far faster than a sequential scan over all of the data (this is essentially how the Google search engine works).</li>
+          <li>The outcome is a searchable index of all of the data we have that we can give query words, for example &ldquo;glp1 pills&rdquo; and get all documents related to glp1s in an efficient fashion.</li>
+        </ul>
+      </li>
+      <li>Retrieval
+        <ul>
+          <li>Retrieval is the first step that happens after we give the LLM a generation task.</li>
+          <li>The LLM gets a prompt like &ldquo;Build me a memo on AbbVie based on its Humira drug&rdquo;. It takes it and splits up the prompt to query the index for all documents related to AbbVie, Humira etc.</li>
+        </ul>
+      </li>
+      <li>Generation
+        <ul>
+          <li>Take all of the results of retrieval, and provide it in the context of a LLM API call to create the desired result. Effectively ask the LLM to generate the desired response for us.</li>
+          <li>Prompt engineering has a large impact on this step, when it comes to generating the correctly formed result.</li>
+        </ul>
+      </li>
+      <li>Evaluation
+        <ul>
+          <li>Validate that the response has the desired format and structure.</li>
+          <li>Validate that the response retrieved the desired documents from the corpus.</li>
+        </ul>
+      </li>
+    </ol>
+
+    <div class="col" style="margin-top: var(--s4)">
+      <p style="margin-bottom: var(--s2)">Optimizing RAG to specific workflows is a challenging task, and the machine learning/AI research space has hundreds of papers published on this topic just in the last two years. For context, here are some of the knobs you can turn to tweak how RAG performs:</p>
+      <ul>
+        <li><strong>Embeddings.</strong> I used standard lookup, but we can experiment with much fancier embeddings.</li>
+        <li><strong>Chunking.</strong> Performed chunking based on document structure, for ex FDA trials.</li>
+        <li><strong>Indexing.</strong> I used Best Match 25 (BM25) as an index.</li>
+        <li><strong>Prompt engineering.</strong> Instructed the LLM to produce an investment memo with analysis around peak sales, drug efficacy etc.</li>
+        <li><strong>Context sizes.</strong> Can potentially reduce the size of context passed into the model to &ldquo;focus&rdquo; the model or ensure that it gets more information from the retrieved documents.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="head col"><span class="eyebrow">Data estimates</span></div>
+    <p class="col">The last component of the requested demo was to generate viable estimates for financial benchmarks for each company, for ex. peak sales, rNPV. For this, we utilize basic Python Numpy/Pandas calculations to compute our estimates based on the values extracted from the earlier RAG pipeline. This space needs investment to incorporate multiple methodologies of computing the correct financial estimates. For now, this is subpar compared to Excel DCFs for a company&rsquo;s valuation. I touch on this in the follow-ups section.</p>
   </section>
 
   <section>
@@ -319,7 +450,7 @@
         <li><strong>Known-answer probes</strong> check whether the judge gets clear cases right.</li>
         <li><strong>Known-bad</strong> feeds it a memo with the evidence shuffled and requires the score to drop by a clear margin. A scrambled memo that still scored well would mean the judge measures nothing, so this check runs first to make sure we are reducing the rate of generating false-positive memos.</li>
         <li><strong>Calibration</strong> compares the judge's verdicts to a human's and reports the agreement as a number.</li>
-        <li><strong>A case the checks caught:</strong> a population cited to a real source, but the prevalence of the wrong indication that read cleaner nearby. The epi check now adds a plausibility band and an over-aggregation detector, so a real-but-wrong number gets flagged.</li>
+        <li><strong>A case the checks caught:</strong> the memo pulled a patient-population number from a real source, but it was the prevalence for the wrong disease. The epi check now catches this by making sure the number sits in a sensible range and by spotting counts that have been added up too broadly.</li>
       </ul>
       <ul class="note" style="margin-top: var(--s3); border-left: 2px solid var(--rule-strong); padding-left: var(--s3)">
         <li>Limit: there is no free public feed of analyst consensus. The claim the brief cares about most, where the view departs from the market, is argued from evidence rather than scored against a number.</li>
@@ -328,27 +459,31 @@
   </section>
 
   <section>
+    <div class="head col"><span class="eyebrow">Result</span></div>
+    <div class="result col">
+      <div class="result-row"><span class="lbl">Areas that worked well</span><span class="val">Ingestion, RAG</span></div>
+      <div class="result-row"><span class="lbl">Areas that struggled</span><span class="val">Data estimates</span></div>
+    </div>
+  </section>
+
+  <section>
     <div class="head col"><span class="eyebrow">Follow-ups</span><h2>The valuation math is an area we would invest more into</h2></div>
-    <ul class="col" style="margin-bottom: var(--s3)">
-      <li>The arithmetic is deterministic and repeats. The inputs and the modeling are what need work.</li>
-    </ul>
-    <ul class="col">
-      <li><strong>Two peak-sales inputs are guesses.</strong> Penetration and net price are the two biggest multipliers and both are assumed, so the result swings on them.</li>
-      <li><strong>The data to fix one is already ingested.</strong> CMS ASP and Medicaid NADAC are in the corpus but not read into net price, and there is no list-to-net bridge.</li>
-      <li><strong>Success probability is coarse.</strong> Applied once in the NPV, which is right, but the modeling behind it is thin.</li>
-      <li><strong>The NPV covers the lead asset only,</strong> so it understates the company and should be read as a floor.</li>
+    <ul class="col longform">
+      <li>The calculations for producing the resulting financial estimates are correct. However, there's a wide range of assumptions for some of the values computed. For example, peak sales relies on an estimate for population penetration of a given drug, which can vary wildly. Nailing these values and grounding them in evidence is a problem that can be solved by effectively tuning RAG.</li>
+      <li>Another example is the probability of success number. This is the sort of prediction that an analyst figures out through their own rigorous methodology. Instead, we give a general estimate, most likely because of the model's own guess based on its pretraining data. Eventually, we would want to incorporate some of the research methodologies of Perceptive researchers to truly ground this number in concrete estimates.</li>
+      <li>We compute NPV primarily for the lead asset of a company, whereas most large biotech drug makers have multiple assets that drive significant portions of their revenue. Properly predicting the full estimate for a company's valuation relies on us modelling all assets, which is a natural extension of this demo, just one that we haven't gotten to yet.</li>
     </ul>
   </section>
 
   <section>
     <div class="head col"><span class="eyebrow">Long-term vision</span><h2>Where this goes</h2></div>
-    <ul class="col">
-      <li><strong>Update on every filing.</strong> Re-run when a new filing or readout posts, so the memo refreshes and flags what changed.</li>
-      <li><strong>Cover a whole universe.</strong> Rank and compare many companies at once, and surface where the model's view diverges most from the market's.</li>
-      <li><strong>Better valuation inputs.</strong> Gross-to-net pricing, penetration drawn from real analog launches, and a sum-of-parts across the pipeline, so the number holds up in an IC meeting.</li>
-      <li><strong>Wire in the figures.</strong> Pull the actual chart a claim rests on into the memo, using Stage 1.</li>
-      <li><strong>A held-out eval set.</strong> Plus standing human calibration. Today's scores mostly confirm the harness ran; they do not yet measure whether the memo is right.</li>
-      <li><strong>Use analyst feedback.</strong> Turn the comment and feedback trail into corrections, and feed those back in.</li>
+    <ul class="col longform">
+      <li>Re-run the memo automatically whenever a company files something new or reports trial data, so it always reflects the latest information.</li>
+      <li>Run it across many companies at once, so we can compare them and spot where our view differs most from the market's.</li>
+      <li>Incorporate valuation methodologies from research analysts at Perceptive themselves, so we can evolve our system to produce more reliable predictions over time that have the same investment rigor that we usually use, but always take advantage of the latest data that we've got.</li>
+      <li>Pull the actual charts behind a claim into the memo, connecting this back to the Stage 1 figure work. Make sure that all of these values are properly traceable within our system and provide users the ability to comment and point out issues with our computer vision text extraction over time.</li>
+      <li>Build a proper labeled test set that we hold out and check against human judgment, so a passing score actually means the memo is right. Our corpus being well fleshed out is crucial for us to build strong RAG and good investment theses over time.</li>
+      <li>Make it easy for analysts to comment and feed their edits back into the system, so our engine learns where memos are wrong and improves over time.</li>
     </ul>
   </section>
 
